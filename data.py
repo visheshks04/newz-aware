@@ -41,26 +41,38 @@ class PreProcessor:
         return " ".join(doc)
 
 
-
-
 def scrape_pages(df):
     
     title = []
     body = []
     urls = df['url']
 
-    for url in urls:
+    for i,url in enumerate(urls):
 
-        res = requests.get(url)
+        print(f'On record entry #{i+1}')
+
+        try:
+            res = requests.get(url)
+
+        except:
+            print('Exception occured')
+            title.append('Exception')
+            body.append('Exception')
+
         if res.status_code == 200:
             soup = BeautifulSoup(res.content, 'html.parser')
-
-            title.append(soup.title.text) 
-            body.append(soup.body.text)
+            try:
+                title.append(soup.title.text) 
+                body.append(soup.body.text)
+            except:
+                print('Exception occured')  
+                title.append('Exception')
+                body.append('Exception')
 
         else:
             title.append('NULL')
             body.append('NULL')
+
         
     df['title'] = title 
     df['body'] = body
