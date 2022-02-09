@@ -1,3 +1,62 @@
+body{
+    margin: 1% 2% 1% 2%;
+    background-color: rgb(248, 246, 193);
+}
+
+header{
+    text-align: center;
+    background-color: steelblue;
+    /* background-image: url("img/riot_image.jpeg"); This needs to be checked */
+    padding: 0.2rem;
+    border: 0.25rem;
+    border-style: solid;
+    font-family: monospace;
+    font-size: 140%;
+}
+
+footer{
+    text-align: center;
+    background-color: steelblue;
+    padding: 0.5rem;
+    /* Something left */
+}
+
 img{
-    max-width: 15%;
+    max-width: 35%;
+    display: inline-block;
+}
+
+.news{
+    margin: 2% 0 2% 0;
+    text-align: center;
+}
+
+.article-block{
+    margin: 5% 8% 5% 8%;
+    border: solid;
+    border-radius: 5%;
+    background-color: wheat;
+}
+
+h3{
+    font-family: monospace;
+    font-size: 170%;
+}
+
+.news > a:link{
+    text-decoration: none;
+    color: #000000;
+}
+
+.news > a:visited{
+    text-decoration: none;
+}
+
+.news > a:hover{
+    text-decoration: none;  
+    color:#0f5494; 
+}
+
+.news > a:active{
+    text-decoration: none;
 }

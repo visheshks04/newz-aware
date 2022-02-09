@@ -1,26 +1,36 @@
-import numpy as np
-from flask import Fask,request,jsonify,render_template
-import pickle
+from flask import Flask, render_template
+#import predictor
+import json
+import requests
+
+def get_news():
+
+    # url = 'https://newsapi.org/v2/everything?q=Apple&from=2022-02-08&sortBy=popularity&apiKey=53bb664d5f8e49cebd74327d23c89608'
+    # response = requests.get(url)
+    # return response.json()
+
+    file = open('sampleNews.json', 'r')
+    news = json.load(file)
+
+    return news
 
 
-app= Flask(__name__)
-model = pickle.load(open('model.pkl','rb'))
+app = Flask(__name__)
 
 @app.route('/')
-def home():
-    return render_template('index.html')
+def index():
+    articles = get_news()['articles']
+    titles = [article['title'] for article in articles]
+    url = [article['url'] for article in articles]
+    img = [article['urlToImage'] for article in articles]
 
-@app.route('/predict',methods=['POST'])
+    # predictions = [predict(title) for title in titles]
+    predictions = [0]*len(articles)
 
-def predict():
+    list_of_articles = list(zip(titles, url, img, predictions))
     
-    int_features = [int(x) for x in request.form.values()]
-    final_features = [np.array(int_features)]
-    prediction_left = model.predict(final_features)
-    prediction_right = 1-prediction_left
-    
+    return render_template('index.html', articles = list_of_articles)
 
-    return render_template('index.html',  prediction_text=f'News is {prediction_right*100}% Right Bias and {prediction_left*100}% Left Bias')
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)

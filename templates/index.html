@@ -9,21 +9,27 @@
 </head>
 
 <body>
-    
-    <h1>NewzAWARE</h1>
-    <h2>Bringing the Truth out</h2>
-    
-    <div>
+    <header>
+        <h1>NewzAWARE</h1>
+        <h2>Bringing the Truth out</h2>
+    </header>
+
+    <div class='news'>
         {% for title, url, img, pred in articles %}
-
-        <a href="{{url}}">
-            <img src="{{img}}" alt="">
-            <h3>{{title}}</h3>
+        <a class='article-link' href="{{url}}">
+        <div class='article-block'>
+            
+                <img src="{{img}}" alt="">
+                <h3>{{title}}</h3>
+                <h3>{{pred}}% bias predicted</h3>
+            </div>
         </a>
-        <h3>{{pred}}% bias predicted</h3>
-
         {% endfor %}
     </div>
+
+    <footer>
+        Team: <a class='footer-link' href="https://linkedin.com/in/ambuj-kulshreshtha-527917201/">Ambuj Kulshreshtha</a>, <a href="https://linkedin.com/in/anuj-jain-a2425420b/">Anuj Jain</a>, <a href="https://linkedin.com/in/visheshkumarsingh">Vishesh Kumar Singh</a>
+    </footer>
 
 </body>
 </html>
