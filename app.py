@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-#import predictor
+#from predictor import predict
 import json
 import requests
 
