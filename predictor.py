@@ -11,13 +11,13 @@ def predict(text):
     preproc = PreProcessor()
     text = preproc.forward(text)
 
-    vectorizer = joblib.load('tfidf_for_fakenews.pkl')
+    vectorizer = joblib.load('tfidf_for_bias.pkl')
     text = vectorizer.transform([text])
 
     text = torch.Tensor(text.toarray())
 
     model = Model()
-    model = torch.load('fake_model_l.pt')
+    model = torch.load('bias_model.pt')
     model.eval()
 
     y_pred = []
@@ -28,3 +28,6 @@ def predict(text):
     fakeness = f'Fakeness Probability: {y_pred[0].item()*100:0.2f}%'
 
     return fakeness
+
+if __name__ == '__main__':
+    predict(text)
