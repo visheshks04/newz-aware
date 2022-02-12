@@ -1,11 +1,8 @@
-import sys
 import torch
+from torch.nn import Softmax
 from model import Model
 from data import PreProcessor
 import joblib
-
-text = sys.argv[1]
-
 
 def predict(text):
     preproc = PreProcessor()
@@ -13,13 +10,13 @@ def predict(text):
 
     vectorizer = joblib.load('tfidf_for_bias.pkl')
     text = vectorizer.transform([text])
-
+    print(text.shape)
     text = torch.Tensor(text.toarray())
-
+    print(text.shape)
     model = Model()
     model = torch.load('bias_model.pt')
     model.eval()
-
+    print(model.parameters())
     y_pred = []
 
     for i, data in enumerate(text):
@@ -30,4 +27,5 @@ def predict(text):
     return fakeness
 
 if __name__ == '__main__':
-    predict(text)
+    text = input()
+    prediction = predict(text)
