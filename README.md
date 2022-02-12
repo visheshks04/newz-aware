@@ -1,5 +1,13 @@
 # newz-aware
 
+The growing problem in today's media is that almost every media outlet has some side of political bias to it. There is hardly any media website/channel that is 'neutral' in the true sense. Each one of them is split between either Right or Left. And this really creates an issue for the readers who are not, at the first glance, aware of the biases. This not only causes misunderstanding but also, on its extreme, can cause situations like riots.
+
+Our idea was to help a reader understand and be aware of the kind of bias they are consuming. To do this, we thought of using predictive modeling to detect the bias of media sources. The data that we are using is centric to the political discourse in the USA. It is a crowdsourced dataset that has opinions of both sides (democrats and republicans) on a number of news articles. After building the model. We have a Flask App which fetches the latest news updates from News API (newsapi.org) and displays it along with the bias predicted.
+
+For now, we don't believe it's perfect and we hope to improve and make it better in the future. Possible improvements could be, a more accurate model, a better UI that may also have separate categories for news portals, or different categories for according to the biases.
+
+## Website
+
 Dataset for bias detection: https://deepblue.lib.umich.edu/data/concern/data_sets/8w32r569d?locale=en
 
 There were seven fields in the dataset:
