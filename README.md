@@ -43,11 +43,17 @@ The model is then trained using these three labels.
     `python -m spacy download en_core_web_sm`
 
 5. One must run the `app.py` to get the website running. The rest of the directory structure is as follows:
+
     `static/` and `template/` folders are for the Flask app.
+
     `data.py` contains code to preprocess and scrape the dataset.
+
     `predicter.py` is the prediction module that can be used to predict for new data.
+
     `naiveBayesModel.pkl` and `tfidf_for_bias.pkl` are the saved prediction model and TF-IDF vectorizer, respectively.
+
     `TrainingData/` contains the data used for training, both raw and processed.
+    
     `NaiveBayesmodelPrep.ipynb` is the notebook used for training the model on colab.
 
 ## Our Team:
