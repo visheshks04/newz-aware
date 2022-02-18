@@ -1,18 +1,20 @@
 from flask import Flask, render_template
-#from predictor import predict
+from predictor import predict
 import json
 import requests
 
 def get_news():
 
-    # url = 'https://newsapi.org/v2/everything?q=Apple&from=2022-02-08&sortBy=popularity&apiKey=53bb664d5f8e49cebd74327d23c89608'
-    # response = requests.get(url)
-    # return response.json()
+    url = 'https://newsapi.org/v2/everything?q=Apple&from=2022-02-08&sortBy=popularity&apiKey=53bb664d5f8e49cebd74327d23c89608'
+    response = requests.get(url)
+    return response.json()
 
-    file = open('sampleNews.json', 'r')
-    news = json.load(file)
 
-    return news
+    # For testing models use the code below as sample news to avoid large number of API calls
+    # file = open('sampleNews.json', 'r')
+    # news = json.load(file)
+
+    # return news
 
 
 app = Flask(__name__)
@@ -24,8 +26,18 @@ def index():
     url = [article['url'] for article in articles]
     img = [article['urlToImage'] for article in articles]
 
-    # predictions = [predict(title) for title in titles]
-    predictions = [0]*len(articles)
+    predictions = [predict(title) for title in titles]
+
+    for i,pred in enumerate(predictions):
+        if pred == 0:
+            predictions[i] = 'Right'
+
+        elif pred == 1:
+            predictions[i] = 'Neutral'
+
+        else:
+            predictions[i] = 'Left'
+
 
     list_of_articles = list(zip(titles, url, img, predictions))
     
