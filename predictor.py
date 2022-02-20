@@ -1,17 +1,21 @@
+from numpy import argmax
 from data import PreProcessor
-import joblib
+import tensorflow as tf
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.preprocessing.text import one_hot
 
 def predict(text):
     preproc = PreProcessor()
     text = preproc.forward(text)
+    text = one_hot(text, 10000)
+    print(text)
+    embedded_docs = pad_sequences([text], padding='pre', maxlen = 20)
+    print(embedded_docs)
 
-    vectorizer = joblib.load('tfidf_for_bias.pkl')
-    text = vectorizer.transform([text])
-
-    classifier = joblib.load('naiveBayesModel.pkl')
+    classifier = tf.keras.models.load_model('LSTMModel')
     pred = classifier.predict(text)
 
-    return pred[0]
+    return tf.math.argmax(pred)
 
 if __name__ == '__main__':
     text = input()
