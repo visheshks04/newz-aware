@@ -55,9 +55,3 @@ The model is then trained using these three labels.
     `TrainingData/` contains the data used for training, both raw and processed.
     
     `NaiveBayesmodelPrep.ipynb` is the notebook used for training the model on colab.
-
-## Our Team:
-
-1. Vishesh Kumar Singh (https://github.com/visheshks04)
-2. Anuj Jain (https://github.com/anuj1160)
-3. Ambuj Kulshreshtha (https://github.com/ambuj-1211)
