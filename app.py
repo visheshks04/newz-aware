@@ -5,16 +5,16 @@ import requests
 
 def get_news():
 
-    url = 'https://newsapi.org/v2/everything?q=Apple&from=2022-02-08&sortBy=popularity&apiKey=53bb664d5f8e49cebd74327d23c89608'
-    response = requests.get(url)
-    return response.json()
+    # url = 'https://newsapi.org/v2/everything?q=Apple&from=2022-02-08&sortBy=popularity&apiKey=53bb664d5f8e49cebd74327d23c89608'
+    # response = requests.get(url)
+    # return response.json()
 
 
     # For testing models use the code below as sample news to avoid large number of API calls
-    # file = open('sampleNews.json', 'r')
-    # news = json.load(file)
+    file = open('sampleNews.json', 'r')
+    news = json.load(file)
 
-    # return news
+    return news
 
 
 app = Flask(__name__)

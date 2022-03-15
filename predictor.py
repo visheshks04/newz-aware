@@ -13,9 +13,10 @@ def predict(text):
     print(embedded_docs)
 
     classifier = tf.keras.models.load_model('LSTMModel')
-    pred = classifier.predict(text)
+    pred = classifier.predict(embedded_docs)
+    print(pred)
 
-    return tf.math.argmax(pred)
+    return tf.math.argmax(pred[0])
 
 if __name__ == '__main__':
     text = input()
