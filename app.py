@@ -5,8 +5,10 @@ import requests
 
 def get_news():
 
-    # url = 'https://newsapi.org/v2/everything?q=Apple&from=2022-02-08&sortBy=popularity&apiKey=53bb664d5f8e49cebd74327d23c89608'
+    # url = 'https://newsapi.org/v2/top-headlines?country=us&category=politics&apiKey=53bb664d5f8e49cebd74327d23c89608'
     # response = requests.get(url)
+    # with open('sampleNews.json', 'w') as f:
+    #     json.dump(response.json(), f, indent=4)
     # return response.json()
 
 
