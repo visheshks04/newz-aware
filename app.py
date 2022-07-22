@@ -5,18 +5,18 @@ import requests
 
 def get_news():
 
-    # url = 'https://newsapi.org/v2/top-headlines?country=us&category=politics&apiKey=53bb664d5f8e49cebd74327d23c89608'
-    # response = requests.get(url)
-    # with open('sampleNews.json', 'w') as f:
-    #     json.dump(response.json(), f, indent=4)
-    # return response.json()
+    url = 'https://newsapi.org/v2/top-headlines?country=us&category=politics&apiKey=53bb664d5f8e49cebd74327d23c89608'
+    response = requests.get(url)
+    with open('sampleNews.json', 'w') as f:
+        json.dump(response.json(), f, indent=4)
+    return response.json()
 
 
-    # For testing models use the code below as sample news to avoid large number of API calls
-    file = open('sampleNews.json', 'r')
-    news = json.load(file)
+    # For testing the app use the code below as sample news to avoid large number of API calls
+    # file = open('sampleNews.json', 'r')
+    # news = json.load(file)
 
-    return news
+    # return news
 
 
 app = Flask(__name__)
@@ -47,4 +47,4 @@ def index():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()

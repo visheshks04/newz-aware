@@ -6,7 +6,9 @@ Our idea was to help a reader understand and be aware of the kind of bias they a
 
 For now, we don't believe it's perfect and we hope to improve and make it better in the future. Possible improvements could be, a more accurate model, a better UI that may also have separate categories for news portals, or different categories for according to the biases.
 
-## Website
+## Model
+
+The Colab notebook can also be seen here: https://colab.research.google.com/drive/1jJodHw2iRdnTw_c0obmLNZPg1fPbNlcn?usp=sharing
 
 Dataset for bias detection: https://deepblue.lib.umich.edu/data/concern/data_sets/8w32r569d?locale=en
 
