@@ -4,6 +4,110 @@
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tina Burnside",
+            "title": "1 killed and several injured in shooting in downtown Renton, Washington, police say - CNN",
+            "description": "At least one person was killed and five others were injured in a shooting in the Seattle suburb of Renton early Saturday morning, police said.",
+            "url": "https://www.cnn.com/2022/07/23/us/renton-washingtonshooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220723052054-01-renton-washington-shooting-map.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-07-23T11:50:00Z",
+            "content": "At least one person was killed and five others were injured in a shooting in the Seattle suburb of Renton early Saturday morning, police said. \r\nOfficers responded to shots fired in downtown Renton j\u2026 [+542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Woeful Red Sox concede inside-the-park grand slam in record 28-5 loss to Jays - The Guardian",
+            "description": "Raimel Tapia hit an inside-the-park grand slam and the Toronto Blue Jays set a franchise record for runs, rolling past the Red Sox 28-5 on Friday night",
+            "url": "https://amp.theguardian.com/sport/2022/jul/23/boston-red-sox-toronto-blue-jays-28-5-inside-the-park-grand-slam-baseball",
+            "urlToImage": null,
+            "publishedAt": "2022-07-23T11:03:00Z",
+            "content": "MLB<ul><li>Boston have given up 55 runs in last three games</li><li>Series of miscues help Toronto to huge victory</li></ul>\r\nSat 23 Jul 2022 11.43 BST\r\nRaimel Tapia put his head down and started a s\u2026 [+4474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Michael Schwirtz, Erika Solomon",
+            "title": "Russia-Ukraine War News: Live Updates - The New York Times",
+            "description": "A Ukrainian official said that Russian strikes had caused 10 explosions in Odesa on Saturday, one day after the warring sides agreed to a deal to help transport millions of tons of grain out of that port and others on the Black Sea.",
+            "url": "https://www.nytimes.com/live/2022/07/23/world/ukraine-war-russia",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/23/world/23ukraine-briefing-promo630am-et/merlin_210463986_75e4914d-784d-4936-af24-f1d50773a9c3-facebookJumbo.jpg",
+            "publishedAt": "2022-07-23T10:32:37Z",
+            "content": "Workers unloaded sacks of grain at a market in Addis Ababa, Ethiopia, last month.Credit...Eduardo Soteras/Agence France-Presse Getty Images\r\nNAIROBI, Kenya The effects of the war in Ukraine have reve\u2026 [+4337 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob Picheta, Jomana Karadsheh, Radina Gigova and Tim Lister, CNN",
+            "title": "Kyiv and Moscow agree deal to resume Ukraine grain exports from Black Sea ports - CNN",
+            "description": "Ukraine and Russia have agreed a deal that would allow the resumption of vital grain exports from Ukrainian Black Sea ports, a major diplomatic breakthrough aimed at easing a global food crisis sparked by the war.",
+            "url": "https://www.cnn.com/2022/07/22/europe/ukraine-russia-grain-deal-turkey-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220712122657-01-russia-grain-blockade-super-tease.jpg",
+            "publishedAt": "2022-07-23T09:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Andrew Jeong",
+            "title": "Bannon attacks Jan. 6 committee on Fox News after Congress contempt conviction - The Washington Post",
+            "description": "On Tucker Carlson's Fox News show, ex-Trump adviser Steve Bannon appeared to threaten Jan. 6 committee staffers with an investigation into their work.",
+            "url": "https://www.washingtonpost.com/politics/2022/07/23/steve-bannon-jan-6-tucker-carlson/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHBS3DQJ7II63AFWIPZL7TDGMI.jpg&w=1440",
+            "publishedAt": "2022-07-23T09:39:00Z",
+            "content": "Comment on this story\r\nHours after being convicted of contempt of Congress on Friday for refusing to cooperate with the House committee investigating the Jan. 6, 2021, insurrection, Stephen K. Bannon\u2026 [+3722 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Landon Mion",
+            "title": "Newsom signs gun control bill modeled after Texas abortion law - Fox News",
+            "description": "California Gov. Gavin Newsom signed gun legislation inspired by Texas' heartbeat law, now allowing private citizens to sue those who violate state gun restrictions.",
+            "url": "https://www.foxnews.com/politics/newsom-signs-gun-control-bill-modeled-texas-abortion-law",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/gavin-newsom-california.jpg",
+            "publishedAt": "2022-07-23T08:59:54Z",
+            "content": "California Democratic Gov. Gavin Newsom on Friday signed a gun control bill into law that will allow private citizens to sue anyone who manufactures, sells, transports or distributes illegal \"assault\u2026 [+4152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "'Godfather' Star James Caan Died from Heart Attack - TMZ",
+            "description": "'Godfather' star James Caan died as a result of a heart attack.",
+            "url": "https://www.tmz.com/2022/07/23/james-caan-cause-death-revealed-heart-attack-godfather/",
+            "urlToImage": "https://imagez.tmz.com/image/f1/16by9/2022/07/22/f180b2cb075e4bdca529e6b2918215b6_xl.jpg",
+            "publishedAt": "2022-07-23T08:00:00Z",
+            "content": "Legendary actor James Caan died from a combination of serious heart problems ... according to his death certificate.\r\nThe document, obtained by TMZ, says James died from a heart attack and coronary a\u2026 [+710 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Adam Kilgore",
+            "title": "Sydney McLaughlin shatters 400-meter hurdles world record - The Washington Post",
+            "description": "The 22-year-old from New Jersey left no doubt as she finished in 50.68 seconds at the track and field world championships.",
+            "url": "https://www.washingtonpost.com/sports/olympics/2022/07/22/sydney-mclaughlin-400-meter-hurdles-world-record/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIIXD33KVFCPFBIRVEAYLP4AEQ.jpg&w=1440",
+            "publishedAt": "2022-07-23T06:38:00Z",
+            "content": "Comment on this story\r\nEUGENE, Ore. On Wednesday evening, Edwin Moses meandered to the warmup track as the women got ready for the semifinals of the 400-meter hurdles, the race that made him one of t\u2026 [+9945 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "New York Post"
             },
@@ -17,81 +121,81 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "KCRA Sacramento"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Jonathan Ayestas",
-            "title": "Oak Fire: Fast-moving flames force more Mariposa County residents to evacuate - KCRA Sacramento",
-            "description": "A fire that sparked Friday afternoon in Mariposa County has forced immediate evacuations for nearby residents, officials said.",
-            "url": "https://www.kcra.com/article/oak-fire-evacuation-order-midpines-mariposa-county/40693441",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-image-7-1658550194.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-            "publishedAt": "2022-07-23T06:27:00Z",
-            "content": "MIDPINES, Calif. \u2014A fire that sparked Friday afternoon in Mariposa County has forced immediate evacuations for nearby residents, officials said. \r\nThe Oak Fire started sometime after 2:30 p.m. near H\u2026 [+4290 chars]"
+            "author": "Tina Burnside",
+            "title": "Mega Millions jackpot swells to $790 million after no lottery ticket drew all 6 winning numbers - CNN",
+            "description": "The Mega Millions jackpot has surged to a whopping $790 million after no ticket matched all six winning numbers in Friday night's drawing.",
+            "url": "https://www.cnn.com/2022/07/23/us/mega-millions-jackpot-friday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220723013615-01-mega-millions-no-winner-july-22.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-07-23T06:25:00Z",
+            "content": "The Mega Millions jackpot has surged to a whopping $790 million after no ticket matched all six winning numbers in Friday nights drawing. \r\nFridays winning numbers were 14, 40, 60, 64, 66, plus the g\u2026 [+1213 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi, CNN",
+            "title": "Oppressive heat will bake much of the US this weekend, with the Northeast expected to see triple-digit temperatures - CNN",
+            "description": "Relentless, oppressive heat will grip much of the US this weekend, with the Northeast region expected to bear the brunt amid forecasts for near-record temperatures across the region.",
+            "url": "https://www.cnn.com/2022/07/23/weather/us-extreme-heat-saturday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220722234506-01-us-extreme-heat-saturday-super-tease.jpg",
+            "publishedAt": "2022-07-23T05:36:00Z",
+            "content": "(CNN)Relentless, oppressive heat will grip much of the US this weekend, with the Northeast region expected to bear the brunt amid forecasts for near-record temperatures across the region. \r\nNearly 80\u2026 [+4599 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Nolan King",
+            "title": "Bellator 283 results: Jason Jackson sweeps scorecards vs. Douglas Lima in uneventful main event - MMA Junkie",
+            "description": "The Bellator 283 main event consisted largely of Jason Jackson in Douglas Lima\u2019s guard.",
+            "url": "https://mmajunkie.usatoday.com/2022/07/bellator-283-results-douglas-lima-vs-jason-jackson",
+            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2022/07/Jason-Jackson-def.-Douglas-Lima-Bellator-283-10.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2022-07-23T04:14:00Z",
+            "content": "It wasn\u2019t the most rock \u2019em, sock \u2019em fight in Bellator history, but a win is a win for Jason Jackson\u2019s record.\r\nIn the Bellator 283 main event Friday, Jackson (16-4 MMA, 7-1 BMMA) defeated former we\u2026 [+3643 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Calvin Woodward",
+            "title": "Jan. 6 hearings traced an arc of 'carnage' wrought by Trump - The Associated Press - en Espa\u00f1ol",
+            "description": "WASHINGTON (AP) \u2014 To understand how Donald Trump\u2019s desperation and lies became a potent danger to democracy, consider the ginger mints. Mints featured in one of the absurdist but toxic episodes fleshed out in the Jan.",
+            "url": "https://apnews.com/article/Jan-6-hearings-Trump-capitol-10351fe6d555eaee7554379ceed8bb24",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cad5ea10ce0445ca8527e028398afbb7/1920.jpeg",
+            "publishedAt": "2022-07-23T04:06:52Z",
+            "content": "WASHINGTON (AP) To understand how Donald Trumps desperation and lies became a potent danger to democracy, consider the ginger mints.\r\nMints featured in one of the absurdist but toxic episodes fleshed\u2026 [+18874 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Brian Witte",
+            "title": "Author Wes Moore wins Democratic race for Maryland governor - The Associated Press",
+            "description": "ANNAPOLIS, Md. (AP) \u2014 Bestselling author Wes Moore won the Democratic primary for Maryland governor on Friday, setting up a general election contest against Republican Dan Cox , a hard-line conservative endorsed by former President Donald Trump.",
+            "url": "https://apnews.com/article/2022-midterm-elections-entertainment-donald-trump-larry-hogan-cdacc45d4f3cc6f65d14357d0ae86c64",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d8ea8c42a19344e985cfdd580979a89e/3000.jpeg",
+            "publishedAt": "2022-07-23T03:17:04Z",
+            "content": "ANNAPOLIS, Md. (AP) Bestselling author Wes Moore won the Democratic primary for Maryland governor on Friday, setting up a general election contest against Republican Dan Cox, a hard-line conservative\u2026 [+6172 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Daily Beast"
             },
-            "author": null,
-            "title": "Sydney McLaughlin reveals 1) the story behind her unbelievable 50.68; 2) she's switching events? - NBC Sports",
-            "description": "Sydney McLaughlin discusses her incredible world record winning 400m hurdles race, how she thought she'd go lower, and what might be next for her on the trac...",
-            "url": "https://www.youtube.com/watch?v=4TCXgy_DmnM",
-            "urlToImage": "https://i.ytimg.com/vi/4TCXgy_DmnM/maxresdefault.jpg",
-            "publishedAt": "2022-07-23T04:05:47Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Blue Jays score franchise-record 28 runs in blowout win vs. Red Sox, nearly tying modern MLB mark - CBS Sports",
-            "description": "Toronto received at least two hits from every starter, including six from Lourdes Gurriel Jr.",
-            "url": "https://www.cbssports.com/mlb/news/blue-jays-score-franchise-record-28-runs-in-blowout-win-vs-red-sox-nearly-tying-modern-mlb-mark/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/23/f48eb609-cc4d-40b2-ac3e-d0cb44d702e3/thumbnail/1200x675/96510ebf135a9dc14e6a117b51ccf9fe/blue-jays-red-sox.jpg",
-            "publishedAt": "2022-07-23T03:59:00Z",
-            "content": "The Toronto Blue Jays defeated the Boston Red Sox, 28-5, (box score) on Friday night, and both clubs established franchise records for runs scored and allowed. The Blue Jays also tied for the fifth-m\u2026 [+3197 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Adam Bankhurst",
-            "title": "John Wick 4 Trailer Makes a Surprise Appearance at San Diego Comic-Con 2022 - IGN - IGN",
-            "description": "The first trailer and poster for John Wick 4 were revealed at San Diego Comic-Con 2022 and they tease some of the exciting battles Keanu Reeves will get into when this fourth entry arrives in theaters on March 24, 2023.",
-            "url": "https://www.ign.com/articles/john-wick-4-trailer-makes-a-surprise-appearance-at-san-diego-comic-con-2022",
-            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/23/johhn-wick-2-1658546384820.png?width=1280",
-            "publishedAt": "2022-07-23T03:38:09Z",
-            "content": "The first trailer and poster for John Wick 4 were revealed at San Diego Comic-Con 2022 and they tease some of the exciting battles Keanu Reeves will get into when this fourth entry arrives in theater\u2026 [+1635 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Reid J. Epstein",
-            "title": "Wes Moore Wins Democratic Primary for Maryland Governor - The New York Times",
-            "description": "Mr. Moore, a celebrity author and former nonprofit executive, will aim to take back the office for Democrats after eight years under Gov. Larry Hogan, a Republican who is term-limited.",
-            "url": "https://www.nytimes.com/live/2022/07/22/us/primary-elections-midterms",
-            "urlToImage": "https://static01.nyt.com/images/2022/07/22/multimedia/22midterm-briefing-930-promo/22midterm-briefing-930-promo-facebookJumbo.jpg",
-            "publishedAt": "2022-07-23T03:10:08Z",
-            "content": "Days after the Supreme Court overturned the right to abortion, Michigans Republican candidates for governor were asked if it was also time to roll back constitutional protections for gay rights.None \u2026 [+10574 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Julian Duplain, Grace Moon, Kareem Fahim, Robyn Dixon, Claire Parker",
-            "title": "Russia-Ukraine war latest updates - The Washington Post",
-            "description": "The United Nations says a deal Turkey has brokered between Russia and Ukraine will be signed later Friday to allow exports of grain from blockaded Ukrainian ports.",
-            "url": "https://www.washingtonpost.com/world/2022/07/22/russia-ukraine-war-latest-updates/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SYWF6OHTFUI6ZLAWR67XDFGNPA.jpg&w=1440",
-            "publishedAt": "2022-07-23T02:49:00Z",
-            "content": null
+            "author": "Zachary Petrizzo",
+            "title": "Josh Hawley Pledges to Not 'Run,' After Being Caught Running From Trump Mob - The Daily Beast",
+            "description": "The irony was lost on the Yale Law School graduate turned Republican senator.",
+            "url": "https://www.thedailybeast.com/josh-hawley-pledges-to-not-run-after-being-caught-running-from-trump-mob",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1658543495/GettyImages-1410357596_qqpaya",
+            "publishedAt": "2022-07-23T02:37:51Z",
+            "content": "On Thursday evening, the Jan. 6 committee played stunning footage of Senator Josh Hawley (R-MO) running away from a mob of pro-Trump vigilantes that he was seen riling up just hours earlier.\r\nDespite\u2026 [+1521 chars]"
         },
         {
             "source": {
@@ -108,42 +212,42 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Daniela Gonzalez-Roman, CNN",
-            "title": "Brazil charges three men over killings of British journalist and indigenous expert - CNN",
-            "description": "Authorities in Brazil have charged three men with \"aggravated double homicide and concealment of a corpse\" following the disappearance last month of British journalist Dom Philips and Brazilian indigenous expert Bruno Pereira.",
-            "url": "https://www.cnn.com/2022/07/22/americas/brazillian-prosecutors-dom-philips-bruno-pereira-intl-hnk/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220616125124-dom-phillips-and-bruno-pereira-split-super-tease.jpg",
-            "publishedAt": "2022-07-23T01:07:00Z",
+            "author": null,
+            "title": "Stephanie McMahon and the WWE Universe give thanks to Mr. McMahon: SmackDown, July 22, 2022 - WWE",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2-5HEm9DMXU",
+            "urlToImage": null,
+            "publishedAt": "2022-07-23T02:00:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Shayna Jacobs",
-            "title": "Joey David George charged with racist threats at Tops in Buffalo, other stores - The Washington Post",
-            "description": "Authorities have accused Joey David George of making multiple threats against Black people at businesses in Buffalo and elsewhere.",
-            "url": "https://www.washingtonpost.com/nation/2022/07/22/joey-george-buffalo-race-threats-tops/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IOAD56QEQMI63C7LFNHEQGYVAA.jpg&w=1440",
-            "publishedAt": "2022-07-23T00:05:00Z",
-            "content": "Comment on this story\r\nA man from the Seattle area has been charged with threatening to kill Black people at a Tops Friendly Markets store in Buffalo, days after another Tops location the site of a M\u2026 [+3567 chars]"
+            "author": null,
+            "title": "Multiversus Developers on Designing Lebron James | Comic Con 2022 - IGN",
+            "description": "The developers of truly bonkers fighting game Multiversus continue making it MORE bonkers. After the announcement of Lebron James and Rick and Morty being ad...",
+            "url": "https://www.youtube.com/watch?v=xQN37RxCC7o",
+            "urlToImage": "https://i.ytimg.com/vi/xQN37RxCC7o/hqdefault.jpg",
+            "publishedAt": "2022-07-23T01:22:14Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Hollywood Life"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Cassie Gill",
-            "title": "Jennifer Lopez & Ben Affleck Hold Hands As They Head To Dinner In Paris With Their Kids - HollywoodLife",
-            "description": "Another night in Paris! J.Lo and Ben Affleck were joined by kids Emme, Seraphina and Violet for dinner on July 22.",
-            "url": "https://hollywoodlife.com/2022/07/22/jennifer-lopez-ben-affleck-paris-holding-hands-photos-video/",
-            "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2022/07/B9828D77-0A41-4602-9BFE-5CDDA7223815.jpeg",
-            "publishedAt": "2022-07-22T23:55:00Z",
-            "content": "View gallery\r\nJennifer Lopez\u00a0and\u00a0Ben Affleck are taking Paris by storm! The Bronx native, 52, and her new husband, 49, looked so in love as they held hands heading to the trendy Manko restaurant on J\u2026 [+2113 chars]"
+            "author": "Elizia Volkmann",
+            "title": "Police arrest leading gay activist in crackdown on Tunisia rally - Al Jazeera English",
+            "description": "Young people join anti-Saied demonstrations amid growing anger at president\u2019s proposed new constitution.",
+            "url": "https://www.aljazeera.com/news/2022/7/23/police-arrest-leading-gay-activist-in-crackdown-on-tunisia-rally",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/2022-07-22T182324Z_28149178_RC26HV9272EO_RTRMADP_3_TUNISIA-POLITICS-REFERENDUM-PROTESTS.jpg?resize=1200%2C630",
+            "publishedAt": "2022-07-23T00:38:47Z",
+            "content": "Tunis, Tunisia Police have arrested a leading gay rights campaigner in a violent pushback against young people during a rally against the upcoming referendum on the Tunisian presidents newly proposed\u2026 [+4666 chars]"
         },
         {
             "source": {
@@ -157,110 +261,6 @@
             "urlToImage": "https://images.wsj.net/im-589253/social",
             "publishedAt": "2022-07-22T23:47:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Mark Morales, CNN",
-            "title": "Off-duty New York correction officer charged in connection to fatal shooting of 18-year-old in the Bronx - CNN",
-            "description": "An off-duty New York City correction officer who allegedly shot a teen in the face was formally charged Friday with murder and manslaughter, authorities said.",
-            "url": "https://www.cnn.com/2022/07/22/us/new-york-correction-officer-fatal-shooting/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220722141239-bronx-shooting-map-super-tease.jpeg",
-            "publishedAt": "2022-07-22T23:38:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "Microsoft upgrades Office security by blocking VBA macros by default - The Verge",
-            "description": "Microsoft Office is rolling out a long-awaited change. Now the default setting stops people from opening files they\u2019ve downloaded that contain macros, which could be used by hackers to steal data or install ransomware.",
-            "url": "https://www.theverge.com/2022/7/22/23274905/microsoft-office-block-macros-security-malware-default-warning",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hpes8tr1sPZGMmIaIUT1aJhlAdI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10300141/acastro_180226_0001.jpg",
-            "publishedAt": "2022-07-22T23:37:18Z",
-            "content": "The change started rolling out this week to try to stop people from opening malware-laden files.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nI\u2026 [+3121 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Suspect arrested in \"ambush\" shooting which left 1 Rochester police officer dead, second wounded - CBS News",
-            "description": "The officers were sitting in a parked car when the suspect approached from behind and fired 17 rounds. A teen girl was also wounded.",
-            "url": "https://www.cbsnews.com/news/rochester-new-york-police-shooting-officer-anthony-mazurkiewicz-killed-suspect-arrested/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/10/22/ff9c4cb3-8c7b-4180-ae49-596b31dc89b4/thumbnail/1200x630/269009b5bca15082f6e6a3f0f477e1cb/gettyimages-88961749.jpg",
-            "publishedAt": "2022-07-22T23:36:00Z",
-            "content": "A suspect has been arrested in an \"ambush\" shooting Thursday night in which one police officer was killed and a second wounded in Rochester, New York, officials said. The officers were sitting in a p\u2026 [+2489 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Robert Legare",
-            "title": "Steve Bannon guilty of criminal contempt of Congress - CBS News",
-            "description": "Bannon faced criminal contempt of Congress charges for refusing to comply with a subpoena for documents and testimony issued by the House Jan. 6 select committee.",
-            "url": "https://www.cbsnews.com/news/steve-bannon-verdict-jan-6-criminal-contempt-congress-trial/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/22/3f4aa245-c57a-49ef-a7a0-70b6ae770c4a/thumbnail/1200x630/b92eab102480e6f4d4fd41e7a8fad96c/gettyimages-1410149902.jpg",
-            "publishedAt": "2022-07-22T23:22:00Z",
-            "content": "Washington \u2014 Steve Bannon, Donald Trump's one-time top campaign aide and chief White House strategist, has been found guilty of two counts of criminal contempt of Congress for refusing to comply with\u2026 [+6003 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Tania Ganguli",
-            "title": "NBA Campaign to Free Brittney Griner Is Mostly Low Key - The New York Times",
-            "description": "Griner, the W.N.B.A. star, has been detained in Russia since February. The N.B.A., which founded the women\u2019s league in 1996, has said it is working behind the scenes to help Griner.",
-            "url": "https://www.nytimes.com/2022/07/22/sports/basketball/nba-brittney-griner-russia.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/07/22/sports/22nba-griner-silver/22nba-griner-silver-facebookJumbo.jpg",
-            "publishedAt": "2022-07-22T23:16:32Z",
-            "content": "Tamika Tremaglio, the executive director of the N.B.A. players union, said she had been in contact with Terri Jackson, the executive director of the W.N.B.A.s players union, since just after news bro\u2026 [+1027 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "Investor's Business Daily",
-            "title": "Market Rally Faces Earnings Wave, Big Fed Rate Hike; What To Do - Investor's Business Daily",
-            "description": "Several stocks flashing buy signals have had quick sell-offs, forcing tough decisions.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-fed-rate-hike-headline-huge-market-week-what-to-do-now/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-BigWavePipe-08-adobe.jpg",
-            "publishedAt": "2022-07-22T22:41:00Z",
-            "content": "Dow Jones futures will open on Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally had strong gains last week, breaking above some key resistance. Techs pulled b\u2026 [+7977 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Audrey Washington",
-            "title": "\u2018Anybody can get it\u2019: Doctors urge people to take precautions as monkeypox cases rise 50% in a week - Yahoo News",
-            "description": "Although we are seeing higher cases within the gay community, monkeypox is not just exclusive to men who have sex with other men.",
-            "url": "https://news.yahoo.com/anybody-doctors-urge-people-precautions-213118884.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/bMmWLDKff6DDbUNeM9Pm2Q--~B/aD0xNjk7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsb_cox_articles_232/316d0287a8aa061a83b41d9625162137",
-            "publishedAt": "2022-07-22T22:38:59Z",
-            "content": "There are now more than 150 cases of the monkeypox virus in Georgia, according to the Centers for Disease Control and Prevention.\r\nThats up nearly 50% from just last week.\r\nInfectious disease doctors\u2026 [+2362 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Jesse McKinley, Nate Schweber",
-            "title": "Rare Case of Polio Prompts Alarm and an Urgent Investigation in New York - The New York Times",
-            "description": "Health officials in Rockland County offered pop-up polio vaccinations and urged the public to get shots as they investigated whether the disease had spread to others.",
-            "url": "https://www.nytimes.com/2022/07/22/nyregion/rockland-county-polio-unvaccinated.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/07/22/nyregion/22ny-polio/22ny-polio-facebookJumbo.jpg",
-            "publishedAt": "2022-07-22T22:22:38Z",
-            "content": "County officials were alerted to the positive identification of polio by state officials and the Centers for Disease Control and Prevention on Monday night. The county is disclosing little personal i\u2026 [+1383 chars]"
         }
     ]
 }
