@@ -8,7 +8,7 @@ def get_news():
 
     NEWS_API_KEY = os.environ['NEWS_API_KEY']
 
-    url = 'https://newsapi.org/v2/top-headlines?country=us&category=politics&apiKey={NEWS_API_KEY}'
+    url = f'https://newsapi.org/v2/top-headlines?country=us&category=politics&apiKey={NEWS_API_KEY}'
     response = requests.get(url)
     with open('sampleNews.json', 'w') as f:
         json.dump(response.json(), f, indent=4)
