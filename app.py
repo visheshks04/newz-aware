@@ -2,10 +2,13 @@ from flask import Flask, render_template
 from predictor import predict
 import json
 import requests
+import os
 
 def get_news():
 
-    url = 'https://newsapi.org/v2/top-headlines?country=us&category=politics&apiKey=53bb664d5f8e49cebd74327d23c89608'
+    NEWS_API_KEY = os.environ['NEWS_API_KEY']
+
+    url = 'https://newsapi.org/v2/top-headlines?country=us&category=politics&apiKey={NEWS_API_KEY}}'
     response = requests.get(url)
     with open('sampleNews.json', 'w') as f:
         json.dump(response.json(), f, indent=4)
@@ -19,10 +22,8 @@ def get_news():
     # return news
 
 
-app = Flask(__name__)
 
-@app.route('/')
-def index():
+def make_predictions():
     articles = get_news()['articles']
     titles = [article['title'] for article in articles]
     url = [article['url'] for article in articles]
@@ -40,9 +41,19 @@ def index():
         else:
             predictions[i] = 'Left'
 
-
     list_of_articles = list(zip(titles, url, img, predictions))
+
+    return list_of_articles
+
+
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
     
+    list_of_articles = make_predictions()
+
     return render_template('index.html', articles = list_of_articles)
 
 
