@@ -4,263 +4,263 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "KSL.com"
             },
-            "author": "Tina Burnside",
-            "title": "1 killed and several injured in shooting in downtown Renton, Washington, police say - CNN",
-            "description": "At least one person was killed and five others were injured in a shooting in the Seattle suburb of Renton early Saturday morning, police said.",
-            "url": "https://www.cnn.com/2022/07/23/us/renton-washingtonshooting/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220723052054-01-renton-washington-shooting-map.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-07-23T11:50:00Z",
-            "content": "At least one person was killed and five others were injured in a shooting in the Seattle suburb of Renton early Saturday morning, police said. \r\nOfficers responded to shots fired in downtown Renton j\u2026 [+542 chars]"
+            "author": "Anne D'innocenzio, Associated Press",
+            "title": "T-Mobile settles to pay $350M to customers in data breach - KSL.com",
+            "description": "T-Mobile has agreed to pay $350 million to customers affected by a class action lawsuit filed after the company disclosed last August that personal data had been stolen in a cyberattack.",
+            "url": "https://www.ksl.com/article/50445171/t-mobile-settles-to-pay-350m-to-customers-in-data-breach",
+            "urlToImage": "https://img.ksl.com/slc/2885/288594/28859421.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2022-07-23T23:19:32Z",
+            "content": "Estimated read time: 1-2 minutes\r\nNEW YORK T- Mobile has agreed to pay $350 million to customers affected by a class action lawsuit filed after the company disclosed last August that personal data li\u2026 [+1274 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "KCCI Des Moines"
             },
-            "author": "Guardian staff reporter",
-            "title": "Woeful Red Sox concede inside-the-park grand slam in record 28-5 loss to Jays - The Guardian",
-            "description": "Raimel Tapia hit an inside-the-park grand slam and the Toronto Blue Jays set a franchise record for runs, rolling past the Red Sox 28-5 on Friday night",
-            "url": "https://amp.theguardian.com/sport/2022/jul/23/boston-red-sox-toronto-blue-jays-28-5-inside-the-park-grand-slam-baseball",
-            "urlToImage": null,
-            "publishedAt": "2022-07-23T11:03:00Z",
-            "content": "MLB<ul><li>Boston have given up 55 runs in last three games</li><li>Series of miscues help Toronto to huge victory</li></ul>\r\nSat 23 Jul 2022 11.43 BST\r\nRaimel Tapia put his head down and started a s\u2026 [+4474 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Michael Schwirtz, Erika Solomon",
-            "title": "Russia-Ukraine War News: Live Updates - The New York Times",
-            "description": "A Ukrainian official said that Russian strikes had caused 10 explosions in Odesa on Saturday, one day after the warring sides agreed to a deal to help transport millions of tons of grain out of that port and others on the Black Sea.",
-            "url": "https://www.nytimes.com/live/2022/07/23/world/ukraine-war-russia",
-            "urlToImage": "https://static01.nyt.com/images/2022/07/23/world/23ukraine-briefing-promo630am-et/merlin_210463986_75e4914d-784d-4936-af24-f1d50773a9c3-facebookJumbo.jpg",
-            "publishedAt": "2022-07-23T10:32:37Z",
-            "content": "Workers unloaded sacks of grain at a market in Addis Ababa, Ethiopia, last month.Credit...Eduardo Soteras/Agence France-Presse Getty Images\r\nNAIROBI, Kenya The effects of the war in Ukraine have reve\u2026 [+4337 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Rob Picheta, Jomana Karadsheh, Radina Gigova and Tim Lister, CNN",
-            "title": "Kyiv and Moscow agree deal to resume Ukraine grain exports from Black Sea ports - CNN",
-            "description": "Ukraine and Russia have agreed a deal that would allow the resumption of vital grain exports from Ukrainian Black Sea ports, a major diplomatic breakthrough aimed at easing a global food crisis sparked by the war.",
-            "url": "https://www.cnn.com/2022/07/22/europe/ukraine-russia-grain-deal-turkey-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220712122657-01-russia-grain-blockade-super-tease.jpg",
-            "publishedAt": "2022-07-23T09:58:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Andrew Jeong",
-            "title": "Bannon attacks Jan. 6 committee on Fox News after Congress contempt conviction - The Washington Post",
-            "description": "On Tucker Carlson's Fox News show, ex-Trump adviser Steve Bannon appeared to threaten Jan. 6 committee staffers with an investigation into their work.",
-            "url": "https://www.washingtonpost.com/politics/2022/07/23/steve-bannon-jan-6-tucker-carlson/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHBS3DQJ7II63AFWIPZL7TDGMI.jpg&w=1440",
-            "publishedAt": "2022-07-23T09:39:00Z",
-            "content": "Comment on this story\r\nHours after being convicted of contempt of Congress on Friday for refusing to cooperate with the House committee investigating the Jan. 6, 2021, insurrection, Stephen K. Bannon\u2026 [+3722 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Landon Mion",
-            "title": "Newsom signs gun control bill modeled after Texas abortion law - Fox News",
-            "description": "California Gov. Gavin Newsom signed gun legislation inspired by Texas' heartbeat law, now allowing private citizens to sue those who violate state gun restrictions.",
-            "url": "https://www.foxnews.com/politics/newsom-signs-gun-control-bill-modeled-texas-abortion-law",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/gavin-newsom-california.jpg",
-            "publishedAt": "2022-07-23T08:59:54Z",
-            "content": "California Democratic Gov. Gavin Newsom on Friday signed a gun control bill into law that will allow private citizens to sue anyone who manufactures, sells, transports or distributes illegal \"assault\u2026 [+4152 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "'Godfather' Star James Caan Died from Heart Attack - TMZ",
-            "description": "'Godfather' star James Caan died as a result of a heart attack.",
-            "url": "https://www.tmz.com/2022/07/23/james-caan-cause-death-revealed-heart-attack-godfather/",
-            "urlToImage": "https://imagez.tmz.com/image/f1/16by9/2022/07/22/f180b2cb075e4bdca529e6b2918215b6_xl.jpg",
-            "publishedAt": "2022-07-23T08:00:00Z",
-            "content": "Legendary actor James Caan died from a combination of serious heart problems ... according to his death certificate.\r\nThe document, obtained by TMZ, says James died from a heart attack and coronary a\u2026 [+710 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Adam Kilgore",
-            "title": "Sydney McLaughlin shatters 400-meter hurdles world record - The Washington Post",
-            "description": "The 22-year-old from New Jersey left no doubt as she finished in 50.68 seconds at the track and field world championships.",
-            "url": "https://www.washingtonpost.com/sports/olympics/2022/07/22/sydney-mclaughlin-400-meter-hurdles-world-record/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIIXD33KVFCPFBIRVEAYLP4AEQ.jpg&w=1440",
-            "publishedAt": "2022-07-23T06:38:00Z",
-            "content": "Comment on this story\r\nEUGENE, Ore. On Wednesday evening, Edwin Moses meandered to the warmup track as the women got ready for the semifinals of the 400-meter hurdles, the race that made him one of t\u2026 [+9945 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Associated Press",
-            "title": "Israeli couple arrested after man dies in pool sinkhole - New York Post ",
-            "description": "The man and woman, both in their sixties, are suspected of causing death by negligence, police said.",
-            "url": "https://nypost.com/2022/07/23/israeli-couple-arrested-after-man-dies-in-pool-sinkhole/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/sinkhole.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2022-07-23T06:28:00Z",
-            "content": "JERUSALEM Israeli police said Friday they placed a couple under house arrest, a day after a man attending a party at their villa died after being sucked into a sinkhole that formed at the bottom of t\u2026 [+1169 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Tina Burnside",
-            "title": "Mega Millions jackpot swells to $790 million after no lottery ticket drew all 6 winning numbers - CNN",
-            "description": "The Mega Millions jackpot has surged to a whopping $790 million after no ticket matched all six winning numbers in Friday night's drawing.",
-            "url": "https://www.cnn.com/2022/07/23/us/mega-millions-jackpot-friday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220723013615-01-mega-millions-no-winner-july-22.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-07-23T06:25:00Z",
-            "content": "The Mega Millions jackpot has surged to a whopping $790 million after no ticket matched all six winning numbers in Friday nights drawing. \r\nFridays winning numbers were 14, 40, 60, 64, 66, plus the g\u2026 [+1213 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aya Elamroussi, CNN",
-            "title": "Oppressive heat will bake much of the US this weekend, with the Northeast expected to see triple-digit temperatures - CNN",
-            "description": "Relentless, oppressive heat will grip much of the US this weekend, with the Northeast region expected to bear the brunt amid forecasts for near-record temperatures across the region.",
-            "url": "https://www.cnn.com/2022/07/23/weather/us-extreme-heat-saturday/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220722234506-01-us-extreme-heat-saturday-super-tease.jpg",
-            "publishedAt": "2022-07-23T05:36:00Z",
-            "content": "(CNN)Relentless, oppressive heat will grip much of the US this weekend, with the Northeast region expected to bear the brunt amid forecasts for near-record temperatures across the region. \r\nNearly 80\u2026 [+4599 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Nolan King",
-            "title": "Bellator 283 results: Jason Jackson sweeps scorecards vs. Douglas Lima in uneventful main event - MMA Junkie",
-            "description": "The Bellator 283 main event consisted largely of Jason Jackson in Douglas Lima\u2019s guard.",
-            "url": "https://mmajunkie.usatoday.com/2022/07/bellator-283-results-douglas-lima-vs-jason-jackson",
-            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2022/07/Jason-Jackson-def.-Douglas-Lima-Bellator-283-10.jpg?w=1024&h=576&crop=1",
-            "publishedAt": "2022-07-23T04:14:00Z",
-            "content": "It wasn\u2019t the most rock \u2019em, sock \u2019em fight in Bellator history, but a win is a win for Jason Jackson\u2019s record.\r\nIn the Bellator 283 main event Friday, Jackson (16-4 MMA, 7-1 BMMA) defeated former we\u2026 [+3643 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Calvin Woodward",
-            "title": "Jan. 6 hearings traced an arc of 'carnage' wrought by Trump - The Associated Press - en Espa\u00f1ol",
-            "description": "WASHINGTON (AP) \u2014 To understand how Donald Trump\u2019s desperation and lies became a potent danger to democracy, consider the ginger mints. Mints featured in one of the absurdist but toxic episodes fleshed out in the Jan.",
-            "url": "https://apnews.com/article/Jan-6-hearings-Trump-capitol-10351fe6d555eaee7554379ceed8bb24",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cad5ea10ce0445ca8527e028398afbb7/1920.jpeg",
-            "publishedAt": "2022-07-23T04:06:52Z",
-            "content": "WASHINGTON (AP) To understand how Donald Trumps desperation and lies became a potent danger to democracy, consider the ginger mints.\r\nMints featured in one of the absurdist but toxic episodes fleshed\u2026 [+18874 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Brian Witte",
-            "title": "Author Wes Moore wins Democratic race for Maryland governor - The Associated Press",
-            "description": "ANNAPOLIS, Md. (AP) \u2014 Bestselling author Wes Moore won the Democratic primary for Maryland governor on Friday, setting up a general election contest against Republican Dan Cox , a hard-line conservative endorsed by former President Donald Trump.",
-            "url": "https://apnews.com/article/2022-midterm-elections-entertainment-donald-trump-larry-hogan-cdacc45d4f3cc6f65d14357d0ae86c64",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d8ea8c42a19344e985cfdd580979a89e/3000.jpeg",
-            "publishedAt": "2022-07-23T03:17:04Z",
-            "content": "ANNAPOLIS, Md. (AP) Bestselling author Wes Moore won the Democratic primary for Maryland governor on Friday, setting up a general election contest against Republican Dan Cox, a hard-line conservative\u2026 [+6172 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Zachary Petrizzo",
-            "title": "Josh Hawley Pledges to Not 'Run,' After Being Caught Running From Trump Mob - The Daily Beast",
-            "description": "The irony was lost on the Yale Law School graduate turned Republican senator.",
-            "url": "https://www.thedailybeast.com/josh-hawley-pledges-to-not-run-after-being-caught-running-from-trump-mob",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1658543495/GettyImages-1410357596_qqpaya",
-            "publishedAt": "2022-07-23T02:37:51Z",
-            "content": "On Thursday evening, the Jan. 6 committee played stunning footage of Senator Josh Hawley (R-MO) running away from a mob of pro-Trump vigilantes that he was seen riling up just hours earlier.\r\nDespite\u2026 [+1521 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Guardian staff reporter",
-            "title": "Monkeypox: US confirms first cases of virus in children - The Guardian US",
-            "description": "Cases of infant and toddler unrelated and likely from household transmission, say health authorities",
-            "url": "https://amp.theguardian.com/us-news/2022/jul/23/monkeypox-us-confirms-first-cases-of-virus-in-children",
-            "urlToImage": null,
-            "publishedAt": "2022-07-23T02:28:00Z",
-            "content": "US newsCases of infant and toddler unrelated and likely from household transmission, say health authorities\r\nSat 23 Jul 2022 03.28 BST\r\nCases of monkeypox have been identified in the United States fo\u2026 [+2822 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Stephanie McMahon and the WWE Universe give thanks to Mr. McMahon: SmackDown, July 22, 2022 - WWE",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2-5HEm9DMXU",
-            "urlToImage": null,
-            "publishedAt": "2022-07-23T02:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Multiversus Developers on Designing Lebron James | Comic Con 2022 - IGN",
-            "description": "The developers of truly bonkers fighting game Multiversus continue making it MORE bonkers. After the announcement of Lebron James and Rick and Morty being ad...",
-            "url": "https://www.youtube.com/watch?v=xQN37RxCC7o",
-            "urlToImage": "https://i.ytimg.com/vi/xQN37RxCC7o/hqdefault.jpg",
-            "publishedAt": "2022-07-23T01:22:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Elizia Volkmann",
-            "title": "Police arrest leading gay activist in crackdown on Tunisia rally - Al Jazeera English",
-            "description": "Young people join anti-Saied demonstrations amid growing anger at president\u2019s proposed new constitution.",
-            "url": "https://www.aljazeera.com/news/2022/7/23/police-arrest-leading-gay-activist-in-crackdown-on-tunisia-rally",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/2022-07-22T182324Z_28149178_RC26HV9272EO_RTRMADP_3_TUNISIA-POLITICS-REFERENDUM-PROTESTS.jpg?resize=1200%2C630",
-            "publishedAt": "2022-07-23T00:38:47Z",
-            "content": "Tunis, Tunisia Police have arrested a leading gay rights campaigner in a violent pushback against young people during a rally against the upcoming referendum on the Tunisian presidents newly proposed\u2026 [+4666 chars]"
+            "author": "Kayla James",
+            "title": "Mayor: 9-year-old survived attack that killed his family at Maquoketa Caves State Park - KCCI Des Moines",
+            "description": "A 9-year-old boy survived an attack that killed three of his family members at Maquoketa Caves State Park Campground on Friday",
+            "url": "https://www.kcci.com/article/mayor-nine-year-old-survived-attack-that-killed-family-at-maquoketa-caves-state-park-iowa/40696426",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/d1933292-90ad-4d90-8346-63d9a27b21ac/d1933292-90ad-4d90-8346-63d9a27b21ac_image.jpg?crop=0.527xw:0.528xh;0.254xw,0.267xh&resize=1200:*",
+            "publishedAt": "2022-07-23T23:12:00Z",
+            "content": "CEDAR FALLS, Iowa \u2014A 9-year-old boy survived an attack that killed three of his family members at Maquoketa Caves State Park Campground on Friday, according to the mayor of Cedar Falls. \r\nFour people\u2026 [+1490 chars]"
         },
         {
             "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "William Boston and Georgi Kantchev",
-            "title": "VW Board Ousts CEO Herbert Diess After Pivot to Electric Vehicles - The Wall Street Journal",
-            "description": "Key shareholders joined forces with labor leaders to force out Chief Executive Herbert Diess. The move comes after renewed internal strife over the slow progress developing core software for the company\u2019s new generation of electric vehicles.",
-            "url": "https://www.wsj.com/articles/volkswagen-ceo-herbert-diess-is-stepping-down-11658507894",
-            "urlToImage": "https://images.wsj.net/im-589253/social",
-            "publishedAt": "2022-07-22T23:47:00Z",
+            "author": "Denise Roland",
+            "title": "WHO Declares Monkeypox a Global Health Emergency - The Wall Street Journal",
+            "description": "The World Health Organization\u2019s move came despite the majority of experts on an advisory committee recommending against a declaration.",
+            "url": "https://www.wsj.com/articles/who-declares-monkeypox-a-global-health-emergency-11658586983",
+            "urlToImage": "https://images.wsj.net/im-568075/social",
+            "publishedAt": "2022-07-23T22:48:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Susana Polo",
+            "title": "Trailer for Netflix\u2019s The Sandman revealed at SDCC 2022 - Polygon",
+            "description": "Tom Sturridge stars as Dream of the Endless in Netflix\u2019s adaptation of DC Comcis\u2019 blockbuster series The Sandman, by Neil Gaiman. Get a look at Gwendoline Christie as Lucifer, Boyd Holbrook as the Corinthian, and Patton Oswalt as a talking raven.",
+            "url": "https://www.polygon.com/sdcc/23273180/sandman-trailer-netflix-dc-comics-neil-gaiman-tom-sturridge",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/x01XY2qDy-7EOseA1fiohnejRfI=/396x0:3437x1592/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22877410/image_2021_09_25_131228.png",
+            "publishedAt": "2022-07-23T22:32:07Z",
+            "content": "Mr. Sandman, bring me a ... trailer (bum, bum, bum, bum)"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB Trade Rumors"
+            },
+            "author": "TC Zencka",
+            "title": "Latest On Juan Soto Trade Talks - MLB Trade Rumors",
+            "description": "5:16PM: The Nationals want \"four to five top young players\" for Soto, Ken Rosenthal said during a FOX Sports interview &hellip;",
+            "url": "https://www.mlbtraderumors.com/2022/07/latest-on-juan-soto-trade-talks.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2022/06/juan-soto-nationals-washington-1024x727.jpg",
+            "publishedAt": "2022-07-23T22:24:53Z",
+            "content": "5:16PM: The Nationals want \u201cfour to five top young players\u201d for Soto, Ken Rosenthal said during a FOX Sports interview today.\u00a0 This \u201cmonstrous ask\u201d consists of star prospects and/or players who have \u2026 [+2826 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Richard Fausset, Danny Hakim",
+            "title": "On the Docket: Atlanta v. Trumpworld - The New York Times",
+            "description": "Eighteen months into a criminal investigation of election interference by Donald J. Trump and his allies, a Georgia prosecutor is beginning to show the broad contours of her inquiry.",
+            "url": "https://www.nytimes.com/2022/07/23/us/politics/trump-georgia-election-interference.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/22/multimedia/00trumpgeorgia-fani/00trumpgeorgia-fani-facebookJumbo.jpg",
+            "publishedAt": "2022-07-23T22:17:19Z",
+            "content": "Ms. Willis is weighing whether to subpoena Mr. Trump, a person familiar with the case said, but the biggest looming questions are whether the former president will be designated as a target and event\u2026 [+1514 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Adam Sabes",
+            "title": "Chicago police say multiple shot at church funeral - Fox News",
+            "description": "Chicago police said that three people were shot at a church funeral on Saturday afternoon, and are all in good condition.",
+            "url": "https://www.foxnews.com/us/chicago-police-respond-near-church-amid-reports-shooting-funeral",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/Untitled-design-387.png",
+            "publishedAt": "2022-07-23T21:40:17Z",
+            "content": "The Chicago Police Department said that three people were shot at a church funeral on Saturday afternoon.\r\nPolice told Fox News Digital that three people were shot in the 0-100 block of East 108th St\u2026 [+1218 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Abha Bhattarai",
+            "title": "Biden likely has the BA.5 omicron variant, but symptoms his remain mild, his physician said - The Washington Post",
+            "description": "His doctor says the president continues to respond well to treatment and provided a list of medications he is taking.",
+            "url": "https://www.washingtonpost.com/politics/2022/07/23/biden-covid-variant/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/62dc6388aa8a194cea79924c/2022-07-23T204937Z_1_OV400723072022RP1_RTRMADC_0_HEALTH-CORONAVIRUS-BIDEN.jpg&w=1440",
+            "publishedAt": "2022-07-23T21:24:00Z",
+            "content": "Comment on this story\r\nPresident Biden, who tested positive for coronavirus on Thursday, probably has the BA.5 variant and continues to experience mild symptoms that are improving, the White House sa\u2026 [+2439 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Sydney McLaughlin shatters 400 hurdles record with 50.68 - Fox News",
+            "description": "Sydney McLaughlin shattered her world record by a whopping 0.73 seconds, blazing through the 400-meter hurdles in 50.68 seconds for her first title at world championships",
+            "url": "https://www.foxnews.com/sports/sydney-mclaughlin-shatters-400-hurdles-record-50-68",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/AP22204119679839.jpg",
+            "publishedAt": "2022-07-23T21:19:44Z",
+            "content": "In the hurdles world before Sydney McLaughlin, it took years to shave fractions of seconds off records, and winning races didn't always mean rewriting history.\r\nThis once-in-a-lifetime athlete is obl\u2026 [+6293 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Star Trek teases Picard cast and Strange New Worlds crossover - The Verge",
+            "description": "Paramount Plus showed off a new trailer for the third and final season of Star Trek: Picard, giving us a glimpse at the legacy cast set to reprise their role.",
+            "url": "https://www.theverge.com/2022/7/23/23275444/star-trek-picard-cast-strange-new-world-crossover-trailer-teaser-paramount-plus-patrick-stewart",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/a9izQzocePup5Z7gmpEpF1SlQi8=/0x64:2024x1124/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23895000/star_trek_picard_trailer_season3.png",
+            "publishedAt": "2022-07-23T20:56:44Z",
+            "content": "An (almost) complete look at the cast of Picards final season"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Kyle Porter",
+            "title": "2022 3M Open leaderboard: Live updates, full coverage, golf scores in Round 3 on Saturday - CBS Sports",
+            "description": "Live scores, updates and highlights from Round 3 of the 2022 3M Open on Saturday",
+            "url": "https://www.cbssports.com/golf/news/2022-3m-open-leaderboard-live-updates-full-coverage-golf-scores-in-round-3-on-saturday/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/22/34b0fb5e-7425-4fff-93cd-7bb297a453c3/thumbnail/1200x675/f480274d9d50c887cfbaf0c5039ffd1d/3m-open.png",
+            "publishedAt": "2022-07-23T20:10:56Z",
+            "content": "Scott Piercy leads after the first two rounds of the 3M Open, but some interesting narratives are beginning to unfold at TPC Twin Cities as the weekend awaits. Piercy has taken advantage of a heater \u2026 [+1338 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sharif Paget, Samantha Beech, Josh Campbell",
+            "title": "Suspected attacker of GOP Rep. Lee Zeldin arrested on federal assault charge - CNN",
+            "description": "The man accused of attempting to stab New York gubernatorial nominee Rep. Lee Zeldin onstage at a campaign event has been arrested on a federal assault charge, a spokesperson for the US Attorney's Office in the Western District of New York said, after he was \u2026",
+            "url": "https://www.cnn.com/2022/07/23/politics/zeldin-suspected-attacker-federal-assault-charge/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220723143634-zeldin-suspected-attacker-federal-assault-charge.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-07-23T20:05:00Z",
+            "content": "The man accused of attempting to stab New York gubernatorial nominee Rep. Lee Zeldin onstage at a campaign event has been arrested on a federal assault charge, a spokespersonfor the US Attorneys Offi\u2026 [+3913 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russian missiles hit Ukraine port; Kyiv says it is still preparing grain exports - Reuters",
+            "description": "Russian missiles hit Ukraine's southern port of Odesa on Saturday, the Ukrainian military said, threatening a deal signed just a day earlier to unblock grain exports from Black Sea ports and ease global food shortages caused by the war.",
+            "url": "https://www.reuters.com/world/europe/us-pledges-more-military-aid-ukraine-peace-seems-far-off-2022-07-22/",
+            "urlToImage": "https://www.reuters.com/resizer/P_aXjIifEPVoqbUlM7hN2D0pEUk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C6PWX34P4NMVFOHQ6K6SAPHHGE.jpg",
+            "publishedAt": "2022-07-23T20:04:00Z",
+            "content": "KYIV, July 23 (Reuters) - Russian missiles hit Ukraine's southern port of Odesa on Saturday, the Ukrainian military said, threatening a deal signed just a day earlier to unblock grain exports from Bl\u2026 [+6256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Ashley Joy Parker",
+            "title": "Ben Affleck Appears to Take a Nap on Boat Ride During Post-Wedding Trip With Jennifer Lopez - E! NEWS",
+            "description": "Following his whirlwind Las Vegas wedding to Jennifer Lopez, Ben Affleck was seen catching up on some rest while cruising around the Seine River.",
+            "url": "https://www.eonline.com/news/1339217/ben-affleck-appears-to-take-a-nap-on-boat-ride-during-post-wedding-trip-with-jennifer-lopez",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022623/rs_1200x1200-220723120344-1200-ben-affleck-asleep.ct.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-07-23T19:59:00Z",
+            "content": "Married life can be exhaustingjust ask Ben Affleck.\r\nOne week after tying the knot with Jennifer Lopez, the actor was snapped looking extra sleepy on a boat-ride in Paris, where the two have been vac\u2026 [+707 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jessica Rendall",
+            "title": "WHO Declares Public Health Emergency: What to Know About Monkeypox - CNET",
+            "description": "The international response will hopefully improve resources and information-sharing to respond to the outbreak.",
+            "url": "https://www.cnet.com/health/medical/who-declares-public-health-emergency-what-to-know-about-monkeypox/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c072de49a0a79f8f9c0a353a06a07d5e78243547/2022/06/17/a8bf5781-1cea-47a2-8c15-cbad08c31e93/gettyimages-1402562733.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-07-23T18:35:00Z",
+            "content": "The monkeypox outbreak is still growing in the US and other countries. The WHO has declared a public health emergency in response.\r\nControlling monkeypox is important for public health. Some people w\u2026 [+13264 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Russian tank attack in eastern Ukraine kills 2 Americans, Canadian and Swede - POLITICO",
+            "description": "U.S. citizens Luke \u201cSkywalker\u201d Lucyszyn and Bryan Young were killed when they were ambushed during a special operation in eastern Ukraine, their commander said.",
+            "url": "https://www.politico.com/news/2022/07/23/americans-killed-russian-tank-attack-00047567",
+            "urlToImage": "https://static.politico.com/03/f9/e46d5daa41e1beb268e88fdbc30e/https-delivery.gettyimages.com/downloads/1239284532",
+            "publishedAt": "2022-07-23T17:37:18Z",
+            "content": "In an attempt to slow Russias advance, the foreign fighters were deployed to the village of Hryhorivka, two miles northwest of the Siversk. There, Miroshnichenko said, they guys were tasked to take t\u2026 [+6457 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Joe Miller",
+            "title": "'Ruffling feathers': How VW fell out of love with Herbert Diess - Financial Times",
+            "description": "World\u2019s second-largest carmaker sacked chief executive on Friday after bruising four-year tenure",
+            "url": "https://www.ft.com/content/de3858f2-124c-478a-8fad-8540135a4296",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F196e77f1-300c-448a-9dce-900a6388bbc4.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-07-23T17:19:10Z",
+            "content": "When Volkswagen boss Herbert Diesss strongest competitor, Elon Musk, parked his electric cars on the German groups lawn by building a factory just 200km from its historic Wolfsburg headquarters, the \u2026 [+7509 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Dangerous heat continues for millions of Americans - Fox News",
+            "description": "Severe heat is threatening millions of Americans across the country this weekend and into next week. Storms were expected Saturday over the Midwest and Great Lakes.",
+            "url": "https://www.foxnews.com/us/dangerous-heat-continues-millions-americans",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/Heat-5-1.jpg",
+            "publishedAt": "2022-07-23T17:19:07Z",
+            "content": "Oppressive and dangerous heat will continue to threaten millions of Americans across the U.S.\r\nAccording to FOX Weather, 77 million people were under heat alerts to start the weekend.\r\nMid-summer hea\u2026 [+2770 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Wildfire near Yosemite National Park explodes in size - The Associated Press - en Espa\u00f1ol",
+            "description": "WAWONA, Calif. (AP) \u2014 A fast-moving brush fire near Yosemite National Park exploded in size Saturday into one of California's largest wildfires of the year, prompting evacuations and shutting off power to more than 2,000 homes and businesses.",
+            "url": "https://apnews.com/article/wildfires-fires-california-evacuations-department-of-forestry-and-fire-protection-3b924a9d041b37acdc57e4b4eb8a64fe",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/81a8ef624856429198e09234fd4c875e/3000.jpeg",
+            "publishedAt": "2022-07-23T16:55:36Z",
+            "content": "WAWONA, Calif. (AP) A fast-moving brush fire near Yosemite National Park exploded in size Saturday into one of Californias largest wildfires of the year, prompting evacuations and shutting off power \u2026 [+2923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Iran floods: At least 21 killed in southern Fars province - BBC",
+            "description": "Flash floods in the southern Fars province were made worse by drought-ridden soil.",
+            "url": "https://www.bbc.com/news/world-middle-east-62279276",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F584/production/_126025826_gettyimages-1242067079.jpg",
+            "publishedAt": "2022-07-23T16:41:09Z",
+            "content": "By Malu CursinoBBC News\r\nFlash flooding has killed at least 21 people in Iran's southern Fars province. \r\nThe city of Estabhan was hardest hit with heavy rain swelling the Roudbal river, governor You\u2026 [+1102 chars]"
         }
     ]
 }
