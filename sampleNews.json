@@ -1,266 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Amber Phillips, Tom Hamburger",
-            "title": "Indiana adopts restrictive abortion law, prompting economic fallout - The Washington Post",
-            "description": "",
-            "url": "https://www.washingtonpost.com/nation/2022/08/06/indiana-abortion-law/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QASJZ3QVJEI63BECA3A4QTHI6I.jpg&w=1440",
-            "publishedAt": "2022-08-06T23:51:08Z",
-            "content": "Comment on this story\r\nIndianas new sweeping ban on abortion produced immediate political and economic fallout Saturday, as some of the states biggest employers objected to the restrictions, Democrat\u2026 [+9906 chars]"
+            "author": "Landon Mion",
+            "title": "Fire at Cuban oil facility leaves 1 dead, 121 injured: officials - Fox News",
+            "description": "A fire at a Cuban oil storage facility killed one person, injured 121 people and left 17 firefighters missing. About 800 people were evacuated from the closest neighborhood.",
+            "url": "https://www.foxnews.com/world/fire-cuban-oil-facility-leaves-1-dead-121-injured-officials",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/AP22218561920224.jpg",
+            "publishedAt": "2022-08-07T08:12:29Z",
+            "content": "A fire set off by a lightning strike at an oil storage facility in Cuba killed one unidentified person and left 121 others injured, including five in critical condition, Cuban authorities said Saturd\u2026 [+2515 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Andrew Carey, CNN",
-            "title": "Children among the victims of Gaza escalation as Israel clashes with Islamic Jihad for second day - CNN",
-            "description": "The Israeli military campaign against Islamic Jihad went into its second day Saturday evening with continued airstrikes on what it said were militant targets in Gaza.",
-            "url": "https://www.cnn.com/2022/08/05/middleeast/israel-gaza-strikes-islamic-jihad-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220805101144-01-gaza-israel-strikes-0805-super-tease.jpg",
-            "publishedAt": "2022-08-06T23:41:00Z",
-            "content": "Jerusalem and Gaza (CNN)The Israeli military campaign against Islamic Jihad went into its second day Saturday evening with continued airstrikes on what it said were militant targets in Gaza.\r\nThe Pal\u2026 [+5472 chars]"
+            "author": "Simone McCarthy",
+            "title": "Covid lockdown strands 80,000 tourists in 'China's Hawaii' - CNN",
+            "description": "Around 80,000 tourists are stranded in the popular resort city of Sanya on China's tropical Hainan island after authorities announced lockdown measures to stem an outbreak of Covid-19.",
+            "url": "https://www.cnn.com/2022/08/06/china/sanya-covid-19-outbreak-stranded-tourists-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220806232448-02-china-sanya-covid-220806-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-08-07T08:08:00Z",
+            "content": "Around 80,000 tourists are stranded in the popular resort city of Sanya on Chinas tropical Hainan island after authorities announced lockdown measures to stem an outbreak of Covid-19.\r\nPublic transpo\u2026 [+2999 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "TMZ"
             },
-            "author": "Sharon LaFraniere, Noah Weiland",
-            "title": "Officials Wrestle With Whether to Allow New Monkeypox Vaccination Strategy - The New York Times",
-            "description": "A new way of injecting monkeypox vaccine could stretch the nation\u2019s supply of shots, but some experts argue that the approach has not been sufficiently studied.",
-            "url": "https://www.nytimes.com/2022/08/06/us/politics/monkeypox-vaccination-strategy.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/08/05/us/politics/05dc-shots-1/05dc-shots-1-facebookJumbo.jpg",
-            "publishedAt": "2022-08-06T23:39:21Z",
-            "content": "Although the 2015 trial involved hundreds of participants, some experts note that it was a single study that was limited in what it measured. Researchers at the N.I.H. had been planning to test the i\u2026 [+1759 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "https://www.facebook.com/peoplemag",
-            "title": "Teresa Giudice and Luis Ruelas Are Married! Inside the RHONJ Couple's Romantic and Starry Wedding - Yahoo Entertainment",
-            "description": "Congratulations are in order for Teresa Giudice and Luis Ruelas, who said their \"I dos\" on Saturday in front of 220 guests at the Park Chateau Estate & Gardens in East Brunswick, New Jersey",
-            "url": "https://people.com/tv/teresa-giudice-luis-ruelas-married/",
-            "urlToImage": "https://people.com/thmb/2NffhVo6w6rM3B6Dhrh9mAzv400=/1440x960/filters:fill(auto,1)/TERESA-GIUDICE-5a76b58f152047699afc968835e4b3ab.jpg",
-            "publishedAt": "2022-08-06T23:27:44Z",
-            "content": "Congratulations are in order for Teresa Giudice and Luis Ruelas!\r\nThe Real Housewives of New Jerseycouple tied the knot on Saturday in front of 220 guests at the Park Chateau Estate &amp; Gardens in \u2026 [+4025 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Mike Florio",
-            "title": "As he tries to get a new contract, Kareem Hunt isn\u2019t participating in team drills - NBC Sports",
-            "description": "Browns running back Kareem Hunt signed a team-friendly deal in 2020. Currently, he\u2019s not feeling overly friendly toward the team.Per multiple reports, Hunt isn\u2019t participating in team drills while he tries to get a new contract. Hunt spoke openly in June abou\u2026",
-            "url": "https://profootballtalk.nbcsports.com/2022/08/06/as-he-tries-to-get-a-new-contract-kareem-hunt-isnt-participating-in-team-drills/",
-            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/08/GettyImages-1412657066-e1659827509630.jpg",
-            "publishedAt": "2022-08-06T23:12:00Z",
-            "content": "Browns running back Kareem Hunt signed a team-friendly deal in 2020. Currently, hes not feeling overly friendly toward the team.\r\nPer multiple reports, Hunt isnt participating in team drills while he\u2026 [+973 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Boston Globe"
-            },
-            "author": null,
-            "title": "More fallout from the Deshaun Watson and Dolphins punishments - The Boston Globe",
-            "description": "The NFL had to appeal Watson's ban and the league protected the Dolphins in its tampering ruling.",
-            "url": "https://www.bostonglobe.com/2022/08/06/sports/more-fallout-deshaun-watson-dolphins-punishments/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wiKpZ19npxW_B5hqteG-xJshtwQ=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/YXGESM5XNQA5Z4G6SU5EBOZKTE.jpg",
-            "publishedAt": "2022-08-06T22:27:00Z",
-            "content": "The Dolphins were stripped of first- and third-round picks for tampering with Tom Brady, and owner Stephen Ross was fined $1.5 million and suspended six games but was not punished by the NFL for alle\u2026 [+13051 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KABC-TV"
-            },
-            "author": null,
-            "title": "Windsor Hills crash: Vigil honors victims of horrific crash on Slauson and La Brea - KABC-TV",
-            "description": "A somber vigil was held to honor the victims of a multi-vehicle crash in Windsor Hills that killed six people, including a pregnant woman.",
-            "url": "https://abc7.com/windsor-hills-crash-victims-fatal-accident-collision/12104384/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/12105320_WINDSOR_VICTIMS.jpg?w=1600",
-            "publishedAt": "2022-08-06T22:14:28Z",
-            "content": "WINDSOR HILLS, Calif. (KABC) -- A somber vigil was held Friday evening to honor the victims of a multi-vehicle crash in Windsor Hills that killed six people, including a pregnant woman who died along\u2026 [+3791 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "ABC News",
-            "title": "Multistate manhunt for Ohio man charged with aggravated murder after 4 people fatally shot - ABC News",
-            "description": "Stephen Marlow is wanted in connection with the shooting deaths of four people in Butler Township, a small town north of Dayton, Ohio, on Friday, police said.",
-            "url": "https://abcnews.go.com/US/multistate-manhunt-person-interest-sought-people-fatally-shot/story?id=88040950",
-            "urlToImage": "https://s.abcnews.com/images/US/ohio-manhunt-scene-02-wkef-jef-220806_1659813872364_hpMain_16x9_992.jpg",
-            "publishedAt": "2022-08-06T22:03:49Z",
-            "content": "The FBI is involved in a multistate manhunt for a man charged with aggravated murder in the fatal shooting of four people in Ohio.\r\nThe FBI has issued a wanted poster for 39-year-old Stephen Marlow, \u2026 [+1864 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ryan Morik",
-            "title": "Saints' Michael Thomas participates in 11-on-11 drills for first time in almost two years - Fox News",
-            "description": "Saints receiver Michael Thomas has not played a game since the 2020 NFL season, but he participated in 11-on-11 drills for the first time in almost two years Saturday.",
-            "url": "https://www.foxnews.com/sports/saints-michael-thomas-participates-11-on-11-drills-first-time-two-years",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/MT.jpg",
-            "publishedAt": "2022-08-06T21:42:16Z",
-            "content": "The New Orleans Saints are bracing for the return of an elite receiver.\r\nMichael Thomas participated in 11-on-11 drills for the first time in almost two years Saturday.\r\nThomas has been out since the\u2026 [+2106 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Albuquerque Journal"
-            },
-            "author": "Elise Kaplan / Journal Staff Writer",
-            "title": "APD: Fourth Muslim man shot to death - Albuquerque Journal",
-            "description": "Police investigating possible connection between Friday night killing and 3 other homicides of Muslim men",
-            "url": "https://www.abqjournal.com/2522678/apd-fourth-muslim-shot-to-death.html",
-            "urlToImage": "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2022/08/06/ldb080622b-scaled.jpg",
-            "publishedAt": "2022-08-06T21:16:25Z",
-            "content": "A crime scene photographer documents the scene at Truman Street and Grand Avenue in Albuquerque after a Muslim man was killed late Friday night. (Liam DeBonis/Albuquerque Journal)\r\nAnother Muslim man\u2026 [+1344 chars]"
+            "author": "TMZ Staff",
+            "title": "Limp Bizkit's Fred Durst Gets Married for a 4th Time - TMZ",
+            "description": "Limp Bizkit's Fred Durst has gotten married for the 4th time.",
+            "url": "https://www.tmz.com/2022/08/07/limp-bizkit-fred-durst-marry-four-time/",
+            "urlToImage": "https://imagez.tmz.com/image/86/16by9/2022/08/03/86ba273f7c6b445ead48ac0a103ed7ec_xl.jpg",
+            "publishedAt": "2022-08-07T08:00:00Z",
+            "content": "Apparently, it's all about the he said she said \"I Do\" ... because Limp Bizkit's Fred Durst has gotten married for the 4th time.\r\nTheir marriage record, obtained by TMZ, says Fred and wife Arles Durs\u2026 [+1077 chars]"
         },
         {
             "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "Karen Hao in Hong Kong and Joyu Wang in Taipei",
-            "title": "Beijing Simulates Attack on Taiwan as Chinese Exercises Extend Into Third Day - The Wall Street Journal",
-            "description": "Chinese military aircraft and ships crossed the halfway mark of the Taiwan Strait, in a simulated land strike on the self-governing island that Beijing claims as its own.",
-            "url": "https://www.wsj.com/articles/beijing-simulates-attack-on-taiwan-as-chinese-exercises-extend-into-third-day-11659784913",
-            "urlToImage": "https://images.wsj.net/im-599117/social",
-            "publishedAt": "2022-08-06T21:02:00Z",
-            "content": "A large number of Chinese military aircraft and ships crossed the halfway mark of the Taiwan Strait on Saturday, in a simulated land strike on the self-governing island that Beijing claims as its own\u2026 [+215 chars]"
+            "author": "Andrew Duehren and Siobhan Hughes",
+            "title": "Senate Democrats Close In on Passing Climate and Tax Bill - The Wall Street Journal",
+            "description": "After clearing a procedural hurdle in the narrowly divided chamber Saturday, Democrats are poised to pass the legislation on Sunday.",
+            "url": "https://www.wsj.com/articles/democrats-climate-plan-gets-early-green-light-11659798389",
+            "urlToImage": "https://images.wsj.net/im-599207/social",
+            "publishedAt": "2022-08-07T07:49:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "KCRA Sacramento"
             },
-            "author": "Michael DiRocco",
-            "title": "Former San Francisco 49er Bryant Young's emotional tribute to his son highlights Hall of Fame induction - ESPN",
-            "description": "Bryant Young, Tony Boselli, Cliff Branch, LeRoy Butler, Art McNally, Sam Mills, Richard Seymour and Dick Vermeil were inducted into the Pro Football Hall of Fame in Canton, Ohio, on Saturday.",
-            "url": "https://www.espn.com/nfl/story/_/id/34358892/former-san-francisco-49er-bryant-young-emotional-tribute-son-highlights-hall-fame-induction",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0806%2Fr1045147_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-08-06T20:50:01Z",
-            "content": "CANTON, Ohio -- Being part of the Pro Football Hall of Fame's class of 2022 holds a special -- and painful -- meaning for former San Francisco 49ers defensive lineman Bryant Young. It's an emotional \u2026 [+5906 chars]"
+            "author": "Greta Serrin",
+            "title": "Folsom native identified as third Washington, DC lightning strike victim - KCRA Sacramento",
+            "description": "One of the three people who died in a Washington, D.C., lightning strike this week has been identified by family as Northern California native Brooks Lambertson.",
+            "url": "https://www.kcra.com/article/dc-lightning-strike-victim-identified-folsom-native/40825605",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/brooks-lambertson-1659838358.png?crop=1.00xw:0.790xh;0,0.130xh&resize=1200:*",
+            "publishedAt": "2022-08-07T06:07:00Z",
+            "content": "One of the three people who died in a Washington, D.C., lightning strike this week has been identified by family as Northern California native Brooks Lambertson. \r\nThe 29-year-old from Folsom died fr\u2026 [+1195 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Lora Kolodny",
-            "title": "Elon Musk challenges Twitter CEO Parag Agrawal to a debate on bots - CNBC",
-            "description": "Elon Musk took shots at Twitter on Saturday, and dared CEO Parag Agrawal to debate him in the midst of a legal battle over a $44 billion acquisition gone awry.",
-            "url": "https://www.cnbc.com/2022/08/06/elon-musk-challenges-twitter-ceo-parag-agrawal-to-a-debate-on-bots.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107063491-16529089492022-05-18t210710z_1773411046_rc2w9u9z7ee9_rtrmadp_0_tesla-musk.jpeg?v=1655979407&w=1920&h=1080",
-            "publishedAt": "2022-08-06T20:35:42Z",
-            "content": "Centi-billionaire Elon Musk provoked Twitter and challenged the company's CEO Parag Agrawal to a \"public debate\" about fake accounts and spam in the midst of a contentious legal battle over a $44 bil\u2026 [+4716 chars]"
+            "author": "Jason Owens",
+            "title": "Sabrina Ionescu sets new WNBA standard for points, rebounds, assists in a season - Yahoo Sports",
+            "description": "The latest statistical milestone for Ionescu most certainly won't be her last",
+            "url": "https://sports.yahoo.com/sabrina-ionescu-sets-new-wnba-standard-for-points-rebounds-assists-in-a-season-044131138.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CyzMoZu9HyqEaJkuXVu4qg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/19d376d0-14d2-11ed-becf-e2766ca16de1",
+            "publishedAt": "2022-08-07T05:41:00Z",
+            "content": "Sabrina Ionescu has done it again.\r\nThe New York Liberty star etched her name into the record books one more time on Saturday, this time for a season-long accomplishment.\r\nIn the opening minute again\u2026 [+2370 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
-            },
-            "author": "David Connett",
-            "title": "Strikes at Ukrainian nuclear plant \u2018alarming\u2019, says UN watchdog chief - The Guardian",
-            "description": "Head of International Atomic Energy Agency says shelling at Zaporizhzhia plant underlines \u2018very real risk of a nuclear disaster\u2019",
-            "url": "https://amp.theguardian.com/world/2022/aug/06/strikes-at-ukrainian-nuclear-plant-alarming-says-un-watchdog-chief",
-            "urlToImage": "https://i.guim.co.uk/img/media/7c8b3f265f77e19cd1bce4eae68b3c634bf9d9ad/0_276_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ef0868fd1041f2a5ae3120951e23230",
-            "publishedAt": "2022-08-06T20:26:00Z",
-            "content": "The UN nuclear watchdog has called for an immediate end to all military action near Ukraines Zaporizhzhia nuclear plant after it was hit by shelling, causing one of the reactors to shut down and crea\u2026 [+1839 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
+                "name": "The Times of Israel"
             },
             "author": null,
-            "title": "How Alex Jones' behavior impacts him in court - POLITICO",
-            "description": "Some legal experts said they were surprised by his conduct and questioned whether it was a calculated risk to boost his appeal to fans.",
-            "url": "https://www.politico.com/news/2022/08/06/alex-jones-trial-behavior-00050208",
-            "urlToImage": "https://static.politico.com/74/67/9bca71264311ba183379a5dff699/newtown-shooting-infowars-45131.jpg",
-            "publishedAt": "2022-08-06T19:13:42Z",
-            "content": "The total damages of nearly $50 million was significantly less than the $150 million in damages Neil Heslin and Scarlett Lewis were seeking.\r\nJones faces two more Sandy Hook trials to determine damag\u2026 [+6143 chars]"
+            "title": "Israel strikes and kills another top Islamic Jihad commander in Gaza - The Times of Israel",
+            "description": "After targeted killing of terror group's north Gaza commander, IDF kills southern counterpart Khaled Mansour; officer says Israel believes it has taken out entire PIJ top brass",
+            "url": "https://www.timesofisrael.com/israel-strikes-and-kills-another-top-islamic-jihad-commander-in-gaza/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/08/FZgJmkXWYAEbMLw-e1659820556328-1024x640.jpg",
+            "publishedAt": "2022-08-07T05:26:15Z",
+            "content": "The Israel Defense Forces struck and killed a senior leader of the Palestinian Islamic Jihad (PIJ) terror group in the Gaza Strip on Saturday night, military officials said.\r\nKhaled Mansour was kille\u2026 [+2913 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Adam Sabes",
-            "title": "Nancy Pelosi slammed over so-called 'connection' with China: 'We are truly led by imbeciles' - Fox News",
-            "description": "Speaker Nancy Pelosi is being slammed on Twitter after making comments about her so-called \"connection\" with China during her trip to the Indo-Pacific.",
-            "url": "https://www.foxnews.com/politics/nancy-pelosi-slammed-over-called-connection-china-truly-led-imbeciles",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21168550525304.jpg",
-            "publishedAt": "2022-08-06T19:03:21Z",
-            "content": "House Speaker Nancy Pelosi is being slammed on social media for comments she made about her \"connection\" with China that she spoke about during a press conference on Thursday.\r\nPelosi said that she h\u2026 [+1984 chars]"
+            "author": null,
+            "title": "Jamahal Hill Octagon Interview | UFC Vegas 59 - UFC - Ultimate Fighting Championship",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgacUhLopn4w",
+            "urlToImage": null,
+            "publishedAt": "2022-08-07T05:12:43Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "Elon Musk says Twitter deal could go forward once user data confirmed - Fox Business",
+            "description": "Even as countersuits are served regarding Elon Musk's wanting to back out of deal to buy Twitter, the Tesla CEO says the deal could still go through.",
+            "url": "https://www.foxbusiness.com/technology/elon-musk-says-twitter-deal-could-go-forward-user-data-confirmed",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/06/0/0/MUSK-TWITTER-GETTY-ILLUSTRATION.jpg?ve=1&tl=1",
+            "publishedAt": "2022-08-07T04:37:53Z",
+            "content": "Elon Musk's deal to buy Twitter may still go ahead, if the details on the social media platform's actual user accounts can be confirmed.\r\nMusk wants to know how many are \u2018spam bots\u2019 and how many are \u2026 [+2344 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Amanda Musa",
-            "title": "Some of the approximately 1,000 people stranded at Death Valley National Park have left in spite of flooding - CNN",
-            "description": "Death Valley National Park announced its closure Friday due to substantial flooding within the park, according to a news release.",
-            "url": "https://www.cnn.com/2022/08/05/us/death-valley-national-park-flooding/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220805214623-03-death-valley-national-park-220805.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-08-06T18:11:00Z",
-            "content": "Death Valley National Park announced its closure Friday due to substantial flooding within the park, according to a news release.\r\nAll roads into and out of the park are currently closed and will rem\u2026 [+1806 chars]"
+            "author": "By Keith Allen and Nouran Salahieh, CNN",
+            "title": "Airlines cancel more than 600 US flights and delay thousands more Saturday - CNN",
+            "description": "More than 600 flights were canceled and thousands more were delayed in the United States on Saturday, according to the flight tracking website FlightAware.",
+            "url": "https://www.cnn.com/travel/article/saturday-hundreds-of-flights-canceled/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220806235516-american-airlines-dca-file-super-tease.jpg",
+            "publishedAt": "2022-08-07T04:23:29Z",
+            "content": "(CNN) More than 600 flights were canceled and thousands more were delayed in the United States on Saturday, according to the flight tracking website FlightAware.\r\nSaturday marks the third day of majo\u2026 [+2127 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Lawrence Jones has a message for Eric Adams over border crisis: There's no ignoring it now - Fox News",
+            "description": "Lawrence Jones said Democrats can no longer ignore the border crisis, after Texas busses arrived in NYC and D.C. with migrants on 'Lawrence Jones Cross Country.'",
+            "url": "https://www.foxnews.com/media/lawrence-jones-has-message-eric-adams-border-crisis-no-ignoring",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/Biden-needs-to-step-up-and-do-something-about-the-border-New-Yorker.jpg",
+            "publishedAt": "2022-08-07T04:20:02Z",
+            "content": "Lawrence Jones slammed NYC Mayor Eric Adams's call for the Biden administration to use federal dollars to address the influx of migrants from the border only now that migrants are arriving in NYC. Fo\u2026 [+1805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Buffett's Berkshire Pounces on Market Swoon to Buy Equities - Bloomberg",
+            "title": "Anne Heche 'stable' after fiery Mar Vista car crash, rep says | ABC7 - ABC7",
             "description": null,
-            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5281e39c-15ca-11ed-8fb9-46456f716163&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0wNi9iZXJrc2hpcmUtdGFrZXMtYWR2YW50YWdlLW9mLW1hcmtldC1zd29vbi10by1idXktdXAtZXF1aXRpZXM=",
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoZhzkgw1p8c",
             "urlToImage": null,
-            "publishedAt": "2022-08-06T17:35:18Z",
-            "content": "To continue, please click the box below to let us know you're not a robot."
+            "publishedAt": "2022-08-07T04:00:14Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
         },
         {
             "source": {
                 "id": null,
-                "name": "Page Six"
+                "name": "YouTube"
             },
-            "author": "Rachel Summer Small",
-            "title": "Fans evoke Kanye West in reaction to Kim Kardashian, Pete Davidson split - Page Six",
-            "description": "A cascade of tweets emerged overnight poking fun at the news of the breakup between the two stars, each of whom has a rather notorious dating history.",
-            "url": "https://pagesix.com/2022/08/06/fans-react-to-kim-kardashian-pete-davidson-split-side-eye-kanye/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/08/kanye-west-kim-kardashian-pete-davidson.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2022-08-06T17:26:00Z",
-            "content": "Kim Kardashian called it off with Pete Davidson nine months after they began dating, and the news hit the internet like a ton of bricks Friday night. \r\nThe development caught many off-guard as the st\u2026 [+3023 chars]"
+            "author": null,
+            "title": "Democrats' climate, energy, tax bill clears hurdle in Senate - PIX11 News",
+            "description": "The U.S. Senate voted Saturday to start debating the Democrats\u2019 economic bill, which contains many of President Biden\u2019s climate, energy, health and tax goals.",
+            "url": "https://www.youtube.com/watch?v=1jMFrr270mE",
+            "urlToImage": "https://i.ytimg.com/vi/1jMFrr270mE/hqdefault.jpg",
+            "publishedAt": "2022-08-07T02:59:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Russia begins new assault on 2 cities in Ukraine's Donetsk region - CBS News",
+            "description": "Bakhmut and Avdiivka have been considered key targets of Russia's ongoing offensive across Ukraine's east.",
+            "url": "https://www.cbsnews.com/news/russia-assault-2-cities-ukraine-donetsk-region-bakhmut-avdiivka/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/08/07/13b85e18-cd47-4701-84bd-b221b140f3af/thumbnail/1200x630/a260f0ac37d6886125c719302cb69eeb/gettyimages-1242335423.jpg",
+            "publishedAt": "2022-08-07T02:30:36Z",
+            "content": "Russian forces began an assault Saturday on two key cities in the eastern Donetsk region and kept up rocket and shelling attacks on other Ukrainian cities, including one close to Europe's largest nuc\u2026 [+3290 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Beast"
+                "name": "cleveland.com"
             },
-            "author": "Emily Shugerman",
-            "title": "12-Year-Old Archie Battersbee Dies After Being Removed From Life Support - The Daily Beast",
-            "description": "Archie\u2019s family lost a weeks-long court battle to continue life-saving treatment last week.",
-            "url": "https://www.thedailybeast.com/12-year-old-archie-battersbee-dies-after-being-removed-from-life-support-mom-hollie-dance-says",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_540,w_960,x_0,y_47/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1659803396/Archie_ylxrth",
-            "publishedAt": "2022-08-06T16:33:20Z",
-            "content": "Archie Battersbee, a 12-year-old boy whose parents have been fighting to keep him on life support after he fell into a coma in April, died Saturday morning after British courts ruled to suspend treat\u2026 [+2471 chars]"
+            "author": "Mary Kay Cabot, cleveland.com",
+            "title": "Kareem Hunt makes a contract stand; Deshaun Watson helps unify the team: What happened on Day 9 of Browns tra - cleveland.com",
+            "description": "The Browns had some spirited one-on-one battles Saturday on Day 9 of Browns training camp.",
+            "url": "https://www.cleveland.com/browns/2022/08/kareem-hunt-makes-a-contract-stand-deshaun-watson-helps-unify-the-team-what-happened-on-day-9-of-browns-training-camp.html",
+            "urlToImage": "https://www.cleveland.com/resizer/PhUq-IOoCwuOHLbcScS4S4g95jk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CFENTAQZIFE6FHRMXA74NV26MY.JPG",
+            "publishedAt": "2022-08-07T00:47:00Z",
+            "content": "BEREA, Ohio Kareem Hunt had a very eventful 27th birthday.\r\nShortly after the end of practice, news broke that Hunt had been holding out of team drills in training camp in a contract dispute.\r\nHe wan\u2026 [+6540 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Meena Venkataramanan, Jason Samenow",
+            "title": "Death Valley drenched by record flooding, stranding about 1,000 in park - The Washington Post",
+            "description": "The hottest place on earth is soaked after record rainfall, trapping visitors, staff and cars for hours.",
+            "url": "https://www.washingtonpost.com/climate-environment/2022/08/06/death-valley-record-flooding/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HF5ANDQVGEI63BECA3A4QTHI6I.jpg&w=1440",
+            "publishedAt": "2022-08-07T00:32:00Z",
+            "content": "Comment on this story\r\nDeath Valley National Park was closed Saturday after exceptional amounts of rain drenched the park Friday, triggering flash floods that left about 1,000 visitors and park staff\u2026 [+4872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Ashley Joy Parker",
+            "title": "Pete Davidson Makes a Fashion Statement Following Kim Kardashian Breakup - E! Online - E! NEWS",
+            "description": "One day after the news broke that Kim Kardashian and Pete Davidson called it quits, the former SNL star was spotted on set in Australia wearing a t-shirt with an interesting message on it.",
+            "url": "https://www.eonline.com/news/1341093/pete-davidson-makes-a-fashion-statement-following-kim-kardashian-breakup",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022421/rs_1200x1200-220521164817-1200-pete-davidson-snl.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-08-07T00:17:00Z",
+            "content": "Pete Davidson is letting his\u00a0outfit do the talking.\r\nOn Aug, 6, the\u00a0former Saturday Night Live star was photographed for the first time since the news broke that he and girlfriend Kim Kardashian spli\u2026 [+704 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox 59"
+            },
+            "author": "Joe Schroeder",
+            "title": "Eli Lilly to seek employment growth outside of Indiana after abortion ban - FOX 59 Indianapolis",
+            "description": "INDIANAPOLIS \u2014 One of the largest employers and oldest companies in Indiana will begin looking for expansion opportunities outside of the Hoosier State in the wake of a recently passed abortion ban bill. Eli Lilly and Co. released a statement Saturday that sa\u2026",
+            "url": "https://fox59.com/indiana-news/eli-lilly-to-seek-employment-growth-outside-of-indiana-after-abortion-ban/",
+            "urlToImage": "https://fox59.com/wp-content/uploads/sites/21/2020/11/2020-10-27T160457Z_963156635_RC24RJ9VLISJ_RTRMADP_3_LILLY-RESULTS.jpg?w=1280",
+            "publishedAt": "2022-08-06T22:51:26Z",
+            "content": "INDIANAPOLIS One of the largest employers and oldest companies in Indiana will begin looking for expansion opportunities outside of the Hoosier State in the wake of a recently passed abortion ban bil\u2026 [+1461 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+            "title": "Physicist trolls James Webb Space Telescope fans with a photo of a chorizo sausage - Engadget",
+            "description": "The James Webb Space Telescope was recently the subject of a not-so-charming prank..",
+            "url": "https://www.engadget.com/james-webb-space-telescope-chorizo-photo-222957990.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-12/20af84d0-6749-11ec-bdf5-c01480754637",
+            "publishedAt": "2022-08-06T22:34:26Z",
+            "content": "With its captivating images of far-flung galaxies, its safe to say the James Webb Space Telescope\r\n has captured the imagination of the world over. It was also recently the subject of a not-so-charmi\u2026 [+1581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WCTV"
+            },
+            "author": "WCTV Staff",
+            "title": "First monkeypox case confirmed in Leon County - WCTV",
+            "description": "DOH Leon said Saturday that is has identified the first monkeypox case in a Leon County resident.",
+            "url": "https://www.wctv.tv/2022/08/06/first-monkeypox-case-confirmed-leon-county/",
+            "urlToImage": "https://gray-wctv-prod.cdn.arcpublishing.com/resizer/raJgnyNsTap6X8W8kFrPqNztRh4=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/K6LPFJZ4ORHEFIRJMICYXE527Y.png",
+            "publishedAt": "2022-08-06T22:30:00Z",
+            "content": "TALLAHASSEE, Fla. (WCTV) - The Florida Department of Health in Leon County has confirmed its first monkeypox infection in a county resident, according to a news release.\r\nDOH Leon said Saturday that \u2026 [+431 chars]"
         }
     ]
 }
