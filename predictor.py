@@ -1,4 +1,3 @@
-from numpy import argmax
 from data import PreProcessor
 import tensorflow as tf
 from tensorflow.keras.preprocessing.sequence import pad_sequences

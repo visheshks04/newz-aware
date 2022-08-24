@@ -2,7 +2,6 @@ import spacy
 from nltk.corpus import stopwords
 import re
        
-import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
