@@ -4,81 +4,55 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Tina Burnside",
-            "title": "1 killed and several injured in shooting in downtown Renton, Washington, police say - CNN",
-            "description": "At least one person was killed and five others were injured in a shooting in the Seattle suburb of Renton early Saturday morning, police said.",
-            "url": "https://www.cnn.com/2022/07/23/us/renton-washingtonshooting/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220723052054-01-renton-washington-shooting-map.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-07-23T11:50:00Z",
-            "content": "At least one person was killed and five others were injured in a shooting in the Seattle suburb of Renton early Saturday morning, police said. \r\nOfficers responded to shots fired in downtown Renton j\u2026 [+542 chars]"
+            "author": null,
+            "title": "Twitter whistleblower could help Musk by adding 'volatility' to legal battle - Reuters",
+            "description": "A whistleblower's complaint that Twitter Inc <a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> misled federal regulators about the company's security risks could provide Elon Musk with fresh ammunition in his bid to get out of bu\u2026",
+            "url": "https://www.reuters.com/markets/deals/twitter-whistleblower-could-help-musk-by-adding-volatility-legal-battle-2022-08-23/",
+            "urlToImage": "https://www.reuters.com/resizer/KDcmQFirIoJrxVdBMhQ9d-lnBkQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ECPZQIMQBNPDLP2WO4SHW2LWHE.jpg",
+            "publishedAt": "2022-08-24T09:59:00Z",
+            "content": "WILMINGTON, Del., Aug 23 (Reuters) - A whistleblower's complaint that Twitter Inc (TWTR.N) misled federal regulators about the company's security risks could provide Elon Musk with fresh ammunition i\u2026 [+4389 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Guardian"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Guardian staff reporter",
-            "title": "Woeful Red Sox concede inside-the-park grand slam in record 28-5 loss to Jays - The Guardian",
-            "description": "Raimel Tapia hit an inside-the-park grand slam and the Toronto Blue Jays set a franchise record for runs, rolling past the Red Sox 28-5 on Friday night",
-            "url": "https://amp.theguardian.com/sport/2022/jul/23/boston-red-sox-toronto-blue-jays-28-5-inside-the-park-grand-slam-baseball",
+            "author": "Tara John and Yulia Kesaieva, CNN",
+            "title": "Kyiv displays captured tanks on Independence Day as Ukrainians cast a wary eye on Russia - CNN",
+            "description": "Ukraine's Independence Day, which on Wednesday marks 31 years since the country voted to break with the Soviet Union, is set to be a somber affair as officials warn that Russia may carry out missile attacks against Ukrainian cities.",
+            "url": "https://www.cnn.com/2022/08/23/europe/ukraine-independence-day-kyiv-display-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220823155058-05-ukraine-independence-day-preview-0823-super-tease.jpg",
+            "publishedAt": "2022-08-24T09:48:00Z",
+            "content": "Kyiv, Ukraine (CNN)Ukraine's Independence Day, which on Wednesday marks 31 years since the country voted to break with the Soviet Union, is set to be a somber affair as officials warn that Russia may\u2026 [+5000 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "What Has Russia Lost in War? Military Limits Exposed Despite Curbed GDP Fall - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e0af56a5-239b-11ed-8076-42614169694d&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0yNC9zaXgtbW9udGhzLW9mLXB1dGluLXMtd2FyLXVucmF2ZWxzLXJ1c3NpYS1zLXN1cGVycG93ZXItaW1hZ2U=",
             "urlToImage": null,
-            "publishedAt": "2022-07-23T11:03:00Z",
-            "content": "MLB<ul><li>Boston have given up 55 runs in last three games</li><li>Series of miscues help Toronto to huge victory</li></ul>\r\nSat 23 Jul 2022 11.43 BST\r\nRaimel Tapia put his head down and started a s\u2026 [+4474 chars]"
+            "publishedAt": "2022-08-24T09:31:27Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
         },
         {
             "source": {
-                "id": null,
-                "name": "New York Times"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Michael Schwirtz, Erika Solomon",
-            "title": "Russia-Ukraine War News: Live Updates - The New York Times",
-            "description": "A Ukrainian official said that Russian strikes had caused 10 explosions in Odesa on Saturday, one day after the warring sides agreed to a deal to help transport millions of tons of grain out of that port and others on the Black Sea.",
-            "url": "https://www.nytimes.com/live/2022/07/23/world/ukraine-war-russia",
-            "urlToImage": "https://static01.nyt.com/images/2022/07/23/world/23ukraine-briefing-promo630am-et/merlin_210463986_75e4914d-784d-4936-af24-f1d50773a9c3-facebookJumbo.jpg",
-            "publishedAt": "2022-07-23T10:32:37Z",
-            "content": "Workers unloaded sacks of grain at a market in Addis Ababa, Ethiopia, last month.Credit...Eduardo Soteras/Agence France-Presse Getty Images\r\nNAIROBI, Kenya The effects of the war in Ukraine have reve\u2026 [+4337 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Rob Picheta, Jomana Karadsheh, Radina Gigova and Tim Lister, CNN",
-            "title": "Kyiv and Moscow agree deal to resume Ukraine grain exports from Black Sea ports - CNN",
-            "description": "Ukraine and Russia have agreed a deal that would allow the resumption of vital grain exports from Ukrainian Black Sea ports, a major diplomatic breakthrough aimed at easing a global food crisis sparked by the war.",
-            "url": "https://www.cnn.com/2022/07/22/europe/ukraine-russia-grain-deal-turkey-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220712122657-01-russia-grain-blockade-super-tease.jpg",
-            "publishedAt": "2022-07-23T09:58:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Andrew Jeong",
-            "title": "Bannon attacks Jan. 6 committee on Fox News after Congress contempt conviction - The Washington Post",
-            "description": "On Tucker Carlson's Fox News show, ex-Trump adviser Steve Bannon appeared to threaten Jan. 6 committee staffers with an investigation into their work.",
-            "url": "https://www.washingtonpost.com/politics/2022/07/23/steve-bannon-jan-6-tucker-carlson/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHBS3DQJ7II63AFWIPZL7TDGMI.jpg&w=1440",
-            "publishedAt": "2022-07-23T09:39:00Z",
-            "content": "Comment on this story\r\nHours after being convicted of contempt of Congress on Friday for refusing to cooperate with the House committee investigating the Jan. 6, 2021, insurrection, Stephen K. Bannon\u2026 [+3722 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Landon Mion",
-            "title": "Newsom signs gun control bill modeled after Texas abortion law - Fox News",
-            "description": "California Gov. Gavin Newsom signed gun legislation inspired by Texas' heartbeat law, now allowing private citizens to sue those who violate state gun restrictions.",
-            "url": "https://www.foxnews.com/politics/newsom-signs-gun-control-bill-modeled-texas-abortion-law",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/gavin-newsom-california.jpg",
-            "publishedAt": "2022-07-23T08:59:54Z",
-            "content": "California Democratic Gov. Gavin Newsom on Friday signed a gun control bill into law that will allow private citizens to sue anyone who manufactures, sells, transports or distributes illegal \"assault\u2026 [+4152 chars]"
+            "author": "Jess Weatherbed",
+            "title": "Plex was compromised, exposing usernames, emails and passwords - The Verge",
+            "description": "Streaming media platform Plex sent out an email to its customers earlier today regarding a security breach that may have compromised usernames, emails and passwords.",
+            "url": "https://www.theverge.com/2022/8/24/23319570/plex-security-breach-exposes-usernames-emails-passwords",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_XttSXrOZcA0MgDXShon25TW4_k=/0x11:840x451/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/7029021/plex-hero-970-80-840x472.0.jpg",
+            "publishedAt": "2022-08-24T09:14:28Z",
+            "content": "Plex informs customers of a security breach that may have compromised account information.\r\nImage: Plex\r\nStreaming media platform Plex sent out an email to its customers earlier today notifying them \u2026 [+2781 chars]"
         },
         {
             "source": {
@@ -86,141 +60,76 @@
                 "name": "TMZ"
             },
             "author": "TMZ Staff",
-            "title": "'Godfather' Star James Caan Died from Heart Attack - TMZ",
-            "description": "'Godfather' star James Caan died as a result of a heart attack.",
-            "url": "https://www.tmz.com/2022/07/23/james-caan-cause-death-revealed-heart-attack-godfather/",
-            "urlToImage": "https://imagez.tmz.com/image/f1/16by9/2022/07/22/f180b2cb075e4bdca529e6b2918215b6_xl.jpg",
-            "publishedAt": "2022-07-23T08:00:00Z",
-            "content": "Legendary actor James Caan died from a combination of serious heart problems ... according to his death certificate.\r\nThe document, obtained by TMZ, says James died from a heart attack and coronary a\u2026 [+710 chars]"
+            "title": "Kanye West Files for Bizarre New Blue Logo Trademark for Clothing - TMZ",
+            "description": "Kanye West has been wearing a lot of black lately, but he's thinking blue for his future ... at least when it comes to landing a logo for his clothing line.",
+            "url": "https://www.tmz.com/2022/08/24/kanye-west-blue-logo-trademark-yzysply-design/",
+            "urlToImage": "https://imagez.tmz.com/image/ac/16by9/2022/08/23/ac7f9393b2c14d02a71b5e485ad8a1f4_xl.jpg",
+            "publishedAt": "2022-08-24T08:00:00Z",
+            "content": "Kanye West has been wearing a lot of black lately, but he's thinking blue for his future ... at least when it comes to landing a logo for his clothing line.\r\nYe's filed two new trademarks, obtained b\u2026 [+1073 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Japan signals return to nuclear power to stabilise energy supply - Reuters",
+            "description": "Japan will restart more idled nuclear plants and look at developing next-generation reactors, Prime Minister Fumio Kishida said on Wednesday, setting the stage for a major policy shift on nuclear energy a decade after the Fukushima disaster.",
+            "url": "https://www.reuters.com/world/asia-pacific/japan-pm-call-development-construction-new-generation-nuclear-power-plants-2022-08-24/",
+            "urlToImage": "https://www.reuters.com/resizer/zDx8rcFAZPQdEQ0PcBVscEEGkVE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KPJLTQXFBJO5XJKMGZ4CDMBXF4.jpg",
+            "publishedAt": "2022-08-24T07:04:00Z",
+            "content": "TOKYO, Aug 24 (Reuters) - Japan will restart more idled nuclear plants and look at developing next-generation reactors, Prime Minister Fumio Kishida said on Wednesday, setting the stage for a major p\u2026 [+2671 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "In his quest to bring a championship to the Brooklyn Nets, Kevin Durant is starting the season 0-1 - CBS Sports",
+            "description": "Sure, the Nets' superstar took an L in August, but all will be right if he delivers a W in June",
+            "url": "https://www.cbssports.com/nba/news/in-his-quest-to-bring-a-championship-to-the-brooklyn-nets-kevin-durant-is-starting-the-season-0-1/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/10/97137566-0c17-4c51-907c-724990ae67ef/thumbnail/1200x675/cf5e74b45ff188d707853f8b8465841a/kevin-durant-usatsi.jpg",
+            "publishedAt": "2022-08-24T06:32:00Z",
+            "content": "Kevin Durant lost.\r\nThat's the takeaway from the statement Tuesday from the Brooklyn Nets announcing that the organization and its disgruntled superstar \"have agreed to move forward with our partners\u2026 [+4918 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Adam Kilgore",
-            "title": "Sydney McLaughlin shatters 400-meter hurdles world record - The Washington Post",
-            "description": "The 22-year-old from New Jersey left no doubt as she finished in 50.68 seconds at the track and field world championships.",
-            "url": "https://www.washingtonpost.com/sports/olympics/2022/07/22/sydney-mclaughlin-400-meter-hurdles-world-record/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIIXD33KVFCPFBIRVEAYLP4AEQ.jpg&w=1440",
-            "publishedAt": "2022-07-23T06:38:00Z",
-            "content": "Comment on this story\r\nEUGENE, Ore. On Wednesday evening, Edwin Moses meandered to the warmup track as the women got ready for the semifinals of the 400-meter hurdles, the race that made him one of t\u2026 [+9945 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Associated Press",
-            "title": "Israeli couple arrested after man dies in pool sinkhole - New York Post ",
-            "description": "The man and woman, both in their sixties, are suspected of causing death by negligence, police said.",
-            "url": "https://nypost.com/2022/07/23/israeli-couple-arrested-after-man-dies-in-pool-sinkhole/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/sinkhole.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2022-07-23T06:28:00Z",
-            "content": "JERUSALEM Israeli police said Friday they placed a couple under house arrest, a day after a man attending a party at their villa died after being sucked into a sinkhole that formed at the bottom of t\u2026 [+1169 chars]"
+            "author": "Colby Itkowitz, David Weigel",
+            "title": "Democrats nominate established candidates; gain new traction on abortion - The Washington Post",
+            "description": "Taken together, the results were a welcome sign for Democratic leaders seeking to rally the party base behind its incumbents and find ways to motivate voters to cast ballots against Republicans, who have long felt well-positioned to make big gains in November.",
+            "url": "https://www.washingtonpost.com/politics/2022/08/23/primaries-florida-new-york-democrats-republicans-abortion/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSZZWCBC6YI63JZPDZYUSBZPXQ.jpg&w=1440",
+            "publishedAt": "2022-08-24T06:10:00Z",
+            "content": "Comment on this story\r\nDemocratic efforts to reframe the midterms around the debate over abortion gathered steam, with the party winning a special election for U.S. House in an evenly divided Upstate\u2026 [+12407 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Tina Burnside",
-            "title": "Mega Millions jackpot swells to $790 million after no lottery ticket drew all 6 winning numbers - CNN",
-            "description": "The Mega Millions jackpot has surged to a whopping $790 million after no ticket matched all six winning numbers in Friday night's drawing.",
-            "url": "https://www.cnn.com/2022/07/23/us/mega-millions-jackpot-friday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220723013615-01-mega-millions-no-winner-july-22.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-07-23T06:25:00Z",
-            "content": "The Mega Millions jackpot has surged to a whopping $790 million after no ticket matched all six winning numbers in Friday nights drawing. \r\nFridays winning numbers were 14, 40, 60, 64, 66, plus the g\u2026 [+1213 chars]"
+            "author": "Aya Elamroussi, CNN | Claudia Dominguez, CNN",
+            "title": "A treasured manuscript in a college library that was believed to have been written by Galileo is a forgery, university says - CNN",
+            "description": "A prized manuscript in the University of Michigan library that was believed to have been written by the famed Italian astronomer Galileo Galilei is a forgery, the university said.",
+            "url": "https://www.cnn.com/style/article/galileo-manuscript-michigan-university-forgery-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220824043558-01-galileo-manuscript-forged-university-of-michigan-dupe-super-tease.jpg",
+            "publishedAt": "2022-08-24T05:54:00Z",
+            "content": "artsPublished 24th August 2022\r\nA prized manuscript in the University of Michigan library that was believed to have been written by the famed Italian astronomer Galileo Galilei is a forgery, the univ\u2026 [+2445 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Aya Elamroussi, CNN",
-            "title": "Oppressive heat will bake much of the US this weekend, with the Northeast expected to see triple-digit temperatures - CNN",
-            "description": "Relentless, oppressive heat will grip much of the US this weekend, with the Northeast region expected to bear the brunt amid forecasts for near-record temperatures across the region.",
-            "url": "https://www.cnn.com/2022/07/23/weather/us-extreme-heat-saturday/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220722234506-01-us-extreme-heat-saturday-super-tease.jpg",
-            "publishedAt": "2022-07-23T05:36:00Z",
-            "content": "(CNN)Relentless, oppressive heat will grip much of the US this weekend, with the Northeast region expected to bear the brunt amid forecasts for near-record temperatures across the region. \r\nNearly 80\u2026 [+4599 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Nolan King",
-            "title": "Bellator 283 results: Jason Jackson sweeps scorecards vs. Douglas Lima in uneventful main event - MMA Junkie",
-            "description": "The Bellator 283 main event consisted largely of Jason Jackson in Douglas Lima\u2019s guard.",
-            "url": "https://mmajunkie.usatoday.com/2022/07/bellator-283-results-douglas-lima-vs-jason-jackson",
-            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2022/07/Jason-Jackson-def.-Douglas-Lima-Bellator-283-10.jpg?w=1024&h=576&crop=1",
-            "publishedAt": "2022-07-23T04:14:00Z",
-            "content": "It wasn\u2019t the most rock \u2019em, sock \u2019em fight in Bellator history, but a win is a win for Jason Jackson\u2019s record.\r\nIn the Bellator 283 main event Friday, Jackson (16-4 MMA, 7-1 BMMA) defeated former we\u2026 [+3643 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Calvin Woodward",
-            "title": "Jan. 6 hearings traced an arc of 'carnage' wrought by Trump - The Associated Press - en Espa\u00f1ol",
-            "description": "WASHINGTON (AP) \u2014 To understand how Donald Trump\u2019s desperation and lies became a potent danger to democracy, consider the ginger mints. Mints featured in one of the absurdist but toxic episodes fleshed out in the Jan.",
-            "url": "https://apnews.com/article/Jan-6-hearings-Trump-capitol-10351fe6d555eaee7554379ceed8bb24",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cad5ea10ce0445ca8527e028398afbb7/1920.jpeg",
-            "publishedAt": "2022-07-23T04:06:52Z",
-            "content": "WASHINGTON (AP) To understand how Donald Trumps desperation and lies became a potent danger to democracy, consider the ginger mints.\r\nMints featured in one of the absurdist but toxic episodes fleshed\u2026 [+18874 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Brian Witte",
-            "title": "Author Wes Moore wins Democratic race for Maryland governor - The Associated Press",
-            "description": "ANNAPOLIS, Md. (AP) \u2014 Bestselling author Wes Moore won the Democratic primary for Maryland governor on Friday, setting up a general election contest against Republican Dan Cox , a hard-line conservative endorsed by former President Donald Trump.",
-            "url": "https://apnews.com/article/2022-midterm-elections-entertainment-donald-trump-larry-hogan-cdacc45d4f3cc6f65d14357d0ae86c64",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d8ea8c42a19344e985cfdd580979a89e/3000.jpeg",
-            "publishedAt": "2022-07-23T03:17:04Z",
-            "content": "ANNAPOLIS, Md. (AP) Bestselling author Wes Moore won the Democratic primary for Maryland governor on Friday, setting up a general election contest against Republican Dan Cox, a hard-line conservative\u2026 [+6172 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Zachary Petrizzo",
-            "title": "Josh Hawley Pledges to Not 'Run,' After Being Caught Running From Trump Mob - The Daily Beast",
-            "description": "The irony was lost on the Yale Law School graduate turned Republican senator.",
-            "url": "https://www.thedailybeast.com/josh-hawley-pledges-to-not-run-after-being-caught-running-from-trump-mob",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1658543495/GettyImages-1410357596_qqpaya",
-            "publishedAt": "2022-07-23T02:37:51Z",
-            "content": "On Thursday evening, the Jan. 6 committee played stunning footage of Senator Josh Hawley (R-MO) running away from a mob of pro-Trump vigilantes that he was seen riling up just hours earlier.\r\nDespite\u2026 [+1521 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Guardian staff reporter",
-            "title": "Monkeypox: US confirms first cases of virus in children - The Guardian US",
-            "description": "Cases of infant and toddler unrelated and likely from household transmission, say health authorities",
-            "url": "https://amp.theguardian.com/us-news/2022/jul/23/monkeypox-us-confirms-first-cases-of-virus-in-children",
-            "urlToImage": null,
-            "publishedAt": "2022-07-23T02:28:00Z",
-            "content": "US newsCases of infant and toddler unrelated and likely from household transmission, say health authorities\r\nSat 23 Jul 2022 03.28 BST\r\nCases of monkeypox have been identified in the United States fo\u2026 [+2822 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Stephanie McMahon and the WWE Universe give thanks to Mr. McMahon: SmackDown, July 22, 2022 - WWE",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2-5HEm9DMXU",
-            "urlToImage": null,
-            "publishedAt": "2022-07-23T02:00:00Z",
+            "author": "Gregory Krieg, Steve Contorno and Dan Merica, CNN",
+            "title": "Seven takeaways from primaries in Florida, New York and Oklahoma runoffs - CNN",
+            "description": "Some of the final pieces of the midterm puzzle came into focus as Tuesday primaries in New York, Florida and Oklahoma locked in key parts of the November election slate.",
+            "url": "https://www.cnn.com/2022/08/23/politics/florida-new-york-oklahoma-election-takeaways/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220823200951-crist-desantis-split-super-tease.jpg",
+            "publishedAt": "2022-08-24T04:49:00Z",
             "content": null
         },
         {
@@ -229,38 +138,129 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Multiversus Developers on Designing Lebron James | Comic Con 2022 - IGN",
-            "description": "The developers of truly bonkers fighting game Multiversus continue making it MORE bonkers. After the announcement of Lebron James and Rick and Morty being ad...",
-            "url": "https://www.youtube.com/watch?v=xQN37RxCC7o",
-            "urlToImage": "https://i.ytimg.com/vi/xQN37RxCC7o/hqdefault.jpg",
-            "publishedAt": "2022-07-23T01:22:14Z",
+            "title": "Nadler Celebrates Win In New York House Primary - NBC News",
+            "description": "Rep. Jerry Nadler celebrates with supporters after defeating colleague Rep. Carolyn Maloney in New York\u2019s newly drawn 12th Congressional District.\u00bb Subscribe...",
+            "url": "https://www.youtube.com/watch?v=_XFJpfSFcpU",
+            "urlToImage": "https://i.ytimg.com/vi/_XFJpfSFcpU/hqdefault.jpg",
+            "publishedAt": "2022-08-24T04:15:03Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. military carries out strike in Syria on Iran-linked targets - Reuters",
+            "description": "The U.S. military said it carried out air strikes on Tuesday in Syria's Deir al-Zor against facilities used by groups affiliated with Iran's elite Revolutionary Guards Corps (IRGC).",
+            "url": "https://www.reuters.com/world/middle-east/us-military-carries-out-strike-syria-iran-linked-targets-2022-08-24/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108",
+            "publishedAt": "2022-08-24T03:12:00Z",
+            "content": "WASHINGTON, Aug 23 (Reuters) - The U.S. military said it carried out air strikes on Tuesday in Syria's Deir al-Zor against facilities used by groups affiliated with Iran's elite Revolutionary Guards \u2026 [+2059 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Cassandra Negley",
+            "title": "WNBA playoffs 2022: No. 2 Sky bounce Liberty, 90-72, in Game 3 as quest for championship repeat continues - Yahoo Sports",
+            "description": "Chicago escaped a Game 3 on the road to head back to the semifinals.",
+            "url": "https://sports.yahoo.com/no-2-sky-bounce-liberty-90-72-in-deciding-game-3-as-quest-for-championship-repeat-continues-025707530.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GKZdo_eh0WgY_4sdieOaOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzk-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/1a7769b0-2351-11ed-8fff-a05d86fa9075",
+            "publishedAt": "2022-08-24T02:57:00Z",
+            "content": "It was a classic Chicago Sky-style win to get out of a deciding Game 3 on the road and head back to the WNBA semifinals at their own house. They bounced the No. 7 seed New York Liberty, 90-72, behind\u2026 [+4908 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Chelsea Janes",
+            "title": "Fernando Tatis Jr. apologizes after PED ban - The Washington Post",
+            "description": "\u201cI\u2019m really sorry. I\u2019ve let so many people down,\" Tatis said Tuesday. \u201cI\u2019ve lost so much love from people.\u201d",
+            "url": "https://www.washingtonpost.com/sports/2022/08/23/fernando-tatis-jr-ped-ban-apology/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TVLAOAYX3NELDPNZJVZ4HR2A5A.jpg&w=1440",
+            "publishedAt": "2022-08-24T02:33:00Z",
+            "content": "Comment on this story\r\nEleven days after he accepted his 80-game suspension for testing positive for a performance-enhancing drug, Fernando Tatis Jr. spoke. He spoke to his San Diego Padres teammates\u2026 [+5102 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Rachel Scott, Molly Nagle, Cheyenne Haslett, Arthur Jones II, Luke Barr",
+            "title": "President Biden poised to announce some form of student loan forgiveness: Sources - ABC News",
+            "description": "Talks have centered on around $10,000 for those who make less than $125,000.",
+            "url": "https://abcnews.go.com/Politics/president-biden-poised-announce-form-student-loan-forgiveness/story?id=88736949",
+            "urlToImage": "https://s.abcnews.com/images/Politics/student-loan-cancel-joe-biden-02-rt-llr-220823_1661300202126_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-08-24T01:44:41Z",
+            "content": "As another deadline nears on the restart of payments for America's $1.7 trillion in federal student loans, President Joe Biden is poised to decide whether to cancel debt for a subset of Americans and\u2026 [+8338 chars]"
         },
         {
             "source": {
                 "id": "al-jazeera-english",
                 "name": "Al Jazeera English"
             },
-            "author": "Elizia Volkmann",
-            "title": "Police arrest leading gay activist in crackdown on Tunisia rally - Al Jazeera English",
-            "description": "Young people join anti-Saied demonstrations amid growing anger at president\u2019s proposed new constitution.",
-            "url": "https://www.aljazeera.com/news/2022/7/23/police-arrest-leading-gay-activist-in-crackdown-on-tunisia-rally",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/2022-07-22T182324Z_28149178_RC26HV9272EO_RTRMADP_3_TUNISIA-POLITICS-REFERENDUM-PROTESTS.jpg?resize=1200%2C630",
-            "publishedAt": "2022-07-23T00:38:47Z",
-            "content": "Tunis, Tunisia Police have arrested a leading gay rights campaigner in a violent pushback against young people during a rally against the upcoming referendum on the Tunisian presidents newly proposed\u2026 [+4666 chars]"
+            "author": "Al Jazeera",
+            "title": "Kia, Hyundai SUVs should park outdoors over fire risk: watchdog - Al Jazeera English",
+            "description": "South Korean carmakers have recalled thousands of Hyundai Palisade and Kia Telluride vehicles over trailer hitch issue.",
+            "url": "https://www.aljazeera.com/economy/2022/8/24/kia-hyundai-suvs-should-park-outside-over-fire-risk-watchdog",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/2018-11-29T005704Z_760909781_RC11A9DAE010_RTRMADP_3_AUTOSHOW-LA.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-08-24T01:37:12Z",
+            "content": "Owners of some Hyundai and Kia SUVs that were recently recalled over fire risks should park them outdoors and away from homes until they are repaired, the United States Department of Transportation h\u2026 [+1656 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "New York Times"
             },
-            "author": "William Boston and Georgi Kantchev",
-            "title": "VW Board Ousts CEO Herbert Diess After Pivot to Electric Vehicles - The Wall Street Journal",
-            "description": "Key shareholders joined forces with labor leaders to force out Chief Executive Herbert Diess. The move comes after renewed internal strife over the slow progress developing core software for the company\u2019s new generation of electric vehicles.",
-            "url": "https://www.wsj.com/articles/volkswagen-ceo-herbert-diess-is-stepping-down-11658507894",
-            "urlToImage": "https://images.wsj.net/im-589253/social",
-            "publishedAt": "2022-07-22T23:47:00Z",
-            "content": null
+            "author": "Joe Coscarelli",
+            "title": "Capitol Drops AI Rapper FN Meka Following Backlash - The New York Times",
+            "description": "The record company apologized to \u201cthe Black community\u201d for insensitivity in promoting an AI-backed artist that critics said was \u201cappropriative\u201d and included \u201cslurs infused in lyrics.\u201d",
+            "url": "https://www.nytimes.com/2022/08/23/arts/music/fn-meka-dropped-capitol-records.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/23/arts/23meka1/23meka1-facebookJumbo.jpg",
+            "publishedAt": "2022-08-24T01:34:42Z",
+            "content": "He said that FN Meka was, in fact, primarily an anonymous human rapper hes a Black guy and not this malicious plan of white executives. Its literally no different from managing a human artist, except\u2026 [+1435 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amanda Musa and Michelle Watson, CNN",
+            "title": "Former Louisville detective pleads guilty to federal charges in Breonna Taylor case - CNN",
+            "description": "A former Louisville detective pleaded guilty in federal court Tuesday to conspiring to falsify an affidavit for a warrant to search Breonna Taylor's home -- which ultimately led to the woman's death -- and to cover up the false document by lying to investigat\u2026",
+            "url": "https://www.cnn.com/2022/08/23/us/breonna-taylor-ex-officer-kelly-goodlett-guilty-plea/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201029192002-breonna-taylor-photo-super-tease.jpg",
+            "publishedAt": "2022-08-24T00:41:00Z",
+            "content": "(CNN)A former Louisville detective pleaded guilty in federal court Tuesday to conspiring to falsify an affidavit for a warrant to search Breonna Taylor's home -- which ultimately led to the woman's d\u2026 [+3849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Watch Jennifer Lopez's REGAL Wedding Dresses Come to Life! - Entertainment Tonight",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGGeSQ4D_tiM",
+            "urlToImage": null,
+            "publishedAt": "2022-08-24T00:00:09Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Tresa Baldas, Detroit Free Press",
+            "title": "Judge unseals documents about alleged rogue juror in Whitmer kidnap trial - Detroit Free Press",
+            "description": "A juror supposedly told co-workers his mind was made up, but Judge Robert Jonker concluded that the person could be impartial.",
+            "url": "https://www.freep.com/story/news/local/michigan/2022/08/23/whitmer-kidnap-jury-adam-fox-barry-croft-guilty/7879736001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/10/PDTF/841f7a71-0ff7-466b-ba03-66c309a2a3d0-JonathanRoth2.jpg?auto=webp&crop=1007,567,x0,y93&format=pjpg&width=1200",
+            "publishedAt": "2022-08-23T23:56:38Z",
+            "content": "Hours after a federal jury convicted two men of plotting to kidnap Gov. Gretchen Whitmer, the judge unsealed court documents about a potential\u00a0rogue juror who raised red flags for the defense.\r\nAccor\u2026 [+7995 chars]"
         }
     ]
 }
