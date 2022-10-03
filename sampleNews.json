@@ -1,71 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": null,
-            "title": "Twitter whistleblower could help Musk by adding 'volatility' to legal battle - Reuters",
-            "description": "A whistleblower's complaint that Twitter Inc <a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> misled federal regulators about the company's security risks could provide Elon Musk with fresh ammunition in his bid to get out of bu\u2026",
-            "url": "https://www.reuters.com/markets/deals/twitter-whistleblower-could-help-musk-by-adding-volatility-legal-battle-2022-08-23/",
-            "urlToImage": "https://www.reuters.com/resizer/KDcmQFirIoJrxVdBMhQ9d-lnBkQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ECPZQIMQBNPDLP2WO4SHW2LWHE.jpg",
-            "publishedAt": "2022-08-24T09:59:00Z",
-            "content": "WILMINGTON, Del., Aug 23 (Reuters) - A whistleblower's complaint that Twitter Inc (TWTR.N) misled federal regulators about the company's security risks could provide Elon Musk with fresh ammunition i\u2026 [+4389 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Tara John and Yulia Kesaieva, CNN",
-            "title": "Kyiv displays captured tanks on Independence Day as Ukrainians cast a wary eye on Russia - CNN",
-            "description": "Ukraine's Independence Day, which on Wednesday marks 31 years since the country voted to break with the Soviet Union, is set to be a somber affair as officials warn that Russia may carry out missile attacks against Ukrainian cities.",
-            "url": "https://www.cnn.com/2022/08/23/europe/ukraine-independence-day-kyiv-display-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220823155058-05-ukraine-independence-day-preview-0823-super-tease.jpg",
-            "publishedAt": "2022-08-24T09:48:00Z",
-            "content": "Kyiv, Ukraine (CNN)Ukraine's Independence Day, which on Wednesday marks 31 years since the country voted to break with the Soviet Union, is set to be a somber affair as officials warn that Russia may\u2026 [+5000 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "What Has Russia Lost in War? Military Limits Exposed Despite Curbed GDP Fall - Bloomberg",
-            "description": null,
-            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e0af56a5-239b-11ed-8076-42614169694d&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0yNC9zaXgtbW9udGhzLW9mLXB1dGluLXMtd2FyLXVucmF2ZWxzLXJ1c3NpYS1zLXN1cGVycG93ZXItaW1hZ2U=",
-            "urlToImage": null,
-            "publishedAt": "2022-08-24T09:31:27Z",
-            "content": "To continue, please click the box below to let us know you're not a robot."
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Plex was compromised, exposing usernames, emails and passwords - The Verge",
-            "description": "Streaming media platform Plex sent out an email to its customers earlier today regarding a security breach that may have compromised usernames, emails and passwords.",
-            "url": "https://www.theverge.com/2022/8/24/23319570/plex-security-breach-exposes-usernames-emails-passwords",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_XttSXrOZcA0MgDXShon25TW4_k=/0x11:840x451/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/7029021/plex-hero-970-80-840x472.0.jpg",
-            "publishedAt": "2022-08-24T09:14:28Z",
-            "content": "Plex informs customers of a security breach that may have compromised account information.\r\nImage: Plex\r\nStreaming media platform Plex sent out an email to its customers earlier today notifying them \u2026 [+2781 chars]"
+            "author": "Karla Adam",
+            "title": "U.K. Chancellor Kwasi Kwarteng backtracks on 45 percent tax rate cut - The Washington Post",
+            "description": "Kwasi Kwarteng, the finance minister, said the government was ditching plans to scrap the 45 percent tax rate for the highest earners amid widespread opposition.",
+            "url": "https://www.washingtonpost.com/world/2022/10/03/uk-kwarteng-45p-tax-cut-reverse/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M43LDESC44I63PQXRHF6NOGAUU.jpg&w=1440",
+            "publishedAt": "2022-10-03T10:23:39Z",
+            "content": "LONDON The British government said we get it as it abandoned plans to abolish the top rate of income tax for its highest earners, a key part of its centerpiece economic plans that spooked the markets\u2026 [+4921 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TMZ"
+                "name": "CNBC"
             },
-            "author": "TMZ Staff",
-            "title": "Kanye West Files for Bizarre New Blue Logo Trademark for Clothing - TMZ",
-            "description": "Kanye West has been wearing a lot of black lately, but he's thinking blue for his future ... at least when it comes to landing a logo for his clothing line.",
-            "url": "https://www.tmz.com/2022/08/24/kanye-west-blue-logo-trademark-yzysply-design/",
-            "urlToImage": "https://imagez.tmz.com/image/ac/16by9/2022/08/23/ac7f9393b2c14d02a71b5e485ad8a1f4_xl.jpg",
-            "publishedAt": "2022-08-24T08:00:00Z",
-            "content": "Kanye West has been wearing a lot of black lately, but he's thinking blue for his future ... at least when it comes to landing a logo for his clothing line.\r\nYe's filed two new trademarks, obtained b\u2026 [+1073 chars]"
+            "author": "Arjun Kharpal",
+            "title": "Google shuts down Translate service in China - CNBC",
+            "description": "It marks the end of one of Google's last remaining products in the world's second-largest economy.",
+            "url": "https://www.cnbc.com/2022/10/03/google-shuts-down-translate-service-in-china-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106023112-1563342325878gettyimages-1138777656.jpeg?v=1664788747&w=1920&h=1080",
+            "publishedAt": "2022-10-03T09:19:07Z",
+            "content": "Alphabet's Google on Monday said it shut down the Google Translate service in mainland China, citing low usage.\r\nThe move marks the end of one of its last remaining products in the world's second-lar\u2026 [+1774 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "The Athletic Staff, Bruce Feldman, Jesse Temple",
+            "title": "Wisconsin Badgers fire Paul Chryst, name Jim Leonhard as interim coach - The Athletic",
+            "description": "The Wisconsin Badgers have fired their head football coach Paul Chryst, the school announced on Sunday night. Defensive coordinator Jim Leonhard will be the team\u2019s interim coach.\n\nBREAKING Paul Chryst is out as Wisconsin\u2019s coach, per source. The news was firs\u2026",
+            "url": "https://theathletic.com/3650405/2022/10/02/wisconsin-fires-paul-chryst/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/10/02191607/Paul-Chryst-1024x683.jpg",
+            "publishedAt": "2022-10-03T09:10:09Z",
+            "content": "The Wisconsin Badgers have fired their head football coach Paul Chryst, the school announced on Sunday night. Defensive coordinator Jim Leonhard will be the team\u2019s interim coach.\r\nThe move represents\u2026 [+1218 chars]"
         },
         {
             "source": {
@@ -73,64 +47,129 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Japan signals return to nuclear power to stabilise energy supply - Reuters",
-            "description": "Japan will restart more idled nuclear plants and look at developing next-generation reactors, Prime Minister Fumio Kishida said on Wednesday, setting the stage for a major policy shift on nuclear energy a decade after the Fukushima disaster.",
-            "url": "https://www.reuters.com/world/asia-pacific/japan-pm-call-development-construction-new-generation-nuclear-power-plants-2022-08-24/",
-            "urlToImage": "https://www.reuters.com/resizer/zDx8rcFAZPQdEQ0PcBVscEEGkVE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KPJLTQXFBJO5XJKMGZ4CDMBXF4.jpg",
-            "publishedAt": "2022-08-24T07:04:00Z",
-            "content": "TOKYO, Aug 24 (Reuters) - Japan will restart more idled nuclear plants and look at developing next-generation reactors, Prime Minister Fumio Kishida said on Wednesday, setting the stage for a major p\u2026 [+2671 chars]"
+            "title": "Ukrainian forces advance in south as Russia yields on second front - Reuters",
+            "description": "Ukrainian troops recaptured villages along the west bank of the Dnipro River in southern Ukraine on Monday in a major new breakthrough, opening a second big front that is forcing Moscow to abandon ground just days after claiming to annex it.",
+            "url": "https://www.reuters.com/world/europe/ukraine-celebrates-capturing-key-town-putin-ally-mulls-possible-nuclear-response-2022-10-02/",
+            "urlToImage": "https://www.reuters.com/resizer/dAHnTKIPP8ATngChAr8GmMe9kHY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U4WLXCC33BM43JPP33XAU3CQ5M.jpg",
+            "publishedAt": "2022-10-03T08:14:00Z",
+            "content": "KYIV, Oct 3 (Reuters) - Ukrainian troops recaptured villages along the west bank of the Dnipro River in southern Ukraine on Monday in a major new breakthrough, opening a second big front that is forc\u2026 [+4025 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "CNBC"
             },
-            "author": "",
-            "title": "In his quest to bring a championship to the Brooklyn Nets, Kevin Durant is starting the season 0-1 - CBS Sports",
-            "description": "Sure, the Nets' superstar took an L in August, but all will be right if he delivers a W in June",
-            "url": "https://www.cbssports.com/nba/news/in-his-quest-to-bring-a-championship-to-the-brooklyn-nets-kevin-durant-is-starting-the-season-0-1/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/10/97137566-0c17-4c51-907c-724990ae67ef/thumbnail/1200x675/cf5e74b45ff188d707853f8b8465841a/kevin-durant-usatsi.jpg",
-            "publishedAt": "2022-08-24T06:32:00Z",
-            "content": "Kevin Durant lost.\r\nThat's the takeaway from the statement Tuesday from the Brooklyn Nets announcing that the organization and its disgruntled superstar \"have agreed to move forward with our partners\u2026 [+4918 chars]"
+            "author": "Natasha Turak",
+            "title": "Turkey's inflation hits 83% as Erdogan vows to keep cutting interest rates - CNBC",
+            "description": "Inflation for the country of 84 million people has soared in the last two years.",
+            "url": "https://www.cnbc.com/2022/10/03/turkey-inflation-hits-83percent-erdogan-vows-to-keep-cutting-rates-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107084863-1657082349982-gettyimages-1241501738-TURKEY_TOURISM.jpeg?v=1664784766&w=1920&h=1080",
+            "publishedAt": "2022-10-03T08:12:46Z",
+            "content": "Turkey's inflation climbed to a new 24-year high of more than 83% for September, the country's official body for statistics reported Monday.\r\nConsumer prices month on month grew by 3.08%, and annuall\u2026 [+1360 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Colby Itkowitz, David Weigel",
-            "title": "Democrats nominate established candidates; gain new traction on abortion - The Washington Post",
-            "description": "Taken together, the results were a welcome sign for Democratic leaders seeking to rally the party base behind its incumbents and find ways to motivate voters to cast ballots against Republicans, who have long felt well-positioned to make big gains in November.",
-            "url": "https://www.washingtonpost.com/politics/2022/08/23/primaries-florida-new-york-democrats-republicans-abortion/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSZZWCBC6YI63JZPDZYUSBZPXQ.jpg&w=1440",
-            "publishedAt": "2022-08-24T06:10:00Z",
-            "content": "Comment on this story\r\nDemocratic efforts to reframe the midterms around the debate over abortion gathered steam, with the party winning a special election for U.S. House in an evenly divided Upstate\u2026 [+12407 chars]"
+            "author": "Harrison Smith",
+            "title": "Sacheen Littlefeather, who declined Brando's Oscar, dies at 75 - The Washington Post",
+            "description": "The first Native American woman to stand onstage at the Oscars, she made headlines for calling attention to the mistreatment of American Indians.",
+            "url": "https://www.washingtonpost.com/obituaries/2022/10/03/oscars-activist-sacheen-littlefeather-dead/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSZL3FWNLVDHFEKMTXLWA6IPI4.jpg&w=1440",
+            "publishedAt": "2022-10-03T07:59:00Z",
+            "content": "Sacheen Littlefeather, a Native American actress and activist who made Oscars history in 1973, declining the best actor prize on behalf of Marlon Brando and jolting the Academy and an estimated 85 mi\u2026 [+8488 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "Credit Suisse is not about to cause a Lehman moment, economist Sri-Kumar says - CNBC",
+            "description": "Over the weekend, several media outlets reported that Credit Suisse sought to assuage investors' concerns over its financial health",
+            "url": "https://www.cnbc.com/2022/10/03/credit-suisse-is-not-about-to-cause-a-lehman-moment-sri-kumar-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107127930-1664777965136-gettyimages-1243518486-SWITZERLAND_ECO.jpeg?v=1664783021&w=1920&h=1080",
+            "publishedAt": "2022-10-03T07:43:41Z",
+            "content": "Worries are mounting over Credit Suisse's financial health but that doesn't mean markets are headed toward a \"Lehman moment,\" said the president of Sri-Kumar Global Strategies.\r\n\"I think the Federal \u2026 [+2126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kstp.com"
+            },
+            "author": "Tom Hubbard",
+            "title": "Elementary school teacher among 3 dead in Duluth plane crash - KSTP",
+            "description": "A spokesperson with Independent School District 196, Rosemount-Apple Valley-Eagan, has confirmed to 5 EYEWITNESS NEWS that one of the three people killed in a Duluth plane crash late Saturday night is a 32-year-old teacher in the school district.",
+            "url": "https://kstp.com/kstp-news/top-news/elementary-school-teacher-among-3-dead-in-duluth-plane-crash/",
+            "urlToImage": "https://kstp.com/wp-content/uploads/akta/63630F5C3A9A51076686AC4E7BF7EEE2.jpg",
+            "publishedAt": "2022-10-03T06:42:11Z",
+            "content": "A spokesperson with Independent School District 196, Rosemount-Apple Valley-Eagan, has confirmed to 5 EYEWITNESS NEWS that one of the three people killed in a Duluth plane crash late Saturday night i\u2026 [+1465 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Shweta Sharma",
+            "title": "Video shows \u2018steady stream\u2019 leaving Trump rally after just 15 minutes - The Independent",
+            "description": "Reporter claims to have seen \u2018steady stream of attendees heading for exits since about the 15-minute mark of this now hour-long\u2019 speech",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-michigan-rally-crowd-leave-b2191280.html",
+            "urlToImage": "https://static.independent.co.uk/2022/10/02/01/SEI127720712.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-10-03T06:31:26Z",
+            "content": "Donald Trump supporters reportedly started leaving the venue in large numbers just 15 minutes into his speech at a rally in Michigan on Saturday night.\r\nThe former president held another campaign-sty\u2026 [+3152 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Aya Elamroussi, CNN | Claudia Dominguez, CNN",
-            "title": "A treasured manuscript in a college library that was believed to have been written by Galileo is a forgery, university says - CNN",
-            "description": "A prized manuscript in the University of Michigan library that was believed to have been written by the famed Italian astronomer Galileo Galilei is a forgery, the university said.",
-            "url": "https://www.cnn.com/style/article/galileo-manuscript-michigan-university-forgery-scn/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220824043558-01-galileo-manuscript-forged-university-of-michigan-dupe-super-tease.jpg",
-            "publishedAt": "2022-08-24T05:54:00Z",
-            "content": "artsPublished 24th August 2022\r\nA prized manuscript in the University of Michigan library that was believed to have been written by the famed Italian astronomer Galileo Galilei is a forgery, the univ\u2026 [+2445 chars]"
+            "author": "Camilo Rocha, Kara Fox, Rodrigo Pedroso, Caitlin Hu",
+            "title": "Brazil's heated presidential election will go to second round - CNN",
+            "description": "Brazil's polarizing presidential race will go to a second round run-off after no candidate achieved a majority of more than 50% of the ballot in an election that saw long lines at polling booths as millions turned out to vote.",
+            "url": "https://www.cnn.com/2022/10/02/americas/brazil-election-polls-open-intl-latam/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221002081809-02-bolsonaro-lula-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-03T05:51:00Z",
+            "content": "Brazils polarizing presidential race will go to a second round run-off after no candidate achieved a majority of more than 50% of the ballot in an election that saw long lines at polling booths as mi\u2026 [+6043 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "MLB.com"
             },
-            "author": "Gregory Krieg, Steve Contorno and Dan Merica, CNN",
-            "title": "Seven takeaways from primaries in Florida, New York and Oklahoma runoffs - CNN",
-            "description": "Some of the final pieces of the midterm puzzle came into focus as Tuesday primaries in New York, Florida and Oklahoma locked in key parts of the November election slate.",
-            "url": "https://www.cnn.com/2022/08/23/politics/florida-new-york-oklahoma-election-takeaways/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220823200951-crist-desantis-split-super-tease.jpg",
-            "publishedAt": "2022-08-24T04:49:00Z",
-            "content": null
+            "author": "Mark Bowman",
+            "title": "Braves sweep Mets, magic number one to clinch NL East - MLB.com",
+            "description": "ATLANTA -- Matt Olson and Dansby Swanson were too young to fully appreciate what Chipper Jones did when the Mets and Braves had last played a significant late-season series in Atlanta. But the two suburban Atlanta natives imitated Jones as they pushed the def\u2026",
+            "url": "https://www.mlb.com/news/braves-sweep-mets-magic-number-one-to-clinch-nl-east",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/lfcwk6yw9punwolmqpt2.jpg",
+            "publishedAt": "2022-10-03T05:10:47Z",
+            "content": "ATLANTA -- Matt Olson and Dansby Swanson were too young to fully appreciate what Chipper Jones did when the Mets and Braves had last played a significant late-season series in Atlanta. But the two su\u2026 [+3860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foxweather.com"
+            },
+            "author": "Emilee Speck",
+            "title": "NASA, SpaceX targeting Oct. 5 to launch Crew-5 astronauts after Ian delays - Fox Weather ",
+            "description": "NASA and SpaceX are now targeting Wednesday, Oct. 5, to launch an American, Japanese and Russian astronaut crew to the International Space Station.",
+            "url": "https://www.foxweather.com/earth-space/after-hurricane-ian-delays-nasa-spacex-now-targeting-oct-5-to-launch-crew-5-astronauts",
+            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2022/10/1024/512/52399779119_d6fc4696ec_c.jpg?ve=1&tl=1",
+            "publishedAt": "2022-10-03T04:24:36Z",
+            "content": "KENNEDY SPACE CENTER, Fla. \u2013 Operations at Florida's spaceport are getting back to normal after Hurricane Ian's rampage throughout the state.\u00a0\r\nNASA and SpaceX are now targeting Wednesday, Oct. 5, to\u2026 [+2140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tampa Bay Times"
+            },
+            "author": "Divya Kumar",
+            "title": "Ian\u2019s nasty swipe at Sanibel cuts deep for many Floridians. Here\u2019s why. - Tampa Bay Times",
+            "description": "A rich history surrounds the island and the causeway leading to it. But Sanibel has suffered the wrath of hurricanes before.",
+            "url": "https://www.tampabay.com/hurricane/2022/10/02/ians-nasty-swipe-sanibel-cuts-deep-many-floridians-heres-why/",
+            "urlToImage": "https://www.tampabay.com/resizer/AUI6PXFH_B3yuwPEy9MG7mEMYx4=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/TKLSUOTQO53HTQ7LKOR7KZC274.jpg",
+            "publishedAt": "2022-10-03T03:57:24Z",
+            "content": "The images of Hurricane Ians aftermath show evidence of Floridas increasingly dense development flattened beach communities, boats heaved into piles, mobile homes scattered like toys.\r\nBut one of the\u2026 [+7192 chars]"
         },
         {
             "source": {
@@ -138,103 +177,64 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Nadler Celebrates Win In New York House Primary - NBC News",
-            "description": "Rep. Jerry Nadler celebrates with supporters after defeating colleague Rep. Carolyn Maloney in New York\u2019s newly drawn 12th Congressional District.\u00bb Subscribe...",
-            "url": "https://www.youtube.com/watch?v=_XFJpfSFcpU",
-            "urlToImage": "https://i.ytimg.com/vi/_XFJpfSFcpU/hqdefault.jpg",
-            "publishedAt": "2022-08-24T04:15:03Z",
+            "title": "Kansas City Chiefs vs. Tampa Bay Buccaneers | 2022 Week 4 Highlights - NFL",
+            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+            "url": "https://www.youtube.com/watch?v=YXZfwwq3F5s",
+            "urlToImage": "https://i.ytimg.com/vi/YXZfwwq3F5s/hqdefault.jpg",
+            "publishedAt": "2022-10-03T03:44:41Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "U.S. military carries out strike in Syria on Iran-linked targets - Reuters",
-            "description": "The U.S. military said it carried out air strikes on Tuesday in Syria's Deir al-Zor against facilities used by groups affiliated with Iran's elite Revolutionary Guards Corps (IRGC).",
-            "url": "https://www.reuters.com/world/middle-east/us-military-carries-out-strike-syria-iran-linked-targets-2022-08-24/",
-            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108",
-            "publishedAt": "2022-08-24T03:12:00Z",
-            "content": "WASHINGTON, Aug 23 (Reuters) - The U.S. military said it carried out air strikes on Tuesday in Syria's Deir al-Zor against facilities used by groups affiliated with Iran's elite Revolutionary Guards \u2026 [+2059 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Cassandra Negley",
-            "title": "WNBA playoffs 2022: No. 2 Sky bounce Liberty, 90-72, in Game 3 as quest for championship repeat continues - Yahoo Sports",
-            "description": "Chicago escaped a Game 3 on the road to head back to the semifinals.",
-            "url": "https://sports.yahoo.com/no-2-sky-bounce-liberty-90-72-in-deciding-game-3-as-quest-for-championship-repeat-continues-025707530.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GKZdo_eh0WgY_4sdieOaOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzk-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/1a7769b0-2351-11ed-8fff-a05d86fa9075",
-            "publishedAt": "2022-08-24T02:57:00Z",
-            "content": "It was a classic Chicago Sky-style win to get out of a deciding Game 3 on the road and head back to the WNBA semifinals at their own house. They bounced the No. 7 seed New York Liberty, 90-72, behind\u2026 [+4908 chars]"
+            "author": "Ryan Young",
+            "title": "Cardinals star J.J. Watt emotional, upset after win vs. Panthers following heart procedure - Yahoo Sports",
+            "description": "J.J. Watt\u2019s heart went into atrial fibrillation and had to be shocked back into rhythm on Thursday, just days before he took the field in North Carolina.",
+            "url": "https://sports.yahoo.com/cardinals-star-jj-watt-emotional-upset-after-win-vs-panthers-following-heart-procedure-024111133.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6Ksx5rlYTQRjVDcOZxcYoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/e8a9a760-42c0-11ed-b2fd-ae3557ea2dde",
+            "publishedAt": "2022-10-03T03:41:00Z",
+            "content": "J.J. Watt was extremely emotional on Sunday afternoon in North Carolina.\r\nAfter the week the Arizona Cardinals star had, especially after seeing information leaked by somebody close to him, its easy \u2026 [+3005 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Chelsea Janes",
-            "title": "Fernando Tatis Jr. apologizes after PED ban - The Washington Post",
-            "description": "\u201cI\u2019m really sorry. I\u2019ve let so many people down,\" Tatis said Tuesday. \u201cI\u2019ve lost so much love from people.\u201d",
-            "url": "https://www.washingtonpost.com/sports/2022/08/23/fernando-tatis-jr-ped-ban-apology/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TVLAOAYX3NELDPNZJVZ4HR2A5A.jpg&w=1440",
-            "publishedAt": "2022-08-24T02:33:00Z",
-            "content": "Comment on this story\r\nEleven days after he accepted his 80-game suspension for testing positive for a performance-enhancing drug, Fernando Tatis Jr. spoke. He spoke to his San Diego Padres teammates\u2026 [+5102 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Rachel Scott, Molly Nagle, Cheyenne Haslett, Arthur Jones II, Luke Barr",
-            "title": "President Biden poised to announce some form of student loan forgiveness: Sources - ABC News",
-            "description": "Talks have centered on around $10,000 for those who make less than $125,000.",
-            "url": "https://abcnews.go.com/Politics/president-biden-poised-announce-form-student-loan-forgiveness/story?id=88736949",
-            "urlToImage": "https://s.abcnews.com/images/Politics/student-loan-cancel-joe-biden-02-rt-llr-220823_1661300202126_hpMain_16x9_992.jpg",
-            "publishedAt": "2022-08-24T01:44:41Z",
-            "content": "As another deadline nears on the restart of payments for America's $1.7 trillion in federal student loans, President Joe Biden is poised to decide whether to cancel debt for a subset of Americans and\u2026 [+8338 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Kia, Hyundai SUVs should park outdoors over fire risk: watchdog - Al Jazeera English",
-            "description": "South Korean carmakers have recalled thousands of Hyundai Palisade and Kia Telluride vehicles over trailer hitch issue.",
-            "url": "https://www.aljazeera.com/economy/2022/8/24/kia-hyundai-suvs-should-park-outside-over-fire-risk-watchdog",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/2018-11-29T005704Z_760909781_RC11A9DAE010_RTRMADP_3_AUTOSHOW-LA.jpg?resize=1920%2C1440",
-            "publishedAt": "2022-08-24T01:37:12Z",
-            "content": "Owners of some Hyundai and Kia SUVs that were recently recalled over fire risks should park them outdoors and away from homes until they are repaired, the United States Department of Transportation h\u2026 [+1656 chars]"
+            "author": null,
+            "title": "Oil climbs, Asian shares mixed as holiday-heavy week gets underway - Reuters",
+            "description": "Oil jumped on Monday as OPEC+ considers a cut to output this week, while Asia shares were mixed with holidays in the Asia-Pacific region likely to result in thin trading.",
+            "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-10-03/",
+            "urlToImage": "https://www.reuters.com/resizer/uVoQ4TpafF0IMopjp8JUwU8UV4I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KAF3JZRN4BO7RPAZ3D5S7HZNS4.jpg",
+            "publishedAt": "2022-10-03T03:13:00Z",
+            "content": "TOKYO, Oct 3 (Reuters) - Oil jumped on Monday as OPEC+ considers a cut to output this week, while Asia shares were mixed with holidays in the Asia-Pacific region likely to result in thin trading.\r\nU.\u2026 [+2006 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "Hollywood Reporter"
             },
-            "author": "Joe Coscarelli",
-            "title": "Capitol Drops AI Rapper FN Meka Following Backlash - The New York Times",
-            "description": "The record company apologized to \u201cthe Black community\u201d for insensitivity in promoting an AI-backed artist that critics said was \u201cappropriative\u201d and included \u201cslurs infused in lyrics.\u201d",
-            "url": "https://www.nytimes.com/2022/08/23/arts/music/fn-meka-dropped-capitol-records.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/08/23/arts/23meka1/23meka1-facebookJumbo.jpg",
-            "publishedAt": "2022-08-24T01:34:42Z",
-            "content": "He said that FN Meka was, in fact, primarily an anonymous human rapper hes a Black guy and not this malicious plan of white executives. Its literally no different from managing a human artist, except\u2026 [+1435 chars]"
+            "author": "Lesley Goldberg",
+            "title": "\u2018The Daily Show\u2019 Will Continue (on Comedy Central) Without Trevor Noah - Hollywood Reporter",
+            "description": "Logo text The Daily Show will go on without Trevor Noah. Sources close to the production tell The Hollywood Reporter that the long-running late-night series will indeed continue on at Comedy Central despite industry speculation that it could move to streamer \u2026",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/the-daily-show-will-continue-comedy-central-without-trevor-noah-1235231550/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/10/noah.jpg?w=1024",
+            "publishedAt": "2022-10-03T01:50:58Z",
+            "content": "TheDaily Show will go on without Trevor Noah.\r\nSources close to the production tell The Hollywood Reporter that the long-running late-night series will indeed continue on at Comedy Central despite in\u2026 [+2759 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Hollywood Reporter"
             },
-            "author": "Amanda Musa and Michelle Watson, CNN",
-            "title": "Former Louisville detective pleads guilty to federal charges in Breonna Taylor case - CNN",
-            "description": "A former Louisville detective pleaded guilty in federal court Tuesday to conspiring to falsify an affidavit for a warrant to search Breonna Taylor's home -- which ultimately led to the woman's death -- and to cover up the false document by lying to investigat\u2026",
-            "url": "https://www.cnn.com/2022/08/23/us/breonna-taylor-ex-officer-kelly-goodlett-guilty-plea/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201029192002-breonna-taylor-photo-super-tease.jpg",
-            "publishedAt": "2022-08-24T00:41:00Z",
-            "content": "(CNN)A former Louisville detective pleaded guilty in federal court Tuesday to conspiring to falsify an affidavit for a warrant to search Breonna Taylor's home -- which ultimately led to the woman's d\u2026 [+3849 chars]"
+            "author": "Pamela McClintock",
+            "title": "\u2018Bros\u2019 Box Office: Star Billy Eichner Decries Homophobia After Dismal Opening - Hollywood Reporter",
+            "description": "Actor Billy Eichner didn\u2019t hold back when taking to Twitter on Sunday to comment on the dismal box office opening of his new comedy, Bros. The Universal film \u2014 which marks the first gay romantic comedy released by a major Hollywood studio \u2014 debuted to a disma\u2026",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/bros-billy-eichner-homophobics-box-office-1235231561/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/Bros-Still-1-Universal-Publicity-H-2022.jpg?w=1024",
+            "publishedAt": "2022-10-03T01:34:53Z",
+            "content": "Actor Billy Eichner didn\u2019t hold back when taking to Twitter on Sunday to comment on the dismal box office opening of his new comedy, Bros. \r\nThe Universal film \u2014 which marks the first gay romantic co\u2026 [+3544 chars]"
         },
         {
             "source": {
@@ -242,25 +242,25 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Watch Jennifer Lopez's REGAL Wedding Dresses Come to Life! - Entertainment Tonight",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGGeSQ4D_tiM",
-            "urlToImage": null,
-            "publishedAt": "2022-08-24T00:00:09Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "title": "Hackers release stolen LAUSD data on dark web - ABC7",
+            "description": "After the Los Angeles Unified School District refused to pay a cyberattack ransom, a criminal hacking group has released district data onto the dark web. Det...",
+            "url": "https://www.youtube.com/watch?v=1msd5vLmBx8",
+            "urlToImage": "https://i.ytimg.com/vi/1msd5vLmBx8/maxresdefault.jpg",
+            "publishedAt": "2022-10-03T01:27:01Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Detroit Free Press"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Tresa Baldas, Detroit Free Press",
-            "title": "Judge unseals documents about alleged rogue juror in Whitmer kidnap trial - Detroit Free Press",
-            "description": "A juror supposedly told co-workers his mind was made up, but Judge Robert Jonker concluded that the person could be impartial.",
-            "url": "https://www.freep.com/story/news/local/michigan/2022/08/23/whitmer-kidnap-jury-adam-fox-barry-croft-guilty/7879736001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/10/PDTF/841f7a71-0ff7-466b-ba03-66c309a2a3d0-JonathanRoth2.jpg?auto=webp&crop=1007,567,x0,y93&format=pjpg&width=1200",
-            "publishedAt": "2022-08-23T23:56:38Z",
-            "content": "Hours after a federal jury convicted two men of plotting to kidnap Gov. Gretchen Whitmer, the judge unsealed court documents about a potential\u00a0rogue juror who raised red flags for the defense.\r\nAccor\u2026 [+7995 chars]"
+            "author": null,
+            "title": "Moderate Bosniak candidate leads in race for presidency seat - Reuters",
+            "description": "Moderate Bosniak candidate Denis Becirevic is leading in the run-up for the seat on Bosnia's tripartite inter-ethnic presidency, preliminary results based on a partial vote count showed on Monday.",
+            "url": "https://www.reuters.com/world/europe/bosnians-go-polls-choose-between-nationalists-reformists-2022-10-02/",
+            "urlToImage": "https://www.reuters.com/resizer/M56SmqyxFy59KwBDTO28EEQA4eU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/33QXQOQGCNNL3IU24BE7UT56EU.jpg",
+            "publishedAt": "2022-10-03T01:19:00Z",
+            "content": "SARAJEVO, Oct 3 (Reuters) - Moderate Bosniak candidate Denis Becirevic is leading in the run-up for the seat on Bosnia's tripartite inter-ethnic presidency, preliminary results based on a partial vot\u2026 [+2962 chars]"
         }
     ]
 }
