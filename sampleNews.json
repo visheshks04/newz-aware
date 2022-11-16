@@ -1,32 +1,136 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amir Vera, Holly Yan",
+            "title": "University of Virginia football team is uniting in grief as players and staff process tragedy after fatal shooting, coach and AD say - CNN",
+            "description": "The last 24 hours have felt like a nightmare for University of Virginia head coach Tony Elliott, the entire football team and campus, the coach said Tuesday during a news conference.",
+            "url": "https://www.cnn.com/2022/11/15/us/university-of-virginia-shooting-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221115165204-university-of-virginia-shooting-presser-1115.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-16T00:26:00Z",
+            "content": "The last 24 hours have felt like a nightmare for University of Virginia head coach Tony Elliott, the entire football team and campus, the coach said Tuesday during a news conference. \r\nIm ready for s\u2026 [+7500 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "John Leicester",
+            "title": "Poland: Russian-made missile fell on our country, killing 2 - The Associated Press",
+            "description": "KYIV, Ukraine (AP) \u2014 Poland said early Wednesday that a Russian-made missile fell in the eastern part of the country, killing two people in a blast that marked the first time since the invasion of Ukraine that Russian weapons came down on a NATO country.",
+            "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-kherson-9202c032cf3a5c22761ee71b52ff9d52",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/65d8939683d14ba0b1dcf8ecc3913094/3000.jpeg",
+            "publishedAt": "2022-11-15T23:36:18Z",
+            "content": "KYIV, Ukraine (AP) Poland said early Wednesday that a Russian-made missile fell in the eastern part of the country, killing two people in a blast that marked the first time since the invasion of Ukra\u2026 [+7329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "MacKenzie Sigalos",
+            "title": "From $32 billion to criminal investigations: How Sam Bankman-Fried's empire vanished overnight - CNBC",
+            "description": "Two weeks ago, Sam Bankman-Fried was seen as the respectable face of crypto. It all went up in smoke. Here's how.",
+            "url": "https://www.cnbc.com/2022/11/15/how-sam-bankman-frieds-ftx-alameda-empire-vanished-overnight.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107150626-1668189435403-gettyimages-1232817732-HK_FTX.jpeg?v=1668554625&w=1920&h=1080",
+            "publishedAt": "2022-11-15T23:23:45Z",
+            "content": "Samuel Bankman-Fried's poster in downtown San Francisco.\r\nThe Kimchi Swap put Sam Bankman-Fried on the map.\r\nThe year was 2017, and the ex-Jane Street Capital quant trader noticed something funny whe\u2026 [+15524 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "Fentanyl 'vaccine' may have been discovered, researchers say - Fox News",
+            "description": "Researchers at the University of Houston say they have developed a vaccine to reverse the effect of fentanyl, saving potentially thousands of lives.",
+            "url": "https://www.foxnews.com/science/fentanyl-vaccine-may-have-been-discovered-researchers-say",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/4729663c-Fentanyl.jpg",
+            "publishedAt": "2022-11-15T23:08:38Z",
+            "content": "A team of researchers at the University of Houston may have developed a \"vaccine\" blocking the ability of the dangerous synthetic opioid fentanyl to enter the brain.\u00a0\r\nThe findings, published late la\u2026 [+1635 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ron Amadeo",
+            "title": "The Snapdragon 8 Gen 2 brings Wi-Fi 7, sticks with some 32-bit support - Ars Technica",
+            "description": "Features 32-bit support, Wi-Fi 7, the AV1 codec, and hardware ray tracing.",
+            "url": "https://arstechnica.com/gadgets/2022/11/the-snapdragon-8-gen-2-brings-wi-fi-7-sticks-with-some-32-bit-support/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/Snapdragon-8-Gen-2-Chip-and-QRD-1-760x380.jpg",
+            "publishedAt": "2022-11-15T23:00:49Z",
+            "content": "10 with 0 posters participating\r\nToday, Qualcomm announced the Snapdragon 8 Gen 2 SoC, the company's flagship chip that will be coming to many Android phones over the next few months. Besides the usu\u2026 [+3813 chars]"
+        },
         {
             "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
             "author": null,
-            "title": "Zelensky Visits Kherson After Russia's Retreat: Ukraine War Live Updates - The New York Times",
+            "title": "Est\u00e9e Lauder Agrees to Buy Tom Ford Brand in $2.8 Billion Deal - The New York Times",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyMi8xMS8xNC93b3JsZC9ydXNzaWEtdWtyYWluZS13YXItbmV3c9IBAA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTUvYnVzaW5lc3MvZXN0ZWUtbGF1ZGVyLXRvbS1mb3JkLmh0bWzSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-11-15T00:32:00Z",
+            "publishedAt": "2022-11-15T22:54:09Z",
             "content": null
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Ben Brasch",
-            "title": "ALS diagnosis takes away Roberta Flack's ability to sing - The Washington Post",
-            "description": "Roberta Flack has ALS, her manager says. The amyotrophic lateral sclerosis, also known as Lou Gehrig's disease, has taken away her ability to sing",
-            "url": "https://www.washingtonpost.com/wellness/2022/11/14/als-diagnosis-symptoms/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SLY6I7DEH4I63MEMHTRCEYDQLE.jpg&w=1440",
-            "publishedAt": "2022-11-15T00:29:45Z",
-            "content": "Comment on this story\r\nR&amp;B singer Roberta Flack has been diagnosed with ALS, her manager announced this week, and the disease has made it impossible to sing.\r\nFlack had three hits top the Billboa\u2026 [+2780 chars]"
+            "author": "Ashley Strickland",
+            "title": "First-time NASA spacewalkers ventured outside the space station Tuesday - CNN",
+            "description": "The first in a series of end-of-the-year spacewalks kicked off Tuesday morning outside the International Space Station.",
+            "url": "https://www.cnn.com/2022/11/15/world/iss-spacewalk-americans-cassada-rubio-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114133736-international-space-station-nov-2021.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-15T21:43:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe first in a series of end-of-the-year spacewalks ki\u2026 [+4409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Leah Bitsky",
+            "title": "Jodie Sweetin seemingly shades Candace Cameron Bure after marriage remarks - Page Six",
+            "description": "Sweetin and Cameron Bure grew up together after starring as sisters on the 1987 sitcom \u201cFull House.\u201d",
+            "url": "https://pagesix.com/2022/11/15/jodie-sweetin-shades-candace-cameron-bure-after-marriage-remarks/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/11/Jodie-Sweetin-Candace-Cameron-Bure.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2022-11-15T21:31:00Z",
+            "content": "Jodie Sweetin appeared to throw shade at her former \u201cFull House\u201d co-star Candace Cameron Bure for choosing to join a network that only focuses on showcasing \u201ctraditional marriage.\u201d\r\nAfter JoJo Siwa s\u2026 [+3797 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France",
+            "title": "Offset says he's 'shattered' following death of former bandmate Takeoff - CNN",
+            "description": "Offset has broken his social media silence about the death of Takeoff, a fellow member of platinum-selling rap group Migos.",
+            "url": "https://www.cnn.com/2022/11/15/entertainment/offset-takeoff-tribute/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221115145540-offset-takeoff-tribute.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-15T21:14:00Z",
+            "content": "Offset has broken his social media silence about the death of Takeoff, a fellow member of platinum-selling rap group Migos.\r\nOn Tuesday, Offset posted a note on his verified Instagram account, addres\u2026 [+1254 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Beyonc\u00e9 and Kendrick Lamar Lead 2023 Grammy Nominations - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTUvYXJ0cy9tdXNpYy9ncmFtbXktYXdhcmRzLW5vbWluZWVzLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-15T21:04:25Z",
+            "content": null
         },
         {
             "source": {
@@ -34,12 +138,12 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "NASA's Artemis I Launch Set to Make History - NASA",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dmog9IyT0CPU",
-            "urlToImage": null,
-            "publishedAt": "2022-11-14T23:48:11Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "title": "NASA Launch of Artemis I to the Moon Aboard SLS - NASASpaceflight",
+            "description": "Thanks to Northrop Grumman for sponsoring this broadcast. Learn more about their involvement with the NASA Artemis program https://www.northropgrumman.com/sp...",
+            "url": "https://www.youtube.com/watch?v=kvaz66nMEls",
+            "urlToImage": "https://i.ytimg.com/vi/kvaz66nMEls/maxresdefault_live.jpg",
+            "publishedAt": "2022-11-15T20:37:02Z",
+            "content": null
         },
         {
             "source": {
@@ -47,220 +151,116 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "McCarthy Seeks Support to Become Speaker as Republicans Feud Over Midterms - The New York Times",
+            "title": "House GOP picks Emmer as GOP whip, Scalise as leader - The Hill",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTQvdXMvcG9saXRpY3MvbWNjYXJ0aHktc3BlYWtlci1nb3AtbWlkdGVybXMuaHRtbNIBAA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvMzczNjg5Ny1ob3VzZS1nb3AtcGlja3MtZW1tZXItYXMtZ29wLXdoaXAtc2NhbGlzZS1hcy1sZWFkZXIv0gEA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-11-14T23:43:38Z",
+            "publishedAt": "2022-11-15T20:36:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Geneva Sands, Pete Muntean",
-            "title": "Airlines forced to pay more than $600 million in refunds to passengers amid pandemic woes - CNN",
-            "description": "Airlines have paid more than $600 million in refunds to hundreds of thousands of passengers for canceled or changed flights since the start of the Covid-19 pandemic, the Department of Transportation announced Monday.",
-            "url": "https://www.cnn.com/2022/11/14/politics/airlines-ticket-refunds-travel-tsa/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114175850-cancelled-flights-jfk-file-restricted-040920.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-11-14T23:33:00Z",
-            "content": "Airlines have paid more than $600 million in refunds to hundreds of thousands of passengers for canceled or changed flights since the start of the Covid-19 pandemic, the Department of Transportation \u2026 [+3577 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "How Sam Bankman-Fried\u2019s FTX Crypto Empire Collapsed - The New York Times",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTQvdGVjaG5vbG9neS9mdHgtc2FtLWJhbmttYW4tZnJpZWQtY3J5cHRvLWJhbmtydXB0Y3kuaHRtbNIBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-11-14T23:20:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Devlin Barrett, Josh Dawsey",
-            "title": "Trump's motive in Mar-a-Lago case seen as ego, not money - The Washington Post",
-            "description": "A review by federal agents and prosecutors found no clear business interest in former president Donald Trump's decision to keep classified documents at Mar-a-Lago, people familiar with the matter said.",
-            "url": "https://www.washingtonpost.com/national-security/2022/11/14/trump-motive-mar-a-lago-documents/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z57YJT6MLPCCHTFNLYOPBVNO5I.JPG&w=1440",
-            "publishedAt": "2022-11-14T23:00:00Z",
-            "content": "Comment on this story\r\nFederal agents and prosecutors have come to believe former president Donald Trumps motive for allegedly taking and keeping classified documents was largely his ego and a desire\u2026 [+8438 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "MLB.com",
-            "title": "The case for each 2022 Rookie of the Year finalist - MLB.com",
-            "description": "The 2022 MLB rookie class should go down as one of the best ever, and the six nominees for the Jackie Robinson Rookie of the Year Award are paragons of exactly why.\nDo you like uber-versatile infielders? We've got one on this list.\nHow about a catcher who loo\u2026",
-            "url": "https://www.mlb.com/news/the-case-for-2022-rookie-of-the-year-finalists",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/b1kdstnhathydfni33qu.jpg",
-            "publishedAt": "2022-11-14T22:55:00Z",
-            "content": "The 2022 MLB rookie class should go down as one of the best ever, and the six nominees for the Jackie Robinson Rookie of the Year Award are paragons of exactly why.\r\nDo you like uber-versatile infiel\u2026 [+8853 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Charlie Gasparino",
-            "title": "SEC Chairman Gary Gensler met with head of FTX months before collapse - Fox Business",
-            "description": "SEC Commissioner Gary Gensler met with Sam Bankman-Fried, the head of FTX eight months before its collapse and the company was forced into bankruptcy.",
-            "url": "https://www.foxbusiness.com/markets/sec-chairman-gary-gensler-met-with-head-ftx-months-before-collapse",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/04/0/0/1gensler-4-5-22.jpg?ve=1&tl=1",
-            "publishedAt": "2022-11-14T22:33:08Z",
-            "content": "Gary Gensler\u2019s controversial tenure as chairman of the Securities and Exchange Commission could reach peak drama over a 45-minute Zoom call with Sam Bankman-Fried, the former crypto wunderkind at the\u2026 [+10887 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Caroline Blair",
-            "title": "Pete Davidson, Emily Ratajkowski are reportedly dating, 'really like each other' - Page Six",
-            "description": "Ratajkowski has been living her single life since Page Six broke the news that she\u00a0was breaking up with her husband Sebastian Bear-McClard in July.",
-            "url": "https://pagesix.com/2022/11/14/pete-davidson-and-emily-ratajkowski-are-reportedly-dating/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/11/Pete-Davidson-Emily-Ratajkowski-dating.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2022-11-14T22:32:00Z",
-            "content": "Move over, Sebastian Bear-McClard and Kim Kardashian.\r\nPete Davidson, 28, and Emily Ratajkowski, 31, are reportedly dating.\r\nPete and Emily have been talking for a couple months now, a source told Us\u2026 [+2703 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "James Hibberd",
-            "title": "\u2018Yellowstone\u2019 Season 5 Premiere Breaks Ratings Record With 12.1 Million Viewers - Hollywood Reporter",
-            "description": "Logo text Yellowstone wrangled up a ratings record for its fifth season premiere. The Paramount Network drama delivered a cumulative viewership of 12.1 million live-plus-same-day viewers, the biggest overnight launch yet for the Kevin Costner neo-Western. Acc\u2026",
-            "url": "https://www.hollywoodreporter.com/tv/tv-news/yellowstone-season-5-premiere-ratings-1235261644/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/YS_UNIT_501_052422_EM01422_R-4e1e886d4f19db85-H-2022.jpg?w=1024",
-            "publishedAt": "2022-11-14T22:28:02Z",
-            "content": "Yellowstone wrangled up a ratings record for its fifth season premiere. \r\nThe Paramount Network drama delivered a cumulative viewership of 12.1 million live-plus-same-day viewers, the biggest overnig\u2026 [+2472 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FOX40"
-            },
-            "author": "Jacque Porter",
-            "title": "California reports first death of this winter season of a child under 5 from flu and RSV - KTXL FOX 40 Sacramento",
-            "description": "SACRAMENTO, Calif. (KTXL) \u2014 On Monday, the California Department of Public Health (CDPH) reported the first death of a child under the age of 5 from flu and respiratory syncytial virus (RSV) this winter season. CDPH said it would not be releasing more informa\u2026",
-            "url": "https://fox40.com/news/california-connection/california-reports-first-death-of-this-winter-season-of-a-child-under-5-from-flu-and-rsv/",
-            "urlToImage": "https://fox40.com/wp-content/uploads/sites/13/2022/11/AP22297669926212.jpg?w=1280",
-            "publishedAt": "2022-11-14T22:08:09Z",
-            "content": "SACRAMENTO, Calif. (KTXL) On Monday, the California Department of Public Health (CDPH) reported the first death of a child under the age of 5 from flu and respiratory syncytial virus (RSV) this winte\u2026 [+2942 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Sandra Gonzalez",
-            "title": "Jay Leno recovering from burn injuries - CNN",
-            "description": "Jay Leno is recovering from burn injuries following a gasoline fire, the former \"The Tonight Show\" host told Variety.",
-            "url": "https://www.cnn.com/2022/11/14/entertainment/jay-leno-hospitalized/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114135622-01-jay-leno-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-11-14T21:54:00Z",
-            "content": "Jay Leno is recovering from burn injuries following a gasoline fire, the former The Tonight Show host told Variety. \r\nI got some serious burns from a gasoline fire. I am ok. Just need a week or two t\u2026 [+1440 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WKYT"
-            },
-            "author": "Jeremy Tombs",
-            "title": "Kentucky Children\u2019s Hospital at capacity due to RSV surge - WKYT",
-            "description": "RSV is causing hospital beds across the country to fill up. In Lexington, the Kentucky Children\u2019s Hospital is at capacity.",
-            "url": "https://www.wkyt.com/2022/11/14/kentucky-childrens-hospital-capacity-due-rsv/",
-            "urlToImage": "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/8p0XXb98acboCy_7LSEhoDr-Y-Q=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/U6IVVBZMYBFATGABO7T7PO5QRA.jpg",
-            "publishedAt": "2022-11-14T21:51:00Z",
-            "content": "LEXINGTON, Ky. (WKYT) -RSV is causing hospital beds across the country to fill up. In Lexington, the Kentucky Childrens Hospital is at capacity.\r\nKentucky Childrens Hospital officials say they have s\u2026 [+2001 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Samuel Axon",
-            "title": "Report: Apple\u2019s mixed reality headset is just a few months away - Ars Technica",
-            "description": "The device could be announced as soon as January.",
-            "url": "https://arstechnica.com/gadgets/2022/11/report-apples-mixed-reality-headset-is-just-a-few-months-away/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/03/swordofdamocles-640x215.jpg",
-            "publishedAt": "2022-11-14T21:50:23Z",
-            "content": "Enlarge/ The \"Sword of Damocles\" head-mounted display, the original augmented reality headset, circa 1968.\r\n25 with 0 posters participating\r\nApple is wrapping up development of its long-rumored, long\u2026 [+2216 chars]"
+            "title": "Republicans on verge of U.S. House majority in midterm elections - Reuters.com",
+            "description": "Republicans on Tuesday were edging closer to majority control of the U.S. House of Representatives, a midterm victory tempered by the unexpectedly narrow margin they will hold over Democrats as they usher in two years of divided government.",
+            "url": "https://www.reuters.com/world/us/republicans-verge-us-house-majority-midterm-elections-2022-11-15/",
+            "urlToImage": "https://www.reuters.com/resizer/iDechRFbsFQG223DMdTM3WNYFY4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EGNGAAPGWJNKTCBFH6ZDSZDHZ4.jpg",
+            "publishedAt": "2022-11-15T20:16:00Z",
+            "content": "WASHINGTON, Nov 15 (Reuters) - Republicans on Tuesday were edging closer to majority control of the U.S. House of Representatives, a midterm victory tempered by the unexpectedly narrow margin they wi\u2026 [+3154 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Scott Thompson",
-            "title": "Pat McAfee defends Jeff Saturday hire, eviscerates Joe Thomas and others for being TV 'puppets' - Fox News",
-            "description": "Former Indianapolis Colts punter Pat McAfee defended his once teammate, Jeff Saturday, after he picked up his first win following a lot of backlash for his hiring as interim head coach.",
-            "url": "https://www.foxnews.com/sports/pat-mcafee-defends-jeff-saturday-hire-eviscerates-joe-thomas-others-being-tv-puppets",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/pat-mcafee.jpg",
-            "publishedAt": "2022-11-14T21:23:48Z",
-            "content": "The Indianapolis Colts took a lot of flack for the hiring of Jeff Saturday as interim head coach, but when the dust settled on Sunday, Saturday is 1-0.\u00a0\r\nFormer Colts teammate Pat McAfee took advanta\u2026 [+5290 chars]"
+            "author": "Tyler Olson",
+            "title": "Rick Scott announces plan to unseat Mitch McConnell as the top Republican in the Senate - Fox News",
+            "description": "Sen. Rick Scott told his GOP colleagues he will be running to unseat Mitch McConnell ahead of the party's leadership election, after a lackluster performance in the midterm elections last week.",
+            "url": "https://www.foxnews.com/politics/rick-scott-announces-plan-unseat-mitch-mcconnell-top-republican-senate",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/IMG_6648.jpg",
+            "publishedAt": "2022-11-15T20:09:32Z",
+            "content": "Sen. Rick Scott is running to unseat Minority Leader Mitch McConnell as the top Republican in the Senate, he announced in a note to GOP colleagues Tuesday first obtained by Fox News Digital.\u00a0\r\nScott,\u2026 [+4916 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Dakin Andone, Michelle Watson, Carolyn Sung, Amir Vera",
-            "title": "Student suspect in custody after 3 football players shot dead and 2 people wounded at the University of Virginia, police say - CNN",
-            "description": "Police have in custody a University of Virginia student and ex-UVA football player suspected of fatally shooting three current players and wounding two other people late Sunday at the school's main campus in Charlottesville as a bus returned from a class fiel\u2026",
-            "url": "https://www.cnn.com/2022/11/13/us/university-of-virginia-shooting/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114093210-01-uva-shooting-1114.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-11-14T21:22:00Z",
-            "content": "Police have in custody a University of Virginia student and ex-UVA football player suspected of fatally shooting three current players and wounding two other people late Sunday at the schools main ca\u2026 [+9272 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Spencer Kimball",
-            "title": "As flu hospitalizations surge in the U.S., the Southeast is the hardest hit - CNBC",
-            "description": "Flu activity is the highest in the Southeastern U.S. and Washington D.C. right now. It is also very high in New York City and New Jersey.",
-            "url": "https://www.cnbc.com/2022/11/14/as-flu-hospitalizations-surge-in-the-us-the-southeast-is-the-hardest-hit.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106690940-1599222701467-gettyimages-1270517932-a66i4073_2020090361539411.jpeg?v=1668460140&w=1920&h=1080",
-            "publishedAt": "2022-11-14T21:09:00Z",
-            "content": "Flu hospitalizations have surged to a decade high in the U.S. with the Southeast the hardest region right now.\r\nFive out every 100,000 people in the U.S. were hospitalized with the flu during the wee\u2026 [+2755 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Annabelle Timsit, Miriam Berger",
-            "title": "Iran issues first known death sentence linked to uprising - The Washington Post",
-            "description": "The European Union and United Kingdom announced new sanctions against Iranian officials involved in suppressing protests over the death of Mahsa Amini.",
-            "url": "https://www.washingtonpost.com/world/2022/11/14/iran-death-sentence-protests-mahsa-amini/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MIDAXFGTSW3E2NFIQIX7G73V2E.jpg&w=1440",
-            "publishedAt": "2022-11-14T20:15:00Z",
-            "content": "Comment on this story\r\nAn Iranian court has sentenced an anti-government protester to death for the first time since the alleged police killing of 22-year-old Mahsa Amini in September set off the lon\u2026 [+4513 chars]"
+            "author": "Al Jazeera",
+            "title": "Photos: Russia hits cities across Ukraine with wave of missiles - Al Jazeera English",
+            "description": "Kyiv says about 100 missiles were fired by Russian forces, mostly targeting Ukraine\u2019s energy infrastructure.",
+            "url": "https://www.aljazeera.com/gallery/2022/11/15/photos-russia-hits-cities-across-ukraine-with-wave-of-missiles",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-15T155818Z_1598106207_RC2FMX94T7T0_RTRMADP_3_UKRAINE-CRISIS-KYIV-BLASTS.jpg?resize=1920%2C1419",
+            "publishedAt": "2022-11-15T19:52:36Z",
+            "content": "Air raid sirens blared and explosions rang out in nearly a dozen major cities as Russia rained missiles across Ukraine on Tuesday, in what Kyiv said was the heaviest wave of missile attacks in nearly\u2026 [+994 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Yahoo Entertainment"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Alaa Abdel Fattah: Family say jailed British-Egyptian activist is alive - BBC",
-            "description": "Alaa Abdel Fattah tells his family in a letter from prison that he has resumed drinking water.",
-            "url": "https://www.bbc.com/news/world-middle-east-63621333",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15AB/production/_127574550_e5e0f8a6-c8c2-40b2-bb33-e3a74811d7d2.jpg",
-            "publishedAt": "2022-11-14T20:10:37Z",
-            "content": "The family of jailed British-Egyptian pro-democracy activist Alaa Abdel Fattah, who is on hunger strike, say they have received proof he is alive.\r\nA letter to his mother written two days ago says he\u2026 [+4438 chars]"
+            "author": "4for4",
+            "title": "Fantasy Football: Players to drop for your Week 11 waiver wire pickups - Yahoo Sports",
+            "description": "It's time to audit those fantasy rosters. Jennifer Eakins suggests four players to drop to make room for your Week 11 pickups.",
+            "url": "https://sports.yahoo.com/fantasy-football-players-to-drop-for-your-week-11-waiver-wire-pickups-193113583.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6hwGvF5nHjaTRCmtpIeMnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/09ca6830-6512-11ed-bbff-ee5fde69acbe",
+            "publishedAt": "2022-11-15T19:31:13Z",
+            "content": "Special to Yahoo Sports\r\nWith under a handful of games to go before the fantasy postseason, its imperative to trim the fat from our rosters in order to maximize weekly output. While sometimes we get \u2026 [+5674 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Haris Alic",
+            "title": "McCarthy wins GOP nomination for House speaker - Fox News",
+            "description": "Minority Leader Kevin McCarthy won the Republicans' designation for House speaker on Tuesday, but questions remain over his ability to lock up the spot on the floor in January.",
+            "url": "https://www.foxnews.com/politics/mccarthy-wins-gop-nomination-for-house-speaker",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Kevin-McCarthy-House-Republicans-Commitment-to-America.jpg",
+            "publishedAt": "2022-11-15T19:20:20Z",
+            "content": "Minority Leader Kevin McCarthy won the Republicans' designation for House speaker on Tuesday, but questions remain over his ability to lock up the spot on the floor in January.\r\nMcCarthy, R-Calif., b\u2026 [+2296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "'Mr. President, don't run again': Conservative pundits react to Trump's 'special announcement' - CNN",
+            "description": "After the Republican Party's underwhelming performance in the 2022 midterm elections, conservative media personalities and pundits cast doubt that former Pre...",
+            "url": "https://www.youtube.com/watch?v=AhNa7UGWFew",
+            "urlToImage": "https://i.ytimg.com/vi/AhNa7UGWFew/maxresdefault.jpg",
+            "publishedAt": "2022-11-15T19:17:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MedPage Today"
+            },
+            "author": "Ingrid Hein",
+            "title": "Hospitalized or Not, COVID Symptoms Persist in Many After 2 Years - Medpage Today",
+            "description": "Fatigue, pain, and memory loss cited most frequently",
+            "url": "https://www.medpagetoday.com/infectiousdisease/longcovid/101758",
+            "urlToImage": "https://assets.medpagetoday.net/media/images/101xxx/101758.jpg",
+            "publishedAt": "2022-11-15T19:02:42Z",
+            "content": "Over half of patients were still experiencing at least one post-COVID-19 symptom 2 years after acute infection, whether they had been hospitalized or not, a cross-sectional cohort study showed.\r\nAmon\u2026 [+4007 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Farah Hannoun",
+            "title": "Israel Adesanya\u2019s career was in jeopardy at UFC 281, says coach - MMA Junkie",
+            "description": "Firas Zahabi thinks referee Marc Goddard did Israel Adesanya a huge favor by jumping in to stop his UFC 281 fight with Alex Pereira.",
+            "url": "https://mmajunkie.usatoday.com/2022/11/ufc-281-firas-zahabi-says-alex-pereira-couldve-ended-israel-adesanya-career",
+            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2022/11/alex-pereira-israel-adesanya-ufc-281-12.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2022-11-15T18:15:00Z",
+            "content": "Tristar Gym head coach Firas Zahabi believes referee Marc Goddard did Israel Adesanya a huge favor by jumping in to stop his UFC 281 fight with Alex Pereira.\r\nDown 3-1 on the judges\u2019 scorecards, Pere\u2026 [+1700 chars]"
         }
     ]
 }
