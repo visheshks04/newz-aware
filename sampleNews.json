@@ -1,136 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Investor's Business Daily",
-            "title": "S&P 500 Surges Above Key Level On Fed Chief Powell, But Inflation, Jobs Report Loom | Investor's Business Daily - Investor's Business Daily",
-            "description": "The market rally had a bullish day, but inflation data is on tap.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/sp-500-surges-above-key-level-on-fed-chief-powell-but-inflation-jobs-reports-loom/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-jeromepowell2022-02-gov.jpg",
-            "publishedAt": "2022-12-01T00:35:00Z",
-            "content": "Dow Jones futures were little changed overnight, along with S&amp;P 500 futures and Nasdaq futures. Salesforce.com headlined earnings overnight but investor focus will be on Thursday's PCE inflation \u2026 [+8319 chars]"
+            "author": "Rachel Sharp",
+            "title": "Idaho murders - updates: Moscow police spark confusion over \u2018targeted\u2019 attack as crime scene results come back - The Independent",
+            "description": "Update on Idaho student murders",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/idaho-murder-update-students-university-vigil-b2236652.html",
+            "urlToImage": "https://static.independent.co.uk/2022/11/30/15/Idaho%20murders%20officers%20investigate.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-12-01T09:53:10Z",
+            "content": "ICYMI: Neighbour of victims hits out at Reddit sleuths\r\nA neighbour of the four University of Idaho students who were murdered on 13 November has hit out at Reddit sleuths who claimed that his media \u2026 [+1053 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Kevin Freking",
-            "title": "House votes to avert rail strike, impose deal on unions - The Associated Press",
-            "description": "WASHINGTON (AP) \u2014 The U.S. House moved urgently to head off the looming nationwide rail strike on Wednesday, passing a bill that would bind companies and workers to a proposed settlement that was reached in September but rejected by some of the 12 unions invo\u2026",
-            "url": "https://apnews.com/article/business-economy-strikes-congress-government-and-politics-055609b54cfd5d21de0f42fccddff22b",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/be16fb6569fc4dacac5f8ad5e0d1123b/3000.jpeg",
-            "publishedAt": "2022-12-01T00:28:14Z",
-            "content": "WASHINGTON (AP) The U.S. House moved urgently to head off the looming nationwide rail strike on Wednesday, passing a bill that would bind companies and workers to a proposed settlement that was reach\u2026 [+6580 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Brian Melley",
-            "title": "Mistrial declared in actor Danny Masterson's rape trial - The Associated Press - en Espa\u00f1ol",
-            "description": "LOS ANGELES (AP) \u2014 A judge declared a mistrial Wednesday after jurors said they were hopelessly deadlocked at the trial of \u201cThat \u201970s Show\u201d actor Danny Masterson , who was charged with three rapes.",
-            "url": "https://apnews.com/article/danny-masterson-mistrial-rape-trial-162a670d6068f05462825a96e4193fd8",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/696a58fda2aa4628837fd524d68e698b/1220.jpeg",
-            "publishedAt": "2022-12-01T00:20:01Z",
-            "content": "LOS ANGELES (AP) A judge declared a mistrial Wednesday after jurors said they were hopelessly deadlocked at the trial of That 70s Show actor Danny Masterson, who was charged with three rapes.\r\nLos An\u2026 [+4573 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Musk says Twitter feud with Apple boss 'resolved' - BBC",
-            "description": "The Twitter boss says he met Apple's chief Tim Cook after he criticised the company.",
-            "url": "https://www.bbc.com/news/business-63816110",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6D95/production/_127835082_089604d8491bf22bd1277a281f7023b11aa6a84d.jpg",
-            "publishedAt": "2022-12-01T00:08:06Z",
-            "content": "Elon Musk has said he and Apple boss Tim Cook have \"resolved the misunderstanding\" over Twitter possibly being removed from the app store.\r\nOn Monday, Mr Musk accused Apple of threatening to cut the \u2026 [+3949 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Tierney Sneed, Holmes Lybrand",
-            "title": "DOJ wants 'all' transcripts and evidence in House January 6 probe, Garland says - CNN",
-            "description": "The Justice Department is seeking access to \"all\" transcripts and other evidence collected in the House January 6, 2021, investigation, Attorney General Merrick Garland said Wednesday.",
-            "url": "https://www.cnn.com/2022/11/30/politics/merrick-garland-news-conference/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221130125313-01-garland-oath-keepers-presser-1130.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-11-30T23:54:00Z",
-            "content": "The Justice Department is seeking access to all transcripts and other evidence collected in the House January 6, 2021, investigation, Attorney General Merrick Garland said Wednesday.\r\nThe comments fr\u2026 [+4850 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "World Cup 2022 highlights: Argentina beats Poland to advance - FOX Sports",
-            "description": "Argentina took care of Poland to win Group C and advance. Poland also advanced on Wednesday despite the loss.",
-            "url": "https://www.foxsports.com/stories/soccer/world-cup-2022-top-plays-poland-argentina",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/11/1408/814/11.30.22_Argentina-vs.-Poland_16x9.jpg?ve=1&tl=1",
-            "publishedAt": "2022-11-30T23:25:21Z",
-            "content": "The 2022 FIFA World Cup\r\n continued Wednesday with Group C at the forefront. Argentina stayed alive as it won 2-0 over Poland (1-1-0) at Stadium 974 in Ras Abu Aboud, Qatar. Despite the loss, Poland \u2026 [+5248 chars]"
+            "title": "China mourns former leader Jiang Zemin with bouquets, black front pages - Reuters",
+            "description": "Chinese newspapers turned their front pages black on Thursday and flags were put at half mast in mourning for the death of former president Jiang Zemin, while well-wishers laid piles of bouquets outside his childhood home.",
+            "url": "https://www.reuters.com/world/china/chinese-papers-go-black-mourning-late-leader-jiang-zemin-2022-12-01/",
+            "urlToImage": "https://www.reuters.com/resizer/LQ_kJXEMegMFJErs0XMGJy5CS0A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RDVH4BLF2FK7LLTHQPNZKKTJFQ.jpg",
+            "publishedAt": "2022-12-01T09:46:00Z",
+            "content": "BEIJING/SHANGHAI, Dec 1 (Reuters) - Chinese newspapers turned their front pages black on Thursday and flags were put at half mast in mourning for the death of former president Jiang Zemin, while well\u2026 [+4053 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Lauren Said-Moorhouse, Max Foster, Carolyn Sung",
-            "title": "Prince William and Kate are in the US for their first trip in eight years - CNN",
-            "description": "The new Prince and Princess of Wales touched down in Boston Wednesday ahead of the second iteration of the Earthshot Prize Awards later this week.",
-            "url": "https://www.cnn.com/2022/11/30/world/william-kate-us-visit-boston-intl-scli/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221130154541-04-william-kate-boston-visit-1130.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-11-30T23:12:00Z",
-            "content": "The new Prince and Princess of Wales touched down in Boston Wednesday ahead of the second iteration of the Earthshot Prize Awards later this week.\r\nThe couple flew into the city on a commercial fligh\u2026 [+6807 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "The Wall Street Journal",
-            "title": "Twitter becomes stage for China protests despite ban by Beijing - Fox Business",
-            "description": "Chinese protesters use Twitter through VPNs to smuggle out photos and information on protests in China over its zero-COVID policy and authoritarianism.",
-            "url": "https://www.wsj.com/articles/twitter-becomes-stage-for-china-protests-despite-ban-by-beijing-11669829265?mod=tech_lead_pos1",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/11/0/0/GettyImages-1244311901-1.jpg?ve=1&tl=1",
-            "publishedAt": "2022-11-30T21:42:30Z",
-            "content": "Twitter is banned in China, but it is proving a critical platform for getting videos and images of protests occurring across the nation out to the rest of the world.\r\nChina\u2019s robust internet censors \u2026 [+8179 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "House panel gets access to Trump tax returns - The Hill",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvMzc1NjkyMi1ob3VzZS1wYW5lbC1nZXRzLXRydW1wLXRheC1yZXR1cm5zL9IBUmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvMzc1NjkyMi1ob3VzZS1wYW5lbC1nZXRzLXRydW1wLXRheC1yZXR1cm5zL2FtcC8?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-11-30T21:33:00Z",
-            "content": null
+            "title": "Sam Bankman-Fried says he 'didn't ever try to commit fraud' - Reuters",
+            "description": "Sam Bankman-Fried, the founder and former CEO of now-bankrupt crypto exchange FTX, attempted to distance himself from suggestions of fraud in his first public appearance since his company's collapse stunned investors and left creditors facing losses totaling \u2026",
+            "url": "https://www.reuters.com/technology/sam-bankman-fried-says-he-didnt-ever-try-commit-fraud-2022-11-30/",
+            "urlToImage": "https://www.reuters.com/resizer/EMe7mLTv9DfN1DGjLg4GB_gcOn4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SHTDLP3ASJOQRNYQ5CLQK6W3TI.jpg",
+            "publishedAt": "2022-12-01T09:02:00Z",
+            "content": "NEW YORK, Nov 30 (Reuters) - Sam Bankman-Fried, the founder and former CEO of now-bankrupt crypto exchange FTX, attempted to distance himself from suggestions of fraud in his first public appearance \u2026 [+4653 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Chuck Culpepper",
-            "title": "Australia advances to World Cup round of 16 - The Washington Post",
-            "description": "Australia, an afterthought among afterthoughts in the World Cup field, beat Denmark on Wednesday in Qatar.",
-            "url": "https://www.washingtonpost.com/sports/2022/11/30/australia-world-cup-round-of-16/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RSWIAVNY2JGQJLJBA6BYS2ZYQE.JPG&w=1440",
-            "publishedAt": "2022-11-30T21:20:00Z",
-            "content": "Comment on this story\r\nWAKRAH, Qatar Australia barely wriggled into this World Cup like some gritty but gasping marsupial, while Denmark came in after recent heights as a sleek, fashionable pick to g\u2026 [+5648 chars]"
+            "author": "Evelyn Cheng",
+            "title": "China signals slight Covid policy easing \u2014 but don't expect sweeping changes yet - CNBC",
+            "description": "A trickle of changes around China's Covid controls in the last day is raising hopes that broader relaxation is on the way.",
+            "url": "https://www.cnbc.com/2022/12/01/china-signals-slight-covid-policy-easing-without-any-major-change.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107159464-1669869863075-YIN_HON_221201_GZ.JPG?v=1669882541&w=1920&h=1080",
+            "publishedAt": "2022-12-01T08:15:41Z",
+            "content": "BEIJING A trickle of changes around China's Covid controls in the last 24 hours has raised hopes that broader relaxation is on its way.\r\nLocal state media reports and anecdotes indicated Thursday tha\u2026 [+3184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Moscow Times"
+            },
+            "author": "AFP",
+            "title": "EU Eyes Special Court to Try Russia for Ukraine War - The Moscow Times",
+            "description": "European Union chief Ursula von der Leyen on Wednesday floated the idea of a \"specialized court\" to put Russia's top officials on trial over the war in Ukraine.",
+            "url": "https://www.themoscowtimes.com/2022/12/01/eu-eyes-special-court-to-try-russia-for-ukraine-war-a79549",
+            "urlToImage": "https://static.themoscowtimes.com/image/og/64/79549__645d9623ef327239a497ffe82db6666d.jpg",
+            "publishedAt": "2022-12-01T07:42:14Z",
+            "content": "European Union chief Ursula von der Leyen on Wednesday floated the idea of a \"specialized court\" to put Russia's top officials on trial over the war in Ukraine.\r\nOn the ground, Russia said it had cap\u2026 [+4380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "As.com"
+            },
+            "author": "Joe Brennan",
+            "title": "Saudi Arabia vs Mexico summary: Mexico out, score, goals, highlights 1-2 | Qatar World Cup 2022 - AS USA",
+            "description": "Mexico led through Mart\u00edn and Ch\u00e1vez and needed a goal to qualify, but Saudi Arabia hit them on the break and ensured they were out.",
+            "url": "https://en.as.com/soccer/saudi-arabia-vs-mexico-live-online-updates-score-stats-qatar-world-cup-2022-n/",
+            "urlToImage": "https://img.asmedia.epimg.net/resizer/q5r-3TSeAa8ietlEfaj3IpY2OoI=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/33263TY6L4J7PIITOG5HHUUGQA.jpg",
+            "publishedAt": "2022-12-01T07:30:00Z",
+            "content": "FULL TIME!\r\nFT: Saudi Arabia\u00a0\u00a0\u00a0 1-2 \u00a0\u00a0Mexico\r\nMatch report and reaction coming up...\r\nSo, it was not to be for Mexico, who showed the spirit and attacking talent that they so lacked in previous games\u2026 [+1000 chars]"
         },
         {
             "source": {
@@ -138,64 +86,129 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Fantasy Football Week 13 Start 'Em & Sit 'Em Running Backs: Get Rachaad White, Gus Edwards in lineups - CBS Sports",
-            "description": "Helping you make the right lineup calls at running back for Week 13",
-            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-13-start-em-sit-em-running-backs-get-rachaad-white-gus-edwards-in-lineups/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/30/f99bf37d-5231-4d02-a2bf-381b1faeb4a2/thumbnail/1200x675/91e11a1abd8200a3a212b1db34dfe948/rachaad-white-2-1400-us.jpg",
-            "publishedAt": "2022-11-30T20:59:13Z",
-            "content": "Byes are back but light with only James Conner, D'Onta Foreman and Chuba Hubbard out for Week 13. Injuries to Josh Jacobs, Travis Etienne, Najee Harris, Leonard Fournette, Joe Mixon, Alvin Kamara, Ch\u2026 [+432 chars]"
+            "title": "Rose Bowl agreement clears way for College Football Playoff's 12-team expansion in 2024 and 2025 - CBS Sports",
+            "description": "The CFP demanded a decision by the Rose Bowl before the end of the week",
+            "url": "https://www.cbssports.com/college-football/news/rose-bowl-agreement-clears-way-for-college-football-playoffs-12-team-expansion-in-2024-and-2025/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/01/07/cce1fa0d-b26e-44cb-a5f6-4fa7bc7d7ea7/thumbnail/1200x675/544ea3ac5dc8b916deb7a31e75c5814a/2020-rose-bowl-sunset-getty.jpg",
+            "publishedAt": "2022-12-01T07:00:00Z",
+            "content": "The Rose Bowl has signed an agreement with the College Football Playoff that paves the way for the event to expand to 12 teams starting in 2024, sources confirm to CBS Sports. The CFP had given the R\u2026 [+5033 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "INSIDER"
+                "name": "Eonline.com"
             },
-            "author": "Charissa Cheong",
-            "title": "TikTokers are destroying Balenciaga products to protest the brand - Insider",
-            "description": "On November 22, Balenciaga removed controversial ads after they were accused of sexualizing children. Now TikTokers are publicly boycotting the brand.",
-            "url": "https://www.insider.com/tiktokers-destroying-balenciaga-products-protest-brand-2022-11",
-            "urlToImage": "https://i.insider.com/638770f4d9fcb200198d5f08?width=1200&format=jpeg",
-            "publishedAt": "2022-11-30T19:55:17Z",
-            "content": "TikTokers are filming themselves while they burn, cut up, and throw away Balenciaga products in protest of the brand's controversial holiday ad campaign involving children holding teddy-bear bags acc\u2026 [+4467 chars]"
+            "author": "Amy Lamare",
+            "title": "See Prince William and Kate Middleton Step Out for Boston Event Amid Palace Controversy - E! NEWS",
+            "description": "Prince William and Princess Kate arrived in the U.S. for the first time since 2014 amid controversy from Buckingham Palace. Keep reading to find out all about it.",
+            "url": "https://www.eonline.com/news/1356443/see-prince-william-and-kate-middleton-step-out-for-boston-event-amid-palace-controversy",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20221030/rs_1200x1200-221130143910-1200.2prince-william-kate-middleton-boston.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-12-01T06:42:00Z",
+            "content": "Prince William and Kate Middleton's first trip to the U.S. since 2014 comes amid controversy at Buckingham\u00a0Palace.\u00a0\r\nAs the royal family deals with the fallout stemming from an incident at a recent r\u2026 [+986 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "CNBC US Source",
-            "title": "What increasing confidence in Biogen's latest Alzheimer's drug means for Eli Lilly - CNBC",
-            "description": "Eli Lilly's (LLY) Alzheimer's efforts are not central to our investment case, but Biogen's (BIIB) full trial data is incrementally positive.",
-            "url": "https://www.cnbc.com/2022/11/30/what-increasing-hope-for-biogen-alzheimers-drug-means-for-eli-lilly.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106893498-1623102635797-gettyimages-1233323554-ALZHEIMERS_BIOGEN.jpeg?v=1669837836&w=1920&h=1080",
-            "publishedAt": "2022-11-30T19:50:36Z",
-            "content": null
+            "author": "Jihye Lee",
+            "title": "Asia-Pacific markets rise, Japanese yen strengthens as Fed signals smaller hikes - CNBC",
+            "description": "Investors in the Asia-Pacific digest commentary from Federal Reserve Chair Jerome Powell as he confirmed smaller rate hikes could start in December.",
+            "url": "https://www.cnbc.com/2022/12/01/asia-pacific-stocks-fed-confirms-smaller-hikes-ahead.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107159436-1669859699359-gettyimages-1243950696-yuen-hongkong221013_npN6J.jpeg?v=1669859898&w=1920&h=1080",
+            "publishedAt": "2022-12-01T06:29:00Z",
+            "content": "Singapore's Deputy Prime Minister Lawrence\u00a0Wong said the state sovereign wealth fund's investment loss of $275 million in collapsed crypto exchange FTX is \"disappointing and has caused reputational d\u2026 [+640 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "IndieWire"
             },
-            "author": "Robert Lea",
-            "title": "Wormhole study may unite quantum physics, general relativity - Space.com",
-            "description": "The breakthrough could suggest a way to study 'quantum gravity,' the missing link between quantum physics and Einstein's general relativity in the lab.",
-            "url": "https://www.space.com/wormhole-simulation-may-unite-quantum-physics-general-relativity",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pTiH9JxfPGp2xsKfJiRJxA-1200-80.jpg",
-            "publishedAt": "2022-11-30T19:30:14Z",
-            "content": "Scientists have devised a quantum experiment that allows them to study the dynamics of wormholes, theoretical spacetime entities that first emerged from Albert Einstein's 1915 theory of gravity, or g\u2026 [+7671 chars]"
+            "author": "David Ehrlich",
+            "title": "\u2018Emancipation\u2019 Review: Will Smith\u2019s Unrelentingly Brutal Slave Epic Is a B Movie with Delusions of Grandeur - Yahoo Entertainment",
+            "description": "\"The Slap\" forced Antoine Fuqua's film into the Oscar spotlight, but this violent slavery thriller wasn't built for the burden of such expectations.",
+            "url": "https://www.indiewire.com/2022/12/emancipation-review-will-smith-1234786471/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AsSBu4FtpxqMmWTMLxP_9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/indiewire_268/762d03348ba5e28dd532e53287c69b62",
+            "publishedAt": "2022-12-01T06:27:47Z",
+            "content": ", Antoine Fuquas thoroughly Oscar-pilled Emancipation is the kind of immaculate misfire that could only happen because Hollywood is spinning off its axis. Because the American film industry has sacri\u2026 [+7950 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "INSIDER"
             },
-            "author": "Zachary McAuliffe",
-            "title": "Apple Releases iOS 16.1.2. What's Included in the Update - CNET",
-            "description": "It includes some security updates and more.",
-            "url": "https://www.cnet.com/tech/services-and-software/apple-releases-ios-16-1-2-whats-included-in-the-update/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/1d57216bbf6877a5d8bec25f51c61cad31dc1a28/hub/2022/08/09/4802287e-8f71-4dfe-afc7-8a562f15a407/ios16.png?auto=webp&fit=crop&height=630&width=1200",
-            "publishedAt": "2022-11-30T19:08:00Z",
-            "content": "Apple released the\u00a0iOS 16.1.2 update Wednesday. This update comes three weeks after the release of iOS 16.1.1 and more than a month after the release of iOS 16.1.\r\nScreenshot by Zach McAuliffe/CNET\r\n\u2026 [+605 chars]"
+            "author": "Cheryl Teh",
+            "title": "A student leader who survived the 1989 Tiananmen Square protests says Xi Jinping is showing a 'rare display of weakness' by relaxing the zero-COVID policy - Yahoo News",
+            "description": "Zhou Fengsuo, who was sent to a Chinese re-education camp after the Tiananmen protest, said he was \"in tears\" watching the weekend protests in China.",
+            "url": "https://www.insider.com/tiananmen-square-student-leader-says-xi-showing-signs-of-weakness-2022-12",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hql4VGbIjcJlzKeEFaoQCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insider_articles_922/999bc7a27cd739804ded2f66ba3a3b84",
+            "publishedAt": "2022-12-01T06:24:25Z",
+            "content": "Chinese President Xi Jinping.Xinhua/Rao Aimin via Getty Images\r\n<ul><li>Zhou Fengsuo was a Tiananmen Square protester who was jailed in China for a year.\r\n</li><li>He said he thinks Xi's willingness \u2026 [+2546 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBSBoston.com Staff",
+            "title": "Police searching for Christopher Keeley, wanted for killing Marshfield couple Carl and Vicki Mattson - CBS Boston",
+            "description": "State and local police are looking for a man who they say brutally murdered a couple in their home in Marshfield.",
+            "url": "https://www.cbsnews.com/boston/news/christopher-keeley-marshfield-murders-gotham-hill-drive-massachusetts-police-carl-vicki-mattson/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/30/5d312694-9642-4e9c-b977-3dbc39bec85f/thumbnail/1200x630/8cfc62320e782074be62794d56bd98ed/keeley.jpg",
+            "publishedAt": "2022-12-01T04:19:00Z",
+            "content": "MARSHFIELD - State and local police are looking for a man who they say brutally murdered a couple in their home in Marshfield. Authorities said 27-year-old Christopher Keeley should be considered \"ar\u2026 [+3014 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Scientists simulate \u2018baby\u2019 wormhole without rupturing space and time - The Guardian",
+            "description": "Theoretical achievement hailed, though sending people through a physical wormhole remains in the realms of science fiction",
+            "url": "https://www.theguardian.com/science/2022/dec/01/scientists-simulate-baby-wormhole-without-rupturing-space-and-time",
+            "urlToImage": "https://i.guim.co.uk/img/media/5077332c73231941809d031ce7bd6e450ccf55ed/0_0_2200_1320/master/2200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc55f9d996d309ca44bef8b894855ba2",
+            "publishedAt": "2022-12-01T03:34:00Z",
+            "content": "Its a mainstay of science fiction, its tiny and it doesnt exist in physical space, but researchers say theyve created what is, theoretically, a worm hole.\r\nResearchers have announced that they simula\u2026 [+3294 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Josh Weinfuss",
+            "title": "Kyler Murray fires back at ex-teammate Patrick Peterson over podcast jab - ESPN",
+            "description": "Arizona Cardinals quarterback Kyler Murray responded to former teammate Patrick Peterson on Wednesday night after the Minnesota Vikings cornerback criticized Murray on his podcast.",
+            "url": "https://www.espn.com/nfl/story/_/id/35152069/kyler-murray-fires-back-ex-teammate-patrick-peterson-podcast-jab",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0911%2Fr1060359_1024x576_16%2D9.jpg",
+            "publishedAt": "2022-12-01T03:14:20Z",
+            "content": "TEMPE, Ariz. -- Arizona Cardinals quarterback Kyler Murray responded to former teammate Patrick Peterson on Wednesday night after the Minnesota Vikings cornerback criticized Murray on his podcast.\r\n\"\u2026 [+973 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "A New Limited-Time Pok\u00e9mon Scarlet & Violet Tera Raid Battle Event Starts Today - Nintendo Life",
+            "description": "Catch a special Charizard",
+            "url": "https://www.nintendolife.com/news/2022/12/a-new-limited-time-pokemon-scarlet-and-violet-tera-raid-battle-event-starts-today",
+            "urlToImage": "https://images.nintendolife.com/bfafa939867c3/1280x720.jpg",
+            "publishedAt": "2022-12-01T03:00:00Z",
+            "content": "Following the special \"Eevee Spotlight\", Pok\u00e9mon Scarlet and Violet are now hosting their second Tera Raid Battle event. This time it features the mighty Charizard.\r\nThis first event runs from 1st - \u2026 [+863 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. House Democrats elect Hakeem Jeffries as first Black party leader - Reuters",
+            "description": "Hakeem Jeffries was unanimously elected on Wednesday to become the Democratic Party's top leader in the U.S. House of Representatives beginning in January, making him the first Black American to hold such a high-ranking position in Congress.",
+            "url": "https://www.reuters.com/world/us/us-house-democrats-set-elect-hakeem-jeffries-first-black-party-leader-2022-11-30/",
+            "urlToImage": "https://www.reuters.com/resizer/_yPHW3hhOF2rVD_cemZIt2K6_1I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3N77BSYOQVK4FN56RC7MJFLS64.jpg",
+            "publishedAt": "2022-12-01T02:57:00Z",
+            "content": "WASHINGTON, Nov 30 (Reuters) - Hakeem Jeffries was unanimously elected on Wednesday to become the Democratic Party's top leader in the U.S. House of Representatives beginning in January, making him t\u2026 [+4079 chars]"
         },
         {
             "source": {
@@ -203,64 +216,51 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "French baguettes honored for their delicious role in world's cultural heritage - CBS News",
-            "description": "The traditional and beloved long loaf of crusty French bread, the baguette, has been officially recognized as a part of world cultural heritage by the United...",
-            "url": "https://www.youtube.com/watch?v=uOpbAr8MfO4",
-            "urlToImage": "https://i.ytimg.com/vi/uOpbAr8MfO4/maxresdefault.jpg",
-            "publishedAt": "2022-11-30T19:02:29Z",
+            "title": "New York City mayor vows to have mentally ill people on the streets brought to hospitals - KGW News",
+            "description": "The NYT reported that Mayor Eric Adams has directed police and medical workers to provide involuntary assistance for the mentally ill. A viewer brought the s...",
+            "url": "https://www.youtube.com/watch?v=QflZN_FDu1M",
+            "urlToImage": "https://i.ytimg.com/vi/QflZN_FDu1M/hqdefault.jpg",
+            "publishedAt": "2022-12-01T02:56:07Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "Space.com"
             },
-            "author": "Jake Trotter",
-            "title": "Deshaun Watson silent, but Cleveland Browns teammates talk buzz of return - ESPN",
-            "description": "Deshaun Watson didn't speak to the media as expected, but his Browns teammates admitted there's a buzz around his return from suspension.",
-            "url": "https://www.espn.com/nfl/story/_/id/35147804/deshaun-watson-silent-cleveland-browns-teammates-talk-buzz-return",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1128%2Fr1098510_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-11-30T19:00:09Z",
-            "content": "BEREA, Ohio -- Deshaun Watson didn't speak Wednesday, as scheduled.\r\nSpeaking for him instead, Watson's teammates praised his talent and admitted there's a buzz in the Cleveland Browns' locker room t\u2026 [+2687 chars]"
+            "author": "Mike Wall",
+            "title": "SpaceX delays launch of Japanese moon lander again, citing rocket issues - Space.com",
+            "description": "The company has not yet set a new target date for the launch of the Hakuto-R moon lander.",
+            "url": "https://www.space.com/spacex-delays-japan-moon-lander-launch-again",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TaeeGAa6T2KSLge3vyaa4R-1200-80.jpeg",
+            "publishedAt": "2022-12-01T02:23:59Z",
+            "content": "SpaceX just stood down again from the launch of a Japanese moon lander.\r\nThe Hakuto-R lander, which was built by Tokyo-based company ispace, and NASA's Lunar Flashlight cubesat were scheduled to laun\u2026 [+2760 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The-sun.com"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Charlotte Edwards",
-            "title": "YouTube down in global outage as users struggle to access app... - The US Sun",
-            "description": "YOUTUBE is experiencing a global app outage. Users are struggling to access the YouTube app in several countries but the company is working on a fix. Lots of people have taken to social media to co\u2026",
-            "url": "https://www.the-sun.com/tech/6806781/youtube-down-app-crashing-global-outage-not-working/",
-            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2022/11/SF-youtube-down-OFF-PLTFRM-COMP-.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-            "publishedAt": "2022-11-30T18:57:32Z",
-            "content": "YOUTUBE is experiencing a global app outage.\r\nUsers are struggling to access the YouTube app in several countries but the company is working on a fix.\r\nYouTube users are struggling to use the appCred\u2026 [+1710 chars]"
+            "author": "Perry Stein, Spencer S. Hsu, Devlin Barrett",
+            "title": "Garland praises Oath Keepers verdict, won't say where Jan. 6 probe goes - The Washington Post",
+            "description": "The Justice Dept. will weigh the conviction of Stewart Rhodes and a top deputy in deciding whether to pursue other high-profile Trump allies, people familiar with the matter said.",
+            "url": "https://www.washingtonpost.com/national-security/2022/11/30/rhodes-verdict-trump-garland-investigation/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVFZOZKU3WVG3CSCXEM67W3LXA.JPG&w=1440",
+            "publishedAt": "2022-12-01T02:17:36Z",
+            "content": "A day after a federal jury convicted two far-right extremists of leading a plot to unleash political violence to prevent the inauguration of Joe Biden, Attorney General Merrick Garland vowed that his\u2026 [+6915 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Grace Toohey, Summer Lin",
-            "title": "Catfishing cop pretended to be 17, 'groomed' California girl before killing her family - Yahoo News",
-            "description": "Austin Lee Edwards posed online as a teen to 'groom' a 15-year-old girl before killing her three family members in Riverside, police say.",
-            "url": "https://news.yahoo.com/catfishing-cop-pretended-17-groomed-185252481.html",
-            "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/828e28b5d4dc5d02590547a0078e439d",
-            "publishedAt": "2022-11-30T18:52:52Z",
-            "content": "At a news conference Wednesday, Michelle Blandin, center, grasps her husband's arm while talking about her sister, Brooke Winek, and her parents, Mark and Sharie Winek, all three of whom were killed \u2026 [+7524 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Emily Smith, Francesca Bacardi",
-            "title": "Married 'GMA' co-hosts T.J. Holmes and Amy Robach allegedly had months-long affair - Page Six",
-            "description": "New pictures show Robach and Holmes cozying up to each other during various recent outings both in Upstate New York and around the city.",
-            "url": "https://pagesix.com/2022/11/30/gma-hosts-t-j-holmes-amy-robach-allegedly-had-months-long-affair/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/11/TJ-Holmes-Amy-Robach-affair.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2022-11-30T18:34:00Z",
-            "content": "Good morning, affair!\r\nMarried Good Morning America co-anchors T.J. Holmes and Amy Robach left their partners after an alleged months-long affair, Page Six has confirmed.\r\nA source claims to Page Six\u2026 [+2738 chars]"
+            "author": "Madeline Holcombe",
+            "title": "Here's how to know when your child is too sick for school - CNN",
+            "description": "Wintertime brings sniffles, and with so many kids coming back to school from a few years at home, RSV, the flu and colds are hitting especially hard. Experts share when it's time to keep your kids home from school and when it's time to see the doctor.",
+            "url": "https://www.cnn.com/2022/11/30/health/rsv-kids-school-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221130153944-sick-child-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-01T01:43:00Z",
+            "content": "A sniffle, a sneeze or a cough can set off alarm bells these days for families with young children.\r\nMother of two Vickie Leon said her kids, ages 4 and 2, can sometimes go a month or two without bri\u2026 [+6609 chars]"
         }
     ]
 }
