@@ -1,19 +1,175 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 37,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Tom\u00e1s Mier",
+            "title": "Jack White Mocks Elon Musk\u2019s \u2018Free Speech\u2019 Hypocrisy After Kanye Twitter Ban - Rolling Stone",
+            "description": "\"It's nice to watch in real time as you learn that all things need to be regulated,\" wrote the musician",
+            "url": "https://www.rollingstone.com/music/music-news/jack-white-slams-elon-musk-free-speech-hypocrisy-1234640651/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/12/jack-white-elon-musk.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2022-12-03T06:52:45Z",
+            "content": "Jack White has been keeping up with Elon Musk\u2019s Twitter regime \u2014 and has some pointed words about it. On Friday, the \u201cLove Is Blindness\u201d musician shared his thoughts on Musk\u2019s allowance of certain pe\u2026 [+2987 chars]"
+        },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "John Wagner, Azi Paybarah",
-            "title": "Post Politics Now: Biden meets with Prince William during Boston swing - The Washington Post",
-            "description": "The meeting with Prince William and Catherine, Princess of Wales, comes during a trip that also includes a union event and a fundraiser for Senate Democrats.",
-            "url": "https://www.washingtonpost.com/politics/2022/12/02/biden-william-kate-boston-fundraiser/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3HQSH7BN72UDIIGV7FRRGVAIYY.jpg&w=1440",
-            "publishedAt": "2022-12-03T00:43:07Z",
-            "content": "Former president Donald Trump offered his support this week for people who have been charged in connection with the riot at the Capitol on Jan. 6, 2021, arguing they had been treated unconstitutional\u2026 [+738 chars]"
+            "author": "Dan Lamothe",
+            "title": "B-21 bomber unveiled by Northrop Grumman in California - The Washington Post",
+            "description": "The B-21 Raider is expected to be more advanced than any other aircraft now in the U.S. military\u2019s arsenal.",
+            "url": "https://www.washingtonpost.com/national-security/2022/12/02/b-21-bomber-raider-air-force-northrop/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TMQFS4DSWQI63BT4R3DJLZFPZU.jpg&w=1440",
+            "publishedAt": "2022-12-03T05:51:18Z",
+            "content": "Comment on this story\r\nPALMDALE, Calif. The Pentagon and defense contractor Northrop Grumman unveiled the U.S. militarys bomber of the future on Friday, showcasing an aircraft cloaked in secrecy for \u2026 [+4862 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jeff Passan",
+            "title": "Sources - Rangers, Jacob deGrom agree to 5-year, $185M deal - ESPN",
+            "description": "The Texas Rangers have signed Jacob deGrom to a five-year, $185 million deal, sources told ESPN.",
+            "url": "https://www.espn.com/mlb/story/_/id/35166769/sources-rangers-jacob-degrom-agree-5-year-185m-deal",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0817%2Fr1049532_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-12-03T05:50:25Z",
+            "content": "Two-time Cy Young winner Jacob deGrom agreed to a five-year, $185 million contract with the Texas Rangers, sources told ESPN, bringing the most talented pitcher in baseball to a pitching-starved orga\u2026 [+5771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "David Cobb",
+            "title": "USC vs. Utah score, takeaways: Utes dominate Trojans to defend Pac-12 title, claim Rose Bowl berth - CBS Sports",
+            "description": "USC saw its College Football Playoff hopes slip away while losing to Utah for a second time this season",
+            "url": "https://www.cbssports.com/college-football/news/usc-vs-utah-score-takeaways-utes-dominate-trojans-to-defend-pac-12-title-claim-rose-bowl-berth/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/03/e356051a-0d1b-4d84-937d-ad569a0a5222/thumbnail/1200x675/cb4da4c76bf3613791519cdf163b9f38/utah-usc-2022-pac12-g.png",
+            "publishedAt": "2022-12-03T05:48:00Z",
+            "content": "No. 11 Utah played the role of spoiler Friday night in a dominant 47-24 win over No. 4 USC in the 2022 Pac-12 Championship Game. The evisceration of the Trojans, which saw the Utes take advantage of \u2026 [+6164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX 4 News"
+            },
+            "author": "FOX 4 Staff",
+            "title": "Athena Strand found dead after being kidnapped by FedEx driver: Wise County sheriff - FOX 4 News Dallas-Fort Worth",
+            "description": "The sheriff says a tip led them to a FedEx driver, who is believed to have abducted Athena from her home Wednesday night. The driver confessed to kidnapping her. Athena likely died an hour after her disappearance, the sheriff said.",
+            "url": "https://www.fox4news.com/news/athena-strand-found-dead-after-being-kidnapped-by-fedex-driver-wise-county-sheriff",
+            "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/12/1280/720/athena-strand-1.jpg?ve=1&tl=1",
+            "publishedAt": "2022-12-03T05:45:02Z",
+            "content": "WISE COUNTY, Texas - The search for a missing Wise County little girl has come to a terrible end.\r\nWise County Sheriff Lane Akin confirmed that 7-year-old Athena Strand\u2019s body was found Friday aftern\u2026 [+3243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jane Clinton",
+            "title": "Russia-Ukraine war at a glance: what we know on day 283 of the invasion - The Guardian",
+            "description": "The Kremlin says US refusal to recognise Moscow\u2019s annexed territories in Ukraine is hindering any potential settlement and EU members agree on Russia oil price cap",
+            "url": "https://www.theguardian.com/world/2022/dec/03/russia-ukraine-war-at-a-glance-what-we-know-on-day-283-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/c2b9e03d6b4e11dda385d530487a97b3155e0eed/340_470_3660_2197/master/3660.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8851da5de5e9b874df8848039188895e",
+            "publishedAt": "2022-12-03T05:18:00Z",
+            "content": "<li>The US president, Joe Biden, said on Thursday that he was prepared to speak to the Russian president, Vladimir Putin, if he was looking for a way to end the war but that Putin had not yet indicat\u2026 [+3553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Bruce Haring",
+            "title": "Twitter Releases Its Internal Communications On Hunter Biden Laptop Story - Deadline",
+            "description": "Twitter has released a tweetstorm of its internal discussions about its efforts to suppress the Hunter Biden laptop story Friday night via journalist Matt Taibbi. Most shocking revelation in the news, being delivered in a series of separate tweets, is that fo\u2026",
+            "url": "https://deadline.com/2022/12/twitter-releases-internal-communications-hunter-biden-laptop-story-1235188088/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/10/GettyImages-1243763348.jpg?w=1024",
+            "publishedAt": "2022-12-03T04:14:00Z",
+            "content": "Twitter has released a tweetstorm of its internal discussions about its efforts to suppress the Hunter Bidenlaptop story Friday night via journalist Matt Taibbi.\r\nMost shocking revelation in the news\u2026 [+1084 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Georgia shatters single-day early voting record again - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vMzc2MDUyMy1nZW9yZ2lhLXNoYXR0ZXJzLXNpbmdsZS1kYXktZWFybHktdm90aW5nLXJlY29yZC1hZ2Fpbi_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-03T03:37:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung, Carlotta Dotto, Henrik Pettersson",
+            "title": "How a deadly fire ignited dissent over China's zero-Covid policy - CNN",
+            "description": "Stunning scenes of dissent and defiance played out across China over the past week, marking the country's largest protests in decades -- and an unprecedented challenge to leader Xi Jinping.",
+            "url": "https://www.cnn.com/2022/12/02/china/china-covid-lockdown-protests-2022-intl-hnk-dst/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202165128-page-top-art-china-protest-map.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-03T03:15:00Z",
+            "content": "Stunning scenes of dissent and defiance played out across China over the past week, marking the countrys largest protests in decades and an unprecedented challenge to leader Xi Jinping.\r\nDeep public \u2026 [+12751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Prosecutor says Trump's company benefited from tax fraud - Reuters",
+            "description": "The Trump Organization substantially benefited from a 15-year tax fraud scheme, a prosecutor said in closing arguments in the trial of former President Donal...",
+            "url": "https://www.youtube.com/watch?v=bfri-XunQVA",
+            "urlToImage": "https://i.ytimg.com/vi/bfri-XunQVA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihTMA8=&rs=AOn4CLDic5SHi8Oi-s9RPUS4ggvep6Qumw",
+            "publishedAt": "2022-12-03T01:34:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Li Cohen",
+            "title": "Idaho murders: Rumors about students' stabbing deaths swirl online. Here's what investigators have said so far. - CBS News",
+            "description": "As details on the University of Idaho murders continue to emerge, rumors of skinned dogs and connections to other stabbings have surfaced. Here's what police say about the claims.",
+            "url": "https://www.cbsnews.com/news/idaho-murders-rumors-evidence-investigation/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2704ff90-edc1-4022-a4cc-48a6b83a42dd/thumbnail/1200x630/f778a61a936bd0169847601e415c33d1/gettyimages-1245274540.jpg",
+            "publishedAt": "2022-12-03T01:22:00Z",
+            "content": "The brutal murders of four University of Idaho students in their home last month have been shrouded in mystery. Weeks after the Nov. 13 killings, police have yet to identify a suspect, and the detail\u2026 [+6006 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Raf Casert, Fatima Hussein",
+            "title": "G-7 joins EU on $60-per-barrel price cap on Russian oil - The Associated Press - en Espa\u00f1ol",
+            "description": "WASHINGTON (AP) \u2014 The Group of Seven nations and Australia joined the European Union on Friday in adopting a $60-per-barrel price cap on Russian oil, a key step as Western sanctions aim to reorder the global oil market  to prevent price spikes and starve Pres\u2026",
+            "url": "https://apnews.com/article/putin-health-covid-prices-european-union-65de1c4934227208bfa68bb7d4c47716",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/31f7d744b4324baeb75c02b2e77fc53e/3000.webp",
+            "publishedAt": "2022-12-03T00:50:44Z",
+            "content": "WASHINGTON (AP) The Group of Seven nations and Australia joined the European Union on Friday in adopting a $60-per-barrel price cap on Russian oil, a key step as Western sanctions aim to reorder the \u2026 [+5556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "A New Limited-Time Pok\u00e9mon Scarlet & Violet Tera Raid Battle Has Begun - Nintendo Life",
+            "description": "Catch a special Charizard",
+            "url": "https://www.nintendolife.com/news/2022/12/a-new-limited-time-pokemon-scarlet-and-violet-tera-raid-battle-has-begun",
+            "urlToImage": "https://images.nintendolife.com/bfafa939867c3/1280x720.jpg",
+            "publishedAt": "2022-12-03T00:30:00Z",
+            "content": "Update [Sat 3rd Dec, 2022 00:30 GMT]: This event is currently underway, so if you haven't already joined in on the fun, do it while you still can. This Tera Raid Battle will run until the 4th of Dece\u2026 [+1468 chars]"
         },
         {
             "source": {
@@ -30,236 +186,80 @@
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": null,
-            "title": "\"Rogue wave\" kills American woman, injures four others on Antarctic cruise ship - CBS News",
-            "description": "\"We didn't know if we should get our gear ready for abandoning ship,\" one passenger told a local TV station.",
-            "url": "https://www.cbsnews.com/news/cruise-ship-death-rogue-wave-kills-passenger-antarctic-viking-polaris/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/12/02/0672f5d4-47f8-43cd-95c3-be9166d6e26d/thumbnail/1200x630/1f4d1fd6d9ddacb4da040ff65c934293/gettyimages-1245281014.jpg",
-            "publishedAt": "2022-12-03T00:15:00Z",
-            "content": "A U.S. woman died and four other passengers were injured when a massive wave smashed into an Antarctic cruise ship during a storm as it sailed off the southernmost tip of South America, officials sai\u2026 [+2987 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Shayna Jacobs",
-            "title": "Donald Trump knew of tax fraud at his company, prosecutors allege - The Washington Post",
-            "description": "For the Trump Organization to be found guilty, prosecutors must prove top executives had \u201csome intent\u201d to help the company in addition to enriching themselves.",
-            "url": "https://www.washingtonpost.com/national-security/2022/12/02/trump-tax-fraud-trial-weisselberg/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M2K3G2TR4QI63BT4R3DJLZFPZU.jpg&w=1440",
-            "publishedAt": "2022-12-02T23:56:00Z",
-            "content": "Comment on this story\r\nNEW YORK Donald Trump knew about a 15-year tax fraud carried out by longtime executives at his namesake company, a prosecutor argued Friday, saying the illegal activity ended w\u2026 [+5497 chars]"
+            "author": "Paulina Dedaj",
+            "title": "Patriots' Mac Jones explains sideline tirade in loss to Bills: 'I just kind of let my emotions get to me' - Fox News",
+            "description": "New England Patriots quarterback Mac Jones addressed Thursday night's sideline rant after the game, saying \"I just kind of let my emotions get to me.\"",
+            "url": "https://www.foxnews.com/sports/patriots-mac-jones-explains-sideline-tirade-loss-bills-just-kind-let-my-emotions-get-me",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/GettyImages-1245292430.jpg",
+            "publishedAt": "2022-12-02T23:19:43Z",
+            "content": "New England Patriots\r\n quarterback Mac Jones said he let his emotions get the best of him during Thursday nights loss to the Buffalo Bills when asked about his explosive reaction on the sideline to t\u2026 [+2703 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Page Six"
             },
-            "author": "Mara Siegler, Carlos Greer",
-            "title": "Robin Roberts confronted T.J. Holmes and Amy Robach about affair rumors - Page Six",
-            "description": "A source tells us Roberts confronted both the anchors over the rumors. Holmes was so concerned, he even took the issue to higher-ups, say insiders.",
-            "url": "https://pagesix.com/2022/12/02/robin-roberts-confronted-t-j-holmes-and-amy-robach-about-affair-rumors/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/12/robin-roberts-warned-amy-robach-tj-holmes.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2022-12-02T23:29:00Z",
-            "content": "Good Morning America co-host Robin Roberts warned colleagues T.J. Holmes and Amy Robach about rumors of an affair that were swirling around the network years before the pair was outed, multiple sourc\u2026 [+2735 chars]"
+            "author": "Nicki Gostin, Carlos Greer",
+            "title": "Amy Robach moves out of NYC apartment amid alleged T.J. Holmes affair - Page Six",
+            "description": "A source told Page Six that Robach sold the apartment in September and \u201cironically this was her moving day\u201d amid news of an alleged affair with T.J. Holmes.",
+            "url": "https://pagesix.com/2022/12/02/amy-robach-moves-out-of-nyc-apartment-amid-alleged-t-j-holmes-affair/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/12/amy-robach-moving-1.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2022-12-02T22:57:00Z",
+            "content": "After a tumultuous few days of headlines, Amy Robach was snapped moving out of her New York City home in the West Village on Friday.\r\nA source told Page Six that Robach\u2019s move \u201cwas scheduled before [\u2026 [+2709 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Des Moines Register"
             },
-            "author": "",
-            "title": "USC vs. Utah: Prediction, pick, spread, Pac-12 Championship Game odds, live stream, watch online, TV channel - CBS Sports",
-            "description": "The Pac-12 Championship Game pits the Trojans against the Utes in a high-stakes rematch in Las Vegas",
-            "url": "https://www.cbssports.com/college-football/news/usc-vs-utah-live-stream-watch-online-tv-channel-prediction-pick-spread-pac-12-championship-game-odds/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/30/f20e9c3f-1223-4457-9968-9779c4037885/thumbnail/1200x675/694b9ad667453117a0416acd08527327/usc-utah.jpg",
-            "publishedAt": "2022-12-02T23:00:00Z",
-            "content": "Friday night gives No. 4 USC and No. 12 Utah\u00a0the chance to shine in the national spotlight as the two meet in a highly anticipated rematch of their regular-season thriller in the Pac-12 Championship \u2026 [+4513 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Dave Collins",
-            "title": "Infowars host Alex Jones files for personal bankruptcy - The Associated Press - en Espa\u00f1ol",
-            "description": "Infowars host Alex Jones  filed for personal bankruptcy protection Friday in Texas, citing debts that include nearly $1.5 billion he has been ordered to pay to families who sued him over his conspiracy theories about the Sandy Hook school massacre.",
-            "url": "https://apnews.com/article/alex-jones-declares-personal-bankruptcy-4f50412d0c4ce0495b351b8417f5d09c",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b1f317ce525c4a5fa59a3d67b23a5de0/3000.webp",
-            "publishedAt": "2022-12-02T22:02:59Z",
-            "content": "Infowars host Alex Jones filed for personal bankruptcy protection Friday in Texas, citing debts that include nearly $1.5 billion he has been ordered to pay to families who sued him over his conspirac\u2026 [+3626 chars]"
+            "author": ", The Des Moines Register",
+            "title": "Democrats set 2024 presidential primary plan; South Carolina to lead - Des Moines Register",
+            "description": "The job of the committee, said member Stuart Appelbaum of New York, is \u201cnot just to choose states and the order in which they go, but to tell the story of who we are as a party and who we are as a na\u2026",
+            "url": "https://www.desmoinesregister.com/story/news/politics/2022/12/02/dnc-democrats-primary-calendar-south-carolina-first-over-iowa-caucus/69695090007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/02/USAT/91224314-123c-4ad6-b197-494073ad51f1-XXX_JM.DNC.1202022.016.JPG?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200",
+            "publishedAt": "2022-12-02T22:52:30Z",
+            "content": "Democrats voted to make history on Friday by emphasizing and elevating Black voices in the early days of the\u00a0presidential nominating process, creating a seismic shift in the way America chooses its l\u2026 [+12224 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Kate Sullivan, Ethan Cohen",
-            "title": "Democrats vote to move forward with Biden plan to put South Carolina first on 2024 primary calendar - CNN",
-            "description": "The rule-making arm of the Democratic National Committee on Friday voted to approve a proposal to drastically reshape the 2024 presidential nominating calendar and make South Carolina the first state to hold a primary, followed by Nevada and New Hampshire on \u2026",
-            "url": "https://www.cnn.com/2022/12/02/politics/dnc-south-carolina-primary-calendar-2024/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202160424-south-carolina-primary-file-022920.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-02T21:57:00Z",
-            "content": "The rule-making arm of the Democratic National Committee on Friday voted to approve a proposal to drastically reshape the 2024 presidential nominating calendar and make South Carolina the first state\u2026 [+6241 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NASA"
-            },
-            "author": null,
-            "title": "NASA Sets Coverage of Orion's Historic Moon Mission Return, Splashdown - NASA",
-            "description": "NASA will provide live coverage of the Artemis I uncrewed Orion spacecraft\u2019s return flyby of the Moon on Monday, Dec. 5, as well as its return to Earth on Sunday, Dec. 11.",
-            "url": "https://www.nasa.gov/press-release/nasa-sets-coverage-of-orion-s-historic-moon-mission-return-splashdown/",
-            "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/orion_day_13_advisory.jpg",
-            "publishedAt": "2022-12-02T21:23:45Z",
-            "content": null
+            "author": "Ben Church",
+            "title": "Cameroon scores late winner against Brazil at Qatar 2022 but fails to qualify for knockout stages - CNN",
+            "description": "Soccer can be harsh sometimes, just ask Cameroon.",
+            "url": "https://www.cnn.com/2022/12/02/football/brazil-cameroon-world-cup-qatar-2022-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202210201-cameroon-goal-win.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-02T22:44:00Z",
+            "content": "Soccer can be harsh sometimes, just ask Cameroon. \r\nThe Indomitable Lions became the first team to score against Brazil at Qatar 2022 on Friday, but its famous 1-0 win against the tournament favorite\u2026 [+2556 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Elise Hammond, Christina Maxouris",
-            "title": "Houston police make arrest for the killing of rapper Takeoff - CNN",
-            "description": "One month after the fatal shooting of Takeoff, Houston authorities arrested and charged a man with murder in connection with the rapper's killing, Houston Police Chief Troy Finner announced at a news conference Friday.",
-            "url": "https://www.cnn.com/2022/12/02/entertainment/takeoff-rapper-murder-arrest/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202154632-01-takeoff-migos-file-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-02T21:22:00Z",
-            "content": "One month after the fatal shooting of Takeoff, Houston authorities arrested and charged a man with murder in connection with the rappers killing, Houston Police Chief Troy Finner announced at a news \u2026 [+3944 chars]"
+            "author": "Hafsa Khalil",
+            "title": "What is Strep A, the common bacterium that has killed 6 children in the UK? - CNN",
+            "description": "Health officials in the United Kingdom are advising parents and schools to watch for Strep A infections following the recent deaths of six children.",
+            "url": "https://www.cnn.com/2022/12/02/health/strep-a-infections-deaths-explainer-gbr-intl-scli-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202120123-strep-a-illustration.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-02T22:41:00Z",
+            "content": "Health officials in the United Kingdom are advising parents and schools to watch for Strep A infections following the recent deaths of six children.\r\nWith Covid-19 restrictions such as masking and so\u2026 [+2735 chars]"
         },
         {
             "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "World Cup 2022 highlights: Switzerland tops Serbia, 3-2, to advance - FOX Sports",
-            "description": "The group stage of the 2022 FIFA World Cup came to a close Friday with Switzerland defeating Serbia. Here are the top plays!",
-            "url": "https://www.foxsports.com/stories/soccer/world-cup-2022-top-plays-serbia-switzerland",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/12.2.22_Serbia-Switzerland-Top-Plays_16x9.jpg?ve=1&tl=1",
-            "publishedAt": "2022-12-02T21:01:45Z",
-            "content": "The group stage of the 2022 FIFA World Cup\r\n came to a close Friday with Switzerland (2-0-1) outlasting Serbia (0-1-2) at Qatar's Stadium 974 and there was no shortage of action in the Group G tilt.\r\u2026 [+1813 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Samuel Axon",
-            "title": "Report: Apple\u2019s upcoming VR and AR operating system has a new name - Ars Technica",
-            "description": "Bloomberg report claims that Apple has begun referring to it as \"xrOS.\"",
-            "url": "https://arstechnica.com/gadgets/2022/12/report-apples-upcoming-vr-and-ar-operating-system-has-a-new-name/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/Apple_AR_Experience_01232018-760x380.jpg",
-            "publishedAt": "2022-12-02T20:15:08Z",
-            "content": "Enlarge/ An early augmented reality demo by Apple, using a smartphone instead of a headset.\r\n8 with 0 posters participating\r\nApple's mixed-reality headset is still on track for an unveiling sometime \u2026 [+2001 chars]"
-        },
-        {
-            "source": {
-                "id": "polygon",
-                "name": "Polygon"
-            },
-            "author": "Nicole Carpenter, Kallie Plagge",
-            "title": "Pok\u00e9mon Scarlet & Violet\u2019s Charizard Tera Raid: tips, strategies, dates - Polygon",
-            "description": "Pok\u00e9mon Scarlet and Violet\u2019s first seven-star black crystal Tera Raid is live with Charizard. It\u2019s open from Dec. 1 to 4, and from Dec. 15 to 18. It\u2019s currently the only way to get Charizard in Paldea.",
-            "url": "https://www.polygon.com/pokemon/23490252/pokemon-scarlet-violet-charizard-tera-raid-live-tips-azumarill",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/V0h5NRVpTibUl6Q_kUPhVHxQVig=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24256782/Pokemon_Scarlet_and_Pokemon_Violet_Screenshot_11__1_.jpg",
-            "publishedAt": "2022-12-02T20:10:00Z",
-            "content": "Pok\u00e9mon Scarlet and Violets first seven-star raid, featuring Charizard with the dragon Tera Type, is live, running through Sunday. Not only is it the first seven-star raid, but its the only way, so f\u2026 [+3266 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Scooby Axson, USA TODAY",
-            "title": "Jerry Jones responds to LeBron James' comments about 1957 photo - USA TODAY",
-            "description": "LeBron James called out media for asking him about Kyrie Irving but not about a 1957 photo showing Jerry Jones looking over a desegregation protest.",
-            "url": "https://www.usatoday.com/story/sports/nfl/cowboys/2022/12/02/jerry-jones-responds-lebron-james-comments-1957-photo-cowboys-lakers/10818279002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/25/USAT/81870ad1-3ff2-4cde-8669-f093c8927582-jerry.jpg?auto=webp&crop=2955,1662,x0,y139&format=pjpg&width=1200",
-            "publishedAt": "2022-12-02T19:11:11Z",
-            "content": "Dallas Cowboys owner Jerry Jones responded to comments made by Los Angeles Lakers forward LeBron James after the four-time NBA MVP called out the media for not\u00a0asking\u00a0him about a photo of Jones\u00a0looki\u2026 [+1854 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Biden trial balloon to Putin on Ukraine appears to quickly pop - Reuters",
-            "description": "President Joe Biden floated a trial balloon to President Vladimir Putin intended to determine whether Russia, after months of battlefield losses and stalled gains, is ready to end its invasion of Ukraine.",
-            "url": "https://www.reuters.com/world/bidens-offer-talk-putin-is-trial-balloon-end-war-ukraine-2022-12-02/",
-            "urlToImage": "https://www.reuters.com/resizer/IjLLeh7y7mIBzsHoopvygyHtcQg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WV6FNACFOVPYHOCUBQ7X3ZJNHM.jpg",
-            "publishedAt": "2022-12-02T18:46:00Z",
-            "content": "WASHINGTON, Dec 2 (Reuters) - President Joe Biden floated a trial balloon to President Vladimir Putin intended to determine whether Russia, after months of battlefield losses and stalled gains, is re\u2026 [+4041 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Julia Musto",
-            "title": "Air Force unveils B-21 Raider stealth bomber - Fox News",
-            "description": "Secretary of Defense Lloyd Austin and Northrop Grumman Corp. are set to unveil the U.S. Air Force B-21 Raider on Friday at the company's Plant 42 in California.",
-            "url": "https://www.foxnews.com/tech/air-force-unveils-b-21-raider-stealth-bomber",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/B21-2.jpg",
-            "publishedAt": "2022-12-02T18:36:36Z",
-            "content": "The U.S. military will unveil the U.S. Air Force B-21 Raider on Friday in Palmdale, California.\u00a0\r\nThe B-21 Raider is the first new American bomber aircraft in more than three decades and almost every\u2026 [+3565 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Electrek"
-            },
-            "author": "Peter Johnson",
-            "title": "Ford's electric vehicle sales outshine gas cars in November 2022 - Electrek.co",
-            "description": "Ford released its US auto sales for November today, and although electric vehicle sales were up over 100% YOY for...",
-            "url": "https://electrek.co/2022/12/02/fords-electric-vehicle-sales-outshine-gas-cars-in-november-2022/",
-            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/12/Ford-November-electric-vehicle.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2022-12-02T17:49:00Z",
-            "content": "Ford released its US auto sales for November today, and although electric vehicle sales were up over 100% YOY for the fifth straight month, gas-powered car sales continued to slide. The sales report \u2026 [+2415 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Isaac Schultz",
-            "title": "Webb Telescope Turns Its Eye on Saturn's Mysterious Moon Titan - Gizmodo",
-            "description": "The moon's clouds and a bit of its surface are visible in new views from the space-based observatory.",
-            "url": "https://gizmodo.com/webb-telescope-titan-moon-saturn-clouds-1849846932",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2e9cbc32d67fddc8002814255343badb.jpg",
-            "publishedAt": "2022-12-02T17:18:00Z",
-            "content": "The Webb Space Telescope snapped images of Saturns moon Titan last month, which are now released for our viewing pleasure. The images offer a newly detailed view of Titans atmospheric makeup and even\u2026 [+1777 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Stephanie Giang-Paunon",
-            "title": "Harvey Weinstein\u2019s lawyer accused Jennifer Siebel Newsom of lying about sexual assault: \u2018Regret is not rape\u2019 - Fox News",
-            "description": "Former movie magnate Harvey Weinstein's lawyer claimed that Jennifer Siebel Newsom, wife of Gov. Gavin Newsom, lied about being raped during the trial.",
-            "url": "https://www.foxnews.com/entertainment/harvey-weinsteins-lawyer-accused-jennifer-siebel-newsom-lying-sexual-assault-regret-rape",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/harvey-weinstein-jennifer-siebel-newsom.jpg",
-            "publishedAt": "2022-12-02T17:17:57Z",
-            "content": "Harvey Weinsteins lawyers argued that Jennifer Siebel Newsom lied about being raped and sexually assaulted by the disgraced Hollywood mogul.\u00a0\r\nLawyer Alan Jackson made the closing argument for the de\u2026 [+3911 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Salon"
-            },
-            "author": "Troy Farah",
-            "title": "Calling COVID \u201cairborne AIDS\" is inaccurate. But what it does to your immune system is still scary - Salon",
-            "description": "Reported story on the social media meme calling COVID-19 \"airborne AIDS,\" and why it's not fully accurate",
-            "url": "https://www.salon.com/2022/12/02/no-is-not-airborne-aids-but-what-it-does-to-your-immune-system-is-still-scary/",
-            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/11/scientist_in_lab_blood_sample_1206639436.jpg",
-            "publishedAt": "2022-12-02T17:00:00Z",
+            "title": "Three signs from today\u2019s jobs report that suggest inflation will stay high - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ZpbmFuY2UvMzc2MDI3My10aHJlZS1zaWducy1mcm9tLXRvZGF5cy1qb2JzLXJlcG9ydC10aGF0LXN1Z2dlc3QtaW5mbGF0aW9uLXdpbGwtc3RheS1oaWdoL9IBeWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ZpbmFuY2UvMzc2MDI3My10aHJlZS1zaWducy1mcm9tLXRvZGF5cy1qb2JzLXJlcG9ydC10aGF0LXN1Z2dlc3QtaW5mbGF0aW9uLXdpbGwtc3RheS1oaWdoL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-02T22:28:00Z",
             "content": null
         }
     ]
