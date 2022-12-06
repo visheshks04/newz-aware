@@ -4,120 +4,172 @@
     "articles": [
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "CBS Sports"
             },
-            "author": null,
-            "title": "China readies new COVID rules as investors cheer easing shift - Reuters",
-            "description": "China is set to announce the further easing of some of the world's toughest COVID curbs as early as Wednesday, <a href=\"/world/china/china-may-announce-10-new-covid-measures-wednesday-sources-2022-12-05/\">sources told Reuters</a>, as investors cheered the pro\u2026",
-            "url": "https://www.reuters.com/world/china/covid-confusion-china-authorities-row-back-curbs-2022-12-05/",
-            "urlToImage": "https://www.reuters.com/resizer/L-bWU89WFGfVc8ULJDO5arQ7k9o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3X34ZDCJU5MANPRUBXVQKVVKKA.jpg",
-            "publishedAt": "2022-12-05T10:13:00Z",
-            "content": "HONG KONG/BEIJING, Dec 5 (Reuters) - China is set to announce the further easing of some of the world's toughest COVID curbs as early as Wednesday, sources told Reuters, as investors cheered the pros\u2026 [+4508 chars]"
+            "author": "",
+            "title": "Heisman Trophy finalists 2022: C.J. Stroud, Caleb Williams, Stetson Bennett, Max Duggan heading to New York - CBS Sports",
+            "description": "The 2022 Heisman finalists have been announced with four quarterbacks making the cut",
+            "url": "https://www.cbssports.com/college-football/news/heisman-trophy-finalists-2022-c-j-stroud-caleb-williams-stetson-bennett-max-duggan-heading-to-new-york/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/05/3c6f6e58-5147-4d79-ae4b-a7aae00a69c7/thumbnail/1200x675/e19f355cb25bf640266c8595c7b8ecbc/caleb-utah.jpg",
+            "publishedAt": "2022-12-06T00:15:00Z",
+            "content": "The finalists for the 2022 Heisman Trophy were revealed on Monday night, and four quarterbacks will head to New York this weekend with the hopes of taking home college football's most prestigious ind\u2026 [+2995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Ford CEO says 65% of U.S. dealers agree to sell EVs under company's investment programs - CNBC",
+            "description": "About 1,920 of Ford's nearly 3,000 dealers in the U.S. agreed to sell EVs, according to CEO Jim Farley.",
+            "url": "https://www.cnbc.com/2022/12/05/ford-ceo-says-most-us-dealers-agree-to-sell-evs.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107052005-1651011515725-Rouge_Electric_Vehicle_Center_06__Shemika_Winston.jpg?v=1670280340&w=1920&h=1080",
+            "publishedAt": "2022-12-05T22:45:40Z",
+            "content": "DETROIT About 65% of Ford Motor's dealers have agreed to sell electric vehicles as the company invests billions to expand production and sales of the battery-powered cars and trucks, CEO Jim Farley s\u2026 [+1965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Vlad",
+            "title": "Google releases its biggest Pixel feature drop yet, and it includes the Pixel Watch - GSMArena.com news - GSMArena.com",
+            "description": "It's not just the phones getting some new toys to play with.",
+            "url": "https://www.gsmarena.com/google_releases_its_biggest_pixel_feature_drop_yet_and_it_includes_the_pixel_watch-news-56764.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/12/google-pixel-feature-drop/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2022-12-05T22:36:22Z",
+            "content": "Today is the first Monday of the month, and that means it's time for Google to release its monthly software update for the Pixel phones. Only this time it's special. This, in fact, is the latest Pixe\u2026 [+3525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tampa Bay Times"
+            },
+            "author": "Tony Marrero",
+            "title": "Tampa police Chief Mary O'Connor resigns amid traffic stop controversy - Tampa Bay Times",
+            "description": "Mayor Jane Castor announced Monday she asked for and received O\u2019Connor\u2019s resignation after an investigation found O\u2019Connor violated department policies.",
+            "url": "https://www.tampabay.com/news/tampa/2022/12/05/tampa-police-chief-mary-oconnor-resigns-amid-traffic-stop-controversy/",
+            "urlToImage": "https://www.tampabay.com/resizer/-mkS86xQkSOswKcObmqx_g6GYOI=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/EXPQL4SFBRDEDG2JOHYL3DUDLE.jpg",
+            "publishedAt": "2022-12-05T22:26:17Z",
+            "content": "TAMPA The tenure of Tampas 43rd police chief has ended as it began 10 months ago: amid controversy.\r\nChief Mary OConnor resigned Monday effective immediately after an investigation into a Pinellas Co\u2026 [+8382 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Devan Cole",
+            "title": "Michael Avenatti sentenced to 14 years in prison for stealing millions of dollars from clients - CNN",
+            "description": "Disgraced attorney Michael Avenatti was sentenced Monday to 14 years in prison and ordered to pay nearly $11 million in restitution for embezzling millions of dollars from four of his clients and obstruction.",
+            "url": "https://www.cnn.com/2022/12/05/politics/michael-avenatti-prison-sentence-client-embezzlement/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220612215954-01-michael-avenatti-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-05T22:12:00Z",
+            "content": "Disgraced attorney Michael Avenatti was sentenced Monday to 14 years in prison and ordered to pay nearly $11 million in restitution for embezzling millions of dollars from four of his clients and obs\u2026 [+3445 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Robert Barnes",
+            "title": "Supreme Court seems to side with 303 Creative in gay rights case - The Washington Post",
+            "description": "Conservative justices seemed amenable to web designer Lorie Smith\u2019s argument that the state can't compel her to make wedding sites for same-sex couples.",
+            "url": "https://www.washingtonpost.com/politics/2022/12/05/colorado-creative-supreme-court-lgbtq/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7NJLXG7PV3S4MK2YU77TF6TCNU.JPG&w=1440",
+            "publishedAt": "2022-12-05T21:44:00Z",
+            "content": "Comment on this story\r\nThe Supreme Courts conservative majority seemed sympathetic Monday to an evangelical Christian graphic artist from Colorado who does not want to create wedding websites for sam\u2026 [+8697 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Priyanka Shankar",
+            "title": "Russian oil price cap: Five things you need to know - Al Jazeera English",
+            "description": "Al Jazeera answers five key questions to better understand the effect of the EU and G7\u2019s move.",
+            "url": "https://www.aljazeera.com/news/2022/12/5/eu-ban-on-russian-oil-imports-and-g7-price-cap-comes-into-effect",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/2022-12-05T082916Z_1132395970_RC2UYX96Q3JQ_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-OIL.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-12-05T21:40:06Z",
+            "content": "A price cap set by the Group of Seven (G7) as well as an outright ban by the European Union on Russian seaborne oil came into effect on Monday as the two blocs try to reduce the Kremlins ability to c\u2026 [+7431 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Lauren Thomas, Jennifer Maloney",
+            "title": "PepsiCo to Lay Off Hundreds of Workers in Headquarters Roles - WSJ - The Wall Street Journal",
+            "description": "Snacks and beverages giant tells staff it is trimming roles in North America",
+            "url": "https://www.wsj.com/articles/pepsico-to-lay-off-hundreds-of-workers-in-headquarters-roles-11670276051",
+            "urlToImage": "https://images.wsj.net/im-679469/social",
+            "publishedAt": "2022-12-05T21:36:00Z",
+            "content": "PepsiCo Inc. is laying off workers at the headquarters of its North American snacks and beverages divisions, a signal that \r\ncorporate belt-tightening is extending beyond tech and media, according to\u2026 [+365 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell",
+            "title": "Artemis 1 Orion spacecraft suffered power blip hours before its close lunar flyby - Space.com",
+            "description": "The spacecraft appeared to perform well during an engine burn Monday (Dec. 5) despite a recent brief power hiccup.",
+            "url": "https://www.space.com/artemis-1-orion-spacecraft-power-blip",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uPak9hgKJcdVH9tLJpj7q-1200-80.jpg",
+            "publishedAt": "2022-12-05T21:35:00Z",
+            "content": "NASA's Orion spacecraft had a brief power problem on Sunday (Dec. 4) just hours before successfully completing a crucial engine burn near the moon.\r\nA power unit on board the Orion spacecraft turned \u2026 [+2596 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "Sam Mednick",
-            "title": "Ukrainians hid orphaned children from Russian deportation - The Associated Press - en Espa\u00f1ol",
-            "description": "KHERSON, Ukraine (AP) \u2014 Hours after Russia invaded Ukraine in February, health staff at a children\u2019s hospital in the south started secretly planning how to save the babies.  Russians were suspected of seizing orphan children and sending them to Russia , so st\u2026",
-            "url": "https://apnews.com/article/russia-ukraine-health-europe-orphans-f283aa4d22fdab59a43a16ca0be54baf",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/bd9fdf81bcb2440dbc80d4a6e3d61c16/3000.webp",
-            "publishedAt": "2022-12-05T08:01:47Z",
-            "content": "KHERSON, Ukraine (AP) Hours after Russia invaded Ukraine in February, health staff at a childrens hospital in the south started secretly planning how to save the babies. \r\nRussians were suspected of \u2026 [+6248 chars]"
+            "author": "Jake Bleiberg",
+            "title": "Trial for Texas officer who killed Black woman hinges on gun - The Associated Press - en Espa\u00f1ol",
+            "description": "FORT WORTH, Texas (AP) \u2014 Atatiana Jefferson was holding a gun but never raised it to point at the white police officer who fatally shot her through a rear window of her Texas home, the Black woman\u2019s 11-year-old nephew testified at the officer\u2019s murder trial M\u2026",
+            "url": "https://apnews.com/article/death-of-george-floyd-shootings-texas-fort-worth-atatiana-jefferson-fc52a2df0e4f15d716c82c84b0453085",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f6cad4774fbf49569eac78fa01e0c8e0/2400.jpeg",
+            "publishedAt": "2022-12-05T21:11:15Z",
+            "content": "FORT WORTH, Texas (AP) Atatiana Jefferson was holding a gun but never raised it to point at the white police officer who fatally shot her through a rear window of her Texas home, the Black womans 11-\u2026 [+4719 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CBS Sports"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Tyler Sullivan",
-            "title": "Cowboys vs. Colts score, takeaways: Defenses forces four second-half turnovers as Dallas blows out Indy - CBS Sports",
-            "description": "The Cowboys put together a fourth-quarter avalanche to get the win",
-            "url": "https://www.cbssports.com/nfl/news/cowboys-vs-colts-score-takeaways-defenses-forces-four-second-half-turnovers-as-dallas-blows-out-indy/live/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/05/15e1da64-d98e-49fd-b93d-e8f82c409b86/thumbnail/1200x675/8c6f1801b7ff79d93806c1f9a64ab11e/dak.jpg",
-            "publishedAt": "2022-12-05T07:26:00Z",
-            "content": "The Cowboys moved to 9-3 on the season after handling the Colts on Sunday night, 54-19.\u00a0\r\nIndy gave Dallas a run for its money out of the gate, scoring 10 points on its first two possession to take a\u2026 [+6578 chars]"
+            "author": "Jamey Keaten",
+            "title": "Russia fires more missiles, claims Kyiv hit its air bases - The Associated Press - en Espa\u00f1ol",
+            "description": "KYIV, Ukraine (AP) \u2014 Moscow unleashed another massive missile barrage in Ukraine on Monday, striking homes and buildings and killing civilians, hours after the Kremlin claimed Ukrainian drones struck two air bases deep inside Russian territory.",
+            "url": "https://apnews.com/article/russia-ukraine-zelenskyy-united-states-europe-european-union-a1a82a936964ee01b86e3502e16e9ff4",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f95d10ef0a574fc098cb9353c9e9cb35/3000.webp",
+            "publishedAt": "2022-12-05T21:04:50Z",
+            "content": "KYIV, Ukraine (AP) Moscow unleashed another massive missile barrage in Ukraine on Monday, striking homes and buildings and killing civilians, hours after the Kremlin claimed Ukrainian drones struck t\u2026 [+5980 chars]"
         },
         {
             "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Sravasti Dasgupta",
-            "title": "Athena Strand news - latest: Paradise, Texas community joins parents in grief over murder of 7-year-old - The Independent",
-            "description": "athena strand amber alert paradise texas",
-            "url": "https://www.independent.co.uk/news/world/americas/athena-strand-cause-of-death-fedex-tanner-lyn-homer-texas-b2238814.html",
-            "urlToImage": "https://static.independent.co.uk/2022/12/03/20/Screen%20Shot%202022-12-03%20at%203.54.23%20PM.png?quality=75&width=1200&auto=webp",
-            "publishedAt": "2022-12-05T07:15:00Z",
-            "content": "What happened on the day Athena disappeared\r\nThe Wise County Sheriffs Office says that seven-year-old Athena Strand went to school and returned to her home in Paradise, Texas at approximately 4.30pm \u2026 [+1167 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Masrur Jamaluddin, Kareem El Damanhoury",
-            "title": "Thousands evacuated after Indonesia's Mount Semeru erupts - CNN",
-            "description": "Indonesia's Mount Semeru erupted on Sunday, blanketing roads and homes in volcanic ash and prompting evacuations of nearly 2,000 residents in East Java province, according to authorities in the country.",
-            "url": "https://www.cnn.com/2022/12/04/asia/indonesia-semeru-volcano-erupts-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221205100835-05-semeru-volcano-120422.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-05T06:50:00Z",
-            "content": "Indonesias Mount Semeru erupted on Sunday, blanketing roads and homes in volcanic ash and prompting evacuations of nearly 2,000 residents in East Java province, according to authorities in the countr\u2026 [+2258 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "politico",
+                "name": "Politico"
             },
             "author": null,
-            "title": "G7 begins to press Russia on Ukraine with oil price cap - Reuters",
-            "description": "A Group of Seven (G7) price cap on Russian seaborne oil <a href=\"/business/energy/g7-price-cap-russian-oil-kicks-russia-will-only-sell-market-price-2022-12-05/\">came into force</a> on Monday as the West tries to limit Moscow's ability to finance its war in Uk\u2026",
-            "url": "https://www.reuters.com/world/europe/zelenskiy-urges-residents-be-strong-ukraine-races-restore-power-2022-12-05/",
-            "urlToImage": "https://www.reuters.com/resizer/2fahDyHLHVjHrHfMANpDXacPLf0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GSGV4JUXH5JHDK2BOHNTQZC6NM.jpg",
-            "publishedAt": "2022-12-05T05:59:00Z",
-            "content": "KYIV, Dec 5 (Reuters) - A Group of Seven (G7) price cap on Russian seaborne oil came into force on Monday as the West tries to limit Moscow's ability to finance its war in Ukraine, though Russia has \u2026 [+5527 chars]"
+            "title": "Senate Republicans turn on Trump over suspend-the-Constitution talk - POLITICO",
+            "description": "It's the second time in two weeks that the former president has prompted criticism from within his party, after a dinner with high-profile antisemites last month.",
+            "url": "https://www.politico.com/news/2022/12/05/senate-republicans-trump-suspending-constitution-00072265",
+            "urlToImage": "https://static.politico.com/88/fb/f361d3f34b509b4885fdf0e72147/https-delivery-gettyimages.com/downloads/1244808145",
+            "publishedAt": "2022-12-05T21:02:35Z",
+            "content": "I just think, in the end, he will not end up running because [of] the polling, said retiring Sen. Rob Portman (R-Ohio). The trend line is not positive.\r\nTrump on Saturday falsely cited massive fraud \u2026 [+5974 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "KSL.com"
             },
-            "author": "Ryan Young",
-            "title": "New Colorado coach Deion Sanders tells current Buffaloes players to enter transfer portal - Yahoo Sports",
-            "description": "\"I'm coming, and when I get here, it's gonna be changed.\"",
-            "url": "https://sports.yahoo.com/new-colorado-coach-deion-sanders-tells-current-buffaloes-players-to-enter-transfer-portal-055202151.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ELAASmQ_xwPkD20MYvlhQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/37ae2900-745b-11ed-af7e-32eedd3c83c5",
-            "publishedAt": "2022-12-05T05:52:00Z",
-            "content": "Deion Sanders arrived in Boulder on Sunday, where he was officially announced as Colorados next head coach.\r\nHe came with a very clear message to current Buffaloes players, too.\r\nSanders already has \u2026 [+2998 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nouran Salahieh, Hannah Sarisohn",
-            "title": "FBI joins investigation into North Carolina power outage caused by 'intentional' attacks on substations as officials work to determine a motive and suspect - CNN",
-            "description": "With no suspects or motive announced, the FBI is joining the investigation into power outages in a North Carolina county believed to have been caused by \"intentional\" and \"targeted\" attacks on substations that left around 40,000 customers in the dark Saturday\u2026",
-            "url": "https://www.cnn.com/2022/12/05/us/power-outage-moore-county-investigation-monday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221204193155-01-north-carolina-power-120422.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-05T05:38:00Z",
-            "content": "With no suspects or motive announced, the FBI is joining the investigation into power outages in a North Carolina county believed to have been caused by intentional and targeted attacks on substation\u2026 [+4631 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": null,
-            "title": "Grading 49ers' offense, defense in bittersweet win vs. Miami - NBC Sports",
-            "description": "In the wake of Jimmy Garoppolo sustaining a season-ending injury, Brock Purdy stepped in and excelled to lead the 49ers to a big win over the Dolphins.",
-            "url": "https://www.nbcsports.com/bayarea/49ers/49ers-report-card-grading-offense-defense-bittersweet-win-over-dolphins",
-            "urlToImage": "https://www.nbcsports.com/sites/rsnunited/files/styles/metatags_opengraph/public/article/hero/Brock-Purdy-Tunnel-USATSI-19565603.jpg",
-            "publishedAt": "2022-12-05T04:09:02Z",
-            "content": "SANTA CLARA Quarterback Brock Purdy graded out just fine for his first meaningful experience at the professional level.\r\nThe 49ers defeated the Miami Dolphins, 33-17, and Purdy did his part after tak\u2026 [+4214 chars]"
+            "author": "Jonathan J. Cooper, Associated Press",
+            "title": "Arizona certifies 2022 election, despite GOP complaints | KSL.com - KSL.com",
+            "description": "Arizona's top officials have certified the midterm election results. The governor, secretary of state, attorney general and chief justice signed off on the election results Monday. Their signatures formalize victories for Democrats over Republicans who falsel\u2026",
+            "url": "https://www.ksl.com/article/50532621/arizona-certifies-2022-election-despite-gop-complaints",
+            "urlToImage": "https://img.ksl.com/slc/2905/290540/29054053.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2022-12-05T20:53:27Z",
+            "content": "Estimated read time: 2-3 minutes\r\nPHOENIX Arizona's top officials certified the midterm election results Monday, formalizing victories for Democrats over Republicans who falsely claimed the 2020 elec\u2026 [+3197 chars]"
         },
         {
             "source": {
@@ -125,142 +177,90 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Iran to disband morality police amid ongoing protests, says attorney general - BBC",
-            "description": "The move would mark a concession to protesters but it has not been confirmed by other authorities.",
-            "url": "https://www.bbc.com/news/world-middle-east-63850656",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D42E/production/_127881345_gettyimages-1245156444.jpg",
-            "publishedAt": "2022-12-05T03:57:54Z",
-            "content": "Iran's morality police, which is tasked with enforcing the country's Islamic dress code, is being disbanded, the country's attorney general says. \r\nMohammad Jafar Montazeri's comments, yet to be conf\u2026 [+3256 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Jacquelyn Kozak",
-            "title": "The Kennedy Center Honors 2022: George Clooney, U2, and more - Page Six",
-            "description": "The 2022 Kennedy Center Honors celebrated George Clooney, U2, Gladys Knight, and Tania Le\u00f3n on Sunday, December 4th, 2022 in Washington D.C. Other attendees included Katie Couric, Julia Roberts, Eddie Vedder, and more. Ahead, see photos from inside the event \u2026",
-            "url": "https://pagesix.com/2022/12/04/the-kennedy-center-honors-2022-george-clooney-u2-and-more/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/12/2022-kennedy-center-honors-gala-split-1.jpg?quality=90&strip=all&w=1200",
-            "publishedAt": "2022-12-05T03:07:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": "RJ Young",
-            "title": "College Football Playoff Rankings: Ohio State gets its shot at Georgia, glory - FOX Sports",
-            "description": "The CFP committee is giving Ohio State all it wanted \u2014 a chance to prove it belongs among the top four teams in the nation and a shot at glory.",
-            "url": "https://www.foxsports.com/stories/college-football/college-football-playoff-rankings-ohio-state-gets-its-shot-at-georgia-glory",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/11/1408/814/10.31.22_RJs-Live-Reax-to-CFP-Rankings-Release_16x9-1.jpg?ve=1&tl=1",
-            "publishedAt": "2022-12-05T03:00:42Z",
-            "content": "INDIANAPOLIS As No. 2-ranked Michigan was closing in on its second Big Ten Championship in as many years, a gentleman working as event staff at Lucas Oil Stadium pulled my coat.\r\n\"RJ!\" he said.\r\nI tu\u2026 [+4849 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "Will Dunham, Reuters",
-            "title": "Distant black hole is caught in the act of annihilating a star - KSL.com",
-            "description": "Astronomers have detected an act of extreme violence more than halfway across the known universe as a black hole shreds a star that wandered too close to this celestial savage. But this was no ordinary instance of a ravenous black hole.",
-            "url": "https://www.ksl.com/article/50529201/distant-black-hole-is-caught-in-the-act-of-annihilating-a-star",
-            "urlToImage": "https://img.ksl.com/slc/2904/290467/29046780.JPG?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2022-12-05T02:51:34Z",
-            "content": "Estimated read time: 3-4 minutes\r\nWASHINGTON Astronomers have detected an act of extreme violence more than halfway across the known universe as a black hole shreds a star that wandered too close to \u2026 [+3110 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "C Mandler",
-            "title": "Ohio drag queen storytime canceled amid armed protests by far-right groups - CBS News",
-            "description": "The \"Holi-Drag Storytime,\" which was organized by Red Oak Community School, was set to feature three drag queens reading to children of all ages.",
-            "url": "https://www.cbsnews.com/news/ohio-drag-queen-storytime-event-canceled-amid-armed-protests-proud-boys-patriot-front/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/12/04/5a3ca388-c5de-4d9e-a7c3-7087603d4848/thumbnail/1200x630/f61e520c687310e6a6a453fcee0b15b0/gettyimages-766398015.jpg",
-            "publishedAt": "2022-12-05T02:17:24Z",
-            "content": "A drag storytime event in Ohio was canceled Saturday after members of far-right groups gathered near the First Unitarian Universalist Church of Columbus, where the reading was scheduled to be held.\r\n\u2026 [+3682 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Tonight"
-            },
-            "author": "Miguel A. Melendez",
-            "title": "T.J. Holmes Says He's 'Such a Marriage Proponent' In Audition from 2014 (Exclusive) - Entertainment Tonight",
-            "description": "Holmes opened up about marriage when he auditioned to be a host for Entertainment Tonight.",
-            "url": "https://www.etonline.com/tj-holmes-says-hes-such-a-marriage-proponent-in-audition-from-2014-exclusive-195408",
-            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2022-12/ETD_TREND_TJ_TRT0230_20221202_VIDPIC_16x9.jpg?h=d1cb525d&itok=4ZR65T2y",
-            "publishedAt": "2022-12-05T01:00:00Z",
-            "content": "T.J. Holmes, who finds himself in the limelight over a previous affair with a former Good Morning America producer and his fairly new romance with co-anchor Amy Robach, once said he's a huge proponen\u2026 [+3170 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Bradford Betz",
-            "title": "OPEC+ agrees not to increase oil production amid slowing economy, Russian sanctions - Fox Business",
-            "description": "OPEC+ ministers say they are not changing their policy of cutting oil production amid uncertainty about the impact of new Western sanctions against Russian oil.",
-            "url": "https://www.foxbusiness.com/politics/opec-agrees-oil-production-amid-slowing-economy-russian-sanctions",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/OPEC.jpg?ve=1&tl=1",
-            "publishedAt": "2022-12-05T00:59:19Z",
-            "content": "Ministers from OPEC+ agreed during a Sunday meeting to stick to its policy of scaled-back oil production amid a slowing economy and a G7-imposed cap on Russian oil.\u00a0\r\nThe decision comes after OPEC+, \u2026 [+1791 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Bankman-Fried says he will testify before U.S. House committee - Reuters",
-            "description": "FTX founder Sam Bankman-Fried tweeted on Sunday that he would testify before the House Financial Services Committee after he finished \"learning and reviewing\" the events that led to the spectacular collapse of his cryptocurrency exchange.",
-            "url": "https://www.reuters.com/business/bankman-fried-says-he-will-testify-before-us-house-committee-2022-12-05/",
-            "urlToImage": "https://www.reuters.com/resizer/lfQP51HghcdKe5bcR_AHD9ANiBQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LF3JX5NZZJNJBFO65JXMWPTZCE.jpg",
-            "publishedAt": "2022-12-05T00:31:00Z",
-            "content": "Dec 4 (Reuters) - FTX founder Sam Bankman-Fried tweeted on Sunday that he would testify before the House Financial Services Committee after he finished \"learning and reviewing\" the events that led to\u2026 [+1272 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Nancy Tartaglione",
-            "title": "\u2018Black Panther\u2019 Rises To $733M Global, \u2019Violent Night\u2019 Launches With $20M WW & \u2018Matilda\u2019 Nears $10M In UK \u2013 International Box Office - Deadline",
-            "description": "Akin to domestic, it was a rather sleepy weekend at the international box office. Disney/Marvel\u2019s Black Panther: Wakanda Forever again won the frame, with $20.2M from 50 overseas markets for an offshore total of $339.3M and a global tally of $733M through Sun\u2026",
-            "url": "https://deadline.com/2022/12/black-panther-wakanda-forever-violent-night-matilda-the-musical-global-international-box-office-1235188713/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/12/black-panther-violent-night-matilda.jpg?w=1024",
-            "publishedAt": "2022-12-05T00:10:00Z",
-            "content": "Akin to domestic, it was a rather sleepy weekend at the international box office. Disney/Marvel\u2019s Black Panther: Wakanda Forever again won the frame, with $20.2M from 50 overseas markets for an offsh\u2026 [+2999 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Amy B Wang",
-            "title": "Trump suggestion of \u2018termination\u2019 of Constitution draws few GOP rebukes - The Washington Post",
-            "description": "Trump\u2019s posts represent an escalation in his attacks on American institutions \u2014 one that scholars say must be heeded as a sign of how far he is willing to go to regain power.",
-            "url": "https://www.washingtonpost.com/national-security/2022/12/04/trump-constitution-republicans/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-04-2022/t_0c3f6516f75d42ef85acdc711e05fc51_name_THUMB.jpg&w=1440",
-            "publishedAt": "2022-12-05T00:08:06Z",
-            "content": "Donald Trumps suggestion this weekend that the U.S. Constitution should be terminated in response to his baseless claims that the 2020 election was stolen drew a largely muted response from Republica\u2026 [+7976 chars]"
+            "title": "Prince Harry says 'it's a dirty game' in new Netflix trailer - BBC",
+            "description": "Prince Harry describes the \"pain and suffering of women marrying into\" the Royal Family in a new clip.",
+            "url": "https://www.bbc.com/news/uk-63861642",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12556/production/_127849057_netflix3.jpg",
+            "publishedAt": "2022-12-05T20:40:28Z",
+            "content": "Prince Harry speaks of the \"leaking and... planting of stories\" as part of a \"dirty game\" in a new trailer for the Harry and Meghan series on Netflix.\r\nHe describes the \"pain and suffering of women m\u2026 [+4748 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Ganesh Rao",
-            "title": "Buy Frasers Group and Next plc stock, fund manager says, ahead of recession - CNBC",
-            "description": "Veteran Schroders fund manager says both retailers have made a series of cheap acquisitions to grow market share ahead of a recession.",
-            "url": "https://www.cnbc.com/2022/12/05/fund-manager-names-two-global-retailers-that-are-about-to-dominate.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107156958-1669380194899-gettyimages-1359524615-282368final.jpeg?v=1670198012&w=1920&h=1080",
-            "publishedAt": "2022-12-04T23:53:32Z",
+            "author": "Samantha Subin, Sarah Min",
+            "title": "Wall Street rout gains steam, with the Dow dropping 500 points to start the week - CNBC",
+            "description": "Stocks fell Monday on fears that the Federal Reserve may continue tightening until it steers the economy into a recession.",
+            "url": "https://www.cnbc.com/2022/12/04/stock-futures-are-little-changed-as-investors-enter-a-quiet-period-ahead-of-the-feds-december-policy-meeting.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107160394-1669996440830-gettyimages-1446279689-032a1217_f0c412f0-894b-4cb7-a6a0-b2d33ffde57f.jpeg?v=1670254431&w=1920&h=1080",
+            "publishedAt": "2022-12-05T20:39:00Z",
+            "content": "Stocks fell Monday on fears that the Federal Reserve may continue tightening until it steers the economy into a recession.\r\nThe Dow Jones Industrial Average fell by 526 points, or 1.5%, while the S&a\u2026 [+1773 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "What\u2019s next for former Panthers QB Baker Mayfield? 4 logical waiver-wire destinations - Charlotte Observer",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vd3d3LmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9zcG9ydHMvbmZsL2Nhcm9saW5hLXBhbnRoZXJzL2FydGljbGUyNjk2Mjg4MTYuaHRtbNIBVGh0dHBzOi8vYW1wLmNoYXJsb3R0ZW9ic2VydmVyLmNvbS9zcG9ydHMvbmZsL2Nhcm9saW5hLXBhbnRoZXJzL2FydGljbGUyNjk2Mjg4MTYuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-05T20:31:38Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "Starfield And Other First-Party Xbox Games To Be $70 In 2023 - Kotaku",
+            "description": "Future Xbox Series X/S first-party games like Forza 9 and Redfall will cost $10 more in 2023",
+            "url": "https://kotaku.com/xbox-game-prices-60-70-bucks-starfield-microsoft-forza-1849854941",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c90684aea91a5c941298e7a83739d4d6.jpg",
+            "publishedAt": "2022-12-05T19:34:00Z",
+            "content": "Starting next year, Microsoft will raise the price of its first-party games from $60 to $70, joining other publishers and video game companies who are doing the same. Welcome to the era of the $70 ga\u2026 [+2886 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Anders Hagstrom",
+            "title": "Oxford dictionary unveils 2022 word of the year: \u2018Goblin mode\u2019 - Fox News",
+            "description": "Goblin mode refers to \"a type of behavior which is unapologetically self-indulgent, lazy, slovenly, or greedy, typically in a way that rejects social norms or expectations,\" according to The Oxford Dictionary's official word of 2022 is \"goblin mode,\" the grou\u2026",
+            "url": "https://www.foxnews.com/lifestyle/oxford-dictionary-unveils-2022-word-year-goblin-mode",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/goblin.jpg",
+            "publishedAt": "2022-12-05T18:51:49Z",
+            "content": "Goblin mode refers to \"a type of behavior which is unapologetically self-indulgent, lazy, slovenly, or greedy, typically in a way that rejects social norms or expectations,\" according to The Oxford D\u2026 [+2317 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Brad Smith",
+            "title": "Opinion | Microsoft's Activision-Blizzard Acquisition Is Good for Gamers - The Wall Street Journal",
+            "description": "Far from harming competition, it\u2019ll allow us to compete against more powerful companies through innovation.",
+            "url": "https://www.wsj.com/articles/microsofts-activision-blizzard-acquisition-is-good-for-gamers-competition-sony-cross-play-ftc-11670260780",
+            "urlToImage": "https://images.wsj.net/im-678804/social",
+            "publishedAt": "2022-12-05T18:24:00Z",
+            "content": "The Federal Trade Commission reportedly plans to sue Microsoft to stop our proposed acquisition of Activision Blizzard. That would be a huge mistake. It would hurt competition, consumers and thousand\u2026 [+427 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Emily Shapiro",
+            "title": "Idaho murders: 2 surviving roommates break silence - ABC News",
+            "description": "\"I wish every day that I could give them all one last hug,\" a roommate said.",
+            "url": "https://abcnews.go.com/US/idaho-murders-2-surviving-roommates-break-silence/story?id=94477961",
+            "urlToImage": "https://s.abcnews.com/images/US/idaho-friends-flt-ht-ps-221115_1668520238371_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-12-05T18:05:51Z",
+            "content": "The two University of Idaho roommates who survived a mysterious quadruple homicide in their off-campus house are speaking out for the first time.\r\nRoommates Kaylee Goncalves, 21, Madison Mogen, 21, a\u2026 [+3860 chars]"
         }
     ]
 }
