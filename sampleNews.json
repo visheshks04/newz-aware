@@ -1,7 +1,202 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 36,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Wayne Chang, Rhea Mogul, Jessie Yeung",
+            "title": "Hong Kong pro-democracy media tycoon Jimmy Lai sentenced to 69 months in prison on fraud charge - CNN",
+            "description": "A Hong Kong court on Saturday sentenced jailed media mogul Jimmy Lai to five years and nine months in prison for fraud, in the latest legal challenge against the pro-democracy tycoon.",
+            "url": "https://www.cnn.com/2022/12/10/asia/jimmy-lai-hong-kong-prison-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221206184648-amanpour-jimmy-lai.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-10T08:39:00Z",
+            "content": "A Hong Kong court on Saturday sentenced jailed media mogul Jimmy Lai to five years and nine months in prison for fraud, in the latest legal challenge against the pro-democracy tycoon. \r\nLai was found\u2026 [+2928 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung, Teele Rebane, Chris Eldergill",
+            "title": "American journalist Grant Wahl dies after collapsing at Qatar World Cup - CNN",
+            "description": "Prominent American journalist Grant Wahl has died in Qatar after collapsing while covering the World Cup, sparking an outpouring of shock and grief across the sports world.",
+            "url": "https://www.cnn.com/2022/12/09/football/grant-wahl-death-world-cup-qatar-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221209184020-grant-wahl-2014.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-10T07:58:00Z",
+            "content": "Prominent American journalist Grant Wahl has died in Qatar after collapsingwhile covering the World Cup, sparking an outpouring of shock and grief across the sports world.\r\nHe collapsed while coverin\u2026 [+6186 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Investigators, cleanup crews begin scouring oil pipeline spill in Kansas - Reuters",
+            "description": "Emergency crews on Friday were preparing to labor through the weekend to clean up the largest U.S. crude oil spill in nearly a decade, with workers descending on this farming community from as far away as Mississippi.",
+            "url": "https://www.reuters.com/world/us/efforts-ongoing-clean-up-keystone-oil-leak-largest-us-spill-nearly-decade-2022-12-09/",
+            "urlToImage": "https://www.reuters.com/resizer/dnXkzT91KnP_9ybi0DIKAJLgR-w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KZDY6LUVVRMPFNB7OO55ABKQ3U.jpg",
+            "publishedAt": "2022-12-10T07:40:00Z",
+            "content": "WASHINGTON, Kansas, Dec 9 (Reuters) - Emergency crews on Friday were preparing to labor through the weekend to clean up the largest U.S. crude oil spill in nearly a decade, with workers descending on\u2026 [+4705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Matthew Cantor",
+            "title": "Masking could fight the \u2018tripledemic\u2019, experts say. Will anyone listen? - The Guardian US",
+            "description": "Masks can feel like a thing of the past in the US \u2013 but experts are once again advising them as Covid, flu and RSV surge simultaneously",
+            "url": "https://www.theguardian.com/us-news/2022/dec/10/masks-tripledemic-covid-flu-rsv-us",
+            "urlToImage": "https://i.guim.co.uk/img/media/12f2ae58faf837174b9141f7e482fe988b2e1f3d/0_253_5366_3221/master/5366.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22b709623596e9cf8ecea780f7e1a42a",
+            "publishedAt": "2022-12-10T07:00:00Z",
+            "content": "Masking can feel like a thing of the past in the US, even in cities such as New York and Los Angeles that once embraced the precaution. But as healthcare facilities grapple with a tripledemic of resp\u2026 [+6108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The New Day are prepared to become Triple Crown Champions: SmackDown Exclusive, Dec. 9, 2022 - WWE",
+            "description": "After their win with Ricochet, The New Day say that was a preview for tomorrow night when they defeat Pretty Deadly to become the new NXT Tag Team Champions....",
+            "url": "https://www.youtube.com/watch?v=77OExH9-j_s",
+            "urlToImage": "https://i.ytimg.com/vi/77OExH9-j_s/maxresdefault.jpg",
+            "publishedAt": "2022-12-10T05:05:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jack Baer",
+            "title": "Zion Williamson closes out Pelicans win over Suns with 360 windmill dunk - Yahoo Sports",
+            "description": "The first-place Pelicans finished their win in style.",
+            "url": "https://sports.yahoo.com/zion-williamson-closes-out-pelicans-win-over-suns-with-360-windmill-dunk-045301392.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/g.BsyOGxOIWbYs9wlDb5ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/7a2062a0-7846-11ed-a1ef-79d2a34ed6e6",
+            "publishedAt": "2022-12-10T04:53:00Z",
+            "content": "No player in the NBA can throw it down quite like Zion Williamson, and the New Orleans Pelicans star used the end of a game on Friday to provide a demonstration.\r\nIn the final minutes of a 128-117 wi\u2026 [+1498 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Joseph Kittinger: highest skydiver for 52 years dies aged 94 - The Guardian US",
+            "description": "US airman almost died in first attempt from 14.5 miles up, eventually jumped from 19 miles and said later \u2018there\u2019s no way you can visualise the speed\u2019",
+            "url": "https://www.theguardian.com/us-news/2022/dec/10/joseph-kittinger-highest-skydiver-for-52-years-dies-aged-94",
+            "urlToImage": "https://i.guim.co.uk/img/media/6a1b17d579cfba967c2b81bc8d9c18a88325a513/0_148_2280_1368/master/2280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed46e6b22e6ec2e5abb64ee03bf071e3",
+            "publishedAt": "2022-12-10T04:39:00Z",
+            "content": "The retired US air force colonel Joseph Kittinger, whose 1960 parachute jump from almost 20 miles (32km) above Earth stood as a world record for more than 50 years, has died in Florida aged 94.\r\nHis \u2026 [+2576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Mayhem erupts after Kevin de Le\u00f3n shows up to LA City Council meeting - ABC7",
+            "description": "Chaos erupted when embattled Los Angeles City Councilman Kevin de Le\u00f3n showed up to the most recent council meeting. Full story: https://abc7.com/kevin-de-le...",
+            "url": "https://www.youtube.com/watch?v=6eYi6mwwL6A",
+            "urlToImage": "https://i.ytimg.com/vi/6eYi6mwwL6A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUShUMA8=&rs=AOn4CLBqobobRPGkgjHZcsORD_nvG0poHw",
+            "publishedAt": "2022-12-10T03:28:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WCVB Boston"
+            },
+            "author": null,
+            "title": "Flu activity reaches 'very high' level in Massachusetts - WCVB Boston",
+            "description": "The number of confirmed cases nearly doubled in the latest weekly report.",
+            "url": "https://www.wcvb.com/article/flu-activity-reaches-very-high-level-in-massachusetts-dec-9-2022/42204146",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/images/flu-season-1576293555.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2022-12-10T03:21:00Z",
+            "content": "BOSTON \u2014Illnesses caused by the flu are surging in Massachusetts, according to the latest weekly report from the Department of Public Health.\r\nThe report issued Friday, which covers the week from Nov\u2026 [+1425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Albert Breer",
+            "title": "Inside Baker Mayfield's Amazing Rams Debut - Sports Illustrated",
+            "description": "The former No. 1 pick couldn't hear his coach in his helmet, only called one play off his wristband and couldn't believe how the Raiders covered his game-winning TD pass.",
+            "url": "https://www.si.com/nfl/2022/12/10/baker-mayfield-amazing-debut-rams-raiders",
+            "urlToImage": "https://www.si.com/.image/t_share/MTk0MzMzOTc5OTA0NjQ4NzA5/baker-mayfield-sean-mcvay.jpg",
+            "publishedAt": "2022-12-10T01:34:57Z",
+            "content": "No one will remember the play itself, amid everything that happened on Thursday night at SoFi Stadium. But the third-and-10 that Baker Mayfield faced from the Raiders 30-yard line with 3:44 left in t\u2026 [+15548 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Audrey Conklin",
+            "title": "Idaho murders: Police receive 'amazing' number of tips related to mystery car spotted near crime scene - Fox News",
+            "description": "Police have received an \"amazing\" number of tips regarding a white Hyundai Elantra they believe may be related to a Nov. 13 homicide near the University of Idaho campus.",
+            "url": "https://www.foxnews.com/us/idaho-murders-police-receive-amazing-number-tips-related-mystery-car-spotted-near-crime-scene",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Hyundai.jpg",
+            "publishedAt": "2022-12-10T01:22:11Z",
+            "content": "MOSCOW, Idaho Idaho investigators have received an \"amazing\" number of tips related to a white vehicle spotted near the scene of a Nov. 13 quadruple homicide in a student rental home near the Univers\u2026 [+3747 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Eliza Collins, Lindsay Wise",
+            "title": "Kyrsten Sinema Switches to Independent, Complicates Democratic Control of Senate - The Wall Street Journal",
+            "description": "Arizona senator has often disagreed with Democratic leadership on major legislation",
+            "url": "https://www.wsj.com/articles/sen-kyrsten-sinema-leaves-democratic-party-11670587227",
+            "urlToImage": "https://images.wsj.net/im-682583/social",
+            "publishedAt": "2022-12-10T01:03:00Z",
+            "content": "WASHINGTONSen. Kyrsten Sinema of Arizona, a pivotal centrist who has helped broker bipartisan deals and forced changes to major pieces of President Bidens agenda, said she was leaving the Democratic \u2026 [+536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Ronnie Turner, Tina Turner's Son, Dead at 62 - Entertainment Tonight",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6UyVyDK18_I",
+            "urlToImage": null,
+            "publishedAt": "2022-12-10T01:00:02Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: US says Iran now Russia's 'top military backer' - BBC",
+            "description": "Washington says it has seen reports that the countries are considering jointly producing drones.",
+            "url": "https://www.bbc.com/news/world-europe-63921007",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/128DA/production/_127949957_mediaitem127949956.jpg",
+            "publishedAt": "2022-12-10T00:36:18Z",
+            "content": "Russia and Iran's relationship has warmed to a fully fledged defence partnership, the US has said. \r\nRussia is giving an unprecedented level of military support, said US national security council spo\u2026 [+3192 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "World Cup Daily: Argentina, Croatia survive day of drama - FOX Sports",
+            "description": "Croatia continues to play up to its competition while Lionel Messi keeps Argentina in contention. Here\u2019s everything that happened at the World Cup on Friday.",
+            "url": "https://www.foxsports.com/stories/soccer/world-cup-daily-argentina-croatia-survive-day-of-drama",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/12.9.22_World-Cup_Daily-File_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-12-10T00:34:23Z",
+            "content": "Argentina will play in the World Cup semifinals after beating the Netherlands in a penalty shootout Friday but it won't get its date with Brazil, which lost its penalty shootout with Croatia.\r\nHere's\u2026 [+2993 chars]"
+        },
         {
             "source": {
                 "id": "cbs-news",
@@ -18,158 +213,28 @@
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "The Guardian"
             },
-            "author": null,
-            "title": "UFC 282: Ceremonial Weigh-In - UFC - Ultimate Fighting Championship",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUPrvZTaEMXY",
-            "urlToImage": null,
-            "publishedAt": "2022-12-10T00:15:27Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "author": "Jonathan Liew",
+            "title": "England v France: a heavyweight contest to define the Southgate era - The Guardian",
+            "description": "World Cup knockout games are devastatingly brutal in their finality but at least this showdown looks intriguingly poised",
+            "url": "https://www.theguardian.com/football/2022/dec/09/england-v-france-a-heavyweight-contest-to-define-the-southgate-era",
+            "urlToImage": "https://i.guim.co.uk/img/media/afccaaca9d3a025771482fcd5a753d84d6f6ad5e/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7cddae046c7de1549b543d55423cb6b",
+            "publishedAt": "2022-12-09T23:52:00Z",
+            "content": "Darkness falls quickly in Qatar. The night steals in like a kidnapper, wrapping its shroud around the desert like a bag over the head. Sunsets barely last long enough to choose an Instagram filter. O\u2026 [+7747 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Matias Grez",
-            "title": "Argentina reaches Qatar 2022 semifinals with penalty shootout win over Netherlands in World Cup thriller - CNN",
-            "description": "The hopes of Argentina and Lionel Messi winning the World Cup remain very much alive after a nerve-shredding penalty shootout victory over the Netherlands in a thrilling match at Qatar 2022.",
-            "url": "https://www.cnn.com/2022/12/09/football/argentina-netherlands-world-cup-lionel-messi-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221209224226-argentina-celebrate.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-09T23:33:00Z",
-            "content": "The hopes of Argentina and Lionel Messi winning the World Cup remain very much alive after a nerve-shredding penalty shootout victory over the Netherlands in a thrilling match at Qatar 2022.\r\nLeading\u2026 [+6503 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brie Stimson",
-            "title": "Aspen Jeter found safe after going missing on Thanksgiving; father arrested for murder - Fox News",
-            "description": "Aspen Jeter, a 5-year-old South Carolina girl who went missing in late November, was found safe Friday after authorities discovered her in a Virginia parking lot with her father.",
-            "url": "https://www.foxnews.com/us/aspen-jeter-found-safe-going-missing-thanksgiving-father-arrested-murder",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/Aspen-Jeter-missing.png",
-            "publishedAt": "2022-12-09T23:32:04Z",
-            "content": "Aspen Jeter, a 5-year-old who went missing Thanksgiving Day after her mother was found dead in her South Carolina home, has been found safe, officials announced Friday, according to reports.\u00a0\r\nHer fa\u2026 [+1606 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "The Kid Who Crashed The Game Awards Has A History Of Trolling - Kotaku",
-            "description": "From InfoWars to BlizzCon, the Bill Clinton kid has done it before",
-            "url": "https://kotaku.com/game-awards-2022-bill-clinton-infowars-blizzcon-troll-1849877331",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c98205d56635fa963ab1d63bb29aa500.jpg",
-            "publishedAt": "2022-12-09T22:55:07Z",
-            "content": "Academy Award winner Al Pacino may have opened the 2022 Game Awards, a night of industry recognition and expensive marketing for the biggest games around, but it was a new type of internet celebrity \u2026 [+5070 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Stellantis to idle Belivdere Assembly Plant in February - Eyewitness News WTVO WQRF",
-            "description": "Workers at the Belvidere Plant will soon be out of work. Stellantis announced Friday that it will idle the plant on Feb. 28.Stay informed about Rockford-area...",
-            "url": "https://www.youtube.com/watch?v=ieWBG5cYDVw",
-            "urlToImage": "https://i.ytimg.com/vi/ieWBG5cYDVw/maxresdefault.jpg",
-            "publishedAt": "2022-12-09T22:21:56Z",
+            "author": "Sarah E. Needleman",
+            "title": "FTC's Move to Block Microsoft's Deal for Activision Blizzard Came Despite Charm Offensive - The Wall Street Journal",
+            "description": "The software giant has said it wouldn\u2019t block rivals from Activision games, but the agency says Microsoft had reneged on a similar promise in the past",
+            "url": "https://www.wsj.com/articles/ftcs-move-to-block-microsofts-deal-for-activision-blizzard-came-despite-charm-offensive-11670628909",
+            "urlToImage": "https://images.wsj.net/im-683247/social",
+            "publishedAt": "2022-12-09T23:35:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Florida Today"
-            },
-            "author": ", Florida Today",
-            "title": "Splashdown! Here's how NASA will recover the Artemis I Orion capsule in the Pacific Ocean - Florida Today",
-            "description": "The Orion recovery team includes Navy amphibious specialists, NASA engineers and techs, Air Force weather specialists and Lockheed Martin personnel.",
-            "url": "https://www.floridatoday.com/story/news/2022/12/08/heres-how-nasa-and-navy-will-recover-the-artemis-i-orion-capsule-in-the-pacific-ocean-splashdown/8079975001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/21/PBRE/30260bec-50fc-44c8-84e6-6bd7f7e0dcd0-KSC-20200313-PH_KAA01-0159_orig.jpg?auto=webp&crop=5946,3345,x0,y302&format=pjpg&width=1200",
-            "publishedAt": "2022-12-09T22:14:16Z",
-            "content": "Support local journalism. Unlock unlimited digital access to floridatoday.com Click here and subscribe today.\r\nAfter pedaling his bicycle to the barrier-island dunes in Melbourne Beach, Florida Insti\u2026 [+9456 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jeremy Herb",
-            "title": "Sinema leaving the Democratic Party and registering as an independent - CNN",
-            "description": "Arizona Sen. Kyrsten Sinema is leaving the Democratic Party and registering as a political independent, she told CNN's Jake Tapper in an exclusive TV interview.",
-            "url": "https://www.cnn.com/2022/12/09/politics/kyrsten-sinema-leaves-democratic-party/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220804144133-kyrsten-sinema-file-080322.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-09T22:05:00Z",
-            "content": "Arizona Sen. Kyrsten Sinema is leaving the Democratic Party and registering as a political independent, she told CNNs Jake Tapper in an exclusive TV interview.\r\nIve registered as an Arizona independe\u2026 [+8347 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "James Webb Space Telescope 'fingerprints' earliest galaxies - BBC",
-            "description": "The new super space observatory sees the most distant galaxy confirmed by gold-standard measurement.",
-            "url": "https://www.bbc.com/news/science-environment-63919257",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2BC6/production/_127960211_sci22001a.jpg",
-            "publishedAt": "2022-12-09T22:02:43Z",
-            "content": "It's not much to look at - just a little red blob with the rather quirky name of JADES-GS-z13-0.\r\nBut this faint smudge, imaged by the James Webb Space Telescope, is the \"most distant galaxy\" so far \u2026 [+5391 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Mesfin Fekadu",
-            "title": "R. Kelly\u2019s Lawyer on His \u2018I Admit It\u2019 Album: \u201cIt\u2019s an Unauthorized Release of Music\u201d - Hollywood Reporter",
-            "description": "R. Kelly\u2019s lawyer said an album uploaded to Spotify and Apple Music on Friday was not authorized by the singer. The 13-track set called\u00a0I Admit It\u00a0was released online Friday \u2014 appearing on streaming platforms as a new album. But hours after its release, it wa\u2026",
-            "url": "https://www.hollywoodreporter.com/news/music-news/r-kelly-releases-album-i-admit-it-1235278899/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/12/R.-Kelly-Chicago-Courts-GettyImages-1158464164-H-2022.jpg?w=1024",
-            "publishedAt": "2022-12-09T21:45:00Z",
-            "content": "R. Kelly\u2019s lawyer said an album uploaded to Spotify and Apple Music on Friday was not authorized by the singer.\r\nThe 13-track set called\u00a0I Admit It\u00a0was released online Friday \u2014 appearing on streaming\u2026 [+2788 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jeff Marks",
-            "title": "Dow has worst week since September as investors look ahead to CPI, Fed meeting - CNBC",
-            "description": "The Labor Department releases its monthly consumer price index Tuesday, followed by a decision from the Fed on future rate hikes the following day.",
-            "url": "https://www.cnbc.com/2022/12/09/dow-has-worst-week-since-september-as-investors-look-ahead-to-cpi-fed-meeting.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107122083-1663772498494-GettyImages-1146304273.jpg?v=1670620944&w=1920&h=1080",
-            "publishedAt": "2022-12-09T21:22:24Z",
-            "content": "It was a whipsaw week for stocks.\r\nThe market came under pressure early in the week as investors worried that elevated wage pressure seen in the November jobs report could push the Federal Reserve to\u2026 [+217 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bleeding Green Nation"
-            },
-            "author": "Brandon Lee Gowton",
-            "title": "Eagles-Giants Final Injury Report: Saquon Barkley questionable to play - Bleeding Green Nation",
-            "description": "Week 14 game status updates.",
-            "url": "https://www.bleedinggreennation.com/2022/12/9/23502015/eagles-giants-final-injury-report-saquon-barkley-questionable-leonard-williams-quez-watkins-nfl-news",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/vegnwrk_A2dGMWspfMviqLxWCwE=/0x116:3000x1687/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24279762/1361106527.jpg",
-            "publishedAt": "2022-12-09T21:01:03Z",
-            "content": "The Philadelphia Eagles issued their third and final official injury report on Friday in advance of their Week 14 game against the New York Giants.\r\nThe Eagles ruled one player OUT: Shaun Bradley.\r\nB\u2026 [+3992 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ren\u00e9 Marsh",
-            "title": "Big Oil has engaged in a long-running climate disinformation campaign while raking in record profits, lawmakers find - CNN",
-            "description": "Big Oil companies have engaged in a \"long-running greenwashing campaign\" while raking in \"record profits at the expense of American consumers,\" the House Oversight committee has found after a months-long investigation.",
-            "url": "https://www.cnn.com/2022/12/09/politics/big-oil-disinformation-record-profits-climate/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221209083114-01-bp-refinery-netherlands-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-09T20:29:00Z",
-            "content": "Big Oil companies have engaged in a long-running greenwashing campaign while raking in record profits at the expense of American consumers, the Democratic-led House Oversight Committee has found afte\u2026 [+6444 chars]"
         },
         {
             "source": {
@@ -177,90 +242,25 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "WA public health leaders again urge masking indoors amid \u2018tripledemic\u2019 - The Seattle Times",
+            "title": "Judge declines request to hold Trump team in contempt - The Hill",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vc2VhdHRsZS1uZXdzL2hlYWx0aC93YS1wdWJsaWMtaGVhbHRoLWxlYWRlcnMtYWdhaW4tdXJnZS1tYXNraW5nLWluZG9vcnMtYW1pZC10cmlwbGVkZW1pYy_SAXxodHRwczovL3d3dy5zZWF0dGxldGltZXMuY29tL3NlYXR0bGUtbmV3cy9oZWFsdGgvd2EtcHVibGljLWhlYWx0aC1sZWFkZXJzLWFnYWluLXVyZ2UtbWFza2luZy1pbmRvb3JzLWFtaWQtdHJpcGxlZGVtaWMvP2FtcD0x?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzc2OTMyNy1qdWRnZS1kZWNsaW5lcy1yZXF1ZXN0LXRvLWhvbGQtdHJ1bXAtdGVhbS1pbi1jb250ZW1wdC_SAV9odHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzLzM3NjkzMjctanVkZ2UtZGVjbGluZXMtcmVxdWVzdC10by1ob2xkLXRydW1wLXRlYW0taW4tY29udGVtcHQvYW1wLw?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-12-09T20:23:00Z",
+            "publishedAt": "2022-12-09T23:24:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Kevin de Le\u00f3n returns to L.A. City Council chambers - CBS Los Angeles",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfqI8MJibsUE",
-            "urlToImage": null,
-            "publishedAt": "2022-12-09T20:19:16Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
         },
         {
             "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
-            "author": "Ron Amadeo",
-            "title": "RIP Passwords? Passkey support rolls out to Chrome stable - Ars Technica",
-            "description": "With a huge list of caveats, initial Google passkey support is here.",
-            "url": "https://arstechnica.com/gadgets/2022/12/rip-passwords-passkey-support-rolls-out-to-chrome-stable/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/passwords-760x380.jpg",
-            "publishedAt": "2022-12-09T19:55:28Z",
-            "content": "Enlarge/ Please don't do this.\r\n24 with 0 posters participating\r\nPasskeys are here to (try to) kill the password. Following Google's beta rollout of the feature in October, passkeys are now hitting C\u2026 [+5050 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "\"Respect For Marriage\" Act Clears Congressional Hurdle, Awaits Biden Signature - CBS Miami",
-            "description": "The House on Thursday approved legislation that provides federal protections for same-sex and interracial marriages, sending the landmark bill to President B...",
-            "url": "https://www.youtube.com/watch?v=zbj3-_ymCOY",
-            "urlToImage": "https://i.ytimg.com/vi/zbj3-_ymCOY/hqdefault.jpg",
-            "publishedAt": "2022-12-09T19:30:55Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Tina Turner's Son Ronnie Turner Dead at 62 | PEOPLE - People",
-            "description": "Ronnie Turner, the son of legendary singer Tina Turner, has died. He was 62.Ronnie's wife, the French singer Afida Turner, confirmed her husband's death in a...",
-            "url": "https://www.youtube.com/watch?v=4bQ26Yau2dA",
-            "urlToImage": "https://i.ytimg.com/vi/4bQ26Yau2dA/maxresdefault.jpg",
-            "publishedAt": "2022-12-09T19:28:13Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "China's Xi calls for oil trade in yuan at Gulf summit in Riyadh - Reuters.com",
-            "description": "President Xi Jinping told Gulf Arab leaders on Friday that China would work to buy oil and gas in yuan, a move that would support Beijing's goal to establish its <a href=\"/business/energy/chinas-xi-tells-gulf-nations-use-shanghai-exchange-yuan-energy-deals-20\u2026",
-            "url": "https://www.reuters.com/world/saudi-arabia-gathers-chinas-xi-with-arab-leaders-new-era-ties-2022-12-09/",
-            "urlToImage": "https://www.reuters.com/resizer/BZDoGLU05hn3Hl8UOtIpnqbDT5c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZSAQE34QAFM4VM2K5JIKZAONEQ.jpg",
-            "publishedAt": "2022-12-09T19:01:00Z",
-            "content": "RIYADH, Dec 9 (Reuters) - President Xi Jinping told Gulf Arab leaders on Friday that China would work to buy oil and gas in yuan, a move that would support Beijing's goal to establish its currency in\u2026 [+4746 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Deidre McPhillips",
-            "title": "Flu surged after Thanksgiving, as early season continues to worsen - CNN",
-            "description": "Flu surged in the United States after Thanksgiving, bringing the most severe week yet in a season that hit the county extra early. More than a third of all flu hospitalizations and deaths so far this season were reported in just the past week, and cases also \u2026",
-            "url": "https://www.cnn.com/2022/12/09/health/flu-thanksgiving-surge/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221209125942-flu-surge-after-thanksgiving.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-09T18:30:00Z",
-            "content": "Flu surged in the United States after Thanksgiving, bringing the most severe week yet in a season that hit the county extra early. More than a third of all flu hospitalizations and deaths so far this\u2026 [+3214 chars]"
+            "author": "Beth Mole",
+            "title": "Amid pathetic uptake, FDA green lights confusing COVID vaccine update for kids - Ars Technica",
+            "description": "Some kids can get boosters, some can get an updated series, some get nothing.",
+            "url": "https://arstechnica.com/science/2022/12/amid-pathetic-uptake-fda-green-lights-confusing-covid-vaccine-update-for-kids/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1241447966-760x380.jpeg",
+            "publishedAt": "2022-12-09T23:08:24Z",
+            "content": "Enlarge/ Reisa Lancaster RN, left, administers the Covid-19 vaccine to 14 month old Ada Hedge, center, being comforted by mom Sarah Close and dad Chinmay Hedge, right at Children's National Research \u2026 [+5516 chars]"
         }
     ]
 }
