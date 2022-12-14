@@ -1,123 +1,136 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 32,
     "articles": [
         {
             "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matt Bonesteel, Scott Allen",
+            "title": "Lionel Messi, Argentina beat Croatia, 3-0: World Cup highlights - The Washington Post",
+            "description": "Argentina beat Croatia, 3-0, in the first semifinal at the World Cup in Qatar and will face either France or Morocco on Sunday with a chance to win its first world title since 1986.",
+            "url": "https://www.washingtonpost.com/sports/2022/12/13/argentina-vs-croatia/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UEQEZ44IJFCGDFHAWQHFD6CRMI.JPG&w=1440",
+            "publishedAt": "2022-12-14T00:39:45Z",
+            "content": "World Cup in Qatar\r\nThe latest:Argentina beat Croatia, 3-0, in a World Cup semifinal Tuesday in Lusail, Qatar, moving to within one win of its first world championship since 1986. The South American \u2026 [+797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WSYR"
+            },
+            "author": "John DiPasquale",
+            "title": "Bundle up and enjoy the show in the sky! - WSYR",
+            "description": "Yes, there\u2019s a meteor shower peaking Tuesday and Wednesday nights. Often times here in Central New York we don\u2019t have a good view of the Geminid meteor shower because it\u2019s usually cloudy in December, but this year will be an exception. Best time to view the s\u2026",
+            "url": "https://www.localsyr.com/news/local-news/bundle-up-and-enjoy-the-show-in-the-sky/",
+            "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2022/12/1280x720_31018B00-BARSF-1-2.jpg?w=1280",
+            "publishedAt": "2022-12-13T23:35:59Z",
+            "content": "Yes, there\u2019s a meteor shower peaking Tuesday and Wednesday nights. Often times here in Central New York we don\u2019t have a good view of the Geminid meteor shower because it\u2019s usually cloudy in December,\u2026 [+595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Erin Keller",
+            "title": "Jay Leno recalls horrific accident: 'I'm on fire ... Oh, my God' - New York Post ",
+            "description": "The funnyman credits his friend\u2019s quick thinking for jumping on him to stop the fire.",
+            "url": "https://nypost.com/2022/12/13/jay-leno-recalls-horrific-accident-im-on-fire-oh-my-god/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/12/jay-leno-fire-comp.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-12-13T23:31:00Z",
+            "content": "Jay Leno is recounting his dramatic rescue by a close friend when he suffered severe burns in a horrifying freak accident last month. \r\nThe funnyman and car fanatic revealed what caused the fiery exp\u2026 [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dan Lamothe, Karen DeYoung, Alex Horton",
+            "title": "Pentagon preparing to send Patriot missile system to Ukraine - The Washington Post",
+            "description": "Amid Russian bombardment of Ukraine's energy grid, the U.S. is set to provide its most advanced air defenses.",
+            "url": "https://www.washingtonpost.com/national-security/2022/12/13/patriot-missile-defense-ukraine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KHYQE5Q5RC65PRR34VT7EDOIU.jpg&w=1440",
+            "publishedAt": "2022-12-13T22:18:00Z",
+            "content": "Comment on this story\r\nThe Pentagon is preparing to send the Patriot missile system to Ukraine, senior U.S. officials said Tuesday, a move that would provide the government in Kyiv with the most adva\u2026 [+5737 chars]"
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Wayne Sterling, Matt Phillips",
-            "title": "University of Texas men's basketball head coach arrested and charged with felony assault - CNN",
-            "description": "Chris Beard was arrested and charged with a third-degree felony assault in Texas on Monday.",
-            "url": "https://www.cnn.com/2022/12/12/us/university-of-texas-chris-beard-arrest/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221212212936-01-chris-beard-112622.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-13T09:44:00Z",
-            "content": "University of Texas at Austin mens basketball head coach Chris Beard was arrested and charged with a third-degree felony assault on Monday. \r\nOfficers responded to a disturbance on the 1900 block of \u2026 [+1314 chars]"
+            "author": "Lauren Fox, Melanie Zanona, Kristin Wilson, Sarah Fortinsky",
+            "title": "House GOP divided over whether McCarthy should give in on 'motion to vacate' - CNN",
+            "description": "The House Republican Conference is still entrenched in an internal war over whether to reinstate an arcane rule that would empower any member to bring up a vote to oust a speaker at any time.",
+            "url": "https://www.cnn.com/2022/12/13/politics/house-speaker-gop-motion-to-vacate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221130170458-mccarthy-white-house-1129.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-13T22:12:00Z",
+            "content": "The House Republican Conference is still entrenched in an internal war over whether to reinstate an arcane rule that would empower any member to bring up a vote to oust a speaker at any time. \r\nThe b\u2026 [+4431 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Deadline"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Train strikes: Widespread delays as latest walkouts begin - BBC",
-            "description": "About 40,000 rail workers are walking out in a series of strikes starting on Tuesday in a row about jobs and pay.",
-            "url": "https://www.bbc.com/news/business-63951354",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4CC0/production/_127984691_gettyimages-1245382008.jpg",
-            "publishedAt": "2022-12-13T08:48:52Z",
-            "content": "Train passengers are braced for major disruption this week, as a series of strikes is set to bring the UK's rail network to a standstill. \r\nAbout 40,000 rail workers are walking out on Tuesday, Wedne\u2026 [+5698 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Vedika Sud, Simone McCarthy",
-            "title": "Indian and Chinese troops clash on disputed border - CNN",
-            "description": "Indian and Chinese troops have clashed on their disputed Himalayan border, the first known incident between the two nuclear-armed Asian powers in nearly two years.",
-            "url": "https://www.cnn.com/2022/12/13/asia/india-china-border-dispute-skirmish-tawang-sector-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221213120102-line-of-actual-control-area.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-13T07:53:00Z",
-            "content": "Indian and Chinese troops have clashed on their disputed Himalayan border, the first known incident between the two nuclear-armed Asian powers in nearly two years.\r\nIn a statement, Indias Ministry of\u2026 [+4405 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": null,
-            "title": "China students return home amid COVID travel spread fears - The Associated Press",
-            "description": "BEIJING (AP) \u2014 Some Chinese universities say they will allow students to finish the semester from home in hopes of reducing the potential of a bigger COVID-19 outbreak during the January Lunar New Year travel rush.",
-            "url": "https://apnews.com/62ba569fcee449491442cef1f8f93c00",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/16e87b995c4e4af68d68a2fc5d35298d/3000.webp",
-            "publishedAt": "2022-12-13T06:22:30Z",
-            "content": "BEIJING (AP) Some Chinese universities say they will allow students to finish the semester from home in hopes of reducing the potential of a bigger COVID-19 outbreak during the January Lunar New Year\u2026 [+5137 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Options traders brace for big swings as U.S. CPI data, Fed meeting loom - Reuters",
-            "description": "Options traders are bracing for a week of swings in U.S. stocks ahead of key inflation data, the Federal Reserve's last policy meeting of 2022 and the final monthly options expiration of the year.",
-            "url": "https://www.reuters.com/markets/us/options-traders-brace-big-swings-us-cpi-data-fed-meeting-loom-2022-12-12/",
-            "urlToImage": "https://www.reuters.com/resizer/zWsDMzfpDVW6b2BJqhv6Tf66hjc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/56QHWH6S3RMSVKCZKKWVRSAOCM.jpg",
-            "publishedAt": "2022-12-13T05:59:00Z",
-            "content": "NEW YORK, Dec 12 (Reuters) - Options traders are bracing for a week of swings in U.S. stocks ahead of key inflation data, the Federal Reserve's last policy meeting of 2022 and the final monthly optio\u2026 [+2859 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Supporters of Brazil's defeated Bolsonaro attack police headquarters - Reuters",
-            "description": "Supporters of far-right Brazilian President Jair Bolsonaro on Monday attempted to invade the federal police headquarters in the capital Brasilia, in a flash of post-election violence on the day the president's electoral defeat was certified.",
-            "url": "https://www.reuters.com/world/americas/supporters-brazils-bolsonaro-try-invade-federal-police-headquarters-2022-12-13/",
-            "urlToImage": "https://www.reuters.com/resizer/YPbF9H2eHTU1dpFLWUXtBSCwQjI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BTJXASTMFNODNROI3TK6DOGIY.jpg",
-            "publishedAt": "2022-12-13T05:43:00Z",
-            "content": "BRASILIA, Dec 12 (Reuters) - Supporters of far-right Brazilian President Jair Bolsonaro on Monday attempted to invade the federal police headquarters in the capital Brasilia, in a flash of post-elect\u2026 [+4260 chars]"
+            "author": "Mike Fleming Jr",
+            "title": "James Cameron On His Titanic \u2018Avatar\u2019 Sequel Bet, \u2018Terminator\u2019 Remorse, Teaching Sigourney Weaver & Kate Winslet The 7-Minute Breath Holding Swim - Deadline",
+            "description": "Disney soon will find out the wisdom of its massive acquisition of Fox and ownership of the billion-dollar investment in Avatar tentpoles that should give the studio a fresh supply of blockbusters over the next decade. Avatar: The Way of Water opens Friday, w\u2026",
+            "url": "https://deadline.com/2022/12/james-cameron-avatar-the-way-of-water-terminator-remorse-sigourney-weaver-kate-winslet-7-minute-breath-holding-swim-1235197918/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/12/james-cameron-2.jpg?w=1024",
+            "publishedAt": "2022-12-13T21:53:00Z",
+            "content": "Disney soon will find out the wisdom of its massive acquisition of Fox and ownership of the billion-dollar investment in Avatar tentpoles that should give the studio a fresh supply of blockbusters ov\u2026 [+19641 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Ken Rosenthal",
-            "title": "Rosenthal: Inside the trade of Sean Murphy to Braves and the catalyst for the three-team deal - The Athletic",
-            "description": "Two separate occurrences helped the deal come together, according to sources familiar with the discussions.",
-            "url": "https://theathletic.com/3996795/2022/12/13/inside-trade-murphy-contreras-ruiz/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/12/12234651/GettyImages-1421462417-1024x683.jpg",
-            "publishedAt": "2022-12-13T05:31:53Z",
-            "content": "The Oakland As wanted two major-league-ready position players for catcher Sean Murphy. The Braves werent about to trade Vaughn Grissom, whom they are grooming to potentially replace free agent Dansby\u2026 [+6367 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "MacKenzie Sigalos, Rohan Goswami",
-            "title": "FTX spent $256 million on Bahamas real estate \u2014 now the island's government wants it back - CNBC",
-            "description": "Bahamas regulators appeal to U.S. bankruptcy judge to try to claim ownership over FTX-owned properties in New Providence, Bahamas.",
-            "url": "https://www.cnbc.com/2022/12/12/ftx-sam-bankman-fried-snapped-up-256-million-in-bahamas-real-estate.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106845320-1614210756268-gettyimages-542706099-8b6933a4-90e8-40ba-be5b-40a84bd34bd7.jpeg?v=1670909308&w=1920&h=1080",
-            "publishedAt": "2022-12-13T05:28:28Z",
-            "content": "Bahhamian lawyers say FTX executives Sam Bankman-Fried and Ryan Salame spent $256.3 million spent to buy and maintain 35 different properties across New Providence, Bahamas.\r\nNow, Bahamas regulators \u2026 [+2784 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "name": "WPVI-TV"
             },
             "author": null,
-            "title": "Altercation between Councilmember Kevin de Le\u00f3n and activist Jason Reedy spark safety concerns - CBS Los Angeles",
-            "description": "The chaotic altercation between the embattled Los Angeles City Councilman Kevin de Le\u00f3n and activist Jason Reedy has sparked questions about safety for other...",
-            "url": "https://www.youtube.com/watch?v=Z3ryOp9HQF0",
-            "urlToImage": "https://i.ytimg.com/vi/Z3ryOp9HQF0/maxresdefault.jpg",
-            "publishedAt": "2022-12-13T05:19:50Z",
-            "content": null
+            "title": "Missing boaters: Kevin Hyde and Joe Ditomasso found safe off coast of New York - WPVI-TV",
+            "description": "Two missing boaters who departed Cape May, New Jersey last month in a 30-foot sailboat have been found safe, Action News has learned.",
+            "url": "https://6abc.com/us-coast-guard-missing-sailors-kevin-hyde-joe-ditomasso-cape-may-nj/12564201/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/12564227_121222-wpvi-missing-boaters-11pm-CC-vid.jpg?w=1600",
+            "publishedAt": "2022-12-13T21:51:37Z",
+            "content": "CAPE MAY, New Jersey (WPVI) -- Two missing boaters who departed Cape May, New Jersey last month in a 30-foot sailboat have been found safe, Action News has learned.\r\nAccording to the United States Co\u2026 [+1466 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "FTX CEO questions actions by Bahamian authorities amid bankruptcy - Fox Business",
+            "description": "New FTX CEO John Ray III said his team is investigating actions taken by the Bahamian government amid the crypto exchange's bankruptcy, saying authorities are uncooperative.",
+            "url": "https://www.foxbusiness.com/politics/ftx-ceo-questions-actions-bahamian-authorities-bankruptcy",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/john-ray.jpg?ve=1&tl=1",
+            "publishedAt": "2022-12-13T21:50:49Z",
+            "content": "The new CEO of FTX told U.S. lawmakers Tuesday that his team has received \"extraordinary\" pushback from authorities in the Bahamas, where the fallen crypto exchange is based, and called into question\u2026 [+3122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Sara Nathan",
+            "title": "Why King Charles won't take away Prince Harry, Meghan Markle's Sussex titles - Page Six",
+            "description": "If King Charles ever were to strip Prince Harry and Meghan Markle of their titles, a source said, \u201cIt would only lead to the Sussexes claiming that it was a retaliatory action and proof they \u2026",
+            "url": "https://pagesix.com/2022/12/13/why-prince-harry-meghan-markle-wont-lose-sussex-titles/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/12/prince-harry-meghan-charles-william-1.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2022-12-13T21:46:00Z",
+            "content": "No matter how tense things get \u00a0and what ends up alleged in Thursday\u2019s second installment of the Netflix docuseries \u201cHarry &amp; Meghan\u201d King Charles is very unlikely to ever strip the Sussexes of th\u2026 [+3898 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Ruiz",
+            "title": "Idaho murders: Cops take hours of video from gas station after clerk spots white car on night of stabbings - Fox News",
+            "description": "An Idaho gas station clerk says she found a white sedan on surveillance video taken on the night of a quadruple homicide nearby and sent it to police.",
+            "url": "https://www.foxnews.com/us/idaho-murders-cops-take-hours-video-gas-station-clerk-spots-white-car-night-stabbings",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/White-car-cropped-idaho.jpg",
+            "publishedAt": "2022-12-13T21:20:08Z",
+            "content": "MOSCOW, Idaho EXCLUSIVE: Detectives collected eight hours of surveillance video Tuesday morning from a gas station in Moscow where a clerk saw a white sedan passing by at 3:45 a.m. on the night of th\u2026 [+3331 chars]"
         },
         {
             "source": {
@@ -125,142 +138,129 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Cardinals' Kyler Murray carted off vs. Patriots with knee injury; reportedly feared to have torn ACL - CBS Sports",
-            "description": "The quarterback went down awkwardly on a scramble on the third play of the game",
-            "url": "https://www.cbssports.com/nfl/news/cardinals-kyler-murray-carted-off-vs-patriots-with-knee-injury-reportedly-feared-to-have-torn-acl/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/13/5bae5aeb-5145-4a4a-bff5-f2309ad10648/thumbnail/1200x675/3c6ca4e0ae7233a4abab4324178fe7ea/kyler-murray.jpg",
-            "publishedAt": "2022-12-13T05:10:00Z",
-            "content": "The Cardinals hoped to prove themselves offensively Monday night against the Patriots, who boast one of the NFL's stingiest defenses under Bill Belichick. Just three plays into the prime-time matchup\u2026 [+2043 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Larisha Paul",
-            "title": "Dave Chappelle Fans Reveal Why Elon Musk Was Booed: \u2018The Chase Center Turned Into the Apollo\u2019 - Rolling Stone",
-            "description": "Twitter owner and megabillionaire Elon Musk received a not-so-warm reception after being trotted out onstage during pal Chappelle\u2019s stand-up set at the Chase Center in San Francisco.",
-            "url": "https://www.rollingstone.com/culture/culture-news/dave-chappelle-booing-elon-musk-fans-react-twitter-1234646236/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/12/elon-musk-dave-chappelle.jpeg?w=1600&h=900&crop=1",
-            "publishedAt": "2022-12-13T04:56:03Z",
-            "content": "Reading the room is not one of Dave Chappelle\u2019s sharpest skills. On Sunday, the comedian surprised the audience at the San Francisco stop on his joint tour with Chris Rock by bringing out Elon Musk a\u2026 [+3003 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Cat Zakrzewski, Joseph Menn, Naomi Nix",
-            "title": "Twitter dissolves Trust and Safety Council, Yoel Roth flees home - The Washington Post",
-            "description": "Yoel Roth, Twitter\u2019s former head of trust and safety, left his home after criticism from Musk unleashed a torrent of online harassment.",
-            "url": "https://www.washingtonpost.com/technology/2022/12/12/musk-twitter-harass-yoel-roth/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RAHQVEZWN56I63NRRKYFF2VXSQ.jpg&w=1440",
-            "publishedAt": "2022-12-13T03:36:00Z",
-            "content": "Comment on this story\r\nTwitter on Monday night abruptly dissolved its Trust and Safety Council, the latest sign that Elon Musk is unraveling years of work and institutions created to make the social \u2026 [+9923 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ryan Gaydos",
-            "title": "Tom Brady's Patriots return theory floated on 'ManningCast': 'Could he come back for one last season?' - Fox News",
-            "description": "Tom Brady's potential return to the New England Patriots has been talked about over the last couple of weeks of the 2022 NFL season.",
-            "url": "https://www.foxnews.com/sports/tom-bradys-patriots-return-theory-floated-manningcast-could-he-come-back-last-season",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Tom-Brady-super-bowl.jpg",
-            "publishedAt": "2022-12-13T02:50:24Z",
-            "content": "Bill Simmons, a renowned columnist and Boston sports fan, floated the theory that Tom Brady could potentially return to the New England Patriots in 2023 for one last hurrah.\r\nBrady is in the final ye\u2026 [+2347 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "LA Mayor Karen Bass declares state of emergency on homelessness - FOX 11 Los Angeles",
-            "description": "Los Angeles Mayor Karen Bass, newly-sworn into office, followed up on her word to issue a state of emergency on the city's homeless crisis.Subscribe to FOX 1...",
-            "url": "https://www.youtube.com/watch?v=A_SIT6YGDXo",
-            "urlToImage": "https://i.ytimg.com/vi/A_SIT6YGDXo/hqdefault.jpg",
-            "publishedAt": "2022-12-13T02:40:05Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Stefania Palma, Scott Chipolina",
-            "title": "Sam Bankman-Fried arrested in Bahamas ahead of US criminal charges - Financial Times",
-            "description": "News, analysis and comment from the Financial Times, the world\u02bcs leading global business publication",
-            "url": "https://www.ft.com/content/2068b928-cc17-485c-890c-3b5c2c00093c",
-            "urlToImage": null,
-            "publishedAt": "2022-12-13T01:28:49Z",
-            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1496 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Keystone pipeline has now leaked more oil in the US than any other since 2010: report - The Hill",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3RoZWhpbGwuY29tL3BvbGljeS9lbmVyZ3ktZW52aXJvbm1lbnQvMzc3MjYyOC1rZXlzdG9uZS1waXBlbGluZS1oYXMtbm93LWxlYWtlZC1tb3JlLW9pbC1pbi10aGUtdXMtdGhhbi1hbnktb3RoZXItc2luY2UtMjAxMC1yZXBvcnQv0gGPAWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2VuZXJneS1lbnZpcm9ubWVudC8zNzcyNjI4LWtleXN0b25lLXBpcGVsaW5lLWhhcy1ub3ctbGVha2VkLW1vcmUtb2lsLWluLXRoZS11cy10aGFuLWFueS1vdGhlci1zaW5jZS0yMDEwLXJlcG9ydC9hbXAv?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-12-13T01:08:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Shannon Osaka",
-            "title": "What you need to know about the U.S. fusion energy breakthrough - The Washington Post",
-            "description": "Fission? Fusion? Net energy gain? Lasers? All the questions you have about the fusion breakthrough, answered.",
-            "url": "https://www.washingtonpost.com/climate-solutions/2022/12/12/nuclear-fusion-breakthrough-benefits/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FHY2HDFAL5WWXLXKL7Z3YCX3QE.jpg&w=1440",
-            "publishedAt": "2022-12-13T00:14:00Z",
-            "content": "Comment on this story\r\nOn Tuesday, the Department of Energy is expected to announce a long-awaited milestone in the development of nuclear fusion energy: net energy gain. The news, first reported by \u2026 [+5059 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Linda Geddes",
-            "title": "Genome sequencing trial to test benefits of identifying genetic diseases at birth - The Guardian",
-            "description": "Study with 100,000 babies to look at faster diagnosis of rare conditions and how genetic data might be used",
-            "url": "https://www.theguardian.com/science/2022/dec/13/genome-sequencing-trial-to-test-benefits-of-identifying-genetic-diseases-at-birth",
-            "urlToImage": "https://i.guim.co.uk/img/media/3fc6c61c383cbdcfc2d323688ecfd6d9bafd5c55/0_0_4368_2621/master/4368.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0b02d510e15f539ebf045a4173058d9",
-            "publishedAt": "2022-12-13T00:01:00Z",
-            "content": "Genomics England is to test whether sequencing babies genomes at birth could help speed up the diagnosis of about 200 rare genetic diseases, and ensure faster access to treatment.\r\nThe study, which w\u2026 [+5315 chars]"
+            "title": "Why Michael Jordan didn't want the remodeled NBA MVP trophy to bear his likeness - CBS Sports",
+            "description": "The MVP trophy is the only one that doesn't bear some resemblance to its new namesake",
+            "url": "https://www.cbssports.com/nba/news/why-michael-jordan-didnt-want-the-remodeled-nba-mvp-trophy-to-bear-his-likeness/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/13/96479622-c7ea-4535-a503-d429a0e8dc75/thumbnail/1200x675/c40e9d5fb138f402ac7a46b6e79d11f1/mj-getty.png",
+            "publishedAt": "2022-12-13T21:11:00Z",
+            "content": "The NBA unveiled a\u00a0complete overhaul of several of its highest-profile awards Tuesday morning, with five of them being renamed in honor of Hall of Fame players. The Defensive Player of the Year troph\u2026 [+3450 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Andy Rose, Saskya Vandoorne, Allegra Goodwin",
-            "title": "French prosecutor investigating disappearance of New York college student studying in France - CNN",
-            "description": "A prosecutor in France has opened an investigation into the disappearance of an American college student who, his family says, has not been heard from in more than two weeks.",
-            "url": "https://www.cnn.com/2022/12/12/us/kenny-deland-missing-student-france/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221212103416-kenny-deland-jr-selfie.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-12T23:44:00Z",
-            "content": "A prosecutor in France has opened an investigation into the disappearance of an American college student who, his family says, has not been heard from in more than two weeks.\r\nKenny DeLand Jr.s fello\u2026 [+4666 chars]"
+            "author": "Jen Christensen",
+            "title": "Covid-19 vaccines have saved more than 3 million lives in US, study says, but the fight isn't over - CNN",
+            "description": "The Covid-19 vaccines have kept more than 18.5 million people in the US out of the hospital and saved more than 3.2 million lives, a new study says -- and that estimate is most likely a conservative one, the researchers say.",
+            "url": "https://www.cnn.com/2022/12/13/health/covid-19-vaccines-study/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221024193034-covid-19-booster-090922.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-13T20:55:00Z",
+            "content": "The Covid-19 vaccines have kept more than 18.5 million people in the US out of the hospital and saved more than 3.2 million lives, a new study says and that estimate is most likely a conservative one\u2026 [+3756 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "European Parliament strips Eva Kaili of VP role over Qatar graft scandal - Reuters",
+            "description": "The European Parliament removed Greek MEP <a href=\"/world/europe/european-lawmaker-eva-kailis-stellar-rise-hit-by-qatar-probe-2022-12-13/\">Eva Kaili</a> as a vice president of the assembly on Tuesday after she was accused of accepting bribes from Qatar in one\u2026",
+            "url": "https://www.reuters.com/world/europe/european-parliament-lawmaker-denies-taking-bribes-qatar-lawyer-2022-12-13/",
+            "urlToImage": "https://www.reuters.com/resizer/t0Yrk3LdBNidI3whtTcGjGRLZGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/35DSGB2UXVNYBK5KANRAC54NEQ.jpg",
+            "publishedAt": "2022-12-13T20:53:00Z",
+            "content": "STRASBOURG, Dec 13 (Reuters) - The European Parliament removed Greek MEP Eva Kaili as a vice president of the assembly on Tuesday after she was accused of accepting bribes from Qatar in one of the bi\u2026 [+4577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Rishi Sunak pledges more staff to help clear asylum backlog - BBC",
+            "description": "A dedicated unit to handle claims from Albanians is one of the measures Rishi Sunak has announced.",
+            "url": "https://www.bbc.com/news/uk-politics-63959729",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D7E5/production/_127996255_4ce8d6b0b0b0f4a8bb6b154e4f343cdb0157962e.jpg",
+            "publishedAt": "2022-12-13T20:30:28Z",
+            "content": "Media caption, Chris Mason challenges Rishi Sunak over plans on processing asylum claims\r\nRishi Sunak has promised more staff to help clear the UK's backlog of asylum claims by the end of next year.\r\u2026 [+5934 chars]"
         },
         {
             "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
-            "author": "Beth Mole",
-            "title": "Officials, experts call for masking as illnesses slam US ahead of holidays - Ars Technica",
-            "description": "Nearly 10% of US counties have \"high\" transmission levels and should be masking.",
-            "url": "https://arstechnica.com/science/2022/12/a-mask-comeback-officials-urge-precautions-amid-infection-surges-holidays/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1244586821-760x380.jpeg",
-            "publishedAt": "2022-12-12T23:24:59Z",
-            "content": "Enlarge/ Commuters in a subway in New York on October 25, 2022. \r\n56 with 0 posters participating\r\nHealth officials and experts are renewing calls for masking as respiratory illnesses surge and Ameri\u2026 [+4261 chars]"
+            "author": "Andrew Cunningham",
+            "title": "iOS 16.2, macOS 13.1 released with new collaboration features and other updates - Ars Technica",
+            "description": "Smaller updates for watchOS, tvOS, and HomePod software are also available.",
+            "url": "https://arstechnica.com/gadgets/2022/12/new-ios-and-macos-updates-add-encrypted-icloud-backups-and-other-features/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/Apple-Freeform-hero-760x380.jpg",
+            "publishedAt": "2022-12-13T20:27:03Z",
+            "content": "Enlarge/ The new Freeform app included in the iOS 16.2 and macOS 13.1 updates.\r\n27 with 0 posters participating\r\nApple has released the final versions of macOS 13.1, iOS 16.2, and iPadOS 16.2 to the \u2026 [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Katherine Faulders",
+            "title": "Jan. 6 select committee announces final public meeting Monday - ABC News",
+            "description": "Chairman Bennie Thompson said the panel's final report will come next Wednesday.",
+            "url": "https://abcnews.go.com/Politics/jan-6-select-committee-announces-final-public-meeting/story?id=95179866",
+            "urlToImage": "https://s.abcnews.com/images/US/bennie-thompson-gty-221213_1670960906325_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-12-13T20:03:45Z",
+            "content": "House Jan. 6 committee Chairman Bennie Thompson told reporters on Tuesday that the panel plans to hold its final public meeting on Monday, Dec. 19 at 1 p.m. ET -- two days earlier than expected.\r\nTho\u2026 [+393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jason Burke",
+            "title": "African leaders gather in US as Joe Biden aims to reboot rocky relations - The Guardian",
+            "description": "President and Antony Blinken woo nations at summit in Washington in hope they will align with west rather than Russia or China",
+            "url": "https://www.theguardian.com/world/2022/dec/13/african-leaders-gather-in-us-as-joe-biden-aims-to-reboot-rocky-relations",
+            "urlToImage": "https://i.guim.co.uk/img/media/3702f8e5cd8f175d0105c5d339b9177cd3fa55cb/0_315_4751_2852/master/4751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3b7d3b256f8d0e400837ecb22489bfa",
+            "publishedAt": "2022-12-13T19:47:00Z",
+            "content": "Dozens of African leaders have assembled in Washington for a summit aimed at rebooting US relations on the continent, which have languished in recent years.\r\nThe US-Africa summit, the first since 201\u2026 [+5608 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Microsoft Offered FTC Binding Agreement on Call of Duty - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b023a364-7b28-11ed-9055-5a6544626662&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0xMy9taWNyb3NvZnQtc2F5cy1pdC1vZmZlcmVkLWZ0Yy1jb25zZW50LWRlY3JlZS1vbi1jYWxsLW9mLWR1dHk=",
+            "urlToImage": null,
+            "publishedAt": "2022-12-13T19:06:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US winter storm brings blizzards, tornadoes and flood threats - BBC",
+            "description": "\"This one is a little larger than your average winter storm,\" says a meteorologist of the wintry system.",
+            "url": "https://www.bbc.com/news/world-us-canada-63952802",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3A64/production/_127984941_gettyimages-1244937915.jpg",
+            "publishedAt": "2022-12-13T19:01:36Z",
+            "content": "Media caption, US: More severe weather on the way\r\nA powerful storm has spawned tornadoes in the southern US and brought heavy snowfall and other extreme weather across the US and parts of Canada. \r\n\u2026 [+3045 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Massive Martian dust devil passed over the Perseverance rover, and it recorded the eerie sounds - CNN",
+            "description": "A towering whirlwind of dust passed right over the NASA Perseverance rover as it explored the site of an ancient lake on Mars. The rover recorded the first sounds of a Martian dust devil using its microphone.",
+            "url": "https://www.cnn.com/2022/12/13/world/nasa-mars-perseverance-dust-devil-sounds-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221213123103-03-perseverance-rover-dust-devil.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-13T18:56:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA towering whirlwind of dust passed right over the Per\u2026 [+5660 chars]"
         }
     ]
 }
