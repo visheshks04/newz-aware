@@ -1,136 +1,110 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Amber Ferguson",
-            "title": "A hippo partially swallowed a toddler. The boy survived. - The Washington Post",
-            "description": "A man stoned the animal to set the boy free, the Uganda Police Force said.",
-            "url": "https://www.washingtonpost.com/world/2022/12/16/hippo-swallows-toddler/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3XQSFUDNHQI63BQZBOJPAVSVSI.jpg&w=1440",
-            "publishedAt": "2022-12-16T23:55:08Z",
-            "content": "Comment on this story\r\nIga Paul was doing what most 2-year-olds do on Sunday afternoons he was playing outside his home.\r\nBut just over 800 yards away from the toddlers Uganda home was Lake Edward, o\u2026 [+2786 chars]"
+            "author": "David L. Stern, Jeff Stein, Victoria Bisset, Erin Cunningham, Claire Healy, Kyle Rempfer",
+            "title": "'Massive' wave of missiles strike Ukraine; civilian and infrastructure targets hit - The Washington Post",
+            "description": "Explosions and missile strikes were reported across Ukraine early Friday, including in the capital Kyiv.",
+            "url": "https://www.washingtonpost.com/world/2022/12/16/russia-ukraine-war-latest-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IWE4JTXQZKIINZY57GU3A4XX4Y.JPG&w=1440",
+            "publishedAt": "2022-12-17T09:20:10Z",
+            "content": "PAVLOHRAD, Ukraine The attacks reverberated through this city in southeastern Ukraine, where some residents complained of losing water Friday morning for the first time since the war began.\r\nEvgeniy \u2026 [+503 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jeremy Barr, Sarah Ellison",
+            "title": "Musk reinstates some reporters on Twitter. But their companies never left. - The Washington Post",
+            "description": "Elon Musk's suspension of journalists from Twitter was viewed as hostile to free speech. But media has always had a conflicted relationship with Twitter.",
+            "url": "https://www.washingtonpost.com/media/2022/12/17/musk-twitter-journalist-suspension-media-react/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P2DQ6FGILTKCCRG4JWR746FMVQ.JPG&w=1440",
+            "publishedAt": "2022-12-17T08:56:00Z",
+            "content": "Comment on this story\r\nWhen Twitter abruptly suspended the accounts of several prominent journalists Thursday night in response to a baffling claim from new owner Elon Musk that they had endangered h\u2026 [+8666 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Carma Hassan",
-            "title": "CDC investigating apparent rise in strep A infections in children - CNN",
-            "description": "The US Centers for Disease Control and Prevention says it's investigating an apparent increase in invasive group A strep infections, but the rise may indicate a return to typical pre-pandemic levels.",
-            "url": "https://www.cnn.com/2022/12/16/health/strep-a-infections-us/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202120123-strep-a-illustration.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-16T22:40:00Z",
-            "content": "The US Centers for Disease Control and Prevention says its investigating an apparent increase in invasive group A strep infections, but the rise may indicate a return to typical pre-pandemic levels.\r\u2026 [+3209 chars]"
+            "author": "Zoe Sottile",
+            "title": "'Unlike any planets found in our solar system:' These two planets are probably made of water, study finds - CNN",
+            "description": "Two far-off planets are likely made of water, according to research conducted using NASA's Hubble and Spitzer telescopes.",
+            "url": "https://www.cnn.com/2022/12/17/us/exoplanets-water-hubble-scn-trnd/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221215153456-01-exoplanets-water-hubble.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-17T07:08:00Z",
+            "content": "Two far-off planets are likely made of water, according to research conducted using NASAs Hubble and Spitzer telescopes.\r\nThe so-called water worlds are orbiting a red dwarf star, the smallest and co\u2026 [+2982 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KTLA Los Angeles"
+                "name": "Deadline"
             },
-            "author": "Christine Samra",
-            "title": "Stephen \u2018tWitch\u2019 Boss left suicide note alluding to past challenges - KTLA Los Angeles",
-            "description": "Just days after the shocking death of Stephen \u201ctWitch\u201d Boss, more information has been revealed about why the former \u201cEllen Show\u201d DJ may have decided to end his own life. Law enforcement sources revealed to TMZ that a note was left at the suicide scene of Bos\u2026",
-            "url": "https://ktla.com/news/local-news/stephen-twitch-boss-left-suicide-note-alluding-to-past-challenges-reports/",
-            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2022/12/gettyimages-489970370-594x594-1.jpg?w=1280",
-            "publishedAt": "2022-12-16T22:39:25Z",
-            "content": "Just days after the shocking death of Stephen \u201ctWitch\u201d Boss, more information has been revealed about why the former \u201cEllen Show\u201d DJ may have decided to end his own life.\r\nLaw enforcement sources rev\u2026 [+1971 chars]"
+            "author": "Bruce Haring",
+            "title": "Stephen \u201ctWitch\u201d Boss\u2019 mother, Connie Boss Alexander, Speaks Out On Son\u2019s Death - Deadline",
+            "description": "Stephen \u201ctWitch\u201d Boss\u2019 mother, Connie Boss Alexander, has expressed her thanks at the outpouring of people remembering her son in the wake of his suicide on Tuesday at age 40. \u201cFamily and friends, \u2026",
+            "url": "https://deadline.com/2022/12/stephen-twitch-boss-mother-connie-boss-alexander-speaks-sons-death-1235201613/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/12/stephen-twitch-boss-mom-expresses-gratitude-for-support-in-wake-of-his-death.jpg?w=784",
+            "publishedAt": "2022-12-17T04:50:00Z",
+            "content": "Stephen \u201ctWitch\u201d Boss\u2019 mother, Connie Boss Alexander, has expressed her thanks at the outpouring of people remembering her son in the wake of his suicide on Tuesday at age 40.\r\n\u201cFamily and friends, t\u2026 [+713 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/mariella-moon",
+            "title": "John Carmack leaves Meta with a memo criticizing the company's efficiency - Engadget",
+            "description": "\"We have a ridiculous amount of people and resources, but we constantly self-sabotage and squander effort,\" Carmack wrote in his note to Meta's staff..",
+            "url": "https://www.engadget.com/john-carmack-leaves-meta-043202664.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/ce887550-7db7-11ed-9dc8-3ee9e704e6b8",
+            "publishedAt": "2022-12-17T04:34:09Z",
+            "content": "John Carmack, the virtual reality pioneer who joined Meta from Oculus after its $2 billion acquisition, has left the social network. Business Insider first reported his departure, citing people famil\u2026 [+3260 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jamie Gangel, Katelyn Polantz",
+            "title": "January 6 committee expected to announce referral of multiple criminal charges against Trump to DOJ - CNN",
+            "description": "The House select committee investigating January 6, 2021, is expected to announce it will refer at least three criminal charges against former President Donald Trump to the Justice Department, including insurrection, obstruction of an official proceeding and \u2026",
+            "url": "https://www.cnn.com/2022/12/16/politics/january-6-committee-trump-criminal-charges-doj/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221107210814-donald-trump-ohio-110722.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-17T03:19:00Z",
+            "content": "The House select committee investigating January 6, 2021, is expected to announce it will refer at least three criminal charges against former President Donald Trump to the Justice Department, includ\u2026 [+3604 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "The Guardian"
+            },
+            "author": "Martin Chulov",
+            "title": "Tunisians go to polls in election set to cement rule of strongman president - The Guardian",
+            "description": "Opposition groups are boycotting vote that one prominent party leader describes as \u2018a still-born farce\u2019",
+            "url": "https://www.theguardian.com/world/2022/dec/17/tunisians-go-to-polls-in-election-set-to-cement-rule-of-strongman-president",
+            "urlToImage": "https://i.guim.co.uk/img/media/61cfd2409d91e29c412281bc58245d8b60133b2e/0_210_3761_2257/master/3761.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6ca3b543623a2b6cf5d48ba25527e0f",
+            "publishedAt": "2022-12-17T03:02:00Z",
+            "content": "Tunisians return to the polls on Saturday, 11 years to the day since a vendors self-immolation sparked the fall of their ruling tyrant and triggered a wave of popular revolts across north Africa and \u2026 [+4884 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "Watch Live! SpaceX Falcon 9 launch of the SES O3b mPOWER Mission - VideoFromSpace",
-            "description": "A SpaceX Falcon 9 rocket is scheduled to launch the SES O3b mPower 1 and 2 telecommunications satellites from Florida's Cape Canaveral Space Force Station on...",
-            "url": "https://www.youtube.com/watch?v=y4Acg7KuFr0",
-            "urlToImage": "https://i.ytimg.com/vi/y4Acg7KuFr0/hqdefault_live.jpg",
-            "publishedAt": "2022-12-16T22:35:57Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Nikki McCann Ramirez",
-            "title": "Tesla Stock Plunges to Two-Year Low After Musk Bans Journalists From Twitter - Rolling Stone",
-            "description": "Investors are not happy",
-            "url": "https://www.rollingstone.com/politics/politics-news/tesla-stock-plunges-elon-musk-bans-journalists-twitter-1234648853/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/12/elon-tesla-drop.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2022-12-16T22:19:53Z",
-            "content": "Elon Musk\u2019s flagship company Tesla\u2019s stock hit a new two-year low of $150.04 on Friday morning, prompting renewed concerns that the billionaire\u2019s recent acquisition and chaotic management of Twitter \u2026 [+3306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cointelegraph"
-            },
-            "author": "Turner Wright",
-            "title": "Hal Finney's wife resumes activity on Bitcoin pioneer's Twitter account to avoid potential purge - Cointelegraph",
-            "description": "Hal Finney\u2019s Twitter account registered activity for the first time in more than 12 years as the result of his wife's intervention.",
-            "url": "https://cointelegraph.com/news/hal-finney-s-wife-resumes-activity-on-bitcoin-pioneer-s-twitter-account-to-avoid-potential-purge",
-            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/dceb3ef7-e19c-4408-bc61-28c0b079d0e3.jpg",
-            "publishedAt": "2022-12-16T22:18:06Z",
-            "content": "Fran Finney, the wife of computer scientist Hal Finney the recipient of the first transaction on the Bitcoin blockchain from Satoshi Nakamoto reactivated her late husbands Twitter account amid concer\u2026 [+3261 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Joseph Wulfsohn",
-            "title": "Twitter Files Part 6 reveals FBI's ties to tech giant: 'As if it were a subsidiary' - Fox News",
-            "description": "Substack writer Matt Taibbi published the sixth installment of Elon Musk's \"Twitter Files,\" highlighting the tech giant's cozy relationship with the FBI.",
-            "url": "https://www.foxnews.com/media/twitter-files-part-6-reveals-fbis-ties-tech-giant",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/2018-12-07T175106Z_638792288_RC1AD5EDA230_RTRMADP_3_USA-TRUMP-BARR.jpg",
-            "publishedAt": "2022-12-16T21:22:29Z",
-            "content": "Substack writer Matt Taibbi dropped his latest installment of the \"Twitter Files\" on Friday that detailed the FBI's ties with the tech giant.\u00a0\r\n\"The #TwitterFiles are revealing more every day about h\u2026 [+10495 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Nasa launches Swot satellite for 'unprecedented' view of Earth's water - BBC News - BBC News",
+            "title": "Seattle Starbucks stores join 3-day strike as union fight intensifies - The Seattle Times",
             "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De4coyEaQycM",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3Mvc3RhcmJ1Y2tzL3NlYXR0bGUtc3RhcmJ1Y2tzLXN0b3Jlcy1qb2luLTMtZGF5LXN0cmlrZS1hcy11bmlvbi1maWdodC1pbnRlbnNpZmllcy_SAXxodHRwczovL3d3dy5zZWF0dGxldGltZXMuY29tL2J1c2luZXNzL3N0YXJidWNrcy9zZWF0dGxlLXN0YXJidWNrcy1zdG9yZXMtam9pbi0zLWRheS1zdHJpa2UtYXMtdW5pb24tZmlnaHQtaW50ZW5zaWZpZXMvP2FtcD0x?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-12-16T21:08:39Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Aaron Couch",
-            "title": "Behind the Fall of Henry Cavill\u2019s Superman - Hollywood Reporter",
-            "description": "It's a bird! It's a plane! It's James Gunn!",
-            "url": "https://www.hollywoodreporter.com/movies/movie-news/why-henry-cavill-is-no-longer-superman-1235283791/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/12/SupermanGun.jpg?w=1024",
-            "publishedAt": "2022-12-16T20:58:05Z",
-            "content": "Nearly two months to the day after Henry Cavill declared on Instagram he was back as Superman \u2014 \u201cI wanted to make it official,\u201d he said in the Oct. 24 clip \u2014 the actor was forced to acknowledge that \u2026 [+3373 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Prideofdetroit.com"
-            },
-            "author": "Erik Schlitt",
-            "title": "Detroit Lions Week 15 injury report: Aidan Hutchinson questionable vs. Jets - Pride Of Detroit",
-            "description": "The Detroit Lions have released their injury designations ahead of their Week 15 matchup with the New York Jets.",
-            "url": "https://www.prideofdetroit.com/2022/12/16/23511720/detroit-lions-jets-injury-report-aidan-hutchinson-derrick-barnes-will-harris",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/y7gjHA_Zh3dGBObcJODPEV7n6bA=/0x330:5312x3111/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24296318/1448644172.jpg",
-            "publishedAt": "2022-12-16T20:51:49Z",
-            "content": "The Detroit Lions have released their injury designations ahead of their Week 15 matchup with the New York Jets and the team is getting healthier, despite a few players still dealing with some illnes\u2026 [+3261 chars]"
+            "publishedAt": "2022-12-17T02:45:35Z",
+            "content": null
         },
         {
             "source": {
@@ -138,129 +112,155 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Pacifist Japan unveils biggest military build-up since World War Two - Reuters",
-            "description": "Japan on Friday unveiled its biggest military build-up since World War Two with a $320 billion plan that will buy missiles capable of striking China and ready it for sustained conflict, as regional tensions and Russia's Ukraine invasion stoke war fears.",
-            "url": "https://www.reuters.com/world/asia-pacific/pacifist-japan-unveils-unprecedented-320-bln-military-build-up-2022-12-16/",
-            "urlToImage": "https://www.reuters.com/resizer/g7w-vAAoRo-rUJFPJgpzw5Yh038=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PZGPLJZU6BIL7E25DTWXFEKOYI.jpg",
-            "publishedAt": "2022-12-16T20:40:00Z",
-            "content": "TOKYO, Dec 16 (Reuters) - Japan on Friday unveiled its biggest military build-up since World War Two with a $320 billion plan that will buy missiles capable of striking China and ready it for sustain\u2026 [+5577 chars]"
+            "title": "New COVID model predicts over 1 million deaths in China through 2023 - Reuters",
+            "description": "China's abrupt lifting of stringent COVID-19 restrictions could result in an explosion of cases and over a million deaths through 2023, according to new projections from the U.S.-based Institute of Health Metrics and Evaluation (IHME).",
+            "url": "https://www.reuters.com/world/china/new-covid-model-predicts-over-1-mln-deaths-china-through-2023-2022-12-17/",
+            "urlToImage": "https://www.reuters.com/resizer/lqwRCW0KTLFc2_G0ci9mkLfRuyk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E5IWTPJKDFLWJIYHORH66GUWEQ.jpg",
+            "publishedAt": "2022-12-17T02:38:00Z",
+            "content": "CHICAGO, Dec 16 (Reuters) - China's abrupt lifting of stringent COVID-19 restrictions could result in an explosion of cases and over a million deaths through 2023, according to new projections from t\u2026 [+3801 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "By Hira Humayun, Claudia Rebaza and Caroll Alvarado, CNN",
-            "title": "Hundreds of tourists stranded in Machu Picchu amid Peru protests - CNN",
-            "description": "International visitors struggle to leave Peru's ancient attraction after trains and flights suspended amid violent unrest following the arrest of President Pedro Castillo.",
-            "url": "https://www.cnn.com/travel/article/machu-picchu-tourists-stranded-amid-protests/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221216114310-02-machu-picchu-stranded-tourists-1214-super-tease.jpg",
-            "publishedAt": "2022-12-16T20:35:05Z",
-            "content": "Top image: Stranded tourists queue at the train terminal in the town of Machu Picchu, Peru, on December 14. (Photo by Jesus Tapia /AFP via Getty Images)CNN's Forrest Brown contributed to this report."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Berlin's giant AquaDom hotel aquarium containing 1,500 fish explodes - BBC",
-            "description": "Two people are injured as the Berlin aquarium, containing a million litres of water, bursts open.",
-            "url": "https://www.bbc.com/news/world-europe-63996982",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3162/production/_128024621_aquadom-index-gettyimages-97934369.jpg",
-            "publishedAt": "2022-12-16T20:25:46Z",
-            "content": "Media caption, Watch: Scenes of devastation after tank explosion at Berlin hotel\r\nA giant aquarium containing a million litres of water in the lobby of the Radisson Blu in Berlin has burst, flooding \u2026 [+3896 chars]"
+            "author": "Joanna Slater",
+            "title": "Where Brittney Griner spent the week: A military program for ex-hostages - The Washington Post",
+            "description": "Basketball star Brittney Griner has spent several days doing \u00ab post-isolation support activities \u00bb at a military base in San Antonio. Here's what that means.",
+            "url": "https://www.washingtonpost.com/nation/2022/12/16/brittney-griner-military-program-ex-hostages/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3JF4PD565BTXNGY3IUZ7PEEJQ.jpg&w=1440",
+            "publishedAt": "2022-12-17T02:03:00Z",
+            "content": "Comment on this story\r\nIn her first public comments since her release from a Russian penal colony, basketball star Brittney Griner expressed gratitude Friday to her family, her legal team, the Biden \u2026 [+4386 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Variety"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Ukraine's second city Kharkiv without power after Russian strikes - BBC",
-            "description": "Kharkiv suffers \"colossal\" damage as the latest wave of Russian strikes targets power supplies.",
-            "url": "https://www.bbc.com/news/world-europe-63997749",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B826/production/_128024174_a998dbc0-2172-4c98-9c23-e6c2aace9652.jpg",
-            "publishedAt": "2022-12-16T20:18:01Z",
-            "content": "Ukraine's second city of Kharkiv has been left without power after the latest wave of Russian strikes targeted energy stations across the country. \r\nOfficials said as many as nine power facilities we\u2026 [+5331 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Deidre McPhillips",
-            "title": "Flu activity remains high but shows signs of slowing in parts of the US, CDC says - CNN",
-            "description": "A flu season that hit the United States early and hard is showing the first signs of slowing in parts of the country.",
-            "url": "https://www.cnn.com/2022/12/16/health/flu-slowing-but-still-bad/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221216124134-01-flu-slowing-but-bad.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-16T20:09:00Z",
-            "content": "A flu season that hit the United States early and hard is showing the first signs of slowing in parts of the country.\r\nFor the first time this season, flu hospitalizations have dropped week-over-week\u2026 [+2424 chars]"
+            "author": "K.J. Yossman",
+            "title": "\u2018Harry & Meghan\u2019 Producers vs. Buckingham Palace: Spat Intensifies Over Netflix Docuseries - Variety",
+            "description": "The spat between Buckingham Palace and the producers behind Netflix\u2019s \u201cHarry & Meghan\u201d docuseries has intensified after it emerged that palace officials not only had an opport\u2026",
+            "url": "https://variety.com/2022/tv/global/harry-meghan-docuseries-buckingham-palace-1235464017/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/12/Harry-Meghan_Archival_Kitchen_1.png?w=1000&h=563&crop=1",
+            "publishedAt": "2022-12-17T02:00:00Z",
+            "content": "The spat between Buckingham Palace and the producers behind Netflix\u2019s \u201cHarry &amp; Meghan\u201d docuseries has intensified after it emerged that palace officials not only had an opportunity to comment on \u2026 [+5951 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Kotaku"
+                "name": "YouTube"
             },
-            "author": "Zack Zwiezen",
-            "title": "Ubisoft Winter Sale Has Big Savings On Games Like Mario + Rabbids Sparks Of Hope - Kotaku",
-            "description": "The publisher is also letting folks save an additional $10 on orders using a limited-time promo code",
-            "url": "https://kotaku.com/ubisoft-winter-sale-best-deals-switch-pc-xbox-far-cry-1849905089",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9a40d2300750ee5e6f5643a8507e0f44.jpg",
-            "publishedAt": "2022-12-16T19:50:23Z",
-            "content": "Tis that time of the year when every store, shop, and retailer begins slashing prices on everything in an effort to make as much money as possible during the holiday season. A magical time, really. A\u2026 [+1828 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Saskya Vandoorne, Jason Hanna",
-            "title": "Missing college student Kenny DeLand Jr. is safe in Spain, his family says - CNN",
-            "description": "An American college student who was reported missing more than two weeks ago in France has told relatives he is safe in Spain, his family said Friday, seemingly resolving at least part of a mystery that sparked a multinational search.",
-            "url": "https://www.cnn.com/2022/12/16/us/missing-college-student-france-kenny-deland-friday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221212103416-kenny-deland-jr-selfie.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-16T19:48:00Z",
-            "content": "An American college student who was reported missing more than two weeks ago in France has told relatives he is safe in Spain, his family said Friday, seemingly resolving at least part of a mystery t\u2026 [+3837 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Dallas Morning News"
-            },
-            "author": "Krista Torralva, Maggie Prosser",
-            "title": "Aaron Dean hired after psychologist found he wasn't suitable for police work - The Dallas Morning News",
-            "description": "FORT WORTH \u2014 A psychologist who evaluated Aaron Dean before he was hired as a Fort Worth police officer testified Friday the former cop now convicted of...",
-            "url": "https://www.dallasnews.com/news/crime/2022/12/16/fort-worth-hired-aaron-dean-after-psychologist-found-he-wasnt-suitable-for-police-work/",
-            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/y0UO1Gl6JEoBRWMERHxS89eDqEs=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/EN2LAQ3YSQJ5V3DL2RF3NIBE5A.jpg",
-            "publishedAt": "2022-12-16T19:45:57Z",
-            "content": "FORT WORTH A psychologist who evaluated Aaron Dean before he was hired as a Fort Worth police officer testified Friday the former cop now convicted of manslaughter wasnt fit for police work.\r\nPsychol\u2026 [+11528 chars]"
+            "author": null,
+            "title": "World Cup Final Preview: Argentina vs. France is drawing MASSIVE intrigue | ESPN FC - ESPN UK",
+            "description": "Sebastian Salazar, Morena Beltran and Julien Laurens join ESPN FC to discuss the intrigue of Argentina vs. France drawing big crowds and massive viewership w...",
+            "url": "https://www.youtube.com/watch?v=cVh_4a1c15c",
+            "urlToImage": "https://i.ytimg.com/vi/cVh_4a1c15c/maxresdefault.jpg",
+            "publishedAt": "2022-12-17T01:18:07Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "CBS Sports"
             },
-            "author": "",
-            "title": "Broncos' Jerry Jeudy gets hefty fine for making contact with official, removing helmet vs. Chiefs, per report - CBS Sports",
-            "description": "Jeudy will not be suspended",
-            "url": "https://www.cbssports.com/nfl/news/broncos-jerry-jeudy-gets-hefty-fine-for-making-contact-with-official-removing-helmet-vs-chiefs-per-report/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/16/9b07ec5a-006f-4c67-a8c3-eed07f66f964/thumbnail/1200x675/b21841ccd910051ebfb774580241ea9e/jerry-jeudty.jpg",
-            "publishedAt": "2022-12-16T19:43:15Z",
-            "content": "Jerry Jeudy's wallet took a sizable hit Friday, as the NFL levied two fines on the Broncos wide receiver for his outburst during the team's Week 14 loss to the Kansas City Chiefs. Per NFL Media, the \u2026 [+1080 chars]"
+            "author": "Tera Roberts",
+            "title": "Fantasy Football Week 15 injuries: Josh Jacobs, Tee Higgins, Rhamondre Stevenson, D.J. Moore questionable - CBS Sports",
+            "description": "Tera Roberts breaks down all the injuries you need to know about ahead of Week 15.",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-15-injuries-josh-jacobs-tee-higgins-rhamondre-stevenson-d-j-moore-questionable/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/25/7bccadc2-ec22-4b12-9893-8920f63d3997/thumbnail/1200x675/82856da67f5a8a828a6ed79ac190b427/usatsi-josh-jacobs-raiders.jpg",
+            "publishedAt": "2022-12-17T00:45:00Z",
+            "content": "From game-time decisions to injuries so significant they affect the value of every single position, let's break down the Fantasy and DFS impact of injuries for every Week 15 matchup. Know when to piv\u2026 [+17395 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Claudia Rebaza, Tara John",
+            "title": "As public anger mounts, Peru's lawmakers reject reform needed to hold early elections - CNN",
+            "description": "As Peru explodes in protest with supporters of its former president taking to streets, lawmakers on Friday rejected a constitutional reform that is needed to hold early general elections in 2023.",
+            "url": "https://www.cnn.com/2022/12/16/americas/peru-election-reform-protests-intl-latam/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221216180429-01-peru-protests-1215.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-17T00:18:00Z",
+            "content": "As Peru explodes in protest with supporters of its former president taking to streets, lawmakers on Friday rejected a constitutional reform that is needed to hold early general elections in 2023. \r\nC\u2026 [+2313 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Binance Faces \u2018Too Big to Fail\u2019 Worry as FTX Collapse Boosts Dominance - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=19c7ecdc-7dc7-11ed-9e74-70456c47655a&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0xNi9iaW5hbmNlLWZhY2VzLXRvby1iaWctdG8tZmFpbC13b3JyeS1hcy1mdHgtY29sbGFwc2UtYm9vc3RzLWRvbWluYW5jZQ==",
+            "urlToImage": null,
+            "publishedAt": "2022-12-16T23:48:54Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andy Rose, Carolyn Sung, Christina Maxouris",
+            "title": "Highland Park suspected shooter's father is charged with felony reckless conduct - CNN",
+            "description": "The father of the man accused of killing seven people and wounding dozens more at the Highland Park, Illinois, Fourth of July parade was taken into custody Friday and facing felony reckless conduct charges, prosecutors announced.",
+            "url": "https://www.cnn.com/2022/12/16/us/highland-park-shooting-suspect-father-charges/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221216143414-01-robert-crimo-jr-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-16T23:24:00Z",
+            "content": "The father of the man accused of killing seven people and wounding dozens more at the Highland Park, Illinois, Fourth of July parade was taken into custody Friday and facing felony reckless conduct c\u2026 [+5095 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wall Street ends lower for third straight day as recession worries rise - Reuters",
+            "description": "U.S. stocks dropped for a third straight session and suffered a second straight week of losses on Friday as fears continued to mount that the Federal Reserve's campaign to arrest inflation would tilt the economy into a recession.",
+            "url": "https://www.reuters.com/markets/us/futures-extend-losses-recession-fears-2022-12-16/",
+            "urlToImage": "https://www.reuters.com/resizer/wk0NQaGapONieJe6KACnuDSLcbM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3TH63A465VJ2XFK2NTSPTZIZEE.jpg",
+            "publishedAt": "2022-12-16T23:21:00Z",
+            "content": "NEW YORK, Dec 16 (Reuters) - U.S. stocks dropped for a third straight session and suffered a second straight week of losses on Friday as fears continued to mount that the Federal Reserve's campaign t\u2026 [+4110 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Brian Osgood",
+            "title": "US \u2018botched\u2019 executions reach all-time high, report finds - Al Jazeera English",
+            "description": "Seven of 20 attempted executions in 2022 were \u2018visibly problematic\u2019, research group says, but practice is in decline.",
+            "url": "https://www.aljazeera.com/news/2022/12/16/us-botched-executions-reach-all-time-high-report-finds",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/10/AP21301748728416.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-12-16T23:20:09Z",
+            "content": "Los Angeles, California While the use of the death penalty continues to decline in the United States, a new report has found that botched executions reached a new high this year.\r\nIn its annual repor\u2026 [+5497 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "YouTube"
             },
-            "author": "Yahoo Sports Staff",
-            "title": "World Cup 2022: What to watch for and our predictions for Argentina vs. France - Yahoo Sports",
-            "description": "France is looking to become the first repeat World Cup champion in 60 years, while Argentina goes for its first World Cup win since 1986.",
-            "url": "https://sports.yahoo.com/world-cup-2022-what-to-watch-for-and-our-predictions-for-argentina-vs-france-193029815.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/frGkAWGkaAWqoM2uWAHfzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjI-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/a06d5f00-7c9f-11ed-bbff-d0c529006242",
-            "publishedAt": "2022-12-16T19:30:29Z",
-            "content": "Sundays 2022 World Cup Final between France and Argentina could be a great one.\r\nIts indisputable that these teams have been two of the best all tournament, and it looks set to be an extremely close \u2026 [+8537 chars]"
+            "author": null,
+            "title": "2 Tennessee men accused of plotting to attack Jan. 6th Investigators - WATE 6 On Your Side",
+            "description": "Two East Tennessee men planned to attack the FBI Knoxville Office and kill law enforcement officers who were involved in the investigation into the January 6...",
+            "url": "https://www.youtube.com/watch?v=kVFFLP-Jd4M",
+            "urlToImage": "https://i.ytimg.com/vi/kVFFLP-Jd4M/maxresdefault.jpg",
+            "publishedAt": "2022-12-16T23:12:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Andrew Jones",
+            "title": "SpaceX sends 2 telecom satellites into orbit on 200th launch - Space.com",
+            "description": "The liftoff was the 191st for the Falcon 9 and the 200th orbital mission for SpaceX overall.",
+            "url": "https://www.space.com/spacex-200th-launch-falcon-9-ses-satellites",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CyRokHBHXLTQrwXFnvmyX-1200-80.jpeg",
+            "publishedAt": "2022-12-16T23:06:26Z",
+            "content": "SpaceX carried out its milestone 200th orbital mission on Friday (Dec. 16), sending up a pair of powerful new communications satellites.\r\nA Falcon 9\r\n rocket lifted off Friday from Space Launch Compl\u2026 [+2699 chars]"
         }
     ]
 }
