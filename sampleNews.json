@@ -1,19 +1,227 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brian Fung",
+            "title": "Elon Musk says he will step down as Twitter CEO \u2014 once he finds a replacement - CNN",
+            "description": "Twitter owner Elon Musk confirmed Tuesday evening he will step down as the company's CEO, but only when he identifies a successor, directly addressing for the first time a Twitter poll he created this week in which millions of users voted for his ouster.",
+            "url": "https://www.cnn.com/2022/12/20/tech/elon-musk-twitter-ceo/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221220181529-musk-world-cup-final-1218.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-21T10:21:00Z",
+            "content": "Twitter owner Elon Musk confirmed Tuesday evening he will step down as the companys CEO, but only when he identifies a successor, directly addressing for the first time a Twitter poll he created this\u2026 [+2551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB Trade Rumors"
+            },
+            "author": "Mark Polishuk",
+            "title": "Mets To Sign Carlos Correa - MLB Trade Rumors",
+            "description": "In a shocking development, Carlos Correa has agreed to join the Mets for a 12-year, $315MM contract, Jon Heyman of &hellip;",
+            "url": "https://www.mlbtraderumors.com/2022/12/mets-to-sign-carlos-correa.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2022/11/USATSI_19223355-1024x683.jpg",
+            "publishedAt": "2022-12-21T09:55:03Z",
+            "content": "In a shocking development, Carlos Correa has agreed to join the Mets for a 12-year, $315MM contract, Jon Heyman of the New York Post reports.\u00a0 Correa had previously agreed to a 13-year, $350MM deal w\u2026 [+10185 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Hearses queue at Beijing crematorium, even as China reports no new COVID deaths - Reuters.com",
+            "description": "Dozens of hearses queued outside a Beijing crematorium on Wednesday, even as China reported no new COVID-19 deaths in its growing outbreak, sparking criticism of its virus accounting as the capital braces for a surge of cases.",
+            "url": "https://www.reuters.com/world/china/beijing-braces-surge-severe-covid-cases-world-watches-with-concern-2022-12-21/",
+            "urlToImage": "https://www.reuters.com/resizer/P14wHNJRHTiBqRJoKqlvDW0BKgo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GQCGX3VWQ5NF5OYLFUOZJ4QTGA.jpg",
+            "publishedAt": "2022-12-21T07:56:00Z",
+            "content": "BEIJING, Dec 21 (Reuters) - Dozens of hearses queued outside a Beijing crematorium on Wednesday, even as China reported no new COVID-19 deaths in its growing outbreak, sparking criticism of its virus\u2026 [+5124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "COLLEEN SLEVIN",
+            "title": "Women sexually abused by ICU nurse sue Colorado hospital - Yahoo News",
+            "description": "Two women who say a nurse sexually assaulted them while they were unconscious in intensive care filed a lawsuit Tuesday against the Colorado hospital where...",
+            "url": "https://news.yahoo.com/women-sexually-abused-icu-nurse-070454607.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Y6CcdpzGVmusZtmEeF70Kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/61b73acf08bb3cc5cd5eae5ad1123d0a",
+            "publishedAt": "2022-12-21T07:04:00Z",
+            "content": "DENVER (AP) Two women who say a nurse sexually assaulted them while they were unconscious in intensive care filed a lawsuit Tuesday against the Colorado hospital where they were being treated, allegi\u2026 [+3190 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nick Paton Walsh, Sarah Dean",
+            "title": "Russia's militarization of the Arctic shows no sign of slowing down - CNN",
+            "description": "Russia has continued expanding its military bases in the Arctic region despite significant losses in its war on Ukraine, according to a new series of satellite images obtained by CNN.",
+            "url": "https://www.cnn.com/2022/12/21/europe/russia-arctic-military-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221220112153-10-tiksi-slider.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-21T06:40:00Z",
+            "content": "Russia has continued expanding its military bases in the Arctic region despite significant losses in its war on Ukraine, according to a new series of satellite images obtained by CNN. \r\nNATO Secretar\u2026 [+6298 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "WCCO Staff",
+            "title": "NEXT Weather Alert: Dangerous cold, blizzard conditions before Christmas - CBS News",
+            "description": "The National Weather Service warns that potentially dangerous winter weather could make travel \"impossible and life-threatening\" starting on Thursday.",
+            "url": "https://www.cbsnews.com/minnesota/live-updates/next-weather-alert-dangerous-cold-potential-blizzard-conditions-before-christmas/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/12/21/2624d294-3008-4432-ad98-f905cac43248/thumbnail/1200x630/ce952c7ef9f4bab13e3005847435e98d/snapshot-3.jpg",
+            "publishedAt": "2022-12-21T05:53:32Z",
+            "content": "<ul><li>4-8 inches of fluffy snow Wednesday</li><li>Blizzard conditions Thursday</li><li>Dangerously cold wind chills until Saturday</li></ul>MINNEAPOLIS --\u00a0Just as many are preparing to travel to se\u2026 [+1820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Brandon Huffman",
+            "title": "College football recruiting: 2022 National Signing Day schedule, key announcement times, predictions, picks - CBS Sports",
+            "description": "Everything you need to know about National Signing Day as the Class of 2023 begins putting ink to paper",
+            "url": "https://www.cbssports.com/college-football/news/college-football-recruiting-2022-national-signing-day-schedule-key-announcement-times-predictions-picks/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/20/519a5eae-4324-442c-a170-e320b3358e4e/thumbnail/1200x675/385a1ffc3250b5d66924bc4a4e6f68dc/matayo.jpg",
+            "publishedAt": "2022-12-21T05:47:00Z",
+            "content": "Wednesday marks the opening of the early signing period for the 2023 college football recruiting cycle, and with the majority of the Top247 prospects having already made their decisions, all eyes wil\u2026 [+4143 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "FTX's Bankman-Fried signs extradition papers as Wednesday hearing looms - Reuters",
+            "description": "FTX founder Sam Bankman-Fried has signed legal papers paving the way for his extradition from The Bahamas to the United States, where he faces fraud charges over the cryptocurrency exchange's collapse, a Bahamas official said on Tuesday.",
+            "url": "https://www.reuters.com/legal/ftxs-bankman-fried-expected-appear-court-bahamas-source-2022-12-20/",
+            "urlToImage": "https://www.reuters.com/resizer/xF93DpPGiUkWjq4cTo_GWn3PLYA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TM47FOGRE5LLLOG4GFPH4M2LXE.jpg",
+            "publishedAt": "2022-12-21T05:09:00Z",
+            "content": "NASSAU, Dec 20 (Reuters) - FTX founder Sam Bankman-Fried has signed legal papers paving the way for his extradition from The Bahamas to the United States, where he faces fraud charges over the crypto\u2026 [+3283 chars]"
+        },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "Morgan Lee, Giovanna Dell'orto",
-            "title": "US asks court to end asylum limits, with a short delay - The Associated Press - en Espa\u00f1ol",
-            "description": "EL PASO, Texas (AP) \u2014 Tensions remained high at the U.S-Mexico border Tuesday amid uncertainty over the future of restrictions on asylum-seekers, with the Biden administration asking the Supreme Court not to lift the limits before Christmas.",
-            "url": "https://apnews.com/article/biden-health-el-paso-john-roberts-border-security-811299927348837ae86f0f08a06526f1",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c7561fcf13db4848bc15ff9465870bc2/3000.webp",
-            "publishedAt": "2022-12-21T00:02:41Z",
-            "content": "EL PASO, Texas (AP) Tensions remained high at the U.S-Mexico border Tuesday amid uncertainty over the future of restrictions on asylum-seekers, with the Biden administration asking the Supreme Court \u2026 [+6088 chars]"
+            "author": "Jonathan J. Cooper",
+            "title": "Arizona judge to consider Kari Lake's stolen election claims - The Associated Press",
+            "description": "PHOENIX (AP) \u2014 Kari Lake has claimed for weeks that her loss in the race for Arizona governor was illegitimate. The former television anchor gets her long-sought opportunity to make her case to a judge this week during a two-day trial scheduled to begin on We\u2026",
+            "url": "https://apnews.com/b026618ab22cc3f60c04b968b48a46ee",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/785054e81fdd404981bef4063b3b7e5b/3000.webp",
+            "publishedAt": "2022-12-21T05:04:33Z",
+            "content": "PHOENIX (AP) Kari Lake has claimed for weeks that her loss in the race for Arizona governor was illegitimate.\r\nThe former television anchor gets her long-sought opportunity to make her case to a judg\u2026 [+4519 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Humboldt County earthquake: Gov. Newsom declares state of emergency after deadly NorCal quake - CBS San Francisco",
+            "description": "Two elderly residents died, 12 others injured and businesses and homes damaged when a 6.4 magnitude earthquake followed by nearly 80 aftershocks rocked the Humboldt County coastline Tuesday.",
+            "url": "https://www.cbsnews.com/sanfrancisco/news/6-4-magnitude-earthquake-aftershocks-rock-humboldt-county-coastline/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/21/d2a57eb9-bfbe-4216-8b7b-3de7e8020c53/thumbnail/1200x630/696bbbfaf555a91833b2248eef31ff75/humboldt-earthquake-damage-indoors.jpg",
+            "publishedAt": "2022-12-21T04:49:00Z",
+            "content": "FERNDALE -- Two elderly residents died, 12 others injured and businesses and homes were damaged when a 6.4 magnitude earthquake followed by nearly 80 aftershocks rocked the Humboldt County coastline \u2026 [+10642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Ashley Joy Parker",
+            "title": "Eddie Cibrian Addresses \u201cUntrue\u201d Piper Perabo Affair Allegation - E! Online - E! NEWS",
+            "description": "After Brandi Glanville accused her ex husband Eddie Cibrian of cheating on her with actress Piper Perabo during their marriage, the actor denied the claim and called the drama \"all so unnecessary.\"",
+            "url": "https://www.eonline.com/news/1359064/eddie-cibrian-addresses-untrue-piper-perabo-affair-allegation-from-ex-brandi-glanville",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20221120/rs_1200x1200-221220192824-ddie-Cibrian-.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-12-21T04:24:00Z",
+            "content": "Shutting\u00a0it down.\r\nEddie Cibrian is denying Brandi Glanville's claims that\u00a0he cheated on her with actressPiper Perabo\u00a0during their marriage.\u00a0\r\n\"I'm sad I have to address this, I really believed that \u2026 [+710 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro",
+            "title": "\u2018Avatar: The Way Of Water\u2019 Heads For $17M+ Tuesday \u2013 Box Office - Deadline",
+            "description": "20th Century Studios/Disney\u2019s Avatar: The Way of Water\u2019s Tuesday box office is looking at $17M, and could possibly topple Minions: Rise of Gru\u2019s first Tuesday of $17.5M to become \u2026",
+            "url": "https://deadline.com/2022/12/avatar-the-way-of-water-box-office-tuesday-1235204016/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/12/MCDAVTH_WD003.jpg?w=1024",
+            "publishedAt": "2022-12-21T04:13:00Z",
+            "content": "20th Century Studios/Disney\u2019s Avatar: The Way of Water\u2018s Tuesday box office is looking at $17M, and could possibly topple Minions: Rise of Gru\u2018s first Tuesday of $17.5M to become the best Tuesday of \u2026 [+1664 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine's Zelenskiy expected to visit Biden, U.S. Congress on Wednesday - sources - Reuters.com",
+            "description": "Ukrainian President Volodymyr Zelenskiy is <a href=\"/world/zelenskiy-make-surprise-visit-washington-meet-biden-address-congress-2022-12-21/\">travelling to the United States</a> to meet President Joe Biden and visit Congress on Wednesday in his first known ove\u2026",
+            "url": "https://www.reuters.com/world/europe/putin-says-situation-extremely-difficult-several-ukrainian-regions-2022-12-20/",
+            "urlToImage": "https://www.reuters.com/resizer/41d5C-mELjBiNR0ldLROBkBfJlQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3T3XNPIXVJ7FFDH6VDNZNG7LU.jpg",
+            "publishedAt": "2022-12-21T03:12:00Z",
+            "content": "WASHINGTON/KYIV, Dec 21 (Reuters) - Ukrainian President Volodymyr Zelenskiy is travelling to the United States to meet President Joe Biden and visit Congress on Wednesday in his first known overseas \u2026 [+5356 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh, Cheri Mossburg",
+            "title": "After convicting Harvey Weinstein of rape, a Los Angeles jury deadlocks on factors that could have increased his sentence - CNN",
+            "description": "After convicting former film producer Harvey Weinstein of rape and sexual assault, a Los Angeles jury could not reach a unanimous verdict Tuesday on alleged aggravating factors that could have increased his sentence.",
+            "url": "https://www.cnn.com/2022/12/20/us/harvey-weinstein-los-angeles-trial-sentencing-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221201133219-weinstein-court-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-21T02:52:00Z",
+            "content": "After convicting former film producer Harvey Weinstein of rape and sexual assault, a Los Angeles jury could not reach a unanimous verdict Tuesday on alleged aggravating factors that could have increa\u2026 [+6321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "Asia-Pacific markets mostly higher as Japanese stocks see second day of losses - CNBC",
+            "description": "Markets in the Asia-Pacific traded mixed after Wall Street ended its four-day losing streak as global bonds rose after the Bank of Japan adjusted its yield curve control tolerance.",
+            "url": "https://www.cnbc.com/2022/12/21/asia-pacific-markets-set-to-trade-mixed-after-wall-street-ends-losing-streak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107169325-1671579704929-gettyimages-1243657053-JAPAN_TANKAN.jpeg?v=1671580441&w=1920&h=1080",
+            "publishedAt": "2022-12-21T02:12:00Z",
+            "content": "The Bank of Japan's surprise policy shift sent interest rates rising globally, as investors reacted to more evidence central bankers around the world will continue to pressure interest rates higher. \u2026 [+890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WTMJ-TV"
+            },
+            "author": "Brian Niznansky",
+            "title": "Highs in the 30s Wednesday before snow begins to moves in - TMJ4 News",
+            "description": "Snow spreads across the state Wednesday night and continues through Thursday. It is still unclear whether the snow will continue Friday or end for us here in SE Wisconsin.",
+            "url": "https://www.tmj4.com/weather/forecast/todays-forecast/southeast-wisconsin-weather-saturday-brings-on-and-off-snow-showers",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/1ba3b9f/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fcd3%2F44c3f81cadf84cf5a6f4e6d100388208%2Fcd3c403d96ac4ba692988436c9a0c075%2Fposter_e7faa549d2a5475cb437f8ae2e1f22ef.jpg",
+            "publishedAt": "2022-12-21T01:55:00Z",
+            "content": "Tonight will be quiet and clear, but chilly. Low temperatures fall to around 10 degrees lakeside and near zero inland. Clouds thicken up tomorrow, but any snow should hold off until tomorrow night.\r\n\u2026 [+1782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Antidepressant Use and Infection During Pregnancy Linked to Neurodevelopmental Disorders - Neuroscience News",
+            "description": "A combination of antidepression use and infections that lead to inflammation during pregnancy increase the risk of neurodevelopmental disorders including autism in children, a new study reports.",
+            "url": "https://neurosciencenews.com/antidepressant-infection-pregnancy-asd-22118/",
+            "urlToImage": "https://neurosciencenews.com/files/2022/12/infection-antidepressants-neurodevelopment-neurosicnes-public.jpg",
+            "publishedAt": "2022-12-21T01:07:10Z",
+            "content": "Summary: A combination of antidepression use and infections that lead to inflammation during pregnancy increase the risk of neurodevelopmental disorders including autism in children, a new study repo\u2026 [+7187 chars]"
         },
         {
             "source": {
@@ -25,242 +233,34 @@
             "description": "The January 6 committee made a startling allegation on Monday, claiming it had evidence that a Trump-backed attorney urged a key witness to mislead the committee about details they recalled.",
             "url": "https://www.cnn.com/2022/12/20/politics/trump-ethics-lawyer-passantino-cassidy-hutchinson-misleading-testimony-jan-6/index.html",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116154118-cassidy-hutchinson-jan-6-hearing-0628.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-20T23:54:00Z",
+            "publishedAt": "2022-12-21T00:34:00Z",
             "content": "The January 6 committee made a startling allegation on Monday, claiming it had evidence that a Trump-backed attorney urged a key witness to mislead the committee about details they recalled. \r\nThough\u2026 [+7798 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": null,
+                "name": "SamMobile"
             },
-            "author": "Haris Alic",
-            "title": "Zelenskyy to address Congress Wednesday as lawmakers debate $45B in Ukraine aid - Fox News",
-            "description": "Ukrainian President Volodymyr Zelenskyy is poised to visit Congress as U.S. lawmakers debate more than $45 billion in new military and humanitarian aid for his country.",
-            "url": "https://www.foxnews.com/politics/zelenskyy-address-congress-wednesday-lawmakers-debate-ukraine-aid",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/04/Volodymyr-Zelenskyy.jpg",
-            "publishedAt": "2022-12-20T22:22:23Z",
-            "content": "Ukrainian President Volodymyr Zelenskyy will pay an in-person visit to Congress on Wednesday as lawmakers prepare to pass a budget that includes more than $45 billion in new military and humanitarian\u2026 [+1851 chars]"
+            "author": "SamMobile, Abhijeet Mishra",
+            "title": "Samsung just got more competition in the software update game - SamMobile - Samsung news",
+            "description": "Samsung was the first Android manufacturer to promise four years of Android OS upgrades for its smartphones and tablets.\u00a0It was ...",
+            "url": "https://www.sammobile.com/news/samsung-gets-more-competition-in-software-update-game/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2022/10/Galaxy-Z-Fold-4-Android-13-One-UI-5-720x405.jpg",
+            "publishedAt": "2022-12-20T23:39:00Z",
+            "content": "Samsung was the first Android manufacturer to promise four years of Android OS upgrades for its smartphones and tablets.\u00a0It was a move that is now inspiring other manufacturers, with OnePlus announci\u2026 [+2225 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "KARE11.com"
             },
-            "author": "Anthony D'Alessandro",
-            "title": "Dwayne Johnson Says \u2018Black Adam\u2019 Won\u2019t Be Part Of DC\u2019s New First Chapter - Deadline",
-            "description": "UPDATED with Gunn reaction: Dwayne Johnson took to social media Wednesday to make it official that he\u2019s heard from DC Studios co-head James Gunn and that Black Adam won\u2019t be a part of t\u2026",
-            "url": "https://deadline.com/2022/12/dwayne-johnson-black-sequel-dc-james-gunn-1235203405/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/10/MCDBLAD_WB003.jpg?w=1024",
-            "publishedAt": "2022-12-20T22:15:00Z",
-            "content": "UPDATED with Gunn reaction:Dwayne Johnson took to social media Wednesday to make it official that he\u2019s heard from DC Studios co-head James Gunn and that Black Adam won\u2019t be a part of the first phase \u2026 [+2465 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Senate GOP pans \u2018immaturity\u2019 by House Republicans with omnibus threat - The Hill",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzM3ODI2MTUtc2VuYXRlLWdvcC1wYW5zLWltbWF0dXJpdHktYnktaG91c2UtcmVwdWJsaWNhbnMtd2l0aC1vbW5pYnVzLXRocmVhdC_SAXRodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS8zNzgyNjE1LXNlbmF0ZS1nb3AtcGFucy1pbW1hdHVyaXR5LWJ5LWhvdXNlLXJlcHVibGljYW5zLXdpdGgtb21uaWJ1cy10aHJlYXQvYW1wLw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-12-20T21:59:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Dan Heching",
-            "title": "Sonya Eddy, star of 'General Hospital,' dead at 55 - CNN",
-            "description": "Sonya Eddy, a veteran actress best known for her performance as nurse Epiphany Johnson on the soap opera \"General Hospital,\" has died, the show announced in a tribute post.",
-            "url": "https://www.cnn.com/2022/12/20/entertainment/sonya-eddy-general-hospital-dead/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221220160919-01-sonya-eddy.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-20T21:49:00Z",
-            "content": "Sonya Eddy, a veteran actress best known for her performance as nurse Epiphany Johnson on the soap opera General Hospital, has died, the show announced in a tribute post.\r\nShe was 55, her manager tol\u2026 [+1090 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Lori Aratani",
-            "title": "Thousands of flights could be delayed or canceled by winter storm - The Washington Post",
-            "description": "Forecasters say the storm could cause thousands of flights to be canceled or delayed and create treacherous driving conditions.",
-            "url": "https://www.washingtonpost.com/transportation/2022/12/20/winter-storm-threat-threatens-holiday-travel-boom/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/42SGLLN44LBUY2TSTT4W4PL27Q.jpg&w=1440",
-            "publishedAt": "2022-12-20T21:22:00Z",
-            "content": "Comment on this story\r\nA fierce winter storm that could hit large parts of the Lower 48 states in coming days has the potential to cause massive flight delays and cancellations and create treacherous\u2026 [+9263 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Northern California earthquake update, Trump tax returns and winter weather blast updates - LiveNOW from FOX",
-            "description": "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1Where to watch LiveNOW from FOX: https://www.livenowfox.com/Follow us @Li...",
-            "url": "https://www.youtube.com/watch?v=tsk9VvWKPI0",
-            "urlToImage": "https://i.ytimg.com/vi/tsk9VvWKPI0/maxresdefault_live.jpg",
-            "publishedAt": "2022-12-20T21:19:51Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Daniel Politi",
-            "title": "Argentina soccer team abandons parade amid swarms of people - The Associated Press - en Espa\u00f1ol",
-            "description": "BUENOS AIRES, Argentina (AP) \u2014 A parade to celebrate the Argentine World Cup champions was abruptly cut short Tuesday as millions of people poured onto thoroughfares, highways and overpasses in a chaotic attempt to catch a glimpse of the national team that wo\u2026",
-            "url": "https://apnews.com/article/world-cup-sports-argentina-lionel-messi-1c2fdfd2ee91987393e37f8b7c1838b9",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/651386fa7b2b44e6b48c25fbc6701b2e/3000.webp",
-            "publishedAt": "2022-12-20T21:18:46Z",
-            "content": "BUENOS AIRES, Argentina (AP) A parade to celebrate the Argentine World Cup champions was abruptly cut short Tuesday as millions of people poured onto thoroughfares, highways and overpasses in a chaot\u2026 [+6094 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "fox6now.com"
-            },
-            "author": "Tom Wachs",
-            "title": "Southeast Wisconsin winter storm watch; blizzard conditions possible - FOX 6 Milwaukee",
-            "description": "A winter storm watch has been posted for all of southeast Wisconsin from 6 a.m. Thursday, Dec. 22 through 6 a.m. Saturday, Dec. 24. A blizzard is likely across the area.",
-            "url": "https://www.fox6now.com/news/southeast-wisconsin-winter-storm-watch-blizzard-conditions",
-            "urlToImage": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2022/12/1280/720/SE-WI-Snowfall-EURO.png?ve=1&tl=1",
-            "publishedAt": "2022-12-20T21:18:41Z",
-            "content": "MILWAUKEE - A Winter Storm Watch has been posted for all of southeast Wisconsin from 6 a.m. Thursday, Dec. 22 through 6 a.m. Saturday, Dec. 24. A blizzard continues to look likely across the area.\u00a0\r\n\u2026 [+3080 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "NFL Power Rankings Week 16 - NFL",
-            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
-            "url": "https://www.youtube.com/watch?v=lEb-SLQ-pu0",
-            "urlToImage": "https://i.ytimg.com/vi/lEb-SLQ-pu0/maxresdefault.jpg",
-            "publishedAt": "2022-12-20T21:00:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Taliban bans higher eduaction for women 'until further notice' | DW News - DW News",
-            "description": "The Taliban has closed universities for female students, the Ministry of Higher Education said on Tuesday in Afghanistan.\"You are all informed to immediately...",
-            "url": "https://www.youtube.com/watch?v=4-nxQoQUfzA",
-            "urlToImage": "https://i.ytimg.com/vi/4-nxQoQUfzA/maxresdefault.jpg",
-            "publishedAt": "2022-12-20T21:00:27Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Rebecca Rubin",
-            "title": "Box Office: \u2018Avatar 2\u2019 to Dominate at Christmas Over \u2018Babylon\u2019 and \u2018Puss in Boots\u2019 Sequel - Variety",
-            "description": "It\u2019s about to be a very Pandora Christmas at the movies. \u201cAvatar: The Way of Water,\u201d which opened solidly last weekend to $134 million, is poised to dominate box office charts aga\u2026",
-            "url": "https://variety.com/2022/film/box-office/avatar-2-box-office-christmas-babylon-projections-1235466277/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2022/12/MCDAVAT_FE108.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2022-12-20T20:31:00Z",
-            "content": "It\u2019s about to be a very Pandora Christmas at the movies. \u201cAvatar: The Way of Water,\u201d which opened solidly last weekend to $134 million, is poised to dominate box office charts again in its second out\u2026 [+4392 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Chris Pandolfo, Kyle Morris",
-            "title": "Embattled GOP Rep.-elect George Santos fires back at New York Times after biography questioned - Fox News",
-            "description": "Republican Congressman-elect George Santos of New York is facing questions over fabricating details of his biography following a New York Times report.",
-            "url": "https://www.foxnews.com/politics/embattled-gop-congressman-elect-george-santos-fires-back-new-york-times-biography-questioned",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/AP22309660318415-e1667992403976.jpg",
-            "publishedAt": "2022-12-20T20:06:41Z",
-            "content": "Rep.-elect George Santos, R-N.Y., has responded to a New York Times report that questioned parts of his biography, accusing the paper of launching a \"shotgun blast of attacks\" before he is sworn into\u2026 [+3250 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Fantasy Football Week 16 Waiver Wire: Get Gardner Minshew, Zack Moss, Treylon Burks to help you reach finals - CBS Sports",
-            "description": "These players could be the difference in Fantasy playoff Week 16",
-            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-16-waiver-wire-get-gardner-minshew-zack-moss-treylon-burks-to-help-you-reach-finals/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/20/dc38e2ec-b5a7-4abf-bde4-13774bfcb1ce/thumbnail/1200x675/d6d5c726ef6da9939e6fdc2adc2573f3/gardner-minshew-4-1400-us.jpg",
-            "publishedAt": "2022-12-20T19:46:25Z",
-            "content": "You're likely in the semifinals of your Fantasy playoffs in Week 16, and we have three major injuries that could impact your lineups. Jalen Hurts (shoulder) is likely out, and we're not expected to h\u2026 [+7796 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Xantha Leatham",
-            "title": "Heart surgeon 'probably saved the life' of a baby boy thanks to 'world-first' stem cell operation - Daily Mail",
-            "description": "A heart surgeon from the British Heart Foundation gave a baby boy a 'chance at life' thanks to a 'world first' operation using stem cells from placentas.",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-11558807/Heart-surgeon-probably-saved-life-baby-boy-thanks-world-stem-cell-operation.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/12/20/16/65779309-0-image-a-53_1671553468427.jpg",
-            "publishedAt": "2022-12-20T19:00:46Z",
-            "content": "A heart surgeon gave a baby boy a 'chance at life' thanks to a 'world first' operation using stem cells from placentas.\r\nFinley Pantry was born with a congenital heart defect that meant the two main \u2026 [+6949 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Kana Inagaki, Leo Lewis",
-            "title": "Bank of Japan stuns markets with yield control policy change - Financial Times",
-            "description": "\u2018Major surprise\u2019 sends yen roaring higher and pushes Tokyo stocks lower",
-            "url": "https://www.ft.com/content/c0efa373-062e-4312-916a-b9e86196cae1",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31ac1517-a007-43f9-95ac-1c54f3b977ae.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2022-12-20T18:49:03Z",
-            "content": "The Bank of Japan caught investors by surprise with an unexpected change to a core tenet of its monetary policy, sending shockwaves across the currency, bond and equity markets.\r\nTraders described an\u2026 [+4347 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Will Daniel",
-            "title": "The world\u2019s top stock strategist says an \u2018earnings recession\u2019 is coming for markets\u2014and it could be similar to what happened during the 2008 financial crisis - Yahoo Finance",
-            "description": "Corporate earnings are set to take a hit and Wall Street isn't properly anticipating it, Morgan Stanley's Mike Wilson warns. And when earnings fall, so will ...",
-            "url": "https://finance.yahoo.com/news/world-top-stock-strategist-says-183122497.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TydOTtnsT_WpkjnnKfga3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/fortune_175/e868c19b4e445fd6d17cde7898627702",
-            "publishedAt": "2022-12-20T18:31:22Z",
-            "content": "In bear markets, stocks dont typically fall in a straight line.\r\nOver the past 50 years, even in the worst financial crises of the modern era, brief rallies have occurred 6.5 times on average per bea\u2026 [+4941 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Thousands without power after earthquake rattles northern California - Reuters.com",
-            "description": "A strong 6.4-magnitude earthquake off the coast of northern California on Tuesday injured two people, damaged a bridge and several roads and left thousands of homes and businesses without power.",
-            "url": "https://www.reuters.com/world/us/magnitude-64-earthquake-strikes-offshore-northern-california-usgs-2022-12-20/",
-            "urlToImage": "https://www.reuters.com/resizer/ELHCviDpNL2cpdw3t6HOSQpmTWY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MJOXS6HVIJKPZHRMWWW5VXCSK4.jpg",
-            "publishedAt": "2022-12-20T18:07:00Z",
-            "content": "Dec 20 (Reuters) - A strong 6.4-magnitude earthquake off the coast of northern California on Tuesday injured two people, damaged a bridge and several roads and left thousands of homes and businesses \u2026 [+2937 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Suntimes.com"
-            },
-            "author": "Sun-Times Wire",
-            "title": "Chicago winter wallop: Blizzard, dangerous wind chills, half-foot of snow predicted - Chicago Sun-Times",
-            "description": "Worst conditions to develop Thursday night, with a possible blizzard and dangerously low temperatures expected by Friday, the National Weather Service warned.",
-            "url": "https://chicago.suntimes.com/2022/12/20/23518578/snow-blizzard-winter-storm-christmas-conditions-dangerous-temperatures-subzero",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/db424df/2147483647/strip/true/crop/3952x2256+0+190/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FBMMXXe3MDnIpxyLLGIzmaVKWWHs%3D%2F0x0%3A3952x2635%2F3952x2635%2Ffilters%3Afocal%281976x1318%3A1977x1319%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24305578%2FWEATHER_020322_11.jpg",
-            "publishedAt": "2022-12-20T17:55:00Z",
-            "content": "A major winter storm is expected to hit the Chicago area ahead of Christmas, with blizzard-like conditions in some places, dangerous wind chills and at least a half-foot of snow.\r\nThe National Weathe\u2026 [+2613 chars]"
+            "author": "Charmaine Nero (KARE 11)",
+            "title": "Airline travel experts issue advice ahead of dangerous weather conditions - KARE11.com",
+            "description": "\"The sooner you leave, the better,\" said Kyle Potter, with Thrifty Traveler.",
+            "url": "https://www.kare11.com/article/travel/airline-travel-experts-issue-advice-ahead-of-dangerous-weather-conditions/89-0b94fe4d-79d4-4b9d-88db-0974610f9f4d",
+            "urlToImage": "https://media.kare11.com/assets/KARE/images/3065d377-4656-4d4a-a51f-55a1308e8cfe/3065d377-4656-4d4a-a51f-55a1308e8cfe_1140x641.jpg",
+            "publishedAt": "2022-12-20T23:07:19Z",
+            "content": "MINNEAPOLIS The busiest days at the Minneapolis-St. Paul International Airport are Wednesday and Thursday, with 33,000 people expected to pass through.\r\nBut travel experts are warning people to make \u2026 [+1346 chars]"
         }
     ]
 }
