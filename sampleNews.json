@@ -4,185 +4,55 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "The Guardian"
             },
-            "author": "Delia Gallagher",
-            "title": "Former Pope Benedict is 'very sick', Pope Francis says - CNN",
-            "description": "Pope Francis said Wednesday that his predecessor Pope Benedict is \"very sick\" and asked for prayers for the 95-year-old former pontiff.",
-            "url": "https://www.cnn.com/2022/12/28/europe/pope-benedict-sick-pope-francis-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221228100025-pope-benedict-file-050711.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-28T10:26:00Z",
-            "content": "Pope Francis said Wednesday that his predecessor Pope Benedict is very sick and asked for prayers for the 95-year-old former pontiff. \r\nI want to ask you all for a special prayer for Pope Emeritus Be\u2026 [+1560 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Southwest Airlines under investigation as more flights canceled after storm - The Guardian",
+            "description": "US government says it will look into why the company\u2019s recovery from winter storm chaos lags behind other carriers",
+            "url": "https://www.theguardian.com/world/2022/dec/28/southwest-airlines-investigation-flight-cancellations-winter-storm",
+            "urlToImage": "https://i.guim.co.uk/img/media/2ba1f9add04829add1ec8f4a1c7c77e99ccbaffe/0_0_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3303f2e415e94498ce11662001b91362",
+            "publishedAt": "2022-12-29T00:27:00Z",
+            "content": "Southwest Airlines scrubbed thousands of flights again on Tuesday in the aftermath of the massive winter storm that wrecked Christmas travel plans across the US, and the federal government said it wo\u2026 [+3639 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson, Pat Milton",
+            "title": "Federal and county prosecutors probing Rep.-elect George Santos - CBS News",
+            "description": "Federal prosecutors are interested in the congressman-elect's financial history and financial disclosures.",
+            "url": "https://www.cbsnews.com/news/george-santos-investigation-federal-nassau-county/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/12/27/6e60bc40-d689-431e-813e-55ac996dcba7/thumbnail/1200x630g2/d858f70086a2e26e9afd3cc78dbebf39/gettyimages-1244906969.jpg",
+            "publishedAt": "2022-12-28T23:56:00Z",
+            "content": "Federal prosecutors with the U.S. Attorney's office for the Eastern District of New York are looking into the finances and financial disclosures of Republican Rep.-elect George Santos after he\u00a0admitt\u2026 [+2267 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "ESPN"
             },
-            "author": "Alex Harring",
-            "title": "Stock futures climb fractionally as investors look to new year - CNBC",
-            "description": "Investors are reflecting on a negative year and setting expectations for 2023.",
-            "url": "https://www.cnbc.com/2022/12/27/stock-market-futures-open-to-close-news.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105985505-1561412606172gettyimages-1151299077.jpeg?v=1672182086&w=1920&h=1080",
-            "publishedAt": "2022-12-28T09:13:00Z",
-            "content": "Stock futures climbed fractionally Wednesday morning as traders look to the end of a losing year and prepare for 2023.\r\nFutures tied to the Dow Jones Industrial Average added 56 points. S&amp;P 500 a\u2026 [+1526 chars]"
+            "author": "Jeff Legwold",
+            "title": "Broncos' Russell Wilson - Wish I played better for Nathaniel Hackett - ESPN",
+            "description": "Russell Wilson said Wednesday that he regretted he didn't play better this season for Nathaniel Hackett, who was fired as the Broncos' head coach this week.",
+            "url": "https://www.espn.com/nfl/story/_/id/35336860/broncos-russell-wilson-wish-played-better-nathaniel-hackett",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1111%2Fr1089256_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-12-28T23:26:55Z",
+            "content": "ENGLEWOOD, Colo. -- Denver Broncos quarterback Russell Wilson, on track for a career low in touchdown passes and career high in sacks, pointed to his own play in this disappointing season as a regret\u2026 [+3555 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Drake's Teenage Lyrics Found Abandoned In Uncle's Factory Dumpster - TMZ",
-            "description": "Drake's days as a lyrical rap genius started just as humble as anyone else ... with pages of his rhyme book literally being tossed in the trash!!!",
-            "url": "https://www.tmz.com/2022/12/28/drake-teenage-lyrics-memphis-uncle-factory-dumpster-comeback-season-toronto/",
-            "urlToImage": "https://imagez.tmz.com/image/0d/16by9/2022/12/22/0d1e886c74b5426b85009a59d5442c1d_xl.jpg",
-            "publishedAt": "2022-12-28T09:00:00Z",
-            "content": "Drake's one of the biggest things to ever happen in music -- which makes it all the more surprising some of his lyrics from his early days ended up in the trash -- and are now up for sale.\r\nThat's ri\u2026 [+1331 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "name": "The Detroit News"
             },
             "author": null,
-            "title": "Chinese hospitals, funeral homes 'extremely busy' as COVID spreads unchecked - Reuters",
-            "description": "Chinese hospitals and funeral homes were under intense pressure on Wednesday as a surging COVID-19 wave drained resources, while the scale of the outbreak and doubts over official data prompted some countries to consider new <a href=\"/world/us-weighs-new-covi\u2026",
-            "url": "https://www.reuters.com/world/china/chinese-hospitals-extremely-busy-covid-spreads-unchecked-2022-12-28/",
-            "urlToImage": "https://www.reuters.com/resizer/WKcSnyRsLE-9ldxHlz0kjZbfGW4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L3IZUBATSRJ2LF4JTOILFZM36Y.jpg",
-            "publishedAt": "2022-12-28T08:05:00Z",
-            "content": "CHENGDU, Dec 28 (Reuters) - Chinese hospitals and funeral homes were under intense pressure on Wednesday as a surging COVID-19 wave drained resources, while the scale of the outbreak and doubts over \u2026 [+4999 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Javier E. David",
-            "title": "Tesla stock plunges as investors punish Elon Musk - Axios",
-            "description": "The company's stock plunged by 9% on Tuesday, poised to end 2022 on a grim note.",
-            "url": "https://www.axios.com/2022/12/27/tesla-stock-musk-twitter",
-            "urlToImage": "https://images.axios.com/4Wi4onCYIYw6gyBBCyCTdxKk52c=/0x0:1920x1080/1366x768/2022/12/27/1672172703143.jpg",
-            "publishedAt": "2022-12-28T07:08:17Z",
-            "content": "Tesla's stock plunged by 9% on Tuesday, poised to end 2022 on a grim note after having shed over 70% of value this year.\r\nWhy it matters: Investors are expressing dissatisfaction with Elon Musk by pu\u2026 [+1619 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Forrest Brown, Karla Cripps",
-            "title": "As Southwest flight cancellations continue, Buttigieg vows to hold airline accountable - CNN",
-            "description": "Relief is still a few days away for passengers booked with Southwest Airlines this week, as the beleaguered airline continues to grapple with what US Transportation Secretary Pete Buttigieg is referring to as a complete meltdown of the system.",
-            "url": "https://www.cnn.com/travel/article/southwest-flight-cancellations-wednesday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221228135218-southwest-cancellations-california-1227.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-28T06:28:17Z",
-            "content": "Relief is still a few days away for passengers booked with Southwest Airlines this week, as the beleaguered airline continues to grapple with what US Transportation Secretary Pete Buttigieg has refer\u2026 [+7457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NorthJersey.com"
-            },
-            "author": ", North Jersey Media Group",
-            "title": "Mega Millions winning numbers for Tuesday, Dec. 27; Friday's jackpot up to $640 million - NorthJersey.com",
-            "description": "The lottery jackpot was an estimated $565 million with a cash option of $289.8 million for Tuesday's drawing - the sixth largest Mega Millions ever.",
-            "url": "https://www.northjersey.com/story/news/nation/2022/12/28/mega-millions-winning-numbers-drawing-for-tuesday-dec-27-2022/69760125007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2021/05/22/PNJM/99cf2642-9308-486b-b43a-10b06a2d91e6-MegaMillions.JPG?auto=webp&crop=2447,1376,x0,y627&format=pjpg&width=1200",
-            "publishedAt": "2022-12-28T05:37:30Z",
-            "content": "Is today your lucky day?\r\nHere are the Mega Millions winning numbers for Tuesday, Dec. 27, 2022:\r\n9 - 13 - 36 - 59 - 61 and Megaball 11\r\nMegaplier was 2x\r\nThe lottery jackpot was an estimated $565 mi\u2026 [+5756 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "LUKA MAGIC! Luka Doncic posts FIRST EVER 60-20-10 triple-double in HISTORIC comeback | SportsCenter - ESPN",
-            "description": "SportsCenter recaps the Dallas Maverick's improbable comeback against the New York Knicks which saw Luka Doncic drop 60 PTS, 21 REB & 10 AST in a 126-121 ove...",
-            "url": "https://www.youtube.com/watch?v=rOPrCxs0itE",
-            "urlToImage": "https://i.ytimg.com/vi/rOPrCxs0itE/maxresdefault.jpg",
-            "publishedAt": "2022-12-28T05:27:59Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Celina Tebor",
-            "title": "Buffalo woman saves man with severe frostbite after getting him out of the storm and pleading for help in a Facebook livestream - CNN",
-            "description": "As a powerful storm battered western New York with blinding blizzard conditions in the early hours of Christmas Eve, a Buffalo woman jumped into action when she saw a man who was caught in the storm.",
-            "url": "https://www.cnn.com/2022/12/27/us/buffalo-woman-saves-man-frostbite-facebook/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221228115033-04-buffalo-woman-saves-man-frostbite-facebook.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-28T04:05:00Z",
-            "content": "As a powerful storm battered western New York with blinding blizzard conditions in the early hours of Christmas Eve, a Buffalo woman jumped into action when she saw a man who was caught in the storm.\u2026 [+3680 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ryan Morik",
-            "title": "NFL's chief medical officer says Tua Tagovailoa showed 'nothing that would have triggered' concussion protocol - Fox News",
-            "description": "Tua Tagovailoa showed no symptoms on Sunday that would have sent him into the concussion protocol, the league's chief medical officer said in an interview on Tuesday.",
-            "url": "https://www.foxnews.com/sports/nfls-chief-medical-officer-tua-tagovailoa-showed-nothing-triggered-concussion-protocol",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/tua-on-field.jpg",
-            "publishedAt": "2022-12-28T03:59:26Z",
-            "content": "Tua Tagovailoa's visit to the concussion protocol drew tons of controversy - and it seems like history is repeating itself.\r\nThe Miami Dolphins quarterback is in concussion protocol for the second ti\u2026 [+3639 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Kosovo minister sees Russian influence in growing Serbian tension - Al Jazeera English",
-            "description": "Interior Minister Xhelal Svecla accused Belgrade of supporting Serbian protesters as a means to destabilise Kosovo.",
-            "url": "https://www.aljazeera.com/news/2022/12/28/kosovo-minister-sees-russian-influence-in-growing-serbian-tension",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/2022-12-27T134959Z_34848733_RC2BEY96LDZY_RTRMADP_3_KOSOVO-SERBS.jpg?resize=1920%2C1440",
-            "publishedAt": "2022-12-28T03:14:52Z",
-            "content": "Kosovas Interior Minister Xhelal Svecla has accused Serbia, under the influence of Russia, of attempting to destabilise his country by supporting the Serb minority in northern Kosovo who have blocked\u2026 [+4366 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Tom\u00e1s Mier",
-            "title": "George Santos Addresses R\u00e9sum\u00e9 Lies on Tucker Carlson: \u2018I\u2019m Not a Fraud\u2019 - Rolling Stone",
-            "description": "The incoming congressman went on live television after admitting to having \u201cembellished\u201d his r\u00e9sum\u00e9 and lying about being Jewish",
-            "url": "https://www.rollingstone.com/politics/politics-news/george-santos-tucker-carlson-lied-backstory-1234653305/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/12/George-Santos-TuckerCarlson.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2022-12-28T02:30:42Z",
-            "content": "New York congressman-electGeorge Santos went on Tucker Carlson Tonight on Tuesday evening after admitting to having \u201cembellished\u201d his r\u00e9sum\u00e9 and lying about being Jewish. \r\nIn his first televised int\u2026 [+2476 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Armando Tinoco",
-            "title": "Jo Mersa Marley Dies: Reggae Artist & Bob Marley\u2019s Grandson Was 31 - Deadline",
-            "description": "Joseph \u201cJo Mersa\u201d Marley, son of Stephen Marley and grandson of Bob Marley, has died. He was 31. A representative for the late reggae artist confirmed the news to Rolling Stone on Decem\u2026",
-            "url": "https://deadline.com/2022/12/jo-mersa-marley-dead-reggae-artist-bob-marley-grandson-1235207487/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/12/jo-mersa-marley.jpg?w=1000",
-            "publishedAt": "2022-12-28T02:24:00Z",
-            "content": "Joseph \u201cJo Mersa\u201d Marley, son of Stephen Marley and grandson of Bob Marley, has died. He was 31.\r\nA representative for the late reggae artist confirmed the news to Rolling Stone on December 27. Detai\u2026 [+1021 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "UN Security Council urges Taliban to reverse restrictions on women - BBC",
-            "description": "The Taliban have recently banned women from attending university and working for NGOs.",
-            "url": "https://www.bbc.com/news/world-asia-64106226",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FD05/production/_128137746_womenafp.jpg",
-            "publishedAt": "2022-12-28T01:13:01Z",
-            "content": "Media caption, Watch: A teenager in Kabul expresses deep dismay at Taliban university ban\r\nThe UN Security Council has denounced Taliban government policies targeting women and girls in Afghanistan.\r\u2026 [+2100 chars]"
+            "title": "Second Whitmer kidnap plot ringleader sentenced to nearly 20 years in prison - Detroit News",
+            "description": null,
+            "url": "https://www.detroitnews.com/restricted/?return=https:%2F%2Fwww.detroitnews.com%2Fstory%2Fnews%2Flocal%2Fmichigan%2F2022%2F12%2F28%2Fbarry-croft-second-ringleader-in-whitmer-kidnapping-plot-sentenced-to-19-5-years%2F69759600007%2F",
+            "urlToImage": null,
+            "publishedAt": "2022-12-28T23:26:15Z",
+            "content": "Skip to main content\r\nThis content is only available to subscribers.\r\nGet unlimited digital access.\r\nYour subscription supports:\r\nUnlimited access to subscriber only articles on desktop, tablet and m\u2026 [+872 chars]"
         },
         {
             "source": {
@@ -190,77 +60,207 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Colts owner Jim Irsay admits he reluctantly gave Frank Reich a contract extension before the 2021 season - CBS Sports",
-            "description": "Reich is reportedly owed $36 million over the next four years",
-            "url": "https://www.cbssports.com/nfl/news/colts-owner-jim-irsay-admits-he-reluctantly-gave-frank-reich-a-contract-extension-before-the-2021-season/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/28/ac13f720-cfc9-414b-b223-c65257aee974/thumbnail/1200x675/6e6cb42541b39309f9f87dd37a45b900/jim-irsay.jpg",
-            "publishedAt": "2022-12-28T01:10:00Z",
-            "content": "While the quarterback situation was in a state of flux as the team had circled through various veteran options, the Indianapolis Colts did seem to have a steady masthead entering last season. After a\u2026 [+1834 chars]"
+            "title": "Raiders bench Derek Carr for Jarrett Stidham: What's next for QB, plus logical 2023 landing spots - CBS Sports",
+            "description": "If Carr exits Las Vegas after the big move, here's where he might land",
+            "url": "https://www.cbssports.com/nfl/news/raiders-bench-derek-carr-for-jarrett-stidham-whats-next-for-qb-plus-logical-2023-landing-spots/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/11/32008552-07a8-49ca-af01-8ed84fc80648/thumbnail/1200x675/e93adba0aebf42cdc00e1c15e68f0faf/derek-carr-2-1400-us.jpg",
+            "publishedAt": "2022-12-28T22:51:00Z",
+            "content": "Though unlikely to make the 2022 NFL playoffs, the Raiders are not mathematically eliminated from contention entering Week 17 against the 49ers. Even so, coach Josh McDaniels is making a change at qu\u2026 [+2648 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "OregonLive"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Catalina Gait\u00e1n | The Oregonian/OregonLive.com",
-            "title": "Oregon storm to ease by Wednesday, bringing lighter showers, milder winds, forecaster says - OregonLive",
-            "description": "A storm that battered coastal and northwest Oregon on Tuesday is expected to ease on Wednesday, bringing calmer winds and lighter rain, forecasters said.",
-            "url": "https://www.oregonlive.com/weather/2022/12/oregon-storm-to-ease-by-wednesday-bringing-lighter-showers-milder-winds-forecaster-says.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/MeKci1OSbv6tyPPGtVtZofHeSVY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODSM7NCONRHK3AM574F35UWQTY.JPG",
-            "publishedAt": "2022-12-28T00:11:00Z",
-            "content": "A storm that battered coastal and northwest Oregon on Tuesday is expected to ease on Wednesday, bringing calmer winds and lighter rain, forecasters said.\r\nTomorrow just looks like some light rain or \u2026 [+1457 chars]"
+            "author": "Dakin Andone, Nouran Salahieh",
+            "title": "Winter storm death toll rises to 37 in Buffalo, New York, area as crews clear snow-covered roads and go door-to-door with food - CNN",
+            "description": "The winter storm death toll has risen to 37 in Erie County, New York, as crews continue to clear roads and first responders check on people they couldn't reach days ago when the catastrophic weather system swept the nation, officials there said Wednesday.",
+            "url": "https://www.cnn.com/2022/12/28/weather/buffalo-winter-storm-new-york-blizzard-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221228143902-01-winter-weather-1228-buffalo.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-28T22:39:00Z",
+            "content": "The winter storm death toll has risen to 37 in Erie County, New York, as crews continue to clear roads and first responders check on people they couldnt reach days ago when the catastrophic weather s\u2026 [+9544 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Spaceflight Now"
+                "name": "Buffalo News"
+            },
+            "author": "Jay Tokasz News Staff Reporter",
+            "title": "Buffalo family shelters stranger's body at their home for a day after she dies in blizzard - Buffalo News",
+            "description": "A Buffalo couple cared for the body of a stranger who collapsed and died outside their home on Christmas Eve during a rescue attempt by the woman\u2019s family.",
+            "url": "https://buffalonews.com/news/local/buffalo-family-shelters-strangers-body-at-their-home-for-a-day-after-she-dies-in/article_68dbbef2-863f-11ed-9d64-4b93014dd101.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/d/0b/d0b10b00-8620-11ed-97a2-735dbafe8e1f/63ab4e686df60.image.jpg?crop=1040%2C546%2C0%2C73&resize=1040%2C546&order=crop%2Cresize",
+            "publishedAt": "2022-12-28T22:20:31Z",
+            "content": "A Buffalo couple cared for the body of a stranger who collapsed and died outside their home on Christmas Eve during a rescue attempt by the womans family.\r\nAntwaine Parker said he will always be in d\u2026 [+6324 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Delia Gallagher, Rob Picheta",
+            "title": "Former Pope Benedict is 'very sick', Pope Francis says - CNN",
+            "description": "Pope Francis has said that his predecessor Pope Benedict, the 95-year-old former pontiff who resigned from the post nine years ago, is \"very sick\" after a deterioration in his health on Wednesday.",
+            "url": "https://www.cnn.com/2022/12/28/europe/pope-benedict-sick-pope-francis-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221228100025-pope-benedict-file-050711.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-28T22:00:00Z",
+            "content": "Pope Francis has said that his predecessor Pope Benedict, the 95-year-old former pontiff who resigned from the post nine years ago, is very sick after a deterioration in his health on Wednesday.\r\nI w\u2026 [+2622 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Stefania Palma, Amy Kazmin",
+            "title": "US will require negative Covid tests for air passengers from China - Financial Times",
+            "description": "Italy also imposes restrictions after surge in cases following end of Beijing\u2019s containment policy",
+            "url": "https://www.ft.com/content/ab66734d-af9e-4f65-a724-e2994c25ad78",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd4267efc-0053-4c17-b520-ad8d46d275a9.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-12-28T21:59:25Z",
+            "content": "The US said it would require negative Covid-19 tests for air passengers travelling from China as countries rushed to impose restrictions after the abrupt end of Beijings zero-Covid containment policy\u2026 [+4089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "MEGAN JANETSKY",
+            "title": "Ten convicted in attempted killing of slugger David Ortiz - Yahoo News",
+            "description": "A Dominican court convicted 10 people involved in the 2019 attempted killing of baseball Hall of Famer David Ortiz, authorities confirmed on Tuesday.  Two...",
+            "url": "https://news.yahoo.com/ten-convicted-attempted-killing-slugger-205551973.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YGaggsfl_DVHRpOKKtgr2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/83ff64f1915c8cf16248e2804941dc8f",
+            "publishedAt": "2022-12-28T20:55:51Z",
+            "content": "A Dominican court convicted 10 people involved in the 2019 attempted killing of baseball Hall of Famer David Ortiz, authorities confirmed on Tuesday.\r\nOrtiz, a Dominican native, was ambushed by a man\u2026 [+1924 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kerry Breen",
+            "title": "Missing Michigan doctor found dead in frozen pond - CBS News",
+            "description": "Footage from a home video camera system showed Dr. Bolek Payan leaving his home on Dec. 22, as arctic temperatures hit Michigan.",
+            "url": "https://www.cbsnews.com/news/bolek-payan-missing-doctor-found-dead-in-frozen-pond-michigan/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/12/27/a8204d9f-e208-40ea-9f2d-7356cc852f50/thumbnail/1200x630/f00923982eece5a93b234556c58751a0/b-payan.jpg",
+            "publishedAt": "2022-12-28T20:49:40Z",
+            "content": "A Michigan doctor who has been missing for five days was found dead in a frozen pond near his home.\u00a0\r\nDr. Bolek Payan was last seen leaving his workplace, Henry Ford Jackson Hospital in Jackson, Mich\u2026 [+1745 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Nicolas Vega",
+            "title": "'Avatar: The Way of Water' crosses $1B in ticket sales in just 14 days: Here are the 10 highest-grossing movies of 2022 - CNBC",
+            "description": "With 'Avatar 2' crossing the $1 billion mark this week, the 2022 box office tripled the number of billion-dollar grossers from 2021.",
+            "url": "https://www.cnbc.com/2022/12/28/top-gun-to-avatar-these-are-the-highest-grossing-movies-of-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107168568-1671482146688-au_gallerycontents_20cs_avatar2_1_73dfd60a.jpeg?v=1672259541&w=1920&h=1080",
+            "publishedAt": "2022-12-28T20:15:26Z",
+            "content": "\"Avatar: The Way of Water\" has made over $1 billion in ticket sales in just two weeks.\r\nJames Cameron's blockbuster, the sequel to the highest-grossing movie of all time, joins \"Jurassic World: Domin\u2026 [+2507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brian Sozzi",
+            "title": "Why one Tesla bull sees the stock ripping 127% higher - Yahoo Finance",
+            "description": "At least one analyst on Wall Street sees Tesla's stock recovering.",
+            "url": "https://finance.yahoo.com/news/why-one-tesla-bull-sees-the-stock-ripping-127-higher-200944488.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QOT2t4rMvopGadYGSV..eA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-08/3e8eb600-c2b5-11e9-b3bf-40830ac0000d",
+            "publishedAt": "2022-12-28T20:09:44Z",
+            "content": "In a growing sea of Wall Street negativity surrounding Tesla's (TSLA) fundamentals and stock price, there is at least one analyst trying to swim against the tide.\r\nOn Wednesday, Baird analyst Ben Kal\u2026 [+3068 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Live coverage: SpaceX launches first mission for Starlink Gen2 constellation \u2013 Spaceflight Now - Spaceflight Now",
-            "description": null,
-            "url": "https://spaceflightnow.com/2022/12/28/falcon-9-starlink-5-1-live-coverage/",
-            "urlToImage": null,
-            "publishedAt": "2022-12-28T00:09:24Z",
-            "content": "The first-generation Starlink network architecture includes satellites flying a few hundred miles up, orbiting at inclinations of 97.6 degrees, 70 degrees, 53.2 degrees, and 53.0 degrees to the equat\u2026 [+4872 chars]"
+            "title": "Luka Makes MVP Case With 60 Point Triple Double And INSANE Ending - BBALLBREAKDOWN",
+            "description": "#lukadoncic #nba Special Thanks to SeatGeek! Use code BBALL for $20 off your first order https://seatgeek.onelink.me/RrnK/BBALLIn one fo the craziest endings...",
+            "url": "https://www.youtube.com/watch?v=U7GO7C112kk",
+            "urlToImage": "https://i.ytimg.com/vi/U7GO7C112kk/maxresdefault.jpg",
+            "publishedAt": "2022-12-28T19:43:45Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Hollywood Reporter"
             },
-            "author": "Linda Geddes",
-            "title": "Scientists develop blood test for Alzheimer\u2019s disease - The Guardian",
-            "description": "Scientists say test could replace a costly brain scan or painful lumbar puncture and enable earlier detection of disease",
-            "url": "https://www.theguardian.com/society/2022/dec/28/scientists-develop-blood-test-for-alzheimers-disease",
-            "urlToImage": "https://i.guim.co.uk/img/media/e7966e821d6fb41dd32e05577df819eb8ab1c8ee/83_0_3834_2300/master/3834.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7d9a2d9ce73bf5bcccf1d8ead2f4dd1",
-            "publishedAt": "2022-12-28T00:01:00Z",
-            "content": "Scientists have developed a blood test to diagnose Alzheimers disease without the need for expensive brain imaging or a painful lumbar puncture, where a sample of cerebrospinal fluid (CSF) is drawn f\u2026 [+2468 chars]"
+            "author": "Etan Vlessing",
+            "title": "Bill Cosby Considering Return to Touring in 2023 - Hollywood Reporter",
+            "description": "Getting back on the comedy stage would follow Cosby\u2019s sexual assault conviction being overturned by the Pennsylvania Supreme Court.",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-cosby-return-to-touring-2023-1235288267/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/12/GettyImages-187179701.jpg?w=1024",
+            "publishedAt": "2022-12-28T19:30:25Z",
+            "content": "Bill Cosby is eyeing a return to the comedy stage after a sexual assault conviction was overturned by the Pennsylvania Supreme Court in June 2021.\r\nOn Wednesday, the comedian and onetime TV star hint\u2026 [+1723 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Greg Wehner",
-            "title": "Arizona judge denies request for sanctions against Lake, rewards $33K reimbursement - Fox News",
-            "description": "An Arizona judge denied Gov.-elect Katie Hobbs' request to sanction her gubernatorial opponent, Kari Lake, but was granted more than $33,000 in reimbursements.",
-            "url": "https://www.foxnews.com/politics/arizona-judge-denies-request-sanctions-against-lake-rewards-reimbursement",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Katie-1.jpg",
-            "publishedAt": "2022-12-27T23:29:28Z",
-            "content": "An Arizona judge denied a request from Gov.-elect Katie Hobbs seeking sanctions against her gubernatorial race opponent, Kari Lake.\r\nThough the sanctions were denied, the judge awarded Hobbs a little\u2026 [+2124 chars]"
+            "author": null,
+            "title": "Carolina Panthers vs. Tampa Bay Buccaneers | 2022 Week 17 Game Preview - NFL",
+            "description": "Check out our other channels:NFL Tuesday Night Gaming https://www.youtube.com/c/NFLTNGNFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtub...",
+            "url": "https://www.youtube.com/watch?v=-nMiBfUwing",
+            "urlToImage": "https://i.ytimg.com/vi/-nMiBfUwing/maxresdefault.jpg",
+            "publishedAt": "2022-12-28T18:31:44Z",
+            "content": null
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Al Jazeera",
-            "title": "US Supreme Court upholds controversial Title 42 border policy - Al Jazeera English",
-            "description": "Invoked under the Trump administration, Title 42 uses public health as a justification for expelling asylum seekers.",
-            "url": "https://www.aljazeera.com/news/2022/12/27/us-supreme-court-upholds-controversial-title-42-immgration-policy",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/063_1450554339.jpg?resize=1920%2C1440",
-            "publishedAt": "2022-12-27T23:19:34Z",
-            "content": "The United States Supreme Court has temporarily kept in place Title 42, a controversial immigration policy that has been criticised for denying refugees the ability to seek asylum in the US.\r\nIn a fi\u2026 [+2813 chars]"
+            "author": null,
+            "title": "Sam Bankman-Fried to enter plea in FTX fraud case - Nasdaq",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiUWh0dHBzOi8vd3d3Lm5hc2RhcS5jb20vYXJ0aWNsZXMvc2FtLWJhbmttYW4tZnJpZWQtdG8tZW50ZXItcGxlYS1pbi1mdHgtZnJhdWQtY2FzZdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-28T18:24:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WIVB.com - News 4"
+            },
+            "author": "Adam Gorski",
+            "title": "\u2018It\u2019s embarrassing\u2019: County Executive displeased with Buffalo snow removal - WIVB.com - News 4",
+            "description": "Erie County Executive Mark Poloncarz called Buffalo\u2019s snow removal efforts \u201cembarrassing\u201d following the severe blizzard, prompting a response from Mayor Byron Brown.",
+            "url": "https://www.wivb.com/weather/buffalo-blizzard-2022/buffalo-snow-removal-embarrassing-poloncarz-mayor-brown/",
+            "urlToImage": "https://www.wivb.com/wp-content/uploads/sites/97/2022/11/snow-plow-buffalo-stuck-ford.png?w=1280",
+            "publishedAt": "2022-12-28T18:13:29Z",
+            "content": "BUFFALO, N.Y. (WIVB) Erie County Executive Mark Poloncarz expressed his displeasure with the City of Buffalo\u2019s response to the blizzard during a Wednesday press conference, saying he has had discussi\u2026 [+2706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ethiopia's Tigray conflict: Flights resume between Addis Ababa and Mekelle - BBC",
+            "description": "Passenger flights resume between Addis Ababa and war-devastated Tigray, following a peace deal.",
+            "url": "https://www.bbc.com/news/world-africa-64110846",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/121A/production/_128143640_mediaitem128143639.jpg",
+            "publishedAt": "2022-12-28T18:08:33Z",
+            "content": "Families wept and kissed the tarmac at the main airport in Ethiopia's northern Tigray region as they reunited after being kept apart by war for more than 18 months. \r\nThe emotional scenes followed th\u2026 [+2246 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "NASA images showcase eerie beauty of winter on Mars - CNN",
+            "description": "Mars may seem like a dry, desolate place, but the red planet transforms into an otherworldly wonderland in winter, according to a new video shared by NASA.",
+            "url": "https://www.cnn.com/2022/12/28/world/mars-winter-nasa-photos-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221227101438-03-nasa-mars-winter-frosted-dunes.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-28T17:04:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nMars may seem like a dry, desolate place, but the red \u2026 [+4072 chars]"
         }
     ]
 }
