@@ -1,58 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nikki Carvajal",
+            "title": "Biden signs $1.7 trillion government spending bill into law - CNN",
+            "description": "President Joe Biden on Thursday signed a $1.7 trillion federal spending bill that includes a number of administration priorities and officially avoids a government shutdown, ending what he called a \"year of historic progress.\"",
+            "url": "https://www.cnn.com/2022/12/29/politics/joe-biden-omnibus/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221229190436-joe-biden-signed-bipartisan-omnibus-bill.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-30T00:14:00Z",
+            "content": "President Joe Biden on Thursday signed a $1.7 trillion federal spending bill that includes a number of administration priorities and officially avoids a government shutdown, ending what he called a y\u2026 [+3456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Stock Market Rally Attempt Begins; Tesla Jumps Amid EV Credit Guidelines | Investor's Business Daily - Investor's Business Daily",
+            "description": "Don't get excited by a good day, but here are 7 stocks near buy points.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-rally-attempt-begins-tesla-jumps-new-ev-credit-guidelines/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/01/Stock-Tesla-modelY-01-adobe.jpg",
+            "publishedAt": "2022-12-30T00:09:00Z",
+            "content": "Dow Jones futures tilted lower after hours, along with S&amp;P 500 futures and Nasdaq futures, heading into the final trading day of 2022. The major indexes rose strongly Thursday on jobs data, Apple\u2026 [+9275 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SportsLine"
             },
             "author": null,
-            "title": "Hong Kong asks Japan to drop airport bans, 60000 travellers affected - Reuters",
-            "description": "Hong Kong has asked Japan to withdraw a COVID-19 restriction that allows passenger flights from the financial hub to land only at four designated airports, saying the decision would affect about 60,000 passengers.",
-            "url": "https://www.reuters.com/world/asia-pacific/hong-kong-asks-japan-drop-airport-restrictions-with-60000-travellers-affected-2022-12-29/",
-            "urlToImage": "https://www.reuters.com/resizer/F_sBVRzkKBAZu8SJ75KaTLQ95VQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KP54KCOMQJIW3CJKCWZ6WQHS6I.jpg",
-            "publishedAt": "2022-12-29T09:13:00Z",
-            "content": "HONG KONG, Dec 29 (Reuters) - Hong Kong has asked Japan to withdraw a COVID-19 restriction that allows passenger flights from the financial hub to land only at four designated airports, saying the de\u2026 [+2771 chars]"
+            "title": "NFL DFS Thursday Night Football picks, Week 17: Cowboys vs. Titans fantasy lineup advice for DraftKings, Fanduel from Millionaire contest winner - SportsLine.com - SportsLine",
+            "description": "The Week 17 NFL schedule opens with Malik Willis and the Tennessee Titans hosting Dak Prescott and the Dallas Cowboys on Thursday Night Football....",
+            "url": "https://www.sportsline.com/insiders/nfl-dfs-thursday-night-football-picks-week-17-cowboys-vs-titans-fantasy-lineup-advice-for-draftkings-fanduel-from-millionaire-contest-winner/",
+            "urlToImage": "https://splnhub.cbsistatic.com/i/2022/12/29/bdbe2c9f-c6bd-49c0-8546-5662b2546323/ceedee-lamb-usatsi-cowboys.jpg",
+            "publishedAt": "2022-12-30T00:08:00Z",
+            "content": "The Week 17 NFL schedule opens with Malik Willis and the Tennessee Titans hosting Dak Prescott and the Dallas Cowboys on Thursday Night Football. All-Pro running back Derrick Henry (hip) is doubtful \u2026 [+3089 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "Explosions rock Ukrainian cities as Russia launches 'more than 100 missiles' in waves - Reuters",
-            "description": "Air raid sirens rang across Ukraine as Russia unleashed more than 100 missiles on Thursday morning, according to a Ukrainian presidential adviser, and blasts were heard in several cities, including the capital Kyiv.\"A massive air raid. More than 100 missiles \u2026",
-            "url": "https://www.reuters.com/world/europe/russia-steps-up-kherson-shelling-dismisses-zelenskiys-peace-plan-2022-12-29/",
-            "urlToImage": "https://www.reuters.com/resizer/7wB1rIWOkLfeGt414V-mjDsxMyE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ROE5XBPJ5JLXJJ4R6PTFU2PBKY.jpg",
-            "publishedAt": "2022-12-29T08:07:00Z",
-            "content": "KYIV/BAKHMUT, Ukraine, Dec 29 (Reuters) - Air raid sirens rang across Ukraine as Russia unleashed more than 100 missiles on Thursday morning, according to a Ukrainian presidential adviser, and blasts\u2026 [+5350 chars]"
+            "author": "By Gregory Wallace, Forrest Brown, Barry Neild and Karla Cripps, CNN",
+            "title": "Southwest says 'normal' services to resume on Friday as DOT sends warning - CNN",
+            "description": "Southwest Airlines says it's poised to resume normal schedules on Friday after a tumultuous eight-day meltdown that left hundreds of thousands of passengers delayed or stranded and prompted its executives to make groveling apologies.",
+            "url": "https://www.cnn.com/travel/article/southwest-flight-cancellations-thursday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221229140709-03-southwest-cancellations-122822-super-tease.jpg",
+            "publishedAt": "2022-12-29T23:15:00Z",
+            "content": "Gregory Wallace, Forrest Brown, Barry Neild and Karla Cripps, CNNUpdated 29th December 2022\r\n(CNN) Southwest Airlines says it's set up to resume normal schedules on Friday after a tumultuous eight-da\u2026 [+12965 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "David Koenig",
-            "title": "Southwest Airlines flight cancellations continue to snowball - The Associated Press - en Espa\u00f1ol",
-            "description": "DALLAS (AP) \u2014 Travelers who counted on Southwest Airlines to get them home suffered another wave of canceled flights Wednesday, and pressure grew on the federal government to help customers get reimbursed for unexpected expenses they incurred because of the a\u2026",
-            "url": "https://apnews.com/article/kansas-city-plants-dallas-district-of-columbia-business-d2034f41df7a4f78de02db8aa4ba11df",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0cd8eed8c61242c7820016f619dd5d4d/3000.webp",
-            "publishedAt": "2022-12-29T06:59:21Z",
-            "content": "DALLAS (AP) Travelers who counted on Southwest Airlines to get them home suffered another wave of canceled flights Wednesday, and pressure grew on the federal government to help customers get reimbur\u2026 [+6699 chars]"
+            "author": "Oren Liebermann",
+            "title": "Chinese fighter jet intercepts US recon aircraft with 'unsafe maneuver,' US Defense Department says - CNN",
+            "description": "A Chinese fighter jet intercepted a US reconnaissance aircraft over the South China Sea last week and performed an \"unsafe maneuver,\" forcing the US aircraft to take evasive action, according to Indo-Pacific Command, the command responsible for overseeing US \u2026",
+            "url": "https://www.cnn.com/2022/12/29/politics/chinese-fighter-jet-intercepts-us-reconnaissance-aircraft/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221229162101-chinese-fighter-jet-us-intercept-screengrab.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-29T23:12:00Z",
+            "content": "A Chinese fighter jet intercepted a US reconnaissance aircraft over the South China Sea last week and performed an unsafe maneuver, forcing the US aircraft to take evasive action, according to Indo-P\u2026 [+1915 chars]"
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Andrew Freedman",
-            "title": "Buffalo blizzard death toll passes 30 as storm preparation questioned - Axios",
-            "description": "A driving ban went into effect as the storm was already raging.",
-            "url": "https://www.axios.com/2022/12/28/buffalo-blizzard-deaths-exceed-30-storm-preparation",
-            "urlToImage": "https://images.axios.com/jzw4M-h5YEacKQSU3mvdnFCSwTE=/0x0:4928x2772/1366x768/2022/12/28/1672189607059.jpg",
-            "publishedAt": "2022-12-29T06:18:41Z",
-            "content": "The death toll from the Buffalo blizzard over Christmas weekend rose to 37 Wednesday, according to numbers from Erie County's chief executive. \r\nWhy it matters: The toll makes this the deadliest lake\u2026 [+4614 chars]"
+            "author": "Haley Yamada, Melissa Gaffney, Patricio Chile",
+            "title": "Brazilian soccer legend Pel\u00e9 dead at 82 - ABC News",
+            "description": "Pel\u00e9 won three World Cups and is often considered the greatest player ever.",
+            "url": "https://abcnews.go.com/Sports/brazilian-soccer-legend-pel-dead-82/story?id=27220479",
+            "urlToImage": "https://s.abcnews.com/images/US/pele-file-01-gty-jef-211214_1639517506623_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-12-29T23:03:45Z",
+            "content": "Brazilian soccer legend Pel\u00e9, a three-time World Cup champion who's largely considered to be one of the best players ever, has died. He was 82 years old.\r\nHis daughter, Kely, confirmed his death on s\u2026 [+5818 chars]"
         },
         {
             "source": {
@@ -60,207 +86,181 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Covid in China: US imposes Covid testing for visitors from China - BBC",
-            "description": "Several other countries have imposed restrictions on travellers from China as Covid cases surge.",
-            "url": "https://www.bbc.com/news/world-asia-china-64111492",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2886/production/_128147301_china-index-reuters.jpg",
-            "publishedAt": "2022-12-29T06:14:29Z",
-            "content": "The US has become the latest country to impose Covid testing on visitors from China, after Beijing announced it would reopen borders next week.\r\nItaly, Japan, Taiwan and India also announced mandator\u2026 [+4975 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Vic Tafur",
-            "title": "Tafur: In Derek Carr\u2019s ultimate prove-it year, Raiders QB fell short in Mark Davis\u2019 eyes - The Athletic",
-            "description": "Davis has been lukewarm on Carr for a while and, ultimately, he just didn't win enough during his nine seasons as the Raiders quarterback.",
-            "url": "https://theathletic.com/4041696/2022/12/28/derek-carr-benched-raiders-mark-davis/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/09/18233212/GettyImages-1425041288-scaled-e1672272345209-1024x683.jpg",
-            "publishedAt": "2022-12-29T06:03:10Z",
-            "content": "You kind of knew this was how it was going to end for Derek Carr and the Raiders.\r\nBack when the quarterback got booed by the home fans in the Raiders last game in Oakland in 2019 \r\nBack when the Rai\u2026 [+7409 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Lisa Rozner",
-            "title": "Congressman-elect George Santos faces federal investigation after admitting to lying on resume - CBS New York",
-            "description": "CBS News has confirmed that federal prosecutors are examining the Long Island Republican's finances.",
-            "url": "https://www.cbsnews.com/newyork/news/george-santos-federal-investigation/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/12/27/88d197f8-9498-48b1-9b2d-fc3d13d06ff4/thumbnail/1200x630g2/f63b3111330a8a999ae49cbf7668b67a/gettyimages-1245759702.jpg",
-            "publishedAt": "2022-12-29T04:42:00Z",
-            "content": "SYOSSET, N.Y. -- Federal and county prosecutors are looking into Congressman-elect George Santos after the Long Island Republican lied on his resume.\r\nCBS News has confirmed that federal prosecutors \u2026 [+3050 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OregonLive"
-            },
-            "author": "James Crepea | The Oregonian/OregonLive",
-            "title": "Bo Nix, Oregon Ducks rally past North Carolina in Holiday Bowl: Game at a glance - OregonLive",
-            "description": "Nix threw for 56 of his 205 yards and the game-winning six-yard touchdown to Chase Cota with 19 seconds left in a 28-27 win for the No. 15 Ducks over the Tar Heels Wednesday night at Petco Park.",
-            "url": "https://www.oregonlive.com/ducks/2022/12/bo-nix-oregon-ducks-rally-past-north-carolina-in-holiday-bowl-game-at-a-glance.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/l4xy9_SSZwlf60X-BWaBpVI3T64=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P7IRFVS3FNDBZKRO32QJCWC5FU.jpg",
-            "publishedAt": "2022-12-29T04:40:00Z",
-            "content": "Bo Nix rallied Oregon to a dramatic comeback win over North Carolina in the Holiday Bowl.\r\nNix threw for 56 of his 205 yards on the Ducks final drive and tossed the game-winning six-yard touchdown to\u2026 [+4512 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Adam Bankhurst",
-            "title": "Avatar: The Way of Water Crosses $1 Billion at the Global Box Office In Just 14 Days - IGN",
-            "description": "Avatar: The Way of Water has officially crossed $1 billion at the global box office in just 14 days, and it is the fastest film in 2022 to reach that milestone.",
-            "url": "https://www.ign.com/articles/avatar-the-way-of-water-crosses-1-billion-at-the-global-box-office-in-just-14-days",
-            "urlToImage": "https://assets-prd.ignimgs.com/2022/12/29/avatarjpg-53161d-1666752383085-1671397680567-1672285142650.jpg?width=1280",
-            "publishedAt": "2022-12-29T03:45:29Z",
-            "content": "Avatar: The Way of Water has officially crossed $1 billion at the global box office in just 14 days, and it is the fastest film in 2022 to reach that milestone.\r\nAs reported by Variety, Avatar: The W\u2026 [+1931 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "Ashley Strickland, CNN",
-            "title": "NASA images showcase eerie beauty of winter on Mars - KSL.com",
-            "description": "Mars may seem like a dry, desolate place, but the red planet transforms into an otherworldly wonderland in winter, according to a new video shared by NASA.",
-            "url": "https://www.ksl.com/article/50547291/nasa-images-showcase-eerie-beauty-of-winter-on-mars",
-            "urlToImage": "https://img.ksl.com/slc/2908/290849/29084936.jpg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2022-12-29T03:11:58Z",
-            "content": "Estimated read time: 4-5 minutes\r\nATLANTA Mars may seem like a dry, desolate place, but the red planet transforms into an otherworldly wonderland in winter, according to a new video shared by NASA.\r\n\u2026 [+4010 chars]"
+            "title": "Vivienne Westwood: Pioneering fashion designer dies aged 81 - BBC",
+            "description": "The pioneer who brought punk-inspired creations to the mainstream has died aged 81.",
+            "url": "https://www.bbc.com/news/uk-64122181",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4033/production/_128153461_1785ac6d0ca52795c035519121ca67fc6992ea600_103_3000_16881000x563.jpg",
+            "publishedAt": "2022-12-29T22:13:47Z",
+            "content": "British fashion designer Dame Vivienne Westwood has died aged 81.\r\nIn a statement on Twitter, her fashion house said she died \"peacefully and surrounded\" by her family in Clapham, south London. \r\nWes\u2026 [+2815 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Reuters",
-            "title": "18 children dead in Uzbekistan after consuming India-made syrup, ministry says - CNN",
-            "description": "At least 18 children have died in Uzbekistan after consuming a medicinal syrup manufactured by Indian drugmaker Marion Biotech, according to the Uzbek Health Ministry.",
-            "url": "https://www.cnn.com/2022/12/28/asia/uzbekistan-children-deaths-indian-made-cough-syrup-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202113830-cough-syrup-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-29T02:52:00Z",
-            "content": "At least 18 children have died in Uzbekistan after consuming a medicinal syrup manufactured by Indian drugmaker Marion Biotech, according to the Uzbek Health Ministry.\r\nThe ministry said 18 out of 21\u2026 [+1878 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Patrick Wintour",
-            "title": "UN suspends some Afghanistan programs after ban on female aid workers - The Guardian",
-            "description": "Many humanitarian activities \u2018paused\u2019 as Taliban decision to bar women NGO workers prevents vital services across the country",
-            "url": "https://www.theguardian.com/world/2022/dec/29/un-suspends-some-afghanistan-programs-taliban-female-aid-workers-ban",
-            "urlToImage": "https://i.guim.co.uk/img/media/622af1271e0d5c771935d014be95a8674fdc9a80/0_171_4219_2532/master/4219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37bbe3b02a7061237a367660ff1fad7d",
-            "publishedAt": "2022-12-29T02:44:00Z",
-            "content": "The United Nations said that some time-critical programs in Afghanistan have temporarily stopped and warned many other activities will also likely need to be paused because of a ban by the Taliban-le\u2026 [+4562 chars]"
+            "author": "Sharif Paget, Caroll Alvarado, Jeanne Bonner",
+            "title": "'He was an angel in our community.' These are the stories of the victims of the Buffalo blizzard - CNN",
+            "description": "Most of the victims in Erie County, New York, were found dead either outside or in their homes, while others died in their cars, as the result of delayed emergency medical service, and while removing snow or from cardiac arrest, officials said.",
+            "url": "https://www.cnn.com/2022/12/29/us/buffalo-blizzard-victims-stories/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221229145206-01-buffalo-snow-stories.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-29T21:59:00Z",
+            "content": "Abdul Sharifu, 26, left his home in Buffalo Saturday afternoon in blizzard conditions to get milk and other supplies. He never made it back. \r\nSharifu is among at least 39 fatalities in Erie County, \u2026 [+8392 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Lee Ying Shan",
-            "title": "Asia-Pacific markets fall, taking lead from Wall Street's losses - CNBC",
-            "description": "Asia-Pacific markets fall, taking the lead from Wall Street's losses overnight as investors looked to the year ahead.",
-            "url": "https://www.cnbc.com/2022/12/29/asia-pacific-markets-wall-street-industrial-output-hong-kong-eases-restrictions.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107172001-1672269752246-gettyimages-1408665908-vcg111391944784.jpeg?v=1672271654&w=1920&h=1080",
-            "publishedAt": "2022-12-29T02:09:00Z",
-            "content": "An reopening in the world's second-largest economy could spell a buying opportunity for investors as China unwinds much of its Covid restrictions.\r\nInvestors have taken recent developments as a signa\u2026 [+728 chars]"
+            "author": "Spencer Kimball",
+            "title": "U.S. and global health officials are worried about lack of transparency from China on Covid outbreak - CNBC",
+            "description": "The U.S. in particular is worried that a new Covid variant could emerge in China as the virus spreads widely and rapidly.",
+            "url": "https://www.cnbc.com/2022/12/29/us-global-health-officials-worry-about-china-transparency-on-covid.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107172303-1672338839011-gettyimages-1245865649-Inhaled_COVID-19_Vaccination_In_Bijie.jpeg?v=1672350871&w=1920&h=1080",
+            "publishedAt": "2022-12-29T21:54:31Z",
+            "content": "U.S. and global health leaders say Beijing is not sharing enough information about the spread of Covid-19 in China, leaving the international community in the dark about the scale and severity of the\u2026 [+4655 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "What to look for in Trump\u2019s tax returns - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ZpbmFuY2UvMzc5MjExNy13aGF0LXRvLWxvb2stZm9yLWluLXRydW1wcy10YXgtcmV0dXJucy_SAVZodHRwczovL3RoZWhpbGwuY29tL3BvbGljeS9maW5hbmNlLzM3OTIxMTctd2hhdC10by1sb29rLWZvci1pbi10cnVtcHMtdGF4LXJldHVybnMvYW1wLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-29T21:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marianne Garvey",
+            "title": "Nick Cannon welcomes baby No. 12 - CNN",
+            "description": "Nick Cannon has expanded his family once again.",
+            "url": "https://www.cnn.com/2022/12/29/entertainment/nick-cannon-baby-12-dad-family/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221229124103-nick-cannon-nyc-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-29T21:10:00Z",
+            "content": "Nick Cannon has expanded his family once again. \r\nThe Masked Singer host and the model had daughter Halo Marie Cannon, on Dec. 14, Scott revealed on Instagram Thursday. Their daughter Cannons 12th ch\u2026 [+1189 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katherine Dillinger",
+            "title": "Diabetes rates may surge in US young people, study finds - CNN",
+            "description": "The number of people under age 20 with type 2 diabetes in the US may increase nearly 675% by 2060 if trends continue, researchers say, with an increase of up to 65% in young people with type 1 diabetes.",
+            "url": "https://www.cnn.com/2022/12/29/health/diabetes-young-people/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220328094959-diabetes.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-29T21:03:00Z",
+            "content": "The number of people under age 20 with type 2 diabetes in the US may increase nearly 675% by 2060 if trends continue, researchers say, with an increase of up to 65% in young people with type 1 diabet\u2026 [+2246 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WIVB.com - News 4"
+                "name": "nj.com"
             },
-            "author": "Aidan Joly",
-            "title": "Driving ban in Buffalo to be lifted at midnight - WIVB.com - News 4",
-            "description": "BUFFALO, N.Y. (WIVB) \u2014 The driving ban in the City of Buffalo will be lifted at 12:01 a.m. Thursday, Mayor Byron Brown announced Wednesday night. The ban will be replaced with a travel advisory. The driving ban had been in place since 9:30 a.m. Friday morning\u2026",
-            "url": "https://www.wivb.com/news/local-news/buffalo/driving-ban-in-buffalo-to-be-lifted-at-midnight/",
-            "urlToImage": "https://www.wivb.com/wp-content/uploads/sites/97/2022/12/6411a79f6085476199019e0aa71d6540-1-1.jpg?w=1280",
-            "publishedAt": "2022-12-29T01:35:13Z",
-            "content": "BUFFALO, N.Y. (WIVB) The driving ban in the City of Buffalo will be lifted at 12:01 a.m. Thursday, Mayor Byron Brown announced Wednesday night.\r\nThe ban will be replaced with a travel advisory.\r\nThe \u2026 [+2065 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Simrin Singh",
-            "title": "Every planet in the solar system to be visible in rare \"planet parade\" Wednesday - CBS News",
-            "description": "The astronomical phenomenon will give skywatchers a good view of Mercury, Venus, Mars, Jupiter and Saturn with the naked eye.",
-            "url": "https://www.cbsnews.com/news/every-planet-solar-system-visible-rare-planet-parade/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/28/db227569-ae8a-4bee-9010-fc2fc5fc1ce5/thumbnail/1200x630/1b5a8224ad91e0da24859c1ce41c88d9/gettyimages-460712793.jpg",
-            "publishedAt": "2022-12-29T01:00:00Z",
-            "content": "The planets of the solar system will be lined up in the sky Wednesday night in an astronomical phenomenon, visible from Earth, known as a \"planet parade.\" \u00a0\r\nThe phenomenon, which was also visible Tu\u2026 [+1945 chars]"
+            "author": "Spencer Kent | NJ Advance Media for NJ.com",
+            "title": "N.J. investigating cluster of Legionnaires\u2019 disease cases in 2 counties - NJ.com",
+            "description": "At least seven people have contracted Legionnaires\u2019 disease in two New Jersey counties.",
+            "url": "https://www.nj.com/healthfit/2022/12/nj-investigating-cluster-of-legionnaires-disease-cases-in-2-counties.html",
+            "urlToImage": "https://www.nj.com/resizer/ePPfKoKK2061JzJa_egpP4WS0Jw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LFM7DB5PLFBNTFE4XNZ346I4GI.jpg",
+            "publishedAt": "2022-12-29T20:51:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Ryan Young",
-            "title": "Dominican officials sentence 10 to prison for trying to kill Hall of Famer David Ortiz - Yahoo Sports",
-            "description": "David Ortiz was ambushed at a bar and shot at close range in the Dominican Republic in 2019.",
-            "url": "https://sports.yahoo.com/dominican-officials-sentence-10-to-prison-for-trying-to-kill-hall-of-famer-david-ortiz-000131524.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_bDQ.X7QOfOu4K7LVhfeOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/f6c95b00-8709-11ed-957f-236deac73426",
-            "publishedAt": "2022-12-29T00:01:00Z",
-            "content": "Nearly a dozen people were convicted this week for attempting to kill Boston Red Sox legend and MLB Hall of Famer David Ortiz in 2019.\r\nA Dominican court convicted 10 people in the murder attempt on \u2026 [+1503 chars]"
+            "author": "Dietrich Knauth",
+            "title": "FTX customers ask bankruptcy court to keep their names secret - Yahoo Finance",
+            "description": "A group of FTX customers from outside the United States have asked a U.S. bankruptcy judge to keep their names secret during the cryptocurrency exchange's...",
+            "url": "https://finance.yahoo.com/news/ftx-customers-ask-bankruptcy-court-204640243.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/2c5229d5499ca2f27c21e472b261474c",
+            "publishedAt": "2022-12-29T20:46:40Z",
+            "content": "By Dietrich Knauth\r\n(Reuters) - A group of FTX customers from outside the United States have asked a U.S. bankruptcy judge to keep their names secret during the cryptocurrency exchange's bankruptcy c\u2026 [+1824 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Deadline"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Bruce Haring",
-            "title": "Bill Cosby Plans Tour: \u201cSo Much Fun To Be Had In This Storytelling That I Do\u201d - Deadline",
-            "description": "Controversial comedian Bill Cosby is hoping to put his legal troubles aside and get back on the road next year, he revealed today in a radio interview. \u201cWGH Talk\u201d host Scott Spears asked Cosb\u2026",
-            "url": "https://deadline.com/2022/12/bill-cosby-plans-live-comedy-tour-in-2023-1235208071/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/12/GettyImages-1040552476.jpg?w=1024",
-            "publishedAt": "2022-12-28T23:40:00Z",
-            "content": "Controversial comedian Bill Cosby is hoping to put his legal troubles aside and get back on the road next year, he revealed today in a radio interview. \r\n\u201cWGH Talk\u201d host Scott Spears asked Cosby if h\u2026 [+1247 chars]"
+            "author": "Jessica Chasmar",
+            "title": "Southwest meltdown: Buttigieg said in September airline issues would 'get better' by holidays - Fox News",
+            "description": "Secretary of Transportation Pete Buttigieg is facing widespread criticism after Southwest Airlines canceled thousands of flights over the holidays months after he said that air travel snafus would \"get better.\"",
+            "url": "https://www.foxnews.com/politics/southwest-meltdown-buttigieg-said-september-airline-issues-better-by-holidays",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/GettyImages-1245214935.jpg",
+            "publishedAt": "2022-12-29T20:08:03Z",
+            "content": "Transportation Secretary Pete Buttigieg is being ripped for his response to the airline meltdown that left thousands of people stranded on Christmas after he assured Americans just months ago that on\u2026 [+5561 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Detroit News"
+                "name": "Vox"
+            },
+            "author": "Ian Millhiser",
+            "title": "The Supreme Court is playing partisan games with its \u201cshadow docket\u201d in Arizona v. Mayorkas - Vox.com",
+            "description": "Arizona v. Mayorkas, the Court\u2019s new Title 42 decision, appears to be the latest act of gamesmanship by a Republican Supreme Court.",
+            "url": "https://www.vox.com/policy-and-politics/2022/12/29/23530842/supreme-court-arizona-mayorkas-title-42-mexican-border-immigration",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/OB4PPGwA2i9hjKlpmjTB20FH_Xw=/0x294:4000x2388/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24323575/1094199896.jpg",
+            "publishedAt": "2022-12-29T20:05:00Z",
+            "content": "On Tuesday, the Supreme Court handed down a one-page, 5-4 decision extending the life of a Trump-era border policy known as Title 42, which expels numerous immigrants seeking to enter the United Stat\u2026 [+15405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Brent Lang",
+            "title": "Box Office 2022: What Worked, What Flopped and What to Make of a Rollercoaster Year at the Movies - Variety",
+            "description": "When \u201cEverything Everywhere All At Once\u201d premiered last spring, Alamo Drafthouse offered special screenings where attendees were gifted with packets of googly eyes. The peepers were a r\u2026",
+            "url": "https://variety.com/2022/film/box-office/box-office-2022-what-worked-what-flopped-takeaways-1235475687/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/12/Collage-Maker-29-Dec-2022-08.01-AM-e1672329749560.jpg?w=995&h=557&crop=1",
+            "publishedAt": "2022-12-29T19:35:00Z",
+            "content": "When \u201cEverything Everywhere All At Once\u201d premiered last spring, Alamo Drafthouse offered special screenings where attendees were gifted with packets of googly eyes. The peepers were a reference to a \u2026 [+9288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Jake Ciely",
+            "title": "Fantasy Football Rankings Week 17: Sleepers, starts, sits | Brock Purdy, Tyler Allgeier and more - The Athletic",
+            "description": "Jake Ciely points out the solid sleeper plays, and those with matchups to beware, as he helps you get set for your fantasy championship.",
+            "url": "https://theathletic.com/4038778/2022/12/29/fantasy-football-rankings-week-17-sleepers-starts-sits-brock-purdy-tyler-allgeier/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/12/27175129/GettyImages-1452564641-1024x704.jpg",
+            "publishedAt": "2022-12-29T19:20:55Z",
+            "content": "Its championship week! Congrats if youre here, or even if youre playing for third place, the consolation bracket or just to avoid last place. I appreciate all of you, every year unless youre playing \u2026 [+8840 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Second Whitmer kidnap plot ringleader sentenced to nearly 20 years in prison - Detroit News",
-            "description": null,
-            "url": "https://www.detroitnews.com/restricted/?return=https:%2F%2Fwww.detroitnews.com%2Fstory%2Fnews%2Flocal%2Fmichigan%2F2022%2F12%2F28%2Fbarry-croft-second-ringleader-in-whitmer-kidnapping-plot-sentenced-to-19-5-years%2F69759600007%2F",
-            "urlToImage": null,
-            "publishedAt": "2022-12-28T23:26:15Z",
-            "content": "Skip to main content\r\nThis content is only available to subscribers.\r\nGet unlimited digital access.\r\nYour subscription supports:\r\nUnlimited access to subscriber only articles on desktop, tablet and m\u2026 [+872 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/igor-bonifacic",
-            "title": "Researchers develop blood test that can reliably detect Alzheimer\u2019s disease - Engadget",
-            "description": "This week, a multinational team of researchers announced they developed a new blood test that can reliably detect proteins specific to  Alzheimer\u2019s disease..",
-            "url": "https://www.engadget.com/researchers-develop-blood-test-detects-alzheimers-disease-224320271.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/00554fd0-3738-11ec-bd7a-e92b6a123340",
-            "publishedAt": "2022-12-28T22:44:40Z",
-            "content": "When doctors need to confirm an Alzheimer's diagnosis, they often turn to a combination of brain imaging and cell analysis. Both have their downsides. The latter involves a lumbar puncture, an invasi\u2026 [+1757 chars]"
+            "title": "Russia fires barrage of missiles, Ukraine condemns 'senseless barbarism' - Reuters",
+            "description": "Russia fired scores of missiles into Ukraine early on Thursday, targeting Kyiv and other cities including Lviv in the west and Odesa in the southwest, sending people rushing to shelters and knocking out power in one of Moscow's largest aerial assaults.",
+            "url": "https://www.reuters.com/world/europe/russia-steps-up-kherson-shelling-dismisses-zelenskiys-peace-plan-2022-12-29/",
+            "urlToImage": "https://www.reuters.com/resizer/IAzHlpN7yWpf1Ookk-E6UKbz8NE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DZBKZQHFVNOA7OA5QS2ETXRZQQ.jpg",
+            "publishedAt": "2022-12-29T18:55:00Z",
+            "content": "KYIV, Dec 29 (Reuters) - Russia fired scores of missiles into Ukraine early on Thursday, targeting Kyiv and other cities including Lviv in the west and Odesa in the southwest, sending people rushing \u2026 [+5348 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "247Sports"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Zach Blostein",
-            "title": "Noles247 Staff Predictions: FSU vs. Oklahoma in the Cheez-It Bowl - 247Sports",
-            "description": "Predicting FSU vs. OU in Cheez-It Bowl",
-            "url": "https://247sports.com/college/florida-state/LongFormArticle/FSU-Football-Game-Prediction-Oklahoma-Cheez-It-Bowl-Florida-State-Seminoles-News-201497870/",
-            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/423/468/11468423.jpg?fit=bounds&crop=1200:630,offset-y0.50&width=1200&height=630",
-            "publishedAt": "2022-12-28T22:35:32Z",
-            "content": "Zach has, once again, managed to bully me into rushing our predictions. And to you, the reader, I apologize that young Zachary has forced such a hasty product.\r\nBut alas, youth will be served.\r\nPredi\u2026 [+636 chars]"
+            "author": "Trevor Hunnicutt",
+            "title": "White House lawyer snubs Republican request for documents for now - Yahoo News",
+            "description": "The White House on Thursday told Republicans hoping to investigate President Joe Biden that their requests for information for probes, including on the...",
+            "url": "https://news.yahoo.com/white-house-lawyer-snubs-republican-182427029.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/9a6a4d5bcd9dae12d3178363794d54b0",
+            "publishedAt": "2022-12-29T18:24:27Z",
+            "content": "By Trevor Hunnicutt\r\nWASHINGTON (Reuters) - The White House on Thursday told Republicans hoping to investigate President Joe Biden that their requests for information for probes, including on the Afg\u2026 [+2349 chars]"
         }
     ]
 }
