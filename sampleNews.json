@@ -1,45 +1,240 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Lofgren: Ginni Thomas Transcript Shows Justice Thomas Should Have Recused Himself - MSNBC",
-            "description": "\u201cIt did strike me as wrong behavior. I think based on this that Justice Thomas would be well advised to recuse himself,\u201d says Rep. Zoe Lofgren discussing the...",
-            "url": "https://www.youtube.com/watch?v=Semx1_Z_jss",
-            "urlToImage": "https://i.ytimg.com/vi/Semx1_Z_jss/maxresdefault.jpg",
-            "publishedAt": "2022-12-31T00:30:08Z",
+            "title": "Criminal justice postgrad charged with murdering 4 Idaho university students - Reuters",
+            "description": "A grad student seeking a criminal justice degree from Washington State University has been arrested and charged with first-degree murder in the stabbing deaths of four University of Idaho students more than six weeks ago, officials said on Friday.",
+            "url": "https://www.reuters.com/world/us/person-taken-into-custody-connection-with-homicides-four-idaho-students-nbc-news-2022-12-30/",
+            "urlToImage": "https://www.reuters.com/resizer/rOGHaVZsgfuEAGknKC7e_rkPImU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B3VWXARQBFIENLM2Y5QBCFZTDU.jpg",
+            "publishedAt": "2022-12-31T08:51:00Z",
+            "content": "Dec 30 (Reuters) - A grad student seeking a criminal justice degree from Washington State University has been arrested and charged with first-degree murder in the stabbing deaths of four University o\u2026 [+4580 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Eric Garcia",
+            "title": "Foreign accounts, Melania\u2019s modelling, no charity in 2020: What we know about Trump\u2019s tax returns - The Independent",
+            "description": "Melania\u2019s modeling, Trump\u2019s stingy charity habits and where he claimed taxable income or losses",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-tax-returns-revelations-2017-b2253681.html",
+            "urlToImage": "https://static.independent.co.uk/2022/12/30/17/GettyImages-1441811414.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-12-31T07:28:53Z",
+            "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nOn Friday, the House Ways &amp; Means Committee released\u2026 [+3829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Covid: England to require negative test for arrivals from China - BBC",
+            "description": "The UK says it is acting over concerns about infection data provided by the Chinese government.",
+            "url": "https://www.bbc.com/news/uk-64130655",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1765C/production/_128163859_003cf26574ec7458701c5f9b7f1ad1c3332bc0410_367_5904_33211000x563.jpg",
+            "publishedAt": "2022-12-31T07:16:32Z",
+            "content": "Passengers arriving in England from China will have to provide a negative Covid test before they board a flight, ministers have confirmed.\r\nIt comes as several nations announced they would be screeni\u2026 [+3943 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "NC State broadcaster Gary Hahn suspended indefinitely for \u2018illegal aliens\u2019 reference - Raleigh News & Observer",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiOWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vc3BvcnRzL2FydGljbGUyNzA2MDQ5OTIuaHRtbNIBOWh0dHBzOi8vYW1wLm5ld3NvYnNlcnZlci5jb20vc3BvcnRzL2FydGljbGUyNzA2MDQ5OTIuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-31T06:32:16Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sam Cooper",
+            "title": "Clemson's offense sputters yet again in 31-14 Orange Bowl loss to Tennessee - Yahoo Sports",
+            "description": "Clemson\u2019s long-awaited quarterback change did not make much of a difference in the Orange Bowl.",
+            "url": "https://sports.yahoo.com/clemsons-offense-sputters-yet-again-in-31-14-orange-bowl-loss-to-tennessee-045708651.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WfQAKwHlGhNfvwguvfnWxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/42dff8b0-88c6-11ed-bf7f-c4376cdfb292",
+            "publishedAt": "2022-12-31T04:57:00Z",
+            "content": "Clemsons long-awaited quarterback change did not make much of a difference in the Orange Bowl.\r\nWith DJ Uiagalelei off to Oregon State and prized freshman Cade Klubnik making his first career start, \u2026 [+4251 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Natasha Turak",
-            "title": "Cristiano Ronaldo signs with Saudi Arabian soccer club Al Nassr for reported record-breaking salary - CNBC",
-            "description": "The news of Ronaldo's signing Friday follows months of rumors and speculation as to whether he would join a Saudi team offering a lucrative contract.",
-            "url": "https://www.cnbc.com/2022/12/30/cristiano-ronaldo-signs-with-saudi-arabian-club-al-nassr-for-reported-record-breaking-salary.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107172810-1672439903182-gettyimages-1444990707-portugalvghana-qatarwc2022br275.jpeg?v=1672442489&w=1920&h=1080",
-            "publishedAt": "2022-12-30T23:21:29Z",
-            "content": "Soccer superstar Cristiano Ronaldo is joining Saudi Arabian club team Al Nassr in a deal that will see him play until June 2025.\r\n\"History in the making,\" Al Nassr FC wrote in a Twitter post on its o\u2026 [+3321 chars]"
+            "author": "Reuters",
+            "title": "China manufacturing contracts sharply as Covid infections soar - CNBC",
+            "description": "China's factory activity shrank for the third straight month in December \u2014 and at the sharpest pace in nearly three years.",
+            "url": "https://www.cnbc.com/2022/12/31/china-manufacturing-contracts-sharply-as-covid-infections-soar.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107172837-1672461370361-gettyimages-1453395242-vcg111416083263.jpeg?v=1672461526&w=1920&h=1080",
+            "publishedAt": "2022-12-31T04:38:00Z",
+            "content": "A textile factory on December 30, 2022 in Jiangxi Province. Chinese manufacturing activity contracted at its sharpest pace in nearly 3 years in December.\r\nChina's factory activity shrank for the thir\u2026 [+3620 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Dianne Gallagher",
-            "title": "North Carolina officials will not charge Mark Meadows with voter fraud - CNN",
-            "description": "The North Carolina Department of Justice announced Friday that there was \"not sufficient evidence\" to bring charges against former White House chief of staff Mark Meadows and his wife, Debra Meadows, over allegations of voter fraud in the 2020 election.",
-            "url": "https://www.cnn.com/2022/12/30/politics/mark-meadows-north-carolina-voter-fraud/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221230163008-mark-meadows-1122.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-30T23:17:00Z",
-            "content": "The North Carolina Department of Justice announced Friday that there was not sufficient evidence to bring charges against former White House chief of staff Mark Meadows and his wife, Debra Meadows, o\u2026 [+4176 chars]"
+            "author": "Todd Leopold, Emma Tucker, Jamiel Lynch",
+            "title": "Barbara Walters, legendary news anchor, has died at 93 - CNN",
+            "description": "Barbara Walters, the pioneering TV journalist whose interviewing skills made her one of the most prominent figures in broadcasting, has died, her spokesperson confirmed to CNN. She was 93.",
+            "url": "https://www.cnn.com/2022/12/30/entertainment/barbara-walters-death/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/190821151537-10-barbara-walters-lead-image.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-31T04:32:00Z",
+            "content": "Barbara Walters, the pioneering TV journalist whose interviewing skills made her one of the most prominent figures in broadcasting, has died, her spokesperson confirmed to CNN. She was 93. \r\nBarbara \u2026 [+4653 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Maize n Brew"
+            },
+            "author": "Von Lozon",
+            "title": "Michigan reveals uniform combo for Fiesta Bowl against TCU - Maize n Brew",
+            "description": "The Wolverines are rocking a classic look.",
+            "url": "https://www.maizenbrew.com/football/2022/12/30/23533185/michigan-wolverines-uniform-combo-fiesta-bowl-tcu-college-football-playoff-2022-season",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZB7gtTFHOTx4asxIpCv3z9KBIxw=/0x0:4000x2094/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24327482/1425070941.jpg",
+            "publishedAt": "2022-12-31T03:42:39Z",
+            "content": "\u00a9 2022 Vox Media, LLC. All Rights Reserved\r\n* 21+ (19+ CA-ONT) (18+ NH/WY). AZ, CO, CT, IL, IN, IA, KS, LA, (select parishes), MD, MI, NH, NJ, NY, OR, PA, TN, VA, WV, WY, CA-ONT only.Eligibility rest\u2026 [+124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US Supreme Court justice's wife disavows her texts - BBC",
+            "description": "Virginia Thomas' remarks are among a mountain of transcripts released by the US Capitol riot inquiry.",
+            "url": "https://www.bbc.com/news/world-us-canada-64131149",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5876/production/_128164622_thomas.jpg",
+            "publishedAt": "2022-12-31T03:37:03Z",
+            "content": "A Supreme Court justice's wife expressed regret for her texts fanning conspiracies about the 2020 presidential election - in one among dozens of witness transcripts rushed out in the final days of ac\u2026 [+4155 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Abortion in Arizona: 15-week law goes into effect; doctors can\u2019t be charged over 1864 ban, appeals court rules - Fox News",
+            "description": "The Arizona Court of Appeals ruled on Friday the state's law outlawing abortion after 15 weeks can go into effect.",
+            "url": "https://www.foxnews.com/us/abortion-arizona-week-law-goes-into-effect-doctors-cant-charged-ban-appeals-court-rules",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/arizona-abortion.jpg",
+            "publishedAt": "2022-12-31T03:05:27Z",
+            "content": "A 15-week ban on abortions in Arizona can go into effect and doctors cant be charged under a more than 100-year-old pre-statehood law that bans nearly all abortions, the Arizona Court of Appeals rule\u2026 [+2456 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Erik Beaston",
+            "title": "WWE SmackDown Results: Winners, Grades, Reaction and Highlights from December 30 - Bleacher Report",
+            "description": "John Cena kept a 20-year streak intact Friday night, returning to SmackDown for a year-closing main event in which he partnered with Kevin Owens to battle Sami...",
+            "url": "https://bleacherreport.com/articles/10060151-wwe-smackdown-results-winners-grades-reaction-and-highlights-from-december-30",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1672406599/iz4x9kfky1luf1i7yhdz.jpg",
+            "publishedAt": "2022-12-31T03:02:19Z",
+            "content": "Credit: WWE.com\r\nDriven by fury following multiple attacks that left her with an injured arm, Raquel Rodriguez wasted little time taking the fight to SmackDown Women's Champion Ronda Rousey in their \u2026 [+2675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Judge puts California fast food worker law on hold - KCRA News",
+            "description": "A Sacramento Superior Court judge Friday temporarily blocked California's Department of Industrial Relations from implementing a law that would allow the sta...",
+            "url": "https://www.youtube.com/watch?v=5UIAON1twRo",
+            "urlToImage": "https://i.ytimg.com/vi/5UIAON1twRo/maxresdefault.jpg",
+            "publishedAt": "2022-12-31T02:32:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Russia-Ukraine war at a glance: what we know on day 311 of the invasion - The Guardian",
+            "description": "Ukrainian troops are either holding their positions or making small advances in Donbas, says Zelenskiy; Putin invites Xi to Moscow",
+            "url": "https://www.theguardian.com/world/2022/dec/31/russia-ukraine-war-at-a-glance-what-we-know-on-day-311-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/f15001c5afa2cdf782096beafee209efaf1b48e4/0_17_2244_1346/master/2244.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3abd19b3d492fd98dd4749d2b5fb3520",
+            "publishedAt": "2022-12-31T02:01:00Z",
+            "content": "<li>Ukrainian forces are holding their positions against Russian troops in the eastern Donbas region and making small advances in some areas, Volodymyr Zelenskiy has said. The Ukrainian president add\u2026 [+4401 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gawon Bae, Jonny Hallam, Tara John, Emiko Jozuka",
+            "title": "North Korea fires at least three short-range ballistic missiles, South Korea says - CNN",
+            "description": "North Korea fired at least three unidentified ballistic missile into the waters off the east coast of the Korean Peninsula on Saturday, according to South Korea's Joint Chiefs of Staff, the latest in an unprecedented year of weapons testing.",
+            "url": "https://www.cnn.com/2022/12/30/asia/north-korea-ballistic-missile-intl-hkr/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221028003811-01-north-korea-missile-kim-jong-un-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-31T01:44:00Z",
+            "content": "North Korea fired at least three short-range ballistic missiles from a site south of Pyongyang on Saturday, according to South Koreas Joint Chiefs of Staff, the latest in an unprecedented year of wea\u2026 [+1198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thenationaldesk.com"
+            },
+            "author": "DARLENE SUPERVILLE and COLLEEN LONG | Associated Press",
+            "title": "Biden pardons 6 convicted of murder, drug, alcohol crimes - mycbs4.com",
+            "description": "President Joe Biden has pardoned six people who have served out sentences after convictions on a murder charge and drug- and alcohol-related crimes.",
+            "url": "https://thenationaldesk.com/news/americas-news-now/biden-pardons-convicted-murder-drug-alcohol-crimes-sentences-beverly-ann-ibn-tamas-charles-byrnes-jackson-john-dix-nock-gary-parks-davis-edward-lincoln-de-coito-vincente-ray-flores-president-joe-marijuana-st-croix-us-virgin-islands",
+            "urlToImage": "https://mycbs4.com/resources/media/fc657813-b2a5-405b-a2fb-94831a96c68e-large16x9_AP22361860059576.jpg?1672446557018",
+            "publishedAt": "2022-12-31T00:55:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ashley Hume",
+            "title": "Steven Tyler's accuser Julia Holcomb speaks out on allegations of childhood sexual assault - Fox News",
+            "description": "Julia Holcomb, who has accused Aerosmith's Steven Tyler of sexually assaulting her when she was a minor in the 1970s, has spoken out in a statement obtained by Fox News Digital.",
+            "url": "https://www.foxnews.com/entertainment/steven-tylers-accuser-julia-holcomb-speaks-out-allegations-childhood-sexual-assault",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/GettyImages-1389405087.jpg",
+            "publishedAt": "2022-12-31T00:19:18Z",
+            "content": "Steven Tyler's accuser Julia Holcomb, who now goes by Julia Misley, addressed her allegations that the Aerosmith frontman sexually assaulted her when she was 16 years old in 1973.\r\nThe 65-year-old fi\u2026 [+10124 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Meredith Deliso, Will Gretsky, Dragana Jovanovic",
+            "title": "Andrew Tate to be detained in Romania for 30 days on human trafficking, rape charges - ABC News",
+            "description": "His attorney has already appealed the Bucharest court's decision.",
+            "url": "https://abcnews.go.com/International/andrew-tate-detained-romania-30-days-human-trafficking/story?id=95992389",
+            "urlToImage": "https://s.abcnews.com/images/International/Tate-1-ap-er-221230_1672438193742_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-12-30T23:32:01Z",
+            "content": "Controversial internet personality Andrew Tate will be detained in Romania for 30 days on charges of human trafficking and rape, officials said.\r\nTate, his brother Tristan Tate and two Romanian women\u2026 [+1743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "247Sports"
+            },
+            "author": "Kipp Adams",
+            "title": "Goldberg narrates Georgia football College Football Playoff hype trailer - 247Sports",
+            "description": ".",
+            "url": "https://247sports.com/college/georgia/Article/Goldberg-narrates-Georgia-football-College-Football-Playoff-hype-trailer-201691857/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/194/542/11542194.jpg?fit=bounds&crop=1200:630,offset-y0.50&width=1200&height=630",
+            "publishedAt": "2022-12-30T23:04:03Z",
+            "content": "ATLANTA\u00a0-- It's the eve of the\u00a0College Football Playoff semifinal at the Chick-fil-A Peach Bowl and the Dawgs released their 12th game trailer of the season. As the No. 1 Bulldogs ready themselves to\u2026 [+2595 chars]"
         },
         {
             "source": {
@@ -56,211 +251,16 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Tierney Sneed, Katelyn Polantz, Kate Sullivan",
-            "title": "Trump wanted to trademark 'Rigged Election!' and other key findings from the latest release from the Jan. 6 panel - CNN",
-            "description": "The House January 6 committee on Friday released another wave of witness interview transcripts.",
-            "url": "https://www.cnn.com/2022/12/30/politics/january-6-transcript-release-latest/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221221125800-us-congress-tech-crackdown.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-30T22:52:00Z",
-            "content": "The House January 6 committee on Friday released another wave of witness interview transcripts.\r\nThe new release is part of a steady stream of transcript drops that the House select committee has put\u2026 [+11424 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "WPVI-TV"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Idaho murders live updates: Bryan Kohberger arrested in Pennsylvania's Poconos in connection to college student murders - WPVI-TV",
-            "description": "The prosecutor said investigators believe Bryan Kohberger broke into the students' home \"with the intent to commit murder.\"",
-            "url": "https://6abc.com/idaho-murders-arrest-pocono-mountains-pa-university-of-poconos/12630750/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/12630998_123022kohbergerIdahovictims.jpg?w=1600",
-            "publishedAt": "2022-12-30T22:12:18Z",
-            "content": "CHESTNUTHILL TWP., Pa. (WPVI) -- A 28-year-old man was arrested Friday in Pennsylvania's Pocono Mountains region on first-degree murder charges in the killings of four University of Idaho students la\u2026 [+7344 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Duarte Mendonca, Philip Wang, Jessie Yeung",
-            "title": "Controversial internet personality Andrew Tate and his brother detained for a month in Romania - CNN",
-            "description": "Controversial internet personality Andrew Tate and his brother were ordered to be detained for a month on Friday as prosecutors pursued claims of human trafficking and rape.",
-            "url": "https://www.cnn.com/2022/12/30/europe/andrew-tate-detained-romania-human-trafficking-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221230004121-01-andrew-tate-arrest-122922.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-12-30T21:44:00Z",
-            "content": "Controversial internet personality Andrew Tate and his brother were ordered to be detained for a month on Friday as prosecutors pursued claims of human trafficking and rape. \r\nAuthorities in Romania \u2026 [+3009 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Breck Dumas",
-            "title": "Bahamas Securities Commission says it seized $3.5B in FTX assets 'for safekeeping' - Fox Business",
-            "description": "The Securities Commission of the Bahamas said Thursday it seized some $3.5 billion in FTX assets \"for safekeeping\" after the crypto exchange's bankruptcy and hacks on the system.",
-            "url": "https://www.foxbusiness.com/markets/bahamian-government-seized-three-point-five-billion-ftx-funds-safekeeping",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/11/0/0/FTX-logo2-A.jpg?ve=1&tl=1",
-            "publishedAt": "2022-12-30T21:39:35Z",
-            "content": "The Securities Commission of the Bahamas said Thursday the agency seized all digital assets under the control of FTX's Bahamian subsidiary FTX Digital Markets Ltd. \u2014 to the tune of more than $3.5 bil\u2026 [+3238 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brie Stimson",
-            "title": "Ohio county reports more than 80 measles cases, majority of the country's 117 - Fox News",
-            "description": "About 70% of the measles cases reported in the United States this year are in Central Ohio in an area that hadn't had a case in 20 years.",
-            "url": "https://www.foxnews.com/health/ohio-county-reports-more-than-measles-cases-majority-countrys",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/04/Measles-Vaccine.jpg",
-            "publishedAt": "2022-12-30T21:29:43Z",
-            "content": "A measles outbreak in Central Ohio has infected 82 patients under the age of 18 with nearly 40% of the children, 32, needing to be hospitalized, according to reports.\u00a0\r\nThe outbreak in Franklin Count\u2026 [+2787 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": "Maurice Jones-Drew",
-            "title": "RB Index, Week 17: Cowboys, Packers lead NFL's top five rushing duos this season - NFL.com",
-            "description": "Maurice Jones-Drew reveals his top five rushing duos in the NFL this season. Will the Cowboys or Packers tandem earn the No. 1 spot? Plus, an updated ranking of his top 15 running backs ahead of Week 17.",
-            "url": "https://www.nfl.com/news/rb-index-week-17-cowboys-packers-lead-nfl-s-top-five-rushing-duos-this-season",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/vgcakjjdfdtljs86cgas",
-            "publishedAt": "2022-12-30T21:18:00Z",
-            "content": "The Carolina Panthers put on a rushing clinic last week, gashing the Detroit Lions for a franchise-record 320 rush yards in the win. It was also the seventh 300-yard rush game by any NFL team since 2\u2026 [+10218 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Eugene Scott, Toluse Olorunnipa",
-            "title": "Biden grants full pardons to six people who served their sentences - The Washington Post",
-            "description": "The president granted full pardons to six people, including a decorated Army veteran involved in marijuana trafficking more than 25 years ago and an 80-year-old woman convicted of killing her abusive husband nearly a half-century ago.",
-            "url": "https://www.washingtonpost.com/politics/2022/12/30/biden-pardons-military-domestic-abuse/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/767LI2AUAGJNOVFEB5IU22QKZ4.jpg&w=1440",
-            "publishedAt": "2022-12-30T21:00:00Z",
-            "content": "Comment on this story\r\nPresident Biden on Friday granted full pardons to six people, including a decorated Army veteran involved in marijuana trafficking more than 25 years ago and an 80-year-old wom\u2026 [+4773 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Medora Lee, USA TODAY",
-            "title": "California Jan. 1 fast food law halted by temporary restraining order - USA TODAY",
-            "description": "California will enact a contentious fast food law on Jan 1 despite a referendum petition. A group says that's illegal and filed a lawsuit to halt it.",
-            "url": "https://www.usatoday.com/story/money/business/2022/12/30/california-fast-food-bill-lawsuit/10970967002/",
-            "urlToImage": "https://www.gannett-cdn.com/-mm-/d8d0774057d19139d16e6ede624d76e89947662d/c=1-0-1365-767/local/-/media/2022/07/28/USATODAY/usatsports/imageForEntry1-sU7.jpg?auto=webp&format=pjpg&width=1200",
-            "publishedAt": "2022-12-30T20:25:43Z",
-            "content": "<ul><li>California passed a fast food bill last summer aimed at raising wages and working conditions.</li><li>Opponents said it would raise costs and blocked it with a petition to let voters decide.<\u2026 [+8768 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "China Covid: England to require negative test for arrivals - BBC",
-            "description": "The UK government says it is acting over concerns about data collated by the Chinese government.",
-            "url": "https://www.bbc.com/news/uk-64130655",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1765C/production/_128163859_003cf26574ec7458701c5f9b7f1ad1c3332bc0410_367_5904_33211000x563.jpg",
-            "publishedAt": "2022-12-30T20:21:42Z",
-            "content": "Passengers arriving in England from China will have to provide a negative Covid test before they board a flight, ministers have confirmed.\r\nIt comes as several nations announced they would be screeni\u2026 [+3761 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "'Thank you, King': Brazil lights up in honour of Pel\u00e9 - BBC",
-            "description": "Brazil begins its first day of mourning the late footballing legend as landmarks are lit up in tribute.",
-            "url": "https://www.bbc.com/news/world-latin-america-64125254",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/139C6/production/_128162308_pele-index-gettyimages-1245877553.jpg",
-            "publishedAt": "2022-12-30T20:04:44Z",
-            "content": "Brazil has woken up to its first day without footballing legend Pel\u00e9.\r\n\"The King\", who won three World Cups and was widely considered the greatest footballer of all time, died at the age of 82 in S\u00e3o\u2026 [+4994 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Raechal Shewfelt",
-            "title": "Courtney Love clarifies story about Brad Pitt and 'Fight Club': 'If he's mad at me, that's his problem' - Yahoo Entertainment",
-            "description": "The rocker said she felt Pitt \"would not stop pursuing Kurt\" otherwise.",
-            "url": "https://www.yahoo.com/entertainment/courtney-love-clarifies-brad-pitt-fight-club-story-200334283.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/b9f976a0-886d-11ed-bf39-128dfd67d847",
-            "publishedAt": "2022-12-30T20:03:34Z",
-            "content": "Courtney Love is looking back on Fight Club. (Photo: Dave J Hogan/Getty Images)\r\nCourtney Love didn't plan to mention Brad Pitt during that juicy interview on Marc Maron's WTF podcast this week, but \u2026 [+3286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SFGate"
-            },
-            "author": "Alex Shultz",
-            "title": "Twitter's San Francisco HQ reportedly a hub of gross smell - SFGATE",
-            "description": "Elon Musk is disrupting the tech sector by getting rid of janitors and making offices...",
-            "url": "https://www.sfgate.com/tech/article/twitter-san-francisco-offices-stink-17685635.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/30/75/36/23320457/3/rawImage.jpg",
-            "publishedAt": "2022-12-30T19:56:47Z",
-            "content": "Elon Musk has reportedly conjured a brilliant plan to disrupt the tech sector and keep his workers focused: cut janitorial services, and slowly unleash a motivational stench across the hallowed halls\u2026 [+2097 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "Katherine Dillinger, CNN",
-            "title": "Diabetes rates may surge in US young people, study finds - KSL.com",
-            "description": "The number of people under age 20 with type 2 diabetes in the U.S. may increase nearly 675% by 2060 if trends continue, researchers say, with an increase of up to 65% in young people with type 1 diabetes.",
-            "url": "https://www.ksl.com/article/50547990/diabetes-rates-may-surge-in-us-young-people-study-finds",
-            "urlToImage": "https://img.ksl.com/slc/2908/290863/29086376.jpeg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2022-12-30T19:53:41Z",
-            "content": "Estimated read time: 2-3 minutes\r\nATLANTA The number of people under age 20 with type 2 diabetes in the U.S. may increase nearly 675% by 2060 if trends continue, researchers say, with an increase of \u2026 [+2337 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Alexandra Bellusci",
-            "title": "See GMA3's Amy Robach and T.J. Holmes Seal Their Romance With a Kiss - E! NEWS",
-            "description": "After a month of rumors, GMA3\u2019s Amy Robach and T.J. Holmes confirmed their relationship with a kiss in Miami. The steamy outing comes days after T.J. filed for divorce from wife Marilee Fiebig.",
-            "url": "https://www.eonline.com/news/1359773/see-gma3s-amy-robach-and-t-j-holmes-seal-their-romance-with-a-kiss",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20221030/rs_1200x1200-221130112359-1200-Amy-Robach-TJ-Holmes.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2022-12-30T19:39:00Z",
-            "content": "And although they've\u00a0yet to speak out about their romance, they subtly hinted at the speculation during\u00a0GMA3 Dec. 3.\r\nWhen T.J. joked it had been \"a great week,\" Amy replied, \"Speak for yourself.\"\u00a0\r\n\u2026 [+543 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Chico Harlan, Rick Noack",
-            "title": "Why Benedict XVI, a German pope, is at odds with the German church - The Washington Post",
-            "description": "It's a part of Benedict XVI\u2019s legacy, as one of Catholicism\u2019s foremost conservatives, that his viewpoint has lost ground above all in his home country.",
-            "url": "https://www.washingtonpost.com/world/2022/12/30/pope-benedict-german-church/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MKN5CDUWMI6FFPEMFEOIXL23M&w=1440",
-            "publishedAt": "2022-12-30T18:58:00Z",
-            "content": "Comment on this story\r\nVATICAN CITY As Pope Emeritus Benedicts health falters, with a Mass to pray for him held Friday in Rome, the relationship between Germany and its most famous modern Catholic fi\u2026 [+6998 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Pamela McClintock",
-            "title": "\u2018Avatar: the Way of Water\u2019 Soars to $1.17B at Global Box Office - Hollywood Reporter",
-            "description": "James Cameron's big-budget sequel is making up for a less-than-expected opening earlier this month by doing huge business at the holiday box office.",
-            "url": "https://www.hollywoodreporter.com/movies/movie-news/avatar-the-way-of-water-soars-box-office-1235289158/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/2011_0010_v0420.1075_altered_v2.jpg?w=1024",
-            "publishedAt": "2022-12-30T17:49:09Z",
-            "content": "Avatar: The Way of Waterfinished Thursday with an impressive global haul of $1.17 billion.\r\nThe movie, from 20th Century and Disney, is doing huge midweek business at the year-end holiday box office.\u2026 [+1424 chars]"
+            "title": "Health news: U.S. flu hospitalizations drop for third straight week, tips for treating allergies - WFAA",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dqh-EMGUvA7o",
+            "urlToImage": null,
+            "publishedAt": "2022-12-30T22:48:08Z",
+            "content": null
         }
     ]
 }
