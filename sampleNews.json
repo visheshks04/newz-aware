@@ -1,58 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "The Moscow Times"
+                "name": "CBS Sports"
             },
-            "author": "Robbie Corey-Boulet for AFP",
-            "title": "Kyiv Rocked By Explosions Amid Russia's New Year Attacks - The Moscow Times",
-            "description": "A fresh round of explosions rocked Kyiv less than an hour into 2023, after Russia had attacked Ukraine with missiles targeting the capital and other cities ahead of New Year's Eve celebrations.\u00a0 The first blasts of the new year began roughly 30 minutes after \u2026",
-            "url": "https://www.themoscowtimes.com/2023/01/01/kyiv-rocked-by-explosions-amid-russias-new-year-attacks-a79860",
-            "urlToImage": "https://static.themoscowtimes.com/image/og/fd/79860__fd4f2f8ede5aec40ad48fb8392c2e28f.jpg",
-            "publishedAt": "2023-01-01T09:21:39Z",
-            "content": "A fresh round of explosions rocked Kyiv less than an hour into 2023, after Russia had attacked Ukraine with missiles targeting the capital and other cities ahead of New Year's Eve celebrations.\u00a0\r\nThe\u2026 [+4866 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jack Guy, Valentina Di Donato, Sugam Pokharel, Sharon Braithwaite, James Frater, Allegra Goodwin",
-            "title": "Former Pope Benedict XVI dies in Vatican monastery aged 95 - CNN",
-            "description": "Pope Francis led tributes to his predecessor on Saturday, after Pope Emeritus Benedict XVI died in a monastery in the Vatican at the age of 95.",
-            "url": "https://www.cnn.com/2022/12/31/europe/pope-benedict-xvi-death-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221228144221-01-pope-benedict-lead-image.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-01T08:53:00Z",
-            "content": "Pope Francis led tributes to his predecessor on Saturday, after Pope Emeritus Benedict XVI died in a monastery in the Vatican at the age of 95. \r\nWe are moved as we recall him as such a noble person,\u2026 [+7911 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Emily Giambalvo",
-            "title": "Georgia rallies to beat Ohio State and reach CFP championship game - The Washington Post",
-            "description": "The Buckeyes miss a long field goal attempt in the closing seconds, and the defending national champions hang on for the win and will face TCU for the title.",
-            "url": "https://www.washingtonpost.com/sports/2023/01/01/georgia-rallies-beat-ohio-state-reach-cfp-championship-game/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NO65UH6HWJXZVDRSUG6GXELTFA.jpg&w=1440",
-            "publishedAt": "2023-01-01T08:33:00Z",
-            "content": "Comment on this story\r\nATLANTA Georgia quarterback Stetson Bennett, the former walk-on in his sixth season of college football, somehow managed to add to an already impressive legend Saturday night. \u2026 [+3831 chars]"
+            "author": "Cody Benjamin",
+            "title": "Packers vs. Vikings score, takeaways: Green Bay defense stomps all over Kirk Cousins in blowout revenge game - CBS Sports",
+            "description": "The Packers are alive and well in the playoff race",
+            "url": "https://www.cbssports.com/nfl/news/packers-vs-vikings-score-takeaways-green-bay-defense-stomps-all-over-kirk-cousins-in-blowout-revenge-game/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/01/18db3172-4dcc-4856-b937-dad31f85d8aa/thumbnail/1200x675/4a952d055b2e5e61d206fbf96f2b091d/packers-vikes-g.jpg",
+            "publishedAt": "2023-01-01T23:48:02Z",
+            "content": "Jaire Alexander called the Vikings' explosive Week 1 rout of the Packers a \"fluke\" in the lead-up to this week's anticipated NFC North rematch. It turns out the Green Bay star didn't go far enough in\u2026 [+4008 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NBC New York"
+                "name": "KCRA Sacramento"
             },
-            "author": "Jonathan Dienst, Myles Miller, Tom Winter",
-            "title": "Knife Attack on Cops Near Times Square Investigated as Possible Terror Incident: Sources - NBC New York",
-            "description": "Authorities were expected to hold a late-night briefing on the attack. Here's what we know.",
-            "url": "https://www.nbcnewyork.com/news/local/nypd-officer-slashed-next-to-times-square-nye-crowds-suspect-shot-in-shoulder/4022588/",
-            "urlToImage": "https://media.nbcnewyork.com/2022/12/times-square.png?resize=1200%2C675&quality=85&strip=all",
-            "publishedAt": "2023-01-01T06:37:19Z",
-            "content": "Police working New Year's Eve detail in Times Square were wounded by a machete-wielding man who struck multiple officers in the head in what law enforcement are investigating as a possible targeted a\u2026 [+1805 chars]"
+            "author": "Daniel Macht",
+            "title": "Northern California storm updates: Flooding closes roads, Sacramento power outages - KCRA Sacramento",
+            "description": "Northern California on Sunday will be mostly sunny but dealing with the aftermath of heavy rain and strong winds on Saturday that caused flooding and knocked out power for thousands.",
+            "url": "https://www.kcra.com/article/northern-california-forecast-jan-1-sacramento-area-rain-flooding-sierra-travel/42375019",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-image-24-1672607006.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-01-01T23:40:00Z",
+            "content": "Northern California on Sunday will be mostly sunny but people across the region are dealing with the aftermath of heavy rain and strong winds on Saturday that caused flooding and knocked out power fo\u2026 [+34096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WMUR Manchester"
+            },
+            "author": null,
+            "title": "Family welcomes first reported New Hampshire baby born in 2023 - WMUR Manchester",
+            "description": "The new year promptly brought a new baby for a Jaffrey couple.",
+            "url": "https://www.wmur.com/article/first-reported-new-hampshire-baby-born-2023/42375833",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/1de8751f-bcf3-4d61-9726-6361ee53997c/1de8751f-bcf3-4d61-9726-6361ee53997c_image.jpg?crop=0.766xw:0.766xh;0.125xw,0.0228xh&resize=1200:*",
+            "publishedAt": "2023-01-01T23:37:00Z",
+            "content": "KEENE, N.H. \u2014The new year promptly brought a new baby for the Thibault family. \r\nChelsie and Jeffery Thibault welcomed the first reported New Hampshire baby of 2023.\r\nThe Jaffrey couple introduced Ca\u2026 [+563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Three 6 Mafia's Gangsta Boo Dead at 43 - TMZ",
+            "description": "Pioneering female rapper Gangsta Boo has passed away at the age of 43.",
+            "url": "https://www.tmz.com/2023/01/01/three-6-mafia-gangsta-boo-dead-dies/",
+            "urlToImage": "https://imagez.tmz.com/image/ab/16by9/2023/01/01/abc283cd5c964ac0a5b33a5605c8851a_xl.jpg",
+            "publishedAt": "2023-01-01T23:01:00Z",
+            "content": "4:53 PM PT -- Sources connected to Gangsta Boo tell TMZ ... the rapper's death appears to be drug-related. We're told Gangsta was with her brother last night at a local concert in Memphis, and that h\u2026 [+2439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Jess Cohen",
+            "title": "Brody Jenner Expecting First Baby With Girlfriend Tia Blanco - E! NEWS",
+            "description": "The Hills alum Brody Jenner and surfer Tia Blanco are expecting their first baby together, the couple shared on Jan. 1. See their sweet pregnancy announcement.",
+            "url": "https://www.eonline.com/news/1359888/brody-jenner-expecting-first-baby-with-girlfriend-tia-blanco",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022928/rs_1200x1200-221028144321-1200-brody-jenner2-mv-102822.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-01-01T22:24:00Z",
+            "content": "Brody Jenner and Tia Blanco\u00a0are staring at\u00a0the blank page before them as they prepare\u00a0for parenthood.\r\nThe former Hills: New Beginnings\u00a0star and the surfer are expecting a baby together, the couple a\u2026 [+866 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Lula takes reins of Brazil, slams Bolsonaro's anti-democratic threats - Reuters Canada",
+            "description": "Luiz Inacio Lula da Silva was sworn in as Brazil's president on Sunday, delivering a searing indictment of far-right former leader Jair Bolsonaro and vowing a drastic change of course to rescue a nation plagued with hunger, poverty and racism.",
+            "url": "https://www.reuters.com/world/americas/lula-returns-office-troubled-divided-brazil-2023-01-01/",
+            "urlToImage": "https://www.reuters.com/resizer/9NZFWmbkYXtx6kqS5JmG6ESLYoU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YMG2SJAAFBOGHFVCFQNAT6OHEQ.jpg",
+            "publishedAt": "2023-01-01T22:23:00Z",
+            "content": "BRASILIA, Jan 1 (Reuters) - Luiz Inacio Lula da Silva was sworn in as Brazil's president on Sunday, delivering a searing indictment of far-right former leader Jair Bolsonaro and vowing a drastic chan\u2026 [+5939 chars]"
         },
         {
             "source": {
@@ -60,142 +86,103 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "California Rains Updates Live: Powerful Storm Drenching California With Heavy Rains And Snow - TIMES NOW",
-            "description": "California Rains Updates Live: A powerful storm brought drenching rain or heavy snowfall to much of California Dec 31, snarling traffic and closing highways ...",
-            "url": "https://www.youtube.com/watch?v=Npp05vzN_Jo",
-            "urlToImage": "https://i.ytimg.com/vi/Npp05vzN_Jo/maxresdefault_live.jpg",
-            "publishedAt": "2023-01-01T06:06:27Z",
+            "title": "Carolina Panthers vs. Tampa Bay Buccaneers | 2022 Week 17 Game Highlights - NFL",
+            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+            "url": "https://www.youtube.com/watch?v=5SNhZAiEb1s",
+            "urlToImage": "https://i.ytimg.com/vi/5SNhZAiEb1s/maxresdefault.jpg",
+            "publishedAt": "2023-01-01T21:42:01Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "DawgNation"
             },
-            "author": "",
-            "title": "Georgia vs. TCU: Early picks, predictions, odds for College Football Playoff National Championship game - CBS Sports",
-            "description": "Will the Dawgs defend their title, or will the Horned Frogs pull off a massive upset?",
-            "url": "https://www.cbssports.com/college-football/news/georgia-vs-tcu-early-picks-predictions-odds-for-college-football-playoff-national-championship-game/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/01/8ac0f126-fd2b-4910-acb0-4fb6788c7ab8/thumbnail/1200x675/3ca59a9fb671edbd7e97247756dab8a9/graphic-ugatcusplit.png",
-            "publishedAt": "2023-01-01T05:50:00Z",
-            "content": "The 2023 College Football Playoff National Championship is set. No. 1 Georgia will square off with No. 3 TCU at SoFi Stadium in Los Angeles on Monday, Jan. 9. It's a David vs. Goliath battle as the d\u2026 [+4371 chars]"
+            "author": "Connor Riley",
+            "title": "What social media is saying about Georgia football after epic win over Ohio State - DawgNation",
+            "description": "",
+            "url": "https://www.DawgNation.com/football/around-the-dawghouse/georgia-football-social-media-ohio-state/5DY4OXS3YBBMRPYYWZV2QNLNSU/",
+            "urlToImage": "https://www.dawgnation.com/resizer/vD93g3hCbtjCJOzHCgwoTEaUVWU=/1181x0:6933x3836/1280x673/cloudfront-us-east-1.images.arcpublishing.com/ajc/BULUVVOTVFDJYEFGX4L6DL6F4I.jpg",
+            "publishedAt": "2023-01-01T21:00:00Z",
+            "content": "ATLANTA Georgia fans could not have gotten a better start to 2023. Literally. Ohio State kicker Noah Ruggles missed field goal hit the ground seconds after midnight.\r\nGeorgia took a knee shortly afte\u2026 [+662 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Variety"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Chris Willman",
-            "title": "Anita Pointer of the Pointer Sisters Dies at 74 - Variety",
-            "description": "Anita Pointer, who rose to fame in the 1970s as a member of the hit sibling singing group the Pointer Sisters, died Saturday at age 74. No cause of death was given, but her publicist said she died \u2026",
-            "url": "https://variety.com/2022/music/obituaries-people-news/anita-pointer-dead-pointer-sisters-singer-1235476979/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2022/12/GettyImages-153895007-e1672549076250.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2023-01-01T05:24:00Z",
-            "content": "Anita Pointer, who rose to fame in the 1970s as a member of the hit sibling singing group the Pointer Sisters, died Saturday at age 74. No cause of death was given, but her publicist said she died su\u2026 [+5756 chars]"
+            "author": "USA TODAY Staff",
+            "title": "Happy New Year! 2023 celebrated around the world - USA TODAY",
+            "description": "From Australia to New York's Times Square, the New Year was celebrated worldwide.",
+            "url": "https://www.usatoday.com/picture-gallery/news/world/2022/12/31/happy-new-year-2023-celebrated-around-world/10974414002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/01/USAT/a322d71f-7989-471a-94f8-e5736f33ff11-AFP_AFP_336C72D.jpg?crop=5807%2C3267%2Cx0%2Cy590&width=1200",
+            "publishedAt": "2023-01-01T20:51:00Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Rolling Stone"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Marlow Stern",
-            "title": "Miley Cyrus, Paris Hilton and Sia's Surprise 'Stars Are Blind' NYE Performance - Rolling Stone",
-            "description": "The trio did a spirited version of the 2000s single during the NBC special Miley\u2019s New Year\u2019s Eve Party",
-            "url": "https://www.rollingstone.com/tv-movies/tv-movie-recaps/miley-cyrus-paris-hilton-sia-stars-are-blind-mileys-new-years-eve-party-1234654940/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-01-at-3.23.55-AM.png?w=1600&h=900&crop=1",
-            "publishedAt": "2023-01-01T04:52:35Z",
-            "content": "After Miley Cyrus and Fletcher set tongues wagging with their duet version of \u201cMidnight Sky,\u201d Fletcher returned to Miley\u2019s New Year\u2019s Eve Party to introduce a very special performance.\r\nWith the back\u2026 [+1140 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Chris Low",
-            "title": "Michigan stung by second straight letdown in CFP semifinals - ESPN",
-            "description": "For the second straight year, Michigan lost in the CFP semifinal, this one a 51-45 heartbreaker to TCU in the Vrbo Fiesta Bowl.",
-            "url": "https://www.espn.com/college-football/story/_/id/35356885/michigan-stung-second-straight-letdown-cfp-semifinals",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0101%2Fr1112483_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-01-01T04:33:02Z",
-            "content": "GLENDALE, Ariz. -- Michigan junior receiver Roman Wilson echoed what most of his teammates were saying in some form or fashion Saturday in a somber Wolverines locker room.\r\nFor the second straight ye\u2026 [+4431 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "247Sports"
-            },
-            "author": "Isaac Trotter",
-            "title": "Ohio State WR Marvin Harrison Jr. leaves CFP semifinal against Georgia with potential head injury - 247Sports",
-            "description": "...",
-            "url": "https://247sports.com/Article/Ohio-State-WR-Marvin-Harrison-Jr-leaves-CFP-semifinal-against-Georgia-with-potential-head-injury-201833513/",
-            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/21/520/11520021.jpeg?fit=bounds&crop=1200:630,offset-y0.50&width=1200&height=630",
-            "publishedAt": "2023-01-01T04:09:44Z",
-            "content": "Ohio State superstar wide receiver\u00a0Marvin Harrison Jr. suffered a potential head injury and is questionable to return in Saturday\u2019s College Football Playoff heavyweight fight against No. 1 Georgia. D\u2026 [+1582 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC New York"
-            },
-            "author": null,
-            "title": "LIVE: Watch the 2023 Ball Drop in Times Square - NBC New York",
-            "description": "This is what it looks like in Times Square right now.",
-            "url": "https://www.nbcnewyork.com/news/local/live-watch-the-2023-ball-drop-in-times-square/4021291/",
-            "urlToImage": "https://media.nbcnewyork.com/2023/01/GettyImages-1245913099-e1672554141231.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2023-01-01T04:04:05Z",
-            "content": "The year 2022 has finally come to an end.\r\nThousands of spectators came from across the country and the world to watch the ball drop in Times Square. You can join them virtually by watching the lives\u2026 [+85 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Atmospheric river: Roads closed, streets flooded, creeks overflow across Bay Area - CBS San Francisco",
-            "description": "Flooding and rock slides closed portions of roads in the Bay Area as a winter storm roared ashore Saturday bringing drenching rain to a parched state as the year drew to a close.",
-            "url": "https://www.cbsnews.com/sanfrancisco/news/sonoma-county-creeks-reach-flood-stage-as-cat-4-atmospheric-river-arrives/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/01/73e81dd2-864e-401a-acc8-ac1f4c43beca/thumbnail/1200x630/a77d79525c3db1044988cd056583dd78/walnutcreek-flooding.jpg",
-            "publishedAt": "2023-01-01T03:25:00Z",
-            "content": "SAN FRANCISCO -- Flooding and rock slides closed portions of roads in the Bay Area as a winter storm roared ashore Saturday bringing drenching rain to a parched state as the year drew to a close.\r\nTh\u2026 [+10615 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Reuters",
-            "title": "China's home prices fell at an accelerating rate in December, survey shows - CNBC",
-            "description": "China's home prices fell at a faster pace in December, according to a private survey on Sunday.",
-            "url": "https://www.cnbc.com/2023/01/01/china-home-prices-fell-at-faster-rate-in-december-real-estate-survey.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107172853-1672540733277-gettyimages-1245625279-China_Real_Estate_Market.jpeg?v=1672541091&w=1920&h=1080",
-            "publishedAt": "2023-01-01T02:44:00Z",
-            "content": "China's home prices fell at a faster pace in December, according to a private survey on Sunday, reflecting persistently weak demand amid rising Covid-19 cases despite a slew of support measures.\r\nChi\u2026 [+1452 chars]"
+            "author": "Al Jazeera",
+            "title": "Renewed Russian attacks mark Ukraine\u2019s grim start to 2023 - Al Jazeera English",
+            "description": "President Volodymyr Zelenskyy praises Ukrainians\u2019 \u2018sense of unity\u2019 in the face of Russian bombardment.",
+            "url": "https://www.aljazeera.com/news/2023/1/1/renewed-russian-attacks-mark-ukraines-grim-start-to-2023",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/01/2023-01-01T144950Z_2070003700_RC29HY9SUJCT_RTRMADP_3_UKRAINE-CRISIS-EAST-NEWYEAR.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-01-01T20:41:51Z",
+            "content": "People in Ukraine faced a grim start to 2023 as renewed Russian missile and drone attacks followed a blistering New Years Eve assault across the country, according to authorities.\r\nAir raid sirens so\u2026 [+5499 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Martin Belam, Nadeem Badshah",
-            "title": "New Year\u2019s Eve celebrations: fireworks and festivities amid global uncertainties - The Guardian",
-            "description": "Jubilant crowds ushered in 2023 with the first large gatherings without restrictions in many cities since before the pandemic",
-            "url": "https://www.theguardian.com/world/2023/jan/01/new-years-eve-celebrations-fireworks-and-festivities-amid-global-uncertainties",
-            "urlToImage": "https://i.guim.co.uk/img/media/6270c1d52f64aa261112cf0142b6258e1303d09e/0_190_4176_2506/master/4176.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22de295638f1f7d96bc8cb22fe2a0cbf",
-            "publishedAt": "2023-01-01T01:27:40Z",
-            "content": "Countries around the world welcomed in an uncertain new year amid economic woes, fears of new Covid variations arising in China, and the political backdrop of conflict in Ukraine. Many cities were ho\u2026 [+7109 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Northern California flooded after powerful storm brings drenching rain - The Guardian US",
+            "description": "Sacramento area residents were warned of \u2018imminent levee failure\u2019 as snow in the Sierra Nevada made driving hazardous",
+            "url": "https://www.theguardian.com/us-news/2023/jan/01/california-flooded-atmospheric-river-storm-sacramento",
+            "urlToImage": "https://i.guim.co.uk/img/media/298e48fb49ec5bad8f018cbb379abf7af5de70a8/0_330_4950_2970/master/4950.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5d7a09ade46fbbc38a868f6a722c187",
+            "publishedAt": "2023-01-01T20:26:00Z",
+            "content": "Flash flood warnings were issued on Sunday in parts of northern California after a powerful storm brought drenching rain and heavy snowfall overnight, snarling traffic and closing highways as the sta\u2026 [+3345 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WMTW Portland"
+            },
+            "author": null,
+            "title": "New Year's Eve New York City machete attacker identified as Maine teenager - WMTW Portland",
+            "description": "Law enforcement sources tell ABC News the 19-year-old traveled to New York from Maine",
+            "url": "https://www.wmtw.com/article/new-york-city-machete-attacker-identified-as-maine-man/42375078",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/nyc-suspect-1672601673.jpg?crop=1.00xw:0.838xh;0,0.0896xh&resize=1200:*",
+            "publishedAt": "2023-01-01T19:36:00Z",
+            "content": "Law enforcement sources have confirmed to ABC News that the man who allegedly attacked and wounded three New York City police officers with a machete is a Maine teenager. \r\nSources identified the sus\u2026 [+1944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Mike Cason | mcason@al.com",
+            "title": "American Airlines ground crew worker killed at Montgomery airport - AL.com",
+            "description": "\"Our thoughts and prayers are with the family of the deceased,\" the airport tweeted.",
+            "url": "https://www.al.com/news/2023/01/american-airlines-ground-crew-worker-killed-at-montgomery-airport.html",
+            "urlToImage": "https://www.al.com/resizer/YAiufuOk15ZK7ZQtnyIDiBoyTQ8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/E2XKRQIKGJGCNNPZTQSTAJFKKE.jpg",
+            "publishedAt": "2023-01-01T19:32:00Z",
+            "content": "An American Airlines ground crew worker was killed today at the Montgomery Regional Airport, the airport said.\r\nToday around 3 pm an American Airlines ground crew piedmont employee was involved in a \u2026 [+1558 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Allison Elyse Gualtieri",
-            "title": "Idaho murders suspect Bryan Kohberger willing to waive extradition hearing, attorney says - CBS News",
-            "description": "Bryan Kohberger could be back in Idaho as soon as next week, his Pennsylvania public defender said.",
-            "url": "https://www.cbsnews.com/news/idaho-murders-bryan-kohberger-extradition-hearing-attorney/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/12/08/bc14abb4-facb-4d2e-ab64-4ecf07b24619/thumbnail/1200x630/529290655e95494fe998cceb5cd3bca1/cbsn-fusion-idaho-police-seek-hyundai-elantra-as-they-investigate-quadruple-murder-thumbnail-1528797-640x360.jpg",
-            "publishedAt": "2023-01-01T00:49:00Z",
-            "content": "The man authorities say killed four University of Idaho students in November is willing to waive his extradition hearing, his attorney told CBS News.\u00a0Bryan Kohberger, 28, is set to face a judge for t\u2026 [+1962 chars]"
+            "author": "C Mandler",
+            "title": "Twitter sued for nonpayment of over $136,000 in rent on its San Francisco office - CBS News",
+            "description": "The lawsuit was filed against the social media platform in San Francisco State Court on Thursday.",
+            "url": "https://www.cbsnews.com/news/elon-musk-twitter-sued-rent-nonpayment-san-francisco-office/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/01/faaac011-80d2-4bdc-8c18-5de9fad289b7/thumbnail/1200x630/5e0071487758bcd6ac47d5b0c331e421/gettyimages-1244493476.jpg",
+            "publishedAt": "2023-01-01T19:12:22Z",
+            "content": "Twitter is being sued for nonpayment of $136,260 in rent on its San Francisco office, according to court papers filed Thursday in San Francisco State Court.\r\nThe landlord of the building, Columbia Re\u2026 [+1580 chars]"
         },
         {
             "source": {
@@ -203,12 +190,25 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Unpacking The Southwest Airlines Chaos During The Holidays - MSNBC",
+            "title": "Comedian who impersonated Barbara Walters pays tribute to her - CNN",
             "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_f9OqCGaj2M",
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DshRD5PwTgQU",
             "urlToImage": null,
-            "publishedAt": "2023-01-01T00:32:20Z",
-            "content": null
+            "publishedAt": "2023-01-01T18:31:35Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Historic new year for Croatia as it joins euro, Schengen area - Reuters",
+            "description": "Croatia rang in two historic changes with the new year, as the European Union's youngest member joined both the EU's border-free Schengen zone and the euro common currency, fulfilling longstanding ambitions of close integration with Europe.",
+            "url": "https://www.reuters.com/world/europe/historic-new-year-croatia-it-joins-euro-schengen-area-2023-01-01/",
+            "urlToImage": "https://www.reuters.com/resizer/R5y8QI2HxJqGpGfWbZj9Jw0k_dk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/J56IJ6FFORLFJMSQ5LNWOXK42E.jpg",
+            "publishedAt": "2023-01-01T18:17:00Z",
+            "content": "BREGANA BORDER CROSSING, Croatia, Jan 1 (Reuters) - Croatia rang in two historic changes with the new year, as the European Union's youngest member joined both the EU's border-free Schengen zone and \u2026 [+1887 chars]"
         },
         {
             "source": {
@@ -216,51 +216,51 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Southwest cancellations snarl holiday travel plans - AP Archive",
-            "description": "(27 Dec 2022) RESTRICTION SUMMARY:\u00a0\u00a0ASSOCIATED PRESSLos Angeles \u2013 26 December 20221. Dozens of travelers wait at a Southwest Airlines baggage counter to retr...",
-            "url": "https://www.youtube.com/watch?v=3rMU-kI4gUw",
-            "urlToImage": "https://i.ytimg.com/vi/3rMU-kI4gUw/hqdefault.jpg",
-            "publishedAt": "2023-01-01T00:31:48Z",
+            "title": "The Biggest Game Releases of 2023 - IGN",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dxej0Uzz0140",
+            "urlToImage": null,
+            "publishedAt": "2023-01-01T16:00:31Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Blue Harbinger",
+            "title": "Amazon: 100 Top Growth Stocks, Ranked (NASDAQ:AMZN) - Seeking Alpha",
+            "description": "Amazon shares were down nearly 50% in 2022, despite the fact that revenues kept growing rapidly. Learn more about AMZN stock and growth stocks in general.",
+            "url": "https://seekingalpha.com/article/4567216-amazon-100-top-growth-stocks-ranked",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1355263724/image_1355263724.jpg?io=getty-c-w750",
+            "publishedAt": "2023-01-01T16:00:00Z",
+            "content": "Blue Harbinger Research, Big Dividends PLUS\r\nDaria Nipot\r\n2022 was an ugly year for growth stocks. And it's going to get worse for many of them (as the pandemic bubble continues to burst). In this re\u2026 [+10722 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Gavin Lane",
+            "title": "Soapbox: If You Thought Last Year Was \"Sad\" For Switch, 2023 Might Be Hard To Handle - Nintendo Life",
+            "description": "Am I in a different timeline?",
+            "url": "https://www.nintendolife.com/features/soapbox-if-you-thought-last-year-was-sad-for-switch-2023-might-be-hard-to-handle",
+            "urlToImage": "https://images.nintendolife.com/620220b998422/1280x720.jpg",
+            "publishedAt": "2023-01-01T16:00:00Z",
+            "content": "I'm not even going to mention this one below, but this was another great 2022 game \u2014 Image: Gemma Smith / Nintendo Life\r\nSoapbox features enable our individual writers and contributors to voice their\u2026 [+7533 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Hoyer confident McCarthy has votes to be Speaker - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc3VuZGF5LXRhbGstc2hvd3MvMzc5NDgzNC1ob3llci1jb25maWRlbnQtbWNjYXJ0aHktaGFzLXZvdGVzLXRvLWJlLXNwZWFrZXIv0gFsaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9zdW5kYXktdGFsay1zaG93cy8zNzk0ODM0LWhveWVyLWNvbmZpZGVudC1tY2NhcnRoeS1oYXMtdm90ZXMtdG8tYmUtc3BlYWtlci9hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-01T15:50:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "VOGUE India"
-            },
-            "author": "Woodstock Witch",
-            "title": "Aquarius Horoscope Today: January 1, 2023 - VOGUE India",
-            "description": "Read VOGUE India's free daily Aquarius horoscope for 1st January, 2023 to learn more about what the stars have in store for you! Click here for our cosmic tips",
-            "url": "https://www.vogue.in/horoscope/product/aquarius-horoscope-today-january-1-2023/",
-            "urlToImage": "https://media.vogue.in/wp-content/uploads/2021/12/Aquarius-866x487.jpg",
-            "publishedAt": "2023-01-01T00:20:59Z",
-            "content": "At any point of time you have two options: to go back to the old way of life or to make that paradigm shift. So, make that paradigm shift, Aquarius, even if the transition feels uncomfortable at firs\u2026 [+260 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WGN TV Chicago"
-            },
-            "author": "Tahman Bradley",
-            "title": "Illinois Supreme Court halts elimination of cash bail in SAFE-T Act - WGN TV Chicago",
-            "description": "The Illinois Supreme Court has halted the elimination of cash bail that was set to take effect January 1. The high court says it ordered the stay to maintain consistent pretrial procedures throughout Illinois while the justices prepare to take up the matter. \u2026",
-            "url": "https://wgntv.com/news/illinois-supreme-court-halts-elimination-of-cash-bail-in-safe-t-act/",
-            "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2022/10/Court20generic2C20gavel_23581652_25370090_ver1.0-1.jpg?w=1280",
-            "publishedAt": "2022-12-31T23:32:48Z",
-            "content": "The Illinois Supreme Court has halted the elimination of cash bail that was set to take effect January 1.\r\nThe high court says it ordered the stay to maintain consistent pretrial procedures throughou\u2026 [+1515 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WSFA"
-            },
-            "author": "WSFA 12 News Staff",
-            "title": "Worker killed in Montgomery Airport \u2018industrial\u2019 accident - WSFA",
-            "description": "The Montgomery Regional Airport confirms a worker was killed in an industrial accident on New Year\u2019s Eve.",
-            "url": "https://www.wsfa.com/2023/01/01/montgomery-airport-worker-killed-industrial-accident/",
-            "urlToImage": "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/W_CnKQHLkAldVni6jKffKXEhOvE=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/OYXLHS4K4FEBFC7M7LOACCSRFI.jpg",
-            "publishedAt": "2022-12-31T23:18:00Z",
-            "content": "MONTGOMERY, Ala. (WSFA) - The Montgomery Regional Airport confirms a worker was killed in an industrial accident on New Years Eve.\r\nOfficials said the incident involved an American Airlines/Piedmont \u2026 [+1303 chars]"
         }
     ]
 }
