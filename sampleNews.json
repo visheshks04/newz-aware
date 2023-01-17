@@ -1,7 +1,111 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 35,
     "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kim Bellware",
+            "title": "California storms: Atmospheric rivers winding down, experts say - The Washington Post",
+            "description": "Weather experts say the worst is probably over after nearly a month of atmospheric river storms that have deluged California",
+            "url": "https://www.washingtonpost.com/weather/2023/01/16/california-atmospheric-river-live-coverage/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-16-2023/t_8d9f155a4cad4f73ab4591d54cf4df51_name_Screen_Shot_2023_01_16_at_12_32_09_PM.png&w=1440",
+            "publishedAt": "2023-01-17T00:39:12Z",
+            "content": "Friends and relatives of those killed or lost in Californias recent storms have raised nearly $400,000 in verified GoFundMe campaigns since early January. The fundraisers will help loved ones pay for\u2026 [+564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Cowboys at Buccaneers: Time, how to watch, live stream, keys for Super Wild Card Weekend playoffs Monday night - CBS Sports",
+            "description": "What to look for as Tom Brady takes on America's Team in the wild-card playoffs",
+            "url": "https://www.cbssports.com/nfl/news/cowboys-at-buccaneers-time-how-to-watch-live-stream-keys-for-wild-card-playoffs-on-monday-night/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/16/f30a47cd-b578-4aab-abd4-0a087782c450/thumbnail/1200x675/a44746937f16bbf40624f1e208b17c5e/bradydallas.jpg",
+            "publishedAt": "2023-01-17T00:15:00Z",
+            "content": "The final game of Super Wild Card Weekend pits the NFC South champion Tampa Bay Buccaneers against the Dallas Cowboys.\u00a0\r\nThese two teams met back in Week 1, when Tampa beat Dallas 19-3 in one of the \u2026 [+7477 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Justin Gamble, Nicole Chavez",
+            "title": "A new monument dedicated to MLK and Coretta Scott King prompts mockery and criticism - CNN",
+            "description": "Backlash ensued soon after a monument meant to honor Rev. Dr. Martin Luther King Jr. and his wife Coretta Scott King's legacy in Boston was unveiled.",
+            "url": "https://www.cnn.com/2023/01/16/us/mlk-coretta-embrace-memorial-boston-mocked-reaj/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230116105901-01-mlk-memorial-boston-0115.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-17T00:03:00Z",
+            "content": "Backlash ensued soon after a monument meant to honor Rev. Dr. Martin Luther King Jr. and his wife Coretta Scott Kings legacy in Boston was unveiled.\r\nThe 20-foot tall, 40-foot wide The Embrace statue\u2026 [+2251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOCO Oklahoma City"
+            },
+            "author": "KOCO Staff",
+            "title": "Search for Athena Brownfield now considered recovery operation: What we know - KOCO Oklahoma City",
+            "description": "The Oklahoma State Bureau of Investigation said law enforcement is officially searching for the remains of a missing 4-year-old Cyril girl and the search is considered a recovery operation.",
+            "url": "https://www.koco.com/article/oklahoma-cyril-missing-girl-athena-brownfield-alysia-adams-ivon-adams/42521258",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/0e37d475-5439-45e7-a4e6-835b64bc1d61/0e37d475-5439-45e7-a4e6-835b64bc1d61_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-01-16T23:22:00Z",
+            "content": "CYRIL, Okla. \u2014The Oklahoma State Bureau of Investigation said law enforcement is officially searching for the remains of a missing 4-year-old Cyril girl and the search is considered a recovery operat\u2026 [+7152 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "After 30 years, Italy arrests mafia boss Messina Denaro at Sicilian hospital - Reuters",
+            "description": "Italy's most wanted mafia boss, Matteo Messina Denaro, was arrested by armed police at a private hospital in Sicily on Monday, where the man who has been on the run since 1993 was being treated for cancer.",
+            "url": "https://www.reuters.com/world/europe/italian-police-arrest-most-wanted-mafia-boss-matteo-messina-denaro-media-2023-01-16/",
+            "urlToImage": "https://www.reuters.com/resizer/u0nm4bYotrNE82fbi2Xfc00V_Us=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7CXFYHUPEZNVPJTZCQ4IM6NPWE.jpg",
+            "publishedAt": "2023-01-16T22:27:00Z",
+            "content": "PALERMO, Italy, Jan 16 (Reuters) - Italy's most wanted mafia boss, Matteo Messina Denaro, was arrested by armed police at a private hospital in Sicily on Monday, where the man who has been on the run\u2026 [+4093 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Andrew Tate: Bodyguard says 'Some girls thought they'd be his next wife' - BBC",
+            "description": "The British-US influencer is in custody over human trafficking and rape allegations, which he denies.",
+            "url": "https://www.bbc.com/news/world-europe-64285341",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EFD2/production/_128249316_5c3b04f8a957758dc3d36191506e4072e23272dd0_0_4372_29912000x1368.jpg",
+            "publishedAt": "2023-01-16T22:20:39Z",
+            "content": "Andrew Tate's head of security has given a dismissive account of the women who surrounded the controversial influencer, in spite of a police investigation into claims of sexual assault and exploitati\u2026 [+8151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Jim Harbaugh: My heart is at the University of Michigan - NBC Sports",
+            "description": "Jim Harbaugh\u2019s flirtation with the NFL in 2022 ended with him returning to the University of Michigan and the same thing has happened in 2023.Harbaugh interviewed with the Broncos last week, but University of Michigan president Santa Ono said in a tweet on Mo\u2026",
+            "url": "https://profootballtalk.nbcsports.com/2023/01/16/jim-harbaugh-my-heart-is-at-michigan/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/01/GettyImages-1453535430-e1673906989318.jpg",
+            "publishedAt": "2023-01-16T22:10:00Z",
+            "content": "Jim Harbaughs flirtation with the NFL in 2022 ended with him returning to the University of Michigan and the same thing has happened in 2023.\r\nHarbaugh interviewed with the Broncos last week, but Uni\u2026 [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Ex-Alabama basketball player Darius Miles allegedly killed woman 'because she wouldn't talk to him,' mom says - Fox News",
+            "description": "The mother of the victim in a fatal shooting allegedly involving former Alabama basketball player Darius Miles and another man broke her silence on social media.",
+            "url": "https://www.foxnews.com/sports/ex-alabama-basketball-player-darius-miles-allegedly-killed-woman-wouldnt-talk-him-mom-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Darius-Miles5.jpg",
+            "publishedAt": "2023-01-16T21:54:00Z",
+            "content": "The mother of a 23-year-old Alabama woman who was shot and killed in an incident allegedly involving two men, including former Crimson Tide basketball player Darius Miles, broke her silence on her da\u2026 [+3588 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -12,73 +116,47 @@
             "description": "A \"super rare\" and \"bright green\" comet will soon be visible, but will Comet ZTF live up to the hype? Learn when and where to ...",
             "url": "https://www.farmersalmanac.com/how-to-see-the-new-green-comet",
             "urlToImage": "https://www.farmersalmanac.com/wp-content/uploads/2023/01/comet-rare-sky-event.jpg",
-            "publishedAt": "2023-01-16T10:43:48Z",
-            "content": "Newly-discovered Comet ZTF is coming the closest to the Sun in 50,000 years, becoming visible to the naked eye, and making big headlines. Some are calling it a \u201csuper rare\u201d and \u201cbright green\u201d comet, \u2026 [+5782 chars]"
+            "publishedAt": "2023-01-16T21:52:57Z",
+            "content": "Newly-discovered Comet ZTF is coming the closest to the Earth in 50,000 years, becoming visible to the naked eye, and making big headlines. Some are calling it a \u201csuper rare\u201d and \u201cbright green\u201d comet\u2026 [+5983 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "The Athletic"
             },
-            "author": "Holly Ellyatt",
-            "title": "Ukraine war live updates: Putin says everything's going to plan in Ukraine; German defense minister resigns - CNBC",
-            "description": "Russian President Vladimir Putin said the dynamics of the war in Ukraine, which Moscow calls a \"special military operation,\" are positive.",
-            "url": "https://www.cnbc.com/2023/01/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107161057-16702539412022-12-05t152427z_880852932_rc2rzx9qf0rm_rtrmadp_0_ukraine-crisis-putin-crimea.jpeg?v=1673857064&w=1920&h=1080",
-            "publishedAt": "2023-01-16T10:17:00Z",
-            "content": "Ukraine is reeling from a major Russian missile attack on the city of Dnipro in central Ukraine on Saturday after an apartment block was hit.\r\nDnipro's regional governor Valentyn Reznichenko said in \u2026 [+1702 chars]"
+            "author": "The Athletic Staff",
+            "title": "NFL divisional round schedule: Chiefs-Jaguars and Giants-Eagles open weekend - The Athletic",
+            "description": "The NFL also released its schedule the conference championship games.",
+            "url": "https://theathletic.com/4094579/2023/01/15/nfl-playoff-divisional-round-schedule/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/01/15234622/GettyImages-1454045654-1024x708.jpg",
+            "publishedAt": "2023-01-16T21:41:13Z",
+            "content": "The Chiefs will host the Jaguars on Saturday afternoon to kick off the NFL divisional round, the league announced Sunday along with the rest of the rounds schedule. Heres what you need to know:\r\nFull\u2026 [+703 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Barbie Latza Nadeau",
-            "title": "Mafia boss Matteo Messina Denaro, Italy's most wanted man, arrested in Sicily - CNN",
-            "description": "Matteo Messina Denaro, one of the bosses of the Cosa Nostra Mafia in Sicily and Italy's most wanted man, has been arrested by police while being treated in a private health clinic in Palermo, prosecutor Maurizio de Lucia said Monday.",
-            "url": "https://www.cnn.com/2023/01/16/europe/matteo-messina-denaro-arrested-italy-mafia-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230116092618-matteo-messina-denaro-011623.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-16T09:40:00Z",
-            "content": "Matteo Messina Denaro, one of the bosses of the Cosa Nostra Mafia in Sicily and Italys most wanted man, has been arrested by police while being treated in a private health clinic in Palermo, prosecut\u2026 [+814 chars]"
+            "author": "MJ Lee, Kevin Liptak, Paula Reid, Evan Perez",
+            "title": "White House counsel's office says there are no visitors logs at Biden's Wilmington home - CNN",
+            "description": "The White House counsel's office says there are no visitors logs that track guests who come and go at President Joe Biden's home in Wilmington, Delaware.",
+            "url": "https://www.cnn.com/2023/01/16/politics/visitor-logs-biden-wilmington-house/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230113105139-joe-biden-011223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-16T21:22:00Z",
+            "content": "The White House counsels office says there are no visitors logs that track guests who come and go at President Joe Bidens home in Wilmington, Delaware. \r\nHouse Republicans have been demanding that th\u2026 [+6776 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": null,
-            "title": "Nepal Plane Crash News live: Black box recovered in Nepal's deadliest plane crash in 30 years | WION - WION",
-            "description": "Black box of the crashed Yeti plane has been found. At least 68 bodies recovered in the Pokhara plane crash in Nepal. Rescue operations are underway and the ...",
-            "url": "https://www.youtube.com/watch?v=QmyxZWqQEk0",
-            "urlToImage": "https://i.ytimg.com/vi/QmyxZWqQEk0/maxresdefault_live.jpg",
-            "publishedAt": "2023-01-16T07:51:39Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jennifer Hansler, Kylie Atwood",
-            "title": "American held in Iran launches hunger strike and writes to Biden asking him to do more for detainees - CNN",
-            "description": "An American wrongfully detained in Iran is calling on President Joe Biden to take notice of US detainees there, launching a hunger strike Monday to mark seven years since he was left behind in a prisoner swap that brought other Americans home.",
-            "url": "https://www.cnn.com/2023/01/16/politics/namazi-hunger-strike-iran/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/210527195814-06-siamak-namazi-family-photos.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-16T05:01:00Z",
-            "content": "An American wrongfully detained in Iran is calling on President Joe Biden to take notice of US detainees there, launching a hunger strike Monday to mark seven years since he was left behind in a pris\u2026 [+4179 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Baltimore Ravens vs. Cincinnati Bengals | 2022 Super Wildcard Weekend Game Highlights - NFL",
-            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
-            "url": "https://www.youtube.com/watch?v=N2KhR0fxxP4",
-            "urlToImage": "https://i.ytimg.com/vi/N2KhR0fxxP4/maxresdefault.jpg",
-            "publishedAt": "2023-01-16T04:34:43Z",
-            "content": null
+            "author": "Louis Casiano",
+            "title": "Biden takes swipe at Second Amendment supporters: 'You need F-15s' to take on the federal government - Fox News",
+            "description": "President Biden said gun-rights advocates wouldn;t stand a chance against the federal government with an assault weapon",
+            "url": "https://www.foxnews.com/politics/biden-swipe-second-amendment-supporters-you-need-f15-take-on-federal-government",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/ec5ce71e-Biden.jpg",
+            "publishedAt": "2023-01-16T21:00:00Z",
+            "content": "President Biden on Monday said those who argue they need assault weapons to fight the government need a much bigger arsenal to stand a chance.\u00a0\r\nSpeaking at the National Action Network's annual Marti\u2026 [+1933 chars]"
         },
         {
             "source": {
@@ -86,181 +164,103 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Greta Thunberg removed from site of mass anti-coal protest in Germany - The Hill",
+            "title": "Google is reportedly developing its own version of Apple's AirTag tracker - Android Police",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5LzM4MTQ2ODctZ3JldGEtdGh1bmJlcmctcmVtb3ZlZC1mcm9tLXNpdGUtb2YtbWFzcy1hbnRpLWNvYWwtcHJvdGVzdC1pbi1nZXJtYW55L9IBbWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5LzM4MTQ2ODctZ3JldGEtdGh1bmJlcmctcmVtb3ZlZC1mcm9tLXNpdGUtb2YtbWFzcy1hbnRpLWNvYWwtcHJvdGVzdC1pbi1nZXJtYW55L2FtcC8?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiNGh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2dvb2dsZS1haXJ0YWctdHJhY2tlci_SAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2023-01-16T04:28:00Z",
+            "publishedAt": "2023-01-16T20:34:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Variety"
             },
-            "author": "",
-            "title": "2023 NFL playoff schedule, bracket: Dates, times, TV, streaming for every round of NFC and AFC postseason - CBS Sports",
-            "description": "Here are the dates and times for every round of the NFL playoffs",
-            "url": "https://www.cbssports.com/nfl/news/2023-nfl-playoff-schedule-bracket-dates-times-tv-streaming-for-every-round-of-nfc-and-afc-postseason/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/16/672df6e3-1126-49c9-bb42-1f7188bc91b7/thumbnail/1200x675/992f3d9971c780a043a54975313ebc6b/2022bracket-temp-2-cin.jpg",
-            "publishedAt": "2023-01-16T04:25:00Z",
-            "content": "With five wild-card games now in the books, the divisional round is starting to take shape, but before that can fully happen, there is still one game left to be played in the opening round of the NFL\u2026 [+4399 chars]"
+            "author": "Clayton Davis",
+            "title": "Brendan Fraser and \u2018Everything Everywhere\u2019 Could Go All the Way to the Oscars After Critics\u2019 Choice Victories - Variety",
+            "description": "I wasn\u2019t sure if \u201cEverything Everywhere All at Once\u201d could win best picture, but I might be convinced now. The A24 multiverse comedy had a fantastic night at the Critics\u2019 Ch\u2026",
+            "url": "https://variety.com/2023/film/awards/brendan-fraser-everything-everywhere-all-at-once-oscar-chances-critics-choice-1235490999/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/01/Critics-Choice-Awards-Brendan-Fraser-Daniels-Cate-Blanchett.jpg?w=1000&h=562&crop=1",
+            "publishedAt": "2023-01-16T20:31:00Z",
+            "content": "I wasn\u2019t sure if \u201cEverything Everywhere All at Once\u201d could win best picture, but I might be convinced now.\r\nThe A24 multiverse comedy had a fantastic night at the Critics\u2019 Choice Awards, winning five\u2026 [+4903 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon, USA TODAY",
+            "title": "Ukraine live updates: Death toll at 40 in Russian attack on apartments - USA TODAY",
+            "description": "At least 30 people remained missing from a strike on an apartment building in the Ukraine city of Dnipro; 40 bodies have been recovered. Updates.",
+            "url": "https://www.usatoday.com/story/news/world/2023/01/16/ukraine-russia-war-live-updates/11062270002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/16/USAT/b1a78ebf-a883-4766-a40c-60eec207a468-AFP_AFP_33777EQ.jpg?auto=webp&crop=5999,3375,x0,y610&format=pjpg&width=1200",
+            "publishedAt": "2023-01-16T20:11:40Z",
+            "content": "Ukraine authorities began \"criminal proceedings\"\u00a0Monday against Russian soldiers blamed for the missile strike that devastated a nine-story apartment building in Ukraine and killed at least 40 people\u2026 [+5108 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Kevin Seifert",
-            "title": "Vikings' Kirk Cousins - Loss to Giants 'probably' toughest of career - ESPN",
-            "description": "Vikings QB Kirk Cousins called Sunday's playoff exit at the hands of the Giants \"probably the toughest loss I've had in my career,\" noting Minnesota's 13-win regular season and looming free agents.",
-            "url": "https://www.espn.com/nfl/story/_/id/35456683/kirk-cousins-loss-giants-probably-toughest-career-vikings-13-win-season",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0116%2Fr1118313_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-01-16T04:07:50Z",
-            "content": "MINNEAPOLIS -- This season seemed different for Minnesota Vikings quarterback Kirk Cousins. His team won 13 regular-season games, by far the most in his career. In Kevin O'Connell, he linked up with \u2026 [+3498 chars]"
-        },
-        {
-            "source": {
-                "id": "entertainment-weekly",
-                "name": "Entertainment Weekly"
-            },
-            "author": "Nick Romano",
-            "title": "How HBO's 'The Last of Us' pulled off its first big shocker - Entertainment Weekly News",
-            "description": "Series creators Craig Mazin and Neil Druckmann and star Pedro Pascal discuss the changes made to a game-changing sequence in the live-action drama.",
-            "url": "https://ew.com/tv/the-last-of-us-sarah-death-car-scene/",
-            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B940%2C346%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F01%2F14%2FThe-Last-of-Us-011423-03.jpg",
-            "publishedAt": "2023-01-16T03:25:00Z",
-            "content": "Warning: This article contains spoilers from The Last of Us episode 1.\r\nIn 2013, gamers lost their minds in the first 20 minutes of The Last of Us. Craig Mazin, who has since adapted this story with \u2026 [+10044 chars]"
+            "author": "Kathleen Walsh",
+            "title": "Kaley Cuoco Says Her Dior Gown Made \u2018This Preggo Feel Perfect\u2019 at the Critics Choice Awards - Yahoo Life",
+            "description": "\u201cYou. Look. So. Beautiful,\u201d partner Tom Pelphrey wrote in his own Instagram tribute.",
+            "url": "https://www.yahoo.com/lifestyle/kaley-cuoco-says-her-dior-195708502.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Y30veqn_bYrVqg7NqcIxNg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTc-/https://media.zenfs.com/en/glamour_497/3c90b9557976249abce1bb29fc7f62fa",
+            "publishedAt": "2023-01-16T19:57:08Z",
+            "content": "Are Kaley Cuoco and Tom Pelphrey the new Blake Lively and Ryan Reynolds? In terms of celebrity partners being publicly in love on each other's Instagrams, I mean. Because Cuoco and Pelphrey's matchin\u2026 [+1922 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Benzinga"
+                "name": "The Guardian"
             },
-            "author": "Mehab Qureshi",
-            "title": "Bitcoin Surges Above $21K, Ethereum, Dogecoin Rally Intact \u2014 Analyst Says This 'Could Awaken Some Dormant Long-Term Bulls' - Benzinga",
-            "description": "Major coins traded green on Sunday buoyed by renewed investor confidence that the Federal Reserve is managing inflation successfully without pushing the economy into recession.",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/23/01/30424910/bitcoin-surges-above-21k-ethereum-dogecoin-rally-intact-analyst-says-this-could-awaken-som",
-            "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/01/15/kanchanara-4kjjezdyo3m-unsplash.jpg?width=1200&height=800&fit=crop",
-            "publishedAt": "2023-01-16T02:50:45Z",
-            "content": "Major coins traded green on Sunday buoyed by renewed investor confidence that the Federal Reserve is managing inflation successfully without pushing the economy into recession.\u00a0\r\n<table><tr><th>Crypt\u2026 [+2581 chars]"
+            "author": "Samira Asma-Sadeque",
+            "title": "Eric Adams says New York City doesn\u2019t have \u2018room\u2019 to host more migrants - The Guardian US",
+            "description": "Mayor says city\u2019s strained care system can\u2019t handle influx and blames government for lack of coordination during El Paso visit",
+            "url": "https://www.theguardian.com/us-news/2023/jan/16/eric-adams-new-york-city-migrants",
+            "urlToImage": "https://i.guim.co.uk/img/media/c6d865f3c54fce538b8e6c8363c5c436d93e3e83/0_364_5500_3301/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a7dc095c949c659deace3e81d19b57f",
+            "publishedAt": "2023-01-16T19:04:00Z",
+            "content": "In an unprecedented visit by a New York City mayor to the Mexico border, Eric Adams said his city doesnt have enough room to host more migrants in its strained care system.\r\nHe made his remarks on Su\u2026 [+2795 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Jackie Wattles",
-            "title": "SpaceX's most powerful rocket returns to flight and nails synchronized landing - CNN",
-            "description": "SpaceX's Falcon Heavy rocket, the towering launch vehicle known for its boosters' aerial acrobatics and synchronized landings when returning to Earth, took to the skies Sunday, delivering national security payloads to orbit for the US military.",
-            "url": "https://www.cnn.com/2023/01/15/business/spacex-falcon-heavy-launch-ussf-67-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230115182457-03-spacex-launch-011523.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-16T02:31:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nSpaceXs Falcon Heavy rocket, the towering launch vehic\u2026 [+4606 chars]"
+            "author": "Lauryn Overhultz",
+            "title": "Lisa Marie Presley remembered by David Foster after her death: \u2018She was iconic\u2019 - Fox News",
+            "description": "Lisa Marie Presley was remembered by musician David Foster following her death. Elvis' daughter Lisa Marie died Thursday, Jan. 12, at the age of 54.",
+            "url": "https://www.foxnews.com/entertainment/lisa-marie-presley-remembered-david-foster-death-iconic",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/David_Foster_Lisa_Marie_Presley.jpg",
+            "publishedAt": "2023-01-16T18:51:00Z",
+            "content": "David Foster honored Lisa Marie Presley in a recent interview days after the musician's death.\r\nLisa Marie died at a hospital in Los Angeles on Thursday after authorities responded to a \"not breathin\u2026 [+2886 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Buffalo News"
+                "id": "ars-technica",
+                "name": "Ars Technica"
             },
-            "author": "Jay Skurski News Sports Reporter",
-            "title": "Observations: Studying pays off as rookie Kaiir Elam makes key interception in Buffalo Bills' wild-card victory - Buffalo News",
-            "description": "Rookie cornerback Kaiir Elam stepped into the lineup after an injury to Dane Jackson and made a couple of huge plays in the Bills\u2019 34-31 victory over the Miami Dolphins in an AFC wild-card playoff game at Highmark Stadium.",
-            "url": "https://buffalonews.com/sports/bills/observations-studying-pays-off-as-rookie-kaiir-elam-makes-key-interception-in-buffalo-bills-wild/article_c679e99c-951e-11ed-8e21-9f56668c68a5.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/fb/9fb6c3c8-952f-11ed-a281-c7fa4ff12a29/63c491a96027d.image.jpg?crop=1600%2C840%2C0%2C112&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2023-01-16T02:05:00Z",
-            "content": "Kaiir Elam has been doing some reading lately.\r\nSpecifically, Elam has been buzzing through It Takes What It Takes by Trevor Moawad.\r\nIt's about living in the moment and taking it one step at a time,\u2026 [+11654 chars]"
+            "author": "Ron Amadeo",
+            "title": "Google Stadia celebrates shutdown with controller update, new game - Ars Technica",
+            "description": "The Stadia controller is getting an update with generic Bluetooth support.",
+            "url": "https://arstechnica.com/gadgets/2023/01/google-stadia-dies-this-week-but-the-controller-will-live-on/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/stadia-graffiti-removal-760x380.jpg",
+            "publishedAt": "2023-01-16T18:46:57Z",
+            "content": "Enlarge/ Like it never even happened.\r\n29 with 0 posters participating\r\nGoogle Stadia is scheduled for execution this week. The service dies on January 18, and while there will be tons of spurned dev\u2026 [+4999 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "AL.com"
+                "id": "ars-technica",
+                "name": "Ars Technica"
             },
-            "author": "Carol Robinson | crobinson@al.com",
-            "title": "Mother, 23, killed on Strip in Tuscaloosa was \u2018beautiful young woman who loved her family\u2019 - AL.com",
-            "description": "Jamea Jonae Harris, 23, was killed early Sunday. \u201cShe was a beautiful young woman who loved her family and most of all her 5-year-old son Kaine,\u2019\u2019 DeCarla Cotton told AL.com. \u201cShe was just trying to enjoy her weekend with her cousin that attends the Universit\u2026",
-            "url": "https://www.al.com/news/birmingham/2023/01/mother-23-killed-on-strip-in-tuscaloosa-was-beautiful-young-woman-who-loved-her-family.html",
-            "urlToImage": "https://www.al.com/resizer/93w36Bs4DSy_Rpobj4zAWH33Ii4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LYII7VGK7NA2DGFFGT3CZW2NMU.JPG",
-            "publishedAt": "2023-01-16T01:09:00Z",
-            "content": "The young woman shot to death while driving along the Strip in Tuscaloosa was loved by all, according to her grieving mother.\r\nJamea Jonae Harris, 23, was killed early Sunday.\r\nShe was a beautiful yo\u2026 [+2122 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Terrifying near-miss between passenger planes at JFK Airport - NBC News",
-            "description": "The pilot of a Delta jet braked moments before colliding with an American Airlines plane. No one was hurt in the incident, but the Delta flight returned to t...",
-            "url": "https://www.youtube.com/watch?v=4gXYGRj9Fm8",
-            "urlToImage": "https://i.ytimg.com/vi/4gXYGRj9Fm8/maxresdefault.jpg",
-            "publishedAt": "2023-01-16T01:00:03Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Donald Judd, Sonnet Swire",
-            "title": "Biden delivers sermon drawing on legacy of Rev. Martin Luther King: 'This is a time of choosing' - CNN",
-            "description": "President Joe Biden delivered remarks from Ebenezer Baptist Church in Atlanta on Sunday, becoming the first sitting president to deliver a Sunday sermon from the historic church where civil rights leader Dr. Martin Luther King, Jr. served as pastor until his \u2026",
-            "url": "https://www.cnn.com/2023/01/15/politics/biden-mlk-speech-atlanta-democracy-voting/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230115133305-03-biden-mlk-atlanta-0115.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-16T00:59:00Z",
-            "content": "Joe Biden delivered remarks Sunday from Ebenezer Baptist Church in Atlanta, becoming the first sitting president to deliver a Sunday sermon from the historic church where civil rights leader Dr. Mart\u2026 [+4814 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "The Conversation",
-            "title": "There's a Simple Way to Offset The Health Risks of Sitting All Day - ScienceAlert",
-            "description": "To reduce the harmful health effects of sitting, take a 5-minute light walk every half-hour.",
-            "url": "https://www.sciencealert.com/theres-a-simple-way-to-offset-the-health-risks-of-sitting-all-day",
-            "urlToImage": "https://www.sciencealert.com/images/2023/01/YoungManSitsAtComputerInDarkeness.jpg",
-            "publishedAt": "2023-01-16T00:58:00Z",
-            "content": "To reduce the harmful health effects of sitting, take a 5-minute light walk every half-hour. That's the key finding of a new study that my colleagues and I published in the journal Medicine &amp; Sci\u2026 [+4218 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jihye Lee",
-            "title": "Shenzhen stocks rise 2%, Asia markets mixed on cooled U.S. inflation outlook - CNBC",
-            "description": "Markets in the Asia-Pacific traded mixed as expectations of cooled inflation in the U.S. lifted investor sentiment.",
-            "url": "https://www.cnbc.com/2023/01/16/asia-pacific-us-sees-inflation-ease.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107178895-1673842163468-gettyimages-1336056736-vcg111344852237.jpeg?v=1673842237&w=1920&h=1080",
-            "publishedAt": "2023-01-16T00:00:14Z",
-            "content": "A slew of economic data is expected for the week of Jan. 16 including China's industrial output and gross domestic product as well as the Bank of Japan's rate decision.\r\nOn Monday, South Korea will p\u2026 [+1095 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Oscar Holland, CNN\n\nPhoto editor: Jennifer Arnow, CNN",
-            "title": "Best red carpet fashion at the 2023 Critics' Choice Awards - CNN",
-            "description": "See the best looks from LA's Fairmont Century Plaza Hotel, where stars are gathering for the 28th Critics' Choice Awards.",
-            "url": "https://www.cnn.com/style/article/red-carpet-critics-choice-2023/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230115174812-20-critics-choice-red-carpet-lily-james-super-tease.jpg",
-            "publishedAt": "2023-01-15T23:36:06Z",
-            "content": "Oscar Holland, CNNPhoto editor: Jennifer Arnow, CNN"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Taiyler Simone Mitchell",
-            "title": "NBC News host to Ron Johnson: 'Go back on your partisan cable cocoon' - Business Insider",
-            "description": "On \"Meet The Press,\" Johnson repeatedly claimed the media was biased whenever Chuck Todd challenged his falsehoods.",
-            "url": "https://www.businessinsider.com/nbc-news-host-ron-johnson-partisan-cable-cocoon-2023-1",
-            "urlToImage": "https://i.insider.com/63c49bf5bcd21800196b76fd?width=1200&format=jpeg",
-            "publishedAt": "2023-01-15T23:09:00Z",
-            "content": "During a heated exchange on Sunday, NBC News host Chuck Todd repeatedly shut down Sen. Ron Johnson.\r\nTodd kicked off the \"Meet The Press\" interview by asking Johnson the highest Republican on the Hom\u2026 [+2733 chars]"
+            "author": "Eric Berger",
+            "title": "From start to finish, Sunday\u2019s Falcon Heavy launch delivered spectacular imagery - Ars Technica",
+            "description": "You really shouldn't miss the images of the booster return.",
+            "url": "https://arstechnica.com/science/2023/01/from-start-to-finish-sundays-falcon-heavy-launch-delivered-spectacular-imagery/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/USSF-67-Jan-2023-4128-1-760x380.jpg",
+            "publishedAt": "2023-01-16T18:14:09Z",
+            "content": "Enlarge/ A Falcon Heavy rocket launched about 10 minutes after sunset on Sunday from Florida.\r\n48 with 0 posters participating\r\nThe Falcon Heavy rocket made its fifth launch in five years on Sunday e\u2026 [+1897 chars]"
         }
     ]
 }
