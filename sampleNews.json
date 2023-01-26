@@ -1,19 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Azi Paybarah",
-            "title": "Elaine Chao responds to Trump's racist attacks on her Asian American heritage - The Washington Post",
-            "description": "Elaine Chao, the Transportation secretary during the Trump administration, has remained silent as the former president repeatedly taunted her with racist names.",
-            "url": "https://www.washingtonpost.com/politics/2023/01/25/trump-elaine-chao-asian-americans-mcconnell/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLB5BYBTBEI6VFY3IO7MH74YMA.jpg&w=1440",
-            "publishedAt": "2023-01-26T00:24:54Z",
-            "content": "Comment on this story\r\nFormer transportation secretary Elaine Chao issued a rare public comment about former president Donald Trump whose Cabinet she served in and criticized his string of racist att\u2026 [+5440 chars]"
+            "author": null,
+            "title": "Thousands rally for 'Invasion Day' protests on Australia Day holiday - Reuters",
+            "description": "Thousands of Australians marked the country's national day celebrations on Thursday with rallies in support of Indigenous people, many of whom describe the anniversary of the day a British fleet sailed into Sydney Harbour as \"Invasion Day\".",
+            "url": "https://www.reuters.com/world/asia-pacific/thousands-rally-invasion-day-protests-australia-day-holiday-2023-01-26/",
+            "urlToImage": "https://www.reuters.com/resizer/5_rlOOhyeaYFm_RFPPIKprsgXmw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VYZTG4SJVBLODGRDEQ3IQ43ZVU.jpg",
+            "publishedAt": "2023-01-26T10:10:00Z",
+            "content": "SYDNEY, Jan 26 (Reuters) - Thousands of Australians marked the country's national day celebrations on Thursday with rallies in support of Indigenous people, many of whom describe the anniversary of t\u2026 [+3164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sheila Chiang",
+            "title": "SAP to cut 3,000 roles, explore sale of Qualtrics stake - CNBC",
+            "description": "SAP became the latest tech giant to announce significant layoffs, with plans to cut up to 3,000 jobs, or about 2.5% of its workforce.",
+            "url": "https://www.cnbc.com/2023/01/26/sap-to-cut-3000-roles-explore-sale-of-qualtrics-stake.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106832159-1611904596296-gettyimages-474787225-GERMANY_SAP.jpeg?v=1674720214&w=1920&h=1080",
+            "publishedAt": "2023-01-26T08:03:34Z",
+            "content": "German enterprise software firm SAP said Thursday that it will be cutting up to 3,000 jobs, or about 2.5% of its workforce, becoming the latest tech giant to announce significant layoffs.\r\n\"We are fu\u2026 [+3396 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Kevin Pelton",
+            "title": "Blazers' Damian Lillard nets 60 in season's second-highest tally - ESPN",
+            "description": "While scoring 60 points for the fourth time in his career Wednesday night against the Jazz, Portland's Damian Lillard made history with his efficiency.",
+            "url": "https://www.espn.com/nba/story/_/id/35528486/blazers-damian-lillard-nets-60-season-second-highest-total",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0126%2Fr1122611_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-01-26T05:42:56Z",
+            "content": "PORTLAND -- While scoring 60 points for the fourth time in his career during Wednesday's 134-124 win over the Utah Jazz, Portland Trail Blazers guard Damian Lillard made history with his efficiency.\r\u2026 [+6343 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Joseph Wilson",
+            "title": "Spain: 1 dead in church machete attacks, terror link probed - The Associated Press - en Espa\u00f1ol",
+            "description": "BARCELONA, Spain (AP) \u2014 A machete-wielding man killed a sexton and injured a priest at two Catholic churches in the city of Algeciras on Wednesday before being arrested, Spain\u2019s interior ministry said.",
+            "url": "https://apnews.com/article/crime-spain-9fedf5fe435c743b4ef918d01debcb64",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/52e3f2f4143b4acdb18ccba733224387/1600.webp",
+            "publishedAt": "2023-01-26T04:52:30Z",
+            "content": "BARCELONA, Spain (AP) A machete-wielding man killed a sexton and injured a priest at two Catholic churches in the city of Algeciras on Wednesday before being arrested, Spains interior ministry said. \u2026 [+2247 chars]"
         },
         {
             "source": {
@@ -21,116 +60,168 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Ten Hag, Martinez and Weghorst React | Forest 0-3 Man Utd - Manchester United",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgnT-V32Qndk",
-            "urlToImage": null,
-            "publishedAt": "2023-01-25T23:05:00Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more"
+            "title": "LA County sheriff provides update on Monterey Park mass shooting - ABC7",
+            "description": "L.A. County Sheriff Robert Luna provided an update on the Monterey Park mass shooting. https://abc7.la/3IHYUmf",
+            "url": "https://www.youtube.com/watch?v=lX6An__norA",
+            "urlToImage": "https://i.ytimg.com/vi/lX6An__norA/maxresdefault.jpg",
+            "publishedAt": "2023-01-26T04:48:40Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Arrowhead Pride"
+                "name": "KSL.com"
             },
-            "author": "Pete Sweeney",
-            "title": "Bengals-Chiefs Wednesday injury report: Patrick Mahomes, Mecole Hardman status revealed - Arrowhead Pride",
-            "description": "On Sunday, Kansas City hosts Cincinnati for the AFC Championship game.",
-            "url": "https://www.arrowheadpride.com/2023/1/25/23571704/bengals-chiefs-wednesday-injury-report-patrick-mahomes-listed-as-full-participant",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Lm5Ys3Dqv_hv0Mvay3rWN53pzXY=/0x0:6893x3609/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24386003/1459372583.jpg",
-            "publishedAt": "2023-01-25T22:32:01Z",
-            "content": "\u00a9 2023 Vox Media, LLC. All Rights Reserved\r\n* 21+ (19+ CA-ONT) (18+ NH/WY). AZ, CO, CT, IL, IN, IA, KS, LA, (select parishes), MD, MI, NH, NJ, NY, OH, OR, PA, TN, VA, WV, WY, CA-ONT only.Eligibility \u2026 [+128 chars]"
+            "author": "Lianne Kolirin, CNN",
+            "title": "Earth's inner core may have stopped turning and could go into reverse, study suggests - KSL.com",
+            "description": "The rotation of Earth's inner core may have paused and it could even go into reverse, new research suggests.",
+            "url": "https://www.ksl.com/article/50565049/earths-inner-core-may-have-stopped-turning-and-could-go-into-reverse-study-suggests",
+            "urlToImage": "https://img.ksl.com/slc/2912/291269/29126949.jpeg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2023-01-26T04:44:47Z",
+            "content": "Estimated read time: 3-4 minutes\r\nATLANTA The rotation of Earth's inner core may have paused and it could even go into reverse, new research suggests.\r\nThe Earth is formed of the crust, the mantle an\u2026 [+3685 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Christina Maxouris, Casey Tolan, Curt Devine",
-            "title": "Half Moon Bay shooting suspect legally owned his gun and targeted specific people, authorities said. Here's what we know about him - CNN",
-            "description": "The man suspected of killing four people at a California mushroom farm and three others at a nearby site Monday had legal possession of a semi-automatic weapon that was registered to him, a sheriff said.",
-            "url": "https://www.cnn.com/2023/01/25/us/half-moon-bay-shooting-suspect-chunli-zhao-what-we-know/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230124163150-suspect-half-moon-bay-shooting.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-25T22:23:00Z",
-            "content": "The man suspected of killing four people at a California mushroom farm and three others at a nearby site Monday had legal possession of a semi-automatic weapon that was registered to him, a sheriff s\u2026 [+4899 chars]"
+            "author": "Emily Smith",
+            "title": "California has some of the strictest gun laws in the country. Here's what we know about the guns used in this week's deadly attacks - CNN",
+            "description": "California has some of the strictest gun laws in the country, according to advocacy groups. And still the state has been rocked by three mass shootings in 44 hours.",
+            "url": "https://www.cnn.com/2023/01/25/us/california-shootings-guns-wwk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230123174323-01-lai-lai-ballroom-security-footage.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-26T03:57:00Z",
+            "content": "California has some of the strictest gun laws in the country, according to advocacy groups. And still the state has been rocked by three mass shootings in 44 hours. \r\nAt least two of the suspected gu\u2026 [+6700 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investor's Business Daily"
+                "name": "Eonline.com"
             },
-            "author": "Investor's Business Daily",
-            "title": "Tesla Stock Rises On Earnings, Upcoming Vehicles; EV Giant Misses On Revenue | Investor's Business Daily - Investor's Business Daily",
-            "description": "Tesla stock has soared from its Jan. 6 bear market low.",
-            "url": "https://www.investors.com/news/tesla-stock-amid-january-rebound-with-earnings-due/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/04/Stock-TeslaModel3-02-company.jpg",
-            "publishedAt": "2023-01-25T22:06:00Z",
-            "content": "Tesla (TSLA) reported mixed fourth-quarter results Wednesday, topping earnings estimates while missing on revenue views. Tesla stock rose Wednesday, extending a powerful rebound of more than 40% from\u2026 [+6278 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fb.com"
-            },
-            "author": null,
-            "title": "Ending Suspension of Trump\u2019s Accounts With New Guardrails to Deter Repeat Offenses - Meta",
-            "description": "We'll be reinstating Mr. Trump\u2019s Facebook and Instagram accounts in the coming weeks with new guardrails in place to deter repeat offenses.",
-            "url": "https://about.fb.com/news/2023/01/trump-facebook-instagram-account-suspension/",
-            "urlToImage": "https://about.fb.com/wp-content/uploads/2022/07/Oversight_Board_series_process2.jpg?w=1200",
-            "publishedAt": "2023-01-25T22:02:32Z",
-            "content": "Social media is rooted in the belief that open debate and the free flow of ideas are important values, especially at a time when they are under threat in many places around the world. As a general ru\u2026 [+6717 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kevin Hurler",
-            "title": "A Truck-Size Asteroid Will Come 'Extraordinarily Close' to Earth Tomorrow - Gizmodo",
-            "description": "The incoming asteroid, called 2023 BU, does not pose a threat to Earth, NASA says.",
-            "url": "https://gizmodo.com/asteriod-2023-bu-close-approach-earth-1850031672",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3b4b59a7d8cffe0c44d587325028aadf.jpg",
-            "publishedAt": "2023-01-25T22:00:00Z",
-            "content": "An asteroid is on its way to Earth, but dont worrythe end is not here. The asteroid, dubbed 2023 BU, is about the size of a boxtruck and is not projected to impact our planet during its flyby on Thur\u2026 [+1748 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "IBM to Cut About 3,900 Jobs Focused in Kyndryl, Watson Health Spinoffs - Bloomberg",
-            "description": null,
-            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=7f702221-9d14-11ed-af8f-62727547475a&url=L25ld3MvYXJ0aWNsZXMvMjAyMy0wMS0yNS9pYm0tdG8tY3V0LWFib3V0LTMtOTAwLXdvcmtlcnMtc3RpbGwtaGlyaW5nLWluLWhpZ2hlci1ncm93dGgtYXJlYXM=",
-            "urlToImage": null,
-            "publishedAt": "2023-01-25T21:56:24Z",
-            "content": "To continue, please click the box below to let us know you're not a robot."
+            "author": "Lindsay Weinberg",
+            "title": "John Legend\u2019s First Father-Daughter Photo With Baby Esti Will Bring You Love - E! NEWS",
+            "description": "John Legend shared a glimpse into his first week with his and Chrissy Teigen's baby girl Esti. See the cozy photo of the father-daughter duo snuggling up together.",
+            "url": "https://www.eonline.com/news/1362737/john-legends-first-father-daughter-photo-with-baby-esti-will-bring-you-love",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2020814/1200-chrissy-teigen-john-legend-IG.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-01-26T03:48:00Z",
+            "content": "John Legend knows his baby girl deserves it all.\r\nThe singer is\u00a0savoring\u00a0his time with his newborn daughter Esti Maxine Stephens, sharing a new photo of the little one dressed in pink and bundled up \u2026 [+679 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Kevin Liptak, Jamie Gangel, Edward-Isaac Dovere",
-            "title": "National Archives considering asking past presidents and vice presidents to look again for classified materials - CNN",
-            "description": "The National Archives is looking into sending letters to all living former presidents and vice presidents, asking them go through their records to ensure there are no classified materials, according to sources familiar with the matter.",
-            "url": "https://www.cnn.com/2023/01/24/politics/bill-clinton-george-bush-barack-obama-classified-records/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230124193502-clinton-bush-obama-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-25T21:32:07Z",
-            "content": "The National Archives is looking into sending letters to all living former presidents and vice presidents, asking them go through their records to ensure there are no classified materials, according \u2026 [+2534 chars]"
+            "author": "Nouran Salahieh",
+            "title": "5 shootings in California, Iowa and Washington leave 24 dead as America's gun violence scourge drags on - CNN",
+            "description": "A series of shootings in three states has made for a heart-wrenching several days, leaving 24 dead as more cities join a growing list of American communities scarred by gun violence.",
+            "url": "https://www.cnn.com/2023/01/25/us/us-shootings-california-iowa-washington/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230125130903-monterey-park-memorial-family.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-26T02:43:00Z",
+            "content": "A series of shootings in three states has made for a heart-wrenching several days, leaving 24 dead as more cities join a growing list of American communities scarred by gun violence.\r\nOnly in America\u2026 [+8290 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lori Rozsa",
+            "title": "Backlash grows against DeSantis decision to block AP African American studies class - The Washington Post",
+            "description": "The DeSantis administration said a pilot AP course on Black history would not be approved because it violated state law and \u201clacks educational value.\u201d",
+            "url": "https://www.washingtonpost.com/nation/2023/01/25/desantis-african-american-studies-black-history/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VEKN2HEQF2T5SCYWFQFLOKOA7U.JPG&w=1440",
+            "publishedAt": "2023-01-26T02:39:31Z",
+            "content": "Comment on this story\r\nFlorida Gov. Ron DeSantis is facing mounting backlash regarding his administrations decision to prohibit an Advanced Placement high school course on African American studies, w\u2026 [+4850 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Meta to reinstate Donald Trump's Facebook and Instagram accounts - Reuters",
+            "description": "Meta Platforms Inc <a href=\"https://www.reuters.com/companies/META.O\" target=\"_blank\">(META.O)</a> said Wednesday it will reinstate former U.S. President Donald Trump's Facebook and Instagram accounts in the coming weeks, following a two-year suspension after\u2026",
+            "url": "https://www.reuters.com/technology/meta-restore-donald-trumps-facebook-instagram-accounts-2023-01-25/",
+            "urlToImage": "https://www.reuters.com/resizer/OPO-_Msc5Cr_lFFYJPhiZ65u7WY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XKUHFXWFFZPQTGASGF7DVA4Y5M.jpg",
+            "publishedAt": "2023-01-26T02:16:00Z",
+            "content": "Jan 25 (Reuters) - Meta Platforms Inc (META.O) said Wednesday it will reinstate former U.S. President Donald Trump's Facebook and Instagram accounts in the coming weeks, following a two-year suspensi\u2026 [+4436 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Musk says Tesla price cuts triggered demand, 2023 sales could hit 2 mln vehicles - Reuters",
+            "description": "Tesla Inc's <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> aggressive price cuts have ignited demand for its electric vehicles, Chief Executive Elon Musk said on Wednesday, playing down concerns that a weak economy would throt\u2026",
+            "url": "https://www.reuters.com/technology/tesla-beats-quarterly-revenue-estimates-2023-01-25/",
+            "urlToImage": "https://www.reuters.com/resizer/Zi_wqV7ivA9pVRNExL1xbqgNpi0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2HE7V5ABABNWPP6NRV4FTHX24I.jpg",
+            "publishedAt": "2023-01-26T02:16:00Z",
+            "content": "Jan 25 (Reuters) - Tesla Inc's (TSLA.O) aggressive price cuts have ignited demand for its electric vehicles, Chief Executive Elon Musk said on Wednesday, playing down concerns that a weak economy wou\u2026 [+5071 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Bradford Betz",
-            "title": "Florida battle brews over AP African American Studies program, attorney Crump threatens DeSantis with lawsuit - Fox News",
-            "description": "Civil rights attorney Ben Crump says he plans to file a lawsuit against Republican Florida Gov. DeSantis over the state's rejection of an AP African American studies program.",
-            "url": "https://www.foxnews.com/politics/florida-battle-brews-ap-african-american-studies-program-attorney-crump-desantis-lawsuit",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Ben-Crump.jpg",
-            "publishedAt": "2023-01-25T21:18:00Z",
-            "content": "Civil rights attorney Ben Crump on Wednesday threatened to file a lawsuit on behalf of three high school students against Republican Gov. Ron DeSantis over the states rejection of an Advanced Placeme\u2026 [+4080 chars]"
+            "author": "Greg Wehner",
+            "title": "NASA and DARPA to develop nuclear thermal rocket engine that may put humans on Mars: reports - Fox News",
+            "description": "NASA and DARP will collaborate on a project to develop nuclear thermal rockets that will shorten transit times to Mars, increase load capacity and generate more power.",
+            "url": "https://www.foxnews.com/science/nasa-and-darpa-to-develop-nuclear-thermal-rocket-engine-humans-mars-reports",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/draco-4-darpa-nasa-ussf-caption.jpg",
+            "publishedAt": "2023-01-26T01:40:00Z",
+            "content": "NASA is partnering with the Defense Advanced Research Projects Agency, or DARPA, to use a nuclear thermal rocket engine in space, according to reports.\r\nIn a press release on Tuesday, NASA said the n\u2026 [+4180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arrowhead Pride"
+            },
+            "author": "Ron Kopp Jr.",
+            "title": "Bengals-Chiefs AFC Championship game: JuJu Smith-Schuster says Kansas City\u2019s game plan is \u2018fire\u2019 - Arrowhead Pride",
+            "description": "The first-year wide receiver is excited to play in a conference championship, but also to face a familiar foe.",
+            "url": "https://www.arrowheadpride.com/2023/1/25/23571405/bengals-chiefs-afc-championship-juju-smith-schuster-game-plan-fire",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/WjdmQHyZ18avqq9Y-BECNKqug-Q=/0x403:4748x2889/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24385476/usa_today_19564544.jpg",
+            "publishedAt": "2023-01-26T01:30:00Z",
+            "content": "If you think the Kansas City Chiefs are familiar with the Cincinnati Bengals by now, imagine how wide receiver JuJu Smith-Schuster feels.\r\nThis Sundays AFC Championship will Smith-Schusters 10th matc\u2026 [+3891 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Zdanowicz, Jaide Timm-Garcia",
+            "title": "Tyre Nichols was a 'good kid' who enjoyed skateboarding, photography and sunsets, his family says - CNN",
+            "description": "Tyre Nichols was a father, a man who loved his mama and a free-spirited soul who was looking for a new life in Memphis, Tennessee.",
+            "url": "https://www.cnn.com/2023/01/25/us/tyre-nichols-memphis-profile/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230125152710-01-tyre-nichols.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-26T01:27:00Z",
+            "content": "Tyre Nichols was a father, a man who loved his mama and a free-spirited soul who was looking for a new life in Memphis, Tennessee.\r\nThat life was tragically cut short earlier this month after a viole\u2026 [+6699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Asteroid 2023 BU about to pass Earth in one of closest ever encounters - The Guardian",
+            "description": "No danger, says Nasa, from delivery truck-sized asteroid that was discovered on Saturday and will pass lower than communication satellites",
+            "url": "https://www.theguardian.com/science/2023/jan/26/asteroid-2023-bu-about-to-pass-earth-in-one-of-closest-ever-encounters",
+            "urlToImage": "https://i.guim.co.uk/img/media/2f0279695946a8770dfea2558f7e24da7f6dd164/41_0_1238_743/master/1238.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab74d38664c008955d55ac223e8016da",
+            "publishedAt": "2023-01-26T01:24:00Z",
+            "content": "An asteroid the size of a delivery truck will pass Earth in one of the closest such encounters ever recorded coming within a tenth of the distance of most communication satellites orbit.\r\nNasa said t\u2026 [+1412 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL conference championship injuries: Patrick Mahomes a full participant with ankle injury - CBS Sports",
+            "description": "The midweek injury reports for the conference championship round of the NFL playoffs",
+            "url": "https://www.cbssports.com/nfl/news/nfl-conference-championship-injuries-patrick-mahomes-a-full-participant-with-ankle-injury/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/24/677f31eb-aa2d-498d-8484-e5c23ad74a2a/thumbnail/1200x675/0cc5bf29eb04916af15e860e0f3b4a6e/usatsi-patrick-mahomes-chiefs.jpg",
+            "publishedAt": "2023-01-26T00:54:00Z",
+            "content": "Finally, we have established our final four for the 2022 NFL season, and now, it's time to decide which teams will play in Super Bowl LVII. The San Francisco 49ers, Philadelphia Eagles, Cincinnati Be\u2026 [+2122 chars]"
         },
         {
             "source": {
@@ -138,129 +229,38 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Minecraft Legends - Official Gameplay Trailer - Nintendo Switch - Nintendo of America",
-            "description": "Minecraft Legends is coming to Nintendo Switch on April 18, 2023! Pre-order today: https://www.nintendo.com/store/products/minecraft-legends-switch/Get a clo...",
-            "url": "https://www.youtube.com/watch?v=OBlv7Cdydeg",
-            "urlToImage": "https://i.ytimg.com/vi/OBlv7Cdydeg/maxresdefault.jpg",
-            "publishedAt": "2023-01-25T21:00:09Z",
+            "title": "Virginia school administrators were warned 6-year-old had gun, lawyer says - CBS Evening News",
+            "description": "The Virginia teacher who was allegedly shot by a 6-year-old student is planning to sue the school district. A lawyer for 25-year-old Abby Zwerner said school...",
+            "url": "https://www.youtube.com/watch?v=s7qZKXm73CI",
+            "urlToImage": "https://i.ytimg.com/vi/s7qZKXm73CI/maxresdefault.jpg",
+            "publishedAt": "2023-01-26T00:25:15Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "FOX 8 Live WVUE"
+                "name": "Nintendo Life"
             },
-            "author": "Caelan Hughes,Andrew McMunn",
-            "title": "Mysterious \u2018flying spiral\u2019 spotted in sky by telescope - FOX 8 Local First",
-            "description": "A mysterious spiral of light in the sky captured by a telescope in Hawaii has been identified, and it\u2019s not a bird, plane or flying saucer.",
-            "url": "https://www.fox8live.com/2023/01/25/mysterious-flying-spiral-spotted-sky-by-telescope/",
-            "urlToImage": "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/55pyHZT_1L3g2Z0k9oHmULvyZek=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5JMFR3357FBMFHZPGO3EDME2RE.png",
-            "publishedAt": "2023-01-25T20:53:00Z",
-            "content": "HONOLULU (KHNL/Gray News) - A mysterious spiral of light in the sky captured by a telescope in Hawaii has been identified, and its not a bird, plane or flying saucer.\r\nCaptured on the Subaru Telescop\u2026 [+1182 chars]"
+            "author": "Liam Doolan",
+            "title": "Xbox Acknowledges \"The Journey\" It's Been On To Revive GoldenEye 007 - Nintendo Life",
+            "description": "It's been a long one",
+            "url": "https://www.nintendolife.com/news/2023/01/xbox-acknowledges-the-journey-its-been-on-to-revive-goldeneye-007",
+            "urlToImage": "https://images.nintendolife.com/c4bcfbe36a512/1280x720.jpg",
+            "publishedAt": "2023-01-26T00:05:00Z",
+            "content": "Image: Nintendo\r\nNo, you're not dreaming - Rare's legendary N64 shooter GoldenEye 007 is actually coming to the Nintendo Switch this week. Yes, after ongoing requests, it's finally making a comeback \u2026 [+1745 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Cut"
+                "name": "YouTube"
             },
-            "author": "Danielle Cohen",
-            "title": "Chelsea Handler Says She Unwittingly Took Ozempic - The Cut",
-            "description": "In an episode of \u2018Call Her Daddy,\u2018 Handler claimed that her \u201canti-aging doctor\u201d gave her Ozempic, a diabetes medication that\u2019s become a popular weight-loss drug, and will prescribe it to \u201canybody.\u201d",
-            "url": "http://www.thecut.com/2023/01/chelsea-handler-ozempic.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/b62/f07/7f1b405fef2bbf8ecb39fb8410534a78f0-chelsea-handler.1x.rsocial.w1200.jpg",
-            "publishedAt": "2023-01-25T20:47:58Z",
-            "content": "Lately, it seems like no one can stop talking about Ozempic, an injectable diabetes medication that has earned a reputation as a popular weight-loss treatment among the one percent. Despite the fact \u2026 [+1861 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Marina Pitofsky, USA TODAY",
-            "title": "Pope Francis says homosexuality isn't a crime, calls on church leaders - USA TODAY",
-            "description": "Pope Francis said laws criminalizing homosexuality are \u201cunjust,\u201d calling homosexuality a sin for Catholic worshippers, but not a crime.",
-            "url": "https://www.usatoday.com/story/news/world/2023/01/25/pope-francis-homosexuality-crime-church/11121758002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/28/USAT/226cc835-f1b8-469b-a7d3-e323edb9a77b-popefrancis.png?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200",
-            "publishedAt": "2023-01-25T20:31:25Z",
-            "content": "Pope Francis said laws criminalizing homosexuality are \u201cunjust,\u201d calling homosexuality a sin for Catholic worshippers\u00a0\u2013 but not a crime. \u00a0\r\n\u201cBeing homosexual isn\u2019t a crime,\u201d Francis said in an interv\u2026 [+3737 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Scottie Andrew",
-            "title": "Classic 'GoldenEye 007' game is coming to Nintendo Switch and Xbox - CNN",
-            "description": "The James Bond-starring video game, originally released on Nintendo 64 in 1997, will be available January 27 through Nintendo Switch Online's expansion pack and Xbox Game Pass.",
-            "url": "https://www.cnn.com/2023/01/25/tech/goldeneye-007-game-nintendo-switch-xbox-cec/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230125125127-goldeneye-007-nintendo-64-file-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-25T20:05:00Z",
-            "content": "James Bond fans may be waiting on the next actor who will play the British spy onscreen, but a beloved Bond adventure of yore is making its return.\r\nGoldenEye 007, a classic first-person shooter made\u2026 [+2191 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Brenda Goodman",
-            "title": "Updated boosters are cutting the risk of getting sick from Covid-19 by about half - CNN",
-            "description": "The updated Covid-19 boosters are cutting the risk that a person will get sick from the coronavirus by about half, even against infections caused by the rapidly spreading XBB.1.5 subvariant.",
-            "url": "https://www.cnn.com/2023/01/25/health/bivalent-boosters-covid-xbb-protection/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221011162159-03-coronavirus-omicron-travel-vaccine-health-wellness.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-25T19:33:00Z",
-            "content": "The updated Covid-19 boosters are cutting the risk that a person will get sick from the coronavirus by about half, even against infections caused by the rapidly spreading XBB.1.5 subvariant.\r\nNew stu\u2026 [+5272 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Editorial Staff",
-            "title": "Amid California mass shootings, older Asian Americans feared to be radicalized by 'unreliable' information - Yahoo News",
-            "description": "With recent mass shootings in California zeroing in on elderly Asian Americans as suspects, community members are left shaken, fearful and desperate for...",
-            "url": "https://news.yahoo.com/amid-california-mass-shootings-older-191041580.html",
-            "urlToImage": "https://media.zenfs.com/en/nextshark_articles_509/368a7d449c3f507052302084e83457e8",
-            "publishedAt": "2023-01-25T19:10:41Z",
-            "content": "[Source]\r\nWith recent mass shootings in California zeroing in on elderly Asian Americans as suspects, community members are left shaken, fearful and desperate for answers leading to some placing the \u2026 [+5205 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Tony Ho Tran",
-            "title": "Put Down the Beer: Alcohol Flush May Be a Deadly Sign - Yahoo! Voices",
-            "description": "A genetic quirk might be causing you to get red when you drink\u2014and harming your body too.",
-            "url": "https://www.thedailybeast.com/alcohol-flushing-response-may-increase-chances-of-heart-disease",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674690654/230125-alcohol-flush-tease_brwxwk",
-            "publishedAt": "2023-01-25T19:00:00Z",
-            "content": "If youre East or Southeast Asian, youre probably very familiar with the alcohol flushing responseotherwise known as the Asian glow. After one or two drinks, your face and body grows redder than a sun\u2026 [+3440 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Imad Khan",
-            "title": "DOJ Sues Google Again, Attacking Its Online Ad Dominance - CNET",
-            "description": "The Department of Justice and eight states want to try to increase competition by forcing Google to sell off its ad business.",
-            "url": "https://www.cnet.com/news/politics/doj-sues-google-again-attacking-its-online-ad-dominance/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/41feca2626d543bae8db1f2299cace512d024a23/hub/2019/12/03/31b01982-b8bd-4844-9f96-410777c5ecbb/sundar-pichai-google-ceo-7786.jpg?auto=webp&fit=crop&height=630&width=1200",
-            "publishedAt": "2023-01-25T18:57:00Z",
-            "content": "The US Department of Justice and eight states on Tuesday\u00a0sued Google over its online advertising business, alleging that the company abused its monopoly power and harmed advertisers and publishers.\r\n\u2026 [+5560 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Dallas Morning News"
-            },
-            "author": "Sarah Blaskovich",
-            "title": "Wow: 15 restaurants and chefs in Dallas-Fort Worth honored as James Beard semifinalists - The Dallas Morning News",
-            "description": "3 in the Best Chef: Texas category are the young pitmasters at Goldee\u2019s Barbecue in Fort Worth.",
-            "url": "https://www.dallasnews.com/food/2023/01/25/15-restaurants-and-chefs-in-dallas-fort-worth-honored-as-james-beard-semifinalists/",
-            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/f7TGscF6pnrGfcZYzqdr5lfRczc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/GKJFF4LO75FMJBHWDPPJB5VKDM.JPG",
-            "publishedAt": "2023-01-25T18:50:52Z",
-            "content": "Dallas chefs and restaurants had an impressive showing on the 2023 list of James Beard semifinalists, announced Jan. 25. This annual awards series names the top culinary talents in the United States.\u2026 [+5145 chars]"
+            "author": null,
+            "title": "The U.S. Government Sues Google | January 26, 2023 - CNN 10",
+            "description": "Google is in the headlines this Thursday because the U.S. Justice Department has sued the company accusing them of harming their competition in the online ad...",
+            "url": "https://www.youtube.com/watch?v=tXGsaAXaoEA",
+            "urlToImage": "https://i.ytimg.com/vi/tXGsaAXaoEA/maxresdefault.jpg",
+            "publishedAt": "2023-01-25T23:30:10Z",
+            "content": null
         }
     ]
 }
