@@ -1,162 +1,97 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Al Jazeera",
-            "title": "\u2018Oldest and most complete\u2019 mummy found in Egypt - Al Jazeera English",
-            "description": "The 4,300-year-old mummy was found covered in layers of gold near the Step Pyramid at Saqqara.",
-            "url": "https://www.aljazeera.com/news/2023/1/27/oldest-complete-mummy-found-egypt",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/01/AP23026457881767.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-01-27T08:15:34Z",
-            "content": "Egyptian archaeologists have uncovered a Pharaonic tomb near the capital, Cairo, containing what may be the oldest and most complete mummy yet to be discovered in the country.\r\nThe 4,300-year-old mum\u2026 [+2180 chars]"
+            "author": null,
+            "title": "Memphis releases video of Tyre Nichols beating death by police officers - Reuters.com",
+            "description": "The city of Memphis released graphic video footage on Friday of the violent encounter between Tyre Nichols, a 29-year-old Black man, and the five police officers charged with murder in his beating death after a traffic stop earlier this month.",
+            "url": "https://www.reuters.com/world/us/memphis-braces-video-fatal-police-encounter-with-black-motorist-2023-01-27/",
+            "urlToImage": "https://www.reuters.com/resizer/Q2ahuxS-hGQPfIfBL7tiF4KoNGI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CCARRPMSEVPDBPZUYQ6J4DHNKI.jpg",
+            "publishedAt": "2023-01-28T00:24:00Z",
+            "content": "MEMPHIS, Tenn., Jan 27 (Reuters) - The city of Memphis released graphic video footage on Friday of the violent encounter between Tyre Nichols, a 29-year-old Black man, and the five police officers ch\u2026 [+6799 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Jihye Lee",
-            "title": "Adani shares plunge further as it weighs legal action against short seller firm - CNBC",
-            "description": "Adani Group companies' stock prices dropped for a second consecutive trading session after Hindenburg announced its short position in the conglomerate's firms.",
-            "url": "https://www.cnbc.com/2023/01/27/adani-shares-drop-further-as-group-warns-of-legal-action.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107127522-1664558505555-gettyimages-1127534595-20190225_DLI-SV-MN_Rising-005.jpeg?v=1674802849&w=1920&h=1080",
-            "publishedAt": "2023-01-27T07:00:49Z",
-            "content": "Chairman and founder of the Adani Group, Gautam Adani, at the News18 Rising India Summit on Feb. 25, 2019, in New Delhi, India. Since becoming a billionaire in 2008, Adani is now one of the richest p\u2026 [+3407 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jihye Lee",
-            "title": "Asia-Pacific stocks rise as Tokyo\u2019s inflation nears 42-year high - CNBC",
-            "description": "Stocks in the Asia-Pacific traded higher on Friday as traders digested inflation data for Japan's capital city that neared the highest since mid-1981.",
-            "url": "https://www.cnbc.com/2023/01/27/asia-pacific-markets-wall-streets-gains.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107184879-1674786584834-gettyimages-1244188700-AFP_32M22V3.jpeg?v=1674786674&w=1920&h=1080",
-            "publishedAt": "2023-01-27T06:51:00Z",
-            "content": "Wall Street analysts are divided on\u00a0Tesla\u00a0after the electric car company's latest quarterly results.\r\nTesla reported a beat on both\u00a0earnings and revenue\u00a0for the fourth quarter, and assuaged investor \u2026 [+1788 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Moscow Times"
-            },
-            "author": "Daria Andriievska for AFP",
-            "title": "Russian Missiles Kill 11 in Ukraine After Tank Pledge - The Moscow Times",
-            "description": "A blistering wave of Russian strikes targeting Ukraine's energy infrastructure killed 11 people on Thursday, a day after Germany and the United States pledged heavy tanks for Kyiv.",
-            "url": "https://www.themoscowtimes.com/2023/01/26/russian-missiles-kill-11-in-ukraine-after-tank-pledge-a80051",
-            "urlToImage": "https://static.themoscowtimes.com/image/og/b8/80051__b86ece4a7f0a30f0280d6b08980572dd.jpg",
-            "publishedAt": "2023-01-27T06:41:45Z",
-            "content": "A blistering wave of Russian strikes targeting Ukraine's energy infrastructure killed 11 people on Thursday, a day after Germany and the United States pledged heavy tanks for Kyiv.\r\nThe stepped-up mi\u2026 [+4743 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SamMobile"
-            },
-            "author": "SamMobile, Asif Iqbal Shaik",
-            "title": "Corning and Samsung confirm Galaxy S23 features Gorilla Glass Victus 2 - SamMobile - Samsung news",
-            "description": "Usually, Samsung is the first in the smartphone industry to incorporate Corning's new Gorilla Glass protection. A few months ago, ...",
-            "url": "https://www.sammobile.com/news/samsung-confirm-galaxy-s23-gorilla-glass-victus-2/",
-            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/01/Samsung-Galaxy-S23-Series-720x405.jpg",
-            "publishedAt": "2023-01-27T06:22:00Z",
-            "content": "Usually, Samsung is the first in the smartphone industry to incorporate Cornings new Gorilla Glass protection. A few months ago, Corning unveiled Gorilla Glass Victus 2 and promised that it would be \u2026 [+1218 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Jeff Borzello",
-            "title": "Billy Packer, 82, longtime Final Four basketball analyst, dies - ESPN",
-            "description": "Longtime college basketball commentator Billy Packer, the voice of the NCAA tournament for more than 30 years, died Thursday night. He was 82.",
-            "url": "https://www.espn.com/mens-college-basketball/story/_/id/35535286/billy-packer-82-long-final-four-basketball-analyst-dies",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0127%2Fr1123045_2_1296x1296_1%2D1.jpg",
-            "publishedAt": "2023-01-27T05:48:45Z",
-            "content": "Longtime college basketball commentator Billy Packer, the voice of the NCAA tournament for more than 30 years, died Thursday night. He was 82.\r\nPacker's two sons, Mark and Brandt, announced the news \u2026 [+5730 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eurasiantimes.com"
-            },
-            "author": "Tanmay Kadam",
-            "title": "How To Kill An Abrams! Russian \u2018Experts\u2019 Issue A Guidebook On Where & How To Destroy The US Main Battle Tank - EurAsian Times",
-            "description": "An image has resurfaced showing vulnerabilities of the American-made M1 Abrams Tanks with instructions on where to hit the Abrams tanks and with what weapons. The image is being circulated by and among Russian netizens shortly after the US agreed to supply Uk\u2026",
-            "url": "https://eurasiantimes.com/how-to-kill-an-abrams-russian-experts-issue-a-guidebook-on-where-how-to-destroy-the-us-main-battle-tank/",
-            "urlToImage": "https://eurasiantimes.com/wp-content/uploads/2023/01/Whwre-to-hit-Abrams.jpg",
-            "publishedAt": "2023-01-27T05:25:30Z",
-            "content": "An image has resurfaced on social media showing vulnerabilities of the American-made M1 Abrams Tanks with instructions on where to hit the tank and using what weapons.\u00a0\r\nUS President Joe Biden, on Ja\u2026 [+5100 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Peru unrest: Police to dismantle roadblocks set by protesters - BBC",
-            "description": "The government says security forces will take down barricades set up by opponents of President Dina Boluarte.",
-            "url": "https://www.bbc.com/news/world-latin-america-64421312",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/183F1/production/_128431399_gettyimages-1246575740.jpg",
-            "publishedAt": "2023-01-27T04:51:15Z",
-            "content": "Roadblocks set up across Peru by demonstrators demanding the resignation of the country's president will be dismantled, officials have said.\r\nPolice and the military are preparing to mount a joint op\u2026 [+2543 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jori Epstein",
-            "title": "Cowboys give Mike McCarthy huge vote of confidence, while Kellen Moore's status is much more murky - Yahoo Sports",
-            "description": "Dallas is running it back with its head coach for another season, but a shake-up elsewhere on staff has already begun.",
-            "url": "https://sports.yahoo.com/cowboys-give-mike-mccarthy-huge-vote-of-confidence-while-kellen-moores-status-is-much-more-murky-032508883.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lUwR50zYHBCyQdV_yxbG0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDY-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/d2b6a350-9df0-11ed-b77e-818afb37259d",
-            "publishedAt": "2023-01-27T03:25:00Z",
-            "content": "Jerry Jones and Mike McCarthy met this week to discuss the Dallas Cowboys future.\r\nJones, the team owner, didnt simply express confidence in head coach McCarthys ability to win in 2023. Jones summone\u2026 [+6201 chars]"
+            "author": "Isaac Stanley-Becker, Jonathan O'Connell, Emma Brown",
+            "title": "Justice Department asks FEC to stand down as prosecutors probe Santos - The Washington Post",
+            "description": "The request is the clearest sign to date of an active criminal investigation examining the congressman\u2019s campaign finances.",
+            "url": "https://www.washingtonpost.com/investigations/2023/01/27/santos-doj-investigation-fec/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZAH2WJHFK2CNBX7HE2RO4LZMM.jpg&w=1440",
+            "publishedAt": "2023-01-27T23:57:13Z",
+            "content": "Comment on this story\r\nThe Justice Department has asked the Federal Election Commission to hold off on any enforcement action against George Santos, the Republican congressman from New York who lied \u2026 [+5571 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Eric Levenson, Melissa Alonso, Jamiel Lynch, Christina Maxouris",
-            "title": "5 former Memphis officers indicted on murder and kidnapping charges in Tyre Nichols' death as nation braces for release of police video - CNN",
-            "description": "Five former Memphis police officers who were fired for their actions during the arrest of Tyre Nichols earlier this month were indicted on charges including murder and kidnapping, Shelby County District Attorney Steve Mulroy announced Thursday.",
-            "url": "https://www.cnn.com/2023/01/26/us/tyre-nichols-memphis-thursday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230125184201-02-tyre-nichols.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-27T03:16:00Z",
-            "content": "Five former Memphis police officers who were fired for their actions during the arrest of Tyre Nichols earlier this month were indicted on charges including murder and kidnapping, Shelby County Distr\u2026 [+9876 chars]"
+            "author": "Richard Allen Greene, Hadas Gold, Amir Tal, Tara John",
+            "title": "At least seven dead in Jerusalem synagogue attack, Israeli police say - CNN",
+            "description": "Israeli police say at least seven people were killed and three were injured in a shooting near a synagogue in Jerusalem on Friday amid high tensions in Israel and the Palestinian territories.",
+            "url": "https://www.cnn.com/2023/01/27/middleeast/jerusalem-shooting-dead-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230127141920-01-jerusalem-shooting-0127.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-27T23:30:00Z",
+            "content": "Israeli police say at least seven people were killed and three were injured in a shooting near a synagogue in Jerusalem on Friday amid high tensions in Israel and the Palestinian territories.\r\nFriday\u2026 [+4643 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Guardian"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Guardian staff reporter",
-            "title": "Concerns over escalating violence after Israeli forces kill nine Palestinians during West Bank raid - The Guardian",
-            "description": "Palestinian militants fired rockets from Gaza on Friday morning, to which Israel responded with missile strikes",
-            "url": "https://www.theguardian.com/world/2023/jan/27/concerns-over-escalating-violence-after-israeli-forces-kill-nine-palestinians-during-west-bank-raid",
-            "urlToImage": "https://i.guim.co.uk/img/media/2f858821492fbe4c089bd657fd7680da9d584386/0_257_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b3777404df47a9869bd8933113ddd7c",
-            "publishedAt": "2023-01-27T02:59:00Z",
-            "content": "Washington has raised concern over the escalation in Israeli-Palestinian violence after Israeli forces on Thursday killed nine Palestinians during a West Bank raid in the deadliest single day in the \u2026 [+4695 chars]"
+            "author": null,
+            "title": "Jan. 6 rioter who assaulted Capitol Police Officer Brian Sicknick sentenced to over 6 years in jail - CNN",
+            "description": "A man who assaulted United States Capitol Police officer Brian Sicknick with pepper spray on January 6, 2021, was sentenced on Friday to 80 months behind bars.",
+            "url": "https://www.cnn.com/2023/01/27/politics/sicknick-capitol-attack-khater-tanios-sentencing/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230127121602-julian-khater-capitol-riot-bear-spray.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-27T22:48:00Z",
+            "content": "A man who assaulted United States Capitol Police Officer Brian Sicknick with pepper spray on January 6, 2021, was sentenced on Friday to 80 months behind bars. \r\nJulian Khater pleaded guilty in Septe\u2026 [+4892 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Evelyn Cheng",
-            "title": "Here's where mainland Chinese traveled overseas for the Lunar New Year - CNBC",
-            "description": "Travel booking site Trip.com ranked the top overseas destinations for travelers from mainland China during the first four days of the Lunar New Year holiday.",
-            "url": "https://www.cnbc.com/2023/01/27/heres-where-mainland-chinese-traveled-overseas-for-the-lunar-new-year.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107184876-1674783119100-gettyimages-1457953515-vp1_2195_b8d47c6d-4a55-4510-a5e2-732296f38aec.jpeg?v=1674787524&w=1920&h=1080",
-            "publishedAt": "2023-01-27T02:45:00Z",
-            "content": "BEIJING Travelers from mainland China stuck close to home in Asia during the Lunar New Year, the first holiday after Beijing relaxed its Covid-related border controls.\r\nHong Kong and Macao were the m\u2026 [+1407 chars]"
+            "author": "Samantha Subin, Carmen Reinicke",
+            "title": "Stocks close higher Friday, Nasdaq posts fourth week of gains - CNBC",
+            "description": "Stocks rose Friday as Wall Street attempted to cap off a winning week.",
+            "url": "https://www.cnbc.com/2023/01/26/stock-futures-tick-down-after-the-dow-posts-a-five-day-win-streak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107185443-1674853797526-a2_img_100_99_112_1917665_1000-1674853672551.jpg?v=1674854277&w=1920&h=1080",
+            "publishedAt": "2023-01-27T22:07:00Z",
+            "content": "Stocks rose Friday and capped off a winning week fueled by better-than-expected economic growth and a pop in Tesla shares.\r\nThe Nasdaq Composite jumped 0.95% to settle at 11,621.71, while the S&amp;P\u2026 [+1925 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Clayton Davis",
+            "title": "Academy \u2018Conducting Review\u2019 After Andrea Riseborough\u2019s Surprise Oscar Nomination - Variety",
+            "description": "The Academy of Motion Picture Arts and Sciences confirmed Friday that it is \u201cconducting a review of campaign procedures\u201d in the wake of Andrea Riseborough\u2019s surprise Oscar nominat\u2026",
+            "url": "https://variety.com/2023/film/news/andrea-riseborough-to-leslie-oscars-academy-review-1235504914/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/01/MCDTOLE_EC031.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-01-27T21:45:00Z",
+            "content": "The Academy of Motion Picture Arts and Sciences confirmed Friday that it is \u201cconducting a review of campaign procedures\u201d in the wake of Andrea Riseborough\u2019s surprise Oscar nomination for the small in\u2026 [+8850 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "David J. Lynch, Karen DeYoung",
+            "title": "U.S. to launch economic talks partnering with 11 nations in Latin America - The Washington Post",
+            "description": "The U.S. will begin negotiations on an deal designed to promote regional economic cooperation without offering greater access to the U.S. market for their goods.",
+            "url": "https://www.washingtonpost.com/us-policy/2023/01/27/biden-latin-america-economic-cooperation/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WM7EPKUTIQI63EHYKNTBVROZXE.jpg&w=1440",
+            "publishedAt": "2023-01-27T21:00:00Z",
+            "content": "Comment on this story\r\nThe Biden administration said Friday that it would begin negotiations with 11 mostly Latin American nations on an agreement designed to promote regional economic cooperation wi\u2026 [+5662 chars]"
         },
         {
             "source": {
@@ -164,25 +99,64 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Half Moon Bay mass shooting suspect says he was bullied at job in television interview - KPIX CBS SF Bay Area",
-            "description": "Team coverage on the latest developments in the Half Moon Bay mass shooting investigation (1-26-2023)",
-            "url": "https://www.youtube.com/watch?v=wqrt-N-OGNw",
-            "urlToImage": "https://i.ytimg.com/vi/wqrt-N-OGNw/maxresdefault.jpg",
-            "publishedAt": "2023-01-27T01:56:04Z",
+            "title": "Dead Space: 22 Essential Tips and Tricks - IGN",
+            "description": "Finding the Dead Space remake a little too hard? We\u2019re here with 22 essential tips and tricks to help you survive the U.S.S. Ishimura.In this Dead Space guid...",
+            "url": "https://www.youtube.com/watch?v=oVjpYX8Qdxs",
+            "urlToImage": "https://i.ytimg.com/vi/oVjpYX8Qdxs/maxresdefault.jpg",
+            "publishedAt": "2023-01-27T20:50:38Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "BuzzFeed News"
             },
-            "author": null,
-            "title": "Best Plays From NBA All-Star Starter Luka Doncic | 2022-23 NBA Season - NBA",
-            "description": "Luka Doncic is making his 4th #NBAAllStar appearance. Drafted as the 3rd overall pick in the 2018 NBA Draft out of Slovenia, Luka has three All-NBA First Tea...",
-            "url": "https://www.youtube.com/watch?v=fytzeKzoh7g",
-            "urlToImage": "https://i.ytimg.com/vi/fytzeKzoh7g/maxresdefault.jpg",
-            "publishedAt": "2023-01-27T01:47:51Z",
-            "content": null
+            "author": "Amanda Gardner",
+            "title": "Here Are Some Ozempic Side Effects More Concerning Than \u201cOzempic Face\u201d - BuzzFeed News",
+            "description": "Every drug comes with potential side effects. People taking Ozempic are discovering the issues that come with the weight loss medication that\u2019s so trendy there's a shortage.",
+            "url": "https://www.buzzfeednews.com/article/amandagardner/ozempic-side-effects",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-01/27/22/campaign_images/b90adebb87ba/here-are-some-ozempic-side-effects-more-concernin-3-9275-1674858750-8_dblbig.jpg",
+            "publishedAt": "2023-01-27T20:35:05Z",
+            "content": "The weight loss drug Ozempic rocketed into public consciousness last year, and a social mediafueled desire for the medication has led to shortages for patients with type 2 diabetes.\u00a0\r\nNow, people are\u2026 [+8331 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paul Steinhauser",
+            "title": "Ronna McDaniel wins re-election to an unprecedented fourth term chairing the Republican National Committee - Fox News",
+            "description": "Republican National Committee chair Ronna McDaniel won re-election on Friday, bringing to an end nearly two months of barbs and accusations amid a major fight for the future of the GOP.",
+            "url": "https://www.foxnews.com/politics/ronna-mcdaniel-wins-re-election-unprecedented-fourth-term-chairing-republican-national-committee",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Ronna-McDaniel-Dana-Point-CA-Jan.-25-2023.jpg",
+            "publishedAt": "2023-01-27T20:20:00Z",
+            "content": "DANA POINT, Calif. Republican National Committee chair Ronna McDaniel won re-election on Friday, bringing to an end\u00a0nearly two months of barbs and accusations amid a major fight for the future of the\u2026 [+5399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Matt Grobar",
+            "title": "Sundance Awards: \u2018The Persian Version\u2019, \u2018Kokomo City\u2019 Among Repeat Winners As \u2018A Thousand And One\u2019, \u2018Going To Mars\u2019 Claim U.S. Grand Jury Prizes - Deadline",
+            "description": "The Sundance Film Festival has unveiled its Jury and Audience Award winners for 2023. The day\u2019s big winners included Maryam Keshavarz\u2019s The Persian Version, which claimed both the Audie\u2026",
+            "url": "https://deadline.com/2023/01/sundance-film-festival-awards-2023-winners-list-1235241722/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/01/A-Thousand-and-One-Going-to-Mars-The-Persian-Version-Beyond-Utopia.jpg?w=1000",
+            "publishedAt": "2023-01-27T19:30:00Z",
+            "content": "The Sundance Film Festival has unveiled its Jury and Audience Award winners for 2023.\r\nThe day\u2019s big winners included Maryam Keshavarz\u2019s The Persian Version, which claimed both the Audience Award and\u2026 [+7292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Jake Garbar",
+            "title": "Taylor Swift gives subtle nod to Joe Alwyn 'Lavender Haze' music video - Page Six",
+            "description": "Swift appeared to give a subtle nod to her longtime boyfriend Alwyn in her new music video for \u201cLavender Haze,\u201d which was released on Friday.",
+            "url": "https://pagesix.com/2023/01/27/taylor-swift-gives-nod-to-joe-alwyn-lavender-haze-music-video/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/01/Taylor-Swift-Joe-Alwyn-lavender-haze-video.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-01-27T19:22:00Z",
+            "content": "It\u2019s written in the stars.\r\nTaylor Swift appeared to give a subtle nod to her longtime boyfriend Joe Alwyn in her new music video for \u201cLavender Haze,\u201d which was released on Friday.\r\nEagle-eyed Swift \u2026 [+2331 chars]"
         },
         {
             "source": {
@@ -190,12 +164,51 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "2023 NFL playoffs picks: Eagles beat 49ers in NFC title game thriller, Bengals edge Chiefs in AFC Championship - CBS Sports",
-            "description": "Wondering who's going to be playing in Super Bowl LVII? You've come to the right place to find out",
-            "url": "https://www.cbssports.com/nfl/news/2023-nfl-playoffs-picks-eagles-beat-49ers-in-nfc-title-game-thriller-bengals-edge-chiefs-in-afc-championship/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/24/39c4011a-21f9-44d0-8a93-a15400e9dfd5/thumbnail/1200x675/a258f3cf7ad15f448435d868ea5f84fa/hurts4.jpg",
-            "publishedAt": "2023-01-27T01:22:21Z",
-            "content": "Maybe it was just me, but did anyone else experience deja vu over the weekend?\r\nThe 49ers, Chiefs and Bengals all won during a divisional round that ended with the Cowboys running the dumbest play po\u2026 [+15313 chars]"
+            "title": "49ers DC DeMeco Ryans emerges as top candidate for Texans, could become head coach next week, per report - CBS Sports",
+            "description": "Ryans is a former Pro Bowl linebacker for the Texans",
+            "url": "https://www.cbssports.com/nfl/news/49ers-dc-demeco-ryans-emerges-as-top-candidate-for-texans-could-become-head-coach-next-week-per-report/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/24/f6ee6758-bcf9-43e8-8b3a-ddb788300e20/thumbnail/1200x675/229c60274ebbd0076c4a202094d15cf0/getty-demeco-ryans-49ers.jpg",
+            "publishedAt": "2023-01-27T19:01:00Z",
+            "content": "The Houston Texans may be nearing an end to their latest head coaching search. According to a report from NFL Media, San Francisco 49ers defensive coordinator DeMeco Ryans has emerged as a top candid\u2026 [+1488 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "David Newton",
+            "title": "Steve Wilks 'disappointed' after Panthers hire Frank Reich - ESPN",
+            "description": "Steve Wilks, who went 6-6 as interim coach of the Panthers, was \"disappointed but not defeated\" after Frank Reich was hired for the full-time job.",
+            "url": "https://www.espn.com/nfl/story/_/id/35538504/steve-wilks-disappointed-panthers-hire-frank-reich",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2023%2F0127%2Fdm_230127_sc_wilks%2Fdm_230127_sc_wilks.jpg",
+            "publishedAt": "2023-01-27T18:58:15Z",
+            "content": "CHARLOTTE, N.C. -- Steve Wilks on Friday said he was \"disappointed but not defeated\" after being passed over for the Carolina Panthers' head-coaching job, which went to former Indianapolis Colts coac\u2026 [+3599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Channel3000.com - WISC-TV3"
+            },
+            "author": "Logan Rude, Logan Reigstad",
+            "title": "Several multi-vehicle accidents cause pileups on I-39/90 in Rock County; at least one person hurt - Channel3000.com - WISC-TV3",
+            "description": "BELOIT, Wis. -- Several multi-vehicle crashes on Interstate 39/90 between Janesville and Beloit have caused major pileups and lane closures in the area, leaving at least one person hurt.",
+            "url": "https://www.channel3000.com/news/top-stories/several-multi-vehicle-accidents-cause-pileups-on-i-39-90-in-rock-county-at-least/article_4571b2a8-9e74-11ed-9c1e-8bed031aded8.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/4/57/4571b2a8-9e74-11ed-9c1e-8bed031aded8/63d44a60a3af3.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-01-27T18:56:00Z",
+            "content": "BELOIT, Wis. -- Several multi-vehicle crashes on Interstate 39/90 between Janesville and Beloit have caused major pileups and lane closures in the area, leaving at least one person hurt.\r\nA multi-veh\u2026 [+1516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bleeding Green Nation"
+            },
+            "author": "Alexis Chassen",
+            "title": "Jason Kelce said the 49ers\u2019 defense has no weaknesses for the Eagles to exploit - Bleeding Green Nation",
+            "description": "The veteran center also talked staying focused, both during the week at practice and on game day with retirement always lingering as an option.",
+            "url": "https://www.bleedinggreennation.com/2023/1/27/23574327/eagles-jason-kelce-nfc-championship-prep-49ers-defense-expectations-retirement-chances",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Iq1tlKArf3hC2JafxFUl8QyoZ7E=/21x0:1404x724/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24390366/Kelce2.JPG",
+            "publishedAt": "2023-01-27T18:22:08Z",
+            "content": "The Eagles are just days away from taking the field at The Linc for the NFC Championship game, and center Jason Kelce spoke to reporters on Thursday about how the team is staying focused, what he thi\u2026 [+4505 chars]"
         },
         {
             "source": {
@@ -203,64 +216,51 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Prince Andrew booted from Buckingham Palace | 7NEWS - 7NEWS Australia",
-            "description": "Controversial member of the royal family Prince Andrew has reportedly been booted from Buckingham Palace. There\u2019s now growing widespread speculation as to wh...",
-            "url": "https://www.youtube.com/watch?v=vP4g-3B9rMw",
-            "urlToImage": "https://i.ytimg.com/vi/vP4g-3B9rMw/maxresdefault.jpg",
-            "publishedAt": "2023-01-27T01:02:23Z",
+            "title": "Why have tech firms fired 200000 people? | DW Business - DW News",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkTs8YHlIpDs",
+            "urlToImage": null,
+            "publishedAt": "2023-01-27T17:30:05Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "SamMobile"
             },
-            "author": null,
-            "title": "Has Earth's Core Stopped Spinning? | January 27, 2023 - CNN 10",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSbSGWs_ZmmE",
-            "urlToImage": null,
-            "publishedAt": "2023-01-27T01:00:10Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "author": "SamMobile, Mihai Matei",
+            "title": "Even more Galaxy S23 official case renders have leaked - SamMobile - Samsung news",
+            "description": "Even more Galaxy S23-series official case renders have leaked, giving us what might be the full picture of Samsung's accessories ...",
+            "url": "https://www.sammobile.com/news/even-more-galaxy-s23-official-case-renders-have-leaked/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/01/20230126_181031-720x405.jpg",
+            "publishedAt": "2023-01-27T17:08:00Z",
+            "content": "Even more Galaxy S23-series official case renders have leaked, giving us what might be the full picture of Samsungs accessories for the upcoming flagship series. The leaked image gallery below includ\u2026 [+1037 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Oliver Darcy",
+            "title": "'GMA3' anchors Amy Robach and T.J. Holmes expected to depart ABC after reported romantic relationship, source says - CNN",
+            "description": "T.J. Holmes and Amy Robach, the anchors of the third hour of ABC's flagship morning show \"Good Morning America,\" are in the final stages of negotiating an exit from the network after photos surfaced last year of the pair engaged in an apparent romantic relati\u2026",
+            "url": "https://www.cnn.com/2023/01/27/media/gma3-anchors-depart/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230113132245-tj-holmes-amy-robach-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-27T17:01:00Z",
+            "content": "T.J. Holmes and Amy Robach, the anchors of the third hour of ABCs flagship morning show Good Morning America, are in the final stages of negotiating an exit from the network after photos surfaced las\u2026 [+1135 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "GMA"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Asteroid 2023 BU: Space rock passes closer than some satellites - BBC",
-            "description": "About the size of a bus, the space rock whipped over the southern tip of South America.",
-            "url": "https://www.bbc.com/news/science-environment-64411469",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7FC8/production/_128421723_gettyimages-1365125730.jpg",
-            "publishedAt": "2023-01-27T00:57:17Z",
-            "content": "Now it's over, we can say it: a biggish asteroid passed by Earth a short while ago.\r\nAbout the size of a minibus, the space rock, known as 2023 BU, whipped over the southern tip of South America just\u2026 [+3514 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Dead Space Remake Video Review - GameSpot",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRW8vYfi1bQ0",
-            "urlToImage": null,
-            "publishedAt": "2023-01-27T00:51:01Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Will McDuffie",
-            "title": "Kemp declares state of emergency after protests, mobilizes National Guard - ABC News",
-            "description": "Police arrested six people Saturday after demonstrations escalated in Atlanta.",
-            "url": "https://abcnews.go.com/US/kemp-declares-state-emergency-after-protests-mobilizes-national/story?id=96701465",
-            "urlToImage": "https://s.abcnews.com/images/US/brian-kemp-ap-jt-230126_1674778839241_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-01-27T00:49:41Z",
-            "content": "Georgia Gov. Brian Kemp declared a state of emergency Thursday in response to ongoing protests in downtown Atlanta.\r\nKemp ordered the state's defense department to mobilize up to 1,000 state National\u2026 [+2235 chars]"
+            "author": "Katie Kindelan",
+            "title": "Autism rates have tripled among children under 8, study finds - GMA",
+            "description": "",
+            "url": "https://www.goodmorningamerica.com/wellness/story/study-finds-autism-rates-tripled-young-kids-96714425",
+            "urlToImage": "https://s.abcnews.com/images/GMA/kid-rf-gty-ml-230127_1674829059870_hpMain_16x9_608.jpg",
+            "publishedAt": "2023-01-27T16:13:44Z",
+            "content": "Autism is on the rise among young children, according to a new study.\r\nThe study, published Thursday in the journal Pediatrics, found that autism rates tripled over the last 16 years.\r\nResearchers at\u2026 [+4241 chars]"
         }
     ]
 }
