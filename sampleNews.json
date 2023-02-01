@@ -1,188 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Ina Fried",
-            "title": "OpenAI releases tool to detect machine-written text - Axios",
-            "description": "However, its creators warn, the free web-based tool makes lots of mistakes.",
-            "url": "https://www.axios.com/2023/01/31/openai-chatgpt-detector-tool-machine-written-text",
-            "urlToImage": "https://images.axios.com/41brhQ9ggehvi4gQ8JL-IjRDQ08=/0x0:1920x1080/1366x768/2023/01/31/1675179828731.png",
-            "publishedAt": "2023-02-01T00:33:45Z",
-            "content": "ChatGPT creator OpenAI today released a free web-based tool designed to help educators and others figure out if a particular chunk of text was written by a human or a machine.\r\nYes, but: OpenAI cauti\u2026 [+1615 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Morgan Lee",
-            "title": "Manslaughter charge for Alec Baldwin in 'Rust' set shooting - The Associated Press - en Espa\u00f1ol",
-            "description": "SANTA FE, N.M. (AP) \u2014 Actor Alec Baldwin and a weapons specialist have been formally charged with involuntary manslaughter in the fatal shooting of a cinematographer on a New Mexico movie set, according to court documents filed by prosecutors Tuesday.",
-            "url": "https://apnews.com/article/alec-baldwin-crime-santa-fe-movies-d605e97752556dd444369b3fdbbd9f68",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b7284399a39f4ab8bf3145a8c16b86e6/3000.webp",
-            "publishedAt": "2023-02-01T00:07:31Z",
-            "content": "SANTA FE, N.M. (AP) Actor Alec Baldwin and a weapons specialist have been formally charged with involuntary manslaughter in the fatal shooting of a cinematographer on a New Mexico movie set, accordin\u2026 [+6574 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Sonia Rao",
-            "title": "The Academy lets Andrea Riseborough keep her Oscar nomination - The Washington Post",
-            "description": "The controversy over Andrea Riseborough's Oscar nomination, which some experts say is overblown, finds the Academy reckoning with the social media age.",
-            "url": "https://www.washingtonpost.com/arts-entertainment/2023/01/31/andrea-riseborough-oscar-academy-decision/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EYEVCEPPYOQA3QPHKAGVZC2MMQ.jpg&w=1440",
-            "publishedAt": "2023-02-01T00:02:34Z",
-            "content": "Comment on this story\r\nThe matter is finally settled: Andrea Riseborough will be allowed to keep her Oscar nomination.\r\nFollowing a week of controversy, the Academy of Motion Picture Arts and Science\u2026 [+6418 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "BREAKING NEWS: Sean Payton Traded to the Denver Broncos - NFL",
-            "description": "Sean PaytonCheck out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.you...",
-            "url": "https://www.youtube.com/watch?v=yJArkKuZSII",
-            "urlToImage": "https://i.ytimg.com/vi/yJArkKuZSII/maxresdefault.jpg",
-            "publishedAt": "2023-01-31T22:37:26Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Borys Kit",
-            "title": "DC Slate Unveiled: New Batman, Supergirl Movies, a Green Lantern TV Show, and More From James Gunn, Peter Safran - Hollywood Reporter",
-            "description": "The DC Studios bosses shared 10 projects, talked the exit of Henry Cavill and addressed the potential future of Ezra Miller as the Flash as they introduced a slate of big heroes and lesser-known characters. \"The stakes are massive for us and for Warner Bros. \u2026",
-            "url": "https://www.hollywoodreporter.com/movies/movie-features/james-gunn-unveils-dc-slate-batman-superman-1235314176/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/James-Gunn-and-Peter-Safran-Headshots-Split-Getty-H-2023.jpg?w=1024",
-            "publishedAt": "2023-01-31T22:11:43Z",
-            "content": "A new Batman movie without Robert Pattinson (but featuring Bruce Wayne\u2019s murderous son). A Superman movie on the release schedule (mark your calendars for July 11, 2025). A Game of Thrones-style dram\u2026 [+15268 chars]"
+            "title": "Suspects arrested over Pakistan mosque blast, police focus on how bomber got in - Reuters",
+            "description": "Police investigating a suicide bombing that killed more than 100 people at a Pakistan mosque said on Tuesday that several people had been arrested, and they could not rule out the possibility that the bomber had internal assistance evading security checks.",
+            "url": "https://www.reuters.com/world/asia-pacific/death-toll-pakistan-mosque-blast-rises-83-hospital-spokesperson-2023-01-31/",
+            "urlToImage": "https://www.reuters.com/resizer/-0cRmQfXYCqyL_V6VAY9bOS7PHU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2G67MQA2XVMVXKXDM4VTM37JDY.jpg",
+            "publishedAt": "2023-02-01T09:44:00Z",
+            "content": "PESHAWAR, Pakistan, Feb 1 (Reuters) - Police investigating a suicide bombing that killed more than 100 people at a Pakistan mosque said on Tuesday that several people had been arrested, and they coul\u2026 [+2629 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Sandee LaMotte",
-            "title": "Ultraprocessed foods linked to ovarian and other cancer deaths, study finds - CNN",
-            "description": "Cancer risk and mortality, especially for ovarian cancer, rose as more ultraprocessed foods were eaten, a new study found.",
-            "url": "https://www.cnn.com/2023/01/31/health/ultraprocessed-foods-cancer-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130112522-women-eating-pizza-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-31T22:01:00Z",
-            "content": "Editors Note: Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life. \r\nEating more ultr\u2026 [+5376 chars]"
+            "author": "Elizabeth Wolfe, Paradise Afshar, Tina Burnside",
+            "title": "Report: Man accused of kidnapping, torturing Oregon woman dies from self-inflicted gunshot wound following police standoff - CNN",
+            "description": "A week after authorities discovered a woman bound and beaten in a southwest Oregon home, the kidnapping suspect has died from a self-inflicted gunshot wound, a CNN affiliate reports.",
+            "url": "https://www.cnn.com/2023/02/01/us/oregon-kidnapping-suspect-benjamin-foster-dead-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230201090149-grants-pass-standoff-013123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-01T09:19:00Z",
+            "content": "A week after authorities discovered a woman bound and beaten in a southwest Oregon home, the kidnapping suspect has died from a self-inflicted gunshot wound, a CNN affiliate reports. \r\nBenjamin Obadi\u2026 [+3443 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "TMZ"
             },
-            "author": "DJ Bien-Aime",
-            "title": "Texans hire 49ers DC DeMeco Ryans as head coach - ESPN",
-            "description": "Houston has hired 49ers defensive coordinator DeMeco Ryans, a former linebacker for the Texans, as the team's new head coach.",
-            "url": "https://www.espn.com/nfl/story/_/id/35564183/sources-texans-hire-49ers-dc-demeco-ryans-head-coach",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0117%2Fr1119018_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-01-31T21:37:14Z",
-            "content": "HOUSTON -- The Texans have hired San Francisco 49ers defensive coordinator DeMeco Ryans as their new head coach, the team announced Tuesday.\r\nThe deal is for six years, sources told ESPN's Adam Schef\u2026 [+6186 chars]"
+            "author": "TMZ Staff",
+            "title": "Olivia Wilde, Jason Sudeikis Fighting Over Child Support Issues - TMZ",
+            "description": "Olivia Wilde and Jason Sudeikis may have been hugging recently, but not because they've resolved their conflicts -- TMZ's learned there's a dogfight over how child support will be handled.",
+            "url": "https://www.tmz.com/2023/02/01/olivia-wilde-jason-sudeikis-child-support-child-custody-battle-court-la-new-york/",
+            "urlToImage": "https://imagez.tmz.com/image/2d/16by9/2023/01/31/2d56637643e7448a907a3d588dfc1ee8_xl.jpg",
+            "publishedAt": "2023-02-01T09:00:00Z",
+            "content": "Olivia Wilde and Jason Sudeikis may have been hugging recently, but not because they've resolved their conflicts -- TMZ's learned there's a dogfight over how child support will be handled.\r\nSources w\u2026 [+1353 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Page Six"
-            },
-            "author": "Bernie Zilio",
-            "title": "Pamela Anderson: Tommy Lee's current wife will find my memoir 'annoying' - Page Six",
-            "description": "In \u201cLove, Pamela,\u201d the \u201cBaywatch\u201d star describes a tumultuous marriage to Lee that was marked by anger, jealousy, physical abuse, an arrest and jail time.",
-            "url": "https://pagesix.com/2023/01/31/pamela-anderson-tommy-lees-wife-will-find-memoir-annoying/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/01/pamela-anderson-tommy-lee-brittany-furlan.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2023-01-31T20:45:00Z",
-            "content": "Pamela Anderson understands if her ex-husband Tommy Lee\u2019s current wife, Brittany Furlan, isn\u2019t too fond of her newly released memoir.\r\n\u201cI\u2019m sure it\u2019s going to be annoying to his wife. I\u2019d be annoyed,\u2026 [+1588 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/jon-fingas",
-            "title": "343 is reportedly 'starting from scratch' on Halo development after layoffs - Engadget",
-            "description": "343 is reportedly 'rebooting' development of Halo games, including a switch to Unreal Engine..",
-            "url": "https://www.engadget.com/343-industries-halo-unreal-engine-202439779.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/9ee60c00-a19c-11ed-b57e-1d501a90db7f",
-            "publishedAt": "2023-01-31T20:25:05Z",
-            "content": "343 Industries and Halo may be here to stay despite Microsoft's mass layoffs, but that doesn't mean it's business as usual for the franchise. Bloombergsources claim 343 is effectively restarting Halo\u2026 [+1867 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "name": "The Times of Israel"
             },
             "author": null,
-            "title": "As Exxon posts record profit, how much is too much? - KTLA 5",
-            "description": "ExxonMobil\u2019s profit more than doubled last year to a record $56 billion, thanks in large part to soaring energy costs over which the company had little contr...",
-            "url": "https://www.youtube.com/watch?v=o_sFItDfcg0",
-            "urlToImage": "https://i.ytimg.com/vi/o_sFItDfcg0/maxresdefault.jpg",
-            "publishedAt": "2023-01-31T19:50:13Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Joshua Partlow",
-            "title": "Six of the Colorado River states agreed on water cuts. California did not - The Washington Post",
-            "description": "California did not sign on to a joint proposal for cuts \u2014 an impasse that suggests the wrangling over how to conserve the dwindling water supply that serves 40 million people will continue in coming months.",
-            "url": "https://www.washingtonpost.com/climate-environment/2023/01/31/colorado-river-states-water-cuts-agreement/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EPDB7RBUOYOOJY3LX7JPSAE3PE.jpg&w=1440",
-            "publishedAt": "2023-01-31T19:49:07Z",
-            "content": "Comment on this story\r\nFor the second time in six months, states that depend on the Colorado River to sustain their farms and cities appear to have failed to reach an agreement on restricting water u\u2026 [+8227 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Andi Babineau, Elizabeth Wolfe",
-            "title": "Police release photo of man they want to speak to about missing tamarin monkeys at Dallas Zoo - CNN",
-            "description": "The Dallas Police Department released surveillance video and a photo of an unidentified man they want to speak to in regard to two tamarin monkeys who were believed to be stolen from the zoo on Monday.",
-            "url": "https://www.cnn.com/2023/01/31/us/dallas-zoo-tamarin-monkeys-missing/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230131082542-dallas-zoo-emperor-tamarin-monkey.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-31T19:25:00Z",
-            "content": "The Dallas Police Department released surveillance video and a photo of an unidentified man they want to speak to in regard to two tamarin monkeys who were believed to be stolen from the zoo on Monda\u2026 [+3442 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Pope in DR Congo: 'Hands off Africa' says Pope Francis in Kinshasa speech - BBC",
-            "description": "Pope Francis gave a speech where he spoke of the centuries of exploitation faced by the continent.",
-            "url": "https://www.bbc.com/news/world-africa-64476624",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/865D/production/_128479343_a64e28e2859b77422d71d4a91f0bd01ad61f9f400_0_3072_20481000x667.jpg",
-            "publishedAt": "2023-01-31T19:21:27Z",
-            "content": "Shortly after landing in Kinshasa in the Democratic Republic of the Congo, Pope Francis delivered a speech full of stinging condemnation of the exploitation over centuries - not just of this country,\u2026 [+2447 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Big12sports.com"
-            },
-            "author": null,
-            "title": "2023 Big 12 Conference Football Schedule Released - Big12Sports.com",
-            "description": "The Big 12 today released its 2023 football schedule, its first-ever as a 14-team Conference.",
-            "url": "https://big12sports.com/news/2023/1/31/2023-big-12-conference-football-schedule-released.aspx",
-            "urlToImage": "http://big12sports.com/images/2023/1/31/b12_footballschedule_grid_CR_NonCon_Full_1_30_23.png?preset=large.storyimage",
-            "publishedAt": "2023-01-31T19:01:29Z",
-            "content": "Story Links\r\nThe Big 12 today released its 2023 football schedule, its first-ever as a 14-team Conference.The 28th season of Big 12 football begins on September 16th with incoming member Houston host\u2026 [+1101 chars]"
+            "title": "Netanyahu says he wants to hear \u2018counter offers\u2019 to proposed judicial overhaul - The Times of Israel",
+            "description": "In wide-ranging CNN interview, PM insists radical changes will 'correct' Israeli democracy, vows to thwart Iran, says he's 'looking into' giving Ukraine 'other kinds of aid'",
+            "url": "https://www.timesofisrael.com/netanyahu-says-he-wants-to-hear-counteroffers-to-proposed-judicial-overhaul/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/02/Screenshot-2023-01-31-at-10.02.50-PM-e1675224422536-1024x640.png",
+            "publishedAt": "2023-02-01T07:38:44Z",
+            "content": "Prime Minister Benjamin Netanyahu said Tuesday that he is ready to \u201chear counter offers\u201d to his contentious plan to radically overhaul Israel\u2019s independent judiciary, while still defending the propos\u2026 [+15319 chars]"
         },
         {
             "source": {
@@ -190,77 +60,207 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Elon Musk seeks to end lawsuit over 'inadvertent' late disclosure of Twitter stake - Reuters",
-            "description": "Elon Musk asked a U.S. judge to throw out a lawsuit claiming that his delayed disclosure of a large stake in Twitter Inc defrauded shareholders who sold Twitter stock at artificially low prices because they were kept in the dark.",
-            "url": "https://www.reuters.com/legal/elon-musk-seeks-end-lawsuit-over-inadvertent-late-disclosure-twitter-stake-2023-01-31/",
-            "urlToImage": "https://www.reuters.com/resizer/jbtD9j4GFHuWxTdz8KPyyaTp9hI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WJ72J57YWJPFLDJVQWCNMJ4GDQ.jpg",
-            "publishedAt": "2023-01-31T18:26:00Z",
-            "content": "NEW YORK, Jan 31 (Reuters) - Elon Musk asked a U.S. judge to throw out a lawsuit claiming that his delayed disclosure of a large stake in Twitter Inc defrauded shareholders who sold Twitter stock at \u2026 [+2163 chars]"
+            "title": "Missing radioactive capsule found in Western Australia - Reuters",
+            "description": "Australian authorities on Wednesday found a radioactive capsule that was lost in the vast Outback after nearly a week-long search along a 1,400 km (870-mile) stretch of highway, an emergency services official said.",
+            "url": "https://www.reuters.com/world/asia-pacific/missing-radioactive-capsule-found-western-australia-2023-02-01/",
+            "urlToImage": "https://www.reuters.com/resizer/jLpDC6pN9jDQg6kRIJuIQe8a4eI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TLJGQ7KWVOLVDAFWGVUP23ANU.jpg",
+            "publishedAt": "2023-02-01T07:13:00Z",
+            "content": "SYDNEY, Feb 1 (Reuters) - Australian authorities on Wednesday found a radioactive capsule that was lost in the vast Outback after nearly a week-long search along a 1,400 km (870-mile) stretch of high\u2026 [+1665 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Emma Roth",
-            "title": "Samsung Galaxy Unpacked 2023: all the news and updates from the event - The Verge",
-            "description": "Samsung\u2019s Galaxy Unpacked event takes place on Wednesday, February 1st. We\u2019ll keep you up to date on the latest news from the event, which could include a new lineup of S23 phones and Galaxy Book devices.",
-            "url": "https://www.theverge.com/23577653/samsung-galaxy-unpacked-2023-news-products",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/zllxopJ42_2VTsuRqkDOFRbjq5I=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/16317091/acastro_190503_1777_samsung_0001.0.jpg",
-            "publishedAt": "2023-01-31T18:06:00Z",
-            "content": "<ul><li>\r\n</li><li>\r\n</li><li>\r\n</li><li>\r\n</li><li>\r\n</li></ul>"
+            "author": null,
+            "title": "Adani Group stocks rout deepens to $72 billion despite share sale completion - Reuters",
+            "description": "Most Adani Group stocks dropped on Wednesday, extending losses to $72 billion after a short-seller report criticised the conglomerate and despite the group completing a closely watched share sale a day earlier.",
+            "url": "https://www.reuters.com/business/adani-group-stocks-resume-fall-after-25-bln-share-sale-goes-through-2023-02-01/",
+            "urlToImage": "https://www.reuters.com/resizer/JdNNuQGag_MApH8DGqQNG-DS4FY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SLC2FQMIZVJZNNCICPG5ESHEU4.jpg",
+            "publishedAt": "2023-02-01T05:10:00Z",
+            "content": "BENGALURU, Feb 1 (Reuters) - Most Adani Group stocks dropped on Wednesday, extending losses to $72 billion after a short-seller report criticised the conglomerate and despite the group completing a c\u2026 [+1965 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Andrew Freedman",
+            "title": "2 dead as ice storm slams souther U.S. from Dallas to Memphis - Axios",
+            "description": "The storm is sending repeated waves of sleet, freezing rain and snow surging northeast from Texas.",
+            "url": "https://www.axios.com/2023/01/31/treacherous-ice-storm-delays-texas-to-kentucky",
+            "urlToImage": "https://images.axios.com/dVf1JJYsLNnW7UEaHJW4WFNVhlA=/0x51:1920x1131/1366x768/2023/01/31/1675190531402.jpg",
+            "publishedAt": "2023-02-01T04:07:31Z",
+            "content": "The combination of moisture from the Gulf of Mexico and Arctic air spilling south from Canada is resulting in a long-duration ice storm for millions of people, across at least eight states. \r\nThe big\u2026 [+4162 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dan Lamothe",
+            "title": "Biden's 'no' on F-16s for Ukraine met with skepticism in Pentagon - The Washington Post",
+            "description": "The administration has exhibited a pattern of rejecting similar pleas from the government in Kyiv only to relent later.",
+            "url": "https://www.washingtonpost.com/national-security/2023/01/31/ukraine-f16-biden/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZ2NGFJDUS26EA4YVTJ4UCOOTI.JPG&w=1440",
+            "publishedAt": "2023-02-01T03:40:00Z",
+            "content": "Comment on this story\r\nPresident Bidens brusque refusal to fulfill Ukraines request for F-16 jets has been greeted with skepticism at the Pentagon, where some officials, citing the administrations pa\u2026 [+5884 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Edward Segarra, USA TODAY",
+            "title": "Dr. Phil is ending his long-running talk show after 21 seasons - USA TODAY",
+            "description": "Dr. Phil McGraw is walking away from his \"Dr. Phil' talk show after 21 seasons to pursue other projects.",
+            "url": "https://www.usatoday.com/story/entertainment/tv/2023/01/31/dr-phil-ending-talk-show-after-21-seasons/11158263002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/01/USAT/674ea669-ca7e-4183-afab-84bed1638254-GTY_1144856826.JPG?auto=webp&crop=2398,1349,x0,y600&format=pjpg&width=1200",
+            "publishedAt": "2023-02-01T03:38:32Z",
+            "content": "Dr. Phil McGraw is calling it quits on his eponymous daytime talk show after more than two decades on the air.\r\nMcGraw, who holds a doctorate in clinical psychology, said in a statement that while th\u2026 [+2691 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NDTV News"
+                "name": "NBC 5 Dallas-Fort Worth"
             },
-            "author": null,
-            "title": "'Doppelganger Murder': German Woman Kills \"Instagram Lookalike\" To Fake Own Death - NDTV",
-            "description": "The brutal and bizarre case has been dubbed \"the doppelganger murder.\"",
-            "url": "https://www.ndtv.com/feature/doppelganger-murder-german-woman-kills-instagram-lookalike-to-fake-own-death-3741093",
-            "urlToImage": "https://c.ndtvimg.com/2019-06/hf08g2no_murder-generic_625x300_27_June_19.jpg",
-            "publishedAt": "2023-01-31T17:44:51Z",
-            "content": "A police spokesman said the killing was done for \"base motives.\"\r\nA 23-year-old German woman has been accused of seeking out a lookalike of herself on social media and killing her in an attempt to fa\u2026 [+2719 chars]"
+            "author": "Frank Heinz, Brian Roth",
+            "title": "Missing Dallas Zoo Monkeys Found in Lancaster - NBC 5 Dallas-Fort Worth",
+            "description": "The Dallas Zoo says two monkeys who may have been taken from their habitat Monday were found in Lancaster a day later.",
+            "url": "https://www.nbcdfw.com/news/local/missing-dallas-zoo-monkeys-found-in-lancaster-home/3183173/",
+            "urlToImage": "https://media.nbcdfw.com/2023/01/Fn19L6VXoAA9Yr2.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-02-01T03:33:45Z",
+            "content": "The Dallas Zoo says the two monkeys that are believed to have been taken from their habitats Monday have been found.\r\nDallas police said that they found the two emperor tamarin monkeys after getting \u2026 [+2838 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Rachel Grumman Bender",
-            "title": "A 'concerning' number of women 65 and older are dying from cervical cancer, according to a new study - Yahoo Life",
-            "description": "More older women are being diagnosed with late-stage cervical cancer, which experts say is concerning. Here's what you need to know.",
-            "url": "https://www.yahoo.com/lifestyle/cervical-cancer-deaths-65-and-older-171230507.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lXZEa2Da3wCMWf4Sfv4Zig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/dec3f7d0-9e84-11ed-9e3d-2d75122e3e80",
-            "publishedAt": "2023-01-31T17:12:30Z",
-            "content": "More older women are being diagnosed with late-stage cervical cancer, which has lower survival rates. (Getty Images)\r\nNearly one in five new cervical cancers diagnosed from 2009 to 2018 were in women\u2026 [+7931 chars]"
+            "author": "Jason Owens",
+            "title": "LeBron James moves within 100 points of Kareem Abdul-Jabbar, into 4th all-time in assists in win over Knicks - Yahoo Sports",
+            "description": "James is the only non-point guard to rank in the top 20 in career assists. He moved into the fourth all-time as crept that much closer to the scoring title.",
+            "url": "https://sports.yahoo.com/lebron-james-moves-within-100-points-of-kareem-abdul-jabbar-into-4th-all-time-in-assists-in-win-over-knicks-032438084.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8wgoPEdFy.NxqhS9R5dRXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/6e13ecb0-a1dc-11ed-bcdf-e8031f17b2ac",
+            "publishedAt": "2023-02-01T03:24:00Z",
+            "content": "LeBron James does it all.\r\nThe Los Angeles Lakers star moved within striking distance of the NBA's all-time scoring title on Tuesday while passing a pair of point guard greats on the career assist ch\u2026 [+3025 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Jess Weatherbed",
-            "title": "NASA's Perseverance has dropped its final sample of Mars dirt - The Verge",
-            "description": "NASA\u2019s Perseverance has dropped the last of 10 sample tubes onto the surface of Mars as a backup cache, which scientists hope can later be collected and delivered to Earth for testing.",
-            "url": "https://www.theverge.com/2023/1/31/23579596/nasa-perseverance-mars-rover-martian-rock-samples-return",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Eg3WLZ1z5Cq74SThTFYB1IEShsk=/0x0:1200x1122/1200x628/filters:focal(600x561:601x562)/cdn.vox-cdn.com/uploads/chorus_asset/file/24398702/9337_PIA25681_FigureA_web.jpg",
-            "publishedAt": "2023-01-31T17:05:18Z",
-            "content": "NASAs Martian rover has finished hoarding samples that might contain proof of ancient life\r\nNASAs Martian rover has finished hoarding samples that might contain proof of ancient life\r\n / The Mars rov\u2026 [+2902 chars]"
+            "author": "Katherine Dillinger",
+            "title": "CDC advises against using EzriCare eye drops as it investigates dozens of infections and one death in 11 states - CNN",
+            "description": "The US Centers for Disease Control and Prevention is urging health care providers and consumers to stop using EzriCare Artificial Tears as it conducts an investigation into at least 50 infections in 11 states that have led to instances of permanent vision los\u2026",
+            "url": "https://www.cnn.com/2023/01/31/health/ezricare-eye-drops-infections-cdc/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230131175412-ezricare-eye-drops-products.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-01T03:07:00Z",
+            "content": "The US Centers for Disease Control and Prevention is urging health care providers and consumers to stop using EzriCare Artificial Tears as it conducts an investigation into at least 50 infections in \u2026 [+1628 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "GamesIndustry.biz"
+                "name": "CNBC"
             },
-            "author": "Christopher Dring",
-            "title": "Sony: We have not cut PS VR 2 production numbers - GamesIndustry.biz",
-            "description": "PS VR2 shipment numbers remain the same, Sony says",
-            "url": "https://www.gamesindustry.biz/sony-we-have-not-cut-ps-vr-2-production-numbers",
-            "urlToImage": "https://assets.reedpopcdn.com/Annotation-2023-01-31-164418.png/BROK/thumbnail/1200x630/Annotation-2023-01-31-164418.png",
-            "publishedAt": "2023-01-31T16:54:30Z",
-            "content": "PlayStation says it has \"not cut PlayStation VR2 production numbers\", following a report from Bloomberg.\r\nThe firm told GamesIndustry.biz that it is \"seeing enthusiasm from PlayStation fans for the u\u2026 [+608 chars]"
+            "author": "Jihye Lee",
+            "title": "South Korea posts the worst trade deficit in its history - CNBC",
+            "description": "South Korea saw the worst trade deficit since the agency started compiling data in 1956 and more than the $20.6 billion trade deficit seen in 1996.",
+            "url": "https://www.cnbc.com/2023/02/01/south-korea-posts-the-worst-trade-deficit-in-its-history.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107186984-1675220290175-gettyimages-1244589703-20090101221107-99-424186.jpeg?v=1675220490&w=1920&h=1080",
+            "publishedAt": "2023-02-01T03:01:00Z",
+            "content": "January exports fell $46.3 billion, or 16.6% declining more than expectations for a drop of 11.3%. Imports fell $59 billion, or 2.6%, falling less than forecasts of a 3.6% decline.\r\nThat resulted in \u2026 [+1261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lee Ying Shan",
+            "title": "Asia-Pacific shares trade higher as investors gear up for Fed rate hike decision - CNBC",
+            "description": "Asia-Pacific shares trade higher, taking the lead from Wall Street's gains while investors also looked ahead to some economic data in the region.",
+            "url": "https://www.cnbc.com/2023/02/01/asia-pacific-shares-fed-gdp.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107186933-1675208514827-gettyimages-1246591454-AA_27012023_1041135.jpeg?v=1675208858&w=1920&h=1080",
+            "publishedAt": "2023-02-01T02:59:00Z",
+            "content": "Investors can expect lackluster results from Apple when it reports this week, according to Barclays.\r\nAnalyst Tim Long reiterated an equal weight rating on Apple, saying the firm dealt with a challen\u2026 [+913 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Boeing bids farewell to its final 747-8 at Everett plant - The Seattle Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3MvYm9laW5nLWFlcm9zcGFjZS9ib2VpbmctYmlkcy1mYXJld2VsbC10by1pdHMtZmluYWwtNzQ3LTgtYXQtZXZlcmV0dC1wbGFudC_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-01T02:10:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "George Santos to step down from House committees - BBC",
+            "description": "The Republican, who has admitted fabricating parts of his CV, says he does not want to become a \"distraction\".",
+            "url": "https://www.bbc.com/news/world-us-canada-64473260",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1803F/production/_128476389_gettyimages-1459384472.jpg",
+            "publishedAt": "2023-02-01T01:54:08Z",
+            "content": "Republican congressman George Santos will step down from serving on committees in the US House of Representatives.\r\nThe 34-year-old has faced growing calls to resign after he admitted fabricating par\u2026 [+4269 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Lance Zierlein,Eric Edholm",
+            "title": "2023 Senior Bowl Day 1 standouts: BYU WR Puka Nacua impresses; center rising into Round 1? - NFL.com",
+            "description": "Which 2023 NFL Draft prospects helped themselves on Day 1 of Senior Bowl practice? Lance Zierlein and Eric Edholm provide a look at five stars from Tuesday and more takeaways from the all-star game.",
+            "url": "https://www.nfl.com/news/2023-senior-bowl-day-1-standouts-byu-wr-puka-nacua-impresses-center-rising-into-",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/zxsy3fcn3zl9uepciuhb",
+            "publishedAt": "2023-02-01T01:43:00Z",
+            "content": "1) SMU's Rashee Rice gave up a nap to stand out on Tuesday.\r\nRice knows how to get open, and that trait was on the line at the end of Tuesday's practice.\r\nThe American team coaches pitted a series of\u2026 [+5354 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Andrew Nachemson",
+            "title": "Myanmar anti-coup forces retain optimism in face of air attacks - Al Jazeera English",
+            "description": "Groups that rose up against the military after its February 2021 power grab say air raids are a sign of its weakness.",
+            "url": "https://www.aljazeera.com/news/2023/2/1/myanmar-anti-coup-forces-retain-optimism-in-face-of-air-attacks",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/000_32BK4KE.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-02-01T00:38:02Z",
+            "content": "Resistance to military rule in Myanmar has been defined by optimism.\r\nWhen the military first seized power on February 1, 2021, the mass peaceful protests that emerged were reminiscent of a jubilant \u2026 [+7496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WREG NewsChannel 3"
+            },
+            "author": "David Royer, Autumn Scott, Jessica Gertler",
+            "title": "Family, leaders call for police reform before Tyre Nichols\u2019 funeral - WREG NewsChannel 3",
+            "description": "MEMPHIS, Tenn. \u2014 On the eve of Tyre Nichols\u2019 funeral, his family and leaders stood inside the historic Mason Temple Tuesday night and called for change and police reform. Watch the full press conference in the player below. The place where Martin Luther King \u2026",
+            "url": "https://wreg.com/news/local/tyre-nichols/al-sharpton-to-join-tyre-nichols-family-for-press-conference-tuesday-night/",
+            "urlToImage": "https://wreg.com/wp-content/uploads/sites/18/2023/01/Screen-Shot-2023-01-31-at-8.17.08-PM.png?w=1280",
+            "publishedAt": "2023-02-01T00:30:16Z",
+            "content": "MEMPHIS, Tenn. On the eve of Tyre Nichols funeral, his family and leaders stood inside the historic Mason Temple Tuesday night and called for change and police reform.\r\nWatch the full press conferenc\u2026 [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paul Best",
+            "title": "NASA captures photo of 'bear's face' on the surface of Mars - Fox News",
+            "description": "NASA's Mars Reconnaissance Orbiter took a a photograph of a formation that resembles a bear's face on the surface of the Red Planet.",
+            "url": "https://www.foxnews.com/science/nasa-captures-photo-bears-face-surface-mars",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/bears-face.png",
+            "publishedAt": "2023-02-01T00:03:00Z",
+            "content": "A strange formation that resembles a bear's face was captured on the surface of the Red Planet by NASA's Mars Reconnaissance Orbiter last month.\u00a0\r\nTwo perfectly placed craters make up the eyes, a hil\u2026 [+1586 chars]"
         }
     ]
 }
