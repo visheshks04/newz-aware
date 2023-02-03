@@ -1,253 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Alex Woodward",
-            "title": "Tyre Nichols \u2013 updates: Funeral renews calls for police reform as up to 20 hours of video yet to be released - The Independent",
-            "description": "Video footage shows 29-year-old Black man beaten by Memphis officers",
-            "url": "https://www.independent.co.uk/news/world/americas/tyre-nichols-funeral-program-police-officers-video-b2274209.html",
-            "urlToImage": "https://static.independent.co.uk/2023/01/31/08/6e3dea95858d4205902f0bbf0b7bb4b7.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-02-02T09:30:30Z",
-            "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nThe funeral for Tyre Nichols was held in Memphis on Wednesday, more tha\u2026 [+8311 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aya Elamroussi, Joe Sutton, Taylor Ward",
-            "title": "As ice storm continues in the South, parts of the Northeast brace for brutal wind chills not felt in decades - CNN",
-            "description": "As hundreds of thousands remain without power in Texas on Thursday amid frigid temperatures and icy roads, the Northeast is bracing for a blast of bitterly freezing air that forecasters say could be the coldest felt in decades.",
-            "url": "https://www.cnn.com/2023/02/02/weather/winter-storm-south-northeast-us/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230202121852-winter-storm-austin-texas-010223.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-02T08:21:00Z",
-            "content": "As hundreds of thousands remain without power in Texas on Thursday amid frigid temperatures and icy roads, the Northeast is bracing for a blast of bitterly freezing air that forecasters say could be \u2026 [+4590 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sam Meredith",
-            "title": "Oil giant Shell posts highest-ever annual profit of $40 billion - CNBC",
-            "description": "The extraordinary scale of the industry's earnings has renewed criticism and sparked calls for a Big Oil windfall profit tax.",
-            "url": "https://www.cnbc.com/2023/02/02/shell-earnings-oil-giant-reports-record-annual-profits.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107187072-1675245797403-gettyimages-1246695428-AFP_33894VQ.jpeg?v=1675321982&w=1920&h=1080",
-            "publishedAt": "2023-02-02T07:13:02Z",
-            "content": "British oil giant Shell on Thursday posted its highest-ever annual profit, bolstered by soaring fossil fuel prices and robust demand since Russia's full-scale invasion of Ukraine last year.\r\nShell re\u2026 [+4539 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Matt Leach, Megan Myers, Ramiro Vargas",
-            "title": "Tom Brady retirement a welcome sight for some football fans - Fox News",
-            "description": "Football fans react to Tampa Bay Buccaneers' Tom Brady second retirement. The history-making quarterback will end his career with seven Super Bowl titles.",
-            "url": "https://www.foxnews.com/sports/tom-brady-retirement-welcome-sight-football-fans",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21039133644772.jpg",
-            "publishedAt": "2023-02-02T07:00:00Z",
-            "content": "NEW YORK Football fans are having mixed reactions to Tom Brady's retirement, with some cheering the legendary quarterback's decision, while others are in disbelief\r\n\"I think it's about time,\" one Bea\u2026 [+2021 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Nick Perry",
-            "title": "Australia is removing British monarchy from its bank notes - The Associated Press - en Espa\u00f1ol",
-            "description": "CANBERRA, Australia (AP) \u2014 Australia is removing the British monarchy from its bank notes. The nation's central bank said Thursday its new $5 bill would feature an Indigenous design rather than an image of King Charles III.",
-            "url": "https://apnews.com/article/queen-elizabeth-ii-king-charles-iii-australia-business-25f05caba7d4d71b6952e52d695f4107",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/9442b5c913414821ae190ede9ffa4a10/3000.webp",
-            "publishedAt": "2023-02-02T06:45:00Z",
-            "content": "CANBERRA, Australia (AP) Australia is removing the British monarchy from its bank notes.\r\nThe nations central bank said Thursday its new $5 bill would feature an Indigenous design rather than an imag\u2026 [+3792 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Christopher Miller",
-            "title": "Battle of Bakhmut nears tipping point as Russia intensifies offensive - Financial Times",
-            "description": "News, analysis and comment from the Financial Times, the world\u02bcs leading global business publication",
-            "url": "https://www.ft.com/content/0bfe39c1-6d68-4e72-9fe2-9f54b7efa2bd",
-            "urlToImage": null,
-            "publishedAt": "2023-02-02T05:01:55Z",
-            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Kelly Gilmore",
-            "title": "Taylor Lautner Makes Rare Comment About Ex Taylor Swift - E! NEWS",
-            "description": "Taylor Lautner recalled what it was like to see Taylor Swift\u2019s face after Kanye West interrupted her speech at the 2009 VMAs. Learn what the Twilight star said about his ex.",
-            "url": "https://www.eonline.com/news/1363527/taylor-lautner-makes-rare-comment-about-ex-taylor-swift",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202311/rs_1200x1200-230201162754-1200-Taylor-Swift-Taylor-Lautner.cm.2123.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-02-02T04:18:58Z",
-            "content": "As for what went down after that moment? Well, Swift seemed to paint a picture of that very night in her 2010 song \"Back to December,\" which Lautner has confirmed is about their romance.\r\nThe popular\u2026 [+984 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Graham Kates",
-            "title": "Hunter Biden demands investigations and retractions, opening new front against GOP foes - CBS News",
-            "description": "His legal team is going on the offensive, calling for state and federal investigations into the dissemination of material from his laptop.",
-            "url": "https://www.cbsnews.com/news/hunter-biden-laptop-investigations-retractions-rudy-giuliani-fox-news/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/01/841928a3-eb7f-4070-9657-5c8f4080658a/thumbnail/1200x630/9cc9ea525070dc3f69bdd0e6731d8c21/gettyimages-1240068340.jpg",
-            "publishedAt": "2023-02-02T04:02:00Z",
-            "content": "Hunter Biden's legal team went on the offensive Wednesday, demanding state and federal investigations into the dissemination of his personal material \u2014 purported to be from\u00a0his laptop\u00a0\u2014 and threateni\u2026 [+6120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Angie Orellana Hernandez",
-            "title": "Bachelor Alum Sarah Herron Shares Her Baby Died After She Gave Birth at 24 Weeks Pregnant - E! NEWS",
-            "description": "Bachelor alum Sarah Herron shared her and fianc\u00e9 Dylan Brown\u2019s baby boy, Oliver Brown, died shortly after she gave birth at 24 weeks pregnant.",
-            "url": "https://www.eonline.com/news/1363534/bachelor-alum-sarah-herron-shares-her-baby-died-after-she-gave-birth-at-24-weeks-pregnant",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202311/rs_1200x1200-230201192557-Sarah-Herron.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-02-02T03:51:23Z",
-            "content": "Sarah Herron is mourning the loss of her newborn son,\u00a0Oliver Brown.\r\nThe Bachelor alum shared on Feb. 1 that her and fianc\u00e9 Dylan Brown's \"beautiful son\" was born Jan. 28, when she was 24 weeks pregn\u2026 [+767 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Times of Israel"
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "Day after buying Haifa port, Indian tycoon Adani rocked by plunging stock price - The Times of Israel",
-            "description": "No longer world's third-richest man, beleaguered billionaire cancels planned share offering following short-seller report alleging massive levels of fraud",
-            "url": "https://www.timesofisrael.com/day-after-buying-haifa-port-indian-tycoon-adani-rocked-by-plunging-stock-price/",
-            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/02/F230131ST11-1024x640.jpg",
-            "publishedAt": "2023-02-02T03:30:08Z",
-            "content": "NEW DELHI, India Embattled Indian billionaire Gautam Adani called off his flagship company\u2019s $2.5 billion share sale late Wednesday after a tumultuous week saw his conglomerate shed tens of billions \u2026 [+4378 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "College Board announces changes to AP African American studies course - NBC News",
-            "description": "The College Board unveiled a new framework for Advanced Placement\u2019s African American studies course. It says the changes were not a result of pressure from c...",
-            "url": "https://www.youtube.com/watch?v=kBQxGmNQNFY",
-            "urlToImage": "https://i.ytimg.com/vi/kBQxGmNQNFY/maxresdefault.jpg",
-            "publishedAt": "2023-02-02T02:00:13Z",
+            "title": "Pentagon tracking suspected Chinese spy balloon over the US - CNN",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8wMi9wb2xpdGljcy91cy10cmFja2luZy1jaGluYS1zcHktYmFsbG9vbi9pbmRleC5odG1s0gFUaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMi8wMi9wb2xpdGljcy91cy10cmFja2luZy1jaGluYS1zcHktYmFsbG9vbi9pbmRleC5odG1s",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-03T00:18:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Charles Robinson",
-            "title": "News Roundup: Sean Payton to the Broncos, Demeco Ryans to the Texans, Tom Brady Retires - Yahoo Sports",
-            "description": "Charles Robinson and Frank Schwab recap all of the latest news from around the NFL, including the Denver Broncos trading to acquire head coach Sean Payton...",
-            "url": "https://sports.yahoo.com/news-roundup-sean-payton-to-the-broncos-demeco-ryans-to-the-texans-tom-brady-retires-015521713.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eFnz5SzEEKgFwt4jzvdnuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/09848d80-a287-11ed-a7ff-c8d9e8730e3a",
-            "publishedAt": "2023-02-02T01:55:00Z",
-            "content": "Charles Robinson and Frank Schwab recap all of the latest news from around the NFL, including the Denver Broncos trading to acquire head coach Sean Payton, the Houston Texans hiring head coach Demeco\u2026 [+3265 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Maegan Vazquez, Clare Foran",
-            "title": "McCarthy hopeful after first meeting with Biden on debt limit: 'I think that at the end of the day, we can find common ground' - CNN",
-            "description": "House Speaker Kevin McCarthy did not walk away from his highly anticipated White House meeting on Wednesday with an agreement in hand to address the debt limit, but signaled optimism that both he and President Joe Biden can reach consensus \"long before\" the U\u2026",
-            "url": "https://www.cnn.com/2023/02/01/politics/biden-mccarthy-meeting/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221115150101-biden-mccarthy-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-02T01:28:00Z",
-            "content": "House Speaker Kevin McCarthy did not walk away from his highly anticipated White House meeting on Wednesday with an agreement in hand to address the debt limit, but signaled optimism that both he and\u2026 [+6219 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Rare green comet not seen for 50000 years, visible in our skies tonight - CBS 8 San Diego",
-            "description": "On February 1, a rare green comet discovered right here in San Diego will be in its brightest form as it nears earth.If you're in the city, you'll be able to...",
-            "url": "https://www.youtube.com/watch?v=YfcJlB_jhUA",
-            "urlToImage": "https://i.ytimg.com/vi/YfcJlB_jhUA/hqdefault.jpg",
-            "publishedAt": "2023-02-02T01:22:31Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rivals.com"
-            },
-            "author": null,
-            "title": "National Signing Day: Winners and losers - Rivals.com",
-            "description": "Alabama is a winner on National Signing Day despite not adding any prospects to its class.",
-            "url": "https://n.rivals.com/news/national-signing-day-winners-and-losers-18",
-            "urlToImage": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/ddtuztpw5rz2a6fjn8ne",
-            "publishedAt": "2023-02-02T01:21:20Z",
-            "content": "The second signing day is in the books and almost every top prospect is now signed, sealed and about to be delivered if theyre not already on campus. Here is a look at the winners and losers from the\u2026 [+7041 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Filipe Esp\u00f3sito",
-            "title": "iOS 16.3 lets iPhone users add lock screen widgets to a classic wallpaper if you still have it - 9to5Mac",
-            "description": "With iOS 16, Apple introduced a new lock screen for the iPhone that lets users customize it with different widgets, font styles, and even multiple wallpapers. However, the update removed classic iPhone wallpapers, and users who still had one of them before in\u2026",
-            "url": "https://9to5mac.com/2023/02/01/ios-16-3-lock-screen-widgets-classic-wallpaper/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/iOS-16.3-classic-wallpaper-lockscreen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-02-02T01:08:00Z",
-            "content": "With iOS 16, Apple introduced a new lock screen for the iPhone that lets users customize it with different widgets, font styles, and even multiple wallpapers. However, the update removed classic iPho\u2026 [+1640 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Samsung Galaxy Unpacked 2023: all the news and updates from the event - The Verge",
-            "description": "Samsung\u2019s Galaxy Unpacked 2023 event is revealing its new Galaxy S23 Android phones and the Galaxy Book3 laptops/",
-            "url": "https://www.theverge.com/23577653/samsung-galaxy-unpacked-2023-news-products",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/zllxopJ42_2VTsuRqkDOFRbjq5I=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/16317091/acastro_190503_1777_samsung_0001.0.jpg",
-            "publishedAt": "2023-02-02T00:53:00Z",
-            "content": "<ul><li>\r\n</li><li>\r\n</li><li>Feb 1, 2023, 8:30 PM UTCSheena Vasani\r\nThe Galaxy Book3 Pro, Book3 Pro 360, and Book3 Ultra arent set to arrive until later this month, but you can already preorder them\u2026 [+3807 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Rachel Scott, Aaron Katersky, Will Steakin",
-            "title": "Veteran who claimed George Santos stole money for his dying dog says FBI has reached out to him - ABC News",
-            "description": "The freshman New York lawmaker has said he's not a \"criminal.\"",
-            "url": "https://abcnews.go.com/Politics/veteran-claimed-george-santos-stole-money-dying-dog/story?id=96834468",
-            "urlToImage": "https://s.abcnews.com/images/US/george-santos-gty-lv-230125-2_1674690932268_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-02-02T00:48:34Z",
-            "content": "The FBI has contacted a Navy veteran, Richard Osthoff, as part of an investigation into embattled Rep. George Santos and a GoFundMe campaign to raise money for Osthoff's sick service dog.\r\nOsthoff co\u2026 [+2729 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Wall St rallies as Fed's Powell nods to easing inflation after rate hike - Reuters",
-            "description": "The S&P 500 and the Nasdaq closed sharply higher on Wednesday after Federal Reserve chair Jerome Powell acknowledged that inflation was starting to ease, in remarks he made following a quarter-point rate hike by the U.S. central bank.",
-            "url": "https://www.reuters.com/markets/us/futures-dip-jitters-ahead-adp-report-fed-decision-2023-02-01/",
-            "urlToImage": "https://www.reuters.com/resizer/Uh58-QihHN3fGMXXwZyoq6BCuCI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SS5YUH7PABIFRIG45QA3SM4Z6I.jpg",
-            "publishedAt": "2023-02-02T00:31:00Z",
-            "content": "Feb 1 (Reuters) - The S&amp;P 500 and the Nasdaq closed sharply higher on Wednesday after Federal Reserve chair Jerome Powell acknowledged that inflation was starting to ease, in remarks he made foll\u2026 [+3714 chars]"
         },
         {
             "source": {
@@ -255,11 +21,245 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Fungal Infections Rising, Giving Fear That The Last of Us Is Becoming Reality - ComicBook.com",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vY29taWNib29rLmNvbS9pcmwvbmV3cy9mdW5nYWwtaW5mZWN0aW9ucy1yaXNlLXRoZS1sYXN0LW9mLXVzLWNvbmNlcm5zLXRyZW5kaW5nL9IBW2h0dHBzOi8vY29taWNib29rLmNvbS9pcmwvYW1wL25ld3MvZnVuZ2FsLWluZmVjdGlvbnMtcmlzZS10aGUtbGFzdC1vZi11cy1jb25jZXJucy10cmVuZGluZy8?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2023-02-02T00:31:00Z",
+            "title": "House Ousts Ilhan Omar From Foreign Affairs Committee - The New York Times",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDIvMDIvdXMvcG9saXRpY3MvaWxoYW4tb21hci1ob3VzZS1jb21taXR0ZWUtcmVwdWJsaWNhbnMuaHRtbNIBXmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDIvMDIvdXMvcG9saXRpY3MvaWxoYW4tb21hci1ob3VzZS1jb21taXR0ZWUtcmVwdWJsaWNhbnMuYW1wLmh0bWw",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-02T23:57:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Green comet, visible in the night sky for first time since Stone Age, makes its closest pass by Earth - CNN",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8wMi93b3JsZC9ncmVlbi1jb21ldC1pbWFnZXMtc2NuL2luZGV4Lmh0bWzSAUpodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAyLzAyL3dvcmxkL2dyZWVuLWNvbWV0LWltYWdlcy1zY24vaW5kZXguaHRtbA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-02T23:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Apple misses Q1 earnings expectations as iPhone sales fall short and China sales crater - Yahoo Finance",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CCAiC1ZKTURUaXpNRC1BmAEB",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-02T23:21:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Heather Rae Young welcomes first baby with Tarek El Moussa, his third - Page Six",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcGFnZXNpeC5jb20vMjAyMy8wMi8wMi9oZWF0aGVyLXJhZS15b3VuZy13ZWxjb21lcy1iYWJ5LWJveS13aXRoLXRhcmVrLWVsLW1vdXNzYS_SAVxodHRwczovL3BhZ2VzaXguY29tLzIwMjMvMDIvMDIvaGVhdGhlci1yYWUteW91bmctd2VsY29tZXMtYmFieS1ib3ktd2l0aC10YXJlay1lbC1tb3Vzc2EvYW1wLw",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-02T23:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "NBA trade rumors: What players might be on the move at the deadline? - Yahoo Sports",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9uYmEtdHJhZGUtcnVtb3JzLXdoYXQtcGxheWVycy1taWdodC1iZS1vbi10aGUtbW92ZS1hdC10aGUtZGVhZGxpbmUtMjMwMjUxNDE0Lmh0bWzSAXJodHRwczovL3Nwb3J0cy55YWhvby5jb20vYW1waHRtbC9uYmEtdHJhZGUtcnVtb3JzLXdoYXQtcGxheWVycy1taWdodC1iZS1vbi10aGUtbW92ZS1hdC10aGUtZGVhZGxpbmUtMjMwMjUxNDE0Lmh0bWw",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-02T23:02:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Vanessa Hudgens and MLB star Cole Tucker are reportedly engaged - Page Six",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vcGFnZXNpeC5jb20vMjAyMy8wMi8wMi92YW5lc3NhLWh1ZGdlbnMtYW5kLWNvbGUtdHVja2VyLWFyZS1yZXBvcnRlZGx5LWVuZ2FnZWQv0gFaaHR0cHM6Ly9wYWdlc2l4LmNvbS8yMDIzLzAyLzAyL3ZhbmVzc2EtaHVkZ2Vucy1hbmQtY29sZS10dWNrZXItYXJlLXJlcG9ydGVkbHktZW5nYWdlZC9hbXAv",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-02T22:47:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "'Knock at the Cabin' review: M. Night Shyamalan's latest sledgehammer - New York Post ",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzAyLzAyL2tub2NrLWF0LXRoZS1jYWJpbi1yZXZpZXctc2h5YW1hbGFucy1sYXRlc3Qtc2xlZGdlaGFtbWVyL9IBW2h0dHBzOi8vbnlwb3N0LmNvbS8yMDIzLzAyLzAyL2tub2NrLWF0LXRoZS1jYWJpbi1yZXZpZXctc2h5YW1hbGFucy1sYXRlc3Qtc2xlZGdlaGFtbWVyL2FtcC8",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2023-02-02T22:38:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Ford stock slumps as CEO says automaker 'left $2B in profits on the table' (NYSE:F) - Seeking Alpha",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vc2Vla2luZ2FscGhhLmNvbS9uZXdzLzM5MzE2MDEtZm9yZC1zdG9jay1zbHVtcHMtYXMtY2VvLXNheXMtYXV0b21ha2VyLWxlZnQtMmItaW4tcHJvZml0cy1vbi10aGUtdGFibGXSAQA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2023-02-02T21:44:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Debt ceiling deal no closer as McCarthy, Biden vow to continue talks - CNBC",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMDIvbWNjYXJ0aHktYW5kLWJpZGVuLXBsYW4tdG8tbWVldC1hZ2Fpbi1vbi1kZWJ0LWNlaWxpbmctYnV0LWFwcGVhci1uby1jbG9zZXItdG8tYS1kZWFsLmh0bWzSAX1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wMi8wMi9tY2NhcnRoeS1hbmQtYmlkZW4tcGxhbi10by1tZWV0LWFnYWluLW9uLWRlYnQtY2VpbGluZy1idXQtYXBwZWFyLW5vLWNsb3Nlci10by1hLWRlYWwuaHRtbA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2023-02-02T21:29:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Kyle Rittenhouse: Victim's father's wrongful-death lawsuit can proceed - The Washington Post",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyMy8wMi8wMi9reWxlLXJpdHRlbmhvdXNlLWxhd3N1aXQta2Vub3NoYS1qb2huLWh1YmVyL9IBAA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-02T20:55:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "How Will the Tampa Bay Buccaneers Replace Tom Brady? - The New York Times",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDIvMDIvc3BvcnRzL2Zvb3RiYWxsL3RvbS1icmFkeS1yZXRpcmVtZW50LWZveC5odG1s0gFUaHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyMy8wMi8wMi9zcG9ydHMvZm9vdGJhbGwvdG9tLWJyYWR5LXJldGlyZW1lbnQtZm94LmFtcC5odG1s",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2023-02-02T20:37:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Razer\u2019s $280 mouse is covered in gaping holes - Ars Technica",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMy8wMi9yYXplcnMtMjgwLW1vdXNlLWlzLWNvdmVyZWQtaW4tZ2FwaW5nLWhvbGVzL9IBWGh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyMy8wMi9yYXplcnMtMjgwLW1vdXNlLWlzLWNvdmVyZWQtaW4tZ2FwaW5nLWhvbGVzL2FtcC8",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2023-02-02T20:36:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Poor Oral Health May Contribute to Declines in Brain Health - Neuroscience News",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vbmV1cm9zY2llbmNlbmV3cy5jb20vb3JhbC1oZWFsdGgtbmV1cm9sb2d5LTIyNDIzL9IBAA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-02T20:35:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Starbucks misses expectations as China Covid surge hurts international sales - CNBC",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMDIvc3RhcmJ1Y2tzLXNidXgtcTEtMjAyMy1lYXJuaW5ncy5odG1s0gFIaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMDIvMDIvc3RhcmJ1Y2tzLXNidXgtcTEtMjAyMy1lYXJuaW5ncy5odG1s",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2023-02-02T20:30:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Get ready for ads in the Microsoft Store - The Verge",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIzLzIvMi8yMzU4MzA4Ni9taWNyb3NvZnQtc3RvcmUtYWRzLWlvcy1hbmRyb2lk0gEA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2023-02-02T20:18:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Tyreek Hill, Sauce Gardner and Micah Parsons discuss their 'Madden NFL 23' skills at Pro Bowl Games - NFL.com",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5mbC5jb20vdmlkZW9zL3R5cmVlay1oaWxsLXNhdWNlLWdhcmRuZXItYW5kLW1pY2FoLXBhcnNvbnMtZGlzY3Vzcy10aGVpci1tYWRkZW4tbmZsLTIzLXNraWxscy1h0gEA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-02T20:14:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Memphis police officer shot in East Memphis one person dead - Commercial Appeal",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5jb21tZXJjaWFsYXBwZWFsLmNvbS9zdG9yeS9uZXdzL2xvY2FsLzIwMjMvMDIvMDIvbWVtcGhpcy1wb2xpY2Utb2ZmaWNlci1zaG90LWluLWVhc3QtbWVtcGhpcy1vbmUtcGVyc29uLWRlYWQvNjk4Njc0OTMwMDcv0gEA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2023-02-02T20:01:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Super Bowl: Patrick Mahomes reveals he didn't worsen his ankle injury in Chiefs' AFC title win - Daily Mail",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvc3BvcnQvbmZsL2FydGljbGUtMTE3MDcxMTkvU3VwZXItQm93bC1QYXRyaWNrLU1haG9tZXMtcmV2ZWFscy1kaWRudC13b3JzZW4tYW5rbGUtaW5qdXJ5LUNoaWVmcy1BRkMtdGl0bGUtd2luLmh0bWzSAZEBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL3Nwb3J0L25mbC9hcnRpY2xlLTExNzA3MTE5L2FtcC9TdXBlci1Cb3dsLVBhdHJpY2stTWFob21lcy1yZXZlYWxzLWRpZG50LXdvcnNlbi1hbmtsZS1pbmp1cnktQ2hpZWZzLUFGQy10aXRsZS13aW4uaHRtbA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+            "publishedAt": "2023-02-02T19:07:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dangerous fungal illness rapidly spreading across country, doctors warn - Fox Weather ",
+            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+            "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmZveHdlYXRoZXIuY29tL2VhcnRoLXNwYWNlL3ZhbGxleS1mZXZlci1sdW5nLWZ1bmdhbC1pbmZlY3Rpb27SAU1odHRwczovL3d3dy5mb3h3ZWF0aGVyLmNvbS9lYXJ0aC1zcGFjZS92YWxsZXktZmV2ZXItbHVuZy1mdW5nYWwtaW5mZWN0aW9uLmFtcA",
+            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+            "publishedAt": "2023-02-02T18:21:56Z",
             "content": null
         }
     ]
