@@ -4,29 +4,68 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Aya Elamroussi",
-            "title": "Life-threatening cold has moved into the Northeast as South reels from ice storm - CNN",
-            "description": "A brutal blast of dangerously cold winds is expected to sweep across the Northeast and New England on Friday, prompting officials to close schools and activate emergency plans as the region braces for record-breaking sub-zero temperatures.",
-            "url": "https://www.cnn.com/2023/02/03/weather/winter-storm-northeast-new-england-friday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230203124122-weather-new-york-0201.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-03T08:55:00Z",
-            "content": "A brutal blast of dangerously cold winds is expectedto sweep across the Northeast and New England on Friday, prompting officials to close schools and activate emergency plans as the region braces for\u2026 [+6225 chars]"
+            "author": "John Wagner, Mariana Alfaro",
+            "title": "Biden, Harris heading to Philadelphia with an eye on 2024 - The Washington Post",
+            "description": "Ahead of appearances at a Democratic National Committee gathering, the president and vice president are holding an event focused on water infrastructure upgrades.",
+            "url": "https://www.washingtonpost.com/politics/2023/02/03/biden-harris-philadelphia-dnc-water-infrastructure/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PAM3ZOEKLUKBTO7QDJXGYQJT3U.JPG&w=1440",
+            "publishedAt": "2023-02-04T00:41:18Z",
+            "content": "President Biden will travel to Wisconsin and Florida after delivering the State of the Union address on Tuesday.\r\nThe visits are part of what the White House is calling a nationwide blitz in which Bi\u2026 [+605 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "TMZ"
             },
-            "author": "Natasha Turak",
-            "title": "Blackouts, currency dives and corruption: Pakistan's economy is on the brink of collapse - CNBC",
-            "description": "Pakistan's foreign currency reserves are so depleted it has only enough to pay for roughly three weeks of imports.",
-            "url": "https://www.cnbc.com/2023/02/03/blackouts-currency-dives-and-corruption-pakistans-economy-is-on-the-brink-of-collapse-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107182585-1674503135667-gettyimages-1246473901-AFP_337N7QH.jpeg?v=1675412264&w=1920&h=1080",
-            "publishedAt": "2023-02-03T08:17:44Z",
-            "content": "People light a bonfire to warm themselves during a nationwide power outage, in Muzaffarabad on January 23, 2023.\r\nPakistan's economy is on a cliff-edge.\u00a0\r\nThe South Asian country this week suffered a\u2026 [+6836 chars]"
+            "author": "TMZ Staff",
+            "title": "Steve-O Ready for Bam Margera's Death, Has Tried Everything for Sobriety - TMZ",
+            "description": "Steve-O says Bam Margera has yet again fallen off the wagon -- which leaves him with no choice but to accept that his old friend might turn up dead one of these days.",
+            "url": "https://www.tmz.com/2023/02/03/steveo-ready-bam-margera-death-tried-everything-sobriety/",
+            "urlToImage": "https://imagez.tmz.com/image/d8/16by9/2023/02/01/d8bcc12a5a764ee5a1b8415c29970d68_xl.jpg",
+            "publishedAt": "2023-02-04T00:12:00Z",
+            "content": "Steve-O says Bam Margera has yet again fallen off the wagon -- which leaves him with no choice but to accept that his old friend might turn up dead one of these days.\r\nAs you know, Bam's been on the \u2026 [+1948 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Matthew Lee",
+            "title": "Secretary of State Antony Blinken postpones China trip following balloon discovery - The Associated Press - en Espa\u00f1ol",
+            "description": "WASHINGTON (AP) \u2014 A huge, high-altitude Chinese balloon sailed across the U.S . on Friday, drawing severe Pentagon accusations of spying on sensitive military sites despite China's firm denials.",
+            "url": "https://apnews.com/article/politics-antony-blinken-china-314302278a5f05bdc2df146ed5b35ec6",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6989ab8b1bdf4c42899c76053c1ca25c/3000.webp",
+            "publishedAt": "2023-02-04T00:03:02Z",
+            "content": "WASHINGTON (AP) A huge, high-altitude Chinese balloon sailed across the U.S. on Friday, drawing severe Pentagon accusations of spying on sensitive military sites despite Chinas firm denials. Secretar\u2026 [+6378 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nick Valencia, Emma Tucker, Paradise Afshar, Melissa Alonso",
+            "title": "Another Memphis police officer has been dismissed in the aftermath of the violent arrest and death of Tyre Nichols - CNN",
+            "description": "Another Memphis police officer has been fired and two first responders have been suspended following the violent arrest and death of Tyre Nichols last month, officials announced Friday.",
+            "url": "https://www.cnn.com/2023/02/03/us/tyre-nichols-memphis-investigation-district-attorney/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230203154341-06-memphis-officers-nichols-preston-hemphill.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-04T00:02:00Z",
+            "content": "Another Memphis police officer has been fired and two first responders have been suspended following the violent arrest and death of Tyre Nichols last month, officials announced Friday. \r\nThe former \u2026 [+5136 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Longer-range rockets included in $2 bln U.S. pledge for Ukraine - Reuters",
+            "description": "A new rocket that would double Ukraine's strike range in its war with Russia was included in a $2.175 billion U.S. military aid package, the Pentagon said on Friday.",
+            "url": "https://www.reuters.com/world/europe/longer-range-rockets-included-2-bln-pledge-ukraine-2023-02-03/",
+            "urlToImage": "https://www.reuters.com/resizer/TabkorqXOLGAMLY7xGP-jlOy0Yk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/H45QIU3S5VMFHFCQ2MVLCFAMFU.jpg",
+            "publishedAt": "2023-02-03T23:25:00Z",
+            "content": "WASHINGTON, Feb 3 (Reuters) - A new rocket that would double Ukraine's strike range in its war with Russia was included in a $2.175 billion U.S. military aid package, the Pentagon said on Friday.\r\nTh\u2026 [+3078 chars]"
         },
         {
             "source": {
@@ -34,233 +73,194 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "China Responds To Pentagon Allegations Over Spy Balloon Tracker Spotted In Western USA | USA News - CNN-News18",
-            "description": "China Responds To Pentagon Allegations Over Spy Balloon Tracker Spotted In Western USA | USA NewsThe Pentagon has said it is tracking a Chinese spy balloon f...",
-            "url": "https://www.youtube.com/watch?v=0OlxjceD-X0",
-            "urlToImage": "https://i.ytimg.com/vi/0OlxjceD-X0/maxresdefault_live.jpg",
-            "publishedAt": "2023-02-03T07:03:59Z",
+            "title": "Reactions after Fulham fluster Chelsea again | Premier League | NBC Sports - NBC Sports",
+            "description": "Robbie Mustoe and Danny Higginbotham break down Chelsea's underwhelming display against Fulham, as the retooled Blues could only muster a goalless draw again...",
+            "url": "https://www.youtube.com/watch?v=u7nc3D1bmaQ",
+            "urlToImage": "https://i.ytimg.com/vi/u7nc3D1bmaQ/maxresdefault.jpg",
+            "publishedAt": "2023-02-03T23:21:54Z",
             "content": null
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Kyrie Irving makes trade request: Nets star asks out of Brooklyn days before 2023 NBA trade deadline - CBS Sports",
+            "description": "Irving wants to be traded ahead of the Feb. 9 deadline",
+            "url": "https://www.cbssports.com/nba/news/kyrie-irving-makes-trade-request-nets-star-asks-out-of-brooklyn-days-before-2023-nba-trade-deadline/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/03/532cec29-d81d-47b0-b654-ba0f001ff418/thumbnail/1200x675/705b4bdf0d74a44c91219ac588819b3c/kyrie-irving-getty-9.png",
+            "publishedAt": "2023-02-03T22:48:00Z",
+            "content": "Brooklyn Nets All-Star guard Kyrie Irving has requested a trade from the team, CBS Sports' Bill Reiter confirmed Friday. Irving has informed the Nets that he prefers to be traded ahead of the Feb. 9 \u2026 [+3516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Shannon Vavra",
+            "title": "Putin's Men Fear 'Minced Meat' Fate in New Offensive - The Daily Beast",
+            "description": "Moscow\u2019s attempt to regroup and launch a major offensive this year is allegedly in dire straits.",
+            "url": "https://www.thedailybeast.com/vladimir-putins-men-fear-minced-meat-fate-in-new-ukraine-offensive",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3672,w_6528,x_0,y_316/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1675449733/2021-11-01T132136Z_392733555_RC2PLQ922C28_RTRMADP_3_RUSSIA-USA-DEFENCE_lhn2c6",
+            "publishedAt": "2023-02-03T22:44:50Z",
+            "content": "Russias military is preparing for heavy losses ahead in a new offensive, according to a source apparently stationed at a Russian military headquarters in Ukraine, Novaya Gazeta reported.\r\nRussian Pre\u2026 [+3665 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Matthew Daly",
+            "title": "Treasury makes more electric SUVs eligible for tax credits - The Associated Press - en Espa\u00f1ol",
+            "description": "WASHINGTON (AP) \u2014 The Treasury Department said Friday it is making more electric vehicles \u2014 including SUVs made by Tesla, Ford and General Motors \u2014 eligible for tax credits of up to $7,500 under new vehicle classification definitions.",
+            "url": "https://apnews.com/article/biden-elon-musk-technology-us-department-of-the-treasury-climate-and-environment-a4f6351ddc59b3cc69cc21bd2b95ffa6",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b979f8e0e2bb463ea4064cacbcfad3d4/3000.webp",
+            "publishedAt": "2023-02-03T22:38:51Z",
+            "content": "WASHINGTON (AP) The Treasury Department said Friday it is making more electric vehicles including SUVs made by Tesla, Ford and General Motors eligible for tax credits of up to $7,500 under new vehicl\u2026 [+4121 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JEFFREY COLLINS Associated Press",
+            "title": "Maid's son tells judge Alex Murdaugh took $4M for her death - ABC News",
+            "description": "Prosecutors at Alex Murdaugh\u2019s double murder trial are asking a judge to allow jurors to hear from the son of the family's housekeeper who says Murdaugh promised to take care of them when she died in a fall, but kept a $4 million settlement for himself",
+            "url": "https://abcnews.go.com/US/wireStory/maids-son-tells-judge-alex-murdaugh-4m-death-96880449",
+            "urlToImage": "https://s.abcnews.com/images/US/wirestory_83f9f7f05604c113365a8f833d304e9c_16x9_992.jpg",
+            "publishedAt": "2023-02-03T22:36:21Z",
+            "content": "For much of disgraced South Carolina attorney Alex Murdaughs double murder trial, witnesses have talked about a generous and loving man but prosecutors want jurors to know that same man stole over $4\u2026 [+4813 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
             },
             "author": null,
-            "title": "Green comet seen from Earth for first time since Stone Age - CNN",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CCAiC1BEUXpTbjc5dHV3mAEB",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-            "publishedAt": "2023-02-03T06:49:43Z",
-            "content": null
+            "title": "Jordan fires off first subpoenas against Biden admin - POLITICO",
+            "description": "The demand for records centers on a move by the Justice Department in 2021 to identify violent threats being made to school officials during the pandemic.",
+            "url": "https://www.politico.com/news/2023/02/03/jim-jordan-subpoena-biden-administration-00081179",
+            "urlToImage": "https://static.politico.com/b3/02/7d92326b46f8ac75ceae114d34e7/20230201-judiciary-8-francis-2.jpg",
+            "publishedAt": "2023-02-03T22:32:30Z",
+            "content": "Garland and the FBI have strenuously rejected the GOP accusation which fact checkers have also deemed false saying their focus was on protecting school board members amid sharply escalating threats o\u2026 [+5272 chars]"
         },
         {
             "source": {
-                "id": "independent",
-                "name": "Independent"
+                "id": null,
+                "name": "Hollywood Reporter"
             },
-            "author": "Oliver O'Connell",
-            "title": "Alex Murdaugh trial - live: Defendant confronted about \u2018missing\u2019 $792k in law firm fees hours before murders - The Independent",
-            "description": "Seventh day of testimony to resume in Walterboro, Colleton County, South Carolina where Alex Murdaugh stands trial for murders of wife Maggie and son Paul",
-            "url": "https://www.independent.co.uk/news/world/americas/crime/alex-murdaugh-trial-jeanne-seckinger-money-latest-b2274979.html",
-            "urlToImage": "https://static.independent.co.uk/2023/02/01/18/SEI142421215.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-02-03T05:02:53Z",
-            "content": "Alex Murdaughs best friend breaks down speaking about attorneys financial crimes\r\nAlex Murdaughs former best friend of 40 years broke down in tears in court on Thursday as he described the moment tha\u2026 [+852 chars]"
+            "author": "Mike Barnes",
+            "title": "Melinda Dillon, Actress in \u2018Close Encounters of the Third Kind\u2019 and \u2018A Christmas Story,\u2019 Dies at 83 - Hollywood Reporter",
+            "description": "A two-time Oscar nominee, she also appeared in 'Bound for Glory,' 'Slap Shot' and on Broadway in 'Who's Afraid of Virginia Woolf?'",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/melinda-dillon-dead-close-encounters-christmas-story-1235317335/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2020/10/Melinda_Dillon-H-2020-1601936946.jpg?w=1024",
+            "publishedAt": "2023-02-03T22:23:53Z",
+            "content": "Melinda Dillon, who received supporting Oscar nominations for her turns in Close Encounters of the Third Kind and Absence of Malice and portrayed the doting mom in the holiday perennial A Christmas S\u2026 [+5236 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Slate Magazine"
             },
-            "author": null,
-            "title": "CIA Director William Burns: Next 6 months will be \"critical\" in Ukraine war - CBS News",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvY2lhLWNoaWVmLXdpbGxpYW0tYnVybnMtc3BlYWtzLW9uLXVrcmFpbmUtd2FyLXZsYWRpbWlyLXB1dGluLWlyYW4tY2hpbmEv0gFpaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvY2lhLWNoaWVmLXdpbGxpYW0tYnVybnMtc3BlYWtzLW9uLXVrcmFpbmUtd2FyLXZsYWRpbWlyLXB1dGluLWlyYW4tY2hpbmEv",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-            "publishedAt": "2023-02-03T04:32:00Z",
-            "content": null
+            "author": "Sam Adams",
+            "title": ": Knock at the Cabin: M. Night Shyamalan movie ends with something worse than a twist. - Slate",
+            "description": "Knock at the Cabin changes the final act of the book it\u2019s based on. You\u2019ll be shocked to learn that it isn\u2019t for the better.",
+            "url": "https://slate.com/culture/2023/02/knock-cabin-ending-twist-movie-vs-book.html",
+            "urlToImage": "https://compote.slate.com/images/d6057956-c83f-447f-820b-5689f749da0b.webp?crop=1350%2C900%2Cx235%2Cy0&width=1560",
+            "publishedAt": "2023-02-03T22:09:00Z",
+            "content": "This article contains spoilers for the movieKnock at the Cabinand the novel its based on,The Cabin at the End of the World.\r\nTheres no living director, and perhaps no director in history, more identi\u2026 [+11424 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Los Angeles Times"
             },
-            "author": null,
-            "title": "Joel Embiid, Ja Morant headline 2023 NBA All-Star reserves - ESPN",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzM1NTc4NjUyL2pvZWwtZW1iaWlkLWphLW1vcmFudC1oZWFkbGluZS0yMDIzLW5iYS1hbGwtc3Rhci1yZXNlcnZlc9IBc2h0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzM1NTc4NjUyL2pvZWwtZW1iaWlkLWphLW1vcmFudC1oZWFkbGluZS0yMDIzLW5iYS1hbGwtc3Rhci1yZXNlcnZlcz9wbGF0Zm9ybT1hbXA",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-            "publishedAt": "2023-02-03T04:18:45Z",
-            "content": null
+            "author": "Hayley Smith, Ian James",
+            "title": "'Law of the river' is the battleground in Colorado River crisis - Los Angeles Times",
+            "description": "At the heart of tensions over water allotments from the Colorado River is a complex set of agreements and decrees  known as the 'Law of the River.'",
+            "url": "https://www.latimes.com/california/story/2023-02-03/law-of-the-river-now-battleground-in-colorado-river-crisis",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/78ae46d/2147483647/strip/true/crop/4800x2520+0+86/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2F79%2F25be5b584464b5ba436b2dcd961a%2Fla-na-colorado-river08-toned.jpg",
+            "publishedAt": "2023-02-03T22:05:36Z",
+            "content": "Its a crisis nearly 100 years in the making: Seven states all reliant on a single mighty river as a vital source of water failed to reach an agreement this week on how best to reduce their use of sup\u2026 [+7440 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
-            "author": null,
-            "title": "Austin Butler Is Finally Saying Goodbye to His Elvis Presley Accent - E! NEWS",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTM2MzY4MC9hdXN0aW4tYnV0bGVyLWlzLWZpbmFsbHktc2F5aW5nLWdvb2RieWUtdG8taGlzLWVsdmlzLXByZXNsZXktYWNjZW500gFsaHR0cHM6Ly93d3cuZW9ubGluZS5jb20vYW1wL25ld3MvMTM2MzY4MC9hdXN0aW4tYnV0bGVyLWlzLWZpbmFsbHktc2F5aW5nLWdvb2RieWUtdG8taGlzLWVsdmlzLXByZXNsZXktYWNjZW50",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-            "publishedAt": "2023-02-03T03:50:00Z",
-            "content": null
+            "author": "Jennifer Schonberger",
+            "title": "U.S., G7 announce new price caps on Russian petroleum products - Yahoo Finance",
+            "description": "The U.S. and its Western allies announced new measures on Friday to cap the price of additional Russian petroleum products, including diesel and gasoline.",
+            "url": "https://finance.yahoo.com/news/us-g7-announce-new-price-caps-on-russian-petroleum-products-212020380.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/n9jU7J3JL9lWFAyed253Hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTY-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/a3595360-a407-11ed-bed6-2c587fc986ee",
+            "publishedAt": "2023-02-03T21:20:20Z",
+            "content": "The U.S., along with the G7, is slapping two more price caps on Russian refined petroleum products after implementing a cap on Russian oil prices last year.\r\nOfficials agreed to set two different pri\u2026 [+2356 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "Groundhog Day 2023: Punxsutawney Phil sees his shadow, but Staten Island Chuck says otherwise - CBS New York",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9uZXd5b3JrL2xpdmUtdXBkYXRlcy9ncm91bmRob2ctZGF5LTIwMjMtcHVueHN1dGF3bmV5LXBoaWwtc2Vlcy1oaXMtc2hhZG93LWJ1dC1zdGF0ZW4taXNsYW5kLWNodWNrLXNheXMtb3RoZXJ3aXNlL9IBjQFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3eW9yay9saXZlLXVwZGF0ZXMvZ3JvdW5kaG9nLWRheS0yMDIzLXB1bnhzdXRhd25leS1waGlsLXNlZXMtaGlzLXNoYWRvdy1idXQtc3RhdGVuLWlzbGFuZC1jaHVjay1zYXlzLW90aGVyd2lzZS8",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-            "publishedAt": "2023-02-03T03:41:00Z",
-            "content": null
+            "author": "Allison Morrow",
+            "title": "4 key takeaways from the jaw-dropping January jobs report - CNN",
+            "description": "America's job market demonstrated its stunning resilience Friday, besting expectations by a factor of nearly three and making all those recession forecasts look pretty silly.",
+            "url": "https://www.cnn.com/2023/02/03/economy/key-takeaways-jobs-report/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230203123119-03-january-jobs-report-january-23.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-03T20:58:00Z",
+            "content": "Americas job market demonstrated its stunning resilience Friday, besting expectations by a factor of nearly three and making all those recession forecasts look pretty silly.\r\nEarlier this week, the c\u2026 [+4564 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "College Board's cuts to AP African American studies class draws criticism - The Washington Post",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9lZHVjYXRpb24vMjAyMy8wMi8wMi9jb2xsZWdlLWJvYXJkLWFwLWFmcmljYW4tYW1lcmljYW4tc3R1ZGllcy1jcml0aWNpc20v0gEA",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-            "publishedAt": "2023-02-03T03:11:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "NPR"
             },
             "author": null,
-            "title": "Woman accused of killing friend and taking baby sentenced - WKRC TV Cincinnati",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMi4wFodHRwczovL2xvY2FsMTIuY29tL25ld3MvbmF0aW9uLXdvcmxkL3dvbWFuLWFjY3VzZWQtb2Yta2lsbGluZy1mcmllbmQtYW5kLXRha2luZy1iYWJ5LXNlbnRlbmNlZC1wbGVhZGVkLWd1aWx0eS1oZWlkaS1icm91c3NhcmQtdHJhdmlzLWNvdW50eS1kaXN0cmljdC1hdHRvcm5leS1qb3NlLWdhcnphLWF1c3Rpbi10ZXhhcy1tYXJnb3QtY2FyZXktY2FyZXktZmFtaWxpZXMtaW5mYW50LWNoaWxkLWtpZNIB5wFodHRwczovL2xvY2FsMTIuY29tL2FtcC9uZXdzL25hdGlvbi13b3JsZC93b21hbi1hY2N1c2VkLW9mLWtpbGxpbmctZnJpZW5kLWFuZC10YWtpbmctYmFieS1zZW50ZW5jZWQtcGxlYWRlZC1ndWlsdHktaGVpZGktYnJvdXNzYXJkLXRyYXZpcy1jb3VudHktZGlzdHJpY3QtYXR0b3JuZXktam9zZS1nYXJ6YS1hdXN0aW4tdGV4YXMtbWFyZ290LWNhcmV5LWNhcmV5LWZhbWlsaWVzLWluZmFudC1jaGlsZC1raWQ",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-            "publishedAt": "2023-02-03T02:54:14Z",
-            "content": null
+            "title": "2 men are arrested in a California shooting that killed 6 people including a baby - NPR",
+            "description": "Two gang members were arrested early Friday, one after a gunbattle, and charged in the January massacre of six people including a baby at a home associated with a rival gang, a sheriff said.",
+            "url": "https://www.npr.org/2023/02/03/1154330507/california-shooting-arrests-goshen-six-killed",
+            "urlToImage": "https://media.npr.org/assets/img/2023/02/03/ap23034695266463_wide-1443bad7f1885214313eb3c0a1114f9378b81e8a-s1400-c100.jpg",
+            "publishedAt": "2023-02-03T20:37:30Z",
+            "content": "Sheriff Mike Boudreaux speaks to the media near the scene of a fatal shooting in Visalia, Calif., on Jan. 16. Boudreaux said Friday that two gang members suspected in the massacre of six people last \u2026 [+3159 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Space.com"
             },
-            "author": null,
-            "title": "Republicans oust Ilhan Omar from high-profile U.S. House committee - Reuters",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3JlcHVibGljYW5zLW91c3QtaWxoYW4tb21hci1oaWdoLXByb2ZpbGUtdXMtaG91c2UtY29tbWl0dGVlLTIwMjMtMDItMDIv0gEA",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-            "publishedAt": "2023-02-03T02:46:00Z",
-            "content": null
+            "author": "Robert Lea",
+            "title": "Jupiter now has the most moons in the solar system, beating Saturn thanks to 12 newfound satellites - Space.com",
+            "description": "Move over, Saturn: Jupiter is the solar system's new 'moon master'",
+            "url": "https://www.space.com/jupiter-moon-discoveries-total-92",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CgpJdhdnUUdrLcTbPuv4b9-1200-80.png",
+            "publishedAt": "2023-02-03T20:00:41Z",
+            "content": "Jupiter isn't just the largest and most massive planet in the solar system \u2014 now, the gas giant also boasts the largest number of moons orbiting it after scientists discovered another 12 moons, bring\u2026 [+4480 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "CNET"
             },
-            "author": null,
-            "title": "Biden Aims to Deter China With Greater U.S. Military Presence in Philippines - The New York Times",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDIvMDIvdXMvcG9saXRpY3MvdXMtY2hpbmEtcGhpbGlwcGluZXMuaHRtbNIBTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDIvMDIvdXMvcG9saXRpY3MvdXMtY2hpbmEtcGhpbGlwcGluZXMuYW1wLmh0bWw",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-            "publishedAt": "2023-02-03T02:19:10Z",
-            "content": null
+            "author": "Mike Sorrentino",
+            "title": "Samsung Galaxy S23 vs. S22: Spec-by-Spec Comparison of the Flagship Phones - CNET",
+            "description": "The Samsung Galaxy S23 has lots of new features, but the Galaxy S22 is still no slouch.",
+            "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-s23-vs-s22-spec-by-spec-comparison-of-the-flagship-phones/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c8978b244903fbe2690b4b4a5ea3c53b3bc3d034/hub/2023/01/31/a546b0a9-1385-4490-964f-01a1980eb12f/samsung-unpacked-2023-s23-12.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-03T19:46:54Z",
+            "content": "This story is part of Samsung Event, CNET's collection of news, tips and advice around Samsung's most popular products. \r\nThe $800 (\u00a3849, AU$1,349) Samsung Galaxy S23 made its debut Wednesday as part\u2026 [+3843 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "NPR"
             },
-            "author": null,
-            "title": "Patriots will push for Tom Brady to sign one-day deal, Robert Kraft says - The Washington Post",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvMjAyMy8wMi8wMi90b20tYnJhZHktcGF0cmlvdHMtcm9iZXJ0LWtyYWZ0L9IBAA",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-            "publishedAt": "2023-02-03T02:16:06Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Asia markets mostly fall as private survey shows China's services activity jump - CNBC",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMDMvYXNpYS1tYXJrZXRzLXNldC10by1yaXNlLWFmdGVyLXdhbGwtc3RyZWV0cy10ZWNoLWZ1ZWxlZC1yYWxseS5odG1s0gFmaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMDIvMDMvYXNpYS1tYXJrZXRzLXNldC10by1yaXNlLWFmdGVyLXdhbGwtc3RyZWV0cy10ZWNoLWZ1ZWxlZC1yYWxseS5odG1s",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-            "publishedAt": "2023-02-03T02:06:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Macron raises alarm over \u2018headlong\u2019 Iran nuclear rush in meeting with Netanyahu - The Times of Israel",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL21hY3Jvbi1yYWlzZXMtYWxhcm0tb3Zlci1oZWFkbG9uZy1pcmFuLW51Y2xlYXItcnVzaC1pbi1tZWV0aW5nLXdpdGgtbmV0YW55YWh1L9IBcGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL21hY3Jvbi1yYWlzZXMtYWxhcm0tb3Zlci1oZWFkbG9uZy1pcmFuLW51Y2xlYXItcnVzaC1pbi1tZWV0aW5nLXdpdGgtbmV0YW55YWh1L2FtcC8",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-            "publishedAt": "2023-02-03T01:36:45Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Ideal Blood Pressure May Remodel Brain Clearance Pathways Linked to Brain Health and Dementia - Neuroscience News",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vbmV1cm9zY2llbmNlbmV3cy5jb20vYmxvb2QtcHJlc3N1cmUtZGVtZW50aWEtMjI0Mjcv0gEA",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-            "publishedAt": "2023-02-03T01:35:23Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "EU-Ukraine wartime summit to deliver on some issues, disappoint on others - Reuters",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9ldS11a3JhaW5lLXdhcnRpbWUtc3VtbWl0LWRlbGl2ZXItc29tZS1pc3N1ZXMtZGlzYXBwb2ludC1vdGhlcnMtMjAyMy0wMi0wMi_SAQA",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-            "publishedAt": "2023-02-03T00:42:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Jim Cramer says Meta Platforms' latest quarter is why he stuck with the stock - CNBC Television",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CCAiC01tblFQalJNU0NjmAEB",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-            "publishedAt": "2023-02-03T00:35:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "2023 NFL mock draft: New 2-round projections for Senior Bowl week - The Draft Wire",
-            "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL2RyYWZ0d2lyZS51c2F0b2RheS5jb20vbGlzdHMvMjAyMy1uZmwtbW9jay1kcmFmdC1zZW5pb3ItYm93bC0yLXJvdW5kcy1icnljZS15b3VuZy1jai1zdHJvdWQtd2lsbC1sZXZpcy1hbnRob255LXJpY2hhcmRzb24v0gEA",
-            "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-            "publishedAt": "2023-02-03T00:27:00Z",
-            "content": null
+            "author": "",
+            "title": "U.S. winter COVID surge is mild and fading fast : Shots - Health News - NPR",
+            "description": "The main reason the surge is ebbing now, pandemic experts suspect, is the significant immunity many people in the U.S. have acquired from prior infections and COVID vaccinations many received.",
+            "url": "https://www.npr.org/sections/health-shots/2023/02/03/1153970427/u-s-covid-winter-surge-fading-fast",
+            "urlToImage": "https://media.npr.org/assets/img/2023/02/02/gettyimages-1241445026_wide-3b9596a2a438f8c2c8aa638b637fd12af6da08fc-s1400-c100.jpg",
+            "publishedAt": "2023-02-03T19:13:02Z",
+            "content": "Immunity Americans acquired through vaccination or via prior infection with the SARS-CoV-2 virus may account for the lighter than expected COVID surge in the U.S. this winter, researchers say.\r\nDavid\u2026 [+5293 chars]"
         }
     ]
 }
