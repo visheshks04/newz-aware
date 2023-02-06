@@ -1,46 +1,7 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Serghei Spivac Octagon Interview | UFC Vegas 68 - UFC - Ultimate Fighting Championship",
-            "description": "In his first main event, ranked heavyweight Sergehi Spivac came to make a statement after stopping Derrick Lewis in the first round at UFC Vegas 68. Talking ...",
-            "url": "https://www.youtube.com/watch?v=hEc_EvHkRRM",
-            "urlToImage": "https://i.ytimg.com/vi/hEc_EvHkRRM/maxresdefault.jpg",
-            "publishedAt": "2023-02-05T08:35:19Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Stephanie Guerilus",
-            "title": "Off-duty NYPD officer 'fighting for his life' after being shot during robbery - ABC News",
-            "description": "The officer was attempting to buy a car, police said.",
-            "url": "https://abcnews.go.com/US/off-duty-nypd-officer-fighting-life-after-shot/story?id=96901136",
-            "urlToImage": "https://s.abcnews.com/images/US/NYPD-Getty-SG-2_hpMain_20230204-233922_16x9_992.jpg",
-            "publishedAt": "2023-02-05T08:15:00Z",
-            "content": "A five-year veteran of the New York Police is \"fighting for his life\" after being shot Saturday night during a robbery, officials said.\r\nThe officer, who was off-duty, attempted to buy a car on Ruby \u2026 [+712 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ashley Strickland",
-            "title": "How to see February's full snow moon - CNN",
-            "description": "Look in the night sky this weekend for February's full moon, where it can be glimpsed around the world. The \"snow\" moon will peak at 1:29 p.m. ET Sunday but will appear full between early Saturday morning and early Tuesday morning.",
-            "url": "https://www.cnn.com/2023/02/05/world/february-full-snow-moon-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/211213155923-02-cold-full-moon-2019-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-05T08:07:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nLook in the night sky this weekend for Februarys full \u2026 [+6863 chars]"
-        },
         {
             "source": {
                 "id": "cnn",
@@ -51,34 +12,21 @@
             "description": "Pakistan's former President General Pervez Musharraf has died in Dubai after a prolonged illness at Dubai American Hospital, according to a statement from the Pakistani military. He was 79 years old.",
             "url": "https://www.cnn.com/2023/02/05/asia/pervez-musharraf-former-pakistan-president-dies-intl-hnk/index.html",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230205012435-01-pervez-musharraf-111107.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-05T08:01:00Z",
+            "publishedAt": "2023-02-05T23:20:00Z",
             "content": "Pakistans former President General Pervez Musharraf has died in Dubai after a prolonged illness at Dubai American Hospital, according to a statement from the Pakistani military. He was 79 years old. \u2026 [+2661 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CBS Sports"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "",
-            "title": "College basketball scores, winners and losers: Tennessee gets controversial win, six top-15 teams go down - CBS Sports",
-            "description": "Last-second shots, dunks, lowlights, upsets and more of went down in college basketball's wild Saturday",
-            "url": "https://www.cbssports.com/college-basketball/news/college-basketball-scores-winners-and-losers-tennessee-gets-controversial-win-six-top-15-teams-go-down/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/05/8662282d-0d9f-441a-b337-91fd83328c62/thumbnail/1200x675/669bd4e1b1a9c5e131d0937bcb18ec17/usatsi-19922145-1.jpg",
-            "publishedAt": "2023-02-05T07:33:00Z",
-            "content": "Saturday was as consequential in college basketball as it was entertaining in one of the most loaded schedules of the season. There were buzzer-beaters, highlight-reel dunks, lowlights (looking at yo\u2026 [+13964 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Alex Woodward",
-            "title": "George Santos \u2013 news: Secret tapes catch congressman admitting he \u2018lied to everyone\u2019 and giving Botox advice - The Independent",
-            "description": "Congressman admits he \u2018obviously f***** up\u2019 in new recording of his conversation with a prospective staffer",
-            "url": "https://www.independent.co.uk/news/world/americas/us-politics/george-santos-lies-drag-gay-spider-man-musical-b2275847.html",
-            "urlToImage": "https://static.independent.co.uk/2023/01/21/04/10401865.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-02-05T07:00:00Z",
-            "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nBombshell secret tapes have caught embattled Republican \u2026 [+6320 chars]"
+            "author": "Marianne Garvey",
+            "title": "How to watch the 2023 Grammy Awards: Time, channels and more - CNN",
+            "description": "The biggest night in music is here with the 65th Grammy Awards on Sunday.",
+            "url": "https://www.cnn.com/2023/02/05/entertainment/how-to-watch-grammys-2023/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221117095612-01-bad-bunny-file-090422.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-05T22:26:00Z",
+            "content": "The biggest night in music is here with the 65th Grammy Awards on Sunday.\r\nBeyonc\u00e9 leads with a total of nine nominations, Kendrick Lamar has eight nominations and Adele and Brandi Carlile have seven\u2026 [+1301 chars]"
         },
         {
             "source": {
@@ -86,181 +34,233 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Lakers Out On A Kyrie Irving Trade? - Lakers Nation",
-            "description": "It appears that the Lakers and Kyrie Irving don't see eye to eye...Join us on Playback for our live stream of every game!: https://www.playback.tv/lakersnati...",
-            "url": "https://www.youtube.com/watch?v=VR-USTZB-MI",
-            "urlToImage": "https://i.ytimg.com/vi/VR-USTZB-MI/maxresdefault.jpg",
-            "publishedAt": "2023-02-05T06:48:40Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Zeke Miller, Michael Balsamo, Colleen Long, Aamer Madhani",
-            "title": "US downs Chinese balloon, drawing a threat from China - The Associated Press",
-            "description": "WASHINGTON (AP) \u2014 The U.S. military on Saturday shot down a suspected Chinese spy balloon off the Carolina coast after it traversed sensitive military sites across North America. China insisted the flyover was an accident involving a civilian aircraft and thr\u2026",
-            "url": "https://apnews.com/article/politics-united-states-government-china-antony-blinken-51e49202f2a0a50541cde059934c4cfb",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/dd7715eb81514ad9a155bc9a7ee6cf47/2576.webp",
-            "publishedAt": "2023-02-05T06:32:39Z",
-            "content": "WASHINGTON (AP) The U.S. military on Saturday shot down a suspected Chinese spy balloon off the Carolina coast after it traversed sensitive military sites across North America. China insisted the fly\u2026 [+8109 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Ken Martin",
-            "title": "Disney World unions say no to latest contract offer - Fox Business",
-            "description": "Union members voted down a contract proposal covering tens of thousands of Walt Disney World service workers.",
-            "url": "https://www.foxbusiness.com/markets/disney-world-unions-say-no-latest-contract-offer",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Disney-World-AP.jpg?ve=1&tl=1",
-            "publishedAt": "2023-02-05T06:10:42Z",
-            "content": "It is back to the drawing board for Disney and its union members at Walt Disney World.\r\nUnion members voted down a contract proposal covering tens of thousands of service workers at the Florida theme\u2026 [+3329 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Carmelo Hayes crashes Bron Breakker's victory celebration: NXT Vengeance Day 2023 highlights - WWE",
-            "description": "After both Superstars secured big victories at NXT Vengeance Day, Bron Breakker and Carmelo Hayes lock eyes with the NXT Championship at the forefront of the...",
-            "url": "https://www.youtube.com/watch?v=ilrhG8vT_co",
-            "urlToImage": "https://i.ytimg.com/vi/ilrhG8vT_co/maxresdefault.jpg",
-            "publishedAt": "2023-02-05T05:04:10Z",
+            "title": "NFC vs. AFC Flag Football | 2023 Pro Bowl Game 2 Highlights - NFL",
+            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+            "url": "https://www.youtube.com/watch?v=a1vPSkOxzTw",
+            "urlToImage": "https://i.ytimg.com/vi/a1vPSkOxzTw/maxresdefault.jpg",
+            "publishedAt": "2023-02-05T22:08:37Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "Panthers.com"
             },
-            "author": "Michelle Starr",
-            "title": "Scientists Discover a Weird New Form of Ice That May Change How We Think About Water - ScienceAlert",
-            "description": "Scientists rattling normal frozen water around in a jar of ultracold steel balls have discovered a previously unknown form of ice, closer to liquid water than any other ice yet.",
-            "url": "https://www.sciencealert.com/scientists-discover-a-weird-new-form-of-ice-that-may-change-how-we-think-about-water",
-            "urlToImage": "https://www.sciencealert.com/images/2023/02/steel-balls-water-ice.jpg",
-            "publishedAt": "2023-02-05T05:00:38Z",
-            "content": "Scientists rattling normal frozen water around in a jar of ultracold steel balls have discovered a previously unknown form of ice, closer to liquid water than any other ice yet.\r\nThis is amorphous ic\u2026 [+4726 chars]"
+            "author": "Darin Gantt",
+            "title": "Panthers agree to terms with Ejiro Evero to become defensive coordinator - Panthers.com",
+            "description": "The former Broncos defensive coordinator interviewed for the Panthers head coaching vacancy this offseason as well.",
+            "url": "https://www.panthers.com/news/panthers-agree-to-terms-with-ejiro-evero-to-become-defensive-coordinator",
+            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/panthers/psk5l93eg0wfhihcfb1c",
+            "publishedAt": "2023-02-05T21:57:01Z",
+            "content": "CHARLOTTE New Panthers head coach Frank Reich has landed his first official addition to his coaching staff, and it's a significant one.\r\nThe team on Sunday agreed to terms with Ejiro Evero to be Reic\u2026 [+982 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Guardian staff reporter",
-            "title": "Chile wildfires kill at least 23 people as state of emergency extended further - The Guardian",
-            "description": "Interior minister says \u2018emergency is getting worse\u2019 as weather conditions complicate efforts to put out spreading fires",
-            "url": "https://www.theguardian.com/world/2023/feb/05/chile-wildfires-kill-at-least-23-people-as-state-of-emergency-extended-further",
-            "urlToImage": "https://i.guim.co.uk/img/media/424a1fb74d26614ff487d681f149f8ddc68afacc/0_296_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d203641db4d38cf89048f9fea9e1576c",
-            "publishedAt": "2023-02-05T04:06:00Z",
-            "content": "Dozens of wildfires in Chile have claimed at least 23 lives, forcing the government to extend an emergency order to another region as a scorching summer heatwave complicates efforts to control the bl\u2026 [+2307 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Israelis rally for fifth week against Netanyahu\u2019s judicial plans - Al Jazeera English",
-            "description": "Tens of thousands brave heavy rain in Tel Aviv to protest against government plans to weaken Israel\u2019s Supreme Court.",
-            "url": "https://www.aljazeera.com/news/2023/2/5/israelis-rally-for-fifth-week-against-netanyahus-judicial-plans",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/2023-02-04T183134Z_1657856526_RC2H4Z9UDFL7_RTRMADP_3_ISRAEL-POLITICS-COURT-PROTESTS.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-02-05T03:06:09Z",
-            "content": "Tens of thousands of Israelis have gathered for a fifth week of protests against controversial judicial changes proposed by Prime Minister Benjamin Netanyahus government.\r\nProtesters in the central c\u2026 [+2413 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wccftech"
-            },
-            "author": "Hassan Mujtaba",
-            "title": "AMD Ryzen 7 7840HS \u201cPhoenix\u201d 8 Core CPU Benchmarks Show Up To 25% Faster Performance Versus Ryzen 7 6800H - Wccftech",
-            "description": "The first benchmarks of AMD's Ryzen 7 7840HS Phoenix CPU which is designed for mainstream laptops have been leaked & show a nice gain.",
-            "url": "https://wccftech.com/amd-ryzen-7-7840hs-phoenix-8-core-cpu-benchmarks-up-to-25-percent-faster-versus-ryzen-7-6800h/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/01/AMD-Ryzen-7000-Laptop-CPUs.webp",
-            "publishedAt": "2023-02-05T02:58:00Z",
-            "content": "The first benchmarks of AMD's Ryzen 7 7840HS \"Phoenix\" CPU which is designed for mainstream laptops have been leaked and show a nice gain over its predecessor.\r\nAMD Ryzen 7 7840HS \"Phoenix\" CPU Is 25\u2026 [+3660 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jack Baer",
-            "title": "NBA suspends Magic's Mo Bamba 4 games, Timberwolves' Austin Rivers 3 games for roles in brawl - Yahoo Sports",
-            "description": "Five players were ejected after Rivers approached the Magic bench and Bamba threw a punch.",
-            "url": "https://sports.yahoo.com/nba-suspends-magics-mo-bamba-4-games-timberwolves-austin-rivers-3-games-for-roles-in-brawl-024857630.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hwXrvfoJGWhrON9lVCHxOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/bd17fe60-a43d-11ed-8fff-ac0533c9252a",
-            "publishedAt": "2023-02-05T02:48:00Z",
-            "content": "The NBA has suspended Orlando Magic center Mo Bamba four games and Minnesota Timberwolves guard Austin Rivers three games for their roles in instigating a wild brawl on Friday, the league announced S\u2026 [+1660 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": "usa-today",
+                "name": "USA Today"
             },
             "author": null,
-            "title": "Oil's New Map: How India Turns Russia Crude Into the West's Fuel - Bloomberg",
+            "title": "Putin once pledged not to kill Zelenskyy, ex-Israeli leader says; Ukraine expects to get jets from West: Live updates - USA TODAY",
             "description": null,
-            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8c7ffa6f-a511-11ed-abce-7a784868466a&url=L25ld3MvYXJ0aWNsZXMvMjAyMy0wMi0wNS9vaWwtcy1uZXctbWFwLWhvdy1pbmRpYS10dXJucy1ydXNzaWEtY3J1ZGUtaW50by10aGUtd2VzdC1zLWZ1ZWw=",
+            "url": "https://www.usatoday.com/story/news/world/2023/02/05/ukraine-russia-live-updates/11192273002/",
             "urlToImage": null,
-            "publishedAt": "2023-02-05T02:30:00Z",
-            "content": "To continue, please click the box below to let us know you're not a robot."
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Andrew Miller",
-            "title": "California 5-year-old remains upbeat despite mountain lion attack: 'His spirit remains intact' - Fox News",
-            "description": "A California five-year-old is said to be in good spirits despite being attacked by a mountain lion resulting in lacerations, a facial fracture, and a hospital visit.",
-            "url": "https://www.foxnews.com/us/california-5-year-old-remains-upbeat-despite-mountain-lion-attack-his-spirit-remains-intact",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/CA1.png",
-            "publishedAt": "2023-02-05T02:01:00Z",
-            "content": "A California child is recovering and in good spirits after a mountain lion attack sent him to the hospital.\r\nJack Trexler, 5, and his mother Suzie fought off a mountain lion while walking in Half Moo\u2026 [+2624 chars]"
+            "publishedAt": "2023-02-05T21:00:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "South Carolina becomes first 2024 primary state for Democrats - WCNC",
-            "description": "The Democratic Party on Saturday approved the reordering of its 2024 presidential primary, replacing Iowa with South Carolina in the leadoff spot as part of ...",
-            "url": "https://www.youtube.com/watch?v=aGtEuzcAtS0",
-            "urlToImage": "https://i.ytimg.com/vi/aGtEuzcAtS0/hqdefault.jpg",
-            "publishedAt": "2023-02-05T00:05:37Z",
-            "content": null
+            "author": "Ashley Capoot",
+            "title": "Elon Musk says Twitter \u2018trending to breakeven\u2019 after near bankruptcy - CNBC",
+            "description": "Elon Musk tweeted Sunday that the last few months have been \"extremely tough,\" but said that Twitter is \"now trending to break even.\"",
+            "url": "https://www.cnbc.com/2023/02/05/elon-musk-says-twitter-trending-to-breakeven-after-near-bankruptcy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107155662-1669130982053-gettyimages-1244985603-porzycki-donaldtr221122_npu5S.jpeg?v=1675630768&w=1920&h=1080",
+            "publishedAt": "2023-02-05T20:59:28Z",
+            "content": "Twitter CEO Elon Musk said Sunday that the last few months have been \"extremely tough,\" but said the social media company is \"now trending to breakeven.\" CNBC was not able to independently verify thi\u2026 [+3581 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Jacob Geanous",
-            "title": "Black fraternity Omega Psi Phi boots cops involved in Tyre Nichols' death - New York Post ",
-            "description": "The Greek organization Omega Psi Phi said in a statement that it booted out three of the fired officers involved in the death of Tyre Nichols.",
-            "url": "https://nypost.com/2023/02/04/frat-omega-psi-phi-boots-black-cops-in-tyre-nichols-death/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/tadarrius-bean-comp-1.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-02-04T23:34:00Z",
-            "content": "A national Black college fraternity announced that it has revoked the memberships of three of the Memphis police officers involved in the death of Tyre Nichols. \r\nThe Greek organization Omega Psi Phi\u2026 [+2646 chars]"
+            "author": "Fox News",
+            "title": "Potential fentanyl vax, test kits a 'great breakthrough' to combat opioid deaths - New York Post ",
+            "description": "Researchers at the University of Houston are developing a new vaccine that may prevent fentanyl addiction.",
+            "url": "https://nypost.com/2023/02/05/potential-fentanyl-vax-test-kits-could-combat-opioid-deaths/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/NYPICHPDPICT000003198182-e1675625920930.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-02-05T19:55:00Z",
+            "content": "Researchers at the University of Houston are developing a new vaccine that may prevent fentanyl addiction a primary contributor to tens of\u00a0thousands of synthetic opioid-related deaths.\r\nCertified phy\u2026 [+2530 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "PhoneArena"
+            },
+            "author": "Victor Hristov",
+            "title": "Galaxy S23 Ultra vs iPhone 14 Pro Max vs Pixel 7 Pro Blind Camera Comparison - PhoneArena",
+            "description": "Does the new Galaxy S23 Ultra have the best smartphone camera of 2023? We have a blind, unbiased test where you can decide!...",
+            "url": "https://www.phonearena.com/news/blind-camera-comparison-galaxy-s23-ultra-vs-iphone-14-pro-max-vs-pixel-7-pro_id145261",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/145261-wide-two_1200/Galaxy-S23-Ultra-vs-iPhone-14-Pro-Max-vs-Pixel-7-Pro-Blind-Camera-Comparison.jpg",
+            "publishedAt": "2023-02-05T19:52:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Supernova Fizzles Out: Rare Twin Star System Discovered With a Weirdly Circular Orbit - SciTechDaily",
-            "description": "After crunching a mountain of astronomy data, Clarissa Pavao, an undergraduate at Embry-Riddle Aeronautical University\u2019s Prescott, Arizona campus, submitted her preliminary analysis. Her mentor\u2019s response was swift and in all-caps. \u201cTHERE\u2019S AN ORBIT!\u201d he wrot\u2026",
-            "url": "https://scitechdaily.com/supernova-fizzles-out-rare-twin-star-system-discovered-with-a-weirdly-circular-orbit/",
-            "urlToImage": "https://scitechdaily.com/images/Binary-Star-CPD-29-2176-scaled.jpg",
-            "publishedAt": "2023-02-04T22:20:01Z",
-            "content": "ByEmbry-Riddle Aeronautical UniversityFebruary 4, 2023\r\nBy studying the binary star system CPD-29 2176 (shown here), researchers are unraveling new clues to our earliest beginnings, as stardust. Scie\u2026 [+9014 chars]"
+            "title": "Italy sounds alarm on large-scale computer hacking attack - Reuters",
+            "description": "Thousands of computer servers around the world have been targeted by a ransomware hacking attack, Italy's National Cybersecurity Agency (ACN) said on Sunday, warning organisations to take action to protect their systems.",
+            "url": "https://www.reuters.com/world/europe/italy-sounds-alarm-large-scale-computer-hacking-attack-2023-02-05/",
+            "urlToImage": "https://www.reuters.com/resizer/nnukeQlnxzOWqHSqVaNglFjVg0Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6XKRMVP7LJJ35DG5LAPFWR5BMM.jpg",
+            "publishedAt": "2023-02-05T19:48:00Z",
+            "content": "ROME, Feb 5 (Reuters) - Thousands of computer servers around the world have been targeted by a ransomware hacking attack, Italy's National Cybersecurity Agency (ACN) said on Sunday, warning organisat\u2026 [+1158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Pope Francis joins Anglican, Presbyterian leaders in denouncing anti-gay laws \u2022 FRANCE 24 English - FRANCE 24 English",
+            "description": "Pope Francis, the head of the Anglican Communion and top Presbyterian minister together denounced the criminalization of homosexuality on Sunday and said gay...",
+            "url": "https://www.youtube.com/watch?v=R5bSzXXdMow",
+            "urlToImage": "https://i.ytimg.com/vi/R5bSzXXdMow/maxresdefault.jpg",
+            "publishedAt": "2023-02-05T19:46:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Lauren Linder, Christopher DeRose",
+            "title": "Train derailment causes massive fire in East Palestine, Ohio - CBS Pittsburgh",
+            "description": "Crews remain at the scene of a massive fire caused by a train derailment in Ohio.",
+            "url": "https://www.cbsnews.com/pittsburgh/news/train-derailment-massive-fire-east-palestine-ohio-ntsb-investigation/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/04/da6b9732-3706-487f-b390-64b6699ad328/thumbnail/1200x630/ae3c6da6ebe25d8d8e181a36d435e045/fs-nutu-black-bg-base-1024x576-22.jpg",
+            "publishedAt": "2023-02-05T19:01:00Z",
+            "content": "EAST PALESTINE, Ohio (KDKA) \u2014 Twenty-four hours after a train derailed near the Ohio-Pennsylvania border Friday night, a fire continues to burn, and chemicals from the wreckage are being released int\u2026 [+7877 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "https://www.facebook.com/peoplemag",
+            "title": "Lizzo and Myke Wright Make Grammy Weekend Debut at Clive Davis Gala - PEOPLE",
+            "description": "After confirming they were dating last April, Lizzo and boyfriend Myke Wright made their Grammy weekend debut on Saturday at Clive Davis' Pre-Grammy Gala",
+            "url": "https://people.com/music/lizzo-myke-wright-make-grammy-weekend-debut-couple-clive-davis-gala/",
+            "urlToImage": "https://people.com/thmb/p4hOX4C6oC5YBC1M0-ssZ-PF-Pw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1079x292:1081x294)/Lizzo-Myke-Wright-020523-2000-764e6e990f8a4b228e69af92f1217850.jpg",
+            "publishedAt": "2023-02-05T18:56:00Z",
+            "content": "Lizzo is already a winner this weekend.\r\nThe three-time Grammy Award holder, 34, and boyfriend Myke Wright made what she seems to be designating their official couple's debut on Saturday at Clive Dav\u2026 [+2278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Northeast temperatures soar a day after bone-numbing cold - Yahoo! Voices",
+            "description": null,
+            "url": "https://www.yahoo.com/news/northeast-temperatures-soar-day-bone-184000723.html",
+            "urlToImage": null,
+            "publishedAt": "2023-02-05T18:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Patrick Wintour",
+            "title": "Iran\u2019s supreme leader to pardon some detained anti-government protesters - The Guardian",
+            "description": "Amnesty does not apply to dual nationals, prisoners with death sentences or those who do not regret their crimes, say officials",
+            "url": "https://www.theguardian.com/world/2023/feb/05/irans-supreme-leader-pardons-tens-of-thousands-of-prisoners",
+            "urlToImage": "https://i.guim.co.uk/img/media/683710ebb7bf8b0949dc22326f8b4baf28f65f78/0_125_2172_1303/master/2172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=213f21378c4d4e65e3b5d6819dadb651",
+            "publishedAt": "2023-02-05T18:37:00Z",
+            "content": "A limited amnesty is to be offered to many of those detained in the recent Iranian protests, the countrys supreme leader Ayatollah Ali Khamenei has agreed.\r\nBut the amnesty does not apply to dual nat\u2026 [+4664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tyler Treese",
+            "title": "White Men Can\u2019t Jump Remake Gets First Video & Release Date - Yahoo Entertainment",
+            "description": "A first look video for the White Men Can\u2019t Jump remake starring rapper Jack Harlow has been released alongside a Hulu release date for the upcoming comedy...",
+            "url": "https://www.yahoo.com/entertainment/white-men-t-jump-remake-183640919.html",
+            "urlToImage": "https://media.zenfs.com/en/comingsoon_net_477/9399d56142805ef00b6189c3829d3ae5",
+            "publishedAt": "2023-02-05T18:36:40Z",
+            "content": "A first look video for the White Men Cant Jump remake starring rapper Jack Harlow has been released alongside a Hulu release date for the upcoming comedy movie.\r\nThis 30-second video comes ahead of i\u2026 [+774 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Manu Raju, Gregory Krieg",
+            "title": "Prospective staffer files complaint accusing George Santos of sexual harassment - CNN",
+            "description": "A former prospective staffer to Rep. George Santos said he filed a police report and House ethics complaint alleging that the freshman congressman made an unwanted sexual advance toward him during a private encounter in his office and was later denied employm\u2026",
+            "url": "https://www.cnn.com/2023/02/05/politics/george-santos-prospective-staffer-complaint/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230205105734-george-santos-020523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-05T17:31:00Z",
+            "content": "A former prospective staffer to Rep. George Santos said he filed a police report and House ethics complaint alleging that the freshman congressman made an unwanted sexual advance toward him during a \u2026 [+4440 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+            "title": "Apple may be working on a pricier iPhone 'Ultra' - Engadget",
+            "description": "Apple has reportedly considered whether to introduce a more expensive iPhone \"Ultra\" that would slot above the iPhone Pro and Pro Max..",
+            "url": "https://www.engadget.com/apple-may-introduce-a-pricier-iphone-ultra-next-year-172301607.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/5b649390-a578-11ed-95fd-9cd77f6213ee",
+            "publishedAt": "2023-02-05T17:24:12Z",
+            "content": "Next year could see the introduction of a new flagship iPhone. According to Bloombergs Mark Gurman, Apple is considering whether to release a more expensive iPhone Ultra that would slot in above the \u2026 [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Ivana Saric",
+            "title": "Koch network indicates it won't back Donald Trump in 2024 - Axios",
+            "description": "\"The best thing for the country would be to have a president in 2025 who represents a new chapter.\"",
+            "url": "https://www.axios.com/2023/02/05/koch-republican-primary-donald-trump",
+            "urlToImage": "https://images.axios.com/mc8kRdp9dTlynVQ8Gu6SHa_HE1I=/0x200:3000x1888/1366x768/2023/02/05/1675616302858.jpg",
+            "publishedAt": "2023-02-05T17:08:27Z",
+            "content": "The conservative political network associated with billionaire Charles Koch won't be backing former President Trump's 2024 presidential bid, becoming the latest GOP megadonor to distance themselves f\u2026 [+2274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Isabel Wang",
+            "title": "Why the stock market rally may face a big test from the U.S. dollar - MarketWatch",
+            "description": "A weakening U.S. dollar is seen providing another leg of support for stocks. But an important test may loom, analysts said.",
+            "url": "https://www.marketwatch.com/story/why-the-2023-stock-market-rally-may-depend-on-further-u-s-dollar-weakness-11675549559",
+            "urlToImage": "https://images.mktw.net/im-716757/social",
+            "publishedAt": "2023-02-05T17:01:00Z",
+            "content": "The U.S. dollar may be losing its appeal as one of the few reliable safe-haven assets in times of economic and geopolitical uncertainty after an 18 month rally, and a further fall by the currency cou\u2026 [+6840 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Jennifer Zhan",
+            "title": "Pedro Pascal Stars in SNL's Big-Budget Mario Kart Trailer - Vulture",
+            "description": "\u2018The Last of Us\u2019 star Pedro Pascal hosted last night\u2019s episode of \u2018Saturday Night Live.\u2019 In one sketch with a surprisingly high production value, he played Mario in a trailer for live-action version of Mario Kart from HBO.",
+            "url": "http://www.vulture.com/2023/02/snl-pedro-pascal-stars-big-budget-mario-kart-trailer.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/dd1/79e/4d2d6c61ee496820556e9350e81e07d8e2-pedro-snl-mario.1x.rsocial.w1200.png",
+            "publishedAt": "2023-02-05T16:47:59Z",
+            "content": "Chris Pratt, weve got your competition on the line. Pedro Pascal hosted Saturday Night Live last night, and NBC gifted him with a nice big budget. In a surprisingly high-production-value sketch, The \u2026 [+643 chars]"
         }
     ]
 }
