@@ -1,19 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "Florida Today"
+                "name": "BBC News"
             },
-            "author": ", Florida Today",
-            "title": "Live updates: SpaceX set to launch Falcon 9 rocket from Cape Canaveral - Florida Today",
-            "description": "Follow live updates as SpaceX targets 8:32 p.m. ET on Mon., Feb. 6, for the launch of a Falcon 9 rocket from Cape Canaveral Space Force Station.",
-            "url": "https://www.floridatoday.com/story/tech/science/space/2023/02/06/spacex-hispasat-amazonas-nexus-satellite-launch-falcon-9-rocket-cape-canaveral-space-force-florida/69868058007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/06/PBRE/021c356e-f13a-4307-abf9-373c387caac1-Amazonas_Vertical_3_Desktop_Homepage_056f8bf73e.jpg?auto=webp&crop=2124,1195,x260,y0&format=pjpg&width=1200",
-            "publishedAt": "2023-02-07T00:43:13Z",
-            "content": "Space is important to us and that's why we're working to bring you top coverage of the industry and Florida launches. Journalism like this takes time and resources.\u00a0Please support it with a subscript\u2026 [+2954 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Turkey earthquake: Heavy rain hampers rescue efforts - BBC",
+            "description": "More than 4,800 people are confirmed dead in the quake that struck northern Syria and Turkey.",
+            "url": "https://www.bbc.com/news/world-europe-64548985",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11A48/production/_128546227_womenre.jpg",
+            "publishedAt": "2023-02-07T07:46:03Z",
+            "content": "Media caption, Turkey and Syria earthquake: Drone footage shows Turkey earthquake aftermath\r\nRescuers are battling heavy rain and snow as they race against the clock to find survivors of a devastatin\u2026 [+4993 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russian reinforcements pour into eastern Ukraine, says governor - Reuters",
+            "description": "Ukraine said on Tuesday the last 24 hours were the deadliest of the war so far for Russian troops, as Moscow hurls tens of thousands of freshly mobilised soldiers and mercenaries into relentless winter assaults in the east.",
+            "url": "https://www.reuters.com/world/europe/zelenskiy-vows-changes-will-bolster-ukraine-amid-defence-minister-uncertainty-2023-02-06/",
+            "urlToImage": "https://www.reuters.com/resizer/ZNM-lFXsdmvWqBT3cDbyD71SCGo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TOY7MOYGUBKCZOOEUUK7WNABJE.jpg",
+            "publishedAt": "2023-02-07T07:18:00Z",
+            "content": "KYIV, Feb 7 (Reuters) - Ukraine said on Tuesday the last 24 hours were the deadliest of the war so far for Russian troops, as Moscow hurls tens of thousands of freshly mobilised soldiers and mercenar\u2026 [+4586 chars]"
         },
         {
             "source": {
@@ -25,47 +38,99 @@
             "description": "The first NBA blockbuster went down Sunday; what other moves will we see this week?",
             "url": "https://www.cbssports.com/nba/news/nba-trade-rumors-nets-mavericks-make-kyrie-irving-trade-official-heat-open-to-moving-kyle-lowry/",
             "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/04/bec5d3cc-501a-47cc-a378-75ceb4a64c27/thumbnail/1200x675/8b74c850f0beaf39495119c831f780dc/untitled-design-2023-02-04t104207-968.png",
-            "publishedAt": "2023-02-07T00:18:00Z",
+            "publishedAt": "2023-02-07T06:48:00Z",
             "content": "The 2023 NBA trade deadline is rapidly approaching. Teams now have three days to finalize their remaining business before the trade market is closed for the season at 3 p.m. ET on Thursday, Feb. 9. S\u2026 [+7637 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "financial-times",
+                "name": "Financial Times"
             },
-            "author": "Mehmet Guzel, Ghaith Alsayed",
-            "title": "Turkey earthquake: Live updates on 7.8 quake - The Associated Press - en Espa\u00f1ol",
-            "description": "ADANA, Turkey (AP) \u2014 Rescuers in Turkey and war-ravaged Syria searched through the frigid night into Tuesday, hoping to pull more survivors from the rubble after a 7.8 magnitude earthquake killed more than 3,400 people  and toppled thousands of buildings acro\u2026",
-            "url": "https://apnews.com/article/earthquake-shakes-turkey-b927808f6a5c54bdb669120faa40b7bc",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0bae9c5fb1c14b669d38cf20c52103ad/3000.jpeg",
-            "publishedAt": "2023-02-07T00:16:08Z",
-            "content": "ADANA, Turkey (AP) Rescuers in Turkey and war-ravaged Syria searched through the frigid night into Tuesday, hoping to pull more survivors from the rubble after a 7.8 magnitude earthquake killed more \u2026 [+7067 chars]"
+            "author": "George Russell, William Langley",
+            "title": "Live news: Japanese workers' nominal wages grow at fastest pace in 26 years - Financial Times",
+            "description": "",
+            "url": "https://www.ft.com/content/ab3575d1-1d71-4eb5-9717-ac94c680efa5",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F05a9ba63-3d71-46ae-a981-926869ab05c3.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-02-07T06:29:11Z",
+            "content": "SoftBank has reported a quarterly investment loss of $5.5bn as the technology conglomerate cuts back on pouring money into start-ups to navigate a global tech rout and higher borrowing costs.\r\nIn rec\u2026 [+1553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "J. Kim Murphy",
+            "title": "\u2018Ant-Man and the Wasp: Quantumania\u2019 First Reactions Highlight Jonathan Majors\u2019 \u2018Incredible\u2019 and \u2018Badass\u2019 Kang the Conqueror - Variety",
+            "description": "The Marvel Cinematic Universe kicks off its next series of entries, dubbed Phase Five, with the upcoming Feb. 17 release of \u201cAnt-Man and the Wasp: Quantumania.\u201d It\u2019s curtains for \u2026",
+            "url": "https://variety.com/2023/film/news/ant-man-and-the-wasp-quantumania-first-reactions-jonathan-majors-1235514409/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-06-at-12.37.08-PM.png?w=1000&h=563&crop=1",
+            "publishedAt": "2023-02-07T06:02:00Z",
+            "content": "The Marvel Cinematic Universe kicks off its next series of entries, dubbed Phase Five, with the upcoming Feb. 17 release of \u201cAnt-Man and the Wasp: Quantumania.\u201d It\u2019s curtains for the film\u2019s Monday ev\u2026 [+4476 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Alex Woodward",
+            "title": "George Santos \u2013 news: Republican\u2019s office vandalised as congressman\u2019s latest lies revealed - The Independent",
+            "description": "Follow for updates on the latest lies and scandals swirling round the Republican congressman",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/george-santos-lies-real-name-sexual-harassment-spider-man-musical-b2277069.html",
+            "urlToImage": "https://static.independent.co.uk/2023/01/21/04/10401865.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-07T05:55:00Z",
+            "content": "George Santos faces backlash on Twitter for weighing into Ilhan Omar vote after lies about 'Jew-ish' heritage\r\nGeorge Santos is facing backlash on Twitter for weighing in on the vote ousting Ilhan Om\u2026 [+1386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Eliza Ronalds-Hannon and Jeannette Neumann",
+            "title": "Bed Bath & Beyond Plans Share Sale in Bid to Avoid Bankruptcy - Yahoo Finance",
+            "description": "(Bloomberg) -- Bed Bath & Beyond Inc. has lined up investors for an eleventh-hour cash infusion that would allow it to stave off a bankruptcy filing...",
+            "url": "https://finance.yahoo.com/news/bed-bath-beyond-plans-share-220242769.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9QzJ_2FqBYwKs0e49vFR5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/bloomberg_markets_842/8e31830849cdb21b30cb68b85aabda8b",
+            "publishedAt": "2023-02-07T05:11:00Z",
+            "content": "(Bloomberg) -- Bed Bath &amp; Beyond Inc. has lined up investors for an eleventh-hour cash infusion that would allow it to stave off a bankruptcy filing, according to people with knowledge of the mat\u2026 [+4287 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Hunt",
+            "title": "Neanderthals had a taste for a seafood delicacy that's still popular today - CNN",
+            "description": "Neanderthals living 90,000 years ago in a seafront cave, in what's now Portugal, regularly caught crabs, roasted them on coals and ate the cooked flesh, according to a new study.",
+            "url": "https://www.cnn.com/2023/02/07/world/neanderthal-diet-crabs-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230206144059-neanderthal-diet-research-crab-remains-scn.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-07T05:01:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nNeanderthals living 90,000 years ago in a seafront cav\u2026 [+3202 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Johnny Yu",
+            "title": "Hogwarts Legacy account link rewards: a step-by-step guide - Polygon",
+            "description": "Connect your Harry Potter Fan Club and WB Games accounts to receive cosmetics and your wand in Hogwarts Legacy. Make sure to link your accounts for a more personal experience.",
+            "url": "https://www.polygon.com/hogwarts-legacy-guide/23587634/account-link-rewards-harry-potter-fan-club-wb-games-wizarding-world",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/6shFT2mg_SnyIYceu2Ma8Xj5G6A=/0x75:1920x1080/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24412503/vlc_xqKksuxEas.jpg",
+            "publishedAt": "2023-02-07T05:00:00Z",
+            "content": "Its worth linking your Harry Potter Fan Club and WB Games accounts for a more personalized Hogwarts Legacyexperience.\r\nThis involves a couple of quizzes to find which Hogwarts house you belong to and\u2026 [+3435 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "CBS New York Team",
-            "title": "Buffalo area hit with strongest earthquake in decades - CBS New York",
-            "description": "The U.S. Geological Survey preliminarily reported a 3.8 earthquake centered in the suburb of West Seneca.",
-            "url": "https://www.cbsnews.com/newyork/news/small-earthquake-shakes-buffalo-western-new-york/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/06/5d5fd0fd-9742-486c-af49-bafc6d40dbee/thumbnail/1200x630/8182f2805fc9b06ce6483245ca5b2b06/buffalo-earthquake-1.jpg",
-            "publishedAt": "2023-02-06T23:41:00Z",
-            "content": "BUFFALO, N.Y. -- A small earthquake rumbled through western New York early Monday, alarming people in a region unaccustomed to such shaking but apparently causing no significant damage.\r\nThe U.S. Geo\u2026 [+2084 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vikings.com"
-            },
-            "author": "Craig Peters",
-            "title": "Vikings Hire Brian Flores as Defensive Coordinator - Vikings.com",
-            "description": "",
-            "url": "https://www.vikings.com/news/brian-flores-defensive-coordinator-hired-2023",
-            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/vikings/bsbwjdyqrcuhho5bpvfj",
-            "publishedAt": "2023-02-06T23:26:59Z",
-            "content": "New England won four Super Bowls during Flores' time with the Patriots (XXXIX, XLIX, LI and LIII).\r\nHe was hired as head coach of the Miami Dolphins in 2019.\r\nFlores held that role for three seasons,\u2026 [+1400 chars]"
+            "author": "Ava-joye Burnett",
+            "title": "'It would lay this city to waste:' Catonsville woman conspired with neo-Nazi leader to destroy Baltimore power grid, FBI says - CBS News",
+            "description": "The FBI said it views the suspects as \"racially or ethnically motivated extremists.\"",
+            "url": "https://www.cbsnews.com/baltimore/news/baltimore-power-grid-shooting-substations-sarah-clendaniel-fbi-charged/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/06/a8299d8e-0514-4b96-80f8-5c492d6037e2/thumbnail/1200x630/d4d9c726b7bcc1d12ae6c972f46b2009/vlcsnap-2023-02-06-17h41m50s484.png",
+            "publishedAt": "2023-02-07T04:40:00Z",
+            "content": "BALTIMORE -- A Catonsville woman and a Florida man with neo-Nazi ties have been arrested and charged with conspiring to attack Baltimore's power grid, the FBI and local officials announced Monday.\u00a0\r\n\u2026 [+4717 chars]"
         },
         {
             "source": {
@@ -73,51 +138,116 @@
                 "name": "Yahoo Entertainment"
             },
             "author": "Jason Owens",
-            "title": "Sean Payton won't allow Russell Wilson's personal coach at Broncos facility: 'Not gonna take place here' - Yahoo Sports",
-            "description": "Wilson brought Jake Heaps and a staff of personal trainers and coaches to Denver when he was traded from the Seahawks last offseason.",
-            "url": "https://sports.yahoo.com/sean-payton-wont-allow-russell-wilsons-personal-coach-at-broncos-facility-not-gonna-take-place-here-232130749.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HjseGjO8gcCfL0vJWzP6vw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/5acd3b10-a674-11ed-b797-b9ce02bdda01",
-            "publishedAt": "2023-02-06T23:21:30Z",
-            "content": "Russell Wilson's personal coach Jake Heaps joined the Denver Broncos quarterback in his move from Seattle to Denver last season.\r\nHe attended last offseason's training camp but won't have access to B\u2026 [+4210 chars]"
+            "title": "Tom Brady gets emotional as Bill Belichick heaps praise on his former QB: 'The greatest ... it was incredible' - Yahoo Sports",
+            "description": "Belichick joined his former quarterback on the first episode of Brady's podcast since he announced his retirement.",
+            "url": "https://sports.yahoo.com/tom-brady-gets-emotional-as-bill-belichick-heaps-praise-on-his-former-qb-the-greatest--it-was-incredible-043621461.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9ect1Nyi00Lc_BdEMeW.HQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTU-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/7c028bc0-a68b-11ed-a475-3cdbb6fd0a59",
+            "publishedAt": "2023-02-07T04:36:00Z",
+            "content": "Things got icy toward the end betweenTom Brady and Bill Belichick.\r\nNow that Brady says his career is over \"for good\" this time the two are looking back fondly on their days as quarterback and head c\u2026 [+3235 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Recording Academy | Grammys"
+                "name": "Arrowhead Pride"
+            },
+            "author": "John Dixon",
+            "title": "Chiefs appear at Super Bowl LVII Opening Night - Arrowhead Pride",
+            "description": "We\u2019re keeping you up to date with what\u2019s happening as Kansas City meets with the press in Phoenix.",
+            "url": "https://www.arrowheadpride.com/2023/2/6/23588706/chiefs-appear-at-super-bowl-lvii-opening-night",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5FeFHtuWW5Zr0SgtskD1sTebipc=/465x698:4808x2972/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24414603/1463628712.jpg",
+            "publishedAt": "2023-02-07T04:13:56Z",
+            "content": "\u00a9 2023 Vox Media, LLC. All Rights Reserved\r\n* 21+ (19+ CA-ONT) (18+ NH/WY). AZ, CO, CT, IL, IN, IA, KS, LA, (select parishes), MD, MI, NH, NJ, NY, OH, OR, PA, TN, VA, WV, WY, CA-ONT only.Eligibility \u2026 [+128 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "20 Artists Who Made History At The 2023 GRAMMYs Other Than Beyonc\u00e9: Taylor Swift, Kim Petras, Viola Davis & More - The GRAMMYs",
-            "description": "As Queen Bey takes her throne as the artist with the most GRAMMYs of all time, take a look at some of the other 2023 GRAMMY winners who joined her in celebrating momentous achievements.",
-            "url": "https://www.grammy.com/news/historic-grammy-wins-2023-grammys-winners-firsts-beyonce-taylor-swift-kim-petras-viola-davis-egot-history",
-            "urlToImage": "https://i8.amplience.net/i/naras/Kim-Petras-Sam-Smith-2023-grammys-acceptance-speech-GettyImages-1463277329.jpg?w=821&sm=c",
-            "publishedAt": "2023-02-06T23:09:00Z",
-            "content": "Ann\u00a0and\u00a0Nancy WilsonofHeartare verging on the half-century mark since they formed their groundbreaking group in 1974. Through five decades of changing musical eras, their impact has not waned. From t\u2026 [+3135 chars]"
+            "title": "Baidu to finish testing ChatGPT-style project 'Ernie Bot' in March - Reuters",
+            "description": "China's Baidu Inc <a href=\"https://www.reuters.com/companies/9888.HK\" target=\"_blank\">(9888.HK)</a> said on Tuesday it would complete internal testing of a ChatGPT-style project called \"Ernie Bot\" in March, joining a global race as interest in generative arti\u2026",
+            "url": "https://www.reuters.com/technology/chinas-baidu-finish-testing-chatgpt-style-project-ernie-bot-march-2023-02-07/",
+            "urlToImage": "https://www.reuters.com/resizer/nI8VOBFmFlfjFIJOcQ_tKC0l4jo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U6WCYQF7ENNHNJKJ2ZMM7GRFEQ.jpg",
+            "publishedAt": "2023-02-07T04:01:00Z",
+            "content": "BEIJING, Feb 7 (Reuters) - China's Baidu Inc (9888.HK) said on Tuesday it would complete internal testing of a ChatGPT-style project called \"Ernie Bot\" in March, joining a global race as interest in \u2026 [+2616 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Tara Copp",
+            "title": "Intruder breaches base of Air Force One, shot fired - The Associated Press - en Espa\u00f1ol",
+            "description": "WASHINGTON (AP) \u2014 Another intruder has breached the home of Air Force One, one of the nation's most sensitive military bases, and this time a resident opened fire on the trespasser, Joint Base Andrews said in a statement late Monday.",
+            "url": "https://apnews.com/article/law-enforcement-e9bde5e95d0eb3000d33a3a62e292f42",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/16e8cd1f820d45f8916dcf0db7ba88cd/3000.webp",
+            "publishedAt": "2023-02-07T03:52:28Z",
+            "content": "WASHINGTON (AP) Another intruder has breached the home of Air Force One, one of the nations most sensitive military bases, and this time a resident opened fire on the trespasser, Joint Base Andrews s\u2026 [+1654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Groundbreaking Discovery of Hidden Molten Rock Layer Under Earth's Tectonic Plates - SciTechDaily",
+            "description": "Scientists have discovered a new layer of partly molten rock under the Earth\u2019s crust that might help settle a long-standing debate about how tectonic plates move. Researchers had previously identified patches of melt at a similar depth. But a new study led by\u2026",
+            "url": "https://scitechdaily.com/groundbreaking-discovery-of-hidden-molten-rock-layer-under-earths-tectonic-plates/",
+            "urlToImage": "https://scitechdaily.com/images/Earths-Upper-Mantle.jpg",
+            "publishedAt": "2023-02-07T03:43:59Z",
+            "content": "ByUniversity of Texas at AustinFebruary 6, 2023\r\nThe Earth with the upper mantle revealed. Researchers at The University of Texas at Austin have discovered a previously unknown layer of partly molten\u2026 [+4566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "Asia-Pacific markets rise ahead of Australia's rate decision; Wall Street extends losses - CNBC",
+            "description": "Investors in the Asia-Pacific await the Reserve Bank of Australia's rate decision later in the day.",
+            "url": "https://www.cnbc.com/2023/02/07/asia-markets-reserve-bank-australia.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107189785-1675727533919-gettyimages-1043773886-4042_14_am01692.jpeg?v=1675727856&w=1920&h=1080",
+            "publishedAt": "2023-02-07T02:17:00Z",
+            "content": "Treasury yields jumped on Monday as investors awaited clues from Federal Reserve speakers on the next steps for monetary policy.\r\nThe yield on the 1-year T-bill leapt as high as 4.841% Monday morning\u2026 [+665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Paul Best",
+            "title": "SpaceX launches 9,000-pound satellite into orbit from Florida - Fox Business",
+            "description": "SpaceX used their Falcon 9 rocket to launch a 9,000-pound satellite into orbit on Monday evening from Cape Canaveral Space Force Station in Florida.",
+            "url": "https://www.foxbusiness.com/technology/spacex-launches-9000-pound-satellite-orbit-florida",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/04/0/0/SpaceX-Falcon-9-Rocket.jpg?ve=1&tl=1",
+            "publishedAt": "2023-02-07T02:15:29Z",
+            "content": "A SpaceX Falcon 9 rocket successfully launched a 9,000-pound satellite into orbit on Monday evening from Cape Canaveral Space Force Station in Florida.\r\nThe reusable rocket's first stage landed back \u2026 [+1241 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Ashley Strickland",
-            "title": "Jupiter now has the most moons in the solar system after new discovery - CNN",
-            "description": "Astronomers have observed 12 additional moons orbiting Jupiter, bringing its total number of confirmed moons to 92.",
-            "url": "https://www.cnn.com/2023/02/06/world/jupiter-new-moons-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/210511132559-01-jupiter-gemini-hubble.jpg?q=x_0,y_0,h_1304,w_2317,c_fill/w_800",
-            "publishedAt": "2023-02-06T22:56:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nJupiter already reigns as king of the planets its the \u2026 [+4863 chars]"
+            "author": "Zachary Cohen",
+            "title": "Exclusive: US intel assessment documents Chinese spy balloon incident under Trump - CNN",
+            "description": "A US military intelligence report from last year that focused on China's use of high-altitude balloons mentioned sightings in Hawaii and Florida during the Trump presidency, according to an excerpt of the report reviewed by CNN.",
+            "url": "https://www.cnn.com/2023/02/06/politics/military-intelligence-report-china-balloon-trump/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220808101326-donald-trump-0806.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-07T02:15:00Z",
+            "content": "A US military intelligence report from last year that focused on Chinas use of high-altitude balloons mentioned sightings in Hawaii and Florida during the Trump presidency, according to an excerpt of\u2026 [+3410 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Rebecca Rosenberg",
-            "title": "Murdaugh trial: Alex Murdaugh brought tarp to mother's home night of double murders, witness says - Fox News",
-            "description": "Alex Murdaugh, a former lawyer, assistant prosecutor and scion of a powerful South Carolina legal dynasty, is charged with the double murder of his wife, Maggie, and their 22-year-old son, Paul, on June 7, 2021.",
-            "url": "https://www.foxnews.com/live-news/alex-murdaugh-murder-trial-february-6-2023",
-            "urlToImage": "https://livenews.foxnews.com/images/2023/02/5bd23d38db747678cb3d8bf579e0b462.jpg",
-            "publishedAt": "2023-02-06T22:14:29Z",
-            "content": "While Alex Murdaughs net worth may have at one point been in the millions, the disgraced South Carolina lawyers current ledger is unknown.\r\nAlex is charged with 99 financial crimes alleging he stole \u2026 [+1552 chars]"
+            "author": "Scott Thompson",
+            "title": "Broncos' Sean Payton bans personal coaches from locker room, including star QBs: 'That's foreign to me' - Fox News",
+            "description": "Sean Payton's introduction as the Denver Broncos' new head coach has already brought change, as he said no personal coaches will be allowed on the premises, including Russell Wilson's.",
+            "url": "https://www.foxnews.com/sports/broncos-sean-payton-bans-personal-coaches-locker-room-including-star-qbs-foreign",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/sean-payton.jpg",
+            "publishedAt": "2023-02-07T01:44:00Z",
+            "content": "New Denver Broncos head coach Sean Payton is already making some changes in the organization.\u00a0\r\nThe Broncos introduced Payton on Monday, which meant fielding questions from the various Denver and nat\u2026 [+3421 chars]"
         },
         {
             "source": {
@@ -125,142 +255,12 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "GRAMMYs 2023: Harry Styles, Taylor Swift and What You DIDN'T See on TV - Entertainment Tonight",
-            "description": "Taylor Swift and Harry Styles reunited at the GRAMMYs on Sunday night, a decade after their brief romance. Taylor was spotted walking to Harry\u2019s table to con...",
-            "url": "https://www.youtube.com/watch?v=WVk6CGZzkB4",
-            "urlToImage": "https://i.ytimg.com/vi/WVk6CGZzkB4/maxresdefault.jpg",
-            "publishedAt": "2023-02-06T22:00:11Z",
+            "title": "Documents: Concerns raised over alleged Richneck Elementary School shooter's behavior - 13News Now",
+            "description": "New documents obtained by 13News Now detail more about what led to the January 6 shooting at Richneck Elementary School. Newport News Police say a 6-year-old...",
+            "url": "https://www.youtube.com/watch?v=EMFG5DPX1Zk",
+            "urlToImage": "https://i.ytimg.com/vi/EMFG5DPX1Zk/hqdefault.jpg",
+            "publishedAt": "2023-02-07T01:29:11Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Holly Yan, Michelle Watson, Nouran Salahieh, Hannah Sarisohn",
-            "title": "Officials begin controlled release of toxic chemical from train that derailed in Ohio - CNN",
-            "description": "The controlled release of hazardous materials at a train derailment site in East Palestine, Ohio, began Monday afternoon when a boom was followed by a new, large plume of black smoke.",
-            "url": "https://www.cnn.com/2023/02/06/us/east-palestine-ohio-train-derailment-fire-monday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230206165016-05-train-derailment-ohio-0206.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-06T22:00:00Z",
-            "content": "The controlled release of hazardous materials at a train derailment site in East Palestine, Ohio, began Monday afternoon when a boom was followed by a new, large plume of black smoke. \r\nAccording to \u2026 [+6932 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "NY Funeral Home Finds 'DEAD' 82-Year-Old Woman Still Breathing | NBC New York - NBC New York",
-            "description": "The woman, whose name has not been released, was pronounced dead at Waters Edge Rehab and Nursing Center in Port Jefferson around 11:15 a.m. Saturday. Hours ...",
-            "url": "https://www.youtube.com/watch?v=tqGaF1B5Dtc",
-            "urlToImage": "https://i.ytimg.com/vi/tqGaF1B5Dtc/maxresdefault.jpg",
-            "publishedAt": "2023-02-06T21:57:51Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ines Ferr\u00e9",
-            "title": "Bed Bath & Beyond shares gain 92% as meme stocks soar - Yahoo Finance",
-            "description": "Bed Bath & Beyond's (BBBY) stock sank 24% after the embattled retailer announced it will raise as much as $1.025 billion through an equity offering.",
-            "url": "https://finance.yahoo.com/news/bed-bath--beyond-announces-plan-to-raise-1-billion-stock-falls-24-212006024.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EJZkGFSSt7DVr4rct4LCTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/d6842820-1e22-11ed-b3ee-729a2ad01c5e",
-            "publishedAt": "2023-02-06T21:20:06Z",
-            "content": "Bed Bath &amp; Beyond's (BBBY) stock sank 24% after the embattled retailer announced it will raise as much as $1.025 billion through an equity offering.\r\nBBBY had gained 92% on Monday ahead of the an\u2026 [+1872 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Mansur Shaheen",
-            "title": "Taking vitamin D supplements could drag 17million Americans and Brits back from brink of diabetes - Daily Mail",
-            "description": "In a meta-analysis of 17 studies, Tufts University researchers found that pre-diabetics could reduce their likelihood of developing the potentially-crippling condition by 15 percent.",
-            "url": "https://www.dailymail.co.uk/health/article-11719037/Taking-vitamin-D-supplements-drag-17million-Americans-Brits-brink-diabetes.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2023/02/06/21/67390067-0-image-a-3_1675717228250.jpg",
-            "publishedAt": "2023-02-06T20:56:53Z",
-            "content": "A vitamin D supplement every day can help keep diabetes away, a study suggests.\r\nIn a meta-analysis of 17 studies, Tufts University researchers found that pre-diabetics could reduce their likelihood \u2026 [+4859 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Dina Bass",
-            "title": "Microsoft Schedules Mystery Event for Tuesday as Company Accelerates AI Investments - Yahoo Finance",
-            "description": "(Bloomberg) -- Microsoft Corp. unveiled plans for an event on Tuesday at its headquarters, leaving the subject open to speculation as the company steps up...",
-            "url": "https://finance.yahoo.com/news/microsoft-schedules-mystery-event-tuesday-203529849.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FWPBGBlK8dQEf.EwGH3O.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/e99b4c78f507709ccf28f21df93e2142",
-            "publishedAt": "2023-02-06T20:35:29Z",
-            "content": "(Bloomberg) -- Microsoft Corp. unveiled plans for an event on Tuesday at its headquarters, leaving the subject open to speculation as the company steps up its bets on artificial intelligence includin\u2026 [+2297 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Hogwarts Legacy: 14 Minutes of PC Gameplay at Max Settings (4K 60FPS) - IGN",
-            "description": "Hogwarts Legacy is nearly here, and if you want to see the game at it's absolute best, then this video is for you! For this gameplay, we installed the game o...",
-            "url": "https://www.youtube.com/watch?v=VPItVDtUBvo",
-            "urlToImage": "https://i.ytimg.com/vi/VPItVDtUBvo/maxresdefault.jpg",
-            "publishedAt": "2023-02-06T20:34:21Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "Fed's Bostic Says Higher Peak Rate on Table After Jobs Blowout - Bloomberg",
-            "description": null,
-            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=0365d00b-a672-11ed-9adf-6b564b484a4c&url=L25ld3MvYXJ0aWNsZXMvMjAyMy0wMi0wNi9mZWQtcy1ib3N0aWMtc2F5cy1oaWdoZXItcGVhay1yYXRlLW9uLXRhYmxlLWFmdGVyLWpvYnMtYmxvd291dA==",
-            "urlToImage": null,
-            "publishedAt": "2023-02-06T20:30:00Z",
-            "content": "To continue, please click the box below to let us know you're not a robot."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Peter White",
-            "title": "\u2018Yellowstone\u2019 Shocker: Kevin Costner Cowboy Drama Series Plots End As Taylor Sheridan Eyes Franchise Extension With Matthew McConaughey - Deadline",
-            "description": "EXCLUSIVE: Yellowstone, TV\u2019s top-rated drama, may end in spectacular fashion.\u00a0 Deadline understands that Taylor Sheridan, co-creator and showrunner, Paramount Global and Paramount Network are \u2026",
-            "url": "https://deadline.com/2023/02/yellowstone-show-end-franchise-continues-matthew-mcconaughey-1235251400/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/02/costner.jpg?w=1024",
-            "publishedAt": "2023-02-06T20:17:00Z",
-            "content": "EXCLUSIVE: Yellowstone, TV\u2019s top-rated drama, may end in spectacular fashion.\u00a0\r\nDeadline understands that Taylor Sheridan, co-creator and showrunner, Paramount Global and Paramount Network are moving\u2026 [+5152 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/kris-holt",
-            "title": "Sony\u2019s expansive PlayStation VR2 FAQ answers (almost) all of your burning questions - Engadget",
-            "description": "After you set up PS VR2, you won't need a TV to use it.",
-            "url": "https://www.engadget.com/sony-ps-vr2-faq-details-headset-virtual-reality-194415674.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/ac4a3410-ddc6-11ec-95fd-f39a72224c2f",
-            "publishedAt": "2023-02-06T19:46:58Z",
-            "content": "Sony\r\n is preparing to release its next-gen virtual reality headset for PlayStation 5\r\n on February 22nd. While there have been suggestions that demand for $550 PlayStation VR2 isn't quite what the c\u2026 [+2926 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": null,
-            "title": "Rose wins at Pebble Beach to end 4-year drought - ESPN",
-            "description": "Justin Rose took all the drama out of a long week with three quick birdies that sent him to a 3-shot victory Monday in the wind-delayed AT&T Pebble Beach Pro-Am, ending four years without winning and making him eligible for the Masters.",
-            "url": "https://www.espn.com/golf/story/_/id/35602410/justin-rose-wins-pebble-beach-end-4-year-drought",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0206%2Fr1127591_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-02-06T19:01:12Z",
-            "content": "PEBBLE BEACH, Calif. -- Justin Rose had a different set of goals at the start of the year.\r\nHis back was starting to become bothersome. His world ranking sank to its lowest point in 13 years. And he \u2026 [+4382 chars]"
         }
     ]
 }
