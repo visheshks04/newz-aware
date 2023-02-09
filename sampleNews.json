@@ -1,123 +1,175 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "NPR"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "",
-            "title": "Biden State of the Union address likely boosted Democrats' 2024 confidence - NPR",
-            "description": "The president drew a clear distinction with House Republicans, baiting them into several moments of hectoring, while seemingly getting them to agree to not cut Social Security or Medicare.",
-            "url": "https://www.npr.org/2023/02/08/1155329147/5-takeaways-from-bidens-state-of-the-union-address",
-            "urlToImage": "https://media.npr.org/assets/img/2023/02/08/ap23039133511031_wide-1efdbfb5ebc6ba85ccd9ef7b754464750ef63d26-s1400-c100.jpg",
-            "publishedAt": "2023-02-08T10:01:03Z",
-            "content": "Vice President Kamala Harris and Speaker of the House Kevin McCarthy of Calif., listen as President Joe Biden delivers his State of the Union address to a joint session of Congress at the Capitol, Tu\u2026 [+7497 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Ryan Gajewski",
-            "title": "CBS to Replace James Corden\u2019s \u2018Late Late Show\u2019 With Stephen Colbert-Backed \u2018@midnight\u2019 Reboot - Hollywood Reporter",
-            "description": "The comedic game show originally signed off in August 2017 after airing 600 episodes on Comedy Central.",
-            "url": "https://www.hollywoodreporter.com/tv/tv-news/stephen-colbert-atmidnight-replace-james-corden-late-late-show-cbs-1235320206/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/118798_1457b-H-2022.jpg?w=1024",
-            "publishedAt": "2023-02-08T09:00:00Z",
-            "content": "CBS is dipping back into the recent past to fill the late night slot that\u2019s soon to open up when its The Late Late Show With James Corden departs.\r\nThe network is set to replace the long-running Late\u2026 [+2471 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Los Angeles Times"
-            },
-            "author": "Bill Plaschke",
-            "title": "LeBron James, not Michael Jordan, is greatest player in NBA history - Los Angeles Times",
-            "description": "By becoming the NBA's all-time leading scorer, LeBron James has dethroned Michael Jordan as the greatest player in basketball history.",
-            "url": "https://www.latimes.com/sports/lakers/story/2023-02-07/lebron-james-michael-jordan-greatest-player-in-nba-history",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/e1faf59/2147483647/strip/true/crop/4825x2533+1+235/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc7%2Fbd%2F3de77d5443a48867da3066fe61ce%2F1252759-sp-0429-lakers-thunder-wjs-076.jpg",
-            "publishedAt": "2023-02-08T08:25:00Z",
-            "content": "One small basket for man, one giant end to the sports argument that has plagued mankind.\r\nWith his 36th point Tuesday against the Oklahoma City Thunder, LeBron James passed Kareem Abdul-Jabbar to bec\u2026 [+8164 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ashley Killough, Ed Lavandera",
-            "title": "Suspect in Dallas Zoo animal thefts allegedly admitted to the crime and says he would do it again, affidavits claim - CNN",
-            "description": "The man who faces charges stemming from a string of suspicious activities at the Dallas Zoo allegedly admitted to stealing two tamarin monkeys and trying to steal the clouded snow leopard last month, according to arrest warrant affidavits.",
-            "url": "https://www.cnn.com/2023/02/08/us/dallas-zoo-suspect-arrest-affidavits/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230207231552-01-dallas-zoo-020323-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-08T08:14:00Z",
-            "content": "The man who faces charges stemming from a string of suspicious activities at the Dallas Zoo allegedly admitted to stealing two tamarin monkeys and trying to steal the clouded snow leopard last month,\u2026 [+4119 chars]"
+            "author": "Faiz Siddiqui",
+            "title": "Twitter down: Users being told they are over daily tweet limit - The Washington Post",
+            "description": "Users across the site reported an inability to send tweets.",
+            "url": "https://www.washingtonpost.com/technology/2023/02/08/twitter-down-elon-musk/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P7LOR6FG6AI63MVD5WYF5YHDCM.jpg&w=1440",
+            "publishedAt": "2023-02-09T00:18:03Z",
+            "content": "Comment on this story\r\nSAN FRANCISCO Twitter faced one of its first widespread outages of Elon Musks tenure on Wednesday, leaving the site unusable for many and prompting an internal scramble to rest\u2026 [+2870 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Amy B Wang, Leigh Ann Caldwell",
-            "title": "Romney goes after Santos in tense exchange at the State of the Union - The Washington Post",
-            "description": "The Republican senator said he told the freshman House member that he did not belong in Congress and that \"if he had any shame at all, he wouldn\u2019t be there.\u201d",
-            "url": "https://www.washingtonpost.com/politics/2023/02/08/mitt-romney-george-santos-state-of-the-union/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2023/t_ba4cdddfac5f4cadb857e397dc57ab38_name_1___1920x1080___30p_00_00_10_05_Still014.jpg&w=1440",
-            "publishedAt": "2023-02-08T08:11:00Z",
-            "content": "Comment on this story\r\nSen. Mitt Romney (R-Utah) and Rep. George Santos (R-N.Y.) exchanged harsh words on the House floor Tuesday night before the State of the Union began, with the Republican senato\u2026 [+2179 chars]"
+            "author": "Mariana Alfaro, Timothy Bella",
+            "title": "Biden doubles down on points GOP heckled him for during State of Union - The Washington Post",
+            "description": "During his State of the Union speech, Biden said some Republicans wanted to target Social Security and Medicare. In Wisconsin Wednesday, he named names.",
+            "url": "https://www.washingtonpost.com/politics/2023/02/08/biden-wisconsin-speech-state-of-the-union-hecklers/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2023/t_9abc5a303271480a994e1c02fc3e2a81_name_MV4AD5YUO6IHAYIS2NTIBNCIR4_scaled.jpg&w=1440",
+            "publishedAt": "2023-02-09T00:09:49Z",
+            "content": "Comment on this story\r\nIn his State of the Union address, Biden said some but not all Republicans want to target programs such as Social Security and Medicare, drawing jeers and catcalls from certain\u2026 [+8361 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Clare Foran",
-            "title": "Sarah Huckabee Sanders draws sharp contrast with Democrats in GOP rebuttal - CNN",
-            "description": "Arkansas Gov. Sarah Huckabee Sanders gave a combative speech Tuesday evening in response to President Joe Biden's State of the Union address, drawing a sharp contrast with Biden as she delivered a series of blistering criticisms of the president.",
-            "url": "https://www.cnn.com/2023/02/07/politics/republican-response-sarah-huckabee-sanders-biden-sotu/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230207192637-sotu-gop-response.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-08T07:10:00Z",
-            "content": "Arkansas Gov. Sarah Huckabee Sanders gave a combative speech Tuesday evening in response to President Joe Bidens State of the Union address, drawing a sharp contrast with Biden as she delivered a ser\u2026 [+3763 chars]"
+            "author": "Lianne Kolirin",
+            "title": "Striking image of a snow leopard wins Wildlife Photographer of the Year People's Choice Award - CNN",
+            "description": "A spectacular image of a snow leopard gazing out across mountains in India has been voted the winner of this year's Wildlife Photographer of the Year People's Choice Award.",
+            "url": "https://www.cnn.com/travel/article/wildlife-photographer-year-peoples-choice-scli-intl-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230208093819-wildlife-photographer-of-the-year-peoples-choice-card.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-09T00:07:16Z",
+            "content": "A spectacular image of a snow leopard gazing out across mountains in India has been voted the winner of this years Wildlife Photographer of the Year Peoples Choice Award. \r\nA record 60,466 nature peo\u2026 [+2262 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "The Associated Press",
-            "title": "Turkey, Syria quake deaths pass 9,000; deadliest in 10 years - CNBC",
-            "description": "The death toll rose Wednesday to more than 9,400, making the quake the deadliest in more than a decade.",
-            "url": "https://www.cnbc.com/2023/02/08/crews-find-survivors-many-dead-after-turkey-syria-earthquake.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107190854-1675838738235-gettyimages-1246879657-AA_08022023_1055178.jpeg?v=1675839233&w=1920&h=1080",
-            "publishedAt": "2023-02-08T06:53:53Z",
-            "content": "Thinly stretched rescue teams worked through the night in Turkey and Syria, pulling more bodies from the rubble of thousands of buildings toppled by a catastrophic earthquake. The death toll rose Wed\u2026 [+4805 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Yeo Boon Ping",
-            "title": "CNBC Daily Open: Powell\u2019s speech was hawkish. Investors' mood was bullish - CNBC",
-            "description": "U.S. stocks rallied on Fed Chair Jerome Powell\u2019s speech, despite Powell sounding hawkish tones. The game of chicken between the Fed and markets continues.",
-            "url": "https://www.cnbc.com/2023/02/08/stock-market-powells-speech-was-hawkish-investors-mood-was-bullish.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107060534-1652390912126-jerry.jpg?v=1675837018&w=1920&h=1080",
-            "publishedAt": "2023-02-08T06:16:58Z",
-            "content": "This report is from today's CNBC Daily Open, our new, international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need to know, no matter where they are. Like wh\u2026 [+1842 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
             "author": null,
-            "title": "\"Email In Next 30 Minutes...\": Zoom CEO Announces 1,300 Job Cuts - NDTV",
-            "description": "Communications technology firm Zoom will lay off some 1,300 employees or 15 per cent of its workforce, chief executive Eric Yuan said in the company's official blog today.",
-            "url": "https://www.ndtv.com/world-news/email-in-next-30-minutes-in-your-inbox-zoom-ceo-eric-yuan-announces-1-300-job-cuts-3762554",
-            "urlToImage": "https://c.ndtvimg.com/2023-02/gbos47e4_zoom-meeting_625x300_08_February_23.jpg",
-            "publishedAt": "2023-02-08T05:50:00Z",
-            "content": "Zoom scaled up fast during the Covid pandemic as people worked from home\r\nNew Delhi: Communications technology firm Zoom will lay off some 1,300 employees or 15 per cent of its workforce, chief execu\u2026 [+2464 chars]"
+            "title": "2 children dead, 6 injured after bus crashes into day care - CBS News",
+            "description": "An eyewitness said immediately after the crash, the driver stepped out of the bus, ripped his clothes off and started screaming.",
+            "url": "https://www.cbsnews.com/news/daycare-bus-crash-montreal-2-children-dead-6-injured/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/08/5b69bf71-093f-4bac-a961-3c33e7b8f682/thumbnail/1200x630/cc4a24ea8208c4feb165b897064fb6ab/ap23039564921817.jpg",
+            "publishedAt": "2023-02-09T00:00:00Z",
+            "content": "A city bus crashed into a day care center north of Montreal on Wednesday, leaving two children dead and sending six to the hospital, authorities said. The bus driver was arrested and charged with hom\u2026 [+2705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Google's Bard AI bot mistake wipes $100bn off shares - BBC",
+            "description": "An advert to promote the new Bard software shows it answering a query incorrectly.",
+            "url": "https://www.bbc.com/news/business-64576225",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/56BF/production/_128570222_whatsubject.jpg",
+            "publishedAt": "2023-02-08T23:32:27Z",
+            "content": "Google is searching for ways to reassure people that it is still out in front in the race for the best artificial intelligence technology.\r\nAnd so far, the internet giant seems to be coming up with t\u2026 [+2079 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Disney to cut 7,000 jobs as CEO Bob Iger seeks \"transformation\" - CBS News",
+            "description": "The job cuts, about 3% of Disney's global workforce, come months after Iger returned to revitalize the media business.",
+            "url": "https://www.cbsnews.com/news/disney-7000-job-cuts-ceo-bob-iger/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/11/fb0fc808-9c3b-4967-a003-f18d23ff2cc7/thumbnail/1200x630/39dcafcd17818f47671917524acb4783/hypatia-h-5f32efd9946f7d8fe5982478af82337c-h-d21c1f59580e55677878ee3223300feb.jpg",
+            "publishedAt": "2023-02-08T22:59:00Z",
+            "content": "The Walt Disney Co. said Wednesday it will cut about 7,000 jobs as part of a \"significant transformation\" announced by CEO Bob Iger. \r\nThe job cuts amount to about 3% of the media and entertainment's\u2026 [+3314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Commercial Appeal"
+            },
+            "author": ", The Commercial Appeal",
+            "title": "Memphis Police officers were 'deceitful' in Tyre Nichols beating, reports - Commercial Appeal",
+            "description": "Justin Smith, one of five former officers indicted in Nichols' death, was the only officer to give a statement in his administrative hearing.",
+            "url": "https://www.commercialappeal.com/story/news/2023/02/08/memphis-police-officers-deceitful-in-tyre-nichols-beating-reports/69885787007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/05/NTFO/4f9e617c-a54e-4c88-bf36-acf9d80b4713-Resized_IMG_5676.JPEG?auto=webp&crop=597,336,x0,y191&format=pjpg&width=1200",
+            "publishedAt": "2023-02-08T22:11:13Z",
+            "content": "A former Memphis Police officer involved in the traffic stop preceding Tyre Nichols' beating told a Memphis Police Department hearing officer he believed he used departmental training and tactics dur\u2026 [+8034 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": null,
+            "title": "Dust from the moon could help slow climate change, study finds - The Hill",
+            "description": null,
+            "url": "https://thehill.com/homenews/space/3849861-dust-from-the-moon-could-help-slow-climate-change-study-finds/",
+            "urlToImage": null,
+            "publishedAt": "2023-02-08T22:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sophie Tanno, Mick Krever, Radina Gigova, Yulia Kesaieva, Lauren Kent",
+            "title": "Zelensky makes 'wings for freedom' plea in surprise UK visit to push case for fighter jets - CNN",
+            "description": "Ukrainian President Volodymyr Zelensky made a surprise visit to the UK on Wednesday, sweeping in to London on the first stage of an unannounced diplomatic tour of European capitals with a powerful message for British lawmakers.",
+            "url": "https://www.cnn.com/2023/02/08/europe/zelensky-visit-uk-intl-gbr/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230208152923-01-zelensky-hoyle-020823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-08T21:57:00Z",
+            "content": "Ukrainian President Volodymyr Zelensky made a surprise visit to the UK on Wednesday, sweeping in to London on the first stage of an unannounced diplomatic tour of European capitals with a powerful me\u2026 [+7657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FRANCE 24 English"
+            },
+            "author": "France 24",
+            "title": "Mars rover finds rippled rocks caused by waves: NASA - FRANCE 24 English",
+            "description": "NASA's Curiosity rover has found wave-rippled rocks -- evidence of an ancient lake -- in an area of the planet expected to be drier, the US space agency said Wednesday.",
+            "url": "https://www.france24.com/en/live-news/20230208-mars-rover-finds-rippled-rocks-caused-by-waves-nasa",
+            "urlToImage": "https://s.france24.com/media/display/91fb212e-a7fa-11ed-82be-005056a90284/w:1280/p:16x9/d65e1bc43822235b1fe04116d39b0d8d29953abe.jpg",
+            "publishedAt": "2023-02-08T21:50:16Z",
+            "content": "Washington (AFP) NASA's Curiosity rover has found wave-rippled rocks -- evidence of an ancient lake -- in an area of the planet expected to be drier, the US space agency said Wednesday. \"This is the \u2026 [+1903 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Bart Jansen, Ella Lee, Joey Garrison, David Jackson and Maureen Groppe, USA TODAY",
+            "title": "House Republicans grill Twitter execs on Hunter Biden laptop story, Nikki Haley to visit NH: recap - USA TODAY",
+            "description": "A day after President Joe Biden's State of the Union address, House Republicans are focusing on the Hunter Biden laptop saga in a congressional hearing.",
+            "url": "https://www.usatoday.com/story/news/politics/2023/02/08/gop-probe-biden-hunter-trump/11205133002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/05/USAT/9e30c21b-1e4f-42c0-b8a2-70c932c6a85a-AP_Biden2.jpg?auto=webp&crop=1023,575,x1,y35&format=pjpg&width=1200",
+            "publishedAt": "2023-02-08T21:11:15Z",
+            "content": "President Biden's\u00a0combativeState of the Union address\u00a0Tuesday night signaled\u00a0more than a new year:\u00a0It welcomed a different presidency.\u00a0\r\nAnd the GOP is ready to take it on.\u00a0\r\nThe House\u00a0Oversight Comm\u2026 [+19265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Todd Spangler",
+            "title": "Disney+ Drops 2.4 Million Subscribers in First Loss, Bob Iger Heralds \u2018Significant Transformation\u2019 Underway - Variety",
+            "description": "Disney+ lost a net 2.4 million subscribers in the last three months of 2022 \u2014 marking the streaming service\u2019s first decline since launching in late 2020 \u2014 while the Mouse House&#8\u2026",
+            "url": "https://variety.com/2023/biz/news/disney-q1-2023-earnings-bob-iger-disney-plus-loses-subscribers-1235517007/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/11/Bob-Iger.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-02-08T21:06:00Z",
+            "content": "Disney+ lost a net 2.4 million subscribers in the last three months of 2022 \u2014 marking the streaming service\u2019s first decline since launching in late 2020 \u2014 while the Mouse House\u2019s quarterly earnings t\u2026 [+4473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": null,
+            "title": "Microsoft Stock Upgraded On AI News Amid Fears Of AI Stock Bubble - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/news/technology/microsoft-stock-up-on-ai-news-amid-ai-stock-bubble-fears/",
+            "urlToImage": null,
+            "publishedAt": "2023-02-08T21:05:00Z",
+            "content": null
         },
         {
             "source": {
@@ -125,142 +177,90 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Microsoft announces launch of AI- powered search engine | World Business Watch | WION - WION",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOef4bztaoss",
-            "urlToImage": null,
-            "publishedAt": "2023-02-08T05:22:40Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "CBSBoston.com Staff",
-            "title": "Duxbury mother Lindsay Clancy 'planned these murders,' prosecutors allege - CBS Boston",
-            "description": "Prosecutors alleged Tuesday that Lindsay Clancy, a Duxbury mother accused of killing her three kids\u200b, planned the murders in advance.",
-            "url": "https://www.cbsnews.com/boston/news/duxbury-mother-lindsay-clancy-murder-charges-arraignment/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/07/84a5f28d-867a-465c-a116-69da77dad639/thumbnail/1200x630/11d4cbe7eb4c1ff72eb3c923d6d409cc/lindsay-clancy-arraignment.jpg",
-            "publishedAt": "2023-02-08T04:24:00Z",
-            "content": "PLYMOUTH \u2013 Prosecutors alleged Tuesday that Lindsay Clancy, a Duxbury mother accused of killing her three kids, planned the murders in advance and was of sound mind at the time of their deaths. Clanc\u2026 [+4207 chars]"
+            "title": "PODCAST: Murdaugh Day 12 Recap I Unsolved South Carolina - ABC News 4",
+            "description": "Join Anne Emerson, Charlie Condon and Drew Tripp to break it all down.Full Story https://abcnews4.com/news/local/podcast-murdaugh-day-12-recap-i-unsolved-sou...",
+            "url": "https://www.youtube.com/watch?v=7cPyWiYbtrg",
+            "urlToImage": "https://i.ytimg.com/vi/7cPyWiYbtrg/maxresdefault.jpg",
+            "publishedAt": "2023-02-08T21:00:11Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Ryan Gajewski",
-            "title": "\u2018You People\u2019 Actor Claims Jonah Hill and Lauren London\u2019s Pivotal Kiss Was Faked With CGI - Hollywood Reporter",
-            "description": "The comedy, which also stars Eddie Murphy, has been the subject of social media debate surrounding the believability of the main couple.",
-            "url": "https://www.hollywoodreporter.com/movies/movie-news/you-people-jonah-hill-lauren-london-kiss-cgi-1235320295/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/01/UJHP_20211201_31466_R.jpg?w=1024",
-            "publishedAt": "2023-02-08T04:01:52Z",
-            "content": "You People ends with a romantic moment between leads Jonah Hill and Lauren London, but one member of the Netflix film\u2019s team claims it was never actually filmed. \r\nDuring a conversation on the latest\u2026 [+2040 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Gabrielle Chung",
-            "title": "Kylie Jenner's Sweet Cuddle Time With Son Aire Will Make Your Heart Flutter - E! NEWS",
-            "description": "Kylie Jenner spent some sweet mother-son time with her baby boy Aire as they danced to Stephen Sanchez's \"Until I Found You.\" Take a look.",
-            "url": "https://www.eonline.com/news/1364228/kylie-jenners-sweet-cuddle-time-with-son-aire-will-make-your-heart-flutter",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023021/rs_1024x917-230121135603-1024.kylie-jenner-aire-IG3.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-02-08T03:33:00Z",
-            "content": "Kylie Jennerand\u00a0Aire Webster make quite the pair.\r\nOn Feb. 7, The Kardashians star enjoyed some mother-son time with\u00a0her 12-month-old, sharing a sweet video of the two swaying to \"Until I Found You\" \u2026 [+792 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Caitlin O'Kane",
-            "title": "Rep. Marjorie Taylor Greene carried a white balloon ahead of the State of the Union - CBS News",
-            "description": "Greene's stunt was meant to express concern about the suspected Chinese spy balloon that was spotted over the United States and shot down in the Atlantic Ocean.",
-            "url": "https://www.cbsnews.com/news/state-of-the-union-rep-marjorie-taylor-greene-carries-white-balloon-chinese-spy-balloon-shot-down/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/08/e56de6c6-0d79-4369-a4b3-e40d405be721/thumbnail/1200x630/7fd593cbceb00ac024d5833539902e04/greene-balloon.jpg",
-            "publishedAt": "2023-02-08T03:20:00Z",
-            "content": "Rep. Marjorie Taylor Greene carried a white balloon around Capitol Hill ahead of the State of the Union on Tuesday \u2014 a stunt meant to express concern about the suspected Chinese spy balloon that was \u2026 [+4344 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WCVB Boston"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Marty Walsh chosen as 'designated survivor' before Biden administration exit - WCVB Boston",
-            "description": "Before the State of the Union, SportsCenter 5 learned U.S. Labor Secretary Marty Walsh will become the new executive director of the NHL Players' Association.",
-            "url": "https://www.wcvb.com/article/marty-walsh-designated-survivor-2023-state-of-the-union/42795234",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-secretary-marty-walsh-1675791238.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-            "publishedAt": "2023-02-08T03:19:00Z",
-            "content": "BOSTON \u2014U.S. Secretary of Labor and former Boston Mayor Marty Walsh has been chosen as the \"designated survivor\" during President Joe Biden's State of the Union address, a White House official has co\u2026 [+3011 chars]"
+            "title": "NBA Today's reaction to LeBron James passing Kareem on the all-time scoring list - ESPN",
+            "description": "The NBA Today crew discuss the magnitude of LeBron James breaking Kareem Abdul-Jabbar\u2019s all-time scoring record that nearly stood for 40 years. Brian Windhor...",
+            "url": "https://www.youtube.com/watch?v=PjYjkJsYWyk",
+            "urlToImage": "https://i.ytimg.com/vi/PjYjkJsYWyk/maxresdefault.jpg",
+            "publishedAt": "2023-02-08T20:59:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Nate Davis and Safid Deen, USA TODAY",
+            "title": "Roger Goodell speaks at Super Bowl 57: On Damar Hamlin, Commanders, concussions and more - USA TODAY",
+            "description": "NFL commissioner Roger Goodell, speaking at Wednesday news conference before the Super Bowl, said the game of football \"has never been better.\"",
+            "url": "https://www.usatoday.com/story/sports/nfl/super-bowl/2023/02/08/roger-goodell-super-bowl-57-press-conference/11212850002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/08/USAT/12498a78-5a44-40e3-8666-cfe0e0ab2eca-USP_NFL__NFC_Divisional_Round-Dallas_Cowboys_at_Sa_1.jpg?auto=webp&crop=4799,2699,x0,y109&format=pjpg&width=1200",
+            "publishedAt": "2023-02-08T20:36:03Z",
+            "content": "PHOENIX \u2013 NFL commissioner Roger Goodell, speaking at his annual Wednesday news conference before the Super Bowl, said the game of football \"has never been better.\"\u00a0\r\n\"We\u2019re so excited about the comp\u2026 [+8898 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Betsy Klein, Arlette Saenz",
+            "title": "Biden brings his battle with Republicans on the road after contentious State of the Union - CNN",
+            "description": "President Joe Biden brought his State of the Union populist economic messaging to Wisconsin on Wednesday, firing back at Republicans and highlighting US manufacturing in a preview of an expected 2024 argument in the battleground state.",
+            "url": "https://www.cnn.com/2023/02/08/politics/joe-biden-gop-battle-2024-wisconsin/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230208150648-01-biden-wisconsin-0208.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-08T20:12:00Z",
+            "content": "President Joe Biden brought his State of the Union populist economic messaging to Wisconsin on Wednesday, firing back at Republicans and highlighting US manufacturing in a preview of an expected 2024\u2026 [+3548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": null,
+            "title": "NBA Trade Deadline: Breaking Down the Teams to Watch - Sports Illustrated",
+            "description": null,
+            "url": "https://www.si.com/nba/2023/02/08/nba-trade-deadline-teams-to-watch-lakers-warriors-raptors-grizzlies",
+            "urlToImage": null,
+            "publishedAt": "2023-02-08T19:34:40Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Guardian staff reporter",
-            "title": "Russia-Ukraine war at a glance: what we know on day 350 of the invasion - The Guardian",
-            "description": "Ukraine claims last 24 hours deadliest of war for Russian troops; Zelenskiy warns \u2018rumours\u2019 undermine unity as new ministers take office",
-            "url": "https://www.theguardian.com/world/2023/feb/08/russia-ukraine-war-at-a-glance-what-we-know-on-day-350-of-the-invasion",
-            "urlToImage": "https://i.guim.co.uk/img/media/db6c28f55a015d9d636c2039e50a1cd9be952497/0_74_4928_2957/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=684f86896fdbbd7cb41d42bc7022f7ba",
-            "publishedAt": "2023-02-08T02:56:50Z",
-            "content": "<li>Ukraines military claimed on Tuesday that the last 24 hours were the deadliest of the war for Russian troops. It increased its tally of Russian military dead by 1,030 overnight to 133,190, the bi\u2026 [+3440 chars]"
+            "author": "Pjotr Sauer",
+            "title": "MH17: 'strong indications' Putin signed off on supplying missile that hit plane - The Guardian",
+            "description": "Investigators say findings suggest decision to provide Buk system to Donetsk separatists \u2018taken at presidential level\u2019",
+            "url": "https://www.theguardian.com/world/2023/feb/08/mh17-plane-missile-putin",
+            "urlToImage": "https://i.guim.co.uk/img/media/f5fe7800b3682261b5b1d712b9abd98c6d91e0d7/0_283_5184_3111/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=821cce5f44a418e955395e091301ae95",
+            "publishedAt": "2023-02-08T19:27:00Z",
+            "content": "There are strong indications the Russian president, Vladimir Putin, personally signed off on a decision to supply the missile that downed flight MH17 in 2014, a team of international investigators ha\u2026 [+2306 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "XDA Developers"
+                "name": "Fox Business"
             },
-            "author": "Timi Cantisano",
-            "title": "Samsung Galaxy S23 Ultra may offer bypass charging; great for reducing heat and optimizing battery health - XDA Developers",
-            "description": "Bypass charging can be a great feature, reducing heat buildup and extending the life of the phone's internal battery.",
-            "url": "https://www.xda-developers.com/samsung-galaxy-s23-ultra-bypass-charging-mode/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/01/samsung-galaxy-s23-ultra.jpeg",
-            "publishedAt": "2023-02-08T02:37:00Z",
-            "content": "We're still a little over a week away from the retail release of the Samsung Galaxy S23 series, but that doesn't mean units aren't out in the wild and being tinkered with. While the rest of us wait f\u2026 [+1660 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "49ers Webzone"
-            },
-            "author": "David Bonilla",
-            "title": "Why the 49ers involved Kris Kocurek in Steve Wilks interview - 49ers Webzone",
-            "description": "Ensuring a smooth transition from DeMeco Ryans to his replacement was a priority for the San Francisco 49ers. It was so crucial that head coach Kyle Shanahan wanted to involve at least one valued memb",
-            "url": "https://www.49erswebzone.com/articles/167000-why-49ers-involved-kris-kocurek-steve-wilks-interview/",
-            "urlToImage": "https://static.49erswebzone.com/v/OFUIMt/content/media/article/2c4197063c51041b255ef775ae1b6978.jpg?social=true",
-            "publishedAt": "2023-02-08T01:57:23Z",
-            "content": "Ensuring a smooth transition from DeMeco Ryans to his replacement was a priority for the San Francisco 49ers. It was so crucial that head coach Kyle Shanahan wanted to involve at least one valued mem\u2026 [+2347 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Li Cohen",
-            "title": "Suspected Chinese spy balloon shot down over Atlantic was taller than the Statue of Liberty - CBS News",
-            "description": "A senior Biden administration official confirmed that the U.S. intelligence community believes the balloon was part of a surveillance program run by the People's Liberation Army.",
-            "url": "https://www.cbsnews.com/news/chinese-spy-balloon-shot-down-over-atlantic-taller-than-statue-of-liberty/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/07/fab4fc08-bcdf-4c20-bcc8-d912495f31f7/thumbnail/1200x630/77eb81871f7de668fac37311dee1071a/ap23036181434388.jpg",
-            "publishedAt": "2023-02-08T01:43:00Z",
-            "content": "The Department of Defense on Monday revealed the size of the suspected Chinese spy balloon that the U.S. shot down over the Atlantic Ocean this weekend \u2013 and it turns out it was bigger than the Statu\u2026 [+4158 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Tonight"
-            },
-            "author": "Paige Gawley",
-            "title": "'Sister Wives' Star Christine Brown Says She's Exclusively Dating a Man After Kody Split - Entertainment Tonight",
-            "description": "The reality star split from Kody Brown in 2021 after 25 years of marriage.",
-            "url": "https://www.etonline.com/sister-wives-star-christine-brown-says-shes-exclusively-dating-a-man-after-kody-split-198776",
-            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2022-12/Screen%20Shot%202022-12-16%20at%2010.49.34%20AM.png?h=e000b7e1&itok=lAfbIMRy",
-            "publishedAt": "2023-02-08T01:40:40Z",
-            "content": "Christine Brown is in an exclusive relationship! More than a year after her split\u00a0from Kody Brown, the 50-year-old\u00a0Sister Wives\u00a0star took to her Instagram Story to reveal her new romance.\r\n\"I just ha\u2026 [+2120 chars]"
+            "author": "Megan Henney",
+            "title": "Half of Americans say they are financially worse off, highest since 2009 - Fox Business",
+            "description": "High inflation and rising interest rates are making U.S. households more pessimistic about their finances, according to a new survey published by Gallup.",
+            "url": "https://www.foxbusiness.com/economy/half-americans-say-they-are-financially-worse-off-highest-2009",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/Kroger-2.jpg?ve=1&tl=1",
+            "publishedAt": "2023-02-08T19:24:59Z",
+            "content": "Half of Americans say they are financially worse off now than they were a year ago, the highest amount since 2009, according to a Gallup survey published Wednesday.\r\nAn even greater share of lower-in\u2026 [+2547 chars]"
         }
     ]
 }
