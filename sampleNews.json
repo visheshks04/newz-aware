@@ -1,32 +1,240 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 37,
     "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Musk donated around $1.95 billion in Tesla shares last year - Reuters",
+            "description": "Tesla chief executive Elon Musk donated shares worth $1.95 billion in the world's most valuable automaker to charity last year, a filing with the U.S. Securities and Exchange Commission (SEC) showed on Tuesday.",
+            "url": "https://www.reuters.com/markets/us/musk-donated-around-195-billion-tesla-shares-last-year-2023-02-15/",
+            "urlToImage": "https://www.reuters.com/resizer/6yn2W7lTYXAOihn-wUKZzj6AbSM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XIAOIEVZ3BNWVPUWPGBJDWF4ZI.jpg",
+            "publishedAt": "2023-02-15T10:30:00Z",
+            "content": "Feb 14 (Reuters) - Tesla chief executive Elon Musk donated shares worth $1.95 billion in the world's most valuable automaker to charity last year, a filing with the U.S. Securities and Exchange Commi\u2026 [+1139 chars]"
+        },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Kristen Rogers",
-            "title": "Too much added sugar could harm your health, study says - CNN",
-            "description": "Eating high amounts of free or added sugars could increase risk for cardiovascular disease, a new study has found.",
-            "url": "https://www.cnn.com/2023/02/14/health/added-free-sugars-cardiovascular-disease-risk-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230214131548-assorted-cookies-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-15T00:15:00Z",
-            "content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nEating a lot of free sugars als\u2026 [+6044 chars]"
+            "author": "Talia Kayali, Rhea Mogul",
+            "title": "Woman, 77, rescued from rubble more than a week after Turkey quake - CNN",
+            "description": "More than nine days after a powerful quake shook Turkey and Syria, rescuers were still pulling people from the rubble, defying predictions that the time for survival had passed.",
+            "url": "https://www.cnn.com/2023/02/15/europe/turkey-earthquake-survivor-rescued-rubble-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230215153402-02-earthquake-turkey-0215.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-15T09:39:00Z",
+            "content": "More than nine days after a powerful quake shook Turkey and Syria, rescuers were still pulling people from the rubble, defying predictions that the time for survival had passed.\r\nOn Wednesday, Turkey\u2026 [+3157 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Graig Graziosi",
+            "title": "Ohio train derailment - latest: Anger at Biden and Buttigieg for \u2018ignoring\u2019 East Palestine chemicals disaster - The Independent",
+            "description": "EPA has confirmed the presence of butyl acrylate in the Ohio River basin",
+            "url": "https://www.independent.co.uk/climate-change/news/2023-ohio-train-derailment-east-palestine-map-b2282559.html",
+            "urlToImage": "https://static.independent.co.uk/2023/02/10/21/APTOPIX_Train_Derailment_Ohio_87570.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-15T09:00:00Z",
+            "content": "Sign up to the Independent Climate email for the latest advice on saving the planet\r\nGet our free Climate email\r\nOhio Governor Mike DeWine is calling on Congress to take action in response to a train\u2026 [+10149 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Page Six"
+                "name": "CBS Sports"
             },
-            "author": "Bernie Zilio",
-            "title": "'Sister Wives' star Christine Brown: I found the 'love of my life' after Kody split - Page Six",
-            "description": "\u201cI never dreamed I could find a love like this,\u201d the former polygamist, 50, captioned a three-slide Instagram carousel containing photos of the new couple.",
-            "url": "https://pagesix.com/2023/02/14/sister-wives-star-christine-brown-reveals-love-of-her-life-after-kody-split/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/02/NYPICHPDPICT000006671218.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2023-02-14T23:50:00Z",
-            "content": "\u201cSister Wives\u201d star Christine Brown is madly in love following her split from Kody Brown, and she introduced her \u201csoulmate\u201d to the world on Valentine\u2019s Day.\r\n\u201cI finally found the love of my life, Dav\u2026 [+1622 chars]"
+            "author": "",
+            "title": "2023 NFL offseason: Sean Payton's Broncos among five teams poised to make a major leap next season - CBS Sports",
+            "description": "A look at which teams could be on the upswing next season",
+            "url": "https://www.cbssports.com/nfl/news/2023-nfl-offseason-sean-paytons-broncos-among-five-teams-poised-to-make-a-major-leap-next-season/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/11/94fcad25-e0b2-4a5b-90c1-cb3ef6d9532d/thumbnail/1200x675/4d4f98a27b28d8f66d6d731a00f6ed89/gettyimages-1463531636-1.jpg",
+            "publishedAt": "2023-02-15T07:47:00Z",
+            "content": "The 2022 NFL season is in the books after the Chiefs won their second Lombardi Trophy in four years Sunday night. Now, it's time to look ahead to the 2023 offseason. We don't yet know which big names\u2026 [+3944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Barclays posts 19% slide in annual net profit after costly U.S. trading blunder; Shares down 8% - CNBC",
+            "description": "Barclays on Wednesday reported a full-year net profit of \u00a35 billion ($6.05 billion) for 2022, beating consensus expectations of \u00a34.95 billion.",
+            "url": "https://www.cnbc.com/2023/02/15/barclays-posts-19percent-slide-in-annual-net-profit-after-costly-us-trading-blunder.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103420162-GettyImages-464602696.jpg?v=1676445703&w=1920&h=1080",
+            "publishedAt": "2023-02-15T07:21:43Z",
+            "content": "LONDON Barclays on Wednesday reported a full-year net profit of \u00a35.023 billion ($6.07 billion) for 2022, beating consensus expectations of \u00a34.95 billion but suffering a 19% fall from the previous yea\u2026 [+2605 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cyclone Gabrielle moves away from New Zealand, recovery efforts begin - Reuters",
+            "description": "Cyclone Gabrielle weakened and moved away from New Zealand on Wednesday as the country started to assess the damage caused by significant flooding, landslides and high winds that left four people dead and displaced thousands from their homes.",
+            "url": "https://www.reuters.com/world/asia-pacific/cyclone-gabrielle-moves-away-new-zealand-leaves-two-dead-huge-clean-up-2023-02-14/",
+            "urlToImage": "https://www.reuters.com/resizer/JMvaQDVO0tWz-PcgZOMKq8QhGH0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DP46JEPGMVMIZL3VJ53UJUSULU.jpg",
+            "publishedAt": "2023-02-15T07:18:00Z",
+            "content": "WELLINGTON, Feb 15 (Reuters) - Cyclone Gabrielle weakened and moved away from New Zealand on Wednesday as the country started to assess the damage caused by significant flooding, landslides and high \u2026 [+3631 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh",
+            "title": "Motive behind Michigan State University mass shooting remains unclear as police share new details about the gunman - CNN",
+            "description": "As police share new details about the gunman in the Michigan State University mass shooting that left three people dead and five others wounded, authorities say many questions remain, including what motivated the violence.",
+            "url": "https://www.cnn.com/2023/02/15/us/michigan-state-university-mass-shooting-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230214185913-alexandria-verner-vigil-0214.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-15T07:15:00Z",
+            "content": "As police share new details about the gunman in the Michigan State University mass shooting that left three people dead and five others wounded, authorities say many questions remain, including what \u2026 [+8157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Moscow Times"
+            },
+            "author": "AFP",
+            "title": "Russia Denies Plotting Coup in Moldova - The Moscow Times",
+            "description": "Russia on Tuesday slapped down as \"completely unfounded\" accusations from Moldova that Moscow was plotting to violently overthrow the country's pro-European leadership with the help of saboteurs.",
+            "url": "https://www.themoscowtimes.com/2023/02/14/russia-denies-plotting-coup-in-moldova-a80221",
+            "urlToImage": "https://static.themoscowtimes.com/image/og/b2/80221__b2ce9d494ce6a8c3720004fb8dc8c857.jpg",
+            "publishedAt": "2023-02-15T06:28:25Z",
+            "content": "Russia on Tuesday slapped down as \"completely unfounded\" accusations from Moldova that Moscow was plotting to violently overthrow the country's pro-European leadership with the help of saboteurs.\r\n\"S\u2026 [+2029 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yeo Boon Ping",
+            "title": "CNBC Daily Open: U.S. stocks shrug off hot inflation numbers - CNBC",
+            "description": "A hotter-than-expected CPI reading for January caused U.S. Treasury yields to increase. But stocks were remarkably resilient.",
+            "url": "https://www.cnbc.com/2023/02/15/stock-markets-us-stocks-shrug-off-hot-inflation-numbers.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107194764-1676440434473-gettyimages-1405147083-mlcf0569x_062522.jpeg?v=1676440634&w=1920&h=1080",
+            "publishedAt": "2023-02-15T05:57:14Z",
+            "content": "This report is from today's CNBC Daily Open, our new, international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need to know, no matter where they are. Like wh\u2026 [+1797 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Elizabeth Pritchett",
+            "title": "Arizona nitric acid spill caused by deadly rollover leads to 'extensive closure' of freeway, commutes affected - Fox News",
+            "description": "One person was killed after a commercial vehicle rolled over on an Arizona interstate, causing a hazmat spill and an \"extensive closure\" in both directions in the Tucson area.",
+            "url": "https://www.foxnews.com/us/rollover-arizona-causes-nitric-acid-spill-leaving-1-dead-extensive-closure-affecting-morning-commutes",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/IMG_2609.jpg",
+            "publishedAt": "2023-02-15T05:54:00Z",
+            "content": "A portion of an Arizona freeway will remain closed in both directions into Wednesday morning after a deadly rollover resulted in a hazmat spill Tuesday afternoon, according to the Arizona Department \u2026 [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Indian tax officials raid BBC offices weeks after UK broadcaster airs Modi documentary - South China Morning Post",
+            "description": "Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtubeIndian tax authorities raided the BBC\u2019s New Delhi and Mumbai offices on Februa...",
+            "url": "https://www.youtube.com/watch?v=ZyssImxjM18",
+            "urlToImage": "https://i.ytimg.com/vi/ZyssImxjM18/maxresdefault.jpg",
+            "publishedAt": "2023-02-15T04:20:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Hogwarts Legacy: Which House Should You Choose? - IGN",
+            "description": "When you first start\u00a0Hogwarts Legacy, the sorting hat will sort you into one of four different houses \u2014Gryffindor, Slytherin, Ravenclaw, and Hufflepuff. Bein...",
+            "url": "https://www.youtube.com/watch?v=I4P0gmD7Sb0",
+            "urlToImage": "https://i.ytimg.com/vi/I4P0gmD7Sb0/maxresdefault.jpg",
+            "publishedAt": "2023-02-15T04:00:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Angie Orellana Hernandez",
+            "title": "Marc Anthony and New Wife Nadia Ferreira Are Expecting Their First Baby Together - E! NEWS",
+            "description": "Marc Anthony and wife Nadia Ferreira announced they were expecting their first child in a Feb. 14 Instagram post, calling it the \"Best Valentine's Gift Ever!!!\"",
+            "url": "https://www.eonline.com/news/1365031/marc-anthony-and-new-wife-nadia-ferreira-are-expecting-their-first-baby-together",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20221017/rs_1200x1200-221117164324-1200-GettyImages-1244862025.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-02-15T03:46:00Z",
+            "content": "Marc Anthony's Valentine's Day just got extra special.\r\nOn Feb. 14, the salsa artist and his wife, Nadia Ferreira, shared that they are expecting their first child together.\u00a0Posting a picture of Marc\u2026 [+749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "INSIDER"
+            },
+            "author": "Kim Renfro",
+            "title": "Rihanna rehearsal footage for Super Bowl is going viral on TikTok - Insider",
+            "description": "TikTokers immediately recognized Parris Goebel's choreography with the Royal Family Dance Crew: \"This is how Rihanna was supposed to perform!\"",
+            "url": "https://www.insider.com/rihanna-rehearsal-footage-super-bowl-backup-dancers-on-tiktok-2023-2",
+            "urlToImage": "https://i.insider.com/63ec2729eeb52e0018868e4b?width=1200&format=jpeg",
+            "publishedAt": "2023-02-15T03:34:34Z",
+            "content": "Choreographer and viral dance star Parris Goebel is once again racking up views on social media with the rehearsal footage for Rihanna's Super Bowl halftime show.\r\nNew Zealand dancer Goebel broke int\u2026 [+1759 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Charisma Madarang",
+            "title": "Lady Gaga, Joaquin Phoenix Unveil Dramatic First Look at \u2018Joker\u2019 Sequel - Rolling Stone",
+            "description": "The actress and singer will star opposite Joaquin Phoenix in Joker: Folie \u00e0 Deux",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/lady-gaga-joaquin-phoenix-first-look-joker-sequel-1234680169/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/02/Lady-Gaga-Joker-Preview.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-02-15T03:16:27Z",
+            "content": "Lady Gaga andJoaquin Phoenix share the screen for the first look at Joker: Folie \u00e0 deux, with filmmaker Todd Phillips. An image of the two locking eyes was shared on social media Tuesday for Valentin\u2026 [+869 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "DOJ moves to force testimony from Trump's lawyer through 'crime-fraud exception' - MSNBC",
+            "description": "Bradley Moss, a national security attorney, talks with Alex Wagner about breaking news that the Justice Department is asking a judge to override Donald Trump...",
+            "url": "https://www.youtube.com/watch?v=-pM35yRiw50",
+            "urlToImage": "https://i.ytimg.com/vi/-pM35yRiw50/maxresdefault.jpg",
+            "publishedAt": "2023-02-15T03:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Scott Thompson",
+            "title": "Patrick Mahomes jumps into Chiefs-Eagles Twitter battle after Super Bowl LVII - Fox News",
+            "description": "Patrick Mahomes decided to inject himself into the Kansas City Chiefs-Philadelphia Eagles Twitter battle on Tuesday night, which was started by JuJu Smith-Schuster.",
+            "url": "https://www.foxnews.com/sports/patrick-mahomes-jumps-chiefs-eagles-twitter-battle-super-bowl-lvii",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/5f95feaa-Patrick-Mahomes.jpg",
+            "publishedAt": "2023-02-15T02:06:00Z",
+            "content": "What started as a Valentines Day troll by JuJu Smith-Schuster to James Bradberry has turned into a Twitter beef where Kansas City Chiefs quarterback Patrick Mahomes got involved.\u00a0\r\nMahomes was the la\u2026 [+2189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Bob Kravitz",
+            "title": "Kravitz: 9 reasons to like Colts\u2019 decision to hire Shane Steichen \u2014 and not Jeff Saturday - The Athletic",
+            "description": "Steichen didn't \"win the press conference.\" But you know what, who cares? There's so much to like about the new Colts coach.",
+            "url": "https://theathletic.com/4199726/2023/02/14/colts-shane-steichen-nfl-offseason/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/02/14204703/AP23045692864221-scaled-e1676425662365-1024x683.jpg",
+            "publishedAt": "2023-02-15T02:03:23Z",
+            "content": "Here are nine things I like about new Colts head coach Shane Steichen:\r\n1. He didnt win the press conference. \u00a0\r\nGoing to be dead honest here: I wasnt blown away, not even a little bit. It wasnt a ho\u2026 [+8841 chars]"
         },
         {
             "source": {
@@ -38,229 +246,21 @@
             "description": "The errant path of the large Chinese spy balloon across Alaska and the continental United States may have been caused by unusual weather conditions that pulled it off course.",
             "url": "https://www.washingtonpost.com/national-security/2023/02/14/china-spy-balloon-path-tracking-weather/",
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UPE3VKKQWAOE55KHCVK4EXONBM.JPG&w=1440",
-            "publishedAt": "2023-02-14T23:39:23Z",
-            "content": "Comment on this story\r\nBy the time a Chinese spy balloon crossed into American airspace late last month, U.S. military and intelligence agencies had been tracking it for nearly a week, watching as it\u2026 [+8665 chars]"
+            "publishedAt": "2023-02-15T01:34:00Z",
+            "content": "Comment on this story\r\nBy the time a Chinese spy balloon crossed into American airspace late last month, U.S. military and intelligence agencies had been tracking it for nearly a week, watching as it\u2026 [+8691 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Brie Stimson",
-            "title": "Why Rihanna did not get paid for her Super Bowl performance - Fox Business",
-            "description": "Rihanna, like past performers, wasn't paid for her Super Bowl halftime show performance on Sunday but the exposure is likely to make her music sales skyrocket.",
-            "url": "https://www.foxbusiness.com/entertainment/why-rihanna-not-paid-super-bowl-performance",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/02/0/0/rihanna.jpg?ve=1&tl=1",
-            "publishedAt": "2023-02-14T23:32:03Z",
-            "content": "Sunday\u2019s Super Bowl brought in around 113 million viewers who also took in Rihanna\u2019s high-flying halftime show performance \u2014 but the \"Umbrella\" star wasn\u2019t paid for her appearance.\u00a0\r\n\"We do not pay t\u2026 [+2583 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "name": "ESPN"
             },
             "author": null,
-            "title": "Berkshire dumps shares in TSMC, banks; increases Apple stake - Reuters",
-            "description": "Warren Buffett's Berkshire Hathaway Inc <a href=\"https://www.reuters.com/companies/BRKa.N\" target=\"_blank\">(BRKa.N)</a> slashed its stake in Taiwanese contract chip-maker TSMC <a href=\"https://www.reuters.com/companies/2330.TW\" target=\"_blank\">(2330.TW)</a> a\u2026",
-            "url": "https://www.reuters.com/business/buffetts-berkshire-reduces-stake-activision-blizzard-2023-02-14/",
-            "urlToImage": "https://www.reuters.com/resizer/S9KAkrsDaPizbHWgjUApg2AKdUg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JYPISFD7EZOFBHNLZZJR7JVKCQ.jpg",
-            "publishedAt": "2023-02-14T23:07:00Z",
-            "content": "NEW YORK/BANGALORE, Feb 14 (Reuters) - Warren Buffett's Berkshire Hathaway Inc (BRKa.N) slashed its stake in Taiwanese contract chip-maker TSMC (2330.TW) as well as in some banks in the fourth quarte\u2026 [+2529 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "U.S., Canada, European powers oppose Israeli settlement authorization - Reuters",
-            "description": "Foreign ministers of four European countries and Canada joined Washington on Tuesday in opposing a decision by Israeli Prime Minister Benjamin Netanyahu's government to authorize nine Jewish settler outposts in the occupied West Bank.",
-            "url": "https://www.reuters.com/world/middle-east/israels-ben-gvir-says-wants-more-settlements-after-us-european-concern-2023-02-14/",
-            "urlToImage": "https://www.reuters.com/resizer/BD6PPW4vd8Cnnf85IeT-EhZjWTc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6JMBNFVKORK65PC4UNM64GXQJY.jpg",
-            "publishedAt": "2023-02-14T22:50:00Z",
-            "content": "JERUSALEM, Feb 14 (Reuters) - Foreign ministers of four European countries and Canada joined Washington on Tuesday in opposing a decision by Israeli Prime Minister Benjamin Netanyahu's government to \u2026 [+2842 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Jacob Knutson",
-            "title": "What we know about the Ohio train derailment - Axios",
-            "description": "The 150-car Norfolk Southern freight train was pulling at least five tanker cars containing vinyl chloride, a colorless but hazardous gas.",
-            "url": "https://www.axios.com/2023/02/13/what-we-know-about-ohio-train-derailment",
-            "urlToImage": "https://images.axios.com/CsOKuDRM8yE2_AAPxCK3TNLJVR0=/0x698:7977x5185/1366x768/2023/02/13/1676323388772.jpg",
-            "publishedAt": "2023-02-14T22:45:27Z",
-            "content": "Hundreds of people evacuated an Ohio town after a freight train carrying hazardous materials derailed on Feb. 3 and the company was forced to vent and burn carcinogenic chemicals from crashed train c\u2026 [+6855 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": "Eric Edholm",
-            "title": "Unhappy Valentine's Day: Chiefs WR JuJu Smith-Schuster draws ire of Eagles WR A.J. Brown after James Bradberry tweet - NFL.com",
-            "description": "On Tuesday, Chiefs WR JuJu Smith-Schuster decided to have a little fun at Eagles CB James Bradberry\u2019s expense regarding the Super Bowl LVII holding penalty, sending out this Valentine\u2019s Day \u201ccard\u201d on Twitter. Philadelphia WR A.J. Brown and some other Eagles r\u2026",
-            "url": "https://www.nfl.com/news/unhappy-valentine-s-day-chiefs-wr-juju-smith-schuster-draws-ire-of-eagles-wr-a-j",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/e38gzt4v8m77snaruwj7",
-            "publishedAt": "2023-02-14T22:33:00Z",
-            "content": "Even Valentine's Day can't ease the tensions still simmering from Super Bowl LVII.\r\nKansas City Chiefs wide receiver JuJu Smith-Schuster was at the center of one of the game's pivotal plays Sunday ni\u2026 [+474 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Hakyung Kim",
-            "title": "Stocks making the big moves after hours: Airbnb, TripAdvisor, Devon Energy and more - CNBC",
-            "description": "These are the stocks posting the largest moves after the bell.",
-            "url": "https://www.cnbc.com/2023/02/14/stocks-moving-big-after-hours-abnb-trip-dvn.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104832855-GettyImages-185590064-tripadvisor.jpg?v=1676413139&w=1920&h=1080",
-            "publishedAt": "2023-02-14T22:18:59Z",
-            "content": "Check out the companies making headlines in extended trading.\r\nAirbnb Shares of Airbnb jumped 10% after the company released fourth-quarter earnings that topped analysts' expectations. The company re\u2026 [+1295 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Dallas Morning News"
-            },
-            "author": "Alexandra Skores",
-            "title": "Feds charge Dallas tech company\u2019s ex-CEO in $67 million fraud - The Dallas Morning News",
-            "description": "Kirchner, 35, was arrested at his home in Westlake on Tuesday morning, according to the U.S. attorney\u2019s office for the Northern District of Texas.",
-            "url": "https://www.dallasnews.com/business/local-companies/2023/02/14/feds-charge-dallas-tech-companys-ex-ceo-in-67-million-fraud/",
-            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Zr27K-d5y-TQhOYIWXXAIapsWJ0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/U7FHHX7FDFCJNHX62L67B354T4.jpg",
-            "publishedAt": "2023-02-14T22:00:33Z",
-            "content": "Christopher Kirchner, co-founder and former CEO of software firm Slync Inc., has been accused of fraud by multiple federal agencies for selling $67 million in securities to investors and then using n\u2026 [+3931 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Guardian staff reporter",
-            "title": "Quarterback needy teams on alert as Las Vegas Raiders release Derek Carr - The Guardian",
-            "description": "Quarterback Derek Carr was released by the Las Vegas Raiders on Tuesday as the club evaluates its future at the position",
-            "url": "https://www.theguardian.com/sport/2023/feb/14/quarterback-needy-teams-on-alert-as-las-vegas-raiders-release-derek-carr",
-            "urlToImage": "https://i.guim.co.uk/img/media/c7e335b370e1b195c9c55e40b9ded24cf1eada8b/0_267_8001_4801/master/8001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70ae56d1a5216cce8db1b542fe5c0b17",
-            "publishedAt": "2023-02-14T22:00:00Z",
-            "content": "Quarterback Derek Carr was released by the Las Vegas Raiders on Tuesday as the club evaluates its future at the position.\r\nThe move was expected after Carr was benched with two games remaining this s\u2026 [+3732 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Mike Wall",
-            "title": "Big asteroid to zoom by Earth on Wednesday - Space.com",
-            "description": "It's not a particularly close shave \u2014 just a reminder that we share space with a lot of fast-moving rocks.",
-            "url": "https://www.space.com/asteroid-2005-yy128-earth-flyby",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/W2TwuXoEV42sWfURaf2CW9-1200-80.jpg",
-            "publishedAt": "2023-02-14T21:20:53Z",
-            "content": "A sizable space rock will make its closest approach to Earth in four centuries on Wednesday evening (Feb. 15), but there's nothing to fear.\r\nThe near-Earth asteroid 2005\u00a0YY128 will zoom within 2.8 mi\u2026 [+3447 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": null,
-            "title": "Republicans face continued claims of \u2018homophobic and sexist fear-mongering\u2019 over blocked FCC nominee - The Hill",
-            "description": null,
-            "url": "https://thehill.com/policy/technology/3858021-republicans-face-continued-claims-of-homophobic-and-sexist-fear-mongering-over-blocked-fcc-nominee/",
-            "urlToImage": null,
-            "publishedAt": "2023-02-14T21:04:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Detroit News"
-            },
-            "author": ", The Detroit News",
-            "title": "MSU shooter Anthony McRae pleaded guilty to gun charge in 2019 - Detroit News",
-            "description": "Neighbors said Anthony McRae would fire a gun out the back door of the Lansing home he shared with his father, possibly for target practice.",
-            "url": "https://www.detroitnews.com/story/news/local/michigan/2023/02/14/michigan-state-university-msu-shooter-anthony-mcrae-gun-conviction-with-weapons-history/69901983007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/14/PDTN/88757bca-3e60-4fcc-9249-b68ee1f54eb0-McRae_photo.jpg?auto=webp&crop=466,263,x0,y43&format=pjpg&width=1200",
-            "publishedAt": "2023-02-14T21:02:12Z",
-            "content": "Lansing State officials Tuesday identified 43-year-old Anthony McRae, who had a history of mental health issues and was charged with multiple gun-related crimes in 2019, as the believed gunman who ki\u2026 [+8207 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Seattle Times"
-            },
-            "author": null,
-            "title": "COVID\u2019s omicron variant, thought to be milder, can increase risk for diabetes - The Seattle Times",
-            "description": null,
-            "url": "https://www.seattletimes.com/nation-world/covids-omicron-variant-thought-to-be-milder-can-increase-risk-for-diabetes/",
-            "urlToImage": null,
-            "publishedAt": "2023-02-14T20:26:41Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Rebecca Rubin",
-            "title": "Box Office Preview: \u2018Ant-Man and the Wasp: Quantumania\u2019 Aims for $95 Million Domestic Debut, $255 Million Globally - Variety",
-            "description": "\u201cAnt-Man and the Wasp: Quantumania,\u201d which sees the return of Paul Rudd\u2019s subatomic superhero, is expected to reinvigorate the sluggish winter box office when the latest Marvel ad\u2026",
-            "url": "https://variety.com/2023/film/box-office/box-office-preview-ant-man-and-the-wasp-quantumania-opening-weekend-1235522559/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/02/ant-man.jpg?w=1000&h=562&crop=1",
-            "publishedAt": "2023-02-14T20:21:00Z",
-            "content": "\u201cAnt-Man and the Wasp: Quantumania,\u201d which sees the return of Paul Rudd\u2019s subatomic superhero, is expected to reinvigorate the sluggish winter box office when the latest Marvel adventure opens in the\u2026 [+3617 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Philadelphia Inquirer"
-            },
-            "author": "Mike Sielski",
-            "title": "Jonathan Gannon and James Bradberry were a study in character and contrast after the Eagles' Super Bowl loss - The Philadelphia Inquirer",
-            "description": "After his controversial holding penalty, Bradberry took the heat. After his defense failed to slow down the Chiefs in the second half, Gannon couldn't wait to move on to his next job.",
-            "url": "https://www.inquirer.com/eagles/philadelphia-eagles-jonathan-gannon-james-bradberry-super-bowl-lvii-20230214.html",
-            "urlToImage": "https://www.inquirer.com/resizer/27EuYpIbmxX2z4wrJJSaqamux1U=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/NVXTX35Z5ZC6HLD33KEKDWVJ2I.jpg",
-            "publishedAt": "2023-02-14T20:12:43Z",
-            "content": "GLENDALE, Ariz. James Bradberry threw his shoulders back late Sunday night, fixed the clasp to close his sleek black suit jacket, and, with an almost-imperceptible nod of his head, signaled that the \u2026 [+5304 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Danielle Wallace",
-            "title": "Asteroid caught on video lighting up western Europe's skies before making impact in France - Fox News",
-            "description": "A three-feet meteoroid, also categorized as a small asteroid, was seen lighting up the skies of western Europe before making impact in France Monday by the English Channel.",
-            "url": "https://www.foxnews.com/science/asteroid-caught-video-lighting-up-western-europes-skies-before-making-impact-france",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/asteroid-1.jpg",
-            "publishedAt": "2023-02-14T19:52:00Z",
-            "content": "A small asteroid entered the Earths atmosphere over western Europe, creating a spectacular sight of a fireball careening across the skies until it made impact in northern France by the English Channe\u2026 [+1961 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Joe Marino, Desheania Andrews, Jorge Fitz-Gibbon",
-            "title": "Single dad Yijie Ye ID'd as man killed in NYC U-Haul rampage - New York Post ",
-            "description": "Yijie Ye, a 44-year-old Brooklyn single father of three, was identified as the first fatality from Monday\u2019s violent U-Haul rampage that left seven others injured.",
-            "url": "https://nypost.com/2023/02/14/man-killed-in-brooklyn-u-haul-rampage-idd-as-hard-working-single-dad/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/newspress-collage-25757365-1676404625264.jpg?quality=75&strip=all&1676386745&w=1024",
-            "publishedAt": "2023-02-14T19:31:00Z",
-            "content": "The 44-year-old Brooklyn man killed by the deranged U-Haul driver who tore through Brooklyn in a maniacal rampage was identified Tuesday as a hardworking and doting single dad.\r\nYijie Ye,the only fat\u2026 [+3582 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Cameroon detects two suspected cases of Marburg virus near Eq. Guinea - Reuters",
-            "description": "Cameroonian authorities detected two suspected cases of Marburg disease on Monday in Olamze, a commune on the border with Equatorial Guinea, the public health delegate for the region, Robert Mathurin Bidjang, said on Tuesday.",
-            "url": "https://www.reuters.com/world/africa/who-increasing-health-surveillance-after-equatorial-guinea-finds-marburg-virus-2023-02-14/",
-            "urlToImage": "https://www.reuters.com/resizer/2OR6NZnrmRktqVFhNzwPOVD4qTQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R4JBODHQLBLHZFGROETUJY2OUM.jpg",
-            "publishedAt": "2023-02-14T18:53:00Z",
-            "content": "YAOUNDE/GENEVA, Feb 14 (Reuters) - Cameroonian authorities detected two suspected cases of Marburg disease on Monday in Olamze, a commune on the border with Equatorial Guinea, the public health deleg\u2026 [+2262 chars]"
+            "title": "New Mexico State fires men's basketball coach Greg Heiar - ESPN",
+            "description": "New Mexico State fired men's basketball coach Greg Heiar on Tuesday, days after the school canceled the remainder of the Aggies' season upon learning of hazing allegations involving players on the team.",
+            "url": "https://www.espn.com/mens-college-basketball/story/_/id/35660932/new-mexico-state-fires-men-basketball-coach-greg-heiar",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1210%2Fr1104847_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-02-15T00:34:03Z",
+            "content": "New Mexico State fired first-year men's basketball coach Greg Heiar on Tuesday, days after the school canceled the remainder of the Aggies' season upon learning of hazing allegations involving player\u2026 [+3675 chars]"
         }
     ]
 }
