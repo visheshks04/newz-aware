@@ -1,58 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 34,
     "articles": [
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Gerry Shih, Karishma Mehrotra, Anant Gupta",
-            "title": "India raids BBC offices on tax charges after critical Modi documentary - The Washington Post",
-            "description": "The raids took place in New Delhi less than a month after Narendra Modi's government censored a BBC documentary deemed critical of the prime minister.",
-            "url": "https://www.washingtonpost.com/world/2023/02/14/india-raid-bbc-offices-tax/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFXIUBS27LCLF3NMMTXM4UOFNY.JPG&w=1440",
-            "publishedAt": "2023-02-14T10:34:33Z",
-            "content": "Comment on this story\r\nNEW DELHI Indian tax authorities raided the BBCs offices and seized its journalists phones in a stunning and apparently retaliatory move Tuesday against the British broadcaster\u2026 [+4200 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Drug Shown to Alleviate Autism-Associated Behavior - Neuroscience News",
-            "description": "A newly developed drug that blocks sodium channels in the cell membrane that can reverse MYT1L failure alleviates social behavior deficits in mouse models of ASD.",
-            "url": "https://neurosciencenews.com/asd-social-neuropharmacology-22504/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/02/social-autism-neuropharmacology-neurosicence-public.jpg",
-            "publishedAt": "2023-02-14T09:33:12Z",
-            "content": "Summary: A newly developed drug that blocks sodium channels in the cell membrane that can reverse MYT1L failure alleviates social behavior deficits in mouse models of ASD.\r\nSource: German Cancer Rese\u2026 [+5748 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Equatorial Guinea confirms country's first Marburg virus disease outbreak -WHO - Reuters",
-            "description": "Equatorial Guinea has confirmed its first outbreak of the Marburg virus, a highly infectious and deadly disease similar to Ebola, following the deaths of at least nine people, the World Health Organization (WHO) said on Monday.",
-            "url": "https://www.reuters.com/world/africa/who-equatorial-guinea-confirms-first-ever-marburg-virus-disease-outbreak-2023-02-13/",
-            "urlToImage": "https://www.reuters.com/resizer/Qli6OvNMAazMmZwcWi1UeuTocxg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G472DRY7PJKZBG3IPL55TPGGQM.jpg",
-            "publishedAt": "2023-02-14T08:42:00Z",
-            "content": "JOHANNESBURG, Feb 13 (Reuters) - Equatorial Guinea has confirmed its first outbreak of the Marburg virus, a highly infectious and deadly disease similar to Ebola, following the deaths of at least nin\u2026 [+1603 chars]"
-        },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Heather Chen",
-            "title": "Voice of Democracy, one of Cambodia's last independent media outlets, has been shut down - CNN",
-            "description": "One of Cambodia's last remaining independent media outlets has been shut down by Prime Minister Hun Sen ahead of national elections in July, in a move condemned by rights groups as a blow to press freedom.",
-            "url": "https://www.cnn.com/2023/02/14/media/cambodia-press-freedom-death-voice-of-democracy-closure-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230214102023-file-pm-hun-sen.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-14T08:23:00Z",
-            "content": "One of Cambodias last remaining independent media outlets has been shut down by Prime Minister Hun Sen ahead of national elections in July, in a move condemned by rights groups as a blow to press fre\u2026 [+4009 chars]"
+            "author": "Kristen Rogers",
+            "title": "Too much added sugar could harm your health, study says - CNN",
+            "description": "Eating high amounts of free or added sugars could increase risk for cardiovascular disease, a new study has found.",
+            "url": "https://www.cnn.com/2023/02/14/health/added-free-sugars-cardiovascular-disease-risk-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230214131548-assorted-cookies-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-15T00:15:00Z",
+            "content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\nEating a lot of free sugars als\u2026 [+6044 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Bernie Zilio",
+            "title": "'Sister Wives' star Christine Brown: I found the 'love of my life' after Kody split - Page Six",
+            "description": "\u201cI never dreamed I could find a love like this,\u201d the former polygamist, 50, captioned a three-slide Instagram carousel containing photos of the new couple.",
+            "url": "https://pagesix.com/2023/02/14/sister-wives-star-christine-brown-reveals-love-of-her-life-after-kody-split/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/02/NYPICHPDPICT000006671218.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-02-14T23:50:00Z",
+            "content": "\u201cSister Wives\u201d star Christine Brown is madly in love following her split from Kody Brown, and she introduced her \u201csoulmate\u201d to the world on Valentine\u2019s Day.\r\n\u201cI finally found the love of my life, Dav\u2026 [+1622 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ellen Nakashima, Shane Harris, Jason Samenow",
+            "title": "U.S. tracked China spy balloon from launch on Hainan Island along unusual path - The Washington Post",
+            "description": "The errant path of the large Chinese spy balloon across Alaska and the continental United States may have been caused by unusual weather conditions that pulled it off course.",
+            "url": "https://www.washingtonpost.com/national-security/2023/02/14/china-spy-balloon-path-tracking-weather/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UPE3VKKQWAOE55KHCVK4EXONBM.JPG&w=1440",
+            "publishedAt": "2023-02-14T23:39:23Z",
+            "content": "Comment on this story\r\nBy the time a Chinese spy balloon crossed into American airspace late last month, U.S. military and intelligence agencies had been tracking it for nearly a week, watching as it\u2026 [+8665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Brie Stimson",
+            "title": "Why Rihanna did not get paid for her Super Bowl performance - Fox Business",
+            "description": "Rihanna, like past performers, wasn't paid for her Super Bowl halftime show performance on Sunday but the exposure is likely to make her music sales skyrocket.",
+            "url": "https://www.foxbusiness.com/entertainment/why-rihanna-not-paid-super-bowl-performance",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/02/0/0/rihanna.jpg?ve=1&tl=1",
+            "publishedAt": "2023-02-14T23:32:03Z",
+            "content": "Sunday\u2019s Super Bowl brought in around 113 million viewers who also took in Rihanna\u2019s high-flying halftime show performance \u2014 but the \"Umbrella\" star wasn\u2019t paid for her appearance.\u00a0\r\n\"We do not pay t\u2026 [+2583 chars]"
         },
         {
             "source": {
@@ -60,51 +60,116 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "NATO to increase targets for ammunition stockpiles as war depletes reserves - Reuters",
-            "description": "NATO said on Monday it will increase targets for stockpiling ammunition as Kyiv is burning through shells much faster than Western countries can produce them and after a year of conflict in Ukraine has left allied stocks badly depleted.",
-            "url": "https://www.reuters.com/world/europe/natos-stoltenberg-we-plan-increase-targets-ammunition-stockpiles-2023-02-13/",
-            "urlToImage": "https://www.reuters.com/resizer/H7pU3Pilpb1815Y6was_yw1Y4Tw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/33ZIAENGPVPUTPIXJBFAJZPVNA.jpg",
-            "publishedAt": "2023-02-14T08:10:00Z",
-            "content": "BRUSSELS Feb 13 (Reuters) - NATO said on Monday it will increase targets for stockpiling ammunition as Kyiv is burning through shells much faster than Western countries can produce them and after a y\u2026 [+3216 chars]"
+            "title": "Berkshire dumps shares in TSMC, banks; increases Apple stake - Reuters",
+            "description": "Warren Buffett's Berkshire Hathaway Inc <a href=\"https://www.reuters.com/companies/BRKa.N\" target=\"_blank\">(BRKa.N)</a> slashed its stake in Taiwanese contract chip-maker TSMC <a href=\"https://www.reuters.com/companies/2330.TW\" target=\"_blank\">(2330.TW)</a> a\u2026",
+            "url": "https://www.reuters.com/business/buffetts-berkshire-reduces-stake-activision-blizzard-2023-02-14/",
+            "urlToImage": "https://www.reuters.com/resizer/S9KAkrsDaPizbHWgjUApg2AKdUg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JYPISFD7EZOFBHNLZZJR7JVKCQ.jpg",
+            "publishedAt": "2023-02-14T23:07:00Z",
+            "content": "NEW YORK/BANGALORE, Feb 14 (Reuters) - Warren Buffett's Berkshire Hathaway Inc (BRKa.N) slashed its stake in Taiwanese contract chip-maker TSMC (2330.TW) as well as in some banks in the fourth quarte\u2026 [+2529 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S., Canada, European powers oppose Israeli settlement authorization - Reuters",
+            "description": "Foreign ministers of four European countries and Canada joined Washington on Tuesday in opposing a decision by Israeli Prime Minister Benjamin Netanyahu's government to authorize nine Jewish settler outposts in the occupied West Bank.",
+            "url": "https://www.reuters.com/world/middle-east/israels-ben-gvir-says-wants-more-settlements-after-us-european-concern-2023-02-14/",
+            "urlToImage": "https://www.reuters.com/resizer/BD6PPW4vd8Cnnf85IeT-EhZjWTc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6JMBNFVKORK65PC4UNM64GXQJY.jpg",
+            "publishedAt": "2023-02-14T22:50:00Z",
+            "content": "JERUSALEM, Feb 14 (Reuters) - Foreign ministers of four European countries and Canada joined Washington on Tuesday in opposing a decision by Israeli Prime Minister Benjamin Netanyahu's government to \u2026 [+2842 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Jacob Knutson",
+            "title": "What we know about the Ohio train derailment - Axios",
+            "description": "The 150-car Norfolk Southern freight train was pulling at least five tanker cars containing vinyl chloride, a colorless but hazardous gas.",
+            "url": "https://www.axios.com/2023/02/13/what-we-know-about-ohio-train-derailment",
+            "urlToImage": "https://images.axios.com/CsOKuDRM8yE2_AAPxCK3TNLJVR0=/0x698:7977x5185/1366x768/2023/02/13/1676323388772.jpg",
+            "publishedAt": "2023-02-14T22:45:27Z",
+            "content": "Hundreds of people evacuated an Ohio town after a freight train carrying hazardous materials derailed on Feb. 3 and the company was forced to vent and burn carcinogenic chemicals from crashed train c\u2026 [+6855 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Eric Edholm",
+            "title": "Unhappy Valentine's Day: Chiefs WR JuJu Smith-Schuster draws ire of Eagles WR A.J. Brown after James Bradberry tweet - NFL.com",
+            "description": "On Tuesday, Chiefs WR JuJu Smith-Schuster decided to have a little fun at Eagles CB James Bradberry\u2019s expense regarding the Super Bowl LVII holding penalty, sending out this Valentine\u2019s Day \u201ccard\u201d on Twitter. Philadelphia WR A.J. Brown and some other Eagles r\u2026",
+            "url": "https://www.nfl.com/news/unhappy-valentine-s-day-chiefs-wr-juju-smith-schuster-draws-ire-of-eagles-wr-a-j",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/e38gzt4v8m77snaruwj7",
+            "publishedAt": "2023-02-14T22:33:00Z",
+            "content": "Even Valentine's Day can't ease the tensions still simmering from Super Bowl LVII.\r\nKansas City Chiefs wide receiver JuJu Smith-Schuster was at the center of one of the game's pivotal plays Sunday ni\u2026 [+474 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
+                "name": "CNBC"
             },
-            "author": "Neuroscience News",
-            "title": "Study Reveals How CBD Counters Epileptic Seizures - Neuroscience News",
-            "description": "Cannabidiol, or CBD, blocks the ability of lysophosphatidylinositol (LPI) to amplify neural signals in the hippocampus. LPI weakens the signals that counter seizures, further explaining the value of CBD to treat epilepsy.",
-            "url": "https://neurosciencenews.com/cbd-epilepsy-22502/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/02/cbd-epilepsy-neurosicnes.jpg",
-            "publishedAt": "2023-02-14T07:19:15Z",
-            "content": "Summary: Cannabidiol, or CBD, blocks the ability of lysophosphatidylinositol (LPI) to amplify neural signals in the hippocampus. LPI weakens the signals that counter seizures, further explaining the \u2026 [+7137 chars]"
+            "author": "Hakyung Kim",
+            "title": "Stocks making the big moves after hours: Airbnb, TripAdvisor, Devon Energy and more - CNBC",
+            "description": "These are the stocks posting the largest moves after the bell.",
+            "url": "https://www.cnbc.com/2023/02/14/stocks-moving-big-after-hours-abnb-trip-dvn.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104832855-GettyImages-185590064-tripadvisor.jpg?v=1676413139&w=1920&h=1080",
+            "publishedAt": "2023-02-14T22:18:59Z",
+            "content": "Check out the companies making headlines in extended trading.\r\nAirbnb Shares of Airbnb jumped 10% after the company released fourth-quarter earnings that topped analysts' expectations. The company re\u2026 [+1295 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "The Dallas Morning News"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Cyclone Gabrielle: New Zealanders forced to swim to safety in floods - BBC",
-            "description": "A state of emergency has been declared for most of the North Island after a damaging cyclone.",
-            "url": "https://www.bbc.com/news/world-asia-64630183",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3E46/production/_128624951_nz-index-afp.jpg",
-            "publishedAt": "2023-02-14T06:08:12Z",
-            "content": "Media caption, Aerial footage reveals the extent of flooding in Hawke's Bay in New Zealand's east\r\nResidents have been forced to swim to safety from flooded homes in New Zealand after Cyclone Gabriel\u2026 [+4132 chars]"
+            "author": "Alexandra Skores",
+            "title": "Feds charge Dallas tech company\u2019s ex-CEO in $67 million fraud - The Dallas Morning News",
+            "description": "Kirchner, 35, was arrested at his home in Westlake on Tuesday morning, according to the U.S. attorney\u2019s office for the Northern District of Texas.",
+            "url": "https://www.dallasnews.com/business/local-companies/2023/02/14/feds-charge-dallas-tech-companys-ex-ceo-in-67-million-fraud/",
+            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Zr27K-d5y-TQhOYIWXXAIapsWJ0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/U7FHHX7FDFCJNHX62L67B354T4.jpg",
+            "publishedAt": "2023-02-14T22:00:33Z",
+            "content": "Christopher Kirchner, co-founder and former CEO of software firm Slync Inc., has been accused of fraud by multiple federal agencies for selling $67 million in securities to investors and then using n\u2026 [+3931 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "The Guardian"
             },
-            "author": "",
-            "title": "2023 NFL season lookahead: Early Super Bowl odds, five teams to watch, five key offseason storylines - CBS Sports",
-            "description": "A preview of what's to come in the NFL",
-            "url": "https://www.cbssports.com/nfl/news/2023-nfl-season-lookahead-early-super-bowl-odds-five-teams-to-watch-five-key-offseason-storylines/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/05/ab2f8530-433c-498c-ac85-c3f5564b9ad3/thumbnail/1200x675/f097f3b9bc8b81e73ef12052c699ef61/burrow.jpg",
-            "publishedAt": "2023-02-14T06:01:00Z",
-            "content": "The 2022 NFL season officially wrapped up Sunday night as the Chiefs edged the Eagles, 38-35, in Super Bowl LVII. Both contenders figure to dominate headlines in the near future, with Patrick Mahomes\u2026 [+3913 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Quarterback needy teams on alert as Las Vegas Raiders release Derek Carr - The Guardian",
+            "description": "Quarterback Derek Carr was released by the Las Vegas Raiders on Tuesday as the club evaluates its future at the position",
+            "url": "https://www.theguardian.com/sport/2023/feb/14/quarterback-needy-teams-on-alert-as-las-vegas-raiders-release-derek-carr",
+            "urlToImage": "https://i.guim.co.uk/img/media/c7e335b370e1b195c9c55e40b9ded24cf1eada8b/0_267_8001_4801/master/8001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70ae56d1a5216cce8db1b542fe5c0b17",
+            "publishedAt": "2023-02-14T22:00:00Z",
+            "content": "Quarterback Derek Carr was released by the Las Vegas Raiders on Tuesday as the club evaluates its future at the position.\r\nThe move was expected after Carr was benched with two games remaining this s\u2026 [+3732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "Big asteroid to zoom by Earth on Wednesday - Space.com",
+            "description": "It's not a particularly close shave \u2014 just a reminder that we share space with a lot of fast-moving rocks.",
+            "url": "https://www.space.com/asteroid-2005-yy128-earth-flyby",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/W2TwuXoEV42sWfURaf2CW9-1200-80.jpg",
+            "publishedAt": "2023-02-14T21:20:53Z",
+            "content": "A sizable space rock will make its closest approach to Earth in four centuries on Wednesday evening (Feb. 15), but there's nothing to fear.\r\nThe near-Earth asteroid 2005\u00a0YY128 will zoom within 2.8 mi\u2026 [+3447 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": null,
+            "title": "Republicans face continued claims of \u2018homophobic and sexist fear-mongering\u2019 over blocked FCC nominee - The Hill",
+            "description": null,
+            "url": "https://thehill.com/policy/technology/3858021-republicans-face-continued-claims-of-homophobic-and-sexist-fear-mongering-over-blocked-fcc-nominee/",
+            "urlToImage": null,
+            "publishedAt": "2023-02-14T21:04:00Z",
+            "content": null
         },
         {
             "source": {
@@ -112,155 +177,90 @@
                 "name": "The Detroit News"
             },
             "author": ", The Detroit News",
-            "title": "3 killed, 5 wounded at Michigan State campus shooting; suspect dead - Detroit News",
-            "description": "The suspect was located off campus and died of a self-inflicted gunshot wound, according to authorities.",
-            "url": "https://www.detroitnews.com/story/news/local/michigan/2023/02/13/msu-reports-shots-fired-on-campus-east-lansing/69901198007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/14/PDTN/053071b6-3a94-4fb3-8705-8c6c0b937b90-MSU1wsuspect.png?auto=webp&crop=3263,1836,x0,y165&format=pjpg&width=1200",
-            "publishedAt": "2023-02-14T05:41:23Z",
-            "content": "East Lansing A suspected gunman who killed three people and wounded several others on the campus of Michigan State University was founded dead late Monday night from an apparent self-inflicted gunsho\u2026 [+7629 chars]"
+            "title": "MSU shooter Anthony McRae pleaded guilty to gun charge in 2019 - Detroit News",
+            "description": "Neighbors said Anthony McRae would fire a gun out the back door of the Lansing home he shared with his father, possibly for target practice.",
+            "url": "https://www.detroitnews.com/story/news/local/michigan/2023/02/14/michigan-state-university-msu-shooter-anthony-mcrae-gun-conviction-with-weapons-history/69901983007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/14/PDTN/88757bca-3e60-4fcc-9249-b68ee1f54eb0-McRae_photo.jpg?auto=webp&crop=466,263,x0,y43&format=pjpg&width=1200",
+            "publishedAt": "2023-02-14T21:02:12Z",
+            "content": "Lansing State officials Tuesday identified 43-year-old Anthony McRae, who had a history of mental health issues and was charged with multiple gun-related crimes in 2019, as the believed gunman who ki\u2026 [+8207 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Michelle Starr",
-            "title": "Blazing Asteroid Lights Up The Sky Just Hours After Being Spotted - ScienceAlert",
-            "description": "For just the seventh time ever, astronomers spotted an asteroid in space hours before it came falling down to Earth in a blaze.",
-            "url": "https://www.sciencealert.com/blazing-asteroid-lights-up-the-sky-just-hours-after-being-spotted",
-            "urlToImage": "https://www.sciencealert.com/images/2023/02/AsteroidBlazingOverEnglishChannel.jpg",
-            "publishedAt": "2023-02-14T05:38:25Z",
-            "content": "For just the seventh time ever, astronomers spotted an asteroid in space hours before it came falling down to Earth in a blaze.\r\nIn images taken at 20:18:07 UTC on February 12, the asteroid 2023 CX1,\u2026 [+3708 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "HT Tech",
-            "title": "Valentine\u2019s day solar storm ALERT! Sun blasts CME clouds towards the Earth - HT Tech",
-            "description": "A solar storm can strike the Earth on Valentine\u2019s day, after a huge coronal mass ejection (CME) cloud was spotted being hurled by the Sun. Know the damage it can cause.",
-            "url": "https://tech.hindustantimes.com/tech/news/valentines-day-solar-storm-alert-sun-blasts-cme-clouds-towards-the-earth-71676349827181.html",
-            "urlToImage": "https://images.hindustantimes.com/tech/img/2023/02/14/1600x900/clement-714404_1674110601961_1676349851526_1676349851526.jpg",
-            "publishedAt": "2023-02-14T04:46:21Z",
-            "content": "Ever since the X-class solar flare eruption on the Sun on February 11, solar activities have been in the pause mode. But that does not mean any good news for the Earth. The same flare eruption had al\u2026 [+2503 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "https://www.facebook.com/thehackernews",
-            "title": "Patch Now: Apple's iOS, iPadOS, macOS, and Safari Under Attack with New Zero-Day Flaw - The Hacker News",
-            "description": "Apple has released urgent security updates to address a new zero-day vulnerability discovered in WebKit, which attackers are exploiting in the wild.",
-            "url": "https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html",
-            "urlToImage": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhwLdHZcIgISVVe_p8sRJD55e2RHR8YhadA9x6ssYx0eC4eRUBser6oxe1WDZL81TA9ZxPlmqDzoe6fKj0vNn0Ag5otjIH60CBIe1qlr8MueqAK-LkOLZ_YaWIB8UAp9Vm9lFI2eXdko8QXlG6joMeS7B_qLdt4Ci5L-dsqRTu1cfJvbsPu2pxDbQ6n/s728-e3650/apple.png",
-            "publishedAt": "2023-02-14T04:44:00Z",
-            "content": "Apple on Monday rolled out security updates for iOS, iPadOS, macOS, and Safari to address a zero-day flaw that it said has been actively exploited in the wild.\r\nTracked as CVE-2023-23529, the issue r\u2026 [+2181 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Jeff Stein, Tyler Pager",
-            "title": "Lael Brainard to run National Economic Council - The Washington Post",
-            "description": "The number two official at the central bank will lead the National Economic Council as the administration seeks to raise the debt limit",
-            "url": "https://www.washingtonpost.com/us-policy/2023/02/13/lael-brainard-biden-nec/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GJSNXZEYEYI63ILTMHQFL3BE54.jpg&w=1440",
-            "publishedAt": "2023-02-14T04:41:35Z",
-            "content": "Comment on this story\r\nThe White House will announce this week the two new leaders of its economic team, as President Biden puts in place key personnel following last years midterm elections and ahea\u2026 [+2591 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
+                "name": "The Seattle Times"
             },
             "author": null,
-            "title": "Wood-Wide Web: Do Forest Trees Really \u201cTalk\u201d Through Underground Fungi? - SciTechDaily",
-            "description": "University of Alberta expert challenges popular claims about the \u201cwood-wide web.\u201d The idea that forest trees can \u201ctalk\u201d to each other, share resources with their seedlings \u2014 and even protect them \u2014 through a connective underground web of delicate fungal filam\u2026",
-            "url": "https://scitechdaily.com/wood-wide-web-do-forest-trees-really-talk-through-underground-fungi/",
-            "urlToImage": "https://scitechdaily.com/images/Forest-Mushrooms-Fungi.jpg",
-            "publishedAt": "2023-02-14T04:24:19Z",
-            "content": "Scientists in the journal Nature Ecology &amp; Evolution challenge three commonly held beliefs regarding the abilities of common mycorrhizal networks (CMNs), which are underground fungi that link the\u2026 [+3599 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Zachary Cohen, Jeremy Herb",
-            "title": "Pentagon memo says object shot down over Canada was a 'small, metallic balloon' - CNN",
-            "description": "The unidentified flying object shot down in Canadian airspace on Saturday appeared to be a \"small, metallic balloon with a tethered payload below it,\" according to a Pentagon memo sent to lawmakers on Monday and obtained by CNN.",
-            "url": "https://www.cnn.com/2023/02/13/politics/pentagon-memo-canada-small-balloon/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230212083524-02-f-22-raptor-file-cuts.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-14T04:16:00Z",
-            "content": "The unidentified flying object shot down in Canadian airspace on Saturday appeared to be a small, metallic balloon with a tethered payload below it, according to a Pentagon memo sent to lawmakers on \u2026 [+5225 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Peter Valdes-Dapena",
-            "title": "Ford to build battery plant in Michigan to tap into EV tax credits - CNN",
-            "description": "Ford is investing $3.5 billion to build a battery plant in Michigan, a move that will help the automaker take advantage of more federal tax credits for electric vehicles.",
-            "url": "https://www.cnn.com/2023/02/13/business/ford-lfp-battery-plant/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221212115301-04-ford-f-150-lightning-review.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-14T04:16:00Z",
-            "content": "Ford is investing $3.5 billion to build a battery plant in Michigan, a move that will help the automaker take advantage of more federal tax credits for electric vehicles.\r\nThe plant will operate as a\u2026 [+2647 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Donovan Slack and N'dea Yancey-Bragg, USA TODAY",
-            "title": "At least 1 dead, 8 injured after U-Haul truck driver's 'violent rampage' in New York City - USA TODAY",
-            "description": "According to authorities, the vehicle struck multiple people before being stopped by police\u00a0near the entrance to a tunnel leading to Manhattan.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/02/13/reports-pedestrians-struck-brooklyn/11248157002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/13/USAT/ec192993-00b6-42c2-9679-e6254fbafc36-AP_Pedestrians_Struck_2.jpg?auto=webp&crop=8035,4520,x0,y409&format=pjpg&width=1200",
-            "publishedAt": "2023-02-14T03:56:15Z",
-            "content": "A man driving a U-Haul truck swerved onto sidewalks and plowed into cyclists and scooter riders in New York City on Monday, killing one person and injuring eight others, authorities say.\u00a0\r\nOfficers r\u2026 [+2239 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Chinese balloon sensors recovered from ocean, says US - BBC",
-            "description": "Crews found \"significant debris\" from the suspected spy craft off the South Carolina coast, say the US military.",
-            "url": "https://www.bbc.com/news/world-us-canada-64633705",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F12/production/_128622704_screenshot2023-02-13at6.00.12pm.png",
-            "publishedAt": "2023-02-14T03:30:34Z",
-            "content": "Media caption, No indication of aliens... I loved ET but I'll leave it there - WH spokeswoman\r\nThe sensors from a suspected Chinese spy balloon shot down after crossing the US have been recovered fro\u2026 [+3491 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Oliver Darcy",
-            "title": "Fox scores Super Bowl ratings touchdown with 113 million viewers, the third most-watched TV program ever - CNN",
-            "description": "The Super Bowl delivered super ratings for Fox.",
-            "url": "https://www.cnn.com/2023/02/13/media/super-bowl-lvii-ratings-reliable-sources/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230212214951-08-super-bowl-2023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-14T03:25:00Z",
-            "content": "The Super Bowl delivered super ratings for Fox. \r\nThe face off between the Philadelphia Eagles and Kansas City Chiefs, a nail biter in which the latter team emerged victorious after a game defining p\u2026 [+1798 chars]"
+            "title": "COVID\u2019s omicron variant, thought to be milder, can increase risk for diabetes - The Seattle Times",
+            "description": null,
+            "url": "https://www.seattletimes.com/nation-world/covids-omicron-variant-thought-to-be-milder-can-increase-risk-for-diabetes/",
+            "urlToImage": null,
+            "publishedAt": "2023-02-14T20:26:41Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "Variety"
             },
-            "author": "Clayton Davis",
-            "title": "Tom Cruise\u2019s Star Power Shines Bright at Oscars Luncheon, With Largest Turnout of Nominees in Event History - Variety",
-            "description": "Tom Cruise stole the show at the 95th Oscars luncheon, the annual gathering celebrating the nominees for the year\u2019s Academy Awards. At the Beverly Hilton Hotel, the in-person event had openin\u2026",
-            "url": "https://variety.com/2023/awards/actors/oscars-luncheon-2023-tom-cruise-brendan-fraser-austin-butler-1235521937/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/02/tom-cruise-jamie-lee-curtis-ampas.jpg?w=998&h=563&crop=1",
-            "publishedAt": "2023-02-14T02:58:00Z",
-            "content": "Tom Cruise stole the show at the 95th Oscars luncheon, the annual gathering celebrating the nominees for the year\u2019s Academy Awards. At the Beverly Hilton Hotel, the in-person event had opening remark\u2026 [+4139 chars]"
+            "author": "Rebecca Rubin",
+            "title": "Box Office Preview: \u2018Ant-Man and the Wasp: Quantumania\u2019 Aims for $95 Million Domestic Debut, $255 Million Globally - Variety",
+            "description": "\u201cAnt-Man and the Wasp: Quantumania,\u201d which sees the return of Paul Rudd\u2019s subatomic superhero, is expected to reinvigorate the sluggish winter box office when the latest Marvel ad\u2026",
+            "url": "https://variety.com/2023/film/box-office/box-office-preview-ant-man-and-the-wasp-quantumania-opening-weekend-1235522559/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/02/ant-man.jpg?w=1000&h=562&crop=1",
+            "publishedAt": "2023-02-14T20:21:00Z",
+            "content": "\u201cAnt-Man and the Wasp: Quantumania,\u201d which sees the return of Paul Rudd\u2019s subatomic superhero, is expected to reinvigorate the sluggish winter box office when the latest Marvel adventure opens in the\u2026 [+3617 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Philadelphia Inquirer"
+            },
+            "author": "Mike Sielski",
+            "title": "Jonathan Gannon and James Bradberry were a study in character and contrast after the Eagles' Super Bowl loss - The Philadelphia Inquirer",
+            "description": "After his controversial holding penalty, Bradberry took the heat. After his defense failed to slow down the Chiefs in the second half, Gannon couldn't wait to move on to his next job.",
+            "url": "https://www.inquirer.com/eagles/philadelphia-eagles-jonathan-gannon-james-bradberry-super-bowl-lvii-20230214.html",
+            "urlToImage": "https://www.inquirer.com/resizer/27EuYpIbmxX2z4wrJJSaqamux1U=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/NVXTX35Z5ZC6HLD33KEKDWVJ2I.jpg",
+            "publishedAt": "2023-02-14T20:12:43Z",
+            "content": "GLENDALE, Ariz. James Bradberry threw his shoulders back late Sunday night, fixed the clasp to close his sleek black suit jacket, and, with an almost-imperceptible nod of his head, signaled that the \u2026 [+5304 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Danielle Wallace",
+            "title": "Asteroid caught on video lighting up western Europe's skies before making impact in France - Fox News",
+            "description": "A three-feet meteoroid, also categorized as a small asteroid, was seen lighting up the skies of western Europe before making impact in France Monday by the English Channel.",
+            "url": "https://www.foxnews.com/science/asteroid-caught-video-lighting-up-western-europes-skies-before-making-impact-france",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/asteroid-1.jpg",
+            "publishedAt": "2023-02-14T19:52:00Z",
+            "content": "A small asteroid entered the Earths atmosphere over western Europe, creating a spectacular sight of a fireball careening across the skies until it made impact in northern France by the English Channe\u2026 [+1961 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Joe Marino, Desheania Andrews, Jorge Fitz-Gibbon",
+            "title": "Single dad Yijie Ye ID'd as man killed in NYC U-Haul rampage - New York Post ",
+            "description": "Yijie Ye, a 44-year-old Brooklyn single father of three, was identified as the first fatality from Monday\u2019s violent U-Haul rampage that left seven others injured.",
+            "url": "https://nypost.com/2023/02/14/man-killed-in-brooklyn-u-haul-rampage-idd-as-hard-working-single-dad/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/newspress-collage-25757365-1676404625264.jpg?quality=75&strip=all&1676386745&w=1024",
+            "publishedAt": "2023-02-14T19:31:00Z",
+            "content": "The 44-year-old Brooklyn man killed by the deranged U-Haul driver who tore through Brooklyn in a maniacal rampage was identified Tuesday as a hardworking and doting single dad.\r\nYijie Ye,the only fat\u2026 [+3582 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cameroon detects two suspected cases of Marburg virus near Eq. Guinea - Reuters",
+            "description": "Cameroonian authorities detected two suspected cases of Marburg disease on Monday in Olamze, a commune on the border with Equatorial Guinea, the public health delegate for the region, Robert Mathurin Bidjang, said on Tuesday.",
+            "url": "https://www.reuters.com/world/africa/who-increasing-health-surveillance-after-equatorial-guinea-finds-marburg-virus-2023-02-14/",
+            "urlToImage": "https://www.reuters.com/resizer/2OR6NZnrmRktqVFhNzwPOVD4qTQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R4JBODHQLBLHZFGROETUJY2OUM.jpg",
+            "publishedAt": "2023-02-14T18:53:00Z",
+            "content": "YAOUNDE/GENEVA, Feb 14 (Reuters) - Cameroonian authorities detected two suspected cases of Marburg disease on Monday in Olamze, a commune on the border with Equatorial Guinea, the public health deleg\u2026 [+2262 chars]"
         }
     ]
 }
