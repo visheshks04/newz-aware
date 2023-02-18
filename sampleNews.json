@@ -1,175 +1,214 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Bucky Brooks",
-            "title": "NFL's eight biggest Super Bowl windows right now? Chiefs, Eagles and Bengals top list; Bills at No. 7 - NFL.com",
-            "description": "With the 2022 NFL campaign in the books, it's time to look forward to next season -- and beyond. Who currently has the biggest Super Bowl window? Bucky Brooks provides his ranking of the top eight contenders for the next few Lombardi Trophies.",
-            "url": "https://www.nfl.com/news/nfl-s-eight-biggest-super-bowl-windows-right-now-chiefs-eagles-and-bengals-top-l",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/uanimanxasvhy9lrgid5",
-            "publishedAt": "2023-02-18T00:13:00Z",
-            "content": "The NFL is the undisputed king of American sports. This is at least partially due to league parity -- the promise that anything can happen on any given Sunday.\r\nBut does that parity extend all the wa\u2026 [+942 chars]"
+            "author": "Erin Cunningham, Andrew Jeong, Adela Suliman",
+            "title": "Russia-Ukraine war latest updates: Harris to speak at Munich Security Conference - The Washington Post",
+            "description": "Vice President Kamala Harris will make an address about the Ukraine war to the Munich security conference.",
+            "url": "https://www.washingtonpost.com/world/2023/02/18/russia-ukraine-war-latest-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CKEWVNGOJAJ7R5DBMPTL2O6YWY.jpg&w=1440",
+            "publishedAt": "2023-02-18T10:00:00Z",
+            "content": "Global political and defense leaders, including Secretary of State Antony Blinken and Vice President Harris, are in Munich, Germany, for a security conference focused heavily on the war in Ukraine. H\u2026 [+5766 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "InStyle"
+            },
+            "author": "https://www.facebook.com/InStyle",
+            "title": "The 45 Best Amazon Fashion, Beauty, and Home Deals to Shop This Presidents' Day Weekend, Starting at $6 - InStyle",
+            "description": "Amazon\u2019s Presidents\u2019 Day sale includes discounts on fashion, beauty, home, and tech products. Score deals from Levi\u2019s, Julep, Keranique, KitchenAid, Apple, and more.",
+            "url": "https://www.instyle.com/amazon-presidents-day-deals-2023-7111169",
+            "urlToImage": "https://www.instyle.com/thmb/46-Za-joifZHJEnpGTfPjkgnSb8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/021623-presidents-day-deals-social-5be1c2b3bdd34f33b49130cb0f4102a1.jpg",
+            "publishedAt": "2023-02-18T10:00:00Z",
+            "content": "Another long weekend has arrived, and that means its time to do what we do best: scour the internet for the best holiday deals. To no ones surprise, Amazons Presidents Day sale is popping off with di\u2026 [+9283 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Graig Graziosi",
+            "title": "Ohio train derailment \u2013 live: Video emerges of apparent contaminated creek in East Palestine - The Independent",
+            "description": "Rail company Norfolk Southern has a checkered past of deadly accidents and silencing whistleblowers long before the Ohio derailment",
+            "url": "https://www.independent.co.uk/climate-change/news/ohio-train-derailment-today-cause-fema-chemical-spill-b2284725.html",
+            "urlToImage": "https://static.independent.co.uk/2023/02/10/21/APTOPIX_Train_Derailment_Ohio_86305.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-18T06:00:00Z",
+            "content": "Anxious residents continue to seek answers\r\nA train horn sounds long and loud, shattering the quiet of East Palestine.\r\nIts almost insulting, says Vincent Greene, one of five lawyers visiting to offe\u2026 [+822 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lawrence Richard",
+            "title": "Biden administration, NORAD call off search for missing unidentified objects shot down over Alaska, Lake Huron - Fox News",
+            "description": "North American Aerospace Defense Command (NORAD) and the U.S. Northern Command recommended the search for two unidentified flying object be called off.",
+            "url": "https://www.foxnews.com/politics/biden-administration-norad-call-off-search-two-missing-unidentified-objects-shot-alaska",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/Balloon-cleanup-2.jpg",
+            "publishedAt": "2023-02-18T05:48:00Z",
+            "content": "U.S. officials called off the search for two unidentified objects that were shot down off the coast of Alaska and Lake Huron last week, according to a joint statement from North American Aerospace De\u2026 [+3802 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "The Athletic Staff, Joe Vardon",
+            "title": "Basketball Hall of Fame: Dirk Nowitzki, Gregg Popovich, Dwyane Wade among 2023 finalists - The Athletic",
+            "description": "Dirk Nowitzki, Gregg Popovich, and Dwyane Wade were among the finalists named for induction.",
+            "url": "https://theathletic.com/4221253/2023/02/17/nba-hall-of-fame-2023-finalists/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/02/17173410/USATSI_19025098-1024x683.jpg",
+            "publishedAt": "2023-02-18T05:36:01Z",
+            "content": "As expected, Dirk Nowitzki, Gregg Popovich and Dwyane Wade were among the finalists named for induction to the Naismith Memorial Basketball Hall of Fame in 2023, the NBA announced Friday. Heres what \u2026 [+3948 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Alta Spells, Dianne Gallagher, Christina Maxouris",
-            "title": "Paul Murdaugh confronted his father about finding pills a month before he and his mom were killed, prosecutors say - CNN",
-            "description": "Before prosecutors rested their case on Friday, they presented evidence in court showing Paul Murdaugh -- son of disgraced South Carolina attorney Alex Murdaugh -- confronted his father about pills about one month before both he and his mother were found fata\u2026",
-            "url": "https://www.cnn.com/2023/02/17/us/alex-murdaugh-trial-friday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230217141325-05-murdaugh-0216.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-18T00:10:00Z",
-            "content": "Editors Note: The HBO docuseries Low Country: The Murdaugh Dynasty chronicles the familys influence in South Carolina. It airs on CNN Sunday, February 19, at 8 p.m. ET.\r\nBefore prosecutors rested the\u2026 [+5354 chars]"
+            "author": "Natasha Bertrand, Oren Liebermann",
+            "title": "US military calls off recovery operation for Chinese spy balloon and search for objects downed over Alaska, Lake Huron - CNN",
+            "description": "The US military has concluded its recovery operations for the suspected Chinese spy balloon that was shot down off the coast of South Carolina earlier this month, as well as the search for flying objects it later downed off the coast of Alaska and over Lake H\u2026",
+            "url": "https://www.cnn.com/2023/02/17/politics/china-spy-balloon-recovery/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230209132835-03-suspected-chinese-spy-balloon-handout.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-18T04:29:00Z",
+            "content": "The US military has concluded its recovery operations for the suspected Chinese spy balloon that was shot down off the coast of South Carolina earlier this month, as well as the search for flying obj\u2026 [+4434 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Kellie Pickler\u2019s Husband Kyle Jacobs Dead by Suicide at Nashville Home - TMZ",
-            "description": "Kellie Pickler's husband dead by suicide at couple's Nashville Home.",
-            "url": "https://www.tmz.com/2023/02/17/kellie-pickler-man-dead-suicide-nashville-home/",
-            "urlToImage": "https://imagez.tmz.com/image/ec/16by9/2023/02/17/ec6f71f3a08640928c00bde81d271d7a_xl.jpg",
-            "publishedAt": "2023-02-18T00:04:00Z",
-            "content": "4:31 PM PT -- The Nashville Police Department has announced Kellies husband, Kyle Jacobs, is the man dead by suicide at the couples Nashville home, he shot himself in an upstairs bedroom/office insid\u2026 [+1265 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Kif Leswing",
-            "title": "Microsoft limits Bing A.I. chats after the chatbot had some unsettling conversations - CNBC",
-            "description": "The move will limit some scenarios where long chat sessions can \"confuse\" the chat model, the company said in a blog post.",
-            "url": "https://www.cnbc.com/2023/02/17/microsoft-limits-bing-ai-chats-after-the-chatbot-had-some-unsettling-conversations.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107190377-1675796187369-bing-edge-launch.PNG?v=1676678091&w=1920&h=1080",
-            "publishedAt": "2023-02-17T23:54:51Z",
-            "content": "Microsoft's Bing AI chatbot will be capped at 50 questions per day and five question-and-answers per individual session, the company said on Friday.\r\nThe move will limit some scenarios where long cha\u2026 [+1655 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Maya Yang",
-            "title": "Over 100 children illegally employed by US slaughterhouse cleaning firm - The Guardian",
-            "description": "Labor department investigation finds Packers Sanitation Services Inc employed children between ages of 13 and 17 in eight states",
-            "url": "https://www.theguardian.com/law/2023/feb/17/underage-child-labor-working-slaughterhouse-investigation",
-            "urlToImage": "https://i.guim.co.uk/img/media/509fd51c7fb971c115769d88340dab907b2de562/0_187_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a1c8245bd1d19c3bb08eb7d21b4e43c",
-            "publishedAt": "2023-02-17T23:26:00Z",
-            "content": "More than 100 children have been discovered to be illegally employed by a slaughterhouse cleaning firm across the country, federal authorities said.\r\nThe Department of Labor announced that a federal \u2026 [+3109 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Triangle Business Journal"
+                "id": "the-hill",
+                "name": "The Hill"
             },
             "author": null,
-            "title": "Amazon to bring employees back to office in May - Puget Sound Business Journal - The Business Journals",
+            "title": "Biden ups pressure for gun reform in wake of Mississippi shooting: \u2018Enough\u2019 - The Hill",
             "description": null,
-            "url": "https://www.bizjournals.com/seattle/news/2023/02/17/amazon-pegs-new-return-to-office-date-in-may.html",
+            "url": "https://thehill.com/homenews/administration/3864139-biden-ups-pressure-for-gun-reform-in-wake-of-mississippi-shooting-enough/",
             "urlToImage": null,
-            "publishedAt": "2023-02-17T22:57:08Z",
+            "publishedAt": "2023-02-18T03:40:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "Daily Beast"
             },
-            "author": "John Keim",
-            "title": "Sources - Commanders finalize deal to make Eric Bieniemy new OC - ESPN",
-            "description": "The Washington Commanders have finalized a deal to make Eric Bieniemy the team's new offensive coordinator and assistant head coach, sources told ESPN on Friday, confirming multiple reports.",
-            "url": "https://www.espn.com/nfl/story/_/id/35681863/sources-washington-commanders-offer-oc-job-eric-bieniemy",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0126%2Fr966240_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-02-17T22:53:21Z",
-            "content": "ASHBURN, Va. -- The Washington Commanders have finalized a deal to make Eric Bieniemy the team's new offensive coordinator and assistant head coach, sources told ESPN on Friday, confirming multiple r\u2026 [+2710 chars]"
+            "author": "Jake Lahut, Zachary Petrizzo",
+            "title": "Meet Ron DeSantis, Former AP 'Student of the Year' - The Daily Beast",
+            "description": "The Florida governor is trying to sell a populist pitch that APs aren\u2019t worth the trouble, but he benefited from an AP class on his way to Yale.",
+            "url": "https://www.thedailybeast.com/meet-ron-desantis-former-ap-student-of-the-year",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1676691408/230217-Lahut-Petrizzo-DeSantis-tease_fqlxsu",
+            "publishedAt": "2023-02-18T03:38:50Z",
+            "content": "When Florida Governor Ron DeSantisfloated the possibility of eliminating Advanced Placement classes from his states curriculum, he conveniently left out an important fact.\r\nDeSantis was once the AP U\u2026 [+4608 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Glynn A. Hill",
-            "title": "Tiger Woods in position to miss cut at Genesis Invitational - The Washington Post",
-            "description": "Tiger Woods finished with three bogeys on his final four holes Friday and is in danger of missing the cut.",
-            "url": "https://www.washingtonpost.com/sports/2023/02/17/did-tiger-woods-make-the-cut/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EPNXD6HZGZDX3MYYHHDLFF4OTA.jpg&w=1440",
-            "publishedAt": "2023-02-17T22:37:08Z",
-            "content": "Comment on this story\r\nTiger Woods finished with three bogeys over his final four holes Friday in the second round of the Genesis Invitational, leaving him in a precarious position to make the cut in\u2026 [+2408 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Richard Newby",
-            "title": "The Ant-Man and the Wasp: Quantumania Credits Scenes (and Every Kang), Explained - Vulture",
-            "description": "Ant-Man and the Wasp: Quantumania kicks off Phase 5 of the MCU, further setting up the stakes of The Multiverse Saga and the threat of the new big bad, Kang, The Conqueror. Those stakes become all the clearer in not one, but two credits scenes.",
-            "url": "http://www.vulture.com/2023/02/ant-man-and-the-wasp-quantumania-credit-scenes-explained.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/4d5/200/fa059b187c74c12dc2bfb340e01cfdb648-quantumania.1x.rsocial.w1200.jpg",
-            "publishedAt": "2023-02-17T22:23:03Z",
-            "content": "Ant-Man and the Wasp: Quantumania kicks off phase five of the Marvel Cinematic Universe, further setting up the stakes of the multiverse saga and the threat of the new big bad: Kang the Conqueror. Th\u2026 [+4138 chars]"
+            "author": "Al Jazeera",
+            "title": "Brazil celebrates its return to full-scale Carnival festivities - Al Jazeera English",
+            "description": "Brazil\u2019s world-famous celebration resumes in full force after years of delays and cancellations brought on by COVID-19.",
+            "url": "https://www.aljazeera.com/gallery/2023/2/18/brazil-celebrates-its-return-to-full-scale-carnival-festivities",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/AP23048752155777.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-02-18T03:07:21Z",
+            "content": "The samba was playing, revellers were dancing and throughout the city of Rio de Janeiro in Brazil, parties and pageantry filled the streets.\r\nFriday marked the official opening of Brazils Carnival fe\u2026 [+1880 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "BBC News"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Canada's use of emergency powers justified - report - BBC",
-            "description": "Probe calls use of emergency powers to end last year's trucker protests drastic but not dictatorial.",
-            "url": "https://www.bbc.com/news/world-us-canada-64683747",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5128/production/_128667702_gettyimages-1238211488.jpg",
-            "publishedAt": "2023-02-17T21:45:02Z",
-            "content": "The Canadian government met the \"high\" threshold in invoking never-used emergency powers to end last February's trucker protests, an inquiry has found.\r\nJustice Paul Rouleau, who led the probe into t\u2026 [+3126 chars]"
+            "author": "Sian E Harding",
+            "title": "The 61-year-long search for artificial hearts - BBC",
+            "description": "Humanity's engineering achievements have been extraordinary, so why has building an artificial heart has proved to be more challenging than expected.",
+            "url": "https://www.bbc.com/future/article/20230217-the-61-year-long-search-for-artificial-hearts",
+            "urlToImage": "https://ychef.files.bbci.co.uk/live/624x351/p0f3tmls.jpg",
+            "publishedAt": "2023-02-18T02:33:39Z",
+            "content": "The amount of blood circulating in the left ventricle/body loop must be very close to that in the right ventricle/lung loop. With 100,000 beats a day, even a teaspoon of difference at each beat would\u2026 [+3412 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Annie Grayer",
-            "title": "Fox News executives refused to let Trump on-air when he called in during January 6 attack, Dominion says - CNN",
-            "description": "Former President Donald Trump tried to call into Fox News after his supporters attacked the US Capitol on January 6, 2021, but the network refused to put him on air, according to court filings from Dominion Voting Systems in its defamation case against the co\u2026",
-            "url": "https://www.cnn.com/2023/02/17/politics/fox-news-trump-january-6/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220628220529-donald-trump-january-6-2021-rally-1.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-17T21:31:00Z",
-            "content": "Former President Donald Trump tried to call into Fox News after his supporters attacked the US Capitol on January 6, 2021, but the network refused to put him on air, according to court filings from D\u2026 [+3505 chars]"
+            "author": "Megan Thomas",
+            "title": "Kyle Jacobs, songwriter and husband of singer Kellie Pickler, dead at 49 - CNN",
+            "description": "Kyle Jacobs, a country music producer and songwriter, who co-starred with his wife, singer Kellie Pickler, in a CMT docuseries, has died, according to Nashville police. He was 49.",
+            "url": "https://www.cnn.com/2023/02/17/entertainment/kyle-jacobs-death/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230217172356-kyle-jacobs-kellie-pickler.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-18T02:02:00Z",
+            "content": "Editors Note: If you or someone you know is struggling with suicidal thoughts or mental health matters, please call or text the 988 Suicide &amp; Crisis Lifeline to connect with a trained counselor o\u2026 [+2318 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chantz Martin",
+            "title": "Eric Bieniemy agrees in principle on deal to become Commanders' new OC: report - Fox News",
+            "description": "Eric Bieniemy has agreed in principle on a multi-year deal that will make him the Washington Commanders' next offensive coordinator and assistant head coach, ESPN reported.",
+            "url": "https://www.foxnews.com/sports/eric-bieniemy-agrees-to-become-commanders-new-oc",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/Eric-Bieniemy2.jpg",
+            "publishedAt": "2023-02-18T01:43:00Z",
+            "content": "The Washington Commanders and two-time Super Bowl winning coach Eric Bieniemy have agreed in principle on a contract that will make him the team's new offensive coordinator and assistant head coach, \u2026 [+2828 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "John Dias, Carolyn Gusoff",
+            "title": "International flights at JFK Airport canceled for second day in a row due to power disruption - CBS New York",
+            "description": "A damaged electrical panel has been repaired, but it's not enough to fully restore operations at the terminal.",
+            "url": "https://www.cbsnews.com/newyork/news/international-flights-canceled-at-jfk-airport-for-second-day-in-a-row-due-to-power-disruption/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/16/49e4ad05-4db2-46e9-908e-a4b330f04383/thumbnail/1200x630/3e2c4eedc9831dd85519bca8ebb16caf/jfk-terminal-1-power-outage.jpg",
+            "publishedAt": "2023-02-18T01:38:00Z",
+            "content": "NEW YORK --\u00a0International flights were canceled at\u00a0John F. Kennedy International Airport\u00a0for a second day in a row Friday\u00a0due to a power disruption.\r\nSo far Friday, at least 44 flights were delayed a\u2026 [+3744 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "CBS Sports"
             },
-            "author": "Robert Lea",
-            "title": "Doomsday Glacier melting in Antarctica means terrible news for global sea level rise - Space.com",
-            "description": "The collapse of the glacier could trigger a chain reaction leading to the collapse of surrounding glaciers.",
-            "url": "https://www.space.com/antarctica-doomsday-glacier-melts-in-treacherous-ways",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/windFig37RuF5bc4ttSvLU-1200-80.jpg",
-            "publishedAt": "2023-02-17T21:30:49Z",
-            "content": "The Thwaites Glacier in Antarctica, also known as the Doomsday Glacier, is melting in unexpected ways that could lead to its rapid collapse, a new study has revealed.\u00a0\r\nTwo teams of researchers have \u2026 [+4310 chars]"
+            "author": "",
+            "title": "Tiger Woods score: Legend makes cut despite inconsistent Round 2 at 2023 Genesis Invitational - CBS Sports",
+            "description": "Finishing 3 over for the day, Woods needed some late help to avoid being cut at Riviera Country Club",
+            "url": "https://www.cbssports.com/golf/news/tiger-woods-score-legend-makes-cut-despite-inconsistent-round-2-at-2023-genesis-invitational/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/17/20c2be75-d226-4b61-a615-4ca57966c108/thumbnail/1200x675/6ce415056c89b2fc4c3159f10387a981/woods.jpg",
+            "publishedAt": "2023-02-18T01:04:00Z",
+            "content": "Tiger Woods will be around for the weekend at the 2023 Genesis Invitational. Turning in a 3-over 74 on Friday was how Woods followed up his opening round of 2-under 69 from Thursday to remain inside \u2026 [+2398 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "NewsChannel5.com"
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
             },
-            "author": "Phil Williams",
-            "title": "Congressman Andy Ogles, graduate of respected Vanderbilt, Dartmouth business schools? Not really - News Channel 5 Nashville",
-            "description": "New Tennessee Congressman Andy Ogles has claimed to have done graduate work at highly respected business schools at Vanderbilt and Dartmouth universities, but is it true?",
-            "url": "https://www.newschannel5.com/news/newschannel-5-investigates/congressman-andy-ogles-graduate-of-respected-vanderbilt-dartmouth-business-schools-not-really",
-            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/c8f738c/2147483647/strip/true/crop/1920x1008+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F0a%2F3e%2Fea53578b4c2faf88c254be924ff6%2Fogles-raw-frame-2215.jpeg",
-            "publishedAt": "2023-02-17T21:24:00Z",
-            "content": "NASHVILLE, Tenn. (WTVF) New Tennessee Congressman Andy Ogles has claimed to have done graduate work at highly respected business schools at Vanderbilt and Dartmouth universities, but is it true?\r\nNot\u2026 [+3886 chars]"
+            "author": "Devan Coggan",
+            "title": "Those 'Ant-Man and the Wasp: Quantumania' post-credits scenes, explained - Entertainment Weekly News",
+            "description": "It\u2019s conquerin\u2019 time.",
+            "url": "https://ew.com/movies/ant-man-and-the-wasp-quantumania-post-credits-scenes-explained/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B760%2C239%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F02%2F08%2FAnt-Man-and-The-Wasp-Quantumania_020823_19.jpg",
+            "publishedAt": "2023-02-18T01:01:00Z",
+            "content": "Warning: This post contains spoilers about Ant-Man and the Wasp: Quantumania.\r\nWith Ant-Man and the Wasp: Quantumania, the Marvel Cinematic Universe is ushering in a new era. Paul Rudd,Evangeline Lil\u2026 [+3504 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Family: Boy, 11, dies of infection after sprained ankle - ABC News",
+            "description": "Family members say an 11-year-old Florida boy has died just days after a sprained ankle led to a flesh-eating bacterial infection",
+            "url": "https://abcnews.go.com/US/wireStory/family-boy-11-dies-infection-after-sprained-ankle-97300901",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2023-02-18T00:53:58Z",
+            "content": "WINTER PARK, Fla. -- An 11-year-old Florida boy died just days after a sprained ankle led to a flesh-eating bacterial infection, family members said.\r\nJesse Brown, a fifth grader at Lakemont Elementa\u2026 [+1197 chars]"
         },
         {
             "source": {
@@ -181,86 +220,47 @@
             "description": "The S&P 500 ended lower on Friday, weighed down by Microsoft and Nvidia as investors worried that inflation and a strong U.S. economy could put the Federal Reserve on pace for more interest rate hikes.",
             "url": "https://www.reuters.com/markets/us/futures-fall-fears-about-hawkish-fed-grow-2023-02-17/",
             "urlToImage": "https://www.reuters.com/resizer/Uh58-QihHN3fGMXXwZyoq6BCuCI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SS5YUH7PABIFRIG45QA3SM4Z6I.jpg",
-            "publishedAt": "2023-02-17T21:21:00Z",
+            "publishedAt": "2023-02-18T00:50:00Z",
             "content": "Feb 17 (Reuters) - The S&amp;P 500 ended lower on Friday, weighed down by Microsoft and Nvidia as investors worried that inflation and a strong U.S. economy could put the Federal Reserve on pace for \u2026 [+3653 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Raechal Shewfelt",
+            "title": "Jen Shah explains why it took her so long to apologize in pre-prison interview: 'I was absolutely in denial' - Yahoo Entertainment",
+            "description": "The \"Real Housewives of Salt Lake City\" star entered the FPC Bryan, in Bryan, Tex., on Friday.",
+            "url": "https://www.yahoo.com/entertainment/jen-shah-pre-prison-interview-apology-000635266.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/d8c78230-af0e-11ed-afd5-f1c8bfaa4567",
+            "publishedAt": "2023-02-18T00:06:00Z",
+            "content": "Jen Shah promotes The Real Housewives of Salt Lake City. (Photo: Chris Haston/Bravo via Getty Images)\r\nHours before reality TV star Jen Shahreported to federal prison on Friday, the Real Housewives o\u2026 [+3714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Liam Croft",
+            "title": "Hogwarts Legacy Team Confirms DLC Isn't Planned - Push Square",
+            "description": "Accio won't give it to you either",
+            "url": "https://www.pushsquare.com/news/2023/02/hogwarts-legacy-team-confirms-dlc-isnt-planned",
+            "urlToImage": "https://images.pushsquare.com/02442f168efa1/1280x720.jpg",
+            "publishedAt": "2023-02-18T00:00:00Z",
+            "content": "Hogwarts Legacy developer Avalanche Software has confirmed it doesn't have any post-launch DLC in the works for its wizarding simulator as of right now. Speaking with IGN, game director Alan Tew said\u2026 [+786 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
             },
             "author": null,
-            "title": "U.S. and China diplomats communicating - but not militaries, White House says - Reuters.com",
-            "description": "U.S. diplomatic communications with China remain open after the shooting down of a Chinese spy balloon this month, but contact between the countries' militaries \"unfortunately\" remains shut down, the White House said on Friday.",
-            "url": "https://www.reuters.com/world/us/us-china-military-unfortunately-not-communicating-white-house-2023-02-17/",
-            "urlToImage": "https://www.reuters.com/resizer/iO78-2mZaogDvCh2vDtjlUJKauM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/54ULOFUP2FIPBH6ZTU26Q2IP4U.jpg",
-            "publishedAt": "2023-02-17T21:15:00Z",
-            "content": "WASHINGTON, Feb 17 (Reuters) - U.S. diplomatic communications with China remain open after the shooting down of a Chinese spy balloon this month, but contact between the countries' militaries \"unfort\u2026 [+3346 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Los Angeles Times"
-            },
-            "author": "Richard Winton, Terry Castleman, Brittny Mejia, Sonja Sharp, Noah Goldberg",
-            "title": "Suspect in shootings of two Jewish men in L.A. is charged with federal hate crimes - Los Angeles Times",
-            "description": "Jaime Tran has a history of making antisemitic statements and is suspected of shooting two Jewish men in recent days, a criminal complaint said.",
-            "url": "https://www.latimes.com/california/story/2023-02-16/extra-security-added-for-synagogues-after-two-jewish-men-shot-in-pico-robertson-in-two-days",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/dd9397e/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa1%2F8a%2F11a1f2594c429c1b016e85db42ea%2F1257689-me-0217-hate-presser-1-rcg.jpg",
-            "publishedAt": "2023-02-17T20:52:00Z",
-            "content": "A man with a history of making antisemitic statements was charged Friday with federal hate crimes after he allegedly shot two Jewish men as they left religious services in Los Angeles in recent days.\u2026 [+5014 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Seattle Times"
-            },
-            "author": null,
-            "title": "UW study: Catching COVID gives protection from its worst effects - The Seattle Times",
-            "description": null,
-            "url": "https://www.seattletimes.com/seattle-news/health/catching-covid-gives-you-durable-protection-from-virus-but-for-how-long/",
-            "urlToImage": null,
-            "publishedAt": "2023-02-17T20:36:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Joseph Adinolfi",
-            "title": "Meme-stock era record falls: Retail traders dumped $1.5 billion a day into U.S. equities in January - MarketWatch",
-            "description": "Tesla, Amazon and the ARK Innovation ETF were among the favorites",
-            "url": "https://www.marketwatch.com/story/meme-stock-era-record-falls-retail-traders-dumped-1-5-billion-a-day-into-u-s-equities-in-january-d77c36f",
-            "urlToImage": "https://images.mktw.net/im-479171/social",
-            "publishedAt": "2023-02-17T20:20:00Z",
-            "content": "Retail traders bought up U.S. stocks at the fastest pace ever recorded in January, as inflows from traders using electronic brokerages surpassed the previous peak from the height of the meme-stock cr\u2026 [+3709 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "William Booth",
-            "title": "Why are the U.K. and E.U. still fighting over Brexit and Northern Ireland? - The Washington Post",
-            "description": "British Prime Minister Rishi Sunak traveled to Belfast amid speculation a deal could soon be struck to address objections.",
-            "url": "https://www.washingtonpost.com/world/2023/02/17/what-is-the-northern-ireland-protocol/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NKNDKTSCQUI6VGOHDX6UEQNC7Y.jpg&w=1440",
-            "publishedAt": "2023-02-17T20:19:29Z",
-            "content": "Comment on this story\r\nLONDON Remember Brexit? It appears that Brexit is never really done. Its more verb than noun. Leaving the European Union two years ago has proven a bit of a drag for Britain, e\u2026 [+1104 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "Safe to go home? Turkey's engineers seek answers in the earthquake damage - NPR",
-            "description": "NPR follows one of the hundreds of building inspectors in Turkey's earthquake zone to learn about the massive challenge of figuring how who can return to their homes.",
-            "url": "https://www.npr.org/2023/02/17/1157790902/turkey-earthquake-engineers-building-damage-inspectors",
-            "urlToImage": "https://media.npr.org/assets/img/2023/02/17/20230215-_dsc0549-edit_wide-36167ec232e28ecd223b190c81f26ee1403513c7-s1400-c100.jpg",
-            "publishedAt": "2023-02-17T20:08:10Z",
-            "content": "Yasin Pinarbasi walks into a building he inspected that suffered some earthquake damage, west of Antakya, Turkey.\r\nClaire Harbage/NPR\r\nSAMANDAG, Turkey Yasin Pinarbasi usually works in an office in t\u2026 [+7024 chars]"
+            "title": "Suit shows Fox hosts didn't believe election lies they aired - PBS NewsHour",
+            "description": "A new court filing shows top executives at Fox News and leading network personalities privately dismissed former President Trump\u2019s false claims of voter fraud after the election even as they peddled those same lies on TV. The filing is part of an ongoing defa\u2026",
+            "url": "https://www.pbs.org/newshour/show/lawsuit-filing-shows-fox-hosts-didnt-believe-election-fraud-lies-they-pushed-on-tv",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/02/screen-1024x683.jpg",
+            "publishedAt": "2023-02-17T23:45:52Z",
+            "content": "David Folkenflik:\r\nIt was feverishly anxious about this issue.\r\nAnd it raised fears inside. It raised vitriol inside, anger inside. You see that in a private message between Tucker Carlson and I beli\u2026 [+1136 chars]"
         }
     ]
 }
