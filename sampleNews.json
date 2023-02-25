@@ -1,175 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Florida TV journalist and child shot dead at scene of earlier murder - BBC",
-            "description": "The journalist had been covering the fatal shooting of a 20-year-old woman earlier that day.",
-            "url": "https://www.bbc.com/news/world-us-canada-64740209",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9878/production/_128723093_sheriffcar.jpg",
-            "publishedAt": "2023-02-23T11:39:25Z",
-            "content": "A TV reporter and a nine-year-old girl have been fatally shot near Orlando, Florida, close to the scene of a murder that took place hours earlier. \r\nA second reporter and the girl's mother were shot \u2026 [+3578 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Julia Horowitz",
-            "title": "Russia's economy is hurting despite Putin's bluster - CNN",
-            "description": "When Russia launched its full-scale invasion of Ukraine one year ago, Western countries hit back with unprecedented sanctions to punish Moscow and pile pressure on President Vladimir Putin. The aim: to deal an economic blow so severe that Putin would reconsid\u2026",
-            "url": "https://www.cnn.com/2023/02/22/business/russia-economy-ukraine-anniversary/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230221111511-russia-economy-021023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-23T11:00:00Z",
-            "content": "When Russia launched its full-scale invasion of Ukraine one year ago, Western countries hit back with unprecedented sanctions to punish Moscow and pile pressure on President Vladimir Putin. The aim: \u2026 [+8338 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Emily Farache",
-            "title": "The 'next Ozempic' became a social media sensation. Then everything changed - The Independent",
-            "description": "When Mounjaro came on the market, TikTok went wild. People with obesity ordered the drug in droves thanks to a coupon that allowed them to access it for just $25 a month. Then the coupon went away, leaving destruction in its wake \u2014 and obese patients warring \u2026",
-            "url": "https://www.independent.co.uk/news/world/americas/ozempic-mounjaro-side-effects-diabetes-weight-loss-b2288015.html",
-            "urlToImage": "https://static.independent.co.uk/2023/02/22/18/GettyImages-1245721969.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-02-23T10:55:39Z",
-            "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nKay thought shed finally made it.\r\nAfter years of diets, exercise routi\u2026 [+10766 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/mariella-moon",
-            "title": "James Webb telescope captures ancient galaxies that theoretically shouldn't exist | Engadget - Engadget",
-            "description": "Scientists found ancient galaxies as big as ours that should not exist, based on current cosmological theory..",
-            "url": "https://www.engadget.com/james-webb-telescope-ancient-galaxies-theoretically-should-not-exist-102034475.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/UNCeS4L7v6IvPtm.9qNtiQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/85636fd0-b352-11ed-a6f8-93d9a57b4b8b.cf.jpg",
-            "publishedAt": "2023-02-23T10:21:25Z",
-            "content": "The James Webb Telescope has been giving us clearer views of celestial objects and exposing hidden features since it became operational last year. Now, according to a study conducted by an internatio\u2026 [+2400 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "2 former House GOP candidates alerted to improper requests for Air Force records - POLITICO",
-            "description": "Sam Peters and Kevin Dellicker are the fourth and fifth known recipients of letters regarding the records releases, which have sparked an investigation by House Republicans.",
-            "url": "https://www.politico.com/news/2023/02/23/house-gop-candidates-air-force-records-00084053",
-            "urlToImage": "https://static.politico.com/80/ac/0c372d424ac6862a803b1f737313/election-2022-nevada-house-21242.jpg",
-            "publishedAt": "2023-02-23T09:30:00Z",
-            "content": "Peters and Dellicker are the fourth and fifth known recipients of Air Force letters regarding the records releases, which have sparked an investigation by House Republicans. They are joining Reps. Do\u2026 [+4867 chars]"
+            "title": "Estimated animal death toll from Ohio train derailment tops 43,700 as time frame for environmental recovery remains uncertain, officials say - CBS News",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-1374899709:1677200994375930&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiuAFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9uZXdzL29oaW8tdHJhaW4tZGVyYWlsbWVudC1iZWxpZXZlZC10by1oYXZlLWtpbGxlZC1tb3JlLXRoYW4tNDM3MDAtYW5pbWFscy1hcy1vZmZpY2lhbHMtc2F5LXRoZXktZG9udC1rbm93LWhvdy1sb25nLWl0LXdpbGwtdGFrZS1mb3ItdGhlLWVudmlyb25tZW50LXRvLXJlY292ZXIv0gG8AWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL29oaW8tdHJhaW4tZGVyYWlsbWVudC1iZWxpZXZlZC10by1oYXZlLWtpbGxlZC1tb3JlLXRoYW4tNDM3MDAtYW5pbWFscy1hcy1vZmZpY2lhbHMtc2F5LXRoZXktZG9udC1rbm93LWhvdy1sb25nLWl0LXdpbGwtdGFrZS1mb3ItdGhlLWVudmlyb25tZW50LXRvLXJlY292ZXIv%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHejdmrsUk21kajVcPxHgRA8yy76qEBuaLyaajX1mPtqt71mFmKnzI_YqpLi-FQCgqhrx28qow",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T00:33:00Z",
+            "content": "Not your computer? Use Private Browsing windows to sign in. Learn more"
         },
         {
             "source": {
-                "id": null,
-                "name": "CBS Sports"
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "Alabama Crimson Tide vs. South Carolina Gamecocks Live Score and Stats - February 22, 2023 Gametracker - CBS Sports",
-            "description": "Get real-time COLLEGEBASKETBALL basketball coverage and scores as Alabama Crimson Tide takes on South Carolina Gamecocks. We bring you the latest game previews, live stats, and recaps on CBSSports.com",
-            "url": "https://www.cbssports.com/college-basketball/gametracker/recap/NCAAB_20230222_BAMA@SC/",
-            "urlToImage": "https://sportsfly.cbsistatic.com/fly-0411/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
-            "publishedAt": "2023-02-23T09:27:49Z",
-            "content": "COLUMBIA, S.C. (AP) Brandon Miller found a safe spot on the basketball court and put up his career-best showing to rescue No. 2 Alabama.\r\nMiller scored a career-high 41 points, including the go-ahead\u2026 [+4035 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Deep Earthquakes Reveal Shocking Secrets of the Inner Earth - SciTechDaily",
-            "description": "350-mile-deep earthquake used in scientific study to make elusive measurements of the Earth\u2019s layers. There may be a layer of surprisingly fluid rock ringing the Earth, at the very bottom of the upper mantle, according to a new study from a University of Chic\u2026",
-            "url": "https://scitechdaily.com/deep-earthquakes-reveal-shocking-secrets-of-the-inner-earth/",
-            "urlToImage": "https://scitechdaily.com/images/Earth-Core-Structure.jpg",
-            "publishedAt": "2023-02-23T09:14:11Z",
-            "content": "ByLouise Lerner, University of ChicagoFebruary 23, 2023\r\nA new study led by University of Chicago geophysicist Sunyoung Park suggests there may be a layer of surprisingly fluid rock located in the Ea\u2026 [+6392 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aya Elamroussi",
-            "title": "6 takeaways from CNN town hall on toxic train disaster in East Palestine, Ohio - CNN",
-            "description": "Residents of a small Ohio town whose lives have been upended since a train hauling toxic chemicals derailed there earlier this month pressed top officials on the long-term health concerns and expressed their mounting distrust Wednesday night during a CNN town\u2026",
-            "url": "https://www.cnn.com/2023/02/23/us/ohio-train-derailment-east-palestine-townhall-takeaways/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230223104447-02-toxic-train-disaster-town-hall.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-23T09:02:00Z",
-            "content": "Residents of a small Ohio town whose lives have been upended since a train hauling toxic chemicals derailed there earlier this month pressed top officials on the long-term health concerns and express\u2026 [+9368 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "Jack Schickler",
-            "title": "SEC Objects to Binance.US\u2019 $1B Voyager Deal, Alleging Sale of Unregistered Securities - CoinDesk",
-            "description": "Federal and New York regulators object to a billion-dollar deal they say may be unlawful and discriminatory as they examine Voyager's VGX token.",
-            "url": "https://www.coindesk.com/policy/2023/02/23/sec-objects-to-binanceus-1b-voyager-deal-alleging-sale-of-unregistered-securities/",
-            "urlToImage": "https://www.coindesk.com/resizer/rtC50yxf-vJwbinrr60l3p5C22k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5WP6PJ422VAODJOUKHGCQDWL2M.jpg",
-            "publishedAt": "2023-02-23T09:01:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "The Associated Press",
-            "title": "In Russia-Ukraine war, more disastrous path could lie ahead - The Associated Press - en Espa\u00f1ol",
-            "description": "For Russia, it's been a year  of bold charges and bombardments, humiliating retreats and grinding sieges. Ukraine has countered with fierce resistance, surprising counteroffensives and unexpected hit-and-run strikes.",
-            "url": "https://apnews.com/article/russia-ukraine-war-what-lies-ahead-49dbadd8959284729b74b26b7db78fc1",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c74f095b14c04a63819df3acfc048a9b/2500.jpeg",
-            "publishedAt": "2023-02-23T08:16:24Z",
-            "content": "For Russia, its been a year of bold charges and bombardments, humiliating retreats and grinding sieges. Ukraine has countered with fierce resistance, surprising counteroffensives and unexpected hit-a\u2026 [+8065 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Kelly Gilmore",
-            "title": "Eric Holder Jr. Sentenced to 60 Years to Life in Prison for Nipsey Hussle Murder - E! NEWS",
-            "description": "In the case of Nipsey Hussle\u2019s 2019 murder, Eric Holder Jr. was sentenced to 60 years to life in prison on Feb. 22. Learn about the late rapper\u2019s tragic death.",
-            "url": "https://www.eonline.com/news/1365811/eric-holder-jr-sentenced-to-60-years-to-life-in-prison-for-nipsey-hussle-murder",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023122/rs_1200x1200-230222144921-1200-nipsey-hussle.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-02-23T08:07:58Z",
-            "content": "Eric Holder Jr. has learned his fate.\u00a0\r\nNearly four years after Nipsey Husslewas killed during a shooting outside his Los Angeles clothing store,\u00a0Holder was sentenced on Feb. 22 to 60 years to life i\u2026 [+624 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "On eve of Ukraine war anniversary, Putin talks of boosting nuclear forces - Reuters",
-            "description": "President Vladimir Putin said Russia will maintain increased attention on <a href=\"/world/europe/putin-russia-pay-increased-attention-boosting-nuclear-forces-2023-02-22/\">boosting its nuclear forces</a> in an address to mark Thursday's Defender of the Fatherl\u2026",
-            "url": "https://www.reuters.com/world/europe/biden-putin-display-their-alliances-with-ukraine-war-backdrop-2023-02-22/",
-            "urlToImage": "https://www.reuters.com/resizer/RawR53osey3h9BCUwPYzDef_b1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U2BGAD5EIRPLLM6RE227J42BQY.jpg",
-            "publishedAt": "2023-02-23T05:44:00Z",
-            "content": "Feb 23 (Reuters) - President Vladimir Putin said Russia will maintain increased attention on boosting its nuclear forces in an address to mark Thursday's Defender of the Fatherland public holiday and\u2026 [+5030 chars]"
+            "title": "Russia-Ukraine war live: \u2018we will rebuild\u2019 says Zelenskiy on anniversary of invasion; China abstains from UN vote on Russian withdrawal - The Guardian",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S1141866464:1677200036941141&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMieGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9saXZlLzIwMjMvZmViLzI0L3J1c3NpYS11a3JhaW5lLXdhci1saXZlLXVwZGF0ZXMtb25lLXllYXItYW5uaXZlcnNhcnktcnVzc2lhbi1pbnZhc2lvbtIBeGh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9saXZlLzIwMjMvZmViLzI0L3J1c3NpYS11a3JhaW5lLXdhci1saXZlLXVwZGF0ZXMtb25lLXllYXItYW5uaXZlcnNhcnktcnVzc2lhbi1pbnZhc2lvbg%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHczEyahVQSQWhoOsNyLrl7BwgCJ5LfIhIZ37SdgKuqQZdVxyaJ_i2iJBDupZv5UL5pCpwgIHQ",
+            "urlToImage": null,
+            "publishedAt": "2023-02-24T00:24:03Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Ari Schneider",
-            "title": "Colorado Springs shooter ran neo-Nazi site, detective testifies - The Washington Post",
-            "description": "Anderson Lee Aldrich was captured on surveillance footage storming into Club Q \u2013 a haven for the LGBTQ community \u2013 in November.",
-            "url": "https://www.washingtonpost.com/nation/2023/02/22/colorado-springs-shooter-nazi-club-q/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LXMQGVSOAI63FFAKEUVJV2XCY_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-02-23T05:32:00Z",
-            "content": "Comment on this story\r\nProsecutors began building their case Wednesday for charging the suspected Colorado Springs nightclub shooter with dozens of hate crimes by describing how the alleged assailant\u2026 [+3846 chars]"
+            "author": "Nicki Jhabvala",
+            "title": "Eric Bieniemy brings the Commanders a new scheme and \u2018championship caliber\u2019 - The Washington Post",
+            "description": "Bieniemy comes to the Commanders after 10 seasons with the Kansas City Chiefs, on the heels of a Super Bowl win.",
+            "url": "https://www.washingtonpost.com/sports/2023/02/23/eric-bieniemy-commanders-offense/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ZVNEM75GHL3OAKW5VSDRXJQKA.JPG&w=1440",
+            "publishedAt": "2023-02-24T00:24:00Z",
+            "content": "Comment on this story\r\nEric Bieniemy dressed for the occasion a three-piece gray suit with a burgundy tie but left his most valuable accessory at home. He wore the 255-diamond ring that commemorated \u2026 [+5904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Althea Legaspi",
+            "title": "R. Kelly Sentenced to One Additional Year in Prison for Federal Child Pornography Trial - Rolling Stone",
+            "description": "Judge tacks on one-year sentence to be served following the 30-year prison term Kelly received at his New York trial",
+            "url": "https://www.rollingstone.com/music/music-news/r-kelly-sentenced-federal-child-pornography-trial-1234685009/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/02/RKellySentencing.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-02-23T23:54:52Z",
+            "content": "Chicago, IL\u00a0\u00ad\u2014 R. Kelly was sentenced to only one additional\u00a0year in prison over federal child pornography charges in Chicago on Thursday. Last September, a federal jury convicted the disgraced singe\u2026 [+8175 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Emily Selleck",
+            "title": "Selena Gomez takes social media break amid Hailey Bieber drama - Page Six",
+            "description": "\u201cAnd yeah, I\u2019m\u00a0gonna be taking a second from social media \u2019cause this is a little silly and I\u2019m 30. I\u2019m too old for this,\u201d the actress said Thursday.",
+            "url": "https://pagesix.com/2023/02/23/selena-gomez-takes-social-media-break-amid-hailey-bieber-drama/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/02/NYPICHPDPICT000007139227.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-02-23T23:32:00Z",
+            "content": "Selena Gomez is leaving social media for now at least. \r\nThe Disney Channel alum, 30, has been getting busy online in recent days: sharing sultry snaps, commenting on a resurfaced video of Hailey Bie\u2026 [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "South Carolina lawyer Alex Murdaugh admits lying, denies guilt at murder trial - Reuters",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-502600019:1677200994044382&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL2Rpc2dyYWNlZC1mb3JtZXItc291dGgtY2Fyb2xpbmEtbGF3eWVyLXRha2VzLXN0YW5kLWRvdWJsZS1tdXJkZXItdHJpYWwtMjAyMy0wMi0yMy_SAQA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHdBjPdekfo7jXdC7bT10NAkISLlMwLYFT-nwLGTcDSk8vrk47z7KFVMy_AdX49iKFl5upBH",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T23:18:00Z",
+            "content": "Not your computer? Use Guest mode to sign in privately. Learn more"
         },
         {
             "source": {
@@ -177,90 +86,181 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Prince Harry and Meghan Markle are a 'phoney pair': Megyn Kelly - Sky News Australia",
-            "description": "The Megyn Kelly Show host Megyn Kelly says Prince Harry and Meghan Markle are a \u201cphoney pair\u201d and only have themselves to blame for becoming an \u201cinternationa...",
-            "url": "https://www.youtube.com/watch?v=gLvTZ9FotM4",
-            "urlToImage": "https://i.ytimg.com/vi/gLvTZ9FotM4/maxresdefault.jpg",
-            "publishedAt": "2023-02-23T05:29:50Z",
+            "title": "Jason Cundy & Jamie O'Hara react as Man Utd beat Barcelona 2-1! - talkSPORT",
+            "description": "Manchester United made it through to the last 16 of the Europa League after beating Barcelona 2-1 (4-3 agg) to progress!Enjoyed this YouTube video? \ud83d\ude0d Subscr...",
+            "url": "https://www.youtube.com/watch?v=W85PRyiimpo",
+            "urlToImage": "https://i.ytimg.com/vi/W85PRyiimpo/maxresdefault.jpg",
+            "publishedAt": "2023-02-23T23:10:40Z",
             "content": null
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Israel attacks Gaza after rocket fire, deadly Nablus raid - Al Jazeera English",
-            "description": "Israel attacks Gaza as tensions rise over an Israeli raid on the West Bank city of Nablus that killed 11 Palestinians.",
-            "url": "https://www.aljazeera.com/news/2023/2/23/rockets-fired-from-gaza-towards-israel-after-nablus-raid",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/339U4YY-highres-1.jpg?resize=1200%2C675",
-            "publishedAt": "2023-02-23T05:26:17Z",
-            "content": "Israel has bombed the Gaza Strip after Palestinian fighters launched several rockets from the besieged coastal enclave amid tensions over an Israeli raid that killed at least 11 Palestinians in the o\u2026 [+5180 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "profootballrumors.com"
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "Titans Release LT Taylor Lewan - profootballrumors.com",
-            "description": "The Titans are following through with their expected Taylor Lewan release. After nine seasons in Tennessee, the Pro Bowl left &hellip;",
-            "url": "https://www.profootballrumors.com/2023/02/titans-to-release-lt-taylor-lewan",
-            "urlToImage": "https://cdn.profootballrumors.com/files/2023/02/USATSI_17450040-1024x768.jpg",
-            "publishedAt": "2023-02-23T04:28:00Z",
-            "content": "The Titans are following through with their expected Taylor Lewan release. After nine seasons in Tennessee, the Pro Bowl left tackle announced (via his Bussin\u2019 With The Boys podcast, on Twitter) he i\u2026 [+2657 chars]"
+            "title": "Fox News Poll: Half say US should support Ukraine as long as it takes - Fox News",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S587970987:1677200994878225&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiaGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL29mZmljaWFsLXBvbGxzL2ZveC1uZXdzLXBvbGwtaGFsZi1zYXktdXMtc2hvdWxkLXN1cHBvcnQtdWtyYWluZS1sb25nLWFzLWl0LXRha2Vz0gFsaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vb2ZmaWNpYWwtcG9sbHMvZm94LW5ld3MtcG9sbC1oYWxmLXNheS11cy1zaG91bGQtc3VwcG9ydC11a3JhaW5lLWxvbmctYXMtaXQtdGFrZXMuYW1w%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHePy2Q2f5C-Qig5AlYZHas5jV0NMhdt3suZ4BpNlnuOqpB0t-Yg7AqDVpUS24yZSDsuHjYUBw",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T23:00:00Z",
+            "content": "Not your computer? Use Guest mode to sign in privately. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Bankman-Fried faces more criminal charges, allegedly hid political donations - Reuters",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-1374899709:1677200995391467&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMibWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL25ldy1pbmRpY3RtZW50LXVuc2VhbGVkLWFnYWluc3QtYmFua21hbi1mcmllZC1jb250YWluaW5nLTEyLWNoYXJnZXMtMjAyMy0wMi0yMy_SAQA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHdgbz4-HH30SPeXITNyai-k-5pqjAS5ajYxuJgPboJHLaDAdtuT4qEztnJsyan7ekBSLFkEeA",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T22:52:00Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "81% of international flights into NYC had SARS-CoV-2 in waste, small trial finds - Ars Technica",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-2080331149:1677200038103147&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMid2h0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NjaWVuY2UvMjAyMy8wMi84MS1vZi1pbnRlcm5hdGlvbmFsLWZsaWdodHMtaW50by1ueWMtaGFkLXNhcnMtY292LTItaW4td2FzdGUtc21hbGwtdHJpYWwtZmluZHMv0gF7aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20vc2NpZW5jZS8yMDIzLzAyLzgxLW9mLWludGVybmF0aW9uYWwtZmxpZ2h0cy1pbnRvLW55Yy1oYWQtc2Fycy1jb3YtMi1pbi13YXN0ZS1zbWFsbC10cmlhbC1maW5kcy9hbXAv%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHfGCn9ZzDe9dCCfCqbJC1nquD0RKkmgph6EPoXkF81ioGZvuXI-LUADbJRvdphQNZkuJXNc",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T22:47:25Z",
+            "content": "Not your computer? Use InPrivate windows to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "Two million Cosori air fryers sold at Amazon.com, Target and other retailers recalled over burn and fire safety hazards - CBS News",
+            "description": "The appliances were sold at retailers including Amazon.com, Best Buy, Home Depot and Target from 2018 through 2022.",
+            "url": "https://www.cbsnews.com/news/cosori-air-fryer-recall/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/23/dff46f8b-1172-4fcb-b1a2-2335a7b3f4a0/thumbnail/1200x630/b54e54ee696aedafbf8da9d675bdc610/screen-shot-2023-02-23-at-10-28-56-am.png",
+            "publishedAt": "2023-02-23T22:39:00Z",
+            "content": "Popular kitchen appliances brand Cosori is recalling two million air-fryers after receiving 205 reports of the air fryers catching fire, burning, melting, overheating and smoking. Resulting injuries \u2026 [+1630 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "David Zaslav wants you to know the Warner Bros. Discovery merger \u201cis working\u201d - The Verge",
+            "description": "Warner Bros. Discovery added just 1.1 billion subscribers across HBO, HBO Max, and Discovery Plus, while CEO David Zaslav touts the megamerger\u2019s success.",
+            "url": "https://www.theverge.com/2023/2/23/23612502/warner-bros-discovery-david-zaslav-earnings-hbo-max",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/uCrblo82tHifOGuRxwP6gbz1Mhk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23924071/acastro_STK055_05.jpg",
+            "publishedAt": "2023-02-23T22:37:02Z",
+            "content": "David Zaslav wants you to know the Warner Bros. Discovery merger is working\r\nDavid Zaslav wants you to know the Warner Bros. Discovery merger is working\r\n / The company lost a total of $2.1 billion a\u2026 [+2512 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "New \u2018Lord of the Rings\u2019 Movies Set at Warner Bros. - Variety",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S1074392700:1677192989593993&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiV2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy9maWxtL25ld3MvbG9yZC1vZi10aGUtcmluZ3MtbmV3LW1vdmllcy13YXJuZXItYnJvcy0xMjM1NTMzNjcyL9IBW2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy9maWxtL25ld3MvbG9yZC1vZi10aGUtcmluZ3MtbmV3LW1vdmllcy13YXJuZXItYnJvcy0xMjM1NTMzNjcyL2FtcC8%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHdptos7Gc0i3S525UAiBBT4HzuOmdu3t7tdOXacPj0-7NXV_XmpcY4g5wLN24qC0-T-jNHXQw",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T21:50:00Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Sony State of Play February 2023: Everything Announced - IGN",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-1610302172:1677192721715068&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiUmh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvc29ueS1zdGF0ZS1vZi1wbGF5LWZlYnJ1YXJ5LTIwMjMtZXZlcnl0aGluZy1hbm5vdW5jZWTSAQA%3Foc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHc9lA1u5dm-JYAhxp5Ky2uF5K6LPJOyJfeXapedFYOKh5GAtHHsoANKDIAh6XHB04X79r8KDA",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T21:47:04Z",
+            "content": "Not your computer? Use Private Browsing windows to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Alec Baldwin pleads not guilty to all charges in 'Rust' case - CNN",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-1761600454:1677200036591052&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yMy9lbnRlcnRhaW5tZW50L2FsZWMtYmFsZHdpbi1ub3QtZ3VpbHR5LXBsZWEvaW5kZXguaHRtbNIBWGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMDIvMjMvZW50ZXJ0YWlubWVudC9hbGVjLWJhbGR3aW4tbm90LWd1aWx0eS1wbGVhL2luZGV4Lmh0bWw%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHcTFhQgepUXLU0qdRWXCtmBHjI9ULsnUcNydXroda5oi0s-QihHkyWtMWxH1MTMv-hyQvku-w",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T21:44:00Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Top EU bodies, citing security, ban TikTok on staff phones - Reuters",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S738946451:1677200036865780&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZXUtY29tbWlzc2lvbi1zdGFmZi10b2xkLXJlbW92ZS10aWt0b2stcGhvbmVzLWV1LWluZHVzdHJ5LWNoaWVmLXNheXMtMjAyMy0wMi0yMy_SAQA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHfgwi_s14e4Oph77XC1XLAPEKM9Wng8SKR3w9mjFx-ZIy3M7cf_-t-giPHCMzGbFuoVe86Wqg",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T21:42:00Z",
+            "content": "Not your computer? Use Private Browsing windows to sign in. Learn more"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "YouTube"
             },
-            "author": "Alex Port\u00e9e",
-            "title": "Jennifer Lopez wishes her twins a happy 15th birthday with sweet video - Yahoo News",
-            "description": "Jennifer Lopez celebrates her twins with sweet message and nickname of \"coconuts\" on their 15th birthday",
-            "url": "https://news.yahoo.com/jennifer-lopez-wishes-her-twins-041254061.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/K7g0FVSsDHbX6pAg1geP_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/nbc_today_217/7b35c6350ba48a41dac70dda2b70f7e7",
-            "publishedAt": "2023-02-23T04:12:00Z",
-            "content": "Jennifer Lopez is celebrating her favorite \"coconuts\" aka her twins.\r\nThe Shotgun Wedding actor and singer took to Instagram on Feb. 22 to ring in a new era for her twins, Emme and Max Mu\u00f1iz, who hav\u2026 [+2077 chars]"
+            "author": null,
+            "title": "Harvey Weinstein sentenced to an additional 16 years in prison - NBC News",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7Z0YHJ1wOhE",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T21:30:00Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "ESPN"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Caitlin Murray",
-            "title": "USWNT wins SheBelieves Cup, but still concerns for World Cup - ESPN",
-            "description": "The USWNT's results at the SheBelieves Cup couldn't have been better: three games and three wins. But the performances weren't as reassuring.",
-            "url": "https://www.espn.com/soccer/united-states-usaw/story/4883339/uswnt-wins-shebelieves-cup-but-still-concerns-for-world-cup",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0223%2Fr1135097_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-02-23T03:06:49Z",
-            "content": "The U.S. women's national team claimed its sixth SheBelieves Cup trophy with a 2-1 win over Brazil on Wednesday.\r\nGoals from Alex Morgan and Mallory Swanson, who was named tournament MVP, put the Ame\u2026 [+12042 chars]"
+            "author": null,
+            "title": "Boeing temporarily halts delivery of 787 Dreamliners over fuselage issue - CNBC",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S1762606095:1677192725055685&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMibWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMjMvYm9laW5nLXRlbXBvcmFyaWx5LWhhbHRzLWRlbGl2ZXJ5LW9mLTc4Ny1kcmVhbWxpbmVycy1vdmVyLWZ1c2VsYWdlLWlzc3VlLmh0bWzSAXFodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wMi8yMy9ib2VpbmctdGVtcG9yYXJpbHktaGFsdHMtZGVsaXZlcnktb2YtNzg3LWRyZWFtbGluZXJzLW92ZXItZnVzZWxhZ2UtaXNzdWUuaHRtbA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHe3HdmOjqjYR6RkBRm1KWhJrTN6D_Z7RaSHufXJt14LQ8QQLm384BsaWp3aQqQK1FnWlHhD",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T21:17:47Z",
+            "content": "Not your computer? Use Private Browsing windows to sign in. Learn more"
         },
         {
             "source": {
-                "id": null,
-                "name": "NPR"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "",
-            "title": "Unlikely alliances in Supreme Court opinions on overtime, death penalty - NPR",
-            "description": "The cases involved who qualifies for overtime pay, and Arizona's refusal to apply a Supreme Court precedent in death penalty jury instructions.",
-            "url": "https://www.npr.org/2023/02/22/1158903079/unlikely-alliances-in-supreme-court-opinions-on-overtime-death-penalty",
-            "urlToImage": "https://media.npr.org/assets/img/2023/02/22/gettyimages-1243795466-2-_wide-a55646dc09e9ff2cd1a91e9b8a9a53983faff6b4-s1400-c100.jpg",
-            "publishedAt": "2023-02-23T02:14:43Z",
-            "content": "Justices of the U.S. Supreme Court\r\nOlivier Douliery /AFP via Getty Images\r\nThe U.S. Supreme Court defied its usual 6-to-3 conservative/liberal split in two decisions on Wednesday. One involved who q\u2026 [+3593 chars]"
+            "author": null,
+            "title": "Over a Billion Galaxies Shine in New Sky Map - Gizmodo",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S-1475608496:1677192722475689&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiSGh0dHBzOi8vZ2l6bW9kby5jb20vYmlsbGlvbi1nYWxheGllcy1kZXNpLXNreS1tYXAtZGFyay1lbmVyZ3ktMTg1MDE1MDc1NNIBAA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWnogHcXVaZ2VvjJzVbLFkNrytp76zKIkji9Z5Pv-uX90WX7EUo9xTO35S-OBVTmCbM79tFYrSVCDg",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T20:47:00Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
         },
         {
             "source": {
-                "id": null,
-                "name": "Los Angeles Times"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Grace Toohey",
-            "title": "Mt. Baldy could get 8 feet of snow this week - Los Angeles Times",
-            "description": "Forecasts show Southern California mountains could get 6 inches to 5 feet of snow by Saturday, but some of the highest peaks could get up to 8 feet.",
-            "url": "https://www.latimes.com/california/story/2023-02-22/mt-baldy-could-get-up-to-8-feet-of-snow-this-week",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/a057804/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7c%2Fa2%2Faa66f7dc4c819ea3d5a8fe811350%2Fla-hm-chris-erskine-mt-baldy-postcard.jpg",
-            "publishedAt": "2023-02-23T02:08:00Z",
-            "content": "Mt. Baldy could get up to 8 feet of snow or more this week from the likely historic winter storm expected to dump rain and snow and bring strong winds across Southern California.\r\nLos Angeles Countys\u2026 [+1675 chars]"
+            "author": null,
+            "title": "Trump may be questioned in lawsuits by ex-FBI employees - The Washington Post",
+            "description": "",
+            "url": "https://accounts.google.com/v3/signin/identifier?dsh=S1376594321:1677186211240098&amp%3Bcontinue=https:%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiTWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDIzLzAyLzIzL3RydW1wLWRlcG9zZWQtZmJpLWxhd3N1aXQv0gEA%3Foc%3D5&amp%3Bgae=cb-&hl=en-US&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHfXYOjtdpjxsicYgUkCS-aP4TJV1LAUQ_-gNjbQfHqeusJAGG-rU8EXSr4dr6DYsectxpSt",
+            "urlToImage": null,
+            "publishedAt": "2023-02-23T20:32:55Z",
+            "content": "Not your computer? Use a Private Window to sign in. Learn more"
         }
     ]
 }
