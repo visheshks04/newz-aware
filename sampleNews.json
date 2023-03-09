@@ -1,214 +1,136 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 34,
     "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Studying Ukraine war, China's military minds fret over US missiles, Starlink - Reuters",
+            "description": "China needs the capability to shoot down low-earth-orbit <a href=\"/technology/musk-will-keep-funding-ukraine-even-though-starlink-is-losing-money-2022-10-15/\">Starlink</a> satellites and defend tanks and helicopters against shoulder-fired Javelin missiles, ac\u2026",
+            "url": "https://www.reuters.com/world/studying-ukraine-war-chinas-military-minds-fret-over-us-missiles-starlink-2023-03-08/",
+            "urlToImage": "https://www.reuters.com/resizer/WPPpEna7GA6hQS3KeafnSRMP_dM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3T4ZUMZ3U5LL5ETILC6GXXMCNA.jpg",
+            "publishedAt": "2023-03-08T02:35:00Z",
+            "content": "BEIJING/HONG KONG, March 8 (Reuters) - China needs the capability to shoot down low-earth-orbit Starlink satellites and defend tanks and helicopters against shoulder-fired Javelin missiles, according\u2026 [+9499 chars]"
+        },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Pierre Bairin, Aurore Laborie, Hanna Ziady",
-            "title": "French oil refineries blockaded as workers protest against pension reforms - CNN",
-            "description": "Oil refineries across France were blockaded Tuesday by workers taking part in a sixth mass protest this year against government plans to raise the retirement age.",
-            "url": "https://www.cnn.com/2023/03/07/economy/france-pension-reform-strikes/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230307101844-02-france-pension-reform-strikes-030723.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-07T12:21:00Z",
-            "content": "Oil refineries across France were blockaded Tuesday by workers taking part in a sixth mass protest this year against government plans to raise the retirement age. \r\nSchools, airports and trains were \u2026 [+2849 chars]"
+            "author": "Shania Shelton",
+            "title": "Oklahoma voters will reject legalization of recreational marijuana, CNN projects - CNN",
+            "description": "Voters in Oklahoma will reject a ballot measure that would have legalized recreational marijuana in the state for adults ages 21 and older, CNN projects.",
+            "url": "https://www.cnn.com/2023/03/07/politics/oklahoma-marijuana-legalization-special-election/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230307123953-election-2023-oklahoma-marijuana.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-08T02:18:00Z",
+            "content": "Voters in Oklahoma will reject a ballot measure that would have legalized recreational marijuana in the state for adults ages 21 and older, CNN projects. \r\nThe ballot measure at stake in Tuesdays spe\u2026 [+3068 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "William Langley",
+            "title": "Live news: Asia-Pacific stocks decline after Powell rate rise comments - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the world\u02bcs leading global business publication",
+            "url": "https://www.ft.com/content/163c0377-6488-4c6e-99b9-a81430e7e916",
+            "urlToImage": null,
+            "publishedAt": "2023-03-08T02:14:22Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hannah Rabinowitz, Marshall Cohen",
+            "title": "What to know about the Tucker Carlson January 6 footage - CNN",
+            "description": "Fox News host Tucker Carlson aired newly released footage on his show Monday from the January 6, 2021, US Capitol attack, that included images of the rioter known as the \"QAnon Shaman,\" as well as of Capitol Police Officer Brian Sicknick, who died following t\u2026",
+            "url": "https://www.cnn.com/2023/03/06/politics/tucker-carlson-january-6-footage/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230307124332-capitol-january-6-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-08T01:47:00Z",
+            "content": "Fox News host Tucker Carlson aired newly released footage on his show Monday from the January 6, 2021, US Capitol attack, that included images of the rioter known as the QAnon Shaman, as well as of C\u2026 [+8803 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Oliver Darcy, Jon Passantino, Marshall Cohen, Nicki Brown, Kate Trafecante, Anna Bahney",
+            "title": "Fox Chairman Rupert Murdoch rejected election conspiracy theories, Dominion lawsuit documents show - CNN",
+            "description": "A trove of text messages, emails, and other material from Fox News executives and on-air personalities were made public Tuesday as part of Dominion Voting Systems' $1.6 billion defamation lawsuit against the right-wing channel.",
+            "url": "https://www.cnn.com/2023/03/07/media/fox-news-dominion-lawsuit/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230302103037-fox-news-channel-sign-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-08T01:42:00Z",
+            "content": "A trove of text messages, emails, and other material from Fox News executives and on-air personalities were made public Tuesday as part of Dominion Voting Systems $1.6 billion defamation lawsuit agai\u2026 [+11680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX 5 Atlanta"
+            },
+            "author": "FOX 5 Atlanta",
+            "title": "'No foul' play in death of Georgia man found wrapped in rug in Baton Rouge - FOX 5 Atlanta",
+            "description": "Investigators in Baton Rouge want to talk to the person who may have been the last to see 42-year-old Nathan Millard man alive.",
+            "url": "https://www.fox5atlanta.com/news/nathan-millard-missing-georgia-man-found-dead-baton-rouge",
+            "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/03/1280/720/DB19EEF414296BBA9FFEDE4C20385DFD.jpg?ve=1&tl=1",
+            "publishedAt": "2023-03-08T01:11:22Z",
+            "content": "BATON ROUGE, Ga. - Investigators in Baton Rouge want to talk to the person who may have been the last to see a 42-year-old Georgia man alive.\r\nThe body of Nathan Millard, a Covington resident, was fo\u2026 [+4763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "James Olley",
+            "title": "Dortmund's Bellingham calls Chelsea penalty retake 'a joke' - ESPN",
+            "description": "Borussia Dortmund midfielder Jude Bellingham called Chelsea's retaken penalty, which knocked his team out of the Champions League, a \"joke.\"",
+            "url": "https://www.espn.com/soccer/uefa-champions-league/story/4895648/dortmunds-bellingham-calls-chelsea-penalty-retake-a-joke",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0307%2Fr1141175_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-03-08T00:50:58Z",
+            "content": "Borussia Dortmund midfielder Jude Bellingham called Chelsea's retaken penalty, which knocked his team out of the Champions League on Tuesday, a \"joke.\"\r\nThe round-of-16 second leg at Stamford Bridge \u2026 [+2216 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Melissa Repko",
-            "title": "Best Buy will set up in-home hospital care through a new deal with Atrium Health - CNBC",
-            "description": "The retailer is expanding its health-care business as sales of other consumer electronics slow.",
-            "url": "https://www.cnbc.com/2023/03/07/best-buy-atrium-health-in-home-hospital-care.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107203714-1678122498724-FY23_GS_Device_Diagnostic_and_Repair_153-1280x1280.jpeg?v=1678186801&w=1920&h=1080",
-            "publishedAt": "2023-03-07T11:00:01Z",
-            "content": "Best Buy is best known for installing TVs and home theater systems. Now, its Geek Squad is helping to set up virtual hospital rooms.\r\nThe consumer electronics retailer said Tuesday it has struck a th\u2026 [+3957 chars]"
+            "author": "Lauren Feiner, Christina Wilkie",
+            "title": "White House endorses new Senate TikTok bill, urges Congress to pass it 'quickly' - CNBC",
+            "description": "The White House threw its support behind a new bipartisan Senate bill that would give the Biden administration the power to ban TikTok in the U.S.",
+            "url": "https://www.cnbc.com/2023/03/07/white-house-endorses-senate-tiktok-bill-urges-congress-to-pass-soon.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107204722-16782282862023-03-07t221040z_258705941_rc24pz9goznb_rtrmadp_0_usa-china-tiktok.jpeg?v=1678236561&w=1920&h=1080",
+            "publishedAt": "2023-03-08T00:49:00Z",
+            "content": "The White House threw its support behind a new bipartisan Senate bill on Tuesday that would give the Biden administration the power to ban TikTok in the U.S.\r\nThe legislation would empower the Commer\u2026 [+5403 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "The Tribune India"
             },
-            "author": "Christian Shepherd",
-            "title": "China's foreign minister predicts clash with U.S., defends Russia ties - The Washington Post",
-            "description": "Qin Gang denied China had provided weapons to either side of the Ukraine conflict but warned China-Russia relations would strengthen if global turmoil continued.",
-            "url": "https://www.washingtonpost.com/world/2023/03/07/china-us-foreign-minister-taiwan-russia/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-07-2023/t_8153faa79d0245499df2549e289a6726_name_VMCJGLF4WII63E2QPRP4ZVMYVU.jpg&w=1440",
-            "publishedAt": "2023-03-07T10:56:00Z",
-            "content": "Comment on this story\r\nChina and the United States are careering toward an inevitable collision, Foreign Minister Qin Gang said Tuesday, a day after Chinese leader Xi Jinping made a rare direct accus\u2026 [+4808 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Trefor Moss",
-            "title": "How Lego Beat Barbie and Monopoly - WSJ - The Wall Street Journal",
-            "description": "Maker of colorful toy bricks reports sharp rise in sales, pushing further ahead of U.S. rivals",
-            "url": "https://www.wsj.com/articles/lego-q4-earnings-report-2022-26b5375e",
-            "urlToImage": "https://images.wsj.net/im-737422/social",
-            "publishedAt": "2023-03-07T10:55:00Z",
+            "author": "The Tribune India",
+            "title": "16 killed, over 100 injured as explosion rocks seven-storey building in Bangladesh's capital city - The Tribune India",
+            "description": null,
+            "url": "https://www.tribuneindia.com/news/world/14-killed-over-100-injured-as-explosion-rocks-seven-storey-building-in-bangladeshs-capital-486080",
+            "urlToImage": null,
+            "publishedAt": "2023-03-08T00:47:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Jeff Stein",
-            "title": "Biden to unveil plan averting Medicare funding crisis, challenging GOP - The Washington Post",
-            "description": "The White House would raise taxes on high earners and reduce government payments for some prescription drugs in a bid to keep the program stable.",
-            "url": "https://www.washingtonpost.com/us-policy/2023/03/07/biden-medicare-taxes-gop/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T3UDMQV4BVFNOV6VGN3CJHH6MA.JPG&w=1440",
-            "publishedAt": "2023-03-07T10:20:31Z",
-            "content": "Comment on this story\r\nThe White House on Tuesday will propose raising taxes on Americans earning more than $400,000 and reducing what Medicare pays for prescription drugs in an attempt to ensure tha\u2026 [+5756 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "The Times of Israel"
+                "name": "The Guardian"
             },
-            "author": null,
-            "title": "Ex-Air Force chief disavows reservist refusals, warns of chaos without compromise - The Times of Israel",
-            "description": "Eliezer Shkedi says legislation on overhaul must be halted and deal reached to prevent fatal rupture of society; would side with courts in clash with Knesset if he were heading IAF",
-            "url": "https://www.timesofisrael.com/ex-air-force-chief-disavows-reservist-refusals-warns-of-chaos-without-compromise/",
-            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/03/shked-e1678184561451-1024x640.jpg",
-            "publishedAt": "2023-03-07T10:05:53Z",
-            "content": "A former commander of the Israeli Air Force spoke out against members of the military who are threatening to refuse to show up for reserve duty \u2014 but warned harshly that the government\u2019s judicial ove\u2026 [+4512 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "NASA's Curiosity Rover Views First Dazzling \u201cSun Rays\u201d on Mars - SciTechDaily",
-            "description": "The veteran Martian rover captured a dazzling sunset at the start of a new cloud-imaging campaign. Although Martian sunsets are uniquely moody, NASA\u2019s Curiosity rover captured one last month that really stands out. As the Sun descended over the horizon on Feb\u2026",
-            "url": "https://scitechdaily.com/nasas-curiosity-rover-views-first-dazzling-sun-rays-on-mars/",
-            "urlToImage": "https://scitechdaily.com/images/NASA-Curiosity-Mars-Rover-Feather-Shaped-Iridescent-Cloud-scaled.jpg",
-            "publishedAt": "2023-03-07T09:31:18Z",
-            "content": "ByJet Propulsion LaboratoryMarch 7, 2023\r\nNASAs Curiosity Mars rover captured these sun rays shining through clouds at sunset on February 2, 2023, the 3,730th Martian day, or sol, of the mission. It \u2026 [+4523 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "New York Republicans go to all-out war against Santos - POLITICO",
-            "description": "And the embattled fabulist is going to the mattresses himself as his colleagues try to push him out: \u201cThey can\u2019t control me,\u201d he said in an interview.",
-            "url": "https://www.politico.com/news/2023/03/07/new-york-republicans-santos-00085729",
-            "urlToImage": "https://static.politico.com/03/8a/8b843fb9485a98d63d609d2854c3/20230207-sotu-biden-25-francis-5.jpg",
-            "publishedAt": "2023-03-07T09:30:00Z",
-            "content": "But their public criticisms havent insulated them from daily questions about his record, particularly as Democrats look to tie them to him. Their frustration, simmering for two months as negative San\u2026 [+7132 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Landon Mion",
-            "title": "Defense Secretary Lloyd Austin makes unannounced visit to Iraq - Fox News",
-            "description": "Defense Secretary Lloyd Austin made an unannounced trip to Iraq on Tuesday to show a U.S. commitment to maintaining its military presence in the region.",
-            "url": "https://www.foxnews.com/politics/defense-secretary-lloyd-austin-unannounced-visit-iraq",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/Pentagon-National-Defense-Strategy-Lloyd-Austin.jpg",
-            "publishedAt": "2023-03-07T09:07:00Z",
-            "content": "Defense Secretary Lloyd Austin made an unannounced trip to Iraq on Tuesday nearly 20 years after a U.S.-led invasion in the region took down Saddam Hussein.\r\nA senior defense official said the trip w\u2026 [+1914 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Suge Knight's Son Loved Chris Rock's 'Suge Smith' Joke, But Will's No Suge - TMZ",
-            "description": "Suge Knight's son was one of the many folks laughing their behind off at Chris Rock's 'Suge Smith' joke ... but he's certain Will Smith's got nothing on the OG!!!",
-            "url": "https://www.tmz.com/2023/03/07/suge-knight-son-chris-rock-will-smith-loved-joke-slap-comedy-set/",
-            "urlToImage": "https://imagez.tmz.com/image/a5/16by9/2023/03/06/a5be58edaf7d4fff9029e6fa1d4d0735_xl.jpg",
-            "publishedAt": "2023-03-07T08:40:00Z",
-            "content": "Suge Knight's son was one of the many folks laughing his ass off at Chris Rock's 'Suge Smith' line ... but he's certain Will Smith's got nothing on the OG!!!\r\nSuge J. Knight tells TMZ ... it was pret\u2026 [+847 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Holly Ellyatt, Amanda Macias",
-            "title": "Russia-Ukraine war updates for Mar.6, 2023 - CNBC",
-            "description": "It's unclear how much of Bakhmut is controlled by Russian forces, and whether Ukrainain forces are starting to withdraw from parts of the city.",
-            "url": "https://www.cnbc.com/2023/03/06/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107203503-1678106699175-gettyimages-1471440108-0g6a1019_b53d9ohp.jpeg?v=1678112264&w=1920&h=1080",
-            "publishedAt": "2023-03-07T08:24:00Z",
-            "content": "The status of Bakhmut is unclear after conflicting reports at the weekend over how much of the city was controlled by Russian forces, and whether Ukrainain forces were starting to withdraw from parts\u2026 [+1868 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Charles Robinson",
-            "title": "Derek Carr to the Saints, Geno Smith returns to the Seahawks & combine takeaways - Yahoo Sports",
-            "description": "Hosts Charles Robinson and Jori Epstein start by recapping the 2023 NFL Scouting Combine and giving their primary takeaways. Later, the duo recap a crazy day...",
-            "url": "https://sports.yahoo.com/derek-carr-to-the-saints-geno-smith-returns-to-the-seahawks--combine-takeaways-075421647.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jtLyvyuvH7ve2vIyoJ_cLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/9231d900-bcbb-11ed-a67f-ad8765d7903c",
-            "publishedAt": "2023-03-07T07:56:12Z",
-            "content": "Hosts Charles Robinson and Jori Epstein start by recapping the 2023 NFL Scouting Combine and giving their primary takeaways. Later, the duo recap a crazy day of news in the NFL ahead of the franchise\u2026 [+1708 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Niha Masih",
-            "title": "California to cut ties with Walgreens over abortion pill sales, Newsom says - The Washington Post",
-            "description": "Gov. Gavin Newsom (D) challenged the pharmacy chain over its mifepristone policy after state GOP leaders warned Walgreens against selling the pills by mail.",
-            "url": "https://www.washingtonpost.com/business/2023/03/06/walgreens-california-abortion-pills-newsom/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJXMAJFZ7YI63MG7RSQU3ZTZVU_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-03-07T07:48:00Z",
-            "content": "Comment on this story\r\nCalifornia Gov. Gavin Newsom (D) said Monday that the state will not do business with pharmacy chain Walgreens after its recent announcement that it will not distribute abortio\u2026 [+2214 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Samantha Subin, Sarah Min",
-            "title": "Stock futures inch up slightly as Wall Street awaits Fed Chair Powell's comments: Live updates - CNBC",
-            "description": "The Federal Reserve chair is set to give his latest remarks on the U.S. economy, and where he expects interest rates to go from here.",
-            "url": "https://www.cnbc.com/2023/03/06/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107196542-16766516062023-02-17t162720z_878854910_rc22dz9g0rfo_rtrmadp_0_usa-stocks.jpeg?v=1678143778&w=1920&h=1080",
-            "publishedAt": "2023-03-07T07:29:00Z",
-            "content": "U.S. stock futures traded marginally higher on Tuesday as traders await Federal Reserve Chair Jerome Powell's latest comments on the state of the economy.\r\nDow Jones Industrial Average futures traded\u2026 [+1906 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Natalie Neysa Alund and Thao Nguyen, USA TODAY",
-            "title": "Kidnapped Americans crossed the border to buy medicine: L\u00f3pez Obrador - USA TODAY",
-            "description": "Meanwhile, the FBI is offering\u00a0a $50K reward for the return of the Americans and the arrest of those involved in Mexico.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/03/06/americans-kidnapped-tamaulipas-mexico/11411073002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/06/USAT/160e7a10-f9be-4496-ac3f-8a1777d39a0b-AP_Mexico_Missing_Americans.jpg?auto=webp&crop=1339,753,x1,y180&format=pjpg&width=1200",
-            "publishedAt": "2023-03-07T06:11:15Z",
-            "content": "Four American citizens were assaulted and\u00a0kidnapped by unidentified gunmen after\u00a0crossing\u00a0into Mexico last week to buy medicine, Mexican officials said Monday.\u00a0\r\nMexican President Andr\u00e9s Manuel L\u00f3pez\u2026 [+4613 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "MLB.com",
-            "title": "World Baseball Classic 2023 predictions from experts - MLB.com",
-            "description": "The 2023 World Baseball Classic gets underway on Tuesday night, with a field of 20 international teams set to battle it out over the course of the next two weeks.\nWhen all is said and done, which squad will be celebrating on the field at Miami\u2019s loanDepot Par\u2026",
-            "url": "https://www.mlb.com/news/world-baseball-classic-2023-predictions-from-experts",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/bdlxdzlz6fw0vv0teyg3.jpg",
-            "publishedAt": "2023-03-07T05:25:33Z",
-            "content": "The 2023 World Baseball Classic gets underway on Tuesday night, with a field of 20 international teams set to battle it out over the course of the next two weeks.\r\nWhen all is said and done, which sq\u2026 [+10938 chars]"
+            "author": "Guardian staff reporter",
+            "title": "New York Giants commit to Daniel Jones with four-year, $160m contract - The Guardian",
+            "description": "The Giants and agents for Daniel Jones have reached a new four-year contract agreement, a person with knowledge of the situation told the Associated Press",
+            "url": "https://www.theguardian.com/sport/2023/mar/07/daniel-jones-contrack-new-york-giants-quarterback",
+            "urlToImage": "https://i.guim.co.uk/img/media/0fb57a7f806fe24dbffa4ca27de8ff2910208423/0_124_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0c9dddc22106788e3719a06c8dafc49",
+            "publishedAt": "2023-03-08T00:33:00Z",
+            "content": "After days of hard-fought, down-to-the wire negotiating the New York Giants reached a new four-year contract with quarterback Daniel Jones on Tuesday and put a franchise tag on running back Saquon Ba\u2026 [+2339 chars]"
         },
         {
             "source": {
@@ -216,51 +138,129 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Have I been fired? worker asks chief executive Elon Musk on Twitter - BBC",
-            "description": "In a Twitter thread that went viral, Halli Thorleifsson was asked by Elon Musk what work he had done for the firm.",
-            "url": "https://www.bbc.com/news/technology-64871183",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7609/production/_128871203_hallithorleifsson.jpg",
-            "publishedAt": "2023-03-07T05:08:11Z",
-            "content": "A Twitter employee has appealed to Elon Musk on the platform to ask whether he had been sacked.\r\nIn a tweet to the firm's chief executive, Mr Thorleifsson said: \"Your head of HR is not able to confir\u2026 [+3287 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Olafimihan Oshin",
-            "title": "Hoda Kotb makes tearful return to \u2018Today\u2019 after daughter\u2019s ICU stay - The Hill",
-            "description": "\u201cToday\u201d show co-anchor Hoda Kotb returned to her post on Monday, explaining her prolonged absence due to her daughter being admitted to a hospital.\u00a0 \u201cMy youngest, Hope, was in the ICU for a few days and in the hospital for a little more than a week,\u201d Kotb sai\u2026",
-            "url": "https://thehill.com/homenews/media/3887142-hoda-kotb-makes-tearful-return-to-today-after-daughters-icu-stay/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/4d13c58433a944c49e6f77cd963230e4.jpg?w=1280",
-            "publishedAt": "2023-03-07T04:31:00Z",
-            "content": "Skip to content\r\nPhoto by Charles Sykes/Invision/AP, FileFILE \u2013 Co-anchors Savannah Guthrie, left, and Hoda Kotb pose on \u201cToday\u201d show set at NBC Studios on June 27, 2018, in New York. On Wednesday NB\u2026 [+1711 chars]"
+            "title": "Mexico kidnapping: Why a million Americans a year risk Mexico medical tourism - BBC",
+            "description": "Some take precautions to avoid being targeted by criminals, like changing their car's licence plate.",
+            "url": "https://www.bbc.com/news/world-us-canada-64832308",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/183BF/production/_128836299_matamoros.jpg",
+            "publishedAt": "2023-03-08T00:29:56Z",
+            "content": "Americans often travel to Mexico for low-cost medical services. But bargain shopping for healthcare can be risky.\u00a0\r\nOver the weekend, four Americans were kidnapped in Matamoros, Tamaulipas, after tra\u2026 [+3792 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "DW (English)"
+                "name": "Page Six"
             },
-            "author": "Deutsche Welle",
-            "title": "Turkey: Opposition nominates candidate to challenge Erdogan - DW (English)",
-            "description": "Kemal Kilicdaroglu, leader of the main opposition party, CHP, will compete against President Recep Tayyip Erdogan in May's presidential election. However, controversy surrounds his selection.",
-            "url": "https://www.dw.com/en/turkey-opposition-nominates-candidate-to-challenge-erdogan/a-64894199",
-            "urlToImage": "https://static.dw.com/image/63128730_6.jpg",
-            "publishedAt": "2023-03-07T04:20:41Z",
-            "content": "Turkish opposition partieson Monday\u00a0declared Kemal Kilicdaroglu\u00a0as a candidate against President Recep Tayyip Erdogan in the upcoming May election.\r\nHowever, disagreements had prevailed over the sele\u2026 [+2464 chars]"
+            "author": "Bernie Zilio",
+            "title": "Lala Kent rips Raquel Leviss, Tom Sandoval over affair: I \u2018never liked\u2019 them - Page Six",
+            "description": "Kent has been just one of Lisa Vanderpump\u2019s many employees to\u00a0rip Leviss and Sandoval over their bombshell affair on Ariana Madix, which we\u2019re told \u201cbegan last summer.\u201d",
+            "url": "https://pagesix.com/2023/03/07/lala-kent-rips-raquel-leviss-tom-sandoval-over-affair-on-amazon-live/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/03/NYPICHPDPICT000007847030.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-03-08T00:22:00Z",
+            "content": "\u201cVanderpump Rules\u201d star Lala Kent continued to rip co-stars Raquel Leviss and Tom Sandoval over their months-long affair during an Amazon Live on Tuesday.\r\nCareful to avoid getting in trouble with Br\u2026 [+5538 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Beware of Keto Diet: May Be Linked to Higher Risk of Heart Attacks and Cardiovascular Disease - SciTechDaily",
-            "description": "Popular weight-loss diet also associated with higher levels of LDL cholesterol. The ketogenic or \u201cketo\u201d diet, which involves consuming very low amounts of carbohydrates and high amounts of fats, has been gaining popularity. However, a new study presented at t\u2026",
-            "url": "https://scitechdaily.com/?p=258471",
-            "urlToImage": "https://scitechdaily.com/images/Keto-Ketogenic-Diet.jpg",
-            "publishedAt": "2023-03-07T04:08:17Z",
-            "content": "A new study presented at a scientific conference warns that a keto-like diet, which involves high amounts of fat and low carbohydrates, may increase the risk of cardiovascular events like chest pain,\u2026 [+8106 chars]"
+            "title": "Republican lawmakers seek to reduce abortion ban from 15 weeks to 6 weeks - WFLA News Channel 8",
+            "description": "The News Channel 8 Team presents the latest information on the events of the day and timely updates on local sports, weather conditions and traffic issues.",
+            "url": "https://www.youtube.com/watch?v=a4PTI6SBnMM",
+            "urlToImage": "https://i.ytimg.com/vi/a4PTI6SBnMM/maxresdefault.jpg",
+            "publishedAt": "2023-03-08T00:15:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Lamar Jackson rumors: Dolphins, Raiders among five teams not pursuing QB after he received non-exclusive tag - CBS Sports",
+            "description": "Atlanta isn't considering offering Jackson at this time",
+            "url": "https://www.cbssports.com/nfl/news/lamar-jackson-rumors-dolphins-raiders-among-five-teams-not-pursuing-qb-after-he-received-non-exclusive-tag/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/18/e02ea9f7-54e9-410c-b06d-67331833e78a/thumbnail/1200x675/26de00fba01cdb14538a7832374102d1/usatsi-lamar-jackson-ravens.jpg",
+            "publishedAt": "2023-03-07T23:59:34Z",
+            "content": "On Tuesday, the Baltimore Ravens made the decision to place the non-exclusive franchise tag on star quarterback Lamar Jackson. With the 2019 NFL MVP having permission to negotiate with other teams, m\u2026 [+1654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Jodi Guglielmi",
+            "title": "Nick Cannon Appears to Think Having Kids Is a Literal Game - Rolling Stone",
+            "description": "The entertainer is partnering with Kevin Hart for \u201cmother of all games shows,\u201d Who\u2019s Having My Baby With Nick Cannon",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/nick-cannon-kevin-hart-game-show-whos-having-my-baby-1234692198/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/03/GettyImages-1397596800.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-03-07T22:44:22Z",
+            "content": "You know what they say: If you\u2019ve got it, monetize it! And what does Nick Cannon have? An inability to stop having children. \r\nOn Tuesday, Cannon announced plans for a new game show, Who\u2019s Having My \u2026 [+1631 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Brett Tingley",
+            "title": "NASA's Artemis 1 Orion spacecraft aced moon mission despite heat shield issue - Space.com",
+            "description": "Orion lost more material from its heat shield during reentry than predicted.",
+            "url": "https://www.space.com/artemis-1-orion-moon-mission-heat-shield-issue",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Wbpwmd52hamKFkhV2QLWye-1200-80.jpg",
+            "publishedAt": "2023-03-07T22:32:38Z",
+            "content": "NASA's Orion spacecraft performed better than expected on its first deep-space flight despite experiencing unpredicted loss of its heat shield material.\r\nIn a teleconference on Tuesday (March 7), NAS\u2026 [+4378 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Post-COVID, chest pains may linger for up to a year, new study finds - Fox News",
+            "description": "People who have been infected with COVID-19 may suffer from lingering chest pains for up to a year after their coronavirus infection, a new study has found.",
+            "url": "https://www.foxnews.com/health/post-covid-chest-pains-may-linger-up-year-study-finds",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/covid-chest-pain.jpg",
+            "publishedAt": "2023-03-07T22:30:00Z",
+            "content": "People who have had COVID-19\r\n may experience lingering chest pains for up to a year after infection, a new study found.\r\n\"Long COVID,\" which refers to conditions that linger for months or even years\u2026 [+2997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Dan Wetzel",
+            "title": "Jets are right to go big in their pursuit of Aaron Rodgers - Yahoo Sports",
+            "description": "What New York is attempting is what good teams do \u2014 rectifying a mistake rather than letting it continue to drag them down. An unserious franchise has...",
+            "url": "https://sports.yahoo.com/jets-are-right-to-take-flight-and-go-big-in-their-pursuit-of-aaron-rodgers-222710025.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rJd3nMMbiGwlHdVP36FW9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/d73c2480-bd36-11ed-a5dd-7af43a38730f",
+            "publishedAt": "2023-03-07T22:27:10Z",
+            "content": "Its been a long stretch marred by butt fumbles and five-win seasons, of draft busts and bumbling head coaches.\r\nIts not just that the New York Jets have gone a dozen years without reaching the playof\u2026 [+3865 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "INSIDER"
+            },
+            "author": "Andrea Michelson",
+            "title": "Thousands of people had long-term stomach troubles after COVID - Insider",
+            "description": "Many people who contracted COVID-19 in 2020 went on to experience chronic constipation and acid reflux in the year after they got infected.",
+            "url": "https://www.insider.com/thousands-of-people-had-long-term-stomach-troubles-after-covid-2023-3",
+            "urlToImage": "https://i.insider.com/64077c5737125e0018a15a72?width=1200&format=jpeg",
+            "publishedAt": "2023-03-07T22:05:17Z",
+            "content": "Dave, a COVID long-hauler in the UK, told Insider that he developed \"burning\" acid reflux and \"horrible nausea\" after contracting COVID in 2020. Although he had a fairly strong stomach before he got \u2026 [+2742 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Massive nationwide strike hits France over pension reform - Al Jazeera English",
+            "description": "More than a million join protests against French President Emmanuel Macron\u2019s plan to push retirement age from 62 to 64.",
+            "url": "https://www.aljazeera.com/news/2023/3/7/1-28m-people-protest-macrons-pension-reform-plan-ministry",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/33AP3M3-highres.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-03-07T20:47:12Z",
+            "content": "An estimated 1.28 million people have participated in a nationwide strike against French President Emmanuel Macrons plans to push forward the retirement age to 64, the interior ministry said.\r\nThe fi\u2026 [+2502 chars]"
         }
     ]
 }
