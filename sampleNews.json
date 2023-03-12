@@ -1,71 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "Fox Business"
             },
-            "author": "Emily Mae Czachor",
-            "title": "2023 Academy Awards: How to watch the Oscars and what to know about the ceremony and nominees - CBS News",
-            "description": "The Academy Awards will be presented this Sunday, March 12, in Los Angeles.",
-            "url": "https://www.cbsnews.com/news/2023-oscars-how-to-watch-what-to-know-academy-awards/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/02/2f677d97-8954-49d0-99d1-af77f9aa3cfc/thumbnail/1200x630/fd83871439c570b29b8dc241f8a90d5d/ap23058560548764.jpg",
-            "publishedAt": "2023-03-10T23:57:33Z",
-            "content": "The 95th Academy Awards this Sunday bring distinguished stars and behind-the-scenes players from across the film industry to Los Angeles for Hollywood's biggest night of the year.\u00a0\r\nHosted for a thir\u2026 [+14356 chars]"
+            "author": "Ken Martin",
+            "title": "Crypto firm Circle has $3.3B exposure to Silicon Valley Bank - Fox Business",
+            "description": "The cryptocurrency firm Circle says that $3.3 billion of its $40 billion USD Coin reserves are held by Silicon Valley Bank, a lender that was shutdown on Friday.",
+            "url": "https://www.foxbusiness.com/markets/crypto-firm-circle-3-3b-exposure-silicon-valley-bank",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/circle-logo-A.jpg?ve=1&tl=1",
+            "publishedAt": "2023-03-11T09:00:00Z",
+            "content": "Exposure in the collapse of lender Silicon Valley Bank is starting to be reported in the financial industry.\r\nThe cryptocurrency firm Circle has $3.3 billion of its $40 billion USD Coin reserves at t\u2026 [+1396 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "The Athletic"
             },
-            "author": "Mostafa Salem, Adam Pourahmadi, Nadeen Ebrahim",
-            "title": "Archrivals Iran and Saudi Arabia agree to end years of hostilities in deal mediated by China - CNN",
-            "description": "Friday's announcement is also a diplomatic victory for China in a Gulf region that has long been considered part of the US' domain of influence. It comes as the Biden administration tries to notch its own win in the Middle East by trying to broker a normaliza\u2026",
-            "url": "https://www.cnn.com/2023/03/10/middleeast/saudi-iran-resume-ties-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230310123256-iran-protest-010316.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-10T23:46:00Z",
-            "content": "Editors Note: A version of this story first appeared in CNNs Meanwhile in the Middle East newsletter, a three-times-a-week look inside the regions biggest stories. Sign up here.\r\nSaudi Arabia and Ira\u2026 [+5856 chars]"
+            "author": "Kevin Fishbain, Adam Jahns",
+            "title": "Bears-Panthers trade: Why the blockbuster move was the right call for GM Ryan Poles - The Athletic",
+            "description": "Adam Jahns and Kevin Fishbain talk through the trade \u2014 a potentially franchise-altering haul and a career-changing move for Poles.",
+            "url": "https://theathletic.com/4297113/2023/03/10/bears-panthers-trade-ryan-poles/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/03/10223407/GettyImages-1452817817-scaled-e1678505666496-1024x683.jpg",
+            "publishedAt": "2023-03-11T08:35:42Z",
+            "content": "When the Bears left the NFL Scouting Combine, the question wasnt whether they would trade the first pick.\r\nThe buzz had transformed into which team it would be and how much they would get for it.\r\nFr\u2026 [+5416 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Robyn Dixon, David L. Stern",
-            "title": "Russia's hypersonic missile attack on Ukraine highlights Western vulnerability - The Washington Post",
-            "description": "The advanced missiles had little real impact on the Ukraine conflict. But they have renewed alarm over the Kremlin\u2019s sophisticated arsenal, and that Putin possesses difficult-to-intercept, nuclear-capable weapons that the United States and its allies do not y\u2026",
-            "url": "https://www.washingtonpost.com/world/2023/03/10/russia-hypersonic-missiles-western-vulnerability/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z7N2CTD5WGTRII4NVKLKUBHGEA.JPG&w=1440",
-            "publishedAt": "2023-03-10T23:42:00Z",
-            "content": "Comment on this story\r\nRIGA, Latvia Russia fired a half-dozen of its rare Kinzhal hypersonic missiles at Ukraine on Thursday, as part of a broader barrage that killed six people and that the Russian \u2026 [+10866 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Rachel Louise Ensign, Corrie Driebusch, Meghan Bobrowsky",
-            "title": "Silicon Valley Bank Closed by Regulators, FDIC Takes Control - The Wall Street Journal",
-            "description": "Some tech startups had been rushing to transfer money out",
-            "url": "https://www.wsj.com/articles/svb-financial-pulls-capital-raise-explores-alternatives-including-possible-sale-sources-say-11de7522",
-            "urlToImage": "https://images.wsj.net/im-740438/social",
-            "publishedAt": "2023-03-10T23:33:00Z",
-            "content": null
+            "author": "Kelsey Ables, Ellen Francis",
+            "title": "Russia-Ukraine war news: Nationwide outages continue after barrage - The Washington Post",
+            "description": "Fighting was escalating in the eastern city of Bakhmut, while the cities of Kharkiv and Kyiv worked to restore power supply.",
+            "url": "https://www.washingtonpost.com/world/2023/03/11/russia-ukraine-war-news/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMFE6F7ZJBH5ZHY7XV6POSYB34.JPG&w=1440",
+            "publishedAt": "2023-03-11T08:31:50Z",
+            "content": "The battle for the eastern city of Bakhmut has not let up. Ukraines deputy defense minister said fighting was escalating, while an aide to President Volodymyr Zelensky sounded an optimistic note abou\u2026 [+3349 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "Space.com"
             },
-            "author": "Courtney Cronin, David Newton",
-            "title": "Bears trading No. 1 overall pick to Panthers for haul that includes WR DJ Moore, sources say - ESPN",
-            "description": "The Bears are trading the No. 1 pick in the 2023 draft to the Panthers in exchange for four draft picks and wide receiver DJ Moore, sources told ESPN's Adam Schefter.",
-            "url": "https://www.espn.com/nfl/story/_/id/35830753/bears-trading-no-1-overall-pick-panthers-haul-includes-wr-dj-moore-sources-say",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0506%2Fr695975_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-03-10T23:05:53Z",
-            "content": "CHICAGO -- The Chicago Bears are trading the No. 1 pick in the 2023 draft to the Carolina Panthers in exchange for four draft picks and wide receiver DJ Moore, sources told ESPN's Adam Schefter.\r\nThe\u2026 [+6132 chars]"
+            "author": "Mike Wall",
+            "title": "SpaceX Crew-5 astronauts leave the space station after five months in space - Space.com",
+            "description": "Crew Dragon Endurance undocked from the International Space Station at 2:20 a.m. ET on Saturday (March 11).",
+            "url": "https://www.space.com/spacex-crew-5-depart-international-space-station",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wzuAbzNg6VTMV8tbSi2fJV-1200-80.jpg",
+            "publishedAt": "2023-03-11T08:01:24Z",
+            "content": "Update for 3 a.m. March 11: This story has been updated to reflect the latest times from NASA.\r\nSpaceX's Crew-5 astronaut mission for NASA departed the International Space Station on Saturday (March \u2026 [+3223 chars]"
         },
         {
             "source": {
@@ -73,64 +60,90 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Aaron Rodgers saga: Packers team president Mark Murphy suggests Green Bay would prefer to move on from QB - CBS Sports",
-            "description": "Murphy added that a resolution is expected before the start of free agency",
-            "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-saga-packers-team-president-mark-murphy-suggests-green-bay-would-prefer-to-move-on-from-qb/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/23/b4c38793-bedb-4f88-8fec-eab8c2c27987/thumbnail/1200x675/c48d40bde436b130624093a443fcb0ed/aaron-rodgers.jpg",
-            "publishedAt": "2023-03-10T22:36:00Z",
-            "content": "Green Bay Packers quarterback Aaron Rodgers, the team's all-time passing touchdowns leader with 475, has appeared on multiple podcasts this offseason including \"The Pat McAfee Show\" and the \"Aubrey M\u2026 [+2366 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": "The Next Gen Stats Analytics Team",
-            "title": "NFC free agency needs: Cowboys, Giants, Packers among teams that must prioritize wide receiver - NFL.com",
-            "description": "Will the Cowboys and Packers invest in more star power at receiver? How will the Panthers address their quarterback void? The Next Gen Stats analytics team digs into three key free agency needs for every NFC team.",
-            "url": "https://www.nfl.com/news/nfc-free-agency-needs-cowboys-giants-packers-among-teams-that-must-prioritize-wi",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/ijvnjxoc7yk81d2g9zrk",
-            "publishedAt": "2023-03-10T22:13:00Z",
-            "content": "<ul><li>Needs: QB, Edge, LB</li><li>Cap space: $62,926,591</li></ul>GM Terry Fontenot and head coach Arthur Smith enter their third offseason as the franchise's primary decision-makers. In 2021, they\u2026 [+1877 chars]"
+            "title": "2023 March Madness, conference tournament schedules: 13 NCAA Tournament automatic bids on the line Saturday - CBS Sports",
+            "description": "Saturday's conference tournament finals will take a big step in setting the field of 68 with 13 teams punching their tickets to the Big Dance",
+            "url": "https://www.cbssports.com/college-basketball/news/2023-march-madness-conference-tournament-schedules-13-ncaa-tournament-automatic-bids-on-the-line-saturday/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/09/5bf8ec79-b0fd-44d7-bf34-be862b564710/thumbnail/1200x675/cce0c5e85c8ca7818dfc68f68c2dd171/usatsi-20176577-1.jpg",
+            "publishedAt": "2023-03-11T07:44:00Z",
+            "content": "Saturday is the day before Selection Sunday and is one of the busiest and most drama-filled days of March Madness. No other day can match the 13 conference tournament championship games to be held th\u2026 [+5767 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "DW (English)"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Mexico kidnapping: A twisted moral code explains cartel's apology - BBC",
-            "description": "Mexico's criminal gangs adopt a warped code of ethics - and the kidnap of Americans broke the rules.",
-            "url": "https://www.bbc.com/news/world-latin-america-64921765",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8949/production/_128954153_1bcf83488d0b00bcc65f74f6c15917a2ef4201340_0_1600_9001000x563.jpg",
-            "publishedAt": "2023-03-10T22:08:17Z",
-            "content": "Four Americans were kidnapped by a drug cartel, and two of them were murdered, when they visited the town of Matamoros, Mexico. So why would the cartel apologise for the incident and hand over its ow\u2026 [+4592 chars]"
+            "author": "Deutsche Welle",
+            "title": "EU, US to 'immediately' start work on green subsidies deal - DW (English)",
+            "description": "US President Joe Biden and European Commission President Ursula von der Leyen touted a breakthrough in their transatlantic trade dispute over subsidies for the green economy, as well as the war in Ukraine.",
+            "url": "https://www.dw.com/en/eu-us-to-immediately-start-work-on-green-subsidies-deal/a-64953153",
+            "urlToImage": "https://static.dw.com/image/64953208_6.jpg",
+            "publishedAt": "2023-03-11T07:41:25Z",
+            "content": "US President Joe Biden and European Commission President Ursula von der Leyen on Friday agreed\u00a0to start negotiations that could allow European raw materials to be used as part of an American clean en\u2026 [+3141 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "fox8.com"
+                "name": "NBCSports.com"
             },
-            "author": "MATTHEW PERRONE, Associated Press",
-            "title": "FDA releases new guidelines with all mammograms - WJW FOX 8 News Cleveland",
-            "description": "All U.S. women getting mammograms will soon receive information about their breast density, which can sometimes make cancer harder to spot.",
-            "url": "https://fox8.com/news/us-requires-new-info-on-breast-density-with-all-mammograms/",
-            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2023/03/download-899-e1678460242263.jpg?w=1280",
-            "publishedAt": "2023-03-10T21:39:40Z",
-            "content": "WASHINGTON (AP) All U.S. women getting mammograms will soon receive information about their breast density, which can sometimes make cancer harder to spot.\r\nThe new requirements, finalized Thursday b\u2026 [+1308 chars]"
+            "author": "Mike Florio",
+            "title": "David Tepper finally gets in position to solve Carolina\u2019s quarterback problem - NBC Sports",
+            "description": "Panthers owner David Tepper said several years back in the final episode of his team\u2019s turn on the now-defunct All or Nothing series on Amazon that the NFL is set up for every team to cluster around .500, and that the difference comes from having the right qu\u2026",
+            "url": "https://profootballtalk.nbcsports.com/2023/03/10/david-tepper-finally-gets-in-position-to-solve-carolinas-quarterback-problem/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/03/GettyImages-1246373603-e1678508829694.jpg",
+            "publishedAt": "2023-03-11T04:38:00Z",
+            "content": "Panthers owner David Tepper said several years back in the final episode of his teams turn on the now-defunct All or Nothing series on Amazon that the NFL is set up for every team to cluster around .\u2026 [+2271 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "John Wagner, Mariana Alfaro",
-            "title": "Post Politics Now: Iowa drawing visits from DeSantis, Trump as GOP race takes shape - The Washington Post",
-            "description": "The Florida governor is making a high-profile trip to the first Republican presidential nominating state on Friday. The former president plans to be there on Monday.",
-            "url": "https://www.washingtonpost.com/politics/2023/03/10/desantis-trump-iowa-biden-european-commission/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5NMV2K5HRFJ5WO6EEM7D26X3GM.jpg&w=1440",
-            "publishedAt": "2023-03-10T21:36:40Z",
-            "content": "Today,Florida Gov. Ron DeSantis (R) is introducing himself to voters in Iowa, traditionally the first presidential nominating state. During a speech in Davenport, DeSantis, who is expected to announc\u2026 [+602 chars]"
+            "author": null,
+            "title": "Xi clinches third term as China's president amid host of challenges - Reuters.com",
+            "description": "Xi Jinping secured a precedent-breaking third term as president of China on Friday during a parliamentary session in which he tightened his control of the world's second-largest economy as it emerges from a COVID slump and diplomatic challenges mount.",
+            "url": "https://www.reuters.com/world/china/chinas-parliament-elects-xi-jinping-chinas-president-2023-03-10/",
+            "urlToImage": "https://www.reuters.com/resizer/VFftrvMBmfPFuPvUpDmpl2neaoY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PBQESXP54FPS5MB6NF5KPYFNPE.jpg",
+            "publishedAt": "2023-03-11T03:21:00Z",
+            "content": "BEIJING, March 10 (Reuters) - Xi Jinping secured a precedent-breaking third term as president of China on Friday during a parliamentary session in which he tightened his control of the world's second\u2026 [+3981 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arizona Sports"
+            },
+            "author": "",
+            "title": "Cardinals on hand for Odell Beckham Jr.'s workout in Arizona, per report - Arizona Sports",
+            "description": "The Cardinals were among 12 NFL teams that were in attendance for free agent WR Odell Beckham Jr.'s workout that took place at ASU on Friday.",
+            "url": "https://arizonasports.com/story/3515320/report-cardinals-on-hand-for-odell-beckham-jr-s-arizona-workout/",
+            "urlToImage": "http://arizonasports.com/wp-content/uploads/2022/01/ap_a5c846c217b3412e96cd60c8779aa335-e1678500994797.jpg",
+            "publishedAt": "2023-03-11T02:50:00Z",
+            "content": "The Arizona Cardinals were among 12 NFL teams in attendance for free agent wide receiver Odell Beckham Jr.\u2019s workout that took place at Arizona State on Friday, per CBS Sports\u2019 Jonathan Jones.\r\nHad t\u2026 [+1587 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Wire"
+            },
+            "author": null,
+            "title": "Acadia Pharmaceuticals Announces U.S. FDA Approval of DAYBUE\u2122 (trofinetide) for the Treatment of Rett Syndrome in Adult and Pediatric Patients Two Years of Age and Older - Business Wire",
+            "description": "Acadia Pharmaceuticals Inc. (Nasdaq: ACAD) today announced that the U.S. Food and Drug Administration (FDA) has approved DAYBUE\u2122 (trofinetide) for the",
+            "url": "https://www.businesswire.com/news/home/20230303005382/en/Acadia-Pharmaceuticals-Announces-U.S.-FDA-Approval-of-DAYBUE%E2%84%A2-trofinetide-for-the-Treatment-of-Rett-Syndrome-in-Adult-and-Pediatric-Patients-Two-Years-of-Age-and-Older",
+            "urlToImage": "https://mms.businesswire.com/media/20230303005382/en/1735980/23/ACADIA_V2.jpg",
+            "publishedAt": "2023-03-11T02:45:00Z",
+            "content": "SAN DIEGO--(BUSINESS WIRE)--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD) today announced that the U.S. Food and Drug Administration (FDA) has approved DAYBUE (trofinetide) for the treatment of Rett syn\u2026 [+13227 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro",
+            "title": "\u2018Dungeons & Dragons: Honor Among Thieves\u2019 Fires Up SXSW Opening Night - Deadline",
+            "description": "As Dungeons & Dragons: Honor Among Thieves co-director Jonathan Goldstein put it, \u201cnobody had done [an film adaptation of the game] justice.\u201d But Friday night when it came to the ne\u2026",
+            "url": "https://deadline.com/2023/03/sxsw-dungeons-and-dragons-premiere-1235285322/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/02/dd04504r4.jpg?w=1024",
+            "publishedAt": "2023-03-11T02:41:00Z",
+            "content": "As Dungeons &amp; Dragons: Honor Among Thieves co-director Jonathan Goldstein put it, \u201cnobody had done [an film adaptation of the game] justice.\u201d But Friday night when it came to the newest big-scree\u2026 [+2224 chars]"
         },
         {
             "source": {
@@ -139,128 +152,115 @@
             },
             "author": "Alaa Elassar, Aya Elamroussi, Joe Sutton, Cheri Mossburg",
             "title": "2 dead, nearly 10,000 under evacuation orders as California floods intensify - CNN",
-            "description": "At least two people have died as the result of the ongoing storm inundating California, and nearly 10,000 residents are under evacuation orders, officials said.",
+            "description": "At least two people have died as the result of the ongoing storms inundating California, and nearly 10,000 residents are under evacuation orders, officials said, as intense flooding threatens several coastal counties.",
             "url": "https://www.cnn.com/2023/03/10/weather/california-atmospheric-river-flood-friday/index.html",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230310100336-01-california-weather-0310-oakland.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-10T21:31:00Z",
-            "content": "At least two people have died as the result of the ongoing storm inundating California, and nearly 10,000 residents are under evacuation orders, officials said.\r\nIntense flooding has led to evacuatio\u2026 [+5984 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Zach Schonfeld",
-            "title": "5 key figures in the Manhattan DA\u2019s Trump probe - The Hill",
-            "description": "Former President Trump is engulfed in a number of legal battles, but signs are growing that Manhattan prosecutors\u2019 Stormy Daniels investigation could soon produce criminal charges, which would be a first for a former U.S. president. The New York Times\u00a0reporte\u2026",
-            "url": "https://thehill.com/regulation/court-battles/3894294-5-key-figures-in-the-manhattan-das-trump-probe/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/Collage-Maker-10-Mar-2023-02-04-PM-7813.jpg?w=1280",
-            "publishedAt": "2023-03-10T21:23:00Z",
-            "content": "Skip to content\r\nFormer President Trump is engulfed in a number of legal battles, but signs are growing that Manhattan prosecutors\u2019 Stormy Daniels investigation could soon produce criminal charges, w\u2026 [+6420 chars]"
+            "publishedAt": "2023-03-11T02:38:00Z",
+            "content": "At least two people have died as the result of the ongoing storms inundating California, and nearly 10,000 residents are under evacuation orders, officials said, as intense flooding threatens several\u2026 [+7113 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Arrowhead Pride"
+                "name": "YouTube"
             },
-            "author": "John Dixon",
-            "title": "Chiefs legend Otis Taylor dead at 80 - Arrowhead Pride",
-            "description": "One the heroes of Kansas City\u2019s first Super Bowl victory, Taylor played his entire career with the Chiefs.",
-            "url": "https://www.arrowheadpride.com/2023/3/10/23634313/chiefs-legend-otis-taylor-dead-at-80",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/w40s68dgxNnbaTvPQpUHW8bMGvY=/43x765:2394x1996/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24495172/102589779.jpg",
-            "publishedAt": "2023-03-10T21:00:00Z",
-            "content": "According to the Kansas City Chiefs, their legendary wide receiver Otis Taylor has died at the age of 80.\r\nLegendary Chiefs Hall of Famer Otis Taylor has passed at the age of 80.\r\n Kansas City Chiefs\u2026 [+2656 chars]"
+            "author": null,
+            "title": "Iran, Saudi Arabia agree to resume ties - Reuters",
+            "description": "Iran and Saudi Arabia agreed to re-establish relations after years of hostility that had threatened stability and security in the Gulf and helped fuel confli...",
+            "url": "https://www.youtube.com/watch?v=KmbAfg2J2fg",
+            "urlToImage": "https://i.ytimg.com/vi/KmbAfg2J2fg/hqdefault.jpg",
+            "publishedAt": "2023-03-11T02:30:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Michael R. Sisak",
+            "title": "Michael Cohen to testify Monday in Trump hush-money probe - The Associated Press - en Espa\u00f1ol",
+            "description": "NEW YORK (AP) \u2014 Donald Trump\u2019s former lawyer and fixer Michael Cohen is scheduled to testify Monday before a Manhattan grand jury investigating hush-money payments made on the former president\u2019s behalf , two people familiar with the matter told The Associated\u2026",
+            "url": "https://apnews.com/article/michael-cohen-trump-hush-money-grand-jury-17644c5a78cf64bea1d3849a976f8d03",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cf36acc33eef442795a755570557dca0/3000.webp",
+            "publishedAt": "2023-03-11T01:11:27Z",
+            "content": "NEW YORK (AP) Donald Trumps former lawyer and fixer Michael Cohen is scheduled to testify Monday before a Manhattan grand jury investigating hush-money payments made on the former presidents behalf, \u2026 [+4016 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Page Six"
+                "name": "Nintendo Life"
             },
-            "author": "Nicki Cox",
-            "title": "Tom Schwartz claimed Tom Sandoval forced him to kiss Raquel Leviss - Page Six",
-            "description": "Schwartz said in a newly resurfaced Feb. 7 interview that Sandoval \u201cmade\u201d him smooch Leviss in August 2022 \u2014 one month after Sandoval and Leviss\u2019 affair began.",
-            "url": "https://pagesix.com/2023/03/10/tom-schwartz-claimed-sandoval-forced-him-to-kiss-raquel-leviss/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/03/NYPICHPDPICT000008004974.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2023-03-10T20:54:00Z",
-            "content": "Tom Schwartz once claimed Tom Sandoval forced him to kiss Raquel Leviss while Sandoval and Leviss were already tangled up in a since-exposed affair.\r\nOh, my God. [Sandoval] made me do it,\u201d Schwartz t\u2026 [+2822 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Rebecca Kaplan",
-            "title": "House Freedom Caucus offers deal to raise debt ceiling - CBS News",
-            "description": "The group called for the rollback of President Biden's student loan forgiveness plan and the cancellation of several climate change projects, among other cuts.",
-            "url": "https://www.cbsnews.com/news/house-freedom-caucus-debt-ceiling/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/10/880945a4-65e0-4f10-80a4-68db1ee039af/thumbnail/1200x630g2/7db5dc960c97cfc95d16209989af2a64/gettyimages-1472572978.jpg",
-            "publishedAt": "2023-03-10T20:51:24Z",
-            "content": "The House Freedom Caucus launched its opening salvo in the upcoming fight over raising the nation's debt ceiling Friday, as members of the conservative group said they would agree to raise the debt l\u2026 [+3868 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "Durgesh Nandan Jha",
-            "title": "India records first 2 H3N2 flu deaths in Haryana, Karnataka - Indiatimes.com",
-            "description": "India News: The Union health ministry on Friday advised states to be on alert after two H3N2 deaths were reported from Haryana and Karnataka. There are four types",
-            "url": "https://timesofindia.indiatimes.com/india/india-records-first-2-h3n2-flu-deaths-in-haryana-karnataka/articleshow/98551258.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-98551260,width-1070,height-580,imgsize-73864,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2023-03-10T20:29:00Z",
-            "content": "H3N2 Influenza Symptoms, Treatment, and Safety Precautions"
+            "author": "Liam Doolan",
+            "title": "Nintendo Highlights Classic Super Mario Games In New Switch Online Graphic - Nintendo Life",
+            "description": "Celebrating MAR10 Day",
+            "url": "https://www.nintendolife.com/news/2023/03/nintendo-highlights-classic-super-mario-games-in-new-switch-online-graphic",
+            "urlToImage": "https://images.nintendolife.com/9142d4cd0045a/1280x720.jpg",
+            "publishedAt": "2023-03-11T01:05:00Z",
+            "content": "Image: Nintendo\r\nMAR10 Day has been packed with all sorts of surprises this year from movie trailers to LEGO announcements, and if that's still not enough, you can always turn your attention to Mario\u2026 [+761 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "YouTube"
             },
-            "author": "Lorie Konish",
-            "title": "Biden's budget pushes to renew bigger child tax credit payments for families - CNBC",
-            "description": "President Biden wants larger child tax credits for parents as part of the pro family policies in his budget. But getting Congressional approval won't be easy.",
-            "url": "https://www.cnbc.com/2023/03/10/bidens-budget-pushes-to-renew-bigger-child-tax-credit-for-families.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107003092-1642599335525-gettyimages-1237215651-CONGRESS-DEBT-CEILING.jpg?v=1678478983&w=1920&h=1080",
-            "publishedAt": "2023-03-10T20:09:43Z",
-            "content": "Parents and children participate in a demonstration organized by the ParentsTogether Foundation in support of the child tax credit portion of the Build Back Better bill outside of the U.S. Capitol on\u2026 [+4757 chars]"
+            "author": null,
+            "title": "'Baretta' Actor Robert Blake Dies at 89 - Inside Edition",
+            "description": "Actor Robert Blake died at the age of 89. Blake was a child star who appeared with Humphrey Bogart in the classic \"The Treasure of the Sierra Madre.\" He cata...",
+            "url": "https://www.youtube.com/watch?v=a6QIj84yPzM",
+            "urlToImage": "https://i.ytimg.com/vi/a6QIj84yPzM/maxresdefault.jpg",
+            "publishedAt": "2023-03-10T23:44:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gabriel Hays",
+            "title": "Energy Secretary Granholm claims US can 'learn from what China is doing' on climate change - Fox News",
+            "description": "Energy Secretary Jennifer Granholm claimed that the world's top contributor to climate change can teach the U.S. about how to deal with climate crisis.",
+            "url": "https://www.foxnews.com/media/energy-secretary-granholm-claims-us-learn-china-climate-change",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/granholm.png",
+            "publishedAt": "2023-03-10T23:38:00Z",
+            "content": "U.S. Department of Energy Secretary Jennifer Granholm claimed Friday that Americans can \"learn from what China is doing\" in combating climate change.\r\nDuring an interview at the annual SXSW conferenc\u2026 [+2889 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "ScienceAlert"
             },
-            "author": "Leslie Josephs",
-            "title": "FAA clears Boeing to resume deliveries of 787 Dreamliners after weekslong pause - CNBC",
-            "description": "Boeing on Friday said it has completed the required analysis on its 787 Dreamliners.",
-            "url": "https://www.cnbc.com/2023/03/10/boeing-to-resume-787-dreamliner-deliveries.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107006359-1643151661271-gettyimages-1358308239-ay4i2167_29dcb899-2d51-4b8e-a749-3b041f9f9647.jpeg?v=1678477981&w=1920&h=1080",
-            "publishedAt": "2023-03-10T19:53:01Z",
-            "content": "Boeing can resume deliveries of its 787 Dreamliners as early as next week, the Federal Aviation Administration said Friday, after a data-analysis issue halted deliveries of the wide-body jetliners.\r\n\u2026 [+1264 chars]"
+            "author": "ScienceAlert",
+            "title": "The First-Ever Complete Map of an Insect Brain Is Truly Mesmerizing - ScienceAlert",
+            "description": null,
+            "url": "https://www.sciencealert.com/the-first-ever-complete-map-of-an-insect-brain-is-truly-mesmerizing",
+            "urlToImage": null,
+            "publishedAt": "2023-03-10T23:00:38Z",
+            "content": null
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Tobias Burns",
-            "title": "5 takeaways from the February jobs report - The Hill",
-            "description": "The February jobs report was a bit of a mixed bag with the unemployment rate rising even as the economy added more jobs last month than economists had expected. The unemployment rate ticked up to 3.6 percent, though economists had been expecting it to remain \u2026",
-            "url": "https://thehill.com/business/3894184-five-takeaways-from-the-february-jobs-report/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/worker_022823ap_jobs-report-takeaways.jpg?w=1280",
-            "publishedAt": "2023-03-10T19:44:00Z",
-            "content": "Skip to content\r\nThe February jobs report was a bit of a mixed bag with the unemployment rate rising even as the economy added more jobs last month than economists had expected.\r\nThe unemployment rat\u2026 [+6791 chars]"
+            "author": "Brie Stimson",
+            "title": "Mexican authorities arrest 5 suspects turned over by cartel in deadly kidnapping of Americans last week - Fox News",
+            "description": "A Mexican official said on Friday that five suspects had been arrested in connection the deadly cartel kidnappings of four Americans.",
+            "url": "https://www.foxnews.com/world/mexican-authorities-arrest-suspects-turned-cartel-deadly-kidnapping-americans-last-week",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/ALL_PHOTO_FS_cartel_apology_1.png",
+            "publishedAt": "2023-03-10T22:39:00Z",
+            "content": "Five suspects have been arrested in Mexico for the deadly kidnappings of four Americans who had crossed the border from Texas last week, a Mexican official confirmed on Friday.\r\nThe suspects were the\u2026 [+2795 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
+                "id": "axios",
+                "name": "Axios"
             },
-            "author": "Ingrid Schmidt",
-            "title": "Elton John, Cher, Lil Nas X, Miley Cyrus Turn Up for Starry Versace Show in L.A. - Hollywood Reporter",
-            "description": "Gabrielle Union and Dwyane Wade, Pamela Anderson, Dua Lipa, Channing Tatum and Anne Hathaway were also in the crowd at the fall-winter 2023 men's and women's fashion presentation.",
-            "url": "https://www.hollywoodreporter.com/lifestyle/style/versace-fall-winter-2023-los-angeles-runway-show-1235347837/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/Versace-Front-Row-Elton-Nas-Miley-GettyImages-1472422005-H-2023.jpg?w=1024",
-            "publishedAt": "2023-03-10T19:31:11Z",
-            "content": "Three days ahead of the 2023 Oscars, Donatella Versace showcased her Versace women\u2019s and men\u2019s fall-winter 2023 collections in a runway show atop the Pacific Design Center\u2019s car park rooftop, with In\u2026 [+6201 chars]"
+            "author": "Neil Irwin, Courtenay Brown",
+            "title": "February's jobs report is a crowd-pleaser - Axios",
+            "description": "Goldilocks can take a bow.",
+            "url": "https://www.axios.com/2023/03/10/februarys-jobs-report-pleasing",
+            "urlToImage": "https://images.axios.com/I8_w5VI5G7m9yWFGg7my1RbIub4=/0x0:1899x1068/1366x768/2023/03/10/1678468304439.png",
+            "publishedAt": "2023-03-10T22:38:37Z",
+            "content": "The February jobs report had something for everyone: encouraging developments for American workers and the Federal Reserve's inflation-fighting efforts.\r\nWhy it matters: Economists and data-watchers \u2026 [+2285 chars]"
         }
     ]
 }
