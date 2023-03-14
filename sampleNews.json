@@ -1,188 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 37,
     "articles": [
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Joey Nolfi",
+            "title": "Oscars 2023: Complete winners list - Entertainment Weekly News",
+            "description": "Check back throughout the ceremony as the 95th Academy Awards winners are revealed.",
+            "url": "https://ew.com/awards/oscars/oscars-2023-winners-list/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C0%2C2000%2C1000&poi=%5B980%2C0%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F03%2F13%2FOscars-Winners-031223.jpg",
+            "publishedAt": "2023-03-13T02:25:00Z",
+            "content": "The 2023 Oscars winners are set to put a golden cap on awards season.\r\nMonths of precursor chaos and pundit predictions have led up to Sunday night's 95th Academy Awards telecast, where winners in ke\u2026 [+6525 chars]"
+        },
         {
             "source": {
                 "id": "usa-today",
                 "name": "USA Today"
             },
-            "author": "Clare Mulroy",
-            "title": "What is the healthiest fruit? This one is packed with nutrients. - USA TODAY",
-            "description": "There isn't just one fruit that is healthier than others, but one fruit stands out with increased fiber, antioxidants and cognitive benefits.",
-            "url": "https://www.usatoday.com/story/life/2023/03/12/what-is-the-healthiest-fruit/11383241002/",
-            "urlToImage": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/08/09/USATODAY/usatsports/gettyimages-529677122.jpg?width=1365&height=768&fit=crop&format=pjpg&auto=webp",
-            "publishedAt": "2023-03-12T11:00:25Z",
-            "content": "An apple a day keeps the doctor away, right?\u00a0\r\nWe grew up hearing the cliched expression, but do you know how much fruit you should actually\u00a0be eating per day? The recommended intake depends on a num\u2026 [+5034 chars]"
+            "author": "Amritpal Kaur Sandhu-Longoria, Paul Davidson",
+            "title": "FDIC puts SVB up for auction amid collapse; Feds offer rescue plan - USA TODAY",
+            "description": "Treasury Department, Federal Reserve and FDIC said all Silicon Valley Bank clients will be protected and have access to their funds.",
+            "url": "https://www.usatoday.com/story/money/2023/03/12/silicon-valley-bank-fdic-fed-treasury/11460787002/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/6d7080340aada12f02067b01e42ad3dc1cac3d6f/c=0-246-4928-3018/local/-/media/2021/05/02/USATODAY/usatsports/silicon-valley-bank-media-kit-photo.jpg?width=3200&height=1800&fit=crop&format=pjpg&auto=webp",
+            "publishedAt": "2023-03-13T02:05:23Z",
+            "content": "Federal regulators said Sunday they were taking steps to ensure that depositors of the failed Silicon Valley Bank will have access to all their money on Monday.\r\nThe Federal Reserve, the Treasury Dep\u2026 [+4757 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Cointelegraph"
+                "name": "CBS Sports"
             },
-            "author": "Ana Paula Pereira",
-            "title": "Silicon Valley Bank failure could trigger run on US regional banks - Cointelegraph",
-            "description": "Fed and FDIC decisions concerning the future of Silicon Valley Bank may affect regional banks across the United States.",
-            "url": "https://cointelegraph.com/news/silicon-valley-bank-failure-could-trigger-run-on-u-s-regional-banks",
-            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-03/4eb7c7ac-a55b-455b-b3ea-498b3c6f1040.jpg",
-            "publishedAt": "2023-03-12T10:27:26Z",
-            "content": "Federal Reserve and Federal Deposit Insurance Corporation (FDIC) decisions concerning the future of Silicon Valley Bank (SVB) may affect regional banks across the United States, putting trillions of \u2026 [+2381 chars]"
+            "author": "",
+            "title": "NCAA bracket 2023: Printable March Madness bracket, tournament seeds determined on Selection Sunday - CBS Sports",
+            "description": "Get ready for this year's NCAA Tournament with a blank printable bracket to fill-in with the 68-team field revealed",
+            "url": "https://www.cbssports.com/college-basketball/news/ncaa-bracket-2023-printable-march-madness-bracket-tournament-seeds-determined-on-selection-sunday/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/13/f9b68589-c85d-4091-976d-d20c70c3380d/thumbnail/1200x675/706aa885ab455fb17a8968357685ba0c/printable-bracket-2023-final.jpg",
+            "publishedAt": "2023-03-13T01:54:00Z",
+            "content": "Selection Sunday has come and gone, so now it's time to get settled in for the 2023 NCAA Tournament which starts this week. March Madness is here and you need to be prepared by printing out your own \u2026 [+2047 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Laura Reiley",
-            "title": "Milk, cheese and ice cream without the cow has entered the marketplace - The Washington Post",
-            "description": "Labs have created exact molecular replicas of cow dairy. Some are already on shelves and being hailed as a way to reduce harm to cows and cut down dairy\u2019s huge contribution to climate change.",
-            "url": "https://www.washingtonpost.com/business/2023/03/12/precision-cultivated-dairy/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JHD5SGQJWCAB4NOHJ4OGLYCVE4_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-03-12T10:13:57Z",
-            "content": "Comment on this story\r\nBERKELEY, Calif. The first course was a celery root soup lush with whole milk. The last was a spice cake topped with maple cream cheese frosting served with a side of ice cream\u2026 [+11602 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brandon Gillespie",
-            "title": "Indiana medical students subjected to DEI instruction on gender as part of basic human structure course - Fox News",
-            "description": "Indiana University School of Medicine students are receiving instruction on gender being a \"social construct,\" and that sex and gender are not the same thing.",
-            "url": "https://www.foxnews.com/politics/indiana-medical-students-dei-instruction-gender-basic-human-structure-course",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/Transplant-Doctors.jpg",
-            "publishedAt": "2023-03-12T10:00:00Z",
-            "content": "EXCLUSIVE: First-year students at the Indiana University School of Medicine are being subjected to woke diversity, equity and inclusion instruction as part of a basic Human Structure class, according\u2026 [+2529 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Moscow Times"
-            },
-            "author": "Maxime Popov for AFP",
-            "title": "While Some Russian Exiles Join Georgia Protests, Others Keep Away - The Moscow Times",
-            "description": "When thousands of Georgians protested this week to demand a bill similar to controversial Kremlin legislation be scrapped, some Russian exiles joined rallies that would have been unthinkable in their homeland.",
-            "url": "https://www.themoscowtimes.com/2023/03/12/while-some-russian-exiles-join-georgia-protests-others-keep-away-a80455",
-            "urlToImage": "https://static.themoscowtimes.com/image/og/7d/80455__7de060fe68b4975dce0e6ced0279fd13.jpg",
-            "publishedAt": "2023-03-12T09:28:57Z",
-            "content": "When thousands of Georgians protested this week to demand a bill similar to controversial Kremlin legislation be scrapped, some Russian exiles joined rallies that would have been unthinkable in their\u2026 [+3943 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nouran Salahieh",
-            "title": "Another atmospheric river takes aim at a storm-battered California still dealing with flooding and damaged roadways - CNN",
-            "description": "Another atmospheric river is making its way toward storm-battered California, where residents are still contending with flooded roadways, collapsed bridges, overflowing rivers, inundated neighborhoods and a levee breach that forced hundreds to evacuate.",
-            "url": "https://www.cnn.com/2023/03/12/us/california-atmospheric-river-flood-sunday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230312010724-01-california-flooding-031123.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-12T09:05:00Z",
-            "content": "Another atmospheric river is making its way toward storm-battered California, where residents are still contending with flooded roadways, collapsed bridges, overflowing rivers, inundated neighborhood\u2026 [+5366 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Times of Israel"
+                "id": "fox-sports",
+                "name": "Fox Sports"
             },
             "author": null,
-            "title": "IDF troops come under fire in West Bank, shoot and kill 3 gunmen - The Times of Israel",
-            "description": "Another Palestinian assailant turns himself in and is taken for questioning following incident near Jit, west of Nablus",
-            "url": "https://www.timesofisrael.com/idf-troops-come-under-fire-in-west-bank-shoot-and-reportedly-kill-3-gunmen/",
-            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/03/Fq_b-tgWIAAUnoO-1024x640.jpg",
-            "publishedAt": "2023-03-12T08:50:55Z",
-            "content": "Israeli soldiers came under fire by Palestinian gunmen early Sunday morning in the northern West Bank, responding with gunfire that killed three assailants, the military and Palestinian health offici\u2026 [+2808 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Moscow Times"
-            },
-            "author": "AFP",
-            "title": "Ukraine Readies Counteroffensive as Russia Inches Forward in Bakhmut - The Moscow Times",
-            "description": "The Ukrainian military was preparing Sunday for an upcoming counteroffensive, with a top commander saying his forces' ongoing defense of Bakhmut in the face of fierce and sustained Russian attacks was necessary to \"buy time\" for that push.",
-            "url": "https://www.themoscowtimes.com/2023/03/12/ukraine-readies-counteroffensive-as-russia-inches-forward-in-bakhmut-a80454",
-            "urlToImage": "https://static.themoscowtimes.com/image/og/4a/80454__4a2363c829ab80288a76ae8fcb2238f6.jpg",
-            "publishedAt": "2023-03-12T08:46:30Z",
-            "content": "The Ukrainian military was preparing Sunday for an upcoming counteroffensive, with a top commander saying his forces' ongoing defense of Bakhmut in the face of fierce and sustained Russian attacks wa\u2026 [+4515 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Dan Murphy",
-            "title": "Saudi oil giant Aramco posts record $161.1 billion profit for 2022 - CNBC",
-            "description": "Saudi state-controlled Aramco achieved a record profit last year, boosted by higher energy prices and firmer sale volumes.",
-            "url": "https://www.cnbc.com/2023/03/12/saudi-oil-giant-aramco-posts-record-161point1-billion-profit-for-2022.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107207062-1678523853046-gettyimages-1246001622-RAFAPRESS_04012023-04303.jpeg?v=1678607166&w=1920&h=1080",
-            "publishedAt": "2023-03-12T07:46:06Z",
-            "content": "The Aramco logo is displayed on a smartphone screen.\r\nSaudi Arabia's state-controlled oil giant Aramco on Sunday reported a record net income of $161.1 billion for 2022 the largest annual profit ever\u2026 [+3618 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Elizabeth Pritchett",
-            "title": "Most men diagnosed with prostate cancer don't need to rush to surgery, radiation treatments: study - Fox News",
-            "description": "A study in the New England Journal of Medicine showed most men diagnosed with localized prostate cancer can actively monitor the disease instead of jumping to surgery or radiation.",
-            "url": "https://www.foxnews.com/health/most-men-diagnosed-prostate-cancer-dont-need-rush-surgery-radiation-treatments-study",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/prostate-cancer_resized.jpg",
-            "publishedAt": "2023-03-12T07:15:00Z",
-            "content": "Men diagnosed with localized prostate cancer who want to avoid immediate surgery or radiation can safely choose to actively monitor the disease as a treatment method, according to a study released Sa\u2026 [+3097 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Evacuations underway in northern California after levee breached - CBS New York",
-            "description": "Evacuations are underway in northern California after a levee breached, triggering massive flooding. Joy Benedict reports for CBS2.",
-            "url": "https://www.youtube.com/watch?v=P7ibSBzGrUs",
-            "urlToImage": "https://i.ytimg.com/vi/P7ibSBzGrUs/maxresdefault.jpg",
-            "publishedAt": "2023-03-12T05:10:21Z",
+            "title": "Mexico leads USA early: WBC live updates and score - FOX Sports",
+            "description": "The 2023 World Baseball Classic continues on Sunday night, as Mexico takes on the USA in Pool C. Here are the top plays!",
+            "url": "https://www.foxsports.com/stories/mlb/mexico-usa-wbc-live-updates-and-score",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/03/1408/814/WBC.jpg?ve=1&tl=1",
+            "publishedAt": "2023-03-13T01:53:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Tuesday storm could possibly be the defining one of this winter - CBS Boston",
-            "description": "This one could be big. Of all the storms we have had over the course of this winter, this one next week has, by far, the most potential.",
-            "url": "https://www.cbsnews.com/boston/news/snow-boston-weather-forecast-storm-tuesday-bombogenesis-noreaster-wbz-tv/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/10/cfc5690e-55b0-4567-9358-3791e2e46e86/thumbnail/1200x630/5b42dfab08a872eb7e99f7653b9b9214/terry4-copy.jpg",
-            "publishedAt": "2023-03-12T05:03:00Z",
-            "content": "By Terry Eliasen, WBZ-TV Meteorologist, Executive Weather Producer\r\nBOSTON - This one could be big. Of all the storms we have had over the course of this winter, this one next week has, by far, the m\u2026 [+3855 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Kaitlan Collins, Aaron Pellish",
-            "title": "Pence says 'history will hold Donald Trump accountable' for January 6th - CNN",
-            "description": "Former Vice President Mike Pence made his most blistering comments yet about former President Donald Trump's role in the January 6 attack on the US Capitol during remarks Saturday evening at the annual Gridiron Club Dinner in Washington, DC.",
-            "url": "https://www.cnn.com/2023/03/11/politics/mike-pence-gridiron-dinner/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230210112530-mike-pence-file-1130.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-12T04:47:00Z",
-            "content": "Former Vice President Mike Pence made his most blistering comments yet about former President Donald Trumps role in the January 6 attack on the US Capitol during remarks Saturday evening at the annua\u2026 [+3826 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Milwaukee Journal Sentinel"
+                "name": "Variety"
             },
-            "author": "Ben Steele",
-            "title": "Marquette beat Xavier 65-51 in Big East tournament final - Milwaukee Journal Sentinel",
-            "description": "Tyler Kolek had 20 points and David Joplin added 12 off the bench to lead the top-seeded Golden Eagles to their first ever tournament title.",
-            "url": "https://www.jsonline.com/story/sports/college/marquette/2023/03/11/marquette-vs-xavier-basketball-game-score-big-east-tournament-championship-fox-live-stream-odds/69996006007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/12/PMJS/59e6304f-b296-49b9-99f8-1b8d0b7ab929-GAN_20230311_hmb_tu6_239.jpg?crop=2737,1540,x0,y182&width=2737&height=1540&format=pjpg&auto=webp",
-            "publishedAt": "2023-03-12T04:18:45Z",
-            "content": "NEW YORK Outside, the fa\u00e7ade of Madison Square Garden and the top of the Empire State Building were lit up in blue and gold.\r\nInside the Worlds Most Famous Arena, in a scene soundtracked by Frank Sin\u2026 [+8453 chars]"
+            "author": "Rebecca Rubin",
+            "title": "Ke Huy Quan Fights Through Tears While Winning Best Supporting Actor Oscar: \u2018This Is the American Dream!\u2019 - Variety",
+            "description": "Ke Huy Quan, a child star who returned to the spotlight after decades for \u201cEverything Everywhere All at Once,\u201d won the Oscar for best supporting actor. Earning the first standing ovatio\u2026",
+            "url": "https://variety.com/2023/film/news/ke-huy-quan-oscar-supporting-actor-everything-everywhere-all-at-once-1235544450/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/03/Ke-Huy-Quan-Best-Supporting-Actor-Win-Oscars-2.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-03-13T01:37:00Z",
+            "content": "Ke Huy Quan, a child star who returned to the spotlight after decades for \u201cEverything Everywhere All at Once,\u201d won the Oscar for best supporting actor.\r\nEarning the first standing ovation of the nigh\u2026 [+3427 chars]"
         },
         {
             "source": {
@@ -190,77 +73,194 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "SpaceX capsule returns crew of four from space station mission - Reuters.com",
-            "description": "Four crew members aboard a SpaceX Crew Dragon capsule splashed down off Florida's Gulf coast on Saturday, returning safely from a five-month science mission on the International Space Station.",
-            "url": "https://www.reuters.com/lifestyle/science/spacex-capsule-returns-crew-four-space-station-mission-2023-03-12/",
-            "urlToImage": "https://www.reuters.com/resizer/FMbvo0PeKybpAJx_Zbf3FhSQB-s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCUJUNEQ6BI5VP6HTTW6CSFH5A.jpg",
-            "publishedAt": "2023-03-12T04:14:00Z",
-            "content": "WASHINGTON, March 11 (Reuters) - Four crew members aboard a SpaceX Crew Dragon capsule splashed down off Florida's Gulf coast on Saturday, returning safely from a five-month science mission on the In\u2026 [+2220 chars]"
+            "title": "US stock futures rally as Fed acts to stabilise banks - Reuters.com",
+            "description": "U.S. stock futures rallied in Asian trade on Monday as authorities <a href=\"/business/finance/regulators-urged-find-silicon-valley-bank-buyer-industry-frets-about-fallout-2023-03-12/\">announced plans</a> to limit the fallout from the collapse of Silicon Valle\u2026",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-4-pix-2023-03-13/",
+            "urlToImage": "https://www.reuters.com/resizer/6RdyNBdHCMS79bPHlw7g3xnpAPg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PHC7Y5CKQJJ73EZJRJHR6TPP6U.jpg",
+            "publishedAt": "2023-03-13T01:08:00Z",
+            "content": "SYDNEY, March 13 (Reuters) - U.S. stock futures rallied in Asian trade on Monday as authorities announced plans to limit the fallout from the collapse of Silicon Valley Bank (SVB), while investors wa\u2026 [+4156 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MMA Fighting"
+                "name": "Rolling Stone"
             },
-            "author": "MMA Fighting Newswire",
-            "title": "UFC Las Vegas post-fight show: Reaction to Merab Dvalishvili\u2019s dominance over Petr Yan - MMA Fighting",
-            "description": "MMA Fighting reacts to Merab Dvalishvili\u2019s one-sided win over Petr Yan and other storylines following UFC Las Vegas.",
-            "url": "https://www.mmafighting.com/2023/3/11/23636018/ufc-las-vegas-post-fight-show-reaction-to-merab-dvalishvilis-dominance-over-petr-yan",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/4p2yoq65orcBhh9KkSU2ujCqNnk=/0x58:3573x1929/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24498120/1472879826.jpg",
-            "publishedAt": "2023-03-12T03:35:49Z",
-            "content": "Despite being a sizable underdog, Merab Dvalishvili didnt just defeat Petr Yan in the main event of UFC Las Vegas, but he swept the scorecards against the former bantamweight champion. With title asp\u2026 [+824 chars]"
+            "author": "Marlow Stern",
+            "title": "Oscars Host Jimmy Kimmel Mocks Tom Cruise\u2019s Scientology Ties, Will Smith Slap - Rolling Stone",
+            "description": "Late-night funnyman dedicated his Oscars opening monologue to Nicole Kidman *and* Tom Cruise, and addressed the slap seen \u2018round the world",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/jimmy-kimmel-2023-oscars-monologue-tom-cruise-scientology-will-smith-slap-1234695243/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/03/GettyImages-1473077698.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-03-13T00:54:22Z",
+            "content": "Speaking to Rolling Stone ahead of his third Oscar-hosting stint, Jimmy Kimmel relayed that him and his late-night writing team had been putting in hours and hours of prep work for cinema\u2019s biggest n\u2026 [+2088 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "DW (English)"
+                "name": "Hawk Central"
             },
-            "author": "Deutsche Welle",
-            "title": "BBC mutiny escalates as stars rally behind Gary Lineker - DW (English)",
-            "description": "Some TV presenters refused to work in a show of solidarity with a colleague who was suspended after criticizing Britain's new migration policy. The walkout forced the UK broadcaster to cancel most of its soccer coverage.",
-            "url": "https://www.dw.com/en/bbc-mutiny-escalates-as-stars-rally-behind-gary-lineker/a-64957960",
-            "urlToImage": "https://static.dw.com/image/64958000_6.jpg",
-            "publishedAt": "2023-03-12T03:07:29Z",
-            "content": "The BBC was under pressure Saturday to reinstate its highest-paid\u00a0presenter Gary Lineker, who was suspended for\u00a0criticizing the country's new migration policy.\r\nThe decision by Britain's main public \u2026 [+4712 chars]"
+            "author": "Dargan Southard",
+            "title": "Iowa women's basketball lands No. 2 seed, on collision course with Stanford - Hawk Central",
+            "description": "The Hawkeyes landed a No. 2 seed and will open the NCAA Tournament Friday. The Hawkeyes and Stanford are on an Elite Eight collision course in Seattle.",
+            "url": "https://www.hawkcentral.com/story/sports/college/iowa/basketball-women/2023/03/12/iowa-womens-basketball-ncaa-tournament-vs-march-madness-stanford/69984882007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/26/PIHC/a91728b3-4a7e-4e0d-b284-b71683f05dc3-230226-Indiana_Iowa_wbb-021.JPG?crop=2958,1664,x0,y150&width=2958&height=1664&format=pjpg&auto=webp",
+            "publishedAt": "2023-03-13T00:44:25Z",
+            "content": "IOWA CITY For all the success Iowa womens basketball has delivered this year and theres been plenty the narrative-shaping part of this season starts right now.\r\nWith visions of the programs first Fin\u2026 [+3532 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Annabelle Timsit",
+            "title": "Prostate cancer study shows some men can avoid, delay aggressive treatments - The Washington Post",
+            "description": "In a group of men followed for a median of 15 years, mortality from prostate cancer was similar whether they received radiation, surgery or active monitoring.",
+            "url": "https://www.washingtonpost.com/health/2023/03/12/men-prostate-cancer-treatment-study/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DQKZGOGIFUI6RHAPF75PNVBCVI.jpg&w=1440",
+            "publishedAt": "2023-03-13T00:17:43Z",
+            "content": "Comment on this story\r\nLONDON More men with prostate cancer could afford to delay their treatment, a decades-long study has found, suggesting that active monitoring by health-care professionals is an\u2026 [+5023 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Erin Jensen",
+            "title": "Oscars best-dressed: Jaw-dropping looks from Lady Gaga, Michelle Yeoh, Angela Bassett - USA TODAY",
+            "description": "And the title of best dressed at the Oscars goes to... See the stars who are stunning with their sensational style.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2023/03/12/best-dressed-oscars-2023-red-carpet/11419479002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/12/USAT/f18dabba-6ff6-4082-b431-ba2cc5047514-XXX_2023_OSCARS_DM0652.jpg?crop=5471,3077,x0,y278&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2023-03-13T00:04:23Z",
+            "content": "*Looks around.* Is it time to make BEGOT a thing? Sure, having an Emmy, Grammy, Oscar and Tony is nice (we would imagine, as we clutch our participation trophies). But having all of those and a place\u2026 [+3063 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Mikaela Shiffrin sets World Cup skiing record with 87th win - CBS News",
-            "description": "Shiffrin broke a tie with Ingemar Stenmark on the all-time overall winners list between men and women.",
-            "url": "https://www.cbsnews.com/news/mikaela-shiffrin-sets-world-cup-skiing-record-with-87th-win/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/11/61d5c1b8-03ee-4c7f-b861-909a5ef7d954/thumbnail/1200x630/72be6a4ac0877609ef4a68adf7465471/ap23070485855164.jpg",
-            "publishedAt": "2023-03-12T02:28:00Z",
-            "content": "American skier Mikaela Shiffrin set the outright World Cup record for most career victories with 87 by winning a slalom Saturday.\r\nShiffrin broke a tie with Ingemar Stenmark on the all-time overall w\u2026 [+2837 chars]"
+            "title": "World markets set for aftershocks as SVB collapse ripples out - Reuters.com",
+            "description": "Markets were set for a bumpy ride this week as the fallout from collapsed startup-focused lender Silicon Valley Bank (SVB), the biggest U.S. bank failure since the 2008 financial crisis, coincides with <a href=\"/business/take-five/global-markets-themes-graphi\u2026",
+            "url": "https://www.reuters.com/markets/world-markets-set-aftershocks-svb-collapse-ripples-out-2023-03-12/",
+            "urlToImage": "https://www.reuters.com/resizer/y3asWso6NIGL5GFeMaxa1JVbZjU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GRCYHUOQRRPYHJJVZE2KE6FV3M.jpg",
+            "publishedAt": "2023-03-12T23:17:00Z",
+            "content": "SYDNEY, March 13 (Reuters) - Markets were set for a bumpy ride this week as the fallout from collapsed startup-focused lender Silicon Valley Bank (SVB), the biggest U.S. bank failure since the 2008 f\u2026 [+4756 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Elliot Spagat",
+            "title": "8 dead after smuggling boats capsize off San Diego coast - The Associated Press - en Espa\u00f1ol",
+            "description": "SAN DIEGO (AP) \u2014 At least eight people were killed when two migrant smuggling boats capsized in shallow but treacherous surf amid heavy fog, authorities said Sunday, marking one of the deadliest maritime human smuggling operations ever off of U.S.",
+            "url": "https://apnews.com/article/san-diego-beach-boat-deaths-migrants-d98169e8b193a0a00cee403617d59a10",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/15269ab39ecd463fb3050243ab890d49/3000.webp",
+            "publishedAt": "2023-03-12T23:13:41Z",
+            "content": "SAN DIEGO (AP) At least eight people were killed when two migrant smuggling boats capsized in shallow but treacherous surf amid heavy fog, authorities said Sunday, marking one of the deadliest mariti\u2026 [+3505 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Nic Coury",
+            "title": "As atmospheric river exits, a new storm threatens California - The Associated Press - en Espa\u00f1ol",
+            "description": "WATSONVILLE, Calif. (AP) \u2014 Wet, miserable weather continued across huge swaths of California on Sunday as an atmospheric river that caused major flooding flowed eastward, while a new storm threatened another onslaught of rain, snow and gusting winds as soon a\u2026",
+            "url": "https://apnews.com/article/california-flooding-atmospheric-river-pajaro-weather-aad89f72c48576f28afa907e332f2992",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/bef8f1b5bd0f4a18893d7572e5b8cf23/3000.webp",
+            "publishedAt": "2023-03-12T22:41:15Z",
+            "content": "WATSONVILLE, Calif. (AP) Wet, miserable weather continued across huge swaths of California on Sunday as an atmospheric river that caused major flooding flowed eastward, while a new storm threatened a\u2026 [+4891 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gawon Bae, Yoonjung Seo, Brad Lendon",
+            "title": "North Korea fires 2 missiles from submarine, state media reports - CNN",
+            "description": "North Korea launched two missiles from a submarine in the waters of the Sea of Japan Sunday morning local time, according to the state-run news agency KCNA.",
+            "url": "https://www.cnn.com/2023/03/12/world/north-korea-submarine-missile-launch/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221101230920-02-north-korea-missiles.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-12T22:29:00Z",
+            "content": "North Korea launched two missiles from a submarine in the waters of the Sea of Japan Sunday morning local time, according to the state-run news agency KCNA.\r\nThe strategic cruise missiles were launch\u2026 [+3117 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Federalreserve.gov"
             },
-            "author": "Muyao Shen and Yueqi Yang",
-            "title": "Crypto Exhales as USDC Stablecoin Rebounds Toward Peg After Being Roiled by SVB Exposure - Yahoo Finance",
-            "description": "(Bloomberg) -- Crypto\u2019s second-largest stablecoin rebounded toward its intended $1 dollar peg as issuer Circle Internet Financial Ltd. pledged to cover any...",
-            "url": "https://finance.yahoo.com/news/crypto-shaken-svb-exposure-depegs-135921373.html",
-            "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/f373770df77d60bdcaf491274a38770b",
-            "publishedAt": "2023-03-12T02:27:00Z",
-            "content": "(Bloomberg) -- Cryptos second-largest stablecoin rebounded toward its intended $1 dollar peg as issuer Circle Internet Financial Ltd. pledged to cover any shortfall in $3.3 billion of reverses held a\u2026 [+4946 chars]"
+            "author": null,
+            "title": "Joint Statement by Treasury, Federal Reserve, and FDIC - Federal Reserve",
+            "description": "Washington, DC -- The following statement was released by Secretary of the Treasury Janet L. Yellen, Federal Reserve Board Chair Jerome H. Powell, and FDIC Cha",
+            "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm",
+            "urlToImage": "",
+            "publishedAt": "2023-03-12T22:15:57Z",
+            "content": "Washington, DC -- The following statement was released by Secretary of the Treasury Janet L. Yellen, Federal Reserve Board Chair Jerome H. Powell, and FDIC Chairman Martin J. Gruenberg:\r\nToday we are\u2026 [+1932 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hollywood Reporter"
+                "name": "ESPN"
             },
-            "author": "Danielle Directo-Meston",
-            "title": "How to Watch the 2023 Oscars Online Without Cable - Hollywood Reporter",
-            "description": "Hollywood's biggest night takes place Sunday at the Dolby Theatre in Los Angeles \u2014 here's how to stream it live without cable.",
-            "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/watch-stream-oscars-2023-online-1235347727/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/oscars-95th-set-up-PUBLICITY-MAIN-2023.jpg?w=1024",
-            "publishedAt": "2023-03-12T02:00:50Z",
-            "content": "After returning with a trio of emcees last year, the 95th Oscars will be once again hosted by Jimmy Kimmel. The 2023 Academy Awards will air live on ABC Sunday, March 12, at 5 p.m. PT/8 p.m. ET.\r\nThi\u2026 [+5177 chars]"
+            "author": null,
+            "title": "Houston, Kansas, Purdue join Alabama as NCAA tourney's No. 1 seeds - ESPN",
+            "description": "The NCAA men's tournament selection committee named Alabama as the overall No. 1 seed Sunday night, hours after the Crimson Tide defeated Texas A&M to win the SEC championship, capping off a season full of headlines on and off the court.",
+            "url": "https://www.espn.com/mens-college-basketball/story/_/id/35845291/houston-kansas-purdue-join-alabama-ncaa-tourney-no-1-seeds",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0312%2Fr1143518_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-03-12T22:15:09Z",
+            "content": "INDIANAPOLIS -- Alabama is the overall top seed in the NCAA tournament after cruising through the end of a season clouded by a murder case over the past two months.\r\nThe Crimson Tide were awarded the\u2026 [+3286 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "The Kim Komando Show",
+            "title": "Stop! This mistake is loading your device with adware and trackers! - Fox News",
+            "description": "Your computer is sluggish, but you\u2019re not even doing much. Here are five processes you can end right now for a faster, smoother experience.",
+            "url": "https://www.foxnews.com/tech/stop-this-mistake-is-loading-your-device-with-adware-and-trackers",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/1-STRESSED-MAN-ON-LAPTOP.jpg",
+            "publishedAt": "2023-03-12T22:00:00Z",
+            "content": "Your computer is sluggish, but youre not even doing much. Here are five processes you can end right now for a faster, smoother experience. You can thank me later.\r\nSometimes you need to go further to\u2026 [+4804 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "Google Pixel 7a surfaces in hands-on leak with 8GB RAM, updated camera bar design - 9to5Google",
+            "description": "Breaking news on all things Google and Android. We provide breaking Google Pixel news, everything Android, Google Home, Google apps, Chromebooks, and more!",
+            "url": "https://9to5google.com/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-12T21:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "AJ McDougall",
+            "title": "No Evidence Russia Is Making Progress in Bakhmut: Report - The Daily Beast",
+            "description": "The Wagner Group is \u201clikely becoming increasingly pinned in urban areas\u201d of the Ukrainian city, a U.S.-based think tank said.",
+            "url": "https://www.thedailybeast.com/russian-advance-in-ukraines-bakhmut-stalling-think-tank-says",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2508,w_4458,x_0,y_243/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1678654812/2023-03-12T202137Z_1475258466_RC2VQZ9S55W3_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-DONETSK_ita01l",
+            "publishedAt": "2023-03-12T21:17:03Z",
+            "content": "There is no evidence that Russian forces are making headway in their ongoing bid to take the eastern Ukrainian city of Bakhmut, according to a report published late Saturday by a Washington-based thi\u2026 [+758 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Dozens arrested at protests against govt in Moldova - Al Jazeera English",
+            "description": "Some 4,500 people decrying high prices massed in the capital Chisinau to protest against President Maia Sandu.",
+            "url": "https://www.aljazeera.com/news/2023/3/12/police-in-moldova-detain-more-than-50-as-protests-rock-capital",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-12T141742Z_953815842_RC2ESZ97TNPT_RTRMADP_3_MOLDOVA-CRISIS-PROTEST.jpg?resize=1920%2C1316",
+            "publishedAt": "2023-03-12T21:04:25Z",
+            "content": "Police in Moldova have detained more than 50 people as thousands gathered to protest against pro-European President Maia Sandu.\r\nSome 4,500 protesters, decrying high prices, massed in the capital Chi\u2026 [+2950 chars]"
         }
     ]
 }
