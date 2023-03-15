@@ -1,110 +1,214 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Jihye Lee, Lim Hui Jie",
-            "title": "Japan's Topix slides 2% in Asia's sell-off over Silicon Valley Bank concerns - CNBC",
-            "description": "Asia markets tumbled in a volatile session, continuing sharp losses seen on Wall Street as investors grapple with the fallout of failed banks in the U.S., including Silicon Valley Bank.",
-            "url": "https://www.cnbc.com/2023/03/14/asia-markets-set-to-fall-tracking-wall-street-losses-as-the-fallout-over-svb-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106788828-1604964906278-gettyimages-1229336423-JAPAN_TRADING.jpeg?v=1678756274&w=1920&h=1080",
-            "publishedAt": "2023-03-14T02:27:00Z",
-            "content": "Asia-Pacific markets tumbled on Tuesday in a volatile session, after sharp losses seen overnight on Wall Street as investors grappled with the fallout of failed banks in the U.S., including Silicon V\u2026 [+1023 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": null,
-            "title": "NCAA Tournament 2023 bracket picks, Cinderella teams, best upsets: Model simulates March Madness 10000 times - CBS Sports",
-            "description": "SportsLine's college basketball model called 18 first-round NCAA Tournament upsets by double-digit seeds",
-            "url": "https://www.cbssports.com/college-basketball/news/ncaa-tournament-2023-bracket-picks-cinderella-teams-best-upsets-model-simulates-march-madness-10000-times/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/13/78579084-eaa9-49f2-a43d-e292b7bd9fde/thumbnail/1200x675/b37357198a093138e395f4a2365fb937/iowa-basketball-cbs-usatsi.jpg",
-            "publishedAt": "2023-03-14T01:28:09Z",
-            "content": "Defending champion Kansas was discarded by some experts when it went through a rough patch early in conference play this season, but the Jayhawks won the Big 12 regular-season title with a strong fin\u2026 [+4230 chars]"
+            "author": "Jeff Cox",
+            "title": "CPI inflation February 2023: - CNBC",
+            "description": "Excluding volatile food and energy prices, core CPI increased 0.5% in February and 5.5% on a 12-month basis.",
+            "url": "https://www.cnbc.com/2023/03/14/cpi-inflation-february-2023-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107195792-16765636862023-02-16t151931z_117200947_rc2ecz937tqu_rtrmadp_0_usa-eggs-antitrust.jpeg?v=1678797082&w=1920&h=1080",
+            "publishedAt": "2023-03-14T12:31:22Z",
+            "content": "Inflation rose in February but was in line with expectations, providing a key input into whether the Federal Reserve continues to raise interest rates.\r\nThe consumer price index increased 0.4% for th\u2026 [+3394 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "C Mandler",
-            "title": "Tennessee Lt. Gov. Randy McNally apologizes for commenting on suggestive Instagram photos - CBS News",
-            "description": "McNally also said he would be pausing his social media activity after he was seen routinely commenting on racy photos of a young, gay man.",
-            "url": "https://www.cbsnews.com/news/randy-mcnally-tennessee-lt-governor-apologizes-for-instagram-comments-franklyn-mcclure/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/13/4c3a13fd-85fc-4710-94fc-78bac4b3cc1e/thumbnail/1200x630/c176674ec460e184e47e7cd95f80f5a7/ap21300823856789.jpg",
-            "publishedAt": "2023-03-14T01:19:57Z",
-            "content": "Tennessee's Republican Lieutenant Governor Randy McNally has apologized for routine comments he left on the suggestive Instagram posts of a 20-year-old gay man and other members of the LGBTQ+ communi\u2026 [+3847 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": null,
-            "title": "2023 NFL free-agency tracker: Signings, best players available - FOX Sports",
-            "description": "Here's a look at the signings have been made throughout the NFL, along with the top players still available.",
-            "url": "https://www.foxsports.com/stories/nfl/2023-nfl-free-agency-tracker-signings-best-players-available",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/03/1408/814/03.13.23_NFL-Free-Agency-Tracker_Horizontal.jpg?ve=1&tl=1",
-            "publishedAt": "2023-03-14T01:16:00Z",
-            "content": "NFL\r\n free agency is here!\r\nThe legal tampering period opened Monday at 12 p.m. ET, allowing all free agents to discuss contracts and reach agreements with teams.\r\nFree agency will officially open wh\u2026 [+7739 chars]"
+            "author": "Stephen Smith",
+            "title": "Submarine with 2 bodies, 3 tons of cocaine seized in the Pacific Ocean off Colombia - CBS News",
+            "description": "Almost 5,800 pounds of cocaine, worth more than $87 million, was found on board the roughly 50-foot-long submarine, officials said.",
+            "url": "https://www.cbsnews.com/news/submarine-2-bodies-3-tons-cocaine-seized-colombia-navy/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/14/e8af710f-0851-46d3-840f-8971841ba9b7/thumbnail/1200x630g8/ae72d6687ec2ab2bb30b9d2289d9bc9e/sub.jpg",
+            "publishedAt": "2023-03-14T11:48:51Z",
+            "content": "A submarine with two dead bodies and nearly three tons of cocaine aboard was seized in the Pacific Ocean off the coast of Colombia, the country's navy announced\u00a0Sunday. Two survivors \"in poor health\"\u2026 [+1981 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Katie Hunt",
-            "title": "Mediterranean diet linked with reduced risk of dementia - CNN",
-            "description": "There's no cure or proven way to prevent dementia, which affects 55 million people around the world, but a number of studies have said that following a Mediterranean diet may reduce the risk of developing the condition.",
-            "url": "https://www.cnn.com/2023/03/13/health/mediterranean-diet-dementia-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230313160629-mediterranean-diet-dementia.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-14T01:00:00Z",
-            "content": "Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life. \r\nTheres no cure or provenway to\u2026 [+5153 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brandon Gillespie",
-            "title": "Former chief of staff to Gavin Newsom siding with Walgreens in abortion pill fight amid rising tensions - Fox News",
-            "description": "Democratic California Gov. Gavin Newsom's first chief of staff is reportedly repping Walgreens amid rising tensions between the governor and the company over the distribution of abortion pills.",
-            "url": "https://www.foxnews.com/politics/former-chief-staff-gavin-newsom-siding-walgreens-abortion-pill-fight-rising-tensions",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/9afbb774-GettyImages-1459218162.jpg",
-            "publishedAt": "2023-03-14T00:43:00Z",
-            "content": "The first chief of staff to Democratic California Gov. Gavin Newsom is siding against her former boss following his decision to cut ties between his state and nationwide pharmacy chain Walgreens afte\u2026 [+1833 chars]"
+            "author": "Ben Morse",
+            "title": "NFL free agency: Who's going where and what to expect - CNN",
+            "description": "After the NFL scouting combine, the beginning of the free agency period is the next major milestone in the upcoming season's checklist.",
+            "url": "https://www.cnn.com/2023/03/14/sport/nfl-free-agency-preview-2023-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230313115617-aaron-rodgers-lamar-jackson-split-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-14T11:29:00Z",
+            "content": "After the NFL scouting combine, the beginning of the free agency period is the next major milestone in the upcoming seasons checklist. \r\nWhile it officially opens at 4 p.m. Eastern Time on March 15 w\u2026 [+5218 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Boston.com"
+                "name": "Yahoo Entertainment"
             },
-            "author": null,
-            "title": "7 Massachusetts snow maps for Monday\u2019s long-lasting March nor\u2019easter - Boston.com",
-            "description": "A powerful nor'easter is bringing snow, rain, and potentially damaging winds to Massachusetts and is expected to last into Wednesday.",
-            "url": "https://www.boston.com/weather/snow/2023/03/12/massachusetts-snow-maps-noreaster-monday-tuesday-wednesday-march-13-14-15-2023/",
-            "urlToImage": "https://www.boston.com/wp-content/uploads/2023/03/snow-plow-boston-640f1e0f3dd5d-scaled.jpg",
-            "publishedAt": "2023-03-14T00:39:41Z",
-            "content": "It's a great time to be a meteorologist. Kinda. \r\nRain tonight switches to snow tomorrow\u2026along the coast, it may switch MANY times between rain &amp; snow. Totals there, not so deep. Winds 45-65 at/n\u2026 [+144 chars]"
+            "author": "Ryan Young",
+            "title": "March Madness 2023: NCAA tournament printable brackets, dates, times and more - Yahoo Sports",
+            "description": "The NCAA tournament brackets are here.",
+            "url": "https://sports.yahoo.com/march-madness-2023-ncaa-basketball-tournament-printable-brackets-dates-times-and-more-112340630.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-03/d485be51-c12c-11ed-9f3f-148c8b08a5d9",
+            "publishedAt": "2023-03-14T11:23:40Z",
+            "content": "Its finally March, by far the best time of the year for college basketball.\r\nHeres everything you need to know to keep up with both the mens and womens NCAA tournaments this spring.\r\nWhen is Selectio\u2026 [+7387 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": null,
+                "name": "Page Six"
             },
-            "author": "Greg Wehner",
-            "title": "Arizona Sen. Mark Kelly calls for censorship of social media companies to prevent bank run: report - Fox News",
-            "description": "Sen. Mark Kelly, D-AZ, called for social media to be censored during a meeting regarding the bailout of the Silicon Valley Bank, to prevent a bank run.",
-            "url": "https://www.foxnews.com/politics/sen-mark-kelly-calls-censorship-social-media-companies-prevent-bank-run-report",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/mark-kelly-NASA.gif",
-            "publishedAt": "2023-03-14T00:17:00Z",
-            "content": "Sen. Mark Kelly, D-Ariz., asked during a meeting about the bailout of Silicon Valley Bank whether social media could be censored to prevent misinformation going out that could lead to a bank run, acc\u2026 [+2080 chars]"
+            "author": "Nika Shakhnazarova",
+            "title": "Andy Cohen issues PSA for upcoming 'Pump Rules' episode: 'You won't believe it' - Page Six",
+            "description": "The \u201cWatch What Happens Live\u201d host said Bravo fans aren\u2019t going to believe that Wednesday\u2019s episode has not been edited since news of the affair came to light.",
+            "url": "https://pagesix.com/2023/03/14/andy-cohen-issues-psa-for-upcoming-pump-rules-episode/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/03/andy-cohen-raquel-leviss-tom-sandoval-ariana-madix-48.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-03-14T11:08:00Z",
+            "content": "Andy Cohen has issued a PSA over the \u201cshocking\u201d upcoming episode of \u201cVanderpump Rules\u201d as the fallout from Tom Sandoval\u2019s affair with Raquel Leviss continues to unravel.\r\nThe \u201cWatch What Happens Live\u2026 [+3750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound, Fred Imbert",
+            "title": "First Republic shares jump 40% as regional banks try to rebound from Monday\u2019s sell-off - CNBC",
+            "description": "Regional bank stocks rebounded on Tuesday as investors digested the fall-out from the collapse of Silicon Valley Bank and stabilization efforts from regulators.",
+            "url": "https://www.cnbc.com/2023/03/14/first-republic-shares-jump-as-regional-banks-try-to-rebound-from-mondays-selloff.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107207471-1678710077938-gettyimages-1247997034-FIRST_REPUBLIC_BANK.jpeg?v=1678791818&w=1920&h=1080",
+            "publishedAt": "2023-03-14T11:03:38Z",
+            "content": "Shares of First Republic were up sharply in early Tuesday trading as concern over the state of the regional bank appeared to ease after a day of heavy selling.\r\nThe stock traded 52% higher in the pre\u2026 [+1870 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hanna Ziady",
+            "title": "Credit Suisse finds 'material weakness' in its financial reporting, scraps exec bonuses - CNN",
+            "description": "Credit Suisse on Tuesday acknowledged \"material weakness\" in its financial reporting as it scrapped bonuses for top executives in the wake of its worst annual performance since the global financial crisis.",
+            "url": "https://www.cnn.com/2023/03/14/investing/credit-suisse-financial-reporting-weakness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230314090127-credit-suisse-file-111722.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-14T10:49:00Z",
+            "content": "Credit Suisse on Tuesday acknowledged material weakness in its financial reporting as it scrapped bonuses for top executives in the wake of its worst annual performance since the global financial cri\u2026 [+1254 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Eric Garcia",
+            "title": "Trump rails against probes as he posts videos complaining about DeSantis and defending Kim Jong Un - The Independent",
+            "description": "The former president is set to campaign in Iowa",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-desantis-iowa-kim-jong-un-b2300413.html",
+            "urlToImage": "https://static.independent.co.uk/2023/03/13/21/GettyImages-1471924602.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-03-14T10:38:11Z",
+            "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nFormer president Donald Trump railed against numerous pe\u2026 [+2960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ct.gov"
+            },
+            "author": null,
+            "title": "Governor Lamont Orders Executive Branch State Office Buildings Closed to the Public Tuesday Due to Winter Storm - CT.gov",
+            "description": "Governor Ned Lamont today announced that he is ordering all executive branch state office buildings closed to the public on Tuesday, March 14, 2023, due to the significant winter storm that is anticipated to impact certain areas of Connecticut throughout the \u2026",
+            "url": "https://portal.ct.gov/Office-of-the-Governor/News/Press-Releases/2023/03-2023/Governor-Lamont-Orders-Executive-Branch-State-Office-Buildings-Closed-to-the-Public-Tuesday",
+            "urlToImage": "https://portal.ct.gov/Assets/Images/facebook-default_01.png",
+            "publishedAt": "2023-03-14T10:14:25Z",
+            "content": "Press Releases\r\n03/14/2023 \r\nGovernor Lamont Orders Executive Branch State Office Buildings Closed to the Public Tuesday Due to Winter Storm\r\n(HARTFORD, CT) \u2013 Governor Ned Lamont today announced that\u2026 [+1969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "This Hollywood Star \"Literally Gasped\" When Natasha Poonawalla Passed By At Vanity Fair Party - NDTV Movies",
+            "description": "For the event, Natasha Poonawalla stepped out in a Jean Paul Gaultier ensemble in bright gold",
+            "url": "https://www.ndtv.com/entertainment/on-natasha-poonawalla-s-oscar-after-party-look-ariana-debose-said-this-3859267",
+            "urlToImage": "https://c.ndtvimg.com/2023-03/g09cjdp8_natasha-_625x300_14_March_23.jpg",
+            "publishedAt": "2023-03-14T10:08:00Z",
+            "content": "Natasha Poonawalla shared this image. (courtesy: natasha.poonawalla)\r\nNatasha Poonawalla has become synonymous with iconic red-carpet looks that manage to impress fashion connoisseurs across the worl\u2026 [+1985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Sam Skove",
+            "title": "Huliapole in Southern Ukraine Braces for 'Decisive' Counteroffensive on Russian Forces - The Daily Beast",
+            "description": "The next onslaught could very well be this town\u2019s do-or-die moment.",
+            "url": "https://www.thedailybeast.com/huliapole-in-southern-ukraine-braces-for-decisive-counteroffensive-on-russian-forces",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1678760356/041423-skove-ukrainer-hero_dr7u8i",
+            "publishedAt": "2023-03-14T09:41:02Z",
+            "content": "HULIAIPOLE, UkraineThe lightning crack of shellfire has long replaced the hum of traffic on the streets of Huliaipole, a historic farming city on Ukraines front line.\r\nOn a February morning blanketed\u2026 [+6645 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Kurt Schussler",
+            "title": "Global Financial Stocks Lose $465 Billion on SVB Collapse, Contagion Fears - Bloomberg",
+            "description": "A selloff in global financial stocks paused Tuesday after a two-day, $465 billion wipeout.",
+            "url": "https://www.bloomberg.com/news/articles/2023-03-14/global-financial-stocks-lose-465-billion-on-svb-impact-worry",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPMzX7z8eXaQ/v0/1200x800.jpg",
+            "publishedAt": "2023-03-14T09:38:46Z",
+            "content": "A selloff in global financial stocks paused Tuesday after a two-day, $465 billion wipeout.\r\nA gauge of European bank shares fluctuated between gains and losses and US lenders rebounded in premarket t\u2026 [+321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Weather Channel"
+            },
+            "author": "The Weather Channel",
+            "title": "Nor'easter Brings Heavy Snow, High Winds To East - The Weather Channel",
+            "description": "Here's our latest forecast for who will see heavy snowfall, rain, high winds and coastal flooding. - Articles from The Weather Channel | weather.com",
+            "url": "https://weather.com/storms/winter/news/2023-03-13-noreaster-forecast-winter-storm-sage-northeast-winter-storm",
+            "urlToImage": "https://s.w-x.co/sagetueam.jpg",
+            "publishedAt": "2023-03-14T09:31:17Z",
+            "content": "At a Glance\r\n<ul><li>A nor'easter will continue to impact the East Coast through Wednesday.</li><li>Damaging winds, heavy snow and rain are expected.</li><li>Coastal flooding is also a threat at high\u2026 [+4718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Daniel Trotta",
+            "title": "Biden to reinforce background checks for gun buyers - Yahoo News",
+            "description": "U.S. President Joe Biden will announce an executive order on Tuesday that reinforces background checks for gun buyers in what the White House is promoting as...",
+            "url": "https://news.yahoo.com/biden-reinforce-background-checks-gun-090949876.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/97eb6f85bcb2780ef3e7565bf63b22f9",
+            "publishedAt": "2023-03-14T09:09:49Z",
+            "content": "By Daniel Trotta\r\n(Reuters) - U.S. President Joe Biden will announce an executive order on Tuesday that reinforces background checks for gun buyers in what the White House is promoting as the most co\u2026 [+2921 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/james-trew",
+            "title": "Sennheiser's 'Profile' microphone for streamers gets a lot right - Engadget",
+            "description": "It's been a long time coming, but Sennheiser's first desktop USB microphone isn't cutting any corners..",
+            "url": "https://www.engadget.com/sennheisers-profile-microphone-for-streamers-gets-a-lot-right-090017043.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/fHQMJOSFLpiVYVEfV2QKag--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/91aee5f0-c264-11ed-877d-c62c54c26d20.cf.jpg",
+            "publishedAt": "2023-03-14T09:02:13Z",
+            "content": "Sennheiser needs little introduction, but theres a chance you know the company best for its headphones and soundbars. Meanwhile, in the pro audio world, its perhaps most famous for its microphones - \u2026 [+2658 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Donald Judd",
+            "title": "Biden says Carter asked him to deliver his eulogy - CNN",
+            "description": "Former President Jimmy Carter has asked Joe Biden to deliver his eulogy following his death, the president said Monday.",
+            "url": "https://www.cnn.com/2023/03/14/politics/jimmy-carter-eulogy-biden/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230313235622-jimmy-carter-joe-biden-031323.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-14T07:02:00Z",
+            "content": "Former President Jimmy Carter has asked Joe Biden to deliver his eulogy following his death, the president said Monday.\r\nHe asked me to do his eulogy excuse me, I shouldnt say that, Biden told suppor\u2026 [+2117 chars]"
         },
         {
             "source": {
@@ -112,12 +216,25 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Two dead, nine injured after being struck by van in Canada's Quebec - Reuters Canada",
-            "description": "Two people were killed and nine injured after being struck by a van on Monday in the Canadian town of Amqui, Quebec, provincial police said.",
-            "url": "https://www.reuters.com/world/americas/multiple-pedestrians-struck-by-pickup-truck-canadas-quebec-cbc-news-2023-03-13/",
-            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=132",
-            "publishedAt": "2023-03-14T00:04:00Z",
-            "content": "March 13 (Reuters) - Two people were killed and nine injured after being struck by a van on Monday in the Canadian town of Amqui, Quebec, provincial police said.\r\nPolice spokeswoman H\u00e9l\u00e8ne St-Pierre \u2026 [+1256 chars]"
+            "title": "Eyeing China, Biden and allies unveil nuclear-powered submarine plan for Australia - Reuters",
+            "description": "The United States, Australia and Britain unveiled details of a plan to provide Australia with nuclear-powered attack submarines from the early 2030s to counter China's ambitions in the Indo-Pacific.",
+            "url": "https://www.reuters.com/world/eyeing-china-biden-allies-unveil-nuclear-powered-submarine-plan-australia-2023-03-13/",
+            "urlToImage": "https://www.reuters.com/resizer/nNmxxvIlWLg_G0dSQ1_oRh3Pn_g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4FQOKL3JXJNALOSSGZV5KG6LQQ.jpg",
+            "publishedAt": "2023-03-14T06:07:00Z",
+            "content": "SAN DIEGO/CANBERRA, March 14 (Reuters) - The United States, Australia and Britain unveiled details of a plan to provide Australia with nuclear-powered attack submarines from the early 2030s to counte\u2026 [+7491 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Learning from Ukraine, Taiwan shows off its drones as key to 'asymmetric warfare' - Reuters",
+            "description": "Taiwan showcased new models of its domestically produced military drones on Tuesday, saying they are key to its \"asymmetric warfare\" capacity to make its forces more agile if they have to face a far larger Chinese military.",
+            "url": "https://www.reuters.com/world/asia-pacific/learning-ukraine-taiwan-shows-off-its-drones-key-asymmetric-warfare-2023-03-14/",
+            "urlToImage": "https://www.reuters.com/resizer/r67mJnbcP5PeVW_Bp1Tb0KfLZLE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YYIMG6Y7NZIPZD7APQRV32KBZA.jpg",
+            "publishedAt": "2023-03-14T05:49:00Z",
+            "content": "TAICHUNG, Taiwan, March 14 (Reuters) - Taiwan showcased new models of its domestically produced military drones on Tuesday, saying they are key to its \"asymmetric warfare\" capacity to make its forces\u2026 [+2435 chars]"
         },
         {
             "source": {
@@ -125,142 +242,25 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Michelle Yeoh's Mom IN TEARS Reacting to Daughter Winning an Oscar - Entertainment Tonight",
-            "description": "Michelle Yeoh\u2019s mother cried tears of joy when her daughter made history at the 95th Academy Awards. The Malaysian-born star became the first Asian Best Actr...",
-            "url": "https://www.youtube.com/watch?v=UU75lqDeXmk",
-            "urlToImage": "https://i.ytimg.com/vi/UU75lqDeXmk/maxresdefault.jpg",
-            "publishedAt": "2023-03-14T00:00:08Z",
+            "title": "Piers Morgan mocks Angela Bassett who didn\u2019t \u2018get the memo\u2019 at Oscars - youtube.com",
+            "description": "Sky News Australia host Piers Morgan lampooned actress Angela Bassett for her sour reaction to losing the award for Best Supporting Actress at the Academy Aw...",
+            "url": "https://www.youtube.com/watch?v=2erNjXAKJAM",
+            "urlToImage": "https://i.ytimg.com/vi/2erNjXAKJAM/maxresdefault.jpg",
+            "publishedAt": "2023-03-14T05:15:44Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "The Guardian"
             },
-            "author": "",
-            "title": "2023 NCAA Tournament bracket predictions: March Madness expert picks, winners, upsets, favorites to win - CBS Sports",
-            "description": "Our experts have filled out their brackets, so check who they predict will be cutting down the nets before you fill out yours",
-            "url": "https://www.cbssports.com/college-basketball/news/2023-ncaa-tournament-bracket-predictions-march-madness-expert-picks-winners-upsets-favorites-to-win/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/11/8a8c4403-43fb-441f-9da6-170661e50b16/thumbnail/1200x675/cd1673c46b46fe57da9c26eeaf779ec6/march-madness-basketball-stand-2022-g.png",
-            "publishedAt": "2023-03-14T00:00:00Z",
-            "content": "The college basketball season began with more than 350 teams eligible to compete in the 2023 NCAA Tournament. On Sunday, the field of contenders shrunk to 68 as the Division I Men's Basketball Commit\u2026 [+4162 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Matthew Daly",
-            "title": "Biden OKs Alaska oil project, draws ire of environmentalists - The Associated Press - en Espa\u00f1ol",
-            "description": "WASHINGTON (AP) \u2014 The Biden administration said Monday it is approving a huge oil-drilling project on Alaska\u2019s petroleum-rich North Slope, a major environmental decision  by President Joe Biden that drew quick condemnation  as flying in the face of his pledge\u2026",
-            "url": "https://apnews.com/article/alaska-oil-biden-willow-drilling-climate-24f135580259b9f9b245383dba921fe7",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f93e49c9c16c49b0b4954873a52aee17/2192.webp",
-            "publishedAt": "2023-03-13T23:57:39Z",
-            "content": "WASHINGTON (AP) The Biden administration said Monday it is approving a huge oil-drilling project on Alaskas petroleum-rich North Slope, a major environmental decision by President Joe Biden that drew\u2026 [+7759 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Aukus deal: US, UK and Australia agree on nuclear submarine project - BBC",
-            "description": "The US, UK and Australia say new nuclear-powered submarines will help ensure stability in the Pacific.",
-            "url": "https://www.bbc.com/news/world-australia-64945819",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/153B7/production/_128976968_mediaitem128976967.jpg",
-            "publishedAt": "2023-03-13T23:56:23Z",
-            "content": "Media caption, Joe Biden: \"Nuclear-powered, not nuclear-armed subs\"\r\nThe leaders of the US, UK and Australia have unveiled new details of their plan to create a fleet of next generation nuclear-power\u2026 [+5459 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Rebecca Falconer, Andrew Freedman",
-            "title": "California storm: Next atmospheric river takes aim amid rain, flooding - Axios",
-            "description": "Officials warn the storm that's set to hit today could hit areas inundated by flooding in the earlier atmospheric river event.",
-            "url": "https://www.axios.com/2023/03/13/california-storm-atmospheric-river-more-rain-flooding",
-            "urlToImage": "https://images.axios.com/Szq8wPCb_9B9Ke3NcHsfeGxWZVA=/217x0:5081x2736/1366x768/2023/03/13/1678675838085.jpg",
-            "publishedAt": "2023-03-13T23:26:15Z",
-            "content": "California faces another atmospheric river event Monday through Wednesday that forecasters warn will bring a heavy rains, extensive flooding and mountain snow to much of the state\u00a0as officials contin\u2026 [+3286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "Refurbished iPhone 13 Models Now Available From Apple's U.S. Store - MacRumors",
-            "description": "Apple today added refurbished iPhone 13, iPhone 13 Pro, and iPhone 13 Pro Max devices to its online store in the United States, offering the...",
-            "url": "https://www.macrumors.com/2023/03/13/apple-refurbished-iphone-13/",
-            "urlToImage": "https://images.macrumors.com/t/kgQxTIwcUmr1CDdBJ7UGdGnFFCU=/1600x/article-new/2023/03/apple-refurbished-iphone-13.jpg",
-            "publishedAt": "2023-03-13T22:53:53Z",
-            "content": "Apple today added refurbished iPhone 13, iPhone 13 Pro, and \u200ciPhone 13 Pro\u200c Max devices to its online store in the United States, offering the smartphones at a discounted price. The \u200ciPhone 13\u200c is av\u2026 [+1734 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "MARY CLARE JALONICK and LISA MASCARO",
-            "title": "McConnell released from hospital, headed to inpatient rehab - Yahoo News",
-            "description": "Senate Republican Leader Mitch McConnell was released from the hospital Monday after treatment for a concussion and will continue to recover in an inpatient ...",
-            "url": "https://news.yahoo.com/mcconnell-released-hospital-headed-inpatient-212610118.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qSCKs8dnvTcqg0C_UXFZ7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/0697fabb99c05cddb34a0205ff7c8375",
-            "publishedAt": "2023-03-13T21:26:10Z",
-            "content": "WASHINGTON (AP) Senate Republican Leader Mitch McConnell was released from the hospital Monday after treatment for a concussion and will continue to recover in an inpatient rehabilitation facility, a\u2026 [+2291 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SpaceNews"
-            },
-            "author": "Jeff Foust",
-            "title": "NASA planning to spend up to $1 billion on space station deorbit module - SpaceNews",
-            "description": "NASA is projecting spending nearly $1 billion on a tug to deorbit the International Space Station at the end of the decade.",
-            "url": "https://spacenews.com/nasa-planning-to-spend-up-to-1-billion-on-space-station-deorbit-module/",
-            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/03/iss-march2023.jpg",
-            "publishedAt": "2023-03-13T21:25:03Z",
-            "content": "WASHINGTON NASA is projecting spending nearly $1 billion on a tug to deorbit the International Space Station at the end of the decade to provide redundancy for safely disposing of the station.\r\nNASA \u2026 [+4132 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Jazz Tangcay",
-            "title": "\u2018The Last of Us\u2019 Used Real, Trained Giraffes and an Abandoned Hospital in Season Finale - Variety",
-            "description": "SPOILER ALERT:\u00a0This contains spoilers from the Season 1 finale of \u201cThe Last of Us,\u201d now streaming on\u00a0HBO\u00a0Max. Sunday\u2019s season finale of \u201cThe Last of Us\u201d tackled two\u2026",
-            "url": "https://variety.com/2023/artisans/news/the-last-of-us-finale-giraffes-real-hospital-1235552452/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/03/TLU109_051422_LH_0087.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2023-03-13T21:20:05Z",
-            "content": "SPOILER ALERT:\u00a0This contains spoilers from the Season 1 finale of \u201cThe Last of Us,\u201d now streaming on\u00a0HBO\u00a0Max.\r\nSunday\u2019s season finale of \u201cThe Last of Us\u201d tackled two of the video games most famous sc\u2026 [+3768 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Samuel Axon",
-            "title": "Report: Tim Cook overruled Apple design team\u2019s request to delay XR headset - Ars Technica",
-            "description": "Article claims it\u2019s about Cook\u2019s legacy, but there may be more at play.",
-            "url": "https://arstechnica.com/gadgets/2023/03/report-tim-cook-overruled-apple-design-teams-request-to-delay-xr-headset/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/GettyImages-1154966852-760x380.jpg",
-            "publishedAt": "2023-03-13T20:37:13Z",
-            "content": "Enlarge/ Apple CEO Tim Cook.\r\n50 with \r\nA new report in the Financial Times claims that Apple CEO Tim Cook and COO Jeff Williams overrode design team objections to move forward with a new mixed-reali\u2026 [+3490 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "POLITICO.eu"
-            },
-            "author": "Stuart Lau",
-            "title": "China\u2019s Xi to meet Putin in Moscow, speak to Zelenskyy: reports - POLITICO Europe",
-            "description": "The Chinese leader reportedly plans to talk to Ukraine\u2019s president, though Kyiv wouldn\u2019t confirm or deny.",
-            "url": "https://www.politico.eu/article/china-xi-jinping-to-meet-vladimir-putin-in-moscow-speak-to-volodymyr-zelenskyy-reports/",
-            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/13/GettyImages-1247577727-scaled.jpg",
-            "publishedAt": "2023-03-13T20:33:00Z",
-            "content": "Chinese President Xi Jinping is planning to visit Moscow to meet with Vladimir Putin as early as next week, according to reports by Reuters and the Wall Street Journal.\r\nThe U.S. newspaper added that\u2026 [+1203 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Silicon Valley Bank: parent company, CEO and CFO sued amid market turmoil - The Guardian",
+            "description": "Proposed class-action lawsuit claims bank failed to reveal how rising interest rates made it \u2018particularly susceptible\u2019 to failure",
+            "url": "https://www.theguardian.com/business/2023/mar/14/silicon-valley-bank-lawsuit-fraud-shareholders",
+            "urlToImage": "https://i.guim.co.uk/img/media/21ffee6606f9bed849bbd3eb032f68172a456426/0_24_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f39eb54f3d29fed75b17585778f2c887",
+            "publishedAt": "2023-03-14T05:00:00Z",
+            "content": "SVB Financial Group and two top executives have been sued by shareholders over the collapse of Silicon Valley Bank, as global stocks continued to suffer on Tuesday despite assurances from US presiden\u2026 [+3418 chars]"
         }
     ]
 }
