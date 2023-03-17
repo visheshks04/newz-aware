@@ -1,123 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 33,
     "articles": [
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Kelsey Ables",
-            "title": "Man convicted of \u2018stealthing\u2019 after removing condom without consent - The Washington Post",
-            "description": "The 28-year-old was given a three-month suspended prison term and ordered to pay damages in what Dutch media said was the first such conviction in the country.",
-            "url": "https://www.washingtonpost.com/world/2023/03/15/stealthing-meaning-netherlands-conviction-rape/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RIWI57ARFRK2ZZZMLOGLUW6YMQ.jpg&w=1440",
-            "publishedAt": "2023-03-15T10:26:16Z",
-            "content": "Comment on this story\r\nA Dutch court has convicted a man of stealthing, or removing his condom without his partners consent and forcing unsafe sex, during a date in the summer of 2021. The court gave\u2026 [+3939 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Holly Ellyatt",
-            "title": "Ukraine war live updates: Moscow defends U.S. drone crash; British and German fighter jets intercept Russian aircraft - CNBC",
-            "description": "The fallout from an encounter between a U.S. drone and Russian fighter jets on Tuesday continues to be monitored closely.",
-            "url": "https://www.cnbc.com/2023/03/15/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105658302-1546542298921eurofighter.jpeg?v=1678870331&w=1920&h=1080",
-            "publishedAt": "2023-03-15T10:15:00Z",
-            "content": "Russia's Ambassador to the U.S. Anatoly Antonov appeared to blame the U.S. for the downing of a U.S. drone over the Black Sea on Tuesday that the U.S. military blamed on the \"reckless\" and \"unsafe\" b\u2026 [+1895 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lee Ying Shan",
-            "title": "Credit Suisse chairman says Silicon Valley Bank crisis looks 'local and contained' - CNBC",
-            "description": "On Friday, SVB was taken over by regulators after massive withdrawals a day earlier effectively created a bank run.",
-            "url": "https://www.cnbc.com/2023/03/15/credit-suisse-chairman-says-silicon-valley-bank-crisis-looks-contained.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106970622-16360253492021-11-04t061921z_804010473_rc26nq98ku8q_rtrmadp_0_credit-suisse-gp-results.jpeg?v=1678874847&w=1920&h=1080",
-            "publishedAt": "2023-03-15T10:07:27Z",
-            "content": "The contagion effect from the recent collapse of Silicon Valley Bank is local and contained, said Credit Suisse Chairman Axel Lehmann on Wednesday.\r\nEmbattled lenders Silicon Valley Bank and Silverga\u2026 [+2080 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Devan Cole",
-            "title": "Matthew Kacsmaryk: The Trump-appointed judge overseeing the blockbuster medication abortion lawsuit - CNN",
-            "description": "The federal judge overseeing a high-profile challenge to the FDA's two-decade-old approval of certain drugs used to terminate a pregnancy is a deeply conservative jurist with a proclivity for siding with plaintiffs looking to roll back reproductive and LGBTQ \u2026",
-            "url": "https://www.cnn.com/2023/03/15/politics/matthew-kacsmaryk-texas-judge-medication-abortion-lawsuit/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230313162856-03-matthew-kacsmaryk-file-2017.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-15T09:13:00Z",
-            "content": "The federal judge overseeing a high-profile challenge to the FDAs two-decade-old approval of certain drugs used to terminate a pregnancy is a deeply conservative jurist with a proclivity for siding w\u2026 [+6977 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Thomas Catenacci",
-            "title": "Blue-collar lobstermen sue environmental group for defamation: 'The harm is intentional' - Fox News",
-            "description": "Maine lobster industry groups and business owners filed a lawsuit this week, accusing a California-based eco group of defamation related to its \"sustainability\" ratings program.",
-            "url": "https://www.foxnews.com/politics/blue-collar-lobstermen-sue-environmental-group-defamation-harm-intentional",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/thumbnail_Hand-Harvesting_3.jpg",
-            "publishedAt": "2023-03-15T09:00:00Z",
-            "content": "A coalition of lobster businesses and industry groups from Maine filed a federal lawsuit this week, accusing a powerful environmental group that doles out \"sustainability\" ratings of defamation.\r\nThe\u2026 [+6954 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Rebecca Bodenheimer",
-            "title": "Brendan Fraser's Best Actor Win for 'The Whale': Fatphobia at Its Worst - The Daily Beast",
-            "description": "When Fraser received a standing ovation for his award on Sunday night, it was clear who voted for him: an industry full of those who continue to demonize and balk at fatness.",
-            "url": "https://www.thedailybeast.com/obsessed/brendan-frasers-best-actor-win-for-the-whale-fatphobia-at-its-worst",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1678856506/230314-bodenheimer-whale-tease_jiz03q",
-            "publishedAt": "2023-03-15T08:41:48Z",
-            "content": "Going into this years Oscars, I had a bad feeling that the Academy voters would give Best Actor to Brendan Fraser. Fraser was nominated for The Whale, a movie that many critics have characterized as \u2026 [+9156 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Impending Stellar \u201cDeath\u201d Revealed \u2013 NASA's Webb Telescope Captures Prelude to Supernova - SciTechDaily",
-            "description": "Wolf-Rayet 124: A Star in Transition Wolf-Rayet stars are a rare prelude to the famous final act of massive stars: the supernova. In one of its first observations, NASA\u2019s James Webb Space Telescope captured the Wolf-Rayet star WR 124 in unprecedented detail. \u2026",
-            "url": "https://scitechdaily.com/impending-stellar-death-revealed-nasas-webb-telescope-captures-prelude-to-supernova/",
-            "urlToImage": "https://scitechdaily.com/images/WR-124-Webb-NIRCam-and-MIRI-Composite-Image.jpg",
-            "publishedAt": "2023-03-15T08:23:31Z",
-            "content": "BySpace Telescope Science InstituteMarch 15, 2023\r\nThe luminous, hot star Wolf-Rayet 124 (WR 124) is prominent at the center of the James Webb Space Telescopes composite image combining near-infrared\u2026 [+7352 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "USA TODAY",
-            "title": "Wednesday weather forecast: Winter storm in New York, New England - USA TODAY",
-            "description": null,
-            "url": "https://www.usatoday.com/story/news/weather/2023/03/15/wednesday-weather-forecast-winter-storm-new-york-new-england/11473008002/",
-            "urlToImage": null,
-            "publishedAt": "2023-03-15T07:10:20Z",
-            "content": null
-        },
         {
             "source": {
                 "id": null,
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Taiwan ally Honduras seeks diplomatic switch to China - BBC",
-            "description": "The island will have formal diplomatic ties with only 13 countries if Honduras switches.",
-            "url": "https://www.bbc.com/news/world-asia-china-64960744",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B7F0/production/_128988074_gettyimages-1236879808.jpg",
-            "publishedAt": "2023-03-15T06:07:37Z",
-            "content": "Taiwan is in danger of losing one of its few formal allies, Honduras, as the Central American nation seeks official relations with China.\r\nHonduran President Xiomara Castro said the pivot aims to exp\u2026 [+2367 chars]"
+            "title": "North Korea fires long range missile ahead of Japan-South Korea talks - BBC",
+            "description": "The ICBM marks Pyongyang's fourth round of launches in a week as South Korea and Japan leaders meet.",
+            "url": "https://www.bbc.com/news/world-asia-64972944",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12C00/production/_129000867_295d9c5e11282629f1f6435246bd86930a0a9c040_99_5122_28815122x2881.jpg",
+            "publishedAt": "2023-03-16T01:36:45Z",
+            "content": "North Korea has fired an intercontinental ballistic missile (ICBM) just hours before the leaders of South Korea and Japan are due to meet for a landmark summit.\r\nBoth Japanese and South Korean offici\u2026 [+1672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Nasa reveals new spacesuit for Artemis moon landing - The Guardian",
+            "description": "Outfits for planned lunar expedition more streamlined and flexible than Apollo suits, and a better fit for women",
+            "url": "https://www.theguardian.com/science/2023/mar/16/nasa-reveals-new-spacesuit-for-artemis-moon-landing",
+            "urlToImage": "https://i.guim.co.uk/img/media/9616a27a67ad68df2482d4e3bbadec5aff0a50ba/1082_1380_6523_3914/master/6523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=320380f6ae10d00b6fc09d8a4292a971",
+            "publishedAt": "2023-03-16T01:34:00Z",
+            "content": "The big, puffy white moonsuits worn by Neil Armstrong and his fellow Apollo astronauts a half-century ago are out of fashion. Lunar haute couture now calls for something more form-fitting and comfort\u2026 [+2810 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "C Mandler",
+            "title": "Whoopi Goldberg apologizes for using a slur on \"The View\": \"I should've thought about it a little longer\" - CBS News",
+            "description": "This is not the first time the actor and talk show host has come under fire for her comments on the show.",
+            "url": "https://www.cbsnews.com/news/whoopi-goldberg-apologizes-ethnic-slur-the-view/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/15/84c25c93-775a-4347-8f35-ce24a7ac9fa7/thumbnail/1200x630g2/3c512322952a35f1a73cb25773c192e9/gettyimages-520717224.jpg",
+            "publishedAt": "2023-03-16T00:47:33Z",
+            "content": "Whoopi Goldberg has apologized for using a word considered an ethnic slur on Wednesday's episode of ABC's \"The View.\"\u00a0\r\nDuring a conversation on the broadcast discussing former President Donald Trump\u2026 [+2781 chars]"
         },
         {
             "source": {
@@ -125,142 +47,220 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "NIT bracket 2023 tournament schedule, dates, times: No. 1 seed Rutgers falls to Hofstra as first round begins - CBS Sports",
-            "description": "The first round of the NIT got underway Tuesday and it didn't take long to for the first upsets to happen",
-            "url": "https://www.cbssports.com/college-basketball/news/nit-bracket-2023-tournament-schedule-dates-times-no-1-seed-rutgers-falls-to-hofstra-as-first-round-begins/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/15/53da5e43-5d49-46b8-b1af-0822d0306bb8/thumbnail/1200x675/e93b948ae7421a0d97a55f6d57ec63da/gettyimages-1248275885-1.jpg",
-            "publishedAt": "2023-03-15T05:48:00Z",
-            "content": "The only No. 1 seed in action during the first night of NIT action bowed out on Tuesday as Rutgers fell 88-86 against Hofstra in overtime. Tyler Thomas made a jumper with 10 seconds left for the The \u2026 [+2272 chars]"
+            "title": "2023 NFL free agency team-by-team grades: Eagles, Dolphins, Seahawks, Bears, 49ers among early winners - CBS Sports",
+            "description": "Grading all 32 teams' offseason pickups and how they stack up with the rest of the league",
+            "url": "https://www.cbssports.com/nfl/news/2023-nfl-free-agency-team-by-team-grades-eagles-dolphins-seahawks-bears-49ers-among-early-winners/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/26/9e0ad2c4-0356-4c90-8714-f86ef3f2842f/thumbnail/1200x675/a405f04d6832b9ec931964dcc34376a3/getty-fletcher-cox-eagles.jpg",
+            "publishedAt": "2023-03-16T00:43:39Z",
+            "content": "The 2023 NFL offseason is in full gear. Several big-name quarterbacks have already signed on for new homes and now many notable veterans have switched jerseys, with the exception of Green Bay Packers\u2026 [+42842 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Sophia Saifi, Tara John, Vasco Cotovio",
-            "title": "Pakistan on edge after Khan's supporters clash with police trying to arrest former leader - CNN",
-            "description": "Pakistani police fired tear gas into the grounds of Imran Khan's Lahore home on Wednesday following a night of violent clashes between security personnel and the former prime minister's supporters as attempts by authorities to arrest him stretched into a seco\u2026",
-            "url": "https://www.cnn.com/2023/03/14/asia/pakistan-imran-khan-clashes-police-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230314151132-imran-khan-protest-031423.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-15T05:46:00Z",
-            "content": "Pakistani police fired tear gas into the grounds of Imran Khans Lahore home on Wednesday following a night of violent clashes between security personnel and the former prime ministers supporters as a\u2026 [+4258 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Lolita C. Baldor",
-            "title": "Why US troops remain in Iraq 20 years after 'shock and awe' - The Associated Press - en Espa\u00f1ol",
-            "description": "WASHINGTON (AP) \u2014 Twenty years after the U.S. invaded Iraq \u2014 in blinding explosions of shock and awe \u2014 American forces remain in the country in what has become a small but consistent presence to ensure an ongoing relationship with a key military and diplomati\u2026",
-            "url": "https://apnews.com/article/iraq-war-anniversary-troops-military-d1d9a7e6e83925dec22fce4d2e2c831e",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0d0b926873d4493cafe2e81a0132d851/3000.webp",
-            "publishedAt": "2023-03-15T04:09:03Z",
-            "content": "WASHINGTON (AP) Twenty years after the U.S. invaded Iraq in blinding explosions of shock and awe American forces remain in the country in what has become a small but consistent presence to ensure an \u2026 [+6217 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boston 25 News"
-            },
-            "author": "Frank O'Laughlin",
-            "title": "More than 2 feet? These Massachusetts communities have the highest snow totals - Boston 25 News",
-            "description": "Some Massachusetts communities were buried in heavy snow Tuesday as a powerful nor\u2019easter blew across the region.",
-            "url": "https://www.boston25news.com/news/local/3-feet-snow-these-massachusetts-communities-got-most-snow-during-march-noreaster/RIOS2SSQIVGXJB5IXTKNEFYO6U/",
-            "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/KO2nOz1OXrFta05dJHyMRZ2vLYA=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/DCZARZWR7RLSRUSUT7VYCYUXFA.jpg",
-            "publishedAt": "2023-03-15T03:15:00Z",
-            "content": "BOSTON \u2014 Some Massachusetts communities were buried by three feet of snow Tuesday as a powerful noreaster blew across the region.\r\nThe highest snowfall totals, as of Tuesday night, were centered in W\u2026 [+2058 chars]"
+            "author": null,
+            "title": "First Republic Bank weighing options including sale - Bloomberg News - Reuters",
+            "description": "U.S. private lender First Republic Bank <a href=\"https://www.reuters.com/companies/FRC.N\" target=\"_blank\">(FRC.N)</a> is exploring strategic options including a sale, Bloomberg reported on Wednesday, citing people with knowledge of the matter.",
+            "url": "https://www.reuters.com/business/finance/first-republic-bank-weighing-options-including-sale-bloomberg-news-2023-03-16/",
+            "urlToImage": "https://www.reuters.com/resizer/JyNxjiV5eOUxUi-LK1Zq_xg-onc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XE7TSTBDVBLFRGPKYJOW6XQBEM.jpg",
+            "publishedAt": "2023-03-16T00:25:00Z",
+            "content": "March 15 (Reuters) - U.S. private lender First Republic Bank (FRC.N) is exploring strategic options including a sale, Bloomberg reported on Wednesday, citing people with knowledge of the matter.\r\nThe\u2026 [+679 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Sports Illustrated"
             },
-            "author": "Wilton Jackson",
-            "title": "Kelsey Plum Jabs Raiders\u2019 Josh McDaniels After New Husband Darren Waller\u2019s Trade - Sports Illustrated",
-            "description": "The Aces star proposed a possible reason why the Raiders traded away her husband on Tuesday.",
-            "url": "https://www.si.com/extra-mustard/2023/03/15/kelsey-plum-jabs-raiders-josh-mcdaniels-darren-waller-trade",
-            "urlToImage": "https://www.si.com/.image/t_share/MTkxNjE3MDEyODUyNTk4NDM1/kelsey-plum.jpg",
-            "publishedAt": "2023-03-15T02:57:54Z",
-            "content": "Aces\u00a0star Kelsey Plum did not expect her new husband,\u00a0Raiders\u00a0tight end Darren Waller, to be part of a blockbuster trade to the Giants\u00a0on Tuesday.\r\nIn fact, the Raiders\u2019 move to deal Waller to New Yo\u2026 [+1027 chars]"
+            "author": "Albert Breer",
+            "title": "Aaron Rodgers\u2019s Pat McAfee Appearance Was a Parting Gift to the Packers - Sports Illustrated",
+            "description": "The Jets are now painted into a corner with few other viable quarterback options unless Green Bay agrees on a trade.",
+            "url": "https://www.si.com/nfl/2023/03/16/aaron-rodgers-pat-mcafee-packers-jets-trade-leverage",
+            "urlToImage": "https://www.si.com/.image/t_share/MTk2NTU5MDk4MzA3Njg0MzE5/aaron-rodgers-pack.jpg",
+            "publishedAt": "2023-03-16T00:18:36Z",
+            "content": "Aaron Rodgers gave Green Bay a lot over his 18 seasons wearing green and gold. And even on his way out, as he dumped dirty details of what\u2019s leading to his impending departure to Pat McAfee on Wednes\u2026 [+8275 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "SpaceNews"
             },
-            "author": "Alyssa Barbieri",
-            "title": "Former Bears RB David Montgomery shares gratitude, bids Chicago farewell - Chicago Bears Wire",
-            "description": "David Montgomery has nothing but love for Bears nation.",
-            "url": "https://bearswire.usatoday.com/2023/03/14/nfl-free-agency-lions-sign-david-montgomery-bids-farewell-to-bears-reaction/",
-            "urlToImage": "https://bearswire.usatoday.com/wp-content/uploads/sites/63/2022/07/18769449.jpg?w=1024&h=576&crop=1",
-            "publishedAt": "2023-03-15T02:35:16Z",
-            "content": "Former Bears running back David Montgomery is expected to sign a three-year, $18 million deal with the Lions, which marks the end of his career in Chicago.\r\nMontgomery was drafted in the third round \u2026 [+1277 chars]"
+            "author": "Jeff Foust",
+            "title": "Virgin Orbit pauses operations - SpaceNews",
+            "description": "Launch vehicle company Virgin Orbit has paused its operations and furloughed its staff for at least a week as it deals with financial issues.",
+            "url": "https://spacenews.com/virgin-orbit-pauses-operations/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/02/vo-cosmicgirl.jpg",
+            "publishedAt": "2023-03-15T23:00:21Z",
+            "content": "WASHINGTON Launch vehicle company Virgin Orbit has paused its operations and furloughed its staff for at least a week as it deals with financial issues.\r\nIn a statement late March 15, the company sai\u2026 [+2258 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WJLA"
+            },
+            "author": "ALICIA RANCILIO | Associated Press",
+            "title": "As 'Ted Lasso' returns for season 3, fans wonder whether this is final chapter - WKRC TV Cincinnati",
+            "description": "Ted Lasso",
+            "url": "https://wjla.com/news/entertainment/as-ted-lasso-returns-for-season-3-fans-wonder-whether-this-is-final-chapter-afc-richmond-appletv-jason-sudeikis-saturday-night-live-brendan-hunt-coach-beard-london-hercules-thor-love-and-thunder-mcu-mission-impossible-blockbuster-film",
+            "urlToImage": "https://wjla.com/resources/media/fee6b11d-d4f4-457f-a52b-bdae7d23bd0a-large16x9_AP23066012733418.jpg?1678919339344",
+            "publishedAt": "2023-03-15T22:37:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Magellan spacecraft images reveal volcanic activity on Venus - CNN",
+            "description": "When scientists recently took a closer look at archival images taken of the surface of Venus by the NASA Magellan spacecraft, they discovered something new: evidence of volcanic activity on Earth's \"twin.\"",
+            "url": "https://www.cnn.com/2023/03/15/world/venus-volcanic-activity-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230315153013-04-venus-volcanic-activity.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-15T22:28:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nWhen scientists recently took a closer look at archiva\u2026 [+5181 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tierney Sneed",
+            "title": "Takeaways from the Texas hearing on medication abortion drugs - CNN",
+            "description": "Over the course of about four hours of arguments, a federal judge in Texas asked questions that suggested he is seriously considering undoing the US Food and Drug Administration's approval of a medication abortion drug and the agency's moves to relax the rule\u2026",
+            "url": "https://www.cnn.com/2023/03/15/politics/takeaways-medication-abortion-hearing-texas/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230315155220-01-abortion-pill-texas-hearing-031523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-15T22:16:00Z",
+            "content": "Over the course of about four hours of arguments, a federal judge in Texas asked questions that suggested he is seriously considering undoing the US Food and Drug Administrations approval of a medica\u2026 [+7467 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Janelle Ash",
-            "title": "Kelly Clarkson\u2019s kids tell her they 'wish mommy and daddy were in the same house' after divorce: 'It kills me' - Fox News",
-            "description": "Kelly Clarkson is getting real about the impact divorce has had on her two young children, River, 8, and Remi, 6. The singer and Brandon Blackstock divorced in 2022.",
-            "url": "https://www.foxnews.com/entertainment/kelly-clarkson-kids-tell-her-they-wish-mommy-daddy-in-same-house-after-divorce",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/kelly.jpg",
-            "publishedAt": "2023-03-15T02:04:00Z",
-            "content": "Kelly Clarkson is getting candid about how divorce has affected her family.\r\nOn Monday, Clarkson was a guest on \"Angie Martinez's IRL Podcast,\" explaining that her children, River, 8, and Remi, 6, ha\u2026 [+3241 chars]"
+            "author": "Adam Shaw",
+            "title": "Border Patrol chief says he disagrees with Biden move to stop wall construction - Fox News",
+            "description": "Border Patrol Chief Raul Ortiz said Wednesday at a House hearing that he disagreed with President Biden's decision to end border wall construction in early 2021.",
+            "url": "https://www.foxnews.com/politics/border-patrol-chief-says-he-disagrees-biden-move-stop-wall-construction",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/ortiz.jpg",
+            "publishedAt": "2023-03-15T22:07:00Z",
+            "content": "Border Patrol Chief Raul Ortiz said Wednesday that he disagreed with the Biden administrations move to end border wall construction in early 2021, while arguing that infrastructure would help agents \u2026 [+3096 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "WKRN News 2"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Lucas Wright",
-            "title": "Kyle Chrisley arrested on assault charge in Smyrna - WKRN News 2",
-            "description": "Kyle Chrisley was arrested in Middle Tennessee Tuesday following an altercation that allegedly took place in Smyrna.",
-            "url": "https://www.wkrn.com/news/local-news/kyle-chrisley-arrested-on-assault-charge-in-smyrna/",
-            "urlToImage": "https://www.wkrn.com/wp-content/uploads/sites/73/2023/03/GettyImages-471170527.jpg?w=1280",
-            "publishedAt": "2023-03-15T01:47:18Z",
-            "content": "SMYRNA, Tenn. (WKRN) Kyle Chrisley was arrested in Middle Tennessee Tuesday following an altercation that allegedly took place in Smyrna.\r\n\u00a0Have breaking come to you:\u00a0Subscribe to News 2 email alerts\u2026 [+609 chars]"
+            "author": "Andy Rose",
+            "title": "Texas takes control of Houston Independent School District - CNN",
+            "description": "The leaders of the Houston Independent School District, the largest school district in Texas, will be replaced by a new board appointed by the state Commissioner of Education, the district said Wednesday.",
+            "url": "https://www.cnn.com/2023/03/15/us/houston-independent-school-district-texas-takeover/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230315171325-houston-independent-school-district-031523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-15T22:01:00Z",
+            "content": "The leaders of the Houston Independent School District, the largest school district in Texas, will be replaced by a new board appointed by the state Commissioner of Education, the district said Wedne\u2026 [+754 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matthew Cappucci",
+            "title": "Atmospheric river eases after bringing flooding, high winds to California - The Washington Post",
+            "description": "While quieter weather is expected for the next few days, the weather pattern looks to remain stormy through the remainder of March.",
+            "url": "https://www.washingtonpost.com/weather/2023/03/15/california-atmospheric-river-flooding-winds/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JUTTT7NB6BDIOZILWDFZVM62UM_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-03-15T21:22:00Z",
+            "content": "Comment on this story\r\nCalifornians are catching their breath after another atmospheric river pummeled the state to start the week, bringing serious flash flooding and prompting evacuations just days\u2026 [+5388 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NASA"
+                "name": "NCAA.com"
+            },
+            "author": "NCAA.com",
+            "title": "2023 NIT bracket, schedule, TV channels for the men\u2019s tournament - NCAA.com",
+            "description": "The NIT bracket and schedule for the 2023 National Invitation Tournament, which begins March 14-15 and ends with the championship game March 30 in Las Vegas.",
+            "url": "https://www.ncaa.com/news/basketball-men/article/2023-03-15/2023-nit-bracket-schedule-tv-channels-mens-tournament",
+            "urlToImage": "https://www.ncaa.com/_flysystem/public-s3/styles/large_16x9/public-s3/images/2023-03/2023-NIT-bracket-March-13.jpg?h=9ddcab64&itok=7DUG0VbB",
+            "publishedAt": "2023-03-15T20:57:17Z",
+            "content": "The 2023 National Invitation Tournament marks a new beginning for the event. The NIT, after a nation-wide bid process, selected Las Vegas to host this season's NIT semifinals and championship. Indian\u2026 [+10364 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Anna Skinner",
+            "title": "Ukraine Fighter Describes Being 'Sent to Death' When Deployed in Bakhmut - Newsweek",
+            "description": "Both Ukraine and Russia have suffered substantial losses in the battle for Bakhmut, and the bloodshed continues.",
+            "url": "https://www.newsweek.com/ukraine-fighter-describes-being-sent-death-when-deployed-bakhmut-1788066",
+            "urlToImage": "https://d.newsweek.com/en/full/2209523/ukrainian-medic-runs-through-bakhmut-trench.jpg",
+            "publishedAt": "2023-03-15T20:51:13Z",
+            "content": "A bloody fight continues as Russia and Ukraine battle over Bakhmut, and one Ukrainian soldier described his deployment as being \"sent to death.\"\r\nRussia-Ukraine war front lines shifted to Bakhmut in \u2026 [+3008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
             },
             "author": null,
-            "title": "NASA, SpaceX Dragon to Deliver Heart Studies, More to Space Station - NASA",
-            "description": "NASA has another cargo shipment enroute to the International Space Station following a successful Falcon 9 launch of SpaceX\u2019s 27th resupply mission for the agency.",
-            "url": "https://www.nasa.gov/press-release/nasa-spacex-dragon-to-deliver-heart-studies-more-to-space-station",
-            "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/screen_shot_2023-03-14_at_8.50.55_pm.png",
-            "publishedAt": "2023-03-15T01:12:26Z",
+            "title": "Google publishes its Generative AI \u2018prohibited use policy\u2019 and other terms - 9to5Google",
+            "description": "Breaking news on all things Google and Android. We provide breaking Google Pixel news, everything Android, Google Home, Google apps, Chromebooks, and more!",
+            "url": "https://9to5google.com/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T20:36:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
+                "id": null,
+                "name": "New York Post"
             },
-            "author": "Colby Smith",
-            "title": "Federal Reserve considers tougher rules for midsized banks after SVB's collapse - Financial Times",
-            "description": "Central bank to review how it supervised and regulated California-based lender amid fears of wider fallout",
-            "url": "https://www.ft.com/content/7b506459-448e-4d29-89e7-8fd8bb86e08f",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ebe3419-7b16-476e-ae19-4fe99d472c82.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-03-15T00:49:38Z",
-            "content": "The Federal Reserve is weighing tougher rules for midsized banks as it seeks to avoid a repeat of the recent collapse of Silicon Valley Bank that forced government authorities to intervene.\r\nThe US c\u2026 [+2904 chars]"
+            "author": "FOX Weather",
+            "title": "James Webb Space Telescope captures supernova start with explosion of cosmic dust - New York Post ",
+            "description": "This massive star is 30 times the sun\u2019s mass and is said to have shed 10 suns\u2019 worth of material. The image captured by JWST shows the start of the star explosion.",
+            "url": "https://nypost.com/2023/03/15/james-webb-space-telescope-captures-supernova-start-with-explosion-of-cosmic-dust/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/Screen-Shot-2023-03-15-at-3.27.50-PM.png?w=1024",
+            "publishedAt": "2023-03-15T19:51:00Z",
+            "content": "NASA\u2019s\u00a0James Webb Space Telescope\u00a0does it again this time capturing the sights as a star starts to explode.\r\n\u201cThe rare sight of a Wolf-Rayet star among the most luminous, most massive, and most brief\u2026 [+1958 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "Entertainment Tonight"
             },
-            "author": "Caitlin Yilek, Jack Turman, Alan He",
-            "title": "GOP senators push back on Ron DeSantis over Ukraine - CBS News",
-            "description": "Florida Gov. Ron DeSantis, who is widely expected to run for president in 2024, said the continued support for Ukraine is not a \"vital\" national interest.",
-            "url": "https://www.cbsnews.com/news/desantis-ukraine-support-gop-pushes-back/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/15/b6af60f8-e68c-4217-91e0-81df640d75f9/thumbnail/1200x630/ad9dcd362bc2fb9b08b6383cbbd3d0f5/gettyimages-1472685372.jpg",
-            "publishedAt": "2023-03-15T00:41:56Z",
-            "content": "Washington \u2014 Republican senators on Wednesday pushed back on comments made by Gov. Ron DeSantis of Florida declaring that the United States' continued support for Ukraine as it defends itself against\u2026 [+2405 chars]"
+            "author": "Anthony Dominic",
+            "title": "Lisa Vanderpump Speaks Out Amid Pump Restaurant's Uncertain Future (Exclusive) - Entertainment Tonight",
+            "description": "Lisa Vanderpump's landlord wants a new long-term tenant.",
+            "url": "https://www.etonline.com/lisa-vanderpump-speaks-out-amid-pump-restaurants-uncertain-future-exclusive-200993",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/GettyImages-1422685058.jpg?h=5d20bf8e&itok=ZGdq9tBZ",
+            "publishedAt": "2023-03-15T19:28:17Z",
+            "content": "Lisa Vanderpump's restaurant, Pump, might be leaving West Hollywood, ET has learned.\u00a0\r\nVanderpump and her husband, Ken Todd, do not own the location, and the landlord\u00a0is currently looking for a new t\u2026 [+1436 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Credit Suisse slump renews fears of global banking crisis - Al Jazeera English",
+            "description": "Shares of Swiss bank lose more than a quarter of their value in one day, dragging down European and US markets.",
+            "url": "https://www.aljazeera.com/economy/2023/3/15/credit-suisse-slump-renews-fears-for-global-banking-crisis",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/10/2016-07-05T000000Z_1814452470_S1AETNXKTUAB_RTRMADP_3_CREDIT-SUISSE.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-03-15T19:17:11Z",
+            "content": "Shares in Credit Suisse have plunged and dragged down other major European lenders as fears about deeper problems in the world banking system have spread in the wake of bank failures in the United St\u2026 [+3445 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Adrian Wojnarowski",
+            "title": "Ja Morant suspended 8 games for conduct detrimental to league - ESPN",
+            "description": "The NBA has suspended Memphis Grizzlies guard Ja Morant eight games without pay after determining that his holding a firearm at a club in suburban Denver earlier this month was \"conduct detrimental to the league.\"",
+            "url": "https://www.espn.com/nba/story/_/id/35865890/sources-ja-morant-meets-adam-silver-awaits-league-findings",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0313%2Fr1144123_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-03-15T19:14:21Z",
+            "content": "Memphis Grizzlies star Ja Morant has been suspended eight games without pay for conduct detrimental to the league, the NBA announced Wednesday.\r\nThe suspension covers the six games he's missed, inclu\u2026 [+3714 chars]"
         }
     ]
 }
