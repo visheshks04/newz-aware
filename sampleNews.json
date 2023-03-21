@@ -1,175 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Investor's Business Daily"
             },
-            "author": "Lim Hui Jie",
-            "title": "Asia markets mostly fall after UBS agrees to $3.2 billion takeover of Credit Suisse - CNBC",
-            "description": "Asian markets trade lower as investors assess UBS' $3.2 billion purchase of Credit Suisse",
-            "url": "https://www.cnbc.com/2023/03/20/asia-markets-ubs-credit-suisse-china-loan-prime-rates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107208838-1678858655404-gettyimages-1401628137-vcg111386369946.jpeg?v=1679269651&w=1920&h=1080",
-            "publishedAt": "2023-03-20T02:01:00Z",
-            "content": "Hong Kong's Monetary Authority and its Securities and Futures Commission announced Credit Suisse operations in the city will continue as usual, after the UBS takeover of the embattled bank over the w\u2026 [+755 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "David Goldman",
-            "title": "FDIC sells most of failed Signature Bank to Flagstar - CNN",
-            "description": "A week after Signature Bank failed, the Federal Deposit Insurance Corporation said it has sold most of its deposits to Flagstar Bank, a subsidiary of New York Community Bank.",
-            "url": "https://www.cnn.com/2023/03/19/investing/fdic-signature-bank-assets-flagstar-hnk-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230319210224-signature-bank-031323-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-20T01:32:00Z",
-            "content": "A week after Signature Bank failed, the Federal Deposit Insurance Corporation said it has sold most of its deposits to Flagstar Bank, a subsidiary of New York Community Bank.\r\nOn Monday, Signature Ba\u2026 [+1531 chars]"
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures Fall: Markets Still Fragile After Credit Suisse Deal; First Republic Dives | Investor's Business Daily - Investor's Business Daily",
+            "description": "Market rally deeply divided, with chips and tech titans leading.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-fragile-credit-suisse-deal-first-republic-dives/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-RoadSigns-adobe.jpg",
+            "publishedAt": "2023-03-20T12:24:10Z",
+            "content": "Dow Jones futures were little changed Monday morning, along with S&amp;P 500 futures and Nasdaq futures. UBS agreed to buy Credit Suisse on Sunday, but financial markets are still fragile.\r\nXThe FDIC\u2026 [+15507 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Beast"
+                "name": "Barron's"
             },
-            "author": "AJ McDougall",
-            "title": "Emma Heming Willis Shares 'Grief' on Bruce Willis' Birthday Amid Dementia Battle - The Daily Beast",
-            "description": "Her husband\u2019s 68th birthday comes just weeks after Emma Heming Willis begged paparazzi to give him space when out in public with loved ones.",
-            "url": "https://www.thedailybeast.com/emma-heming-willis-shares-grief-on-bruce-willis-birthday-amid-dementia-battle",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_69/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679267610/2009-12-11T000000Z_1222864786_GM1E5CB1APG01_RTRMADP_3_USA_svc56k",
-            "publishedAt": "2023-03-20T01:10:57Z",
-            "content": "As Bruce Willis family marked the occasion of his 68th birthday on Sunday, the actors wife took to social media to share a heartfelt tribute to himand open up about the reality of caring for a loved \u2026 [+3338 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "State of emergency declared in Miami Beach after deadly shootings - NBC News",
-            "description": "The mayor of Miami Beach has declared a state of emergency in the city filled with spring breakers after two deadly shootings were reported over the past few...",
-            "url": "https://www.youtube.com/watch?v=wPuwC9rtODM",
-            "urlToImage": "https://i.ytimg.com/vi/wPuwC9rtODM/maxresdefault.jpg",
-            "publishedAt": "2023-03-20T01:00:25Z",
+            "author": "Joe Woelfel, Emily Dattilo",
+            "title": "Credit Suisse, UBS, First Republic, New York Community, and More Market Movers - Barron's",
+            "description": "UBS agrees to acquire rival Credit Suisse for more than $3 billion, while shares of First Republic fall sharply after the regional bank\u2019s credit rating was cut again by S&P Global.",
+            "url": "https://www.barrons.com/articles/stock-market-movers-a86267f",
+            "urlToImage": "https://images.barrons.com/im-720184/social",
+            "publishedAt": "2023-03-20T11:51:34Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "The Guardian"
+                "id": "nbc-news",
+                "name": "NBC News"
             },
-            "author": "Amy Hawkins, Pjotr Sauer",
-            "title": "\u2018Good old friend\u2019: Putin offers praise for Xi ahead of first trip to Russia since Ukraine invasion - The Guardian",
-            "description": "Russian president lauds Xi ahead of meeting, while Beijing calls for a \u2018rational way\u2019 out of the crisis",
-            "url": "https://www.theguardian.com/world/2023/mar/20/xi-set-to-visit-russia-in-trip-that-will-reaffirm-ties-with-putin-china",
-            "urlToImage": "https://i.guim.co.uk/img/media/8adb5050d3afe1a39091e40edba84e748fc98fdc/0_97_3341_2005/master/3341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1bdc37d86d7155b985456d1f6ef291db",
-            "publishedAt": "2023-03-20T01:00:00Z",
-            "content": "Vladimir Putin has praised good old friend Xi Jinping in a newspaper article published in China on the eve of a state visit by the Chinese presidentthat will reaffirm the leaders strong ties and prov\u2026 [+8397 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Alden Gonzalez",
-            "title": "Protesters gather in Miami outside Cuba-USA WBC semifinal - ESPN",
-            "description": "Dozens of protesters gathered outside Team Cuba and Team USA's World Baseball Classic semifinal, which marked the first time Cuba's national baseball team visited Miami in more than 60 years.",
-            "url": "https://www.espn.com/mlb/story/_/id/35899474/protesters-gather-miami-cuba-usa-wbc-semifinal",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0320%2Fr1147240_1024x576_16%2D9.jpg",
-            "publishedAt": "2023-03-20T00:26:48Z",
-            "content": "MIAMI -- Cuban jerseys, caps and flags decorated the concourse directly outside LoanDepot Park on Sunday afternoon, moments before Team Cuba began its World Baseball Classic semifinal game against th\u2026 [+5149 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Kelly Gilmore",
-            "title": "Vanderpump Rules' Kristina Kelly Gives Birth, Welcomes First Baby With Max Ville - E! NEWS",
-            "description": "Vanderpump Rules' Kristina Kelly and her boyfriend Max Ville have welcomed a baby boy. Scroll on to learn the little one's name.",
-            "url": "https://www.eonline.com/news/1368586/vanderpump-rules-kristina-kelly-gives-birth-welcomes-first-baby-with-max-ville",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023219/rs_1200x1200-230319160247-kelly.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-03-19T23:55:00Z",
-            "content": "Kristina Kelly's little one has arrived.\r\nThe Vanderpump Rules\u00a0cast member welcomed her firstborn with boyfriend Max Ville, a baby boy named River. Kristina announced the special news by sharing a ph\u2026 [+750 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Stock futures nudge higher on Credit Suisse buyout - Reuters.com",
-            "description": "U.S. stock futures rose in Asian trade on Monday in relief at a weekend rescue deal for Credit Suisse, though the mood was nervous and financial shares remained under pressure from contagion fears, even with support from global central banks.",
-            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-03-19/",
-            "urlToImage": "https://www.reuters.com/resizer/KUDZE8lbqGpbHxH2ZgQ50zTpjuA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2W3627NDC5MPHDF4M3RQ62QTQU.jpg",
-            "publishedAt": "2023-03-19T23:46:00Z",
-            "content": "SINGAPORE, March 20 (Reuters) - U.S. stock futures rose in Asian trade on Monday in relief at a weekend rescue deal for Credit Suisse, though the mood was nervous and financial shares remained under \u2026 [+2900 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Detroit Free Press"
-            },
-            "author": "Chris Solari",
-            "title": "Michigan State basketball beats Marquette, 69-60, to reach Sweet 16 - Detroit Free Press",
-            "description": "Michigan State basketball is headed to the Sweet 16 for the first time since 2019 after the 69-60 win over Marquette in the NCAA tournament on Sunday.",
-            "url": "https://www.freep.com/story/sports/college/michigan-state/spartans/2023/03/19/michigan-state-basketball-game-recap-march-madness-marquette-ncaa-tournament/70026438007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/20/PDTF/99c890f8-f62e-4d87-894a-a9fc1af26ee6-msumarq_031923_kd6714.jpg?crop=2399,1349,x1,y0&width=2399&height=1349&format=pjpg&auto=webp",
-            "publishedAt": "2023-03-19T23:44:24Z",
-            "content": "COLUMBUS, Ohio Tom Izzo and Michigan State basketball are going back to the Sweet 16.\r\nThanks in part to perhaps the Spartans best team effort and a 12-minute display of brute force in an absolute fi\u2026 [+7777 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Robyn Dixon",
-            "title": "As Xi visits Russia, Putin sees his anti-U.S. world order taking shape - The Washington Post",
-            "description": "Ostracized by the West over his war in Ukraine, the Russian president has sought to build alliances with China, Iran and others in challenging the United States and NATO",
-            "url": "https://www.washingtonpost.com/world/2023/03/19/putin-xi-russia-china-world-order/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HXIH4VWX33OZHHQ66ASNJ6BAQY_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-03-19T23:31:30Z",
-            "content": "Comment on this story\r\nRIGA, Latvia For Vladimir Putin, the state visit to Russia by Chinese President Xi Jinping, which begins on Monday, provides a giant morale boost and a chance to showcase the m\u2026 [+12616 chars]"
+            "author": "Catie Beck, Dennis Romero, Erik Ortiz",
+            "title": "Buster Murdaugh says he had nothing to do with teen's hit-and-run death - NBC News",
+            "description": "Buster Murdaugh, son of convicted murderer Alex Murdaugh, is pleading to have his name omitted from news coverage of the death of a young man in 2015.",
+            "url": "https://www.nbcnews.com/news/crime-courts/buster-murdaugh-says-nothing-teens-2015-hit-run-death-rcna75683",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-02/230221-buster-murdaugh-mjf-1348-ebeadb.jpg",
+            "publishedAt": "2023-03-20T11:42:07Z",
+            "content": "Buster Murdaugh, the older son of former attorney of note and convicted murderer Alex Murdaugh, is pleading to have his name omitted from news coverage of the death of a young man in 2015.\r\nBuster, 2\u2026 [+3863 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Celina Tebor",
-            "title": "Five Connecticut kids killed in New York car crash - CNN",
-            "description": "Five kids were killed and another was injured after their car veered off a road and crashed into a tree early Sunday in Westchester County, New York, according to authorities.",
-            "url": "https://www.cnn.com/2023/03/19/us/scarsdale-ny-car-crash-5-killed/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230319143825-scarsdale-ny-car-crash-5-killed-screengrab.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-19T23:25:00Z",
-            "content": "Five kids were killed and another was injured after their car veered off a road and crashed into a tree early Sunday in the New York metropolitan area, according to authorities. \r\nThose killed ranged\u2026 [+860 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Putin visits occupied city of Mariupol in Ukraine - CBS News",
-            "description": "The move was a show of defiance after the International Criminal Court issued a warrant for his arrest on war crimes charges.",
-            "url": "https://www.cbsnews.com/news/vladimir-putin-mariupol-ukraine-visit-icc/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/19/2abe9b82-3f4c-4cfc-914e-1b29f9424084/thumbnail/1200x630/738b839f3e76d9fac2e96a411d1ac528/2023-03-19t151722z-1948451969-rc23xz9faifq-rtrmadp-3-ukraine-crisis-mariupol-putin.jpg",
-            "publishedAt": "2023-03-19T23:20:00Z",
-            "content": "Russian President Vladimir Putin visited the occupied port city of Mariupol, his first trip to Ukrainian territory that Moscow illegally annexed in September, in a show of defiance after the Internat\u2026 [+4535 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "North Korea's Kim calls for nuclear attack readiness against U.S., South Korea - Reuters.com",
-            "description": "North Korean leader Kim Jong Un called for the country to stand ready to conduct nuclear attacks at any time to deter war, accusing the U.S. and South Korea of expanding joint military drills involving American nuclear assets, state media KCNA said on Monday.",
-            "url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-calls-nuclear-preparedness-against-us-south-korea-kcna-2023-03-19/",
-            "urlToImage": "https://www.reuters.com/resizer/gw_mY-0evA1BeSKCtHg5qCSs6OE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KNLH66LNGNPV7CTEU35FC6PW2Y.jpg",
-            "publishedAt": "2023-03-19T23:17:00Z",
-            "content": "SEOUL, March 20 (Reuters) - North Korean leader Kim Jong Un called for the country to stand ready to conduct nuclear attacks at any time to deter war, accusing the U.S. and South Korea of expanding j\u2026 [+2855 chars]"
+            "author": "Toyin Owoseje",
+            "title": "Bruce Willis sings with his family in birthday tribute video from ex Demi Moore - CNN",
+            "description": "Demi Moore has shared a touching message dedicated to her ex-husband Bruce Willis on his first birthday since being diagnosed with dementia.",
+            "url": "https://www.cnn.com/2023/03/20/entertainment/demi-moore-bruce-willis-birthday-intl-scli/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320085733-bruce-willis-file-2019-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-20T11:35:00Z",
+            "content": "Demi Moore has shared a touching message dedicated to her ex-husband Bruce Willis on his first birthday since being diagnosed with dementia.\r\nMoore and Willis were married from 1987 to 2000 and share\u2026 [+1875 chars]"
         },
         {
             "source": {
@@ -177,90 +60,207 @@
                 "name": "The Times of Israel"
             },
             "author": null,
-            "title": "Biden voices concern over judicial overhaul in \u2018candid\u2019 phone call with Netanyahu - The Times of Israel",
-            "description": "President reiterates call for coalition to secure 'broadest possible' support for foundational changes to High Court, avoids extending White House invitation long sought by PM",
-            "url": "https://www.timesofisrael.com/biden-voices-concern-over-judicial-overhaul-in-phone-call-with-netanyahu/",
-            "urlToImage": "https://static.timesofisrael.com/www/uploads/2021/03/AP_834309646082-e1674553071284-1024x640.jpg",
-            "publishedAt": "2023-03-19T22:47:42Z",
-            "content": "US President Joe Biden raised his concerns with the judicial overhaul being advanced by Prime Minister Benjamin Netanyahu\u2019s government during a \u201ccandid and constructive\u201d phone call with the premier o\u2026 [+4880 chars]"
+            "title": "Israel soars to 4th place in global happiness list, highest since ranking started - The Times of Israel",
+            "description": "UN-sponsored index, based on data from 2020-2022, predates government's divisive judicial overhaul plan; list is again topped by Finland, with US 15th, Britain 19th and France 21st",
+            "url": "https://www.timesofisrael.com/israel-soars-to-4th-place-in-global-happiness-list-highest-since-ranking-started/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/03/F230121AVS10-1024x640.jpg",
+            "publishedAt": "2023-03-20T11:31:26Z",
+            "content": "Israelis are the happiest they\u2019ve been in over a decade, the World Happiness rankings revealed on Monday, though the findings predated the widespread social upheaval over the government\u2019s judicial ov\u2026 [+2837 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Prenatal Alcohol Exposure Linked to Gender-Specific Adversities - Neuroscience News",
-            "description": "A new study identified sex-specific differences in neurodevelopment and health-related disorders in children who were exposed to alcohol while in the womb. Prenatal alcohol exposure increased female children's risk of developing depression and anxiety, while \u2026",
-            "url": "https://neurosciencenews.com/prenatal-alcohol-gender-mental-health-22826/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/03/prenatal-alcohol-child-behavior-neurosicnes-1.jpg",
-            "publishedAt": "2023-03-19T22:39:01Z",
-            "content": "Summary: A new study identified sex-specific differences in neurodevelopment and health-related disorders in children who were exposed to alcohol while in the womb. Prenatal alcohol exposure increase\u2026 [+6404 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Boston Globe"
+                "name": "WCVB Boston"
             },
             "author": null,
-            "title": "Tick-borne disease babesiosis now considered endemic in northern New England - The Boston Globe",
-            "description": "Most cases are transmitted to humans by bites from blacklegged ticks also known as deer ticks, the same insects that carry Lyme disease.",
-            "url": "https://www.bostonglobe.com/2023/03/19/metro/tick-borne-disease-babesiosis-now-considered-endemic-northern-new-england/",
-            "urlToImage": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=397",
-            "publishedAt": "2023-03-19T22:08:24Z",
-            "content": "The first human case of babesiosis detected in the United States was identified on Nantucket in 1969, according to the CDC report, which was published Thursday.\r\nMost cases are transmitted to humans \u2026 [+3768 chars]"
+            "title": "Lance Reddick's wife shares emotional tribute: 'Lance was taken from us far too soon' - WCVB Boston",
+            "description": "\"Thank you for all your overwhelming love, support and beautiful stories shared on these platforms over the last day. I see your messages and can't begin to express how grateful I am to have them.\"",
+            "url": "https://www.wcvb.com/article/lance-reddick-s-wife-shares-emotional-tribute/43356360",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/lance-reddick-jpg-1679301597.jpg?crop=1.00xw:0.847xh;0,0.0408xh&resize=1200:*",
+            "publishedAt": "2023-03-20T11:16:00Z",
+            "content": "Actor Lance Reddick is being remembered by family and friends following his sudden death Friday at age 60.\r\n\"Lance was taken from us far too soon,\" Stephanie Reddick, the late actor's widow, wrote in\u2026 [+1811 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Protesters gather in Miami and run onto the field at Cuba-U.S. World Baseball Classic semifinal - NBC News",
+            "description": "A mix of protesters and fans gathered in Miami on Sunday as Team Cuba began its World Baseball Classic semifinal game against the United States.",
+            "url": "https://www.nbcnews.com/news/us-news/protesters-gather-miami-run-field-cuba-us-world-baseball-classic-semif-rcna75696",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230320-miami-baseball-mb-1035-7ff899.jpg",
+            "publishedAt": "2023-03-20T11:02:13Z",
+            "content": "MIAMI A mix of protesters and fans gathered in Miami on Sunday as Team Cuba began its World Baseball Classic semifinal game against the United States. \r\nJose Vilela fled Cuba for the U.S. when he was\u2026 [+6883 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Simone McCarthy, Rob Picheta",
+            "title": "China's Xi arrives in Moscow for first visit since Russia invaded Ukraine - CNN",
+            "description": "Xi Jinping has landed in Moscow for meetings with Vladimir Putin, the first time China's leader has visited his neighbor and close strategic partner since Russia began its unprovoked invasion of Ukraine.",
+            "url": "https://www.cnn.com/2023/03/20/europe/xi-putin-china-russia-visit-monday-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320102819-01-xi-jinping-moscow-032023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-20T11:02:00Z",
+            "content": "Xi Jinping has landed in Moscow for meetings with Vladimir Putin, the first time Chinas leader has visited his neighbor and close strategic partner since Russia began its unprovoked invasion of Ukrai\u2026 [+6589 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "GMA"
+                "name": "fox8.com"
             },
-            "author": "ABC NEWS",
-            "title": "EXCLUSIVE: Def Leppard drummer Rick Allen issues statement on Florida attack - ABC News",
-            "description": "",
-            "url": "https://www.goodmorningamerica.com/news/story/exclusive-def-leppard-drummer-rick-allen-issues-statement-97974839",
-            "urlToImage": "https://s.abcnews.com/images/US/rick-allen-deff-lepard-gty-lv-230219_1679260540749_hpMain_16x9_608.jpg",
-            "publishedAt": "2023-03-19T22:03:07Z",
-            "content": "Rick Allen, the drummer of Def Leppard, issued a statement exclusively to ABC News on Sunday in response to being violently assaulted in Fort Lauderdale, Florida, last week.\r\n\"Thank you everyone for \u2026 [+1609 chars]"
+            "author": "Celeste Houmard",
+            "title": "\u2018Focusing on healing\u2019: Def Leppard drummer Rick Allen responds after attack - WJW FOX 8 News Cleveland",
+            "description": "Legendary Def Leppard Drummer Rick Allen has opened up on social media after allegedly being attacked by a suburban Cleveland teen in Florida.",
+            "url": "https://fox8.com/news/def-leppard-drummer-rick-allen-responds-after-attack/",
+            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2023/03/GettyImages-1176862605-e1679000195664-1.jpg?w=1280",
+            "publishedAt": "2023-03-20T10:54:30Z",
+            "content": "(WJW) Legendary Def Leppard Drummer Rick Allen has opened up on social media after allegedly being attacked by a suburban Cleveland teen in Florida.\r\nAllen and his wife, Lauren Monroe, posted a photo\u2026 [+2333 chars]"
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "SYLVIE CORBET The Associated Press",
-            "title": "Macron's leadership at risk amid tensions over pension plan - ABC News",
-            "description": "A parody photo appearing on protest signs and online in France shows President Emmanuel Macron sitting on piles of garbage",
-            "url": "https://abcnews.go.com/International/wireStory/macrons-leadership-risk-amid-tensions-pension-plan-97968307",
-            "urlToImage": "https://s.abcnews.com/images/International/wirestory_fc83d442c8ddbd1b0eb456c956623a47_16x9_992.jpg",
-            "publishedAt": "2023-03-19T21:22:30Z",
-            "content": "PARIS -- A parody photo appearing on protest signs and online in France shows President Emmanuel Macron sitting on piles of garbage. It's both a reference to the trash going uncollected with Paris sa\u2026 [+5697 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
             "author": null,
-            "title": "Don't Miss Eclipses: NASA Releases New Map of Upcoming Solar Eclipses - SciTechDaily",
-            "description": "Where will you be for the 2023 and 2024 solar eclipses in the United States? NASA has released a new map that could help you decide. Based on observations from several NASA missions, the map details the path of the Moon\u2019s shadow as it crosses the contiguous U\u2026",
-            "url": "https://scitechdaily.com/?p=261604",
-            "urlToImage": "https://scitechdaily.com/images/Moon-Appearance-November-2022-Total-Lunar-Eclipse.gif",
-            "publishedAt": "2023-03-19T21:22:28Z",
-            "content": "ByVanessa Thomas, NASAs Goddard Space Flight CenterMarch 19, 2023\r\nThe appearance of the Moon during the November 2022 total lunar eclipse. NASA has released a new map that details the 2023 and 2024 \u2026 [+9845 chars]"
+            "title": "Mystery solved after strange streaks of light seen in the sky over Sacramento: \"We were in shock\" - CBS News",
+            "description": "The flaming bits of wreckage created a \"spectacular light show\" and were going thousands of miles per hour, an astronomer said.",
+            "url": "https://www.cbsnews.com/news/mystery-streaks-light-sacramento-sky-astronomers-answer/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/20/84cea2dc-e2ea-4ebe-a2a7-3fddf480ffc7/thumbnail/1200x630/68fdd6fd300de85f24bbd2f5de549867/ap23077731175532.jpg",
+            "publishedAt": "2023-03-20T10:53:00Z",
+            "content": "What we know about the lights that streaked across the sky in Sacramento \r\nWhat we know about the lights that streaked across the sky in Sacramento02:26\r\nMysterious streaks of light were seen in the \u2026 [+2954 chars]"
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "Prideofdetroit.com"
             },
-            "author": "Lloyd Lee",
-            "title": "Chris Christie says being indicted 'never helps anybody' - Business Insider",
-            "description": "Former New Jersey Gov. Chris Christie said on ABC's \"This Week\" that Donald Trump welcomes \"chaos and turmoil\" but only on his terms.",
-            "url": "https://www.businessinsider.com/christ-christie-says-being-indicted-never-helps-anybody-trump-indictment-2023-3",
-            "urlToImage": "https://i.insider.com/64057e21934c2c001802b2c5?width=1200&format=jpeg",
-            "publishedAt": "2023-03-19T20:49:00Z",
-            "content": "Former New Jersey Gov. Chris Christie said on Sunday that an indictment won't help Donald Trump, countering the former president's claims that it'll only make him more popular.\r\nWhile discussing Trum\u2026 [+2005 chars]"
+            "author": "Erik Schlitt",
+            "title": "NFL free agency: How C.J. Gardner-Johnson impacts Detroit Lions roster - Pride Of Detroit",
+            "description": "Projecting the role of the newest Detroit Lions defensive back C.J. Gardner-Johnson and the ripple effect his signing has in the secondary.",
+            "url": "https://www.prideofdetroit.com/2023/3/20/23647969/roster-impact-detroit-lions-signing-c-j-gardner-johnson-free-agency-2023",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/m_bM8OBf36nLuGlh3L4FEEnuRuA=/0x121:5491x2996/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24521658/1465398979.jpg",
+            "publishedAt": "2023-03-20T10:45:00Z",
+            "content": "On Sunday night, the news broke that the Detroit Lions were signing multi-versatile defensive back C.J. Gardner-Johnson to a one-year deal with up to $8 million with a reported $6.5 million guarantee\u2026 [+3471 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Bitcoin climbs to 9-month high as bank turmoil sparks rally - Reuters",
+            "description": "Bitcoin climbed to a nine-month high on Monday as turmoil in the banking sector drives some investors to turn to digital assets, as the cryptocurrency built on its best week in four years.",
+            "url": "https://www.reuters.com/markets/currencies/bitcoin-near-9-month-high-bank-turmoil-sparks-rally-2023-03-20/",
+            "urlToImage": "https://www.reuters.com/resizer/EfhzvqNLVRXq-3kNtvd9clqa3xk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3AN46CLSDZP73DYFVIDMK4AD54.jpg",
+            "publishedAt": "2023-03-20T09:47:00Z",
+            "content": "LONDON/HONG KONG, March 20 (Reuters) - Bitcoin climbed to a nine-month high on Monday as turmoil in the banking sector drives some investors to turn to digital assets, as the cryptocurrency built on \u2026 [+1780 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/steve-dent",
+            "title": "Apple's 512GB Mac Mini M2 is $99 off right now | Engadget - Engadget",
+            "description": "Apple's Mac Mini M2 is the cheapest way to get the company's latest processors, and now Amazon is offering the more desirable model at the best price we've seen..",
+            "url": "https://www.engadget.com/apples-512gb-mac-mini-m2-is-99-off-right-now-093619032.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/k_OodysyM9a89Bc5ziqiww--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/fee7d3d0-b368-11ed-b5ae-c989ca1f7859.cf.jpg",
+            "publishedAt": "2023-03-20T09:37:01Z",
+            "content": "All products recommended by Engadget are selected by our editorial team, independent of our parent company. Some of our stories include affiliate links. If you buy something through one of these link\u2026 [+1633 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Colon cancer is rising in younger adults. Know the signs and protect yourself : Shots - Health News - NPR",
+            "description": "If you're in your 20s, 30s or 40s, you need to know the signs to watch for and when to seek screening or treatment for colorectal cancer.",
+            "url": "https://www.npr.org/sections/health-shots/2023/03/20/1163697875/colon-cancer-signs-screening-young-adult",
+            "urlToImage": "https://media.npr.org/assets/img/2023/03/16/gettyimages-1473310453_wide-a995f9d1aa9d07d638f22077791bd9e40c3696b0-s1400-c100.jpg",
+            "publishedAt": "2023-03-20T09:00:09Z",
+            "content": "Colorectal cancer is rising in young people. A growing body of evidence suggests diet and lifestyle play a role in the uptick.\r\nPaul Morigi/Getty Images for Fight Colorecta\r\nIf you think you're too y\u2026 [+8158 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Fear, burnout and insubordination: Insiders spill details about life at the highest levels of FBI - POLITICO",
+            "description": "A discrimination case has pulled back the curtain on the tense atmosphere at the bureau's legal office.",
+            "url": "https://www.politico.com/news/2023/03/20/fbi-discrimination-case-00087650",
+            "urlToImage": "https://static.politico.com/f0/a8/41b3bdc045d186c1661fcf12412d/main-gerstein-fbichaos-lead.jpg",
+            "publishedAt": "2023-03-20T08:30:00Z",
+            "content": "The Man at the Center of it All\r\nThe FBI is no stranger to criticisms, both internal and external. For years, theyve been piling up. A series of withering federal watchdog reports have faulted the bu\u2026 [+3124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Ayana Archie",
+            "title": "Millions of dead fish have been found in an Australian river due to low oxygen levels - NPR",
+            "description": "Millions of dead fish have been found dead in an Australian river due to dangerously low oxygen levels in the water caused by receding flood waters, government officials said.",
+            "url": "https://www.npr.org/2023/03/20/1164640415/millions-of-dead-fish-have-been-found-in-an-australian-river-due-to-low-oxygen-l",
+            "urlToImage": "https://media.npr.org/assets/img/2023/03/20/ap23079242590297_wide-27eaf8924259c541198ca8df4b83231745f39aa3-s1400-c100.jpg",
+            "publishedAt": "2023-03-20T08:25:03Z",
+            "content": "Dead fish lay on the bank of the Darling River near Menindee, Australia, Sunday, March 19, 2023.\r\nSamara Anderson/AP\r\nMillions of dead fish have been found dead in an Australian river due to dangerou\u2026 [+935 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Helen Regan",
+            "title": "Former Australian soldier arrested for alleged war crime in Afghanistan - CNN",
+            "description": "A former soldier has become the first serving Australian serviceman or veteran charged with the war crime of murder for allegedly killing a civilian while on deployment in Afghanistan.",
+            "url": "https://www.cnn.com/2023/03/20/australia/former-soldier-charged-war-crime-afghanistan-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320145012-australian-troops-badge.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-20T07:30:00Z",
+            "content": "A former soldier has become the first serving Australian serviceman or veteran charged with the war crime of murder for allegedly killing a civilian while on deployment in Afghanistan.\r\nThe 41-year-o\u2026 [+1881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "David Russell",
+            "title": "Bettors react to March Madness bad beat in TCU-Gonzaga - New York Post ",
+            "description": "Damion Baugh\u2019s 3-pointer at the buzzer for TCU on Sunday night didn\u2019t beat Gonzaga but it did cost a plenty of bettors by making the final score 84-81.",
+            "url": "https://nypost.com/2023/03/20/bettors-react-to-march-madness-bad-beat-in-tcu-gonzaga/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/newspress-collage-26205139-1679295340311.jpg?quality=75&strip=all&1679281055&w=1024",
+            "publishedAt": "2023-03-20T07:09:05Z",
+            "content": "It ain\u2019t over \u2019til it\u2019s over.\r\nEven when the game has been decided. \r\nDamion Baugh\u2019s 3-pointer at the buzzer for TCU on Sunday night didn\u2019t beat Gonzaga but it did cost plenty of bettors by making th\u2026 [+2154 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "ScienceAlert",
+            "title": "Scientists Discover Intense Heatwaves Lurking at The Bottom of The Ocean - ScienceAlert",
+            "description": null,
+            "url": "https://www.sciencealert.com/scientists-discover-intense-heatwaves-lurking-at-the-bottom-of-the-ocean",
+            "urlToImage": null,
+            "publishedAt": "2023-03-20T06:33:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "New York Community Bank agrees to buy a large portion of Signature Bank - NPR",
+            "description": "The 40 branches of Signature Bank will become Flagstar Bank, starting Monday. Flagstar is one of New York Community Bank's subsidiaries.",
+            "url": "https://www.npr.org/2023/03/20/1164638154/new-york-community-bank-agrees-to-buy-a-large-portion-of-signature-bank",
+            "urlToImage": "https://media.npr.org/assets/img/2023/03/20/ap23079053509429_wide-db3259c9f81c73169b2ff9787271969dec92dc68-s1400-c100.jpg",
+            "publishedAt": "2023-03-20T05:59:42Z",
+            "content": "A branch of Signature Bank is photographed, late Sunday, March 12, 2023, in New York. New York Community Bank has agreed to buy a significant chunk of the failed Signature Bank in a $2.7 billion deal\u2026 [+1580 chars]"
         }
     ]
 }
