@@ -1,201 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Stephen Neukam",
-            "title": "CDC study warns of \u2018dramatic increase\u2019 in deadly fungus across US - The Hill",
-            "description": "Candida aurism, a rare and sometimes deadly fungal disease, is spreading through the U.S., the Centers for Disease Control and Prevention (CDC) warned this week, citing a \u201cdramatic\u201d increase in cases. The fungus, which affects primarily old people and those w\u2026",
-            "url": "https://thehill.com/policy/healthcare/3909575-cdc-study-warns-of-dramatic-increase-in-deadly-fungus-across-us/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/12/GettyImages-1210839842.jpg?w=1280",
-            "publishedAt": "2023-03-21T01:36:00Z",
-            "content": "Skip to content\r\nCandida aurism, a rare and sometimes deadly fungal disease, is spreading through the U.S., the Centers for Disease Control and Prevention (CDC) warned this week, citing a \u201cdramatic\u201d \u2026 [+1764 chars]"
+            "author": "Holly Ellyatt",
+            "title": "Ukraine war live updates: Xi invites Putin to China as talks in Moscow continue; Russian mercenaries say Kyiv is preparing counterattack - CNBC",
+            "description": "It's the second day of Chinese President Xi Jinping's state visit to Moscow Tuesday. He and President Putin could sign a number of bilateral agreements today.",
+            "url": "https://www.cnbc.com/2023/03/21/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105446461-1536763708632rts211io.jpg?v=1679393180&w=1920&h=1080",
+            "publishedAt": "2023-03-21T10:06:00Z",
+            "content": "Chinese President Xi Jinping said Tuesday that he's invited his Russian counterpart Vladimir Putin to visit China this year, Russian news agencies reported Tuesday.\r\n\"I yesterday invited President Pu\u2026 [+888 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Michael Wayland",
-            "title": "Dodge resurrects controversial Challenger SRT Demon for final year of V8 muscle cars - CNBC",
-            "description": "The 2023 Dodge Challenger SRT Demon 170 will deliver 1,025 total horsepower, 945 foot-pounds of torque and reach 60 mph from a rolling start in 1.66 seconds.",
-            "url": "https://www.cnbc.com/2023/03/20/dodge-challenger-srt-demon-resurrected.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107211490-1679318859947-DG023_142CL.jpg?v=1679360401&w=1920&h=1080",
-            "publishedAt": "2023-03-21T01:00:00Z",
-            "content": "2023 Dodge Challenger SRT Demon 170\r\nDETROIT Dodge is resurrecting its controversial muscle car model, the Challenger SRT Demon, as a final special edition of the vehicle before production of the bra\u2026 [+2917 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Greg Wehner",
-            "title": "Los Angeles schools set for 3-day strike for 'equitable' wage increases and more - Fox News",
-            "description": "Members of the SEIU Local 99 who work for the Los Angeles Unified School District plan to strike for three days starting Tuesday over wages, respectful treatment and more.",
-            "url": "https://www.foxnews.com/politics/los-angeles-schools-prepare-strike-equitable-wage-increases",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/SEIU-local-99.png",
-            "publishedAt": "2023-03-21T00:54:00Z",
-            "content": "The Los Angeles Unified School District (LAUSD) failed to reach an agreement with union negotiators on Monday, prompting district officials to shut down schools in the nations second-largest educatio\u2026 [+4524 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "John Bacon, Kim Hjelmgaard and Jorge L. Ortiz, USA TODAY",
-            "title": "China's Xi visits 'friendly neighbor' in Moscow; Russia cites 'monstrous consequences' of Putin arrest warrant: Ukraine live updates - USA TODAY",
-            "description": "Chinese leader Xi Jinping 's visit comes as Putin faces pressure from sanctions and from an arrest warrant by the International Criminal Court.",
-            "url": "https://www.usatoday.com/story/news/world/2023/03/20/ukraine-russia-war-live-updates-china-xi-visits-moscow-putin/11507485002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/20/USAT/4184f050-1292-4e8d-8da0-0867f220ff70-AFP_33BP2YR.jpg?auto=webp&crop=4700,2644,x1,y490&format=pjpg&width=1200",
-            "publishedAt": "2023-03-21T00:00:00Z",
-            "content": "Chinese leader Xi Jinping arrived in Moscow on Monday for\u00a0three days\u00a0of\u00a0talks with Russian President Vladimir Putin, a visit eyed warily by the U.S. and Western allies.\u00a0\r\nXi's first visit since Russi\u2026 [+7608 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Paul Best",
-            "title": "Russia's Medvedev goes on tirade against International Criminal Court, threatens The Hague with missile strike - Fox News",
-            "description": "Former Russian President Dmitry Medvedev suggested on Monday that the Kremlin could fire a hypersonic missile at the International Criminal Court.",
-            "url": "https://www.foxnews.com/world/russias-medvedev-tirade-international-criminal-court-threatens-hague-missile-strike",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/04/dmitry-medvedev.jpg",
-            "publishedAt": "2023-03-20T23:36:00Z",
-            "content": "Dmitry Medvedev, the Deputy Chairman of Russia's Security Council, suggested on Monday that the Kremlin could fire a hypersonic missile at the International Criminal Court (ICC) after the organizatio\u2026 [+2319 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brooke Singman",
-            "title": "Trump-Manhattan DA case: Bob Costello testifies to grand jury, says Michael Cohen is a 'serial liar' - Fox News",
-            "description": "Robert Costello, the former legal advisor to ex-Trump attorney Michael Cohen, appeared before the grand jury in the Manhattan District Attorney\u2019s investigation into former President Trump Monday, and testified that Cohen is a \u201cserial liar.\u201d",
-            "url": "https://www.foxnews.com/politics/trump-manhattan-da-case-bob-costello-testifies-grand-jury-says-michael-cohen-serial-liar",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/MICHAEL-COHEN-NEW-YORK-CITY.jpg",
-            "publishedAt": "2023-03-20T23:32:00Z",
-            "content": "Robert Costello, the former legal advisor to ex-Trump attorney Michael Cohen, appeared before the grand jury in the Manhattan District Attorneys investigation into former President Trump Monday, and \u2026 [+7341 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Graham Kates",
-            "title": "Manhattan D.A. Alvin Bragg saw case against Trump as potentially \"charge ready\" years ago - CBS News",
-            "description": "In a 2020 interview with CBS News, Alvin Bragg\u200b\u200b, then a Democratic candidate for Manhattan district attorney, shared some thoughts about the probe into then-President Trump and his former \"fixer,\" Michael Cohen.",
-            "url": "https://www.cbsnews.com/news/alvin-bragg-donald-trump-case-potentially-charge-ready/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/20/809e6152-4d20-4ecb-bf29-dcca39598850/thumbnail/1200x630g2/515229b463c35e68906be09c8c335fd8/gettyimages-1245635229.jpg",
-            "publishedAt": "2023-03-20T23:11:00Z",
-            "content": "In a November 2020 interview with CBS News, Alvin Bragg, then a Democratic candidate for Manhattan district attorney, said that among the \"staggering\" number of cases \"swirling\" around then-President\u2026 [+5617 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Victor Nava",
-            "title": "Joe Manchin blasts Biden\u2019s \u2018absolutely infuriating\u2019 ESG veto - New York Post ",
-            "description": "Accusing him of putting \u201cradical policy\u201d ahead of the country\u2019s \u201ceconomic, energy and national security needs,\u201d Sen. Joe Manchin on Monday ripped President Biden\u2019s vet\u2026",
-            "url": "https://nypost.com/2023/03/20/joe-manchin-blasts-bidens-absolutely-infuriating-agenda-after-esg-veto/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008544068.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-03-20T22:42:00Z",
-            "content": "Accusing him of putting \u201cradical policy\u201d ahead of the country\u2019s \u201ceconomic, energy and national security needs,\u201d Sen. Joe Manchin on Monday ripped President Bidens veto of a Republican-led effort to b\u2026 [+2248 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Megan Henney",
-            "title": "Jamie Dimon leading efforts for new First Republic Bank rescue plan - Fox Business",
-            "description": "First Republic Bank faced a second credit rating downgrade on Monday amid concerns that the troubled San Francisco lender needed another liquidity boost.",
-            "url": "https://www.foxbusiness.com/business-leaders/jamie-dimon-leading-efforts-new-first-republic-bank-rescue-plan",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/jamie-dimon.jpg?ve=1&tl=1",
-            "publishedAt": "2023-03-20T22:41:15Z",
-            "content": "JPMorgan Chase CEO Jamie Dimon is reportedly spearheading talks with the chief executives of other big banks about new efforts to stabilize the imperiled First Republic Bank.\r\nThe Wall Street Journal\u2026 [+3709 chars]"
+            "author": "Sam Meredith",
+            "title": "'A financial banana republic': UBS-Credit Suisse deal puts Switzerland's reputation on the line - CNBC",
+            "description": "The demise of banking giant\u00a0Credit Suisse sent shockwaves through financial markets and appears to have dealt a blow to Switzerland's reputation for stability.",
+            "url": "https://www.cnbc.com/2023/03/21/ubs-credit-suisse-deal-puts-switzerlands-reputation-on-the-line.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107212124-1679390220529-gettyimages-125003964-Par6335063.jpeg?v=1679393003&w=1920&h=1080",
+            "publishedAt": "2023-03-21T10:03:23Z",
+            "content": "Switzerland, a country heavily dependent on finance for its economy, is on track to see its two biggest and best-known banks merge into just one financial giant.\r\nThe demise of banking giant\u00a0Credit S\u2026 [+2835 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Steve Contorno, Kristen Holmes",
-            "title": "DeSantis needles Trump as he breaks silence on hush money case - CNN",
-            "description": "Breaking his silence on Donald Trump's legal troubles, Florida Gov. Ron DeSantis on Monday criticized the Manhattan district attorney who is pursuing charges against the former president and vowed his office would not be involved if the matter trickles into T\u2026",
-            "url": "https://www.cnn.com/2023/03/20/politics/desantis-trump-indictment/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221029181537-ron-desantis-donald-trump-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-20T21:46:00Z",
-            "content": "Breaking his silence on Donald Trumps legal troubles, Florida Gov. Ron DeSantis on Monday criticized the Manhattan district attorney who is pursuing charges against the former president and vowed his\u2026 [+6852 chars]"
+            "author": "Helen Regan, Josh Pennington, Tatiana Arias, Elise Garofalo, Sarah Dean",
+            "title": "Russian cruise missiles destroyed in strike in Crimea, Ukraine Defense Ministry says - CNN",
+            "description": "Ukraine's Ministry of Defense said late Monday that a strike destroyed Russian \"Kalibr\" cruise missiles that were being transported by train in the town of Dzhankoi, in Russian-occupied Crimea.",
+            "url": "https://www.cnn.com/2023/03/21/europe/crimea-russian-missiles-destroyed-ukraine-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230321120600-crimea-blast-0321.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-21T09:35:00Z",
+            "content": "Ukraines Ministry of Defense said late Monday that a strike destroyed Russian Kalibr cruise missiles that were being transported by train in the town of Dzhankoi, in Russian-occupied Crimea.\r\nUkraini\u2026 [+2806 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Fox Business"
             },
-            "author": "Suzy Byrne",
-            "title": "Who are Bruce Willis's children? All about Rumer, Scout, Tallulah, Mabel and Evelyn. - Yahoo Entertainment",
-            "description": "The \"Die Hard\" actor was once asked if he'd like to have a son and he replied, \"I\u2019d have 5 more girls right now.\"",
-            "url": "https://www.yahoo.com/entertainment/who-are-bruce-williss-children-all-about-rumer-scout-tallulah-mabel-and-evelyn-212935168.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AUYjhre1K5IhP2CXjzKvKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMTEz/https://s.yimg.com/os/creatr-uploaded-images/2023-03/21585fa0-c734-11ed-8ddf-169543c6011e",
-            "publishedAt": "2023-03-20T21:29:35Z",
-            "content": "Emma Heming Willis, left, shared a photo from husband Bruce Willis's 68th birthday celebration. The couple's two young daughters, Evelyn and Mabel, were there along with Bruce's first wife, Demi Moor\u2026 [+8395 chars]"
+            "author": "Eric Revell",
+            "title": "Regional and community banks rally to call for FDIC backup - Fox Business",
+            "description": "Mid-sized regional banks and community banks around the country are urging regulators to consider lifting the FDIC's threshold for uninsured deposits after they granted exceptions.",
+            "url": "https://www.foxbusiness.com/markets/regional-community-banks-rally-call-for-fdic-backup",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/GettyImages-1248470806.jpg?ve=1&tl=1",
+            "publishedAt": "2023-03-21T08:03:14Z",
+            "content": "Mid-sized regional banks\r\n and their community banking counterparts around the country are calling on the Federal Deposit Insurance Corporation (FDIC) to insure all bank deposits to prevent bank runs\u2026 [+4560 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "NESN"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Zack Cox",
-            "title": "Patriots Free Agent Nelson Agholor Takes Visit To This AFC Team - NESN",
-            "description": "One of the New England Patriots' few remaining unsigned free agents is garnering interest on the open market.",
-            "url": "https://nesn.com/2023/03/patriots-free-agent-nelson-agholor-takes-visit-to-this-afc-team/",
-            "urlToImage": "https://nesn.com/wp-content/uploads/sites/5/2023/03/Nelson-Agholor.jpg",
-            "publishedAt": "2023-03-20T21:28:42Z",
-            "content": "Skip to content\r\n<li>Spacer</li><li>Scores &amp; Schedule</li><li>Standings</li><li>League Leaders</li><li>Player Stats</li><li>Team Stats</li><li>League Transactions</li><li>League Injuries</li><li>\u2026 [+1644 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Joe Woelfel, Emily Dattilo, Connor Smith",
-            "title": "First Republic, Credit Suisse, UBS, New York Community, Bed Bath, and More Movers - Barron's",
-            "description": "Shares of First Republic fall sharply after the regional bank\u2019s credit rating was cut again by S&P Global, while Credit Suisse tumbles after UBS agrees to buy its Swiss rival for more than $3 billion.",
-            "url": "https://www.barrons.com/articles/stock-market-movers-a86267f",
-            "urlToImage": "https://images.barrons.com/im-743851/social",
-            "publishedAt": "2023-03-20T21:18:00Z",
-            "content": "American depositary receipts of Swiss bank \r\nCredit Suisse\r\n(ticker: CS) plunged about 53% to about 94 cents after larger rival \r\nUBS\r\n(UBS) agreed to buy\u00a0Credit Suisse in a deal valued at about $3.2\u2026 [+2831 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Matthew Cantor",
-            "title": "Mystery solved after strange lights spotted over California night sky - The Guardian US",
-            "description": "Astronomer says unusual sighting 99.9% certain to be due to burning space debris from International Space Station",
-            "url": "https://www.theguardian.com/us-news/2023/mar/20/california-mysterious-lights-international-space-station",
-            "urlToImage": "https://i.guim.co.uk/img/media/6deee89719fa930b52d5408dc41ddce6dc1f7ded/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae2e2776d04383078cf31d98ba40100f",
-            "publishedAt": "2023-03-20T21:15:00Z",
-            "content": "Weeks after a balloon, an octagonal structure and other flying objects put Americans on edge, the US is dealing with another mysteriousphenomenon in the sky.\r\nOn Friday night in Sacramento, St Patric\u2026 [+1919 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Dallas Thomas",
-            "title": "Some Pixel Superfans are getting invites to try Google Bard - Android Police",
-            "description": "Google\u2019s new ChatGPT rival could soon make its first public appearance",
-            "url": "https://www.androidpolice.com/pixel-superfans-google-bard-invite/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/google-bard-hero.jpg",
-            "publishedAt": "2023-03-20T21:07:00Z",
-            "content": "Google Bard has been years in the making, but after ChatGPT blew everyone's mind and started giving Microsoft products like Word and Bing a leg up, Google seems to have sped up the release timetable \u2026 [+1996 chars]"
+            "author": "Oliver Darcy",
+            "title": "Fox News producer files explosive lawsuits against the network, alleging she was coerced into providing misleading Dominion testimony - CNN",
+            "description": "A Fox News producer on Monday filed a pair of explosive lawsuits against the right-wing talk channel, alleging that the network's lawyers coerced her into providing misleading testimony in Dominion Voting Systems' $1.6 billion defamation case against the comp\u2026",
+            "url": "https://www.cnn.com/2023/03/21/media/fox-news-producer-lawsuit/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230321125412-fox-news-ny-0309.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-21T07:50:00Z",
+            "content": "A Fox News producer on Monday filed a pair of explosive lawsuits against the right-wing talk channel, alleging that the networks lawyers coerced her into providing misleading testimony in Dominion Vo\u2026 [+4739 chars]"
         },
         {
             "source": {
@@ -203,64 +73,194 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Diablo 4 - Official Open Beta Gameplay Trailer - IGN",
-            "description": "Give. Them. Hell. Check out the latest Diablo IV trailer ahead of the open beta, which runs from March 24 through March 26, 2023.#IGN #Gaming",
-            "url": "https://www.youtube.com/watch?v=8fLhD_AZqxM",
-            "urlToImage": "https://i.ytimg.com/vi/8fLhD_AZqxM/maxresdefault.jpg",
-            "publishedAt": "2023-03-20T21:00:05Z",
+            "title": "Former US President Donald Trump Tells Supporters He'll Be Arrested - Voice of America",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=U79T0guts3c",
+            "urlToImage": null,
+            "publishedAt": "2023-03-21T07:20:53Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Allie Griffin",
+            "title": "Colorado dentist allegedly poisoned wife's protein shakes to start life with lover - New York Post ",
+            "description": "The affidavit paints a picture of what led up to the alleged murder \u2014 including a troubled marriage, infidelity, financial problems and even a past incident in which Craig reportedly poisoned\u2026",
+            "url": "https://nypost.com/2023/03/21/colorado-dentist-james-craig-allegedly-poisoned-wifes-protein-shakes-to-start-life-with-lover/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/colorado-dentist-kills-wife-0006.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-03-21T06:36:00Z",
+            "content": "The Colorado dentist charged with killing his wife allegedly fatally poisoned her so he could start a new life with his alleged lover, according to an arrest warrant affidavit.\r\nJames Toliver Craig, \u2026 [+3914 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Oliver O'Connell",
+            "title": "Trump launches furious lewd, homophobic attack on DeSantis as Florida governor muted on indictment - The Independent",
+            "description": "Former president lashes out on Truth Social after Florida governor\u2019s dig at him over possible indictment",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/desantis-trump-indictment-truth-social-b2304837.html",
+            "urlToImage": "https://static.independent.co.uk/2023/03/17/13/States_Legislation_Immigration_01268.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-03-21T06:06:30Z",
+            "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nDonald Trump launched an especially below-the-belt swipe\u2026 [+2524 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Bob Nightengale",
+            "title": "Shohei Ohtani delivers grand USA-Japan World Baseball Classic final - USA TODAY",
+            "description": "After helping Japan reach the World Baseball Classic final, Shohei Ohtani will play on the grandest stage of his professional career on Tuesday night.",
+            "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2023/03/20/shohei-ohtani-delivers-grand-usa-japan-world-baseball-classic-final/11513004002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/21/USAT/894b1a83-e7d9-4288-9cb7-3ef5225f75af-USATSI_20279393.jpg?crop=1664,936,x0,y284&width=1664&height=936&format=pjpg&auto=webp",
+            "publishedAt": "2023-03-21T06:05:01Z",
+            "content": "MIAMI\u00a0 Shohei Ohtani was standing at the entrance of Japans clubhouse late Monday night, his heart still racing, his smile still beaming, still is trying to wrap his head around what just happened.\r\n\u2026 [+5959 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Dave Lawler",
+            "title": "What Putin and Xi each get out of their \"friendship\" - Axios",
+            "description": "Xi Jinping is visiting his \"dear friend\" at a very difficult time.",
+            "url": "https://www.axios.com/2023/03/20/xi-putin-dear-friends-moscow-state-visit",
+            "urlToImage": "https://images.axios.com/7xIInPozEYH8xm3h0VgRYr7biXQ=/0x0:1920x1080/1366x768/2023/03/20/1679352648289.jpg",
+            "publishedAt": "2023-03-21T06:01:12Z",
+            "content": "Chinese President Xi Jinping is signaling solidarity with his \"dear friend\" Vladimir Putin this week in Moscow a visit that also underscores Russia's reliance on China to keep its economy and war mac\u2026 [+3110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "ScienceAlert",
+            "title": "Satellites Pose 'Unprecedented Global Threat', Scientists Warn. Here's Why. - ScienceAlert",
+            "description": null,
+            "url": "https://www.sciencealert.com/satellites-pose-unprecedented-global-threat-scientists-warn-heres-why",
+            "urlToImage": null,
+            "publishedAt": "2023-03-21T04:43:40Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "FRANCE 24 English"
+                "name": "CBS Sports"
             },
-            "author": "NEWS WIRES",
-            "title": "French government survives no-confidence votes over pension reform - FRANCE 24 English",
-            "description": "Parliament adopted a divisive pension bill Monday raising the retirement age in France from 62 to 64, after lawmakers in the lower chamber rejected two no-confidence votes against the government.",
-            "url": "https://www.france24.com/en/europe/20230320-french-government-survives-no-confidence-votes-over-pension-reform",
-            "urlToImage": "https://s.france24.com/media/display/14ed7bb6-c760-11ed-a233-005056bfb2b6/w:1280/p:16x9/AP23079650507000.jpg",
-            "publishedAt": "2023-03-20T20:55:41Z",
-            "content": "Parliament adopted a divisive pension bill Monday raising the retirement age in France from 62 to 64, after lawmakers in the lower chamber rejected two no-confidence votes against the government. But\u2026 [+5239 chars]"
+            "author": "",
+            "title": "March Madness 2023: Reseeding the NCAA Tournament Sweet 16 teams from Alabama to Princeton - CBS Sports",
+            "description": "Hitting reset on the 2023 NCAA Tournament field with a reranking of the 16 teams remaining",
+            "url": "https://www.cbssports.com/college-basketball/news/march-madness-2023-reseeding-the-ncaa-tournament-sweet-16-teams-from-alabama-to-princeton/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/20/e540c019-96b5-4776-82ff-19b8256e05d5/thumbnail/1200x675/2f408d157faefa11c69f84213406c582/mm-sweet16-reseed-v2-1seed-1.png",
+            "publishedAt": "2023-03-21T04:28:00Z",
+            "content": "The first two rounds of the 2023 NCAA Tournament are complete. The dust has settled, and now we're left with a Sweet 16 field that has teams meeting their pre-tournament expectations mixed with a few\u2026 [+1298 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Cheri Mossburg, Holly Yan",
+            "title": "Los Angeles school workers will go on a 3-day strike, shutting down the nation's second-largest district. Here's what they want - CNN",
+            "description": "A union representing 30,000 Los Angeles school custodians, cafeteria workers, bus drivers and other support staff will start a three-day strike Tuesday, effectively stopping classes for more than a half million students in the nation's second-largest school d\u2026",
+            "url": "https://www.cnn.com/2023/03/21/us/lausd-seiu-local-99-strike/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320113951-utla-solidarity-rally-0315.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-21T04:11:00Z",
+            "content": "A union representing 30,000 Los Angeles school custodians, cafeteria workers, bus drivers and other support staff will start a three-day strike Tuesday, effectively stopping classes for more than a h\u2026 [+5023 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sports Illustrated"
+                "name": "Macworld"
             },
-            "author": "Andrew Brandt",
-            "title": "The Aaron Rodgers Era Is Over in Green Bay and It\u2019s Time for the Jets to Go Get Him - Sports Illustrated",
-            "description": "Why Green Bay has the leverage, and why this will wrap up sooner than later.",
-            "url": "https://www.si.com/nfl/2023/03/20/aaron-rodgers-trade-packers-jets-leverage",
-            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk2NTA4Mzg5Nzc2MzAzNjAy/aaron_rodgers_promo_7_jets.jpg",
-            "publishedAt": "2023-03-20T20:53:33Z",
-            "content": "As noted here many times before, including the night Jordan Love was drafted, the Packers\u2019 transition away from Aaron Rodgers has stark parallels to the team\u2019s transition away from Brett Favre 15 yea\u2026 [+7018 chars]"
+            "author": "Michael Simon",
+            "title": "Pair an M2 Mac Mini with a stunning Studio Display and save $350 right now - Macworld",
+            "description": "Amazon is knocking $99 off the 512GB Mac mini and $249 off the Studio Display.",
+            "url": "https://www.macworld.com/article/1664464/the-best-m2-mac-mini-for-most-people-is-99-off-right-now.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2023/03/Apple-MacMini-M2-2023_review_2-1.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2023-03-21T04:02:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nIf you\u2019re looking fo\u2026 [+1380 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Justin Jouvenal",
+            "title": "Abigail Zwerner gives first interview about shooting at Richneck Elementary - The Washington Post",
+            "description": "Zwerner spoke in a TV interview that aired on NBC Nightly News.",
+            "url": "https://www.washingtonpost.com/dc-md-va/2023/03/20/richneck-elementary-shooting-teacher-zwerner/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NRXSFMU2IERJZOZIVY3NEJ4ZH4.jpg&w=1440",
+            "publishedAt": "2023-03-21T03:35:00Z",
+            "content": "The Virginia teacher shot by a 6-year-old student in January said she is doing okay but her recovery has been challenging in her first interview since the incident, excerpts of which were aired Monda\u2026 [+3292 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Entertainment Tonight"
+                "name": "9to5Mac"
             },
-            "author": "Meredith B. Kile",
-            "title": "Paul Grant, 'Star Wars' and 'Labyrinth' Actor, Dead at 56 - Entertainment Tonight",
-            "description": "The actor died Sunday after collapsing at a London train station.",
-            "url": "https://www.etonline.com/paul-grant-star-wars-and-labyrinth-actor-dead-at-56-201244",
-            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/Screenshot%202023-03-20%201.48.53%20PM.png?h=ab99fdcc&itok=aufsr7ic",
-            "publishedAt": "2023-03-20T20:53:08Z",
-            "content": "Paul Grant, an actor who appeared in the Harry Potter and Star Wars franchises, died on Sunday at age 56.\u00a0\r\nGrant was found by police after collapsing at a London train station on Thursday, and was\u00a0r\u2026 [+1084 chars]"
+            "author": "Filipe Esp\u00f3sito",
+            "title": "iPhone 15 USB-C port to have limited speed for non-certified cables - 9to5Mac",
+            "description": "Based on the latest reports, iPhone 15 will be the one to finally ditch the Lightning connector in favor of...",
+            "url": "https://9to5mac.com/2023/03/20/usb-c-faster-charging-iphone-15-certified-cables/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/usb-c-iphone-lightning.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-03-21T03:24:00Z",
+            "content": "Based on the latest reports, iPhone 15 will be the one to finally ditch the Lightning connector in favor of USB-C. However, although USB-C has become an industry standard, Apple still plans to limit \u2026 [+2604 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The News International"
+                "name": "SciTechDaily"
             },
-            "author": "AFP",
-            "title": "Alarm sounded over light pollution from satellites as global threat to nature - The News International",
-            "description": "PARIS: Astronomers warned that the light pollution created by the soaring number of satellites orbiting Earth poses an unprecedented global threat to nature.\u00a0The number of satellites in low...",
-            "url": "https://www.thenews.com.pk/latest/1052142-alarm-sounded-over-light-pollution-from-satellites",
-            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2023-03-21/1052142_125520_updates.jpg",
-            "publishedAt": "2023-03-20T19:59:59Z",
-            "content": "PARIS: Astronomers warned that the light pollution created by the soaring number of satellites orbiting Earth poses an \"unprecedented global threat to nature.\"\u00a0\r\nThe number of satellites in low Earth\u2026 [+3091 chars]"
+            "author": null,
+            "title": "Revolutionary Gigapixel 3D Microscope Captures Life in Jaw-Dropping Detail - SciTechDaily",
+            "description": "Stitching videos from dozens of cameras together provides unique 3D view of macroscopic experiments with microscopic detail. When a couple of plucky graduate students took the first picture with their pieced-together microscope, it turned out better than they\u2026",
+            "url": "https://scitechdaily.com/revolutionary-gigapixel-3d-microscope-captures-life-in-jaw-dropping-detail/",
+            "urlToImage": "https://scitechdaily.com/images/Gigapixel-3D-Microscope.gif",
+            "publishedAt": "2023-03-21T03:13:27Z",
+            "content": "ByDuke UniversityMarch 20, 2023\r\nA new kind of microscope that stitches together videos from dozens of smaller cameras can provide researchers with 3D views of their experiments. Whether recording 3D\u2026 [+9271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YourTango"
+            },
+            "author": "Ruby Miranda",
+            "title": "3 Zodiac Signs Have 'Intense' Horoscopes On March 21, 2023 - YourTango",
+            "description": "Three zodiac signs have intense horoscopes on March 21, 2023, during Moon Square Mars.",
+            "url": "https://www.yourtango.com/2023359865/zodiac-signs-rough-horoscopes-march-21-2023",
+            "urlToImage": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/zodiac-signs-rough-horoscopes-march-21-2023.png?itok=jC2LEz4l",
+            "publishedAt": "2023-03-21T03:02:13Z",
+            "content": "Three zodiac signs have intense horoscopes on March 21, 2023. If you get away with having a blissful and perfect day during all of the Aries and Mars energy currently floating around us, count yourse\u2026 [+4324 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Biden orders release of intelligence on potential links between Covid and Wuhan lab - The Guardian",
+            "description": "Move poses political risk for US president, who has a difficult relationship with his Chinese counterpart Xi Jinping",
+            "url": "https://www.theguardian.com/world/2023/mar/21/president-joe-biden-orders-release-of-us-intelligence-on-potential-links-between-covid-and-wuhan-lab",
+            "urlToImage": "https://i.guim.co.uk/img/media/a2f1f92d72a3107b05f0a065feeae99e0af6fa05/0_118_6048_3630/master/6048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=baad8f49d156a781700df70752de8c95",
+            "publishedAt": "2023-03-21T02:18:37Z",
+            "content": "A bill requiring the release of intelligence materials on potential links between the outbreak of the Covid-19 pandemic and a laboratory in the Chinese city of Wuhan has been signed into law by US pr\u2026 [+1805 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amanda Jackson",
+            "title": "2 Illinois teens on spring break killed in a sledding accident at Colorado's Copper Mountain - CNN",
+            "description": "Two teens on spring break were killed Sunday night in a sledding accident in a closed area of Copper Mountain Ski Resort in central Colorado.",
+            "url": "https://www.cnn.com/2023/03/20/us/colorado-illinois-teens-killed-sledding-accident/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320173557-copper-mountain-resort-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-21T01:19:00Z",
+            "content": "Two teens on spring break were killed Sunday night in a sledding accident in a closed area of Copper Mountain Ski Resort in central Colorado.\r\nThe teens reportedly were riding tandem down the halfpip\u2026 [+1646 chars]"
         }
     ]
 }
