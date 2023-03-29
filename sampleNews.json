@@ -1,45 +1,253 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Victoria Hernandez",
-            "title": "Women's March Madness Elite 8 live update: Virginia Tech vs Ohio State - USA TODAY",
-            "description": "South Carolina, seeking its second straight national champion, beat Maryland 86-75. Virginia Tech faces Ohio State in final Elight Eight game.",
-            "url": "https://www.usatoday.com/story/sports/ncaaw/2023/03/27/womens-march-madness-elite-8-live-updates-south-carolina-action/11548068002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/28/USAT/486a8370-2313-477f-bd0b-decfb0c61e31-USATSI_20331707.jpg?crop=6948,3909,x0,y353&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-03-28T01:31:32Z",
-            "content": "Half of the women's NCAA Tournament Final Four field is set. The other half will be settled Monday night.\r\nWho will join Iowa and LSU in Dallas?\r\nNo. 1 South Carolina the defending national champions\u2026 [+13984 chars]"
+            "author": null,
+            "title": "French government rejects union demand to rethink pension bill - Reuters",
+            "description": "President Emmanuel Macron's government on Tuesday rejected a new demand by unions to rethink a deeply unpopular pension bill, infuriating labour leaders who said the government must find a way out of the crisis.",
+            "url": "https://www.reuters.com/world/europe/paris-police-very-vigilant-about-potential-violence-ahead-new-round-pension-2023-03-28/",
+            "urlToImage": "https://www.reuters.com/resizer/-9uubUtwVpA0QW9zWGHoxPLwhBk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PW5QFB7KPVL4HLO3EMDE3LUJFM.jpg",
+            "publishedAt": "2023-03-28T12:20:00Z",
+            "content": "NANTES/PARIS, France, March 28 (Reuters) - President Emmanuel Macron's government on Tuesday rejected a new demand by unions to rethink a deeply unpopular pension bill, infuriating labour leaders who\u2026 [+3482 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gerardo Lemos, Omar Astorga, Karol Suarez",
+            "title": "Blaze kills at least 39 people at migrant detention center near Mexico-US border - CNN",
+            "description": "At least 39 people died in a fire at a migration center in Mexico's northern border city of Ciudad Juarez, officials said Tuesday.",
+            "url": "https://www.cnn.com/2023/03/28/americas/mexico-migrants-fire-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230328075057-01-mexico-inm-fire-032723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-28T12:00:00Z",
+            "content": "At least 39 people died in a fire at a migration center in Mexicos northern border city of Ciudad Juarez, officials said Tuesday.\r\nAuthorities said the fire at the office of National Migration Instit\u2026 [+1409 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "INSIDER"
+                "name": "Healthday.com"
             },
-            "author": "Erin Snodgrass",
-            "title": "Gwyneth Paltrow ski collision: Instructor says actress isn't reckless - Insider",
-            "description": "Eric Christiansen, a ski instructor for Gwyneth Paltrow and her family, took the stand in the actress' negligence case on Monday.",
-            "url": "https://www.insider.com/gwyneth-paltrow-ski-collision-instructor-says-actress-isnt-reckless-2023-3",
-            "urlToImage": "https://i.insider.com/6422308c55bd920018e1fea7?width=1200&format=jpeg",
-            "publishedAt": "2023-03-28T01:21:17Z",
-            "content": "A Utah ski instructor who taught actress Gwyneth Paltrow's children on several vacations defended the star's snow sport ability, testifying in court on Monday that he has always known the \"Goop\" mogu\u2026 [+3162 chars]"
+            "author": "Dennis Thompson",
+            "title": "Weight Loss Helps Your Heart Even If Some Weight Comes Back - HealthDay News",
+            "description": "TUESDAY, March 28, 2023 (HealthDay News) -- It can be downright discouraging to work hard to lose 10 pounds, only to regain a few later.But don\u2019t be downhearted -- a new evidence review says the important heart health benefits of weight loss are sustained eve\u2026",
+            "url": "https://consumer.healthday.com/heart-rate-and-weight-loss-2659645645.html",
+            "urlToImage": "https://consumer.healthday.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTg0NjgxOS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczMjgxMTEzOX0.aN8TNX31epaI8pWAWDovjjHFMILoZV8pivSm4iIy9e0/image.jpg?width=1200&height=600&coordinates=0%2C66%2C0%2C67",
+            "publishedAt": "2023-03-28T11:49:25Z",
+            "content": "TUESDAY, March 28, 2023 (HealthDay News) -- It can be downright discouraging to work hard to lose 10 pounds, only to regain a few later.\r\nBut don\u00e2\u0080\u0099t be downhearted -- a new evidence review says the \u2026 [+7520 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Richard Pollina",
+            "title": "New research suggests physical exercise has 'little' mental benefits - New York Post ",
+            "description": "Analyzing data from over 100 individual trials involving more than 11,000 \u201chealthy participants\u201d found \u201cinconclusive evidence\u201d that physical exercise improves cognitive abil\u2026",
+            "url": "https://nypost.com/2023/03/28/new-research-suggests-physical-exercise-has-little-mental-benefits/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/Workout-4.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-03-28T11:20:00Z",
+            "content": "Need a brain boost? Fitness may not be for you!\r\nIt is more common than not to hear exercising will provide a range of mental health benefits, but new research suggests there is \u201clittle evidence\u201d sho\u2026 [+4989 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Bradford Betz",
-            "title": "Texas scientists name newly discovered ancient beaver after Buc-ee\u2019s, the state's wildly popular rest stop - Fox News",
-            "description": "A new species of beaver confirmed by researchers at the University of Texas at Austin has been named after the mascot of the convenience store chain Buc-ee's.",
-            "url": "https://www.foxnews.com/us/texas-scientists-name-newly-discovered-ancient-beaver-buc-ees-wildy-popular-texas-rest-stop",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/Fossil.jpg",
-            "publishedAt": "2023-03-28T01:21:00Z",
-            "content": "Researchers at the University of Texas at Austin have named a newly discovered species of ancient beaver after Buc-ees, the chain of convenience stores known for its namesake mascot.\u00a0\r\nThe new specie\u2026 [+1778 chars]"
+            "author": "Jeffrey Clark",
+            "title": "Kamala Harris stumbles over her words in Ghana speech: 'A lot of that work is the work that I am here to do' - Fox News",
+            "description": "Kamala Harris delivered another halting, repetitive speech, this time in Ghana as part of the Biden administration's push to build closer ties with Africa.",
+            "url": "https://www.foxnews.com/media/kamala-harris-stumbles-words-ghana-speech-work-i-am-here-do",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/2022-07-18T200935Z_686354063_RC2GEV9LSIB4_RTRMADP_3_USA-RACE-NAACP-HARRIS.jpg",
+            "publishedAt": "2023-03-28T11:08:00Z",
+            "content": "Vice President Kamala Harris\r\n stumbled over her words during a speech in Ghana Monday, serving up yet another word salad on the world stage.\u00a0\r\n\"There are a number of things on the issue of the econo\u2026 [+2207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Bertha Coombs",
+            "title": "Walgreens revenue rises despite sharp decline in demand for Covid tests, vaccines - CNBC",
+            "description": "Walgreens' quarterly results topped Wall Street's expectations, even as profit declined from a year earlier.",
+            "url": "https://www.cnbc.com/2023/03/28/walgreens-wba-q2-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107206500-1678454271932-gettyimages-1472409579-walgreenswouldnotdispenseanabortionpillin21states008.jpeg?v=1680001370&w=1920&h=1080",
+            "publishedAt": "2023-03-28T11:02:50Z",
+            "content": "Walgreens Boots Alliance on Tuesday said its quarterly profit declined more than 20%, driven by sharply lower Covid vaccine volumes and test sales compared to last winter, when the Covid Omicron vari\u2026 [+2688 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Thomas Schlachter, Homero De la Fuente",
+            "title": "March Madness: South Carolina advances to third straight Final Four appearance - CNN",
+            "description": "The South Carolina Gamecocks have continued their incredible unbeaten run with an 86-75 win against the Maryland Terrapins -- setting up a blockbuster Final Four clash against Caitlin Clark and the Iowa Hawkeyes.",
+            "url": "https://www.cnn.com/2023/03/28/sport/south-carolina-march-madness-final-four-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230328095941-02-south-carolina-march-madness-final-four.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-28T10:54:00Z",
+            "content": "The South Carolina Gamecocks have continued their incredible unbeaten run with an 86-75 win against the Maryland Terrapins setting up a blockbuster Final Four clash against Caitlin Clark and the Iowa\u2026 [+2119 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Suzanne O'Halloran",
+            "title": "Silicon Valley Bank\u2019s rapid withdrawals, management missteps created perfect storm - Fox Business",
+            "description": "The collapse of Silicon Valley Bank appears to have been a perfect storm from failures of management, hyped up social media, risky liabilities and the speed of digital banking.",
+            "url": "https://www.foxbusiness.com/markets/silicon-valley-banks-rapid-withdrawals-management-missteps-created-perfect-storm",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/Fed-Chair-Jerome-Powell-made-about-the-rapid-withdrawals.gif?ve=1&tl=1",
+            "publishedAt": "2023-03-28T10:10:28Z",
+            "content": "The run on Silicon Valley Bank (SVB)\u00a0was not your average bank run; it was so fast, it shocked even the most seasoned regulators as depositors siphoned $42 billon from the bank in just hours, leaving\u2026 [+3137 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Liam Croft",
+            "title": "Capcom Fans Split Over What Classic Game Should Be Remade Next - Push Square",
+            "description": "Dino Crisis vs. Resident Evil",
+            "url": "https://www.pushsquare.com/news/2023/03/capcom-fans-split-over-what-classic-game-should-be-remade-next",
+            "urlToImage": "https://images.pushsquare.com/e49a2c179219e/1280x720.jpg",
+            "publishedAt": "2023-03-28T09:15:00Z",
+            "content": "With Capcom's remaking efforts surrounding the classic Resident Evil 4 now complete, fans are predicting the company will move on next to either Dino Crisis or stick with its survival horror franchis\u2026 [+1433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Usf.edu"
+            },
+            "author": "Daniel Chang",
+            "title": "Pay up, kid? An ER's error sends a 4-year-old to collections - WUSF Public Media",
+            "description": "A Florida woman tried to dispute an emergency room bill, but the hospital and collection agency refused to talk to her \u2014 because it was her child's name on the bill, not hers.",
+            "url": "https://wusfnews.wusf.usf.edu/2023-03-28/pay-up-kid-an-ers-error-sends-a-4-year-old-to-collections",
+            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/71d5e11/2147483647/strip/true/crop/4000x2100+0+450/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F03%2F27%2Fbotm_march2023_0027-c1751b96f391d95bb3d8578e250e1eca64f80b07.jpg",
+            "publishedAt": "2023-03-28T09:00:00Z",
+            "content": "Dr. Sara McLin thought she made the right choice by going to an in-network emergency room near her Florida home after her 4-year-old burned his hand on a stove last Memorial Day weekend.\r\nHer family \u2026 [+10018 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Two fishermen caught cheating at Ohio tournament plead guilty - CBS News",
+            "description": "Two men accused of stuffing fish with lead weights and fish fillets to try to win an Ohio fishing tournament last fall have pleaded guilty to charges including cheating.",
+            "url": "https://www.cbsnews.com/news/fishing-tournament-cheating-guilty-jacob-runyan-chase-cominsky/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/28/ff9d6277-ccac-4fd2-82f0-a11ed18142c9/thumbnail/1200x630/9c7e46713ea82559e102445a878a0669/ap22299566880723.jpg",
+            "publishedAt": "2023-03-28T08:56:06Z",
+            "content": "Two men accused of stuffing fish with lead weights and fish fillets in an attempt to win thousands of dollars in an Ohio fishing tournament last fall pleaded guilty Monday to charges including cheati\u2026 [+2247 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Trump Warns Of Potential Death & Destruction If He Faces Charges In New York City Probe | Trump News - CNN-News18",
+            "description": "Trump Warns Of Potential Death & Destruction If He Faces Charges In New York City Probe | Trump NewsRatcheting up his already-incendiary rhetoric, former pre...",
+            "url": "https://www.youtube.com/watch?v=WcMxdvKIpmM",
+            "urlToImage": "https://i.ytimg.com/vi/WcMxdvKIpmM/maxresdefault_live.jpg",
+            "publishedAt": "2023-03-28T08:43:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "March Madness 2023 picks: Experts predict NCAA Tournament Final Four winners, national champion - CBS Sports",
+            "description": "Our experts give their opinions on which team will cut down the nets at the end of the Big Dance",
+            "url": "https://www.cbssports.com/college-basketball/news/march-madness-2023-picks-experts-predict-ncaa-tournament-final-four-winners-national-champion/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/27/40be04be-af86-4160-8795-bdc756d1fb44/thumbnail/1200x675/684c7e8ac21874f2313d048523349998/huskies.jpg",
+            "publishedAt": "2023-03-28T06:07:00Z",
+            "content": "Though the first two weekends of the 2023 NCAA Tournament were riddled with upsets, you would have done well to listen to listen to our expert picks. I dominated straight-up picks during March Madnes\u2026 [+7034 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephanie Nolasco, Ashley Papa",
+            "title": "Prince Harry in London: Prince William, King Charles have zero plans to give royal 'warm reception': experts - Fox News",
+            "description": "In his memoir, \"Spare,\" Prince Harry blamed an overly aggressive press for the 1997 death of his mother, Princess Diana, and also accused the media of hounding his wife Meghan Markle.",
+            "url": "https://www.foxnews.com/entertainment/prince-harry-london-prince-william-king-charles-zero-plans-give-royal-warm-reception",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/Getty_PrinceHarry.jpg",
+            "publishedAt": "2023-03-28T06:00:00Z",
+            "content": "Prince Harry made a surprise appearance in London, but a reconciliation with Prince William and King Charles III is not happening, royal experts insist.\r\nThe Duke of Sussex was in court Monday as the\u2026 [+8632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Sam Reynolds",
+            "title": "Disney Lays Off Metaverse Team: WSJ - CoinDesk",
+            "description": "Fifty people have lost their jobs as Disney disbands its next-generation storytelling and consumer experiences unit as part a company-wide staff reduction.",
+            "url": "https://www.coindesk.com/business/2023/03/28/disney-lays-off-metaverse-team-wsj/",
+            "urlToImage": "https://www.coindesk.com/resizer/ncWXw-zw8Sf5T9oxZwE8bwg4L9U=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NMUXTTQDRJGQ5KZXRXF7UZBWJA.jpg",
+            "publishedAt": "2023-03-28T05:32:00Z",
+            "content": "Disney is questioning the continued value of Web3.\r\nThe company is in the process of laying off 7,000 staff in an attempt to control costs and develop what CEO Bob Iger calls a streamlined business. \u2026 [+1085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "P!nk, Kelly Clarkson, Pat Benatar & Neil Giraldo Perform At The 2023 iHeartRadio Music Awards - iHeartRadio",
+            "description": "If You're New Subscribe \u25ba http://bit.ly/1Jy0DbOP!nk, Kelly Clarkson, Pat Benatar & Neil Giraldo Perform At The 2023 iHeartRadio Music AwardsStream the full s...",
+            "url": "https://www.youtube.com/watch?v=3W6p5TTbELY",
+            "urlToImage": "https://i.ytimg.com/vi/3W6p5TTbELY/maxresdefault.jpg",
+            "publishedAt": "2023-03-28T04:27:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Packers, Jets make progress toward an Aaron Rodgers deal - NBC Sports",
+            "description": "The most tangible evidence yet of a thawing of the ice between the Packers and Jets came on Monday, when Green Bay G.M. Brian Gutekunst admitted his team won\u2019t necessarily get a first-round pick for quarterback Aaron Rodgers. That statement fairly can be inte\u2026",
+            "url": "https://profootballtalk.nbcsports.com/2023/03/28/packers-jets-make-progress-toward-an-aaron-rodgers-deal/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/03/GettyImages-1245944622-e1679976800769.jpg",
+            "publishedAt": "2023-03-28T04:14:00Z",
+            "content": "The most tangible evidence yet of a thawing of the ice between the Packers and Jets came on Monday, when Green Bay G.M. Brian Gutekunst admitted his team wont necessarily get a first-round pick for q\u2026 [+2319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Elizabeth Wagmeister",
+            "title": "\u2018The Bachelor\u2019 Season 27 Finale: Is Zach Shallcross Engaged to Gabi or Kaity? (SPOILERS) - Variety",
+            "description": "SPOILER ALERT: Do not read ahead, if you have not watched \u201cThe Bachelor\u201d Season 27 finale, which aired on Monday, March 27 on ABC. 27 seasons later, \u201cThe Bachelor\u201d is still \u2026",
+            "url": "https://variety.com/2023/tv/news/the-bachelor-season-27-finale-zach-shallcross-1235565339/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/03/Bachelor-Finale-Zack-Shallcross-Kaity-Gabi-2.jpg?w=1000&h=562&crop=1",
+            "publishedAt": "2023-03-28T03:45:00Z",
+            "content": "SPOILER ALERT: Do not read ahead, if you have not watched \u201cThe Bachelor\u201d Season 27 finale, which aired on Monday, March 27 on ABC.\r\n27 seasons later, \u201cThe Bachelor\u201d is still handing out his final ros\u2026 [+5416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Nikki McCann Ramirez",
+            "title": "Trump Says He Didn\u2019t Call for \u2018Death and Destruction,\u2019 Simply Voiced His Concern It Would Happen - Rolling Stone",
+            "description": "In an interview with Fox News, Trump lashed out at prosecutors, investigators, and potential 2024 opponents",
+            "url": "https://www.rollingstone.com/politics/politics-news/trump-fox-sean-hannity-interview-manhattan-investigation-1234704656/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/03/Trump-Hannity-Interview.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-03-28T03:27:19Z",
+            "content": "After a months-long absence, Former President Donald Trump returned to Fox News on Monday for an extended interview with host Sean Hannity.\u00a0\r\nAs Trump gasses up his 2024 campaign, the former presiden\u2026 [+4168 chars]"
         },
         {
             "source": {
@@ -51,216 +259,8 @@
             "description": "The plant is among a cluster of industrial companies along the Delaware River that was home to chemical giants since the early 20th century.",
             "url": "https://www.inquirer.com/news/trinseo-chemical-spill-delaware-river-bristol-township-20230327.html",
             "urlToImage": "https://www.inquirer.com/resizer/MUv7Mz2vAaSqVriGuDSDep8izu0=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/KR2VQIF7TVCBLDNRXPPRY2G46A.jpg",
-            "publishedAt": "2023-03-28T01:20:30Z",
+            "publishedAt": "2023-03-28T02:40:50Z",
             "content": "A chemical plant in Bristol that authorities said caused a toxic spill, threatening Philadelphias drinking water, has a long history of mishaps including at least four recent contamination incidents.\u2026 [+4758 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Taylor Swift Accepts The 2023 iHeartRadio Innovator Award! - iHeartRadio",
-            "description": "If You're New Subscribe \u25ba http://bit.ly/1Jy0DbOTaylor Swift Accepts The 2023 iHeartRadio Innovator Award!------------------------------Listen Free to More of...",
-            "url": "https://www.youtube.com/watch?v=l1didjvvqTU",
-            "urlToImage": "https://i.ytimg.com/vi/l1didjvvqTU/maxresdefault.jpg",
-            "publishedAt": "2023-03-28T01:18:48Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Sian Cain",
-            "title": "Jonathan Majors charged with assault and harassment after alleged domestic dispute - The Guardian",
-            "description": "Creed III actor due to face court in May after unnamed female accuser alleges he struck her \u2018about the face with an opened hand\u2019 and bruised her neck",
-            "url": "https://www.theguardian.com/film/2023/mar/28/jonathan-majors-creed-iii-actor-charged-assault-harassment-alleged-domestic-dispute",
-            "urlToImage": "https://i.guim.co.uk/img/media/68628318628ec0c83628063ae150ea4128d48aa4/0_69_3260_1957/master/3260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c5ca7c86a104aed62d3abc64ab444d7",
-            "publishedAt": "2023-03-28T00:18:00Z",
-            "content": "Jonathan Majors has been charged with several assault and harassment misdemeanours, after being accused of assaulting a woman during an alleged domestic dispute, the Manhattan district attorneys offi\u2026 [+2597 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Lamar Jackson trade rumors: Colts seem open to the idea of adding 'special' QB after surprise trade request - CBS Sports",
-            "description": "Lamar tweeted on Monday that he requested a trade on March 2",
-            "url": "https://www.cbssports.com/nfl/news/lamar-jackson-to-indianapolis-colts-coach-gets-asked-about-teams-interest-in-qb-after-surprise-trade-request/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/16/7bf34cba-6b22-4d30-870f-556681dd6d05/thumbnail/1200x675/a75652454dcd1771bcbc92dc1cc5bb9c/usatsi-19245449-lamar-jackson-ravens-qb-preseason-2022-1400.jpg",
-            "publishedAt": "2023-03-27T23:59:33Z",
-            "content": "The NFL's annual league meeting started off with some major fireworks on Monday morning and those fireworks were provided by someone who's not even at the meeting: Lamar Jackson.\u00a0\r\nThe Ravens quarter\u2026 [+4488 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Yeo Boon Ping",
-            "title": "Stock Markets: First Citizens struck a great bargain - CNBC",
-            "description": "Investors liked First Citizens Bank's deal to buy Silicon Valley Bank\u2019s deposits and loans so much that they pushed its stock 53.74% higher.",
-            "url": "https://www.cnbc.com/2023/03/28/stock-markets-first-citizens-struck-a-great-bargain.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107215948-1679959024116-gettyimages-1249634900-firstcitizensbankraleigh10.jpeg?v=1679959585&w=1920&h=1080",
-            "publishedAt": "2023-03-27T23:26:25Z",
-            "content": "This report is from today's CNBC Daily Open, our new, international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need to know, no matter where they are. Like wh\u2026 [+2003 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Pamela McClintock",
-            "title": "\u2018John Wick 5\u2019 Back on the Table After Box Office Blowup - Hollywood Reporter",
-            "description": "\"We're all going to take a tiny rest here and then scratch at ideas about whether there's a credible way to get into five. But there\u2019s no guarantee,\" says Lionsgate Motion Picture Group president Joe Drake.",
-            "url": "https://www.hollywoodreporter.com/movies/movie-news/john-wick-5-back-on-the-table-box-office-blowup-1235361085/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/jw4-unit-210628-01211-r-H-2023.jpg?w=1024",
-            "publishedAt": "2023-03-27T23:24:54Z",
-            "content": "[The following story contains spoilers for John Wick: Chapter 4.]\r\nYeah, Lionsgate is thinking John Wick is back.\r\nJohn Wick: Chapter 4 had widely been expected to be the final installment in the mai\u2026 [+5273 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Emily Shapiro, Ivan Pereira",
-            "title": "Nashville school shooting updates: 3 kids, 3 staff killed; suspect dead - ABC News",
-            "description": "No one who was shot at the Covenant School survived, officials said.",
-            "url": "https://abcnews.go.com/US/multiple-patients-reported-amid-active-aggressor-nashville-school/story?id=98152651",
-            "urlToImage": "https://s.abcnews.com/images/US/nashville-shooting-10-rt-gmh-230327_1679949015619_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-03-27T22:44:16Z",
-            "content": "A shooter armed with two assault-style rifles and a handgun killed three students and three staff members at a Christian school in Nashville, Tennessee, on Monday morning, authorities said.\r\nThe susp\u2026 [+4790 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medical Xpress"
-            },
-            "author": "Science X",
-            "title": "Allergic asthma and eczema linked to heightened risk of osteoarthritis - Medical Xpress",
-            "description": "People with atopic (allergic) diseases like asthma or eczema may be at heightened risk of the painful and often disabling joint condition, osteoarthritis, finds research published online in the Annals of the Rheumatic Diseases.",
-            "url": "https://medicalxpress.com/news/2023-03-allergic-asthma-eczema-linked-heightened.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/eczema-1.jpg",
-            "publishedAt": "2023-03-27T22:30:02Z",
-            "content": "People with atopic (allergic) diseases like asthma or eczema may be at heightened risk of the painful and often disabling joint condition, osteoarthritis, finds research published online in the Annal\u2026 [+4747 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Ecuador landslide kills at least 7 in the Andes, 23 hurt - Reuters Canada",
-            "description": "A landslide triggered by heavy rains in Ecuador's Andean region killed at least seven people, with 23 people hurt and almost 50 missing, the country's risk agency said on Monday in a revised report on Twitter.",
-            "url": "https://www.reuters.com/world/americas/landslide-kills-least-16-ecuadors-andes-2023-03-27/",
-            "urlToImage": "https://www.reuters.com/resizer/RIEVaC7Pd0gOGvvv3uMxOUIVTbs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YBQ6DMH2UFM5BIINJ3XM7JNORA.jpg",
-            "publishedAt": "2023-03-27T22:22:00Z",
-            "content": "ALAUSI/QUITO, Ecuador, March 27 (Reuters) - A landslide triggered by heavy rains in Ecuador's Andean region killed at least seven people, with 23 people hurt and almost 50 missing, the country's risk\u2026 [+1447 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Catherine Thorbecke",
-            "title": "Lyft announces new CEO, says co-founders will step aside from management positions - CNN",
-            "description": "Lyft announced on Monday that Amazon veteran David Risher will join as chief executive next month, and that co-founders Logan Green and John Zimmer will step down from their management positions at the ride-hailing company.",
-            "url": "https://www.cnn.com/2023/03/27/tech/lyft-leadership-shakeup/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/200403130818-03-lyft-car-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-27T22:14:00Z",
-            "content": "Lyft announced on Monday that Amazon veteran David Risher will join as chief executive next month, and that co-founders Logan Green and John Zimmer will step down from their management positions at t\u2026 [+1629 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Digital Twin Approaches Enabled by Cutting-Edge Brain Modelling Advances - Neuroscience News",
-            "description": "Using a new technology called The Virtual Brain, researchers are able to create personalized computerized brain models of individual patients based on their anatomy, structural connectivity, and brain dynamics.",
-            "url": "https://neurosciencenews.com/digital-twin-brain-22889/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/03/digital-twin-brain-mapping-neurosciences-public.jpg",
-            "publishedAt": "2023-03-27T22:10:15Z",
-            "content": "Summary: Using a new technology called The Virtual Brain, researchers are able to create personalized computerized brain models of individual patients based on their anatomy, structural connectivity,\u2026 [+4397 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Lesley Goldberg",
-            "title": "Disney Layoffs Hit TV Production, Acquisitions Departments \u2013 The Hollywood Reporter - Hollywood Reporter",
-            "description": "The first names of those impacted by staff cuts have emerged as CEO Bob Iger plans to eliminate 7,000 jobs companywide.",
-            "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-layoffs-tv-production-acquisitions-departments-1235361483/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/Bob-Iger-Get-Back-Capsule-Collection-GettyImages-1354161206-H-2023.jpg?w=1024",
-            "publishedAt": "2023-03-27T21:15:02Z",
-            "content": "Layoffs have begun in Disney\u2019s television divisions.\r\nSources tell The Hollywood Reporter that Monday\u2019s layoffs focused production and acquisitions. Among the notable staffers let go Monday are Jayne\u2026 [+3509 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "MARCIA DUNN AP Aerospace Writer",
-            "title": "New source of water found in moon samples from China mission - ABC News",
-            "description": "Scientists have discovered a new and renewable source of water on the moon for future explorers in lunar samples returned from a Chinese mission",
-            "url": "https://abcnews.go.com/Technology/wireStory/new-source-water-found-moon-samples-china-mission-98162299",
-            "urlToImage": "https://s.abcnews.com/images/Technology/wirestory_28447e31610ad93a78c140ef518086ac_12x5_992.jpg",
-            "publishedAt": "2023-03-27T21:03:45Z",
-            "content": "CAPE CANAVERAL, Fla. -- Scientists have discovered a new and renewable source of water on the moon for future explorers in lunar samples from a Chinese mission. \r\nWater was embedded in tiny glass bea\u2026 [+2030 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Zachary McAuliffe",
-            "title": "iOS 16.4 Brings These New Emoji to Your iPhone - CNET",
-            "description": "The latest iOS update, and these emoji, can be downloaded now.",
-            "url": "https://www.cnet.com/tech/services-and-software/ios-16-4-brings-these-new-emoji-to-your-iphone/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/87d41ccc7bf4adcafa4863c626e1449caf437708/hub/2023/02/16/71ccf413-3d0a-4a5e-afe2-85d0d50545b6/ios-16-4-emoji.jpg?auto=webp&fit=crop&height=630&width=1200",
-            "publishedAt": "2023-03-27T20:30:10Z",
-            "content": "Your iPhone already has thousands of emoji, but Apple just added 31 more with its latest iOS update. Apple's\u00a0iOS 16.4\u00a0was released Monday, meaning you could be using the new emoji now.\r\nThe new emoji\u2026 [+1741 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a>, Adam Renton, <a href=\"/profiles/rob-picheta\">Rob Picheta</a>, Ed Upright, <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, <a href=\"/profiles/ivana-kottasova\">Ivana Kottasov\u00e1</a> and Jack Guy, CNN",
-            "title": "Israel's judicial overhaul delayed after mass protests: Live updates - CNN",
-            "description": "Israel's judicial overhaul legislation will be put on hold until the next session of the Knesset, after the Passover recess in April, Prime Minister Benjamin Netanyahu announced in a televised address following a day of protests. Follow live updates here.",
-            "url": "https://www.cnn.com/middleeast/live-news/israel-protests-netanyahu-updates-03-27-23-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230327103434-01-israel-protests-032723-super-tease.jpeg",
-            "publishedAt": "2023-03-27T20:23:00Z",
-            "content": "The White House says it welcomes a delay in advancing Israel's controversial judicial reforms, which have concerned President Joe Biden and US officials.\r\nWe welcome this announcement as an opportuni\u2026 [+752 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FiveThirtyEight"
-            },
-            "author": "Josh Planos",
-            "title": "The UConn Men Aren\u2019t Here For Your Cinderella Final Four - FiveThirtyEight",
-            "description": "The 2023 men\u2019s NCAA Tournament has transformed into a bloodletting exercise for the sport\u2019s traditional powers. Of the 15 teams that claim at least two national\u2026",
-            "url": "https://fivethirtyeight.com/features/the-uconn-men-arent-here-for-your-cinderella-final-four/",
-            "urlToImage": "https://fivethirtyeight.com/wp-content/uploads/2023/03/MM-UCONN-2023-16x9-1.png?w=712",
-            "publishedAt": "2023-03-27T20:22:55Z",
-            "content": "The 2023 mens NCAA Tournament has transformed into a bloodletting exercise for the sports traditional powers. Of the 15 teams that claim at least two national championships, only eight1 qualified for\u2026 [+4174 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Kim Hjelmgaard, Maureen Groppe, Caren Bohan and Holly Rosenkrantz, USA TODAY",
-            "title": "After riots in Israel, PM Netanyahu pauses judiciary reforms - USA TODAY",
-            "description": "Israeli labor unions launched a nationwide strike and airlines were grounded as opposition to Netanyahu\u2019s plan\u00a0threatened to upend the economy.",
-            "url": "https://www.usatoday.com/story/news/world/2023/03/27/israel-netanyahu-judicial-reform-delay-halt/11548416002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/03/USAT/2e575aec-6b12-4df9-be06-b694a0e7f80c-Netanyahu.jpeg?auto=webp&crop=7354,4137,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2023-03-27T19:57:40Z",
-            "content": "Israeli\u00a0Prime Minister Benjamin Netanyahu\u00a0on Monday\u00a0temporarily suspended his\u00a0controversial judicial reform legislation that has led to mass protests and caused anger across most parts of society, in\u2026 [+6053 chars]"
         }
     ]
 }
