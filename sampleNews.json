@@ -1,19 +1,149 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Investor's Business Daily",
-            "title": "Dow Jones Futures Rise On Silicon Valley Bank Purchase; First Republic Soars 25% - Investor's Business Daily",
-            "description": null,
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-on-silicon-valley-bank-purchase-first-republic-soars/",
-            "urlToImage": null,
-            "publishedAt": "2023-03-27T12:05:00Z",
+            "author": "Victoria Hernandez",
+            "title": "Women's March Madness Elite 8 live update: Virginia Tech vs Ohio State - USA TODAY",
+            "description": "South Carolina, seeking its second straight national champion, beat Maryland 86-75. Virginia Tech faces Ohio State in final Elight Eight game.",
+            "url": "https://www.usatoday.com/story/sports/ncaaw/2023/03/27/womens-march-madness-elite-8-live-updates-south-carolina-action/11548068002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/28/USAT/486a8370-2313-477f-bd0b-decfb0c61e31-USATSI_20331707.jpg?crop=6948,3909,x0,y353&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-03-28T01:31:32Z",
+            "content": "Half of the women's NCAA Tournament Final Four field is set. The other half will be settled Monday night.\r\nWho will join Iowa and LSU in Dallas?\r\nNo. 1 South Carolina the defending national champions\u2026 [+13984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "INSIDER"
+            },
+            "author": "Erin Snodgrass",
+            "title": "Gwyneth Paltrow ski collision: Instructor says actress isn't reckless - Insider",
+            "description": "Eric Christiansen, a ski instructor for Gwyneth Paltrow and her family, took the stand in the actress' negligence case on Monday.",
+            "url": "https://www.insider.com/gwyneth-paltrow-ski-collision-instructor-says-actress-isnt-reckless-2023-3",
+            "urlToImage": "https://i.insider.com/6422308c55bd920018e1fea7?width=1200&format=jpeg",
+            "publishedAt": "2023-03-28T01:21:17Z",
+            "content": "A Utah ski instructor who taught actress Gwyneth Paltrow's children on several vacations defended the star's snow sport ability, testifying in court on Monday that he has always known the \"Goop\" mogu\u2026 [+3162 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "Texas scientists name newly discovered ancient beaver after Buc-ee\u2019s, the state's wildly popular rest stop - Fox News",
+            "description": "A new species of beaver confirmed by researchers at the University of Texas at Austin has been named after the mascot of the convenience store chain Buc-ee's.",
+            "url": "https://www.foxnews.com/us/texas-scientists-name-newly-discovered-ancient-beaver-buc-ees-wildy-popular-texas-rest-stop",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/Fossil.jpg",
+            "publishedAt": "2023-03-28T01:21:00Z",
+            "content": "Researchers at the University of Texas at Austin have named a newly discovered species of ancient beaver after Buc-ees, the chain of convenience stores known for its namesake mascot.\u00a0\r\nThe new specie\u2026 [+1778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Philadelphia Inquirer"
+            },
+            "author": "Ryan W. Briggs",
+            "title": "Bristol plant that spilled chemicals into Philly's water supply had other mishaps over the last decade - The Philadelphia Inquirer",
+            "description": "The plant is among a cluster of industrial companies along the Delaware River that was home to chemical giants since the early 20th century.",
+            "url": "https://www.inquirer.com/news/trinseo-chemical-spill-delaware-river-bristol-township-20230327.html",
+            "urlToImage": "https://www.inquirer.com/resizer/MUv7Mz2vAaSqVriGuDSDep8izu0=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/KR2VQIF7TVCBLDNRXPPRY2G46A.jpg",
+            "publishedAt": "2023-03-28T01:20:30Z",
+            "content": "A chemical plant in Bristol that authorities said caused a toxic spill, threatening Philadelphias drinking water, has a long history of mishaps including at least four recent contamination incidents.\u2026 [+4758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Taylor Swift Accepts The 2023 iHeartRadio Innovator Award! - iHeartRadio",
+            "description": "If You're New Subscribe \u25ba http://bit.ly/1Jy0DbOTaylor Swift Accepts The 2023 iHeartRadio Innovator Award!------------------------------Listen Free to More of...",
+            "url": "https://www.youtube.com/watch?v=l1didjvvqTU",
+            "urlToImage": "https://i.ytimg.com/vi/l1didjvvqTU/maxresdefault.jpg",
+            "publishedAt": "2023-03-28T01:18:48Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Sian Cain",
+            "title": "Jonathan Majors charged with assault and harassment after alleged domestic dispute - The Guardian",
+            "description": "Creed III actor due to face court in May after unnamed female accuser alleges he struck her \u2018about the face with an opened hand\u2019 and bruised her neck",
+            "url": "https://www.theguardian.com/film/2023/mar/28/jonathan-majors-creed-iii-actor-charged-assault-harassment-alleged-domestic-dispute",
+            "urlToImage": "https://i.guim.co.uk/img/media/68628318628ec0c83628063ae150ea4128d48aa4/0_69_3260_1957/master/3260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c5ca7c86a104aed62d3abc64ab444d7",
+            "publishedAt": "2023-03-28T00:18:00Z",
+            "content": "Jonathan Majors has been charged with several assault and harassment misdemeanours, after being accused of assaulting a woman during an alleged domestic dispute, the Manhattan district attorneys offi\u2026 [+2597 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Lamar Jackson trade rumors: Colts seem open to the idea of adding 'special' QB after surprise trade request - CBS Sports",
+            "description": "Lamar tweeted on Monday that he requested a trade on March 2",
+            "url": "https://www.cbssports.com/nfl/news/lamar-jackson-to-indianapolis-colts-coach-gets-asked-about-teams-interest-in-qb-after-surprise-trade-request/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/16/7bf34cba-6b22-4d30-870f-556681dd6d05/thumbnail/1200x675/a75652454dcd1771bcbc92dc1cc5bb9c/usatsi-19245449-lamar-jackson-ravens-qb-preseason-2022-1400.jpg",
+            "publishedAt": "2023-03-27T23:59:33Z",
+            "content": "The NFL's annual league meeting started off with some major fireworks on Monday morning and those fireworks were provided by someone who's not even at the meeting: Lamar Jackson.\u00a0\r\nThe Ravens quarter\u2026 [+4488 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yeo Boon Ping",
+            "title": "Stock Markets: First Citizens struck a great bargain - CNBC",
+            "description": "Investors liked First Citizens Bank's deal to buy Silicon Valley Bank\u2019s deposits and loans so much that they pushed its stock 53.74% higher.",
+            "url": "https://www.cnbc.com/2023/03/28/stock-markets-first-citizens-struck-a-great-bargain.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107215948-1679959024116-gettyimages-1249634900-firstcitizensbankraleigh10.jpeg?v=1679959585&w=1920&h=1080",
+            "publishedAt": "2023-03-27T23:26:25Z",
+            "content": "This report is from today's CNBC Daily Open, our new, international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need to know, no matter where they are. Like wh\u2026 [+2003 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Pamela McClintock",
+            "title": "\u2018John Wick 5\u2019 Back on the Table After Box Office Blowup - Hollywood Reporter",
+            "description": "\"We're all going to take a tiny rest here and then scratch at ideas about whether there's a credible way to get into five. But there\u2019s no guarantee,\" says Lionsgate Motion Picture Group president Joe Drake.",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/john-wick-5-back-on-the-table-box-office-blowup-1235361085/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/jw4-unit-210628-01211-r-H-2023.jpg?w=1024",
+            "publishedAt": "2023-03-27T23:24:54Z",
+            "content": "[The following story contains spoilers for John Wick: Chapter 4.]\r\nYeah, Lionsgate is thinking John Wick is back.\r\nJohn Wick: Chapter 4 had widely been expected to be the final installment in the mai\u2026 [+5273 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Emily Shapiro, Ivan Pereira",
+            "title": "Nashville school shooting updates: 3 kids, 3 staff killed; suspect dead - ABC News",
+            "description": "No one who was shot at the Covenant School survived, officials said.",
+            "url": "https://abcnews.go.com/US/multiple-patients-reported-amid-active-aggressor-nashville-school/story?id=98152651",
+            "urlToImage": "https://s.abcnews.com/images/US/nashville-shooting-10-rt-gmh-230327_1679949015619_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-03-27T22:44:16Z",
+            "content": "A shooter armed with two assault-style rifles and a handgun killed three students and three staff members at a Christian school in Nashville, Tennessee, on Monday morning, authorities said.\r\nThe susp\u2026 [+4790 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medical Xpress"
+            },
+            "author": "Science X",
+            "title": "Allergic asthma and eczema linked to heightened risk of osteoarthritis - Medical Xpress",
+            "description": "People with atopic (allergic) diseases like asthma or eczema may be at heightened risk of the painful and often disabling joint condition, osteoarthritis, finds research published online in the Annals of the Rheumatic Diseases.",
+            "url": "https://medicalxpress.com/news/2023-03-allergic-asthma-eczema-linked-heightened.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/eczema-1.jpg",
+            "publishedAt": "2023-03-27T22:30:02Z",
+            "content": "People with atopic (allergic) diseases like asthma or eczema may be at heightened risk of the painful and often disabling joint condition, osteoarthritis, finds research published online in the Annal\u2026 [+4747 chars]"
         },
         {
             "source": {
@@ -21,246 +151,116 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Largest strike in decades brings Germany to a standstill - Reuters.com",
-            "description": "Airports and bus and train stations across Germany were at a standstill on Monday, causing disruption for millions at the start of the working week during one of the largest walkouts in decades as Europe's biggest economy reels from inflation.",
-            "url": "https://www.reuters.com/world/europe/largest-strike-decades-leaves-germany-standstill-2023-03-27/",
-            "urlToImage": "https://www.reuters.com/resizer/JTukbZSCQvT4i0ffT99N4LRMXfA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4A73DMI2VJNG3A3RJQ5YF5HXOM.jpg",
-            "publishedAt": "2023-03-27T11:25:00Z",
-            "content": "BERLIN/FRANKFURT, March 27 (Reuters) - Airports and bus and train stations across Germany were at a standstill on Monday, causing disruption for millions at the start of the working week during one o\u2026 [+5313 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Mike Calia",
-            "title": "5 things to know before the stock market opens Monday - CNBC",
-            "description": "Here are the most important news items that investors need to start their trading day.",
-            "url": "https://www.cnbc.com/2023/03/27/5-things-to-know-before-the-stock-market-opens-monday-march-27.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107214097-16795844972023-03-23t151150z_577687682_rc2pzz9swmbl_rtrmadp_0_usa-stocks.jpeg?v=1679916021&w=1920&h=1080",
-            "publishedAt": "2023-03-27T11:20:21Z",
-            "content": "A Specialist trader works inside a booth on the floor of the New York Stock Exchange (NYSE) in New York City, March 23, 2023.\r\nHere are the most important news items that investors need to start thei\u2026 [+4475 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Paul Myerberg",
-            "title": "Final Four breakdown: Analyzing Connecticut, Miami, San Diego State and Florida Atlantic - USA TODAY",
-            "description": "The Final Four of the NCAA men's tournament is set. A breakdown of the quartet that will head to Houston in search of winning a national title.",
-            "url": "https://www.usatoday.com/story/sports/ncaab/2023/03/27/final-four-analysis-uconn-miami-san-diego-state-florida-atlantic/11546374002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/25/USAT/08015c3c-e87f-499f-bd77-e5853850e974-SDSU.jpg?crop=3976,2237,x403,y226&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-03-27T11:12:56Z",
-            "content": "Meet your 2023 NCAA men's basketball tournament Final Four:\r\nNo. 4 Connecticut rolled through the West Regional, capping this torrid run with an 82-54 destruction of No. 3 Gonzaga. The Huskies are ba\u2026 [+6729 chars]"
+            "title": "Ecuador landslide kills at least 7 in the Andes, 23 hurt - Reuters Canada",
+            "description": "A landslide triggered by heavy rains in Ecuador's Andean region killed at least seven people, with 23 people hurt and almost 50 missing, the country's risk agency said on Monday in a revised report on Twitter.",
+            "url": "https://www.reuters.com/world/americas/landslide-kills-least-16-ecuadors-andes-2023-03-27/",
+            "urlToImage": "https://www.reuters.com/resizer/RIEVaC7Pd0gOGvvv3uMxOUIVTbs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YBQ6DMH2UFM5BIINJ3XM7JNORA.jpg",
+            "publishedAt": "2023-03-27T22:22:00Z",
+            "content": "ALAUSI/QUITO, Ecuador, March 27 (Reuters) - A landslide triggered by heavy rains in Ecuador's Andean region killed at least seven people, with 23 people hurt and almost 50 missing, the country's risk\u2026 [+1447 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Lauren Said-Moorhouse, Max Foster",
-            "title": "Prince Harry back in London for UK High Court fight - CNN",
-            "description": "Britain's Prince Harry has arrived at London's High Court to attend a hearing in his claim against Associated Newspapers Limited over allegations of unlawful information gathering.",
-            "url": "https://www.cnn.com/2023/03/27/uk/prince-harry-court-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230327103821-01-prince-harry-court-london-032723.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-27T11:10:00Z",
-            "content": "Britains Prince Harry has arrived at Londons High Court to attend a hearing in his claim against Associated Newspapers Limited over allegations of unlawful information gathering.\r\nThe Duke of Sussex \u2026 [+2861 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Paresh Dave",
-            "title": "ChatGPT Opened a New Era in Search. Microsoft Could Ruin It - WIRED",
-            "description": "Startups say Microsoft and its Bing chatbot\u2014not just Google\u2014are stifling competition when it comes to creating better search engines.",
-            "url": "https://www.wired.com/story/chatgpt-opened-a-new-era-in-search-microsoft-could-ruin-it/",
-            "urlToImage": "https://media.wired.com/photos/641ccfdc7ed2d3b740a47b0c/191:100/w_1280,c_limit/business-microsoft-bing-search-engines.jpg",
-            "publishedAt": "2023-03-27T11:00:00Z",
-            "content": "Ecosia, which uses Bing results\u00a0and invests its profits in environmental projects, is considering potential partners to develop its own chatbot. Its leaders would be eager to license Bings chatbot te\u2026 [+3777 chars]"
+            "author": "Catherine Thorbecke",
+            "title": "Lyft announces new CEO, says co-founders will step aside from management positions - CNN",
+            "description": "Lyft announced on Monday that Amazon veteran David Risher will join as chief executive next month, and that co-founders Logan Green and John Zimmer will step down from their management positions at the ride-hailing company.",
+            "url": "https://www.cnn.com/2023/03/27/tech/lyft-leadership-shakeup/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/200403130818-03-lyft-car-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-27T22:14:00Z",
+            "content": "Lyft announced on Monday that Amazon veteran David Risher will join as chief executive next month, and that co-founders Logan Green and John Zimmer will step down from their management positions at t\u2026 [+1629 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "mlive.com"
+                "name": "Neurosciencenews.com"
             },
-            "author": "Andrew Kahn | akahn1@mlive.com",
-            "title": "Former longtime Michigan basketball assistant reaches Final Four - MLive.com",
-            "description": "Former Michigan assistant Brian Dutcher leads San Diego State to Final Four",
-            "url": "https://www.mlive.com/wolverines/2023/03/former-longtime-michigan-basketball-assistant-reaches-final-four.html",
-            "urlToImage": "https://www.mlive.com/resizer/4Eok1QsfHPlfdc5B7Pe0Lk0omBg=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HMBLZGBAVBBSDM775U2CQTAN5I.jpeg",
-            "publishedAt": "2023-03-27T10:52:00Z",
-            "content": "Brian Dutcher went to the Final Four three times at Michigan. Now hes going with San Diego State.\r\nThe Aztecs beat Creighton on Sunday, 57-56, to reach the Final Four for the first time in program hi\u2026 [+2033 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Todd Frankel, Shawn Boburg, Josh Dawsey, Ashley Parker, Alex Horton",
-            "title": "How the AR-15 became a powerful political, cultural symbol in America - The Washington Post",
-            "description": "The AR-15 wasn\u2019t supposed to be a best-seller. It's the result of a dramatic shift in American gun culture fueled by the firearms industry and its allies.",
-            "url": "https://www.washingtonpost.com/nation/interactive/2023/ar-15-america-gun-culture-politics/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6JQYJKFYNG45A76DSW4MKPBSA.jpg&w=1200",
-            "publishedAt": "2023-03-27T10:04:11Z",
-            "content": "A series examining the AR-15, a weapon with a singular hold on a divided nation\r\nAbout the terminology \u00a0\r\nColt acquired the AR-15 patent and trademark from Armalite in 1959. The patent expired, leavi\u2026 [+50510 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ryan Gaydos",
-            "title": "Iowa's Caitlin Clark sets record with 41-point triple-double, hits John Cena taunt - Fox News",
-            "description": "Caitlin Clark scored 41 points in a historic March Madness performance for Iowa. The Hawkeyes defeated Louisville 97-83 to move onto the Final Four.",
-            "url": "https://www.foxnews.com/sports/iowas-caitlin-clark-sets-record-41-point-triple-double-hits-john-cena-taunt",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/Caitlin-Clark.jpg",
-            "publishedAt": "2023-03-27T10:04:00Z",
-            "content": "Caitlin Clark had the performance of a lifetime and let her opponents know about it Sunday night as Iowa topped Louisville 97-83 to advance to the Womens Final Four for the second time in school hist\u2026 [+2188 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Rebecca Beitsch, Rafael Bernal",
-            "title": "As US fentanyl deaths jump, GOP casts blame at the border - The Hill",
-            "description": "Editor\u2019s note: The first part of a 2-part series on the politicization of fentanyl overdoses. The Republican takeover of the House shifted congressional oversight of the border, with GOP lawmakers using their new powers in efforts to link the fentanyl crisis \u2026",
-            "url": "https://thehill.com/latino/3915276-as-u-s-fentanyl-deaths-jump-gop-casts-blame-at-the-border/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/usmexicoborder_032723getty.jpg?w=1280",
-            "publishedAt": "2023-03-27T10:00:00Z",
-            "content": "Skip to content\r\nEditor\u2019s note: The first part of a 2-part series on the politicization of fentanyl overdoses.\r\nThe Republican takeover of the House shifted congressional oversight of the border, wit\u2026 [+10262 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Bryan Pietsch, Jennifer Hassan",
-            "title": "Ukraine live briefing: Russia says Western sanctions won't stop it from moving tactical nuclear weapons to Belarus - The Washington Post",
-            "description": "E.U. foreign policy chief Josep Borrell threatened sanctions after Russia's Vladimir Putin announced that Belarus would host Russian tactical nuclear weapons.",
-            "url": "https://www.washingtonpost.com/world/2023/03/27/russia-ukraine-war-news-belarus/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWCXLFIV7PETTKOGQNTHFPXNRA_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-03-27T09:50:00Z",
-            "content": "Western sanctions will not affect Moscows plans to move tactical nuclear weapons into Belarus, the Kremlin said Monday. The European Union has threatened to impose sanctions on Belarus after Russia a\u2026 [+4078 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Natasha Turak, Ruxandra Iordache",
-            "title": "Netanyahu survives no-confidence vote as angry protests, strikes paralyze Israel over judicial reforms - CNBC",
-            "description": "Mass protests have erupted in Israel in recent months over controversial judicial reforms pushed by Prime Minister Benjamin Netanyahu's government.",
-            "url": "https://www.cnbc.com/2023/03/27/angry-protests-strikes-paralyse-israel-as-netanyahu-resists-pausing-widely-hated-judicial-reforms.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107215332-1679898229258-gettyimages-1249570856-AA_27032023_1129597.jpeg?v=1679906884&w=1920&h=1080",
-            "publishedAt": "2023-03-27T08:48:04Z",
-            "content": "The government of Israeli Prime Minister Benjamin Netanyahu survived a no-confidence vote in the Knesset, the country's parliament, amid what is possibly the largest wave of demonstrations in Israel'\u2026 [+4499 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Interplanetary Weather Observer: Hubble Spies Spectacular Changing Seasons at Jupiter and Uranus - SciTechDaily",
-            "description": "Forecast for Blustery Winds, Smoggy Hazes The outer planets beyond Mars do not have solid surfaces to affect weather as on Earth. And, sunlight is much less able to drive atmospheric circulation. Nevertheless, these are ever-changing worlds. And Hubble \u2013 as i\u2026",
-            "url": "https://scitechdaily.com/?p=264005",
-            "urlToImage": "https://scitechdaily.com/images/Hubble-Jupiter-November-2022.jpg",
-            "publishedAt": "2023-03-27T08:29:39Z",
-            "content": "BySpace Telescope Science InstituteMarch 27, 2023\r\nIn this captivating image, Jupiters vibrant cloud tops are interrupted by the orange-hued moon Io, casting a shadow towards the planets western edge\u2026 [+11316 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Elizabeth Wolfe, Rob Shackelford",
-            "title": "Southeast to be hit with another round of severe weather after weekend tornadoes and storms killed dozens across the region - CNN",
-            "description": "Another round of severe thunderstorms may bring damaging winds and large hail to portions of the Southeast on Monday as some communities across the region are already working to rebuild following a weekend of intense storms and scattered tornadoes that left 2\u2026",
-            "url": "https://www.cnn.com/2023/03/27/weather/southeast-severe-storms-weather-monday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230327111026-03-mississippi-weather-0326.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-27T08:23:00Z",
-            "content": "Another round of severe thunderstorms may bring damaging winds and large hail to portions of the Southeast on Monday as some communities across the region are already working to rebuild following a w\u2026 [+5394 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Ed Zitron",
-            "title": "Tech companies are ruining their apps, websites, internet - Business Insider",
-            "description": "Google, Amazon, and Meta are making their core products worse and ruining everything from apps to the internet.",
-            "url": "https://www.businessinsider.com/tech-companies-ruining-apps-websites-internet-worse-google-facebook-amazon-2023-3",
-            "urlToImage": "https://i.insider.com/641e1ba1c60a3d00184ef2e0?width=1200&format=jpeg",
-            "publishedAt": "2023-03-27T07:03:00Z",
-            "content": "In recent years, Google users have developed one very specific complaint about the ubiquitous search engine: They can't find any answers. A simple search for \"best pc for gaming\" leads to a page domi\u2026 [+12072 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Barak Ravid",
-            "title": "Netanyahu to suspend Israeli judicial overhaul plan after protests - Axios",
-            "description": "The overhaul has in the past 3 months led to an unprecedented political and social crisis in Israel, and destabalized its economy.",
-            "url": "https://www.axios.com/2023/03/27/netanyahu-israeli-judicial-overhaul-suspend-protests",
-            "urlToImage": "https://images.axios.com/AT-zue6DOJC-hzw5f-ClRz5EoGA=/0x0:4100x2306/1366x768/2023/03/27/1679897779389.jpg",
-            "publishedAt": "2023-03-27T06:46:33Z",
-            "content": "Israeli Prime Minister Benjamin Netanyahu is expected to announce Monday that he is suspending his coalition's judicial overhaul legislation after a night of mass protests and the announcement of a g\u2026 [+2834 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Fox News",
-            "title": "Pennsylvania chocolate factory explosion kills seven after two more bodies found - New York Post ",
-            "description": "Earlier in the day, a fifth body was pulled from the rubble, after authorities initially confirmed four people were dead, and another three were still missing.",
-            "url": "https://nypost.com/2023/03/27/pennsylvania-chocolate-factory-explosion-kills-seven-after-two-more-bodies-found/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/newspress-collage-26306248-1679894597881.jpg?quality=75&strip=all&1679880261&w=1024",
-            "publishedAt": "2023-03-27T05:44:00Z",
-            "content": "More bodies have been found as emergency crews continue to survey the site of the R.M. chocolate factory in\u00a0Berks County, Pennsylvania,\u00a0bringing the number of fatalities from Friday evenings explosio\u2026 [+3391 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Elon Musk: Twitter says parts of source code leaked online - BBC",
-            "description": "Elon Musk has also reportedly indicated Twitter is now worth less than half the amount he paid for it.",
-            "url": "https://www.bbc.com/news/business-65084254",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/27D3/production/_129159101_d2b2937db5c22ac971a0070ea3f8b8bbd271781f.jpg",
-            "publishedAt": "2023-03-27T05:07:47Z",
-            "content": "Parts of the source code which underpins multi-billionaire Elon Musk's social media platform have been leaked online, Twitter says.\r\nIt says the code was posted on GitHub, a Microsoft-owned service w\u2026 [+1703 chars]"
+            "author": "Neuroscience News",
+            "title": "Digital Twin Approaches Enabled by Cutting-Edge Brain Modelling Advances - Neuroscience News",
+            "description": "Using a new technology called The Virtual Brain, researchers are able to create personalized computerized brain models of individual patients based on their anatomy, structural connectivity, and brain dynamics.",
+            "url": "https://neurosciencenews.com/digital-twin-brain-22889/",
+            "urlToImage": "https://neurosciencenews.com/files/2023/03/digital-twin-brain-mapping-neurosciences-public.jpg",
+            "publishedAt": "2023-03-27T22:10:15Z",
+            "content": "Summary: Using a new technology called The Virtual Brain, researchers are able to create personalized computerized brain models of individual patients based on their anatomy, structural connectivity,\u2026 [+4397 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Hollywood Reporter"
             },
-            "author": "Rick Porter",
-            "title": "\u2018Succession\u2019: Sarah Snook, Matthew Macfadyen Break Down a Tragic Non-Confrontation - Hollywood Reporter",
-            "description": "The two actors discuss Shiv and Tom's emotional scene together in the season four premiere.",
-            "url": "https://www.hollywoodreporter.com/tv/tv-news/succession-season-4-episode-1-shiv-tom-1235360644/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/sarah-snook-H-2023.jpg?w=1024",
-            "publishedAt": "2023-03-27T05:00:32Z",
-            "content": "[This story contains spoilers for the fourth season premiere of Succession on HBO.]\r\nMost of Sunday\u2019s Succession premiere was taken up by a bidding war between media mogul Logan Roy (Brian Cox) and h\u2026 [+3100 chars]"
+            "author": "Lesley Goldberg",
+            "title": "Disney Layoffs Hit TV Production, Acquisitions Departments \u2013 The Hollywood Reporter - Hollywood Reporter",
+            "description": "The first names of those impacted by staff cuts have emerged as CEO Bob Iger plans to eliminate 7,000 jobs companywide.",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-layoffs-tv-production-acquisitions-departments-1235361483/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/Bob-Iger-Get-Back-Capsule-Collection-GettyImages-1354161206-H-2023.jpg?w=1024",
+            "publishedAt": "2023-03-27T21:15:02Z",
+            "content": "Layoffs have begun in Disney\u2019s television divisions.\r\nSources tell The Hollywood Reporter that Monday\u2019s layoffs focused production and acquisitions. Among the notable staffers let go Monday are Jayne\u2026 [+3509 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARCIA DUNN AP Aerospace Writer",
+            "title": "New source of water found in moon samples from China mission - ABC News",
+            "description": "Scientists have discovered a new and renewable source of water on the moon for future explorers in lunar samples returned from a Chinese mission",
+            "url": "https://abcnews.go.com/Technology/wireStory/new-source-water-found-moon-samples-china-mission-98162299",
+            "urlToImage": "https://s.abcnews.com/images/Technology/wirestory_28447e31610ad93a78c140ef518086ac_12x5_992.jpg",
+            "publishedAt": "2023-03-27T21:03:45Z",
+            "content": "CAPE CANAVERAL, Fla. -- Scientists have discovered a new and renewable source of water on the moon for future explorers in lunar samples from a Chinese mission. \r\nWater was embedded in tiny glass bea\u2026 [+2030 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fort Worth Star-Telegram"
+                "name": "CNET"
             },
-            "author": "James Hartley",
-            "title": "Family of missing 6-year-old left Texas on international flight before Amber Alert issued - Fort Worth Star-Telegram",
-            "description": "Family of Noel Rodriguez-Alvarez, a missing 6-year-old from Everman TX, left the U.S. on a Turkish Airways flight 2 days before Amber Alert.",
-            "url": "https://www.star-telegram.com/news/local/crime/article273616410.html",
-            "urlToImage": "https://www.star-telegram.com/latest-news/h2x4u0/picture273616495/alternates/LANDSCAPE_1140/noe_fitted.jpeg",
-            "publishedAt": "2023-03-27T03:38:30Z",
-            "content": "The family of a 6-year-old boy missing since November left the U.S. on a Turkish Airways flight without him just two days before an Amber Alert was issued, Everman police said at a news conference Su\u2026 [+3911 chars]"
+            "author": "Zachary McAuliffe",
+            "title": "iOS 16.4 Brings These New Emoji to Your iPhone - CNET",
+            "description": "The latest iOS update, and these emoji, can be downloaded now.",
+            "url": "https://www.cnet.com/tech/services-and-software/ios-16-4-brings-these-new-emoji-to-your-iphone/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/87d41ccc7bf4adcafa4863c626e1449caf437708/hub/2023/02/16/71ccf413-3d0a-4a5e-afe2-85d0d50545b6/ios-16-4-emoji.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-03-27T20:30:10Z",
+            "content": "Your iPhone already has thousands of emoji, but Apple just added 31 more with its latest iOS update. Apple's\u00a0iOS 16.4\u00a0was released Monday, meaning you could be using the new emoji now.\r\nThe new emoji\u2026 [+1741 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a>, Adam Renton, <a href=\"/profiles/rob-picheta\">Rob Picheta</a>, Ed Upright, <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, <a href=\"/profiles/ivana-kottasova\">Ivana Kottasov\u00e1</a> and Jack Guy, CNN",
+            "title": "Israel's judicial overhaul delayed after mass protests: Live updates - CNN",
+            "description": "Israel's judicial overhaul legislation will be put on hold until the next session of the Knesset, after the Passover recess in April, Prime Minister Benjamin Netanyahu announced in a televised address following a day of protests. Follow live updates here.",
+            "url": "https://www.cnn.com/middleeast/live-news/israel-protests-netanyahu-updates-03-27-23-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230327103434-01-israel-protests-032723-super-tease.jpeg",
+            "publishedAt": "2023-03-27T20:23:00Z",
+            "content": "The White House says it welcomes a delay in advancing Israel's controversial judicial reforms, which have concerned President Joe Biden and US officials.\r\nWe welcome this announcement as an opportuni\u2026 [+752 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FiveThirtyEight"
+            },
+            "author": "Josh Planos",
+            "title": "The UConn Men Aren\u2019t Here For Your Cinderella Final Four - FiveThirtyEight",
+            "description": "The 2023 men\u2019s NCAA Tournament has transformed into a bloodletting exercise for the sport\u2019s traditional powers. Of the 15 teams that claim at least two national\u2026",
+            "url": "https://fivethirtyeight.com/features/the-uconn-men-arent-here-for-your-cinderella-final-four/",
+            "urlToImage": "https://fivethirtyeight.com/wp-content/uploads/2023/03/MM-UCONN-2023-16x9-1.png?w=712",
+            "publishedAt": "2023-03-27T20:22:55Z",
+            "content": "The 2023 mens NCAA Tournament has transformed into a bloodletting exercise for the sports traditional powers. Of the 15 teams that claim at least two national championships, only eight1 qualified for\u2026 [+4174 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kim Hjelmgaard, Maureen Groppe, Caren Bohan and Holly Rosenkrantz, USA TODAY",
+            "title": "After riots in Israel, PM Netanyahu pauses judiciary reforms - USA TODAY",
+            "description": "Israeli labor unions launched a nationwide strike and airlines were grounded as opposition to Netanyahu\u2019s plan\u00a0threatened to upend the economy.",
+            "url": "https://www.usatoday.com/story/news/world/2023/03/27/israel-netanyahu-judicial-reform-delay-halt/11548416002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/03/USAT/2e575aec-6b12-4df9-be06-b694a0e7f80c-Netanyahu.jpeg?auto=webp&crop=7354,4137,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2023-03-27T19:57:40Z",
+            "content": "Israeli\u00a0Prime Minister Benjamin Netanyahu\u00a0on Monday\u00a0temporarily suspended his\u00a0controversial judicial reform legislation that has led to mass protests and caused anger across most parts of society, in\u2026 [+6053 chars]"
         }
     ]
 }
