@@ -1,253 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ella Nilsen",
-            "title": "Biden administration moves ahead with massive Gulf of Mexico drilling auction, weeks after approving Willow Project - CNN",
-            "description": "A few weeks after allowing the controversial Willow oil drilling project in Alaska to go forward, the Biden administration is auctioning off more than 73 million acres of waters in the Gulf of Mexico to offshore oil and gas drilling.",
-            "url": "https://www.cnn.com/2023/03/29/politics/gulf-of-mexico-drilling-lease-sale-biden-climate/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230328154152-gulf-of-mexico-drilling-lease-sale-biden-climate.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-29T11:54:00Z",
-            "content": "A few weeks after allowing the controversial Willow oil drilling project in Alaska to go forward, the Biden administration is auctioning off more than 73 million acres of waters in the Gulf of Mexico\u2026 [+3992 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Daily Beast"
+                "name": "ESPN"
             },
-            "author": "Allison Quinn",
-            "title": "Kremlin Stoops to New Low in Batshit Case Against Anti-War Single Dad - Yahoo News",
-            "description": "Alexei Babushkin/Kremlin/Sputnik/ReutersThe Kremlin has broken its silence on the case of a single father sentenced to prison after his daughter\u2019s anti-war...",
-            "url": "https://www.thedailybeast.com/kremlin-stoops-to-new-low-with-attack-on-single-father-alexei-moskalev",
-            "urlToImage": "https://media.zenfs.com/en/thedailybeast.com/fa1006318d3f9c8005a1e78ecafad769",
-            "publishedAt": "2023-03-29T11:50:52Z",
-            "content": "Alexei Babushkin/Kremlin/Sputnik/Reuters\r\nThe Kremlin has broken its silence on the case of a single father sentenced to prison after his daughters anti-war drawing provoked the wrath of Vladimir Put\u2026 [+2521 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Andrea Blanco",
-            "title": "Online sleuth uncovers group chat amid hunt for GoPro video from Gwyneth Paltrow ski collision - The Independent",
-            "description": "Tech investigator Michael Fletcher says it only took two minutes to access a link attorneys on both sides thought to be faulty",
-            "url": "https://www.independent.co.uk/news/world/americas/gwyneth-paltrow-ski-crash-incident-video-b2310025.html",
-            "urlToImage": "https://static.independent.co.uk/2023/03/28/17/27-e0ad82f83345438881a00daa78a04a12.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-03-29T11:44:14Z",
-            "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nAfter much speculation surrounding a broken link, an online sleuth unco\u2026 [+4910 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Annette Choi",
-            "title": "Guns lead as most common cause of death for children and teens in the US - CNN",
-            "description": "Guns are the leading cause of death for US children and teens, since surpassing car accidents in 2020.",
-            "url": "https://www.cnn.com/2023/03/29/health/us-children-gun-deaths-dg/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230328192428-20230328-children-gun-deaths-card.png?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-29T11:42:00Z",
-            "content": "Guns are the leading cause of death for US children and teens, since surpassing car accidents in 2020. \r\nFirearms accounted for nearly 19% of childhood deaths (ages 1-18) in 2021, according to the Ce\u2026 [+1090 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "fox8.com"
-            },
-            "author": "Associated Press",
-            "title": "Police search for tiger stolen from home in northern Mexico - WJW FOX 8 News Cleveland",
-            "description": "Northern Mexico has developed such a habit of exotic animals and violence, that people not only keep tigers as pets, but they also steal them.",
-            "url": "https://fox8.com/news/police-search-for-tiger-stolen-from-home-in-northern-mexico/",
-            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2023/03/GettyImages-56692481.jpg?w=1280",
-            "publishedAt": "2023-03-29T10:34:23Z",
-            "content": "MEXICO CITY (AP) Northern Mexico has developed such a habit of exotic animals and violence, that people not only keep tigers as pets, but they also steal them.\r\nProsecutors in the violent northern st\u2026 [+629 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Eamon Javers",
-            "title": "Credit Suisse whistleblowers say Swiss bank has been helping wealthy Americans dodge U.S. taxes for years - CNBC",
-            "description": "The bank notoriously pleaded guilty in 2014 to criminal charges for \"knowingly and willfully\" helping U.S. clients hide offshore assets and income from the IRS.",
-            "url": "https://www.cnbc.com/2023/03/29/credit-suisse-whistleblowers-say-bank-has-been-helping-americans-dodge-us-taxes.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107211522-1679321808155-gettyimages-1248849528-AFP_33BN9ZJ.jpeg?v=1680085801&w=1920&h=1080",
-            "publishedAt": "2023-03-29T10:30:01Z",
-            "content": "Credit Suisse, the collapsed Swiss bank taken over by UBS Group in a hastily arranged bailout earlier this month, may bring with it a fresh set of regulatory and legal problems for its new owner.\r\nFo\u2026 [+13777 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Alexander Bolton, Emily Brooks",
-            "title": "McCarthy tries to drag Biden to negotiating table on debt limit - The Hill",
-            "description": "Speaker Kevin McCarthy (R-Calif.) is trying to ramp up pressure on President Biden to negotiate a package of fiscal reforms in exchange for raising the debt limit, but Democrats still refuse to sit down with him, setting the stage for a high-stakes standoff t\u2026",
-            "url": "https://thehill.com/homenews/house/3922774-mccarthy-tries-to-drag-biden-to-negotiating-table-on-debt-limit/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/bidenjoe_mccarthykevin_031723gn04_w.jpg?w=1280",
-            "publishedAt": "2023-03-29T10:00:00Z",
-            "content": "Skip to content\r\nSpeaker Kevin McCarthy (R-Calif.) is trying to ramp up pressure on President Biden to negotiate a package of fiscal reforms in exchange for raising the debt limit, but Democrats stil\u2026 [+7068 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FiveThirtyEight"
-            },
-            "author": "Jay Boice",
-            "title": "2023 MLB Predictions | FiveThirtyEight - FiveThirtyEight",
-            "description": "FiveThirtyEight's MLB forecast uses a pitcher-adjusted Elo model to project the winner of every game and the chances that each team will win the World Series.",
-            "url": "https://projects.fivethirtyeight.com/2023-mlb-predictions/",
-            "urlToImage": "https://fivethirtyeight.com/wp-content/uploads/2023/03/MLB-2023-promo_16x9.png",
-            "publishedAt": "2023-03-29T10:00:00Z",
-            "content": "How this works: Elo ratings are a measure of team strength based on head-to-head results, margin of victory and quality of opponent. Were using an Elo-based system that also accounts for starting pit\u2026 [+253 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Lawrence Richard",
-            "title": "Kamala Harris set to unveil $1 billion plan in Ghana to promote women\u2019s economic empowerment - Fox News",
-            "description": "In Ghana, Vice President Kamala Harris will reveal a $1 billion plan to help bolster the country's economy as Washington looks to build relationships across Africa.",
-            "url": "https://www.foxnews.com/world/kamala-harris-set-unveil-1-billion-plan-ghana-promote-womens-economic-empowerment",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/AP23087461684513.jpg",
-            "publishedAt": "2023-03-29T09:59:00Z",
-            "content": "Vice President Kamala Harris is set to unveil a $1 billion initiative to promote womens economic empowerment in the country of Ghana, where she has spent several days touring and meeting with governm\u2026 [+3167 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nouran Salahieh",
-            "title": "Heartbroken Nashville community grapples with school shooting as police uncover more details about the shooter - CNN",
-            "description": "As a heartbroken Nashville community grapples with the mass shooting that claimed the lives of three 9-year-old children and three adults at a private Christian school, police are uncovering more details about the 28-year-old shooter.",
-            "url": "https://www.cnn.com/2023/03/29/us/covenant-school-shooting-nashville-tennessee-wednesday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230328220028-20-nashville-school-shooting-0327.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-29T09:47:00Z",
-            "content": "Editors Note: This story contains graphic descriptions of violence.\r\nAs a heartbroken Nashville community grapples with the mass shooting that claimed the lives of three 9-year-old children and three\u2026 [+7991 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Dane Brugler, Nick Baumgardner, Diante Lee, Nate Tice",
-            "title": "NFL Draft 2023 Big Board: The Athletic\u2019s updated top 100 prospect rankings - The Athletic",
-            "description": "An interactive look at NFL draft expert Dane Brugler's top prospects including player profiles, combine measurements, key stats and more.",
-            "url": "https://theathletic.com/4307966/2023/03/29/nfl-draft-2023-prospect-rankings-board/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/03/27144614/0322_Top100-1-scaled.jpg",
-            "publishedAt": "2023-03-29T09:01:55Z",
-            "content": "Welcome to our 2023\u00a0NFL Draft\u00a0board, a new look at\u00a0Dane Bruglers top 100 prospects. These are the players who we predict will hear their names called the earliest during the three-day, seven-round dr\u2026 [+5284 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Tom Phillips",
-            "title": "At least 40 dead in Mexico migrant centre fire as rights groups blame overcrowding - The Guardian",
-            "description": "Mexico\u2019s president says fire was caused by migrants lighting mattresses in protest at planned deportations",
-            "url": "https://www.theguardian.com/world/2023/mar/29/mexico-migrant-facility-fire-deaths-ciudad-juarez",
-            "urlToImage": "https://i.guim.co.uk/img/media/a50b77865b1221f21c97f1e9f30192ffc1054207/0_57_5000_3001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4889c728b1398f3aa04cb81c294a4b7",
-            "publishedAt": "2023-03-29T08:18:00Z",
-            "content": "Rights groups have blamed poor conditions and overcrowding for a fire that killed at least 40 migrants from Central and South America at a migrant detention centre in Ciudad Ju\u00e1rez, a Mexican city on\u2026 [+5292 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Lawrence Richard",
-            "title": "China threatens to take 'resolute countermeasures' over meeting between Taiwan's Tsai, House Speaker McCarthy - Fox News",
-            "description": "The Chinese government has threatened to take action should the U.S. and Taiwan go through with allowing House Speaker Kevin McCarthy and Taiwanese President Tsai Ing-wen to meet.",
-            "url": "https://www.foxnews.com/world/china-threatens-take-resolute-countermeasures-meeting-between-taiwans-tsai-house-speaker-mccarthy",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/GettyImages-1249835876.jpg",
-            "publishedAt": "2023-03-29T08:13:00Z",
-            "content": "China has threatened to retaliate against the United States and Taiwan over a planned meeting between Taiwanese President Tsai Ing-wen and House Speaker Kevin McCarthy.\r\nBeijing has repeatedly allege\u2026 [+2803 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Joshua Zitser",
-            "title": "Zelenskyy says Ukraine received faulty air defense system from ally - Business Insider",
-            "description": "Ukrainian President Volodymyr Zelenskyy told the AP that a European ally provided an air defense system that had to be repeatedly changed.",
-            "url": "https://www.businessinsider.com/zelenskyy-says-ukraine-received-faulty-air-defense-system-europe-ally-2023-3",
-            "urlToImage": "https://i.insider.com/64240a45ed593e00183f06b4?width=1200&format=jpeg",
-            "publishedAt": "2023-03-29T08:05:00Z",
-            "content": "Ukrainian President Volodymyr Zelenskyy said a European ally provided Ukraine with a faulty air defense system, although he withheld which country was responsible.\r\nSince Russia's invasion in Februar\u2026 [+1933 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Carma Hassan, Helen Regan",
-            "title": "WHO experts revise Covid-19 vaccine advice, say healthy kids and teens low risk - CNN",
-            "description": "The World Health Organization's vaccine experts have revised their global Covid-19 vaccination recommendations, and healthy kids and teenagers considered low priority may not need to get a shot.",
-            "url": "https://www.cnn.com/2023/03/29/health/who-updates-covid-vaccine-recommendations-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230323050028-01-covid-shot-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-29T06:22:00Z",
-            "content": "The World Health Organizations vaccine experts have revised their global Covid-19 vaccination recommendations, and healthy kids and teenagers considered low priority may not need to get a shot. \r\nThe\u2026 [+3009 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Ted Holmlund",
-            "title": "Lamar Jackson pushes back on critics regarding his injury history - New York Post ",
-            "description": "Lamar Jackson took to Twitter on Tuesday night to push back on talk from critics questioning his toughness or saying he sat out games due to money.",
-            "url": "https://nypost.com/2023/03/29/lamar-jackson-pushes-back-on-critics-regarding-injury-history/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/Lamar-Jackson-3.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-03-29T05:46:00Z",
-            "content": "Lamar Jackson, whose future remains one of the top offseason stories in the NFL, took to Twitter on Tuesday night to push back on talk from critics questioning his toughness or saying he sat out game\u2026 [+1764 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Carol McColgin",
-            "title": "Hollywood\u2019s 25 Most Powerful Stylists: Why Sydney Sweeney, Sadie Sink, Anne Hathaway, Angela Bassett and Jodie Turner-Smith Love Their Image Makers - Hollywood Reporter",
-            "description": "Andrew Garfield and Janelle Mon\u00e1e also toast their tastemakers in THR\u2019s annual list, which celebrates megawatt glamour (J. Lo\u2019s 3 wedding gowns), sustainability (thank you, Cate Blanchett) and drama on and off the red carpet (farewell, Law Roach, for now).",
-            "url": "https://www.hollywoodreporter.com/lifestyle/style/best-celebrity-stylists-2023-1235360354/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/230219_Hollywood-Reporter_05_0578_scanFINAL-Splash-2023.jpg?w=1024",
-            "publishedAt": "2023-03-29T05:00:56Z",
-            "content": "Rewear, repeat, three-peat \u2026 The verbiage summing up what\u2019s new on the red carpet in the past year happens to center on what\u2019s old, or at least previously worn. Sustainability and vintage were at the\u2026 [+37138 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Ruxandra Iordache, Joanna Tan, Jihye Lee, Elliot Smith",
-            "title": "Sergio Ermotti returns as UBS CEO to oversee Credit Suisse takeover - CNBC",
-            "description": "Sergio Ermotti will replace current CEO Ralph Hamers, who is set to remain at UBS to advise the bank during the transition period, UBS said.",
-            "url": "https://www.cnbc.com/2023/03/29/ubs-names-sergio-ermotti-as-its-new-ceo-following-acquisition-of-credit-suisse.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107216782-1680066441144-gettyimages-138490489-68306953.jpeg?v=1680067104&w=1920&h=1080",
-            "publishedAt": "2023-03-29T04:59:14Z",
-            "content": "UBS appointed Sergio P. Ermotti as its group Chief Executive Officer following its agreement to acquire Credit Suisse.\r\nUBS\u00a0named Sergio Ermotti as its new Group CEO on Wednesday, following the recen\u2026 [+5356 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Bronny James shows shooting touch in McDonald's All-American Game, Kentucky signee DJ Wagner earns co-MVP - CBS Sports",
-            "description": "The McDonald's All-American game came down to the wire on Tuesday night as a group of future stars shined",
-            "url": "https://www.cbssports.com/college-basketball/news/bronny-james-shows-shooting-touch-in-mcdonalds-all-american-game-kentucky-signee-dj-wagner-earns-co-mvp/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/29/7fc3ba87-c022-4438-a2dd-57cad16a4128/thumbnail/1200x675/3924d8245c38a7a567ba9cdb14f06194/usatsi-20337925-1.jpg",
-            "publishedAt": "2023-03-29T04:00:00Z",
-            "content": "Bronny James put his outside shooting prowess on display in the McDonald's All-American Game on Tuesday night as his West team fell to the East 109-106 in a battle of high school basketball's top sen\u2026 [+2556 chars]"
+            "author": null,
+            "title": "Bucks vs. Pacers - NBA Game Recap - March 29, 2023 - ESPN",
+            "description": "Visit ESPN for the game recap of the Milwaukee Bucks vs. Indiana Pacers NBA basketball game on March 29, 2023",
+            "url": "https://www.espn.com/nba/recap/_/gameId/401469291",
+            "urlToImage": "http://s.espncdn.com/stitcher/sports/basketball/nba/events/401469291.png?templateId=espn.com.share.1",
+            "publishedAt": "2023-03-30T01:53:33Z",
+            "content": "INDIANAPOLIS -- Jrue Holiday scored a career-high 51 points, Giannis Antetokounmpo had 38 points in a triple-double and the NBA-leading Milwaukee Bucks beat the Indiana Pacers 149-136 on Wednesday ni\u2026 [+2453 chars]"
         },
         {
             "source": {
@@ -255,12 +21,246 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Starbucks union member: Workers remain scared but want to fight for their rights - CNBC Television",
-            "description": "Hosted by Brian Sullivan, \u201cLast Call\u201d is a fast-paced, entertaining business show that explores the intersection of money, culture and policy. Tune in Monday...",
-            "url": "https://www.youtube.com/watch?v=vUeHqHG9DrE",
-            "urlToImage": "https://i.ytimg.com/vi/vUeHqHG9DrE/maxresdefault.jpg",
-            "publishedAt": "2023-03-29T01:18:13Z",
+            "title": "TLOU Part 1 Is Getting Slammed on Steam Over PC Performance Issues - IGN Daily Fix - IGN",
+            "description": "On today's Daily Fix:The Last of Us Part 1\u00a0is finally available on PC\u2026 if you can get it to work.\u00a0Steam\u00a0have slammed the PC version of the PlayStation classi...",
+            "url": "https://www.youtube.com/watch?v=CEZOUPgc1X4",
+            "urlToImage": "https://i.ytimg.com/vi/CEZOUPgc1X4/maxresdefault.jpg",
+            "publishedAt": "2023-03-30T00:31:10Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Will Aaron Rodgers wear No. 12 or No. 8 in New York? - NBC Sports",
+            "description": "It\u2019s just a matter of time before the Jets finalize a trade for Packers quarterback Aaron Rodgers. One of the first questions will be whether Rodgers will wear the now-retired jersey number belonging to Joe Namath.Namath has offered to let Rodgers wear No. 12\u2026",
+            "url": "https://profootballtalk.nbcsports.com/2023/03/29/will-aaron-rodgers-wear-no-12-or-no-8-in-new-york/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/03/GettyImages-1321884167-e1680135073755.jpg",
+            "publishedAt": "2023-03-30T00:13:00Z",
+            "content": "Its just a matter of time before the Jets finalize a trade for Packers quarterback Aaron Rodgers. One of the first questions will be whether Rodgers will wear the now-retired jersey number belonging \u2026 [+1172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Paul Rusesabagina: Hotel Rwanda hero and government critic arrives in US - BBC",
+            "description": "The outspoken critic of Rwanda's government arrives in America days after being released from prison.",
+            "url": "https://www.bbc.com/news/world-africa-65120307",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A9C5/production/_129216434_gettyimages-1231213199.jpg",
+            "publishedAt": "2023-03-29T23:56:58Z",
+            "content": "Paul Rusesabagina, an outspoken critic of the Rwandan government, has arrived in the US after being freed from prison in Kigali, the White house says.\r\nHe rose to prominence after being portrayed as \u2026 [+1906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Russia-Ukraine war at a glance: what we know on day 400 of the invasion - The Guardian",
+            "description": "UN nuclear chief visits Zaporizhzhia; Russia and US cut nuclear contacts after Moscow quit New Start",
+            "url": "https://www.theguardian.com/world/2023/mar/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-400-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/a46187dbc561fd22cddfb6df0486f455846a0ad8/0_104_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1600030b4dda9d094cc79448af949557",
+            "publishedAt": "2023-03-29T23:48:00Z",
+            "content": "<li>The head of the UN nuclear watchdog, the International Atomic Energy Agency, has made a second visit to the Zaporizhzhia nuclear plant in Ukraine amid an escalation in the fighting around it. Raf\u2026 [+4492 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Alexander Bolton",
+            "title": "Hawley, Paul clash on floor over TikTok ban - The Hill",
+            "description": "Sens. Josh Hawley (R-Mo.) and Rand Paul (R-Ky.) clashed Wednesday afternoon over the future of TikTok in a spirited exchange on the Senate floor that shows disagreements over how to regulate the controversial app cross party lines in Congress. \u00a0 The two conse\u2026",
+            "url": "https://thehill.com/homenews/senate/3924969-hawley-paul-clash-on-floor-over-tiktok-ban/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/hawleyjosh_021423gn_w.jpg?w=1280",
+            "publishedAt": "2023-03-29T23:34:00Z",
+            "content": "Skip to content\r\nSens. Josh Hawley (R-Mo.) and Rand Paul (R-Ky.) clashed Wednesday afternoon over the future of TikTok in a spirited exchange on the Senate floor that shows disagreements over how to \u2026 [+3890 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kerry Breen",
+            "title": "Narcan approved for over-the-counter sale: FDA OK's overdose-reversing nasal spray without prescription - CBS News",
+            "description": "In the 12-month period ending in Oct. 2022, the United States recorded 101,750 overdose deaths, primarily from opioids.",
+            "url": "https://www.cbsnews.com/news/narcan-approved-over-the-counter-sale-fda/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/29/b9e374ce-3485-4677-bd4c-b5649848a1e0/thumbnail/1200x630/461983c8f238a76c276ccdec43120906/narcan.jpg",
+            "publishedAt": "2023-03-29T23:05:00Z",
+            "content": "The U.S. Food and Drug Administration has approved Narcan, an overdose-reversing nasal spray, for over-the-counter, non-prescription sale, the agency announced Wednesday. The FDA green light marks th\u2026 [+5608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WHIO"
+            },
+            "author": "KEVIN McGILL and MATTHEW BROWN",
+            "title": "$264M offered in Gulf oil sale held under climate compromise - WHIO",
+            "description": "Oil companies including Chevron and ExxonMobil offered a combined $264 million for drilling rights in the Gulf of Mexico in a sale mandated by last year\u2019s climate bill compromise",
+            "url": "https://www.whio.com/news/national/companies-bid-264m/MET4HQL7EXQYDXGC2I3M6JW3SM/",
+            "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/sGufb_TCfmGvJK-39FDYjmZcNj4=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/6HNW4B3JUEAEMIO4CX2UNVC3TQ.jpg",
+            "publishedAt": "2023-03-29T22:50:37Z",
+            "content": "NEW ORLEANS \u2014 (AP) Oil companies offered a combined $264 million for drilling rights in federal waters in the Gulf of Mexico on Wednesday in a sale mandated by last year's climate bill compromise.\r\nT\u2026 [+6563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Gasc\u00f3n files charges against 7 CHP officers, nurse in man's 2020 death - ABC7",
+            "description": "Prosecutors charged seven California Highway Patrol officers and a nurse with involuntary manslaughter in connection with the 2020 death of a man who screame...",
+            "url": "https://www.youtube.com/watch?v=uWCkfRvjnI4",
+            "urlToImage": "https://i.ytimg.com/vi/uWCkfRvjnI4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgVihlMA8=&rs=AOn4CLAnHfprivGRDDzHq7hgwIdqlYepXg",
+            "publishedAt": "2023-03-29T22:44:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Harring",
+            "title": "Stock futures are little changed as investors come off winning day: Live updates - CNBC",
+            "description": "The three major indexes finished Wednesday's session higher.",
+            "url": "https://www.cnbc.com/2023/03/29/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107200381-1677521444858-gettyimages-1470000952-dscf0523_34ab72c1-269a-41c9-9459-24ca636fdc17.jpeg?v=1680127342&w=1920&h=1080",
+            "publishedAt": "2023-03-29T22:42:00Z",
+            "content": "Stock futures were little changed Wednesday night.\r\nFutures tied to the Dow Jones Industrial Average lost 14 points, trading near flat. S&amp;P 500 futures and Nasdaq-100 futures were also near their\u2026 [+1428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Billboard"
+            },
+            "author": "Rania Aniftos",
+            "title": "Evan Winiker: 5 Facts About Lana Del Rey Fiance - Billboard",
+            "description": "From his musical history to his work at Range Media Partners, here are 5 things to know about Evan Winiker.",
+            "url": "https://www.billboard.com/lists/evan-winiker-lana-del-rey-fiance-who-is/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2023/03/Evan-Winiker-press-billboard-1548.jpg?w=1024",
+            "publishedAt": "2023-03-29T22:19:56Z",
+            "content": "Lana Del Rey found that heaven is a place on earth, as Billboard learned that she\u2019s engaged to Evan Winiker of Range Media Partners.\r\nIt\u2019s unclear how long the couple has been together, but over the \u2026 [+2914 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2023 NFL free agency: Falcons signing six-time Pro Bowl DE Calais Campbell to one-year deal, per report - CBS Sports",
+            "description": "Campbell spent the past three seasons in Baltimore",
+            "url": "https://www.cbssports.com/nfl/news/2023-nfl-free-agency-falcons-signing-six-time-pro-bowl-de-calais-campbell-to-one-year-deal-per-report/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/29/79ef6fde-6502-48b2-a13c-1fbbe5a58f34/thumbnail/1200x675/b73fed3a33d5360a4966ddbcab14565a/calais-campbell.jpg",
+            "publishedAt": "2023-03-29T21:47:00Z",
+            "content": "The Atlanta Falcons are adding a significant presence to their team for the 2023 season. Atlanta is signing six-time Pro Bowl defensive end Calais Campbell to a one-year deal, according to NFL Media.\u2026 [+1738 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Walking study reveals that walking 8000 steps a day reduces heart problems - CBS Miami",
+            "description": "Adults who walk 8,000 steps a day are more likely to live longer and reduce their chances of heart problems.",
+            "url": "https://www.youtube.com/watch?v=xrncqQ5nXGw",
+            "urlToImage": "https://i.ytimg.com/vi/xrncqQ5nXGw/hqdefault.jpg",
+            "publishedAt": "2023-03-29T21:45:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "NASA delays flight of Boeing\u2019s Starliner again, this time for parachutes - Ars Technica",
+            "description": "\"It's just a matter of going through all that data.\"",
+            "url": "https://arstechnica.com/science/2023/03/nasa-delays-flight-of-boeings-starliner-again-this-time-for-parachutes/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/49258468286_be52c160ec_k-760x380.jpg",
+            "publishedAt": "2023-03-29T21:39:46Z",
+            "content": "Enlarge/ Starliner touches down in December 2019 for the first time.\r\n35 with \r\nNASA and Boeing announced Wednesday that the first crewed flight of the Starliner spacecraft will now take place no ear\u2026 [+3194 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Tom Tapp",
+            "title": "Jennifer Aniston Says Comedy Has Changed & Some Today Find \u2018Friends\u2019 Offensive: \u201cI Don\u2019t Think There Was A Sensitivity Like There Is Now\u201d - Deadline",
+            "description": "Jennifer Aniston spoke recently about the state of comedy and what\u2019s considered funny \u2013 and what\u2019s not \u2013 on the occasion of the debut of her new Netflix comedy Murder Myster\u2026",
+            "url": "https://deadline.com/2023/03/aniston-comedy-friends-jokes-offensive-sensitivity-1235313059/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/03/GettyImages-1477726123.jpg?w=1024",
+            "publishedAt": "2023-03-29T21:35:00Z",
+            "content": "Jennifer Aniston spoke recently about the state of comedy and what\u2019s considered funny \u2013 and what\u2019s not \u2013 on the occasion of the debut of her new Netflix comedy Murder Mystery 2 with Adam Sandler. \r\n\u201c\u2026 [+2913 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Why Musk and other experts call for a pause on the development of powerful AI systems | DW News - DW News",
+            "description": "An open letter signed by Elon Musk is calling for a pause on the development of more powerful artificial intelligence systems, citing risks to society and hu...",
+            "url": "https://www.youtube.com/watch?v=iI_RNK4X2wg",
+            "urlToImage": "https://i.ytimg.com/vi/iI_RNK4X2wg/maxresdefault.jpg",
+            "publishedAt": "2023-03-29T21:15:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Jeff Benjamin",
+            "title": "Hands-on with 50+ new iOS 16.4 changes and features [Video] - 9to5Mac",
+            "description": "Hnads-on with over 50 new changes and features found in iOS 16.4. In this post, we step through a few of the standout updates.",
+            "url": "https://9to5mac.com/2023/03/29/hands-on-with-50-new-ios-16-4-changes-and-features-video/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/iOS-16.4-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-03-29T20:24:00Z",
+            "content": "On Monday Apple officially rolled out iOS 16.4 to the public, and it\u2019s not hyperbole to say that\u2019s it\u2019s a huge release with tons of new changes, features, emoji, bug fixes, and more. In this hands-on\u2026 [+3970 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Katherine Doherty, Hannah Levitt and Katanga Johnson",
+            "title": "FDIC Faces $23 Billion in Costs From Bank Failures. It Wants Big Lenders to Pay - Yahoo Finance",
+            "description": "(Bloomberg) -- The Federal Deposit Insurance Corp., facing almost $23 billion in costs from recent bank failures, is considering steering a larger-than-usual...",
+            "url": "https://finance.yahoo.com/news/fdic-faces-23-billion-costs-201214815.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/k4RZ0q3uYxK0dOxcIqwf5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/ec66fdd06638fca2486c2b71469e9095",
+            "publishedAt": "2023-03-29T20:12:14Z",
+            "content": "(Bloomberg) -- The Federal Deposit Insurance Corp., facing almost $23 billion in costs from recent bank failures, is considering steering a larger-than-usual portion of that burden to the nations big\u2026 [+5688 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Pope Francis to be hospitalized for several days with respiratory infection, Vatican says - CBS News",
+            "description": "A Vatican spokesman said the pope does not have COVID-19, but requires several days of therapy.",
+            "url": "https://www.cbsnews.com/news/pope-francis-hospitalized-vatican-infection/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/29/203c9dc7-8be0-4d8c-a462-5d8698cc43f6/thumbnail/1200x630/06a10528d65e9f9e41940346a0caf6a1/gettyimages-1249859485.jpg",
+            "publishedAt": "2023-03-29T20:03:00Z",
+            "content": "Pope Francis will be hospitalized for several days for treatment of a respiratory infection after experiencing difficulty breathing in recent days, the Vatican said Wednesday.\r\nVatican spokesman Matt\u2026 [+2339 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Fed official tells Congress many to blame for Silicon Valley Bank failure - Reuters",
+            "description": "The scope of blame for Silicon Valley Bank's failure stretches across bank executives, Federal Reserve supervisors and other regulators, the banking system's top cop on Wednesday told U.S. lawmakers demanding answers for the lender's swift collapse.",
+            "url": "https://www.reuters.com/business/finance/fed-was-discussions-with-silicon-valley-bank-use-discount-window-before-collapse-2023-03-29/",
+            "urlToImage": "https://www.reuters.com/resizer/mGvIiOq_4d2H3Nkx8df9CwuxeQQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y7VNAW7PHBIBBPUVQA6EDCBQYI.jpg",
+            "publishedAt": "2023-03-29T19:54:00Z",
+            "content": "March 29 (Reuters) - The scope of blame for Silicon Valley Bank's failure stretches across bank executives, Federal Reserve supervisors and other regulators, the banking system's top cop on Wednesday\u2026 [+4213 chars]"
         }
     ]
 }
