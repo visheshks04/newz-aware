@@ -1,58 +1,97 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 34,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures: Nasdaq Tops 12000 With Inflation Report Due; Big News For Tesla | Investor's Business Daily - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-tops-12k-ahead-of-inflation-data-hot-ev-play-earnings-tesla-ev-credits-face-irs-cuts/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-31T10:36:00Z",
+            "content": null
+        },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Alisha Ebrahimji, Tina Burnside, Chloe Liu, Haley Britzky, Dave Alsup",
-            "title": "9 soldiers killed after 2 Black Hawk helicopters crash in Kentucky during training mission, Army says - CNN",
-            "description": "Nine US service members were killed after two helicopters with the 101st Airborne Division crashed late Wednesday in southwestern Kentucky, officials said. There were no survivors.",
-            "url": "https://www.cnn.com/2023/03/30/us/kentucky-helicopter-crash/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230330091938-02-kentucky-army-helicopter-crash-230330.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-30T23:09:00Z",
-            "content": "Nine US service members were killed after two helicopters with the 101st Airborne Division crashed late Wednesday in southwestern Kentucky, officials said. There were no survivors.\r\nThe two HH-60 Bla\u2026 [+3526 chars]"
+            "author": "Elizabeth Wolfe, Paradise Afshar",
+            "title": "New details about 2017 Las Vegas mass shooter revealed in hundreds of FBI documents - CNN",
+            "description": "A cache of newly released FBI documents reveals Stephen Paddock, the gambler who carried out the deadliest mass shooting in modern US history in Las Vegas in 2017, may have harbored resentment over how he and other high rollers were treated by casinos.",
+            "url": "https://www.cnn.com/2023/03/31/us/las-vegas-2017-shooting-stephen-paddock-fbi-documents/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230330231605-01-las-vegas-shooting-memorial-100517-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-31T09:25:00Z",
+            "content": "A cache of newly released FBI documents reveals Stephen Paddock, the gambler who carried out the deadliest mass shooting in modern US history in Las Vegas in 2017, may have harbored resentment over h\u2026 [+3097 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Steve Gardner, Jesse Yomtov, Scooby Axson, Gabe Lacques",
-            "title": "MLB Opening Day 2023 live updates: Rangers win slugfest vs. Phillies after Jacob deGrom roughed up - USA TODAY",
-            "description": "Aaron Judge homers in his first at-bat of 2023 as all 30 MLB teams are in action to start the season. Follow along for the latest news, scores and more.",
-            "url": "https://www.usatoday.com/story/sports/mlb/2023/03/30/mlb-opening-day-live-updates-scores/11555279002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/31/USAT/df831da2-d953-484e-a663-191cf1e1f782-AP_White_Sox_Astros_Baseball.jpg?crop=3205,1803,x722,y639&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-03-30T23:08:06Z",
-            "content": "Major League Baseball's 2023 opening day is here.\r\nWe'll see the debut of overhauled rosters, players in new uniforms, young players trying to prove their worth and veterans wanting to show they've s\u2026 [+31774 chars]"
+            "author": "Namita Singh",
+            "title": "First funerals of Nashville shooting victims to take place - latest - The Independent",
+            "description": "Protesters flood Tennessee State Capitol on Thursday demanding lawmakers take action on guns",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/nashville-shooting-911-calls-audrey-hale-sydney-sims-b2311453.html",
+            "urlToImage": "https://static.independent.co.uk/2023/03/29/22/Nashville_School_Shooting_70543.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-03-31T09:06:01Z",
+            "content": "Sign up to our free US news bulletin sent straight to your inbox each weekday morning\r\nSign up to our free morning US email news bulletin\r\nEvelyn Dieckhaus, nine, one of the victims of Mondays horrif\u2026 [+8556 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": null,
-            "title": "Nashville school shooting 911 calls show terror at The Covenant School during attack - CBS News",
-            "description": "\"I think we have a shooter at our church,\" one caller said, later adding: \"I'm on the second floor in a room. I think the shooter is on the second floor.\"",
-            "url": "https://www.cbsnews.com/news/nashville-school-shooting-911-calls-covenant-attack/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/28/1990557d-918e-415f-b96a-e250de26366b/thumbnail/1200x630g9/a885759327ee7a0caceb89fab6a32d6d/ap23086653039062.jpg",
-            "publishedAt": "2023-03-30T23:06:00Z",
-            "content": "Callers pleaded for help and the sound of sirens, crying and gunfire could be heard in the background of 911 calls released Thursday and made during Monday's mass shooting in Nashville.\r\nPolice relea\u2026 [+6797 chars]"
+            "author": "Debora Patta",
+            "title": "Oscar Pistorius up for parole today decade after murdering girlfriend Reeva Steenkamp in South Africa - CBS News",
+            "description": "Arriving for the parole hearing, Reeva Steenkamp's mother said she was against any early release for their daughter's killer, whom she said had \"never\" shown real remorse.",
+            "url": "https://www.cbsnews.com/news/oscar-pistorius-reeva-steenkamp-blade-runner-murder-parole-today-south-africa/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2014/06/14/f7239e2b-814d-4119-aaa4-9037870e0312/thumbnail/1200x630/f47f844591cb68ba2b4557dd0813b6bd/pistorius.jpg",
+            "publishedAt": "2023-03-31T08:45:00Z",
+            "content": "Johannesburg\u00a0\u2014 Former Olympic runner and Paralympic gold medalist Oscar Pistorius is up for parole. South Africa's parole board was meeting Friday to decide if Pistorius would be released from prison\u2026 [+3365 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "Belarus detains Russian over daughter's Ukraine sketch - DW (English)",
+            "description": "Alexei Moskalyov had fled house arrest in Russia before a court sentenced him to two years in prison for \"discrediting\" the Russian army. His daughter had drawn a sketch at school against Russia's war in Ukraine.",
+            "url": "https://www.dw.com/en/belarus-detains-russian-over-daughters-ukraine-sketch/a-65188831",
+            "urlToImage": "https://static.dw.com/image/65161361_6.jpg",
+            "publishedAt": "2023-03-31T08:29:01Z",
+            "content": "Belarusian authorities said Thursday that they detained a Russian fugitive who was sentenced to prison in Russia\u00a0over his daughter's\u00a0Ukraine-themed school drawing.\u00a0\r\nAlexei Moskalyov, 54, had fled ho\u2026 [+1384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "Rockies closer Daniel Bard starting on IL due to anxiety - ESPN",
-            "description": "Rockies closer Daniel Bard will open the season on the injured list because of anxiety.",
-            "url": "https://www.espn.com/mlb/story/_/id/36008298/rockies-closer-daniel-bard-starting-il-due-anxiety",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0730%2Fr1042324_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-03-30T22:57:50Z",
-            "content": "Colorado Rockies closer Daniel Bard will open the season on the injured list because of anxiety.\r\n\"From my experience, knowing myself, I think just taking a step back, taking time to work through thi\u2026 [+1956 chars]"
+            "title": "An Aspherical \u201cCow\u201d \u2013 Weird Explosion the Size of Our Solar System Baffles Astronomers - SciTechDaily",
+            "description": "Astronomers have observed an explosion 180 million light-years away that challenges our current understanding of cosmic explosions, exhibiting a significantly flatter appearance than previously thought possible. Astronomers have observed an explosion 180 mill\u2026",
+            "url": "https://scitechdaily.com/?p=265147",
+            "urlToImage": "https://scitechdaily.com/images/Slim-Boom-Space-Explosion-scaled.jpg",
+            "publishedAt": "2023-03-31T08:25:09Z",
+            "content": "Slim Boom. Credit: Phil Drury, University of Sheffield\r\nAstronomers have observed an explosion 180 million light-years away that challenges our current understanding of cosmic explosions, exhibiting \u2026 [+4269 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Meaghan Tobin",
+            "title": "Taiwan's president says island, like Ukraine, is fighting for democracy - The Washington Post",
+            "description": "Beijing is threatening to retaliate if Taiwanese President Tsai Ing-wen goes ahead with a planned meeting in California with House Speaker Kevin McCarthy.",
+            "url": "https://www.washingtonpost.com/world/2023/03/30/taiwan-president-tsai-ukraine-russia/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7EFFABWPBII63CIHCVXQHEGQQE_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-03-31T06:24:00Z",
+            "content": "Comment on this story\r\nTaiwans core values freedom, democracy, human rights and rule of law are in peril in the face of increasing authoritarianism, the democratic islands president, Tsai Ing-wen, sa\u2026 [+7259 chars]"
         },
         {
             "source": {
@@ -60,12 +99,142 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Turkish parliament ratifies Finland's NATO accession as Sweden kept waiting - Reuters",
+            "title": "Turkish parliament ratifies Finland's NATO accession as Sweden kept waiting - Reuters.com",
             "description": "Turkey's parliament approved a bill on Thursday to allow Finland to join NATO, clearing the way for the country to become part of the Western defence alliance as war rages in Ukraine.",
             "url": "https://www.reuters.com/world/europe/turkish-parliament-approves-finlands-nato-accession-2023-03-30/",
             "urlToImage": "https://www.reuters.com/resizer/CujhFbti4qq4PKZzQRiKZiJEjq8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RJP3GFQ4LFIODJUSK5D6KPLZLU.jpg",
-            "publishedAt": "2023-03-30T22:27:00Z",
-            "content": "ANKARA, March 30 (Reuters) - Turkey's parliament approved a bill on Thursday to allow Finland to join NATO, clearing the way for the country to become part of the Western defence alliance as war rage\u2026 [+3805 chars]"
+            "publishedAt": "2023-03-31T06:05:00Z",
+            "content": "ANKARA, March 30 (Reuters) - Turkey's parliament approved a bill on Thursday to allow Finland to join NATO, clearing the way for the country to become part of the Western defence alliance as war rage\u2026 [+4025 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Andrea Blanco",
+            "title": "Gwyneth Paltrow verdict \u2013 live: Goop mogul wins $1 damages as she whispers final message to ski crash accuser - The Independent",
+            "description": "Actor and Goop founder has won a civil lawsuit regarding 2016 skiing collision involving retired optometrist Terry Sanderson at Deer Valley resort",
+            "url": "https://www.independent.co.uk/news/world/americas/gwyneth-paltrow-verdict-video-ski-trial-legal-fees-b2311480.html",
+            "urlToImage": "https://static.independent.co.uk/2023/03/31/00/f4b1a578ddd74d4fa00888bbb1670d26.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-03-31T06:00:00Z",
+            "content": "Gwyneth Paltrow has been cleared of all fault in a US lawsuit over a 2016 skiing collision, brought by retired optometrist Terry Sanderson.\r\nFollowing a high-profile two-week trial in Utah, jurors re\u2026 [+1298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Top highlights & moments from MLB Opening Day | SportsCenter - ESPN",
+            "description": "SportsCenter recaps a busy day of MLB action recapping top plays, highlights, moments from around the league to kickstart the 2023 MLB season.0:00 White Sox-...",
+            "url": "https://www.youtube.com/watch?v=UblHwyQX7qg",
+            "urlToImage": "https://i.ytimg.com/vi/UblHwyQX7qg/maxresdefault.jpg",
+            "publishedAt": "2023-03-31T04:20:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Ashok Sharma",
+            "title": "35 bodies found inside well after collapse at Indian temple - The Associated Press",
+            "description": "NEW DELHI (AP) \u2014 Thirty-six bodies have been found inside a well at a Hindu temple in central India after dozens of people attending a festival fell into the muddy water when its cover collapsed, officials said Friday.",
+            "url": "https://apnews.com/article/deadly-temple-well-collapse-india-6a39103758f2b8b9ca56ab000c8d2bfd",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/7a5a3adf604d414388085c511101aa5a/3000.webp",
+            "publishedAt": "2023-03-31T03:47:23Z",
+            "content": "NEW DELHI (AP) Thirty-six bodies have been found inside a well at a Hindu temple in central India after dozens of people attending a festival fell into the muddy water when its cover collapsed, offic\u2026 [+2668 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Adriel Bettelheim",
+            "title": "Judge strikes down Affordable Care Act preventive services requirement - Axios",
+            "description": "The Biden administration is expected to appeal the decision.",
+            "url": "https://www.axios.com/2023/03/30/affordable-care-act-preventative-service-mandate-struck-down",
+            "urlToImage": "https://images.axios.com/P4SoXkIqTWszpUm2G-CL2bT80nU=/0x89:4928x2861/1366x768/2023/03/30/1680189786728.jpg",
+            "publishedAt": "2023-03-31T03:41:09Z",
+            "content": "A federal judge in Texas ruled Thursday that employers can't be required to cover specified preventive health care services under the Affordable Care Act.\r\nWhy it matters: The ruling has major implic\u2026 [+3099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Sharpton on indictment: 'Donald Trump should not sleep comfortably tonight' - MSNBC",
+            "description": "Donald Trump's indictment is being called \u201ckarma\u201d by MSNBC\u2019s Rev. Al Sharpton, who echoes the one-word statement of Dr. Yusef Abdus Salaama, a member of the ...",
+            "url": "https://www.youtube.com/watch?v=rzjWwX2rfl8",
+            "urlToImage": "https://i.ytimg.com/vi/rzjWwX2rfl8/maxresdefault.jpg",
+            "publishedAt": "2023-03-31T02:30:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Abbey White",
+            "title": "E3 Canceled for 2023 - Hollywood Reporter",
+            "description": "The news comes after major several major game developers and companies, including Microsoft and Nintendo, had previously confirmed they would not be in attendance.",
+            "url": "https://www.hollywoodreporter.com/business/digital/e3-cancelled-2023-1235364435/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/GettyImages-972631578.jpg?w=1024",
+            "publishedAt": "2023-03-31T00:40:43Z",
+            "content": "The second effort to return the Electronic Entertainment Expo to an in-person event has come up short. \r\nReedPop\u2019s annual trade event for the video game industry has canceled its 2023 iteration, whic\u2026 [+1901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "ScienceAlert",
+            "title": "Tyrannosaurus Rex Had Lips Like a Lizard, Scientists Reveal - ScienceAlert",
+            "description": null,
+            "url": "https://www.sciencealert.com/tyrannosaurus-rex-had-lips-like-a-lizard-scientists-reveal",
+            "urlToImage": null,
+            "publishedAt": "2023-03-31T00:05:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WKMG News 6 & ClickOrlando"
+            },
+            "author": "Mike DeForest",
+            "title": "How Disney stripped power from Florida Gov. DeSantis' special district board - WKMG News 6 & ClickOrlando",
+            "description": "On Feb. 8, several dozen spectators took their seats inside the administrative offices of the Central Florida Tourism Oversight District, formerly known as Reedy Creek Improvement District, to attend a previously-scheduled public meeting of the special taxing\u2026",
+            "url": "https://www.clickorlando.com/news/local/2023/03/30/how-disney-stripped-power-from-florida-gov-desantis-special-district-board/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-31-2023/t_5adb6513ec5342b6918977d9180de11b_name_image.jpg?_a=ATCqVhC0",
+            "publishedAt": "2023-03-30T23:52:58Z",
+            "content": "LAKE BUENA VISTA, Fla. On Feb. 8, several dozen spectators took their seats inside the administrative offices of the Reedy Creek Improvement District to attend a previously-scheduled public meeting o\u2026 [+6451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Kelly Clarkson Shades Her Ex-Husband With SAVAGE Lyric Change | E! News - E! News",
+            "description": "Kelly Clarkson covers GAYLE's \"abcdefu\" and changes the lyrics to reference her divorce from ex Brandon Blackstock. Watch the epic \"Kellyoke\" performance!Ful...",
+            "url": "https://www.youtube.com/watch?v=WxGRv-DGFWo",
+            "urlToImage": "https://i.ytimg.com/vi/WxGRv-DGFWo/maxresdefault.jpg",
+            "publishedAt": "2023-03-30T23:37:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Caitlin Clark and the Hawkeyes are looking to make history at the Final Four - March Madness",
+            "description": "Naismith National Player of the Year Caitlin Clark discuss Iowa\u2019s return to the Final Four, ending a 30-year drought. She shares what the process has meant t...",
+            "url": "https://www.youtube.com/watch?v=RzZf-ePX10w",
+            "urlToImage": "https://i.ytimg.com/vi/RzZf-ePX10w/maxresdefault.jpg",
+            "publishedAt": "2023-03-30T22:48:51Z",
+            "content": null
         },
         {
             "source": {
@@ -83,184 +252,15 @@
         {
             "source": {
                 "id": null,
-                "name": "PEOPLE"
+                "name": "Tennessean"
             },
-            "author": "https://www.facebook.com/peoplemag",
-            "title": "Original LFO Member Brian 'Brizz' Gillis Dead - PEOPLE",
-            "description": "Brian Gillis, who held a spot as one-third of the boyband LFO since its start in 1995 before leaving the group in 1999, has died.",
-            "url": "https://people.com/music/original-lfo-member-brian-brizz-gillis-dead/",
-            "urlToImage": "https://people.com/thmb/-7z9Sb04IciOcszDIzafnBA5gTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Brian-Gillis-033023-1-f04d4469d0f04cb7acbf69f89b447079.jpg",
-            "publishedAt": "2023-03-30T22:15:12Z",
-            "content": "Brian 'Brizz' Gillis, an original member of LFO, is dead.\r\nGillis held a spot as one-third of the boyband since its start in 1995 before leaving the group in 1998. His death was confirmed through an \u2026 [+2568 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Protesters demand action on guns at Tennessee statehouse - Reuters",
-            "description": "Protesters flooded Tennessee's statehouse on Thursday to demand lawmakers stiffen gun laws following a school shooting in Nashville that left six people dead, three of them 9-year-old children.",
-            "url": "https://www.reuters.com/world/us/protesters-demand-action-guns-tennessee-statehouse-2023-03-30/",
-            "urlToImage": "https://www.reuters.com/resizer/2hpqvehU6-FXsOwP237QaVxYvkU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7YHJWBWCQJL27EQ7FYSQ4477TU.jpg",
-            "publishedAt": "2023-03-30T22:06:00Z",
-            "content": "NASHVILLE, Tennessee, March 30 (Reuters) - Protesters flooded Tennessee's statehouse on Thursday to demand lawmakers stiffen gun laws following a school shooting in Nashville that left six people dea\u2026 [+3990 chars]"
-        },
-        {
-            "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "Chelsea Stewart",
-            "title": "Tom Cruise And Nicole Kidman's Daughter Bella's New Hair - BuzzFeed",
-            "description": "It's a rare look at Bella, who rarely appears in public or shares photos of herself online.",
-            "url": "https://www.buzzfeed.com/chelseastewart/tom-cruise-nicole-kidmans-daughter-bella-hair-instagram",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-03/30/19/asset/ee28e65ae257/sub-buzz-441-1680205799-8.jpg?crop=2667:1396;0,467%26downsize=1250:*",
-            "publishedAt": "2023-03-30T21:08:27Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Michael Sheetz",
-            "title": "Virgin Orbit fails to secure funding, will cease operations and lay off nearly entire workforce - CNBC",
-            "description": "Virgin Orbit CEO Dan Hart gave employees an update in an all-hands meeting on Thursday, according to audio obtained by CNBC.",
-            "url": "https://www.cnbc.com/2023/03/30/virgin-orbit-funding-ceasing-operations-layoffs.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107218033-1680204235893-Virgin-Orbit-88.jpg?v=1680210482&w=1920&h=1080",
-            "publishedAt": "2023-03-30T21:08:02Z",
-            "content": "Virgin Orbit is ceasing operations \"for the foreseeable future\" after failing to secure a funding lifeline, CEO Dan Hart told employees during an all-hands meeting Thursday afternoon. The company wil\u2026 [+3969 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kstp.com"
-            },
-            "author": "Kilat Fitzgerald",
-            "title": "Evacuation order lifted, residents allowed to return home after train derailment in Raymond - KSTP",
-            "description": "The evacuation order for Raymond has been lifted and residents are being allowed to return to their homes after the overnight train derailment.A statement from the BNSF Railway company states about 22 cars hauling ethanol and corn syrup derailed at about 1 a.\u2026",
-            "url": "https://kstp.com/kstp-news/top-news/residents-urged-to-evacuate-after-train-derailment-and-fire-in-raymond/",
-            "urlToImage": "https://kstp.com/wp-content/uploads/2023/03/033023-CHOPPER-TRAIN-DERAILMENT-KSTP_BCMP01_10_mxf_00.00.34.54.jpg",
-            "publishedAt": "2023-03-30T20:55:44Z",
-            "content": "Residents of Raymond have been allowed to return to their homes after a train carrying ethanol and corn syrup derailed early Thursday morning and caught fire, leading to hundreds of evacuations.\r\nIt \u2026 [+6384 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Biden Administration Proposes Tougher Bank Rules - Bloomberg Television",
-            "description": "President Joe Biden's administration is pressing regulators to tighten the rules for mid-sized banks. The White House called for federal banking agencies, in...",
-            "url": "https://www.youtube.com/watch?v=ZgyfVrrufEg",
-            "urlToImage": "https://i.ytimg.com/vi/ZgyfVrrufEg/maxresdefault.jpg",
-            "publishedAt": "2023-03-30T20:13:47Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Health.com"
-            },
-            "author": "https://www.facebook.com/Health/",
-            "title": "What Happens to Your Body on Ozempic? - Health.com",
-            "description": "Semaglutide is an injectable drug sold under the brand names Ozempic and Wegovy. Doctors describe it as a game-changing drug for people looking to manage diabetes and obesity, but it comes with some risks.",
-            "url": "https://www.health.com/side-effects-ozempic-7372444",
-            "urlToImage": "https://www.health.com/thmb/RXd1PFErept1JvNPkY32Zr1Ywec=/7952x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1199692981-7fef3188e9c1447e87a3d7d2609cccb3.jpg",
-            "publishedAt": "2023-03-30T20:11:51Z",
-            "content": "The medication semaglutide, sold under the brand names Ozempic and Wegovy, has become a national talking point.\r\nCurrent buzz around semaglutide namely stems from its off-label use, primarily for wei\u2026 [+7998 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Explainer: How a massive options trade by a JP Morgan fund can move markets - Reuters",
-            "description": "A nearly $16 billion JP Morgan fund is expected to reset its options positions on Friday, potentially adding to equity volatility at the end of a gloomy quarter for stocks.",
-            "url": "https://www.reuters.com/markets/us/how-massive-options-trade-by-jp-morgan-fund-can-move-markets-2023-03-30/",
-            "urlToImage": "https://www.reuters.com/resizer/vdp02ZiQIU8jxbFsyLyrPKWRIuw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S3JJ5MIUQNJKNORDJELA3RAISU.jpg",
-            "publishedAt": "2023-03-30T20:11:00Z",
-            "content": "NEW YORK, Sept 29 (Reuters) - A nearly $16 billion JP Morgan fund is expected to reset its options positions on Friday, potentially adding to equity volatility at the end of a gloomy quarter for stoc\u2026 [+3065 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Alli Rosenbloom",
-            "title": "Gwyneth Paltrow ski collision case goes to jury - CNN",
-            "description": "Jurors in the civil trial stemming from a ski collision involving Gwyneth Paltrow are now deliberating.",
-            "url": "https://www.cnn.com/2023/03/30/entertainment/gwyneth-paltrow-ski-collision/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230330144539-01-gwyneth-paltrow-trial-0330.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-30T20:07:00Z",
-            "content": "Jurors in the civil trial stemming from a ski collision involving Gwyneth Paltrow are now deliberating. \r\nThe jury received the case on Thursday. The trial began on March 21. \r\nTerry Sanderson, a ret\u2026 [+2786 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Anthony Wood",
-            "title": "Scientists May Have Found an \u2018Ultramassive Black Hole\u2019 With a Mass of 30 Billion Suns - IGN",
-            "description": "Scientists have found evidence of an \"ultramassive black hole\" with a mass the equivilent of 30 billion Suns hidden in the heart of a distant galaxy.",
-            "url": "https://www.ign.com/articles/scientists-may-have-found-an-ultramassive-black-hole-with-a-mass-of-30-billion-suns",
-            "urlToImage": "https://assets-prd.ignimgs.com/2023/03/30/behemoth-blackhole-1680197096279.jpg?width=1280",
-            "publishedAt": "2023-03-30T19:48:54Z",
-            "content": "Scientists may have identified an ultramassive black hole 30 billion times the mass of our sun hiding in an image captured by the Hubble Space Telescope.\r\nBlack holes are born when colossal stars man\u2026 [+3368 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Holly Ellyatt",
-            "title": "Ukraine war live updates: Kyiv says nearly 500 children have died in the conflict; Russia detains WSJ reporter - CNBC",
-            "description": "The battle for Bakhmut in eastern Ukraine continues to astound onlookers, both for the destructiveness of the fighting there and high losses on both sides.",
-            "url": "https://www.cnbc.com/2023/03/30/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107217925-1680197108174-gettyimages-1246329141-9J2A3933JPG.jpeg?v=1680197468&w=1920&h=1080",
-            "publishedAt": "2023-03-30T19:40:00Z",
-            "content": "Russian media reporting suggests that the authorities are preparing to start a major military recruitment campaign with the aim of signing up an additional 400,000 troops, Britain's Defense Ministry \u2026 [+1312 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "EarthSky"
-            },
-            "author": null,
-            "title": "See 5 planets after sunset, in the sky or via video - EarthSky",
-            "description": null,
-            "url": "https://earthsky.org/tonight/see-5-planets-at-once-tonight-march-28-2023-watch-it-live-here/",
-            "urlToImage": "https://earthsky.org/upl/2023/03/Planets-March-30-2023-Stellarium.jpg",
-            "publishedAt": "2023-03-30T19:26:55Z",
-            "content": "This chart shows the view on March 30, 2023, looking west after sunset. Jupiter is getting harder to see, dropping into the sunset glare. But Mercury will be ascending in the west \u2013 getting higher ea\u2026 [+4463 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Manu Raju",
-            "title": "House GOP prepared to move a fallback debt limit plan if White House refuses to negotiate - CNN",
-            "description": "Speaker Kevin McCarthy and his top lieutenants say they are actively preparing to move a party-line bill to raise the national debt limit if President Joe Biden continues to draw a firm line against talks with House Republicans to avoid the nation's first-eve\u2026",
-            "url": "https://www.cnn.com/2023/03/30/politics/house-republicans-debt-limit-plan/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230329122955-kevin-mccarthy-230310-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-30T19:19:00Z",
-            "content": "Speaker Kevin McCarthy and his top lieutenants say they are actively preparing to move a party-line bill to raise the national debt limit if President Joe Biden continues to draw a firm line against \u2026 [+3783 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Snejana Farberov",
-            "title": "Russian dad who fled after being sentenced over daughter's anti-war drawing is arrested in Belarus - New York Post ",
-            "description": "Alexei Moskalev, 54, was detained in Minsk, Belarus, after being sentenced to two years in prison for discrediting Russia\u2019s military.",
-            "url": "https://nypost.com/2023/03/30/russian-dad-in-anti-war-drawing-case-arrested-in-belarus/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008982848.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-03-30T19:11:00Z",
-            "content": "A Russian single dad who fled the country after being sentenced to prison in a case involving his 13-year-old daughter\u2019s anti-war drawing has been detained in Belarus, according to officials.\r\nAlexei\u2026 [+5059 chars]"
+            "author": ", The Tennessean",
+            "title": "After Nashville school shooting, hundreds demand gun reform in Nashville - Tennessean",
+            "description": "People clogged Capitol hallways and filled chamber galleries as they called for \"common sense\" gun reform in the wake of the Covenant shooting.",
+            "url": "https://www.tennessean.com/story/news/politics/2023/03/30/after-nashville-school-shooting-hundreds-demand-gun-reform-in-nashville/70063649007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/30/PNAS/e395a063-5997-4c4c-8c76-110487e60da0-Capitol_Protest001.JPG?auto=webp&crop=4927,2772,x0,y247&format=pjpg&width=1200",
+            "publishedAt": "2023-03-30T21:22:30Z",
+            "content": "Tennessee state Rep. Bob Freeman, D-Nashville, has struggled to find the words this week as his district, and the city at large, reels from the deadliest school shooting in state history that left th\u2026 [+6788 chars]"
         }
     ]
 }
