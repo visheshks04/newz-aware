@@ -1,19 +1,123 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "BBC News"
             },
-            "author": "Yahoo Sports Staff",
-            "title": "Final Four: Virginia Tech vs. LSU live updates from Dallas, how to watch, TV channel, key matchups - Yahoo Sports",
-            "description": "The first Final Four game is No. 1 seed Virginia Tech (31-4) vs. No. 3 LSU (32-2) at 7 p.m. ET Friday on ESPN.",
-            "url": "https://sports.yahoo.com/final-four-virginia-tech-vs-lsu-in-tight-4th-quarter-battle-follow-live-updates-from-dallas-004126507.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6McL_xmH30_AAueM52c8Uw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/52ba4270-d021-11ed-bae3-0e7a47286a3e",
-            "publishedAt": "2023-04-01T00:30:00Z",
-            "content": "Virginia Tech Hokies head coach Kenny Brooks talks to his players during the Elite Eight round of the NCAA women's tournament. The Hokies face LSU in the Final Four on Friday in Dallas. (Kirby Lee/US\u2026 [+943 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "ChatGPT banned in Italy over privacy concerns - BBC",
+            "description": "The country's data-protection regulator has serious privacy concerns over the technology.",
+            "url": "https://www.bbc.com/news/technology-65139406",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7402/production/_129089692_0e6750b2-5da6-4922-89f4-b31e2fb74859.jpg",
+            "publishedAt": "2023-04-01T10:03:39Z",
+            "content": "Italy has become the first Western country to block advanced chatbot ChatGPT.\r\nThe Italian data-protection authority said there were privacy concerns relating to the model, which was created by US st\u2026 [+4463 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Richard Roth",
+            "title": "Russia runs the UN Security Council this month. Ukraine says it's the worst April Fools' joke - CNN",
+            "description": "A country led by an accused war criminal is now in charge of the United Nations Security Council this month. Hard as it is to believe, it's Russia's turn to assume presidency of the powerful council -- which is charged with maintaining global peace and securi\u2026",
+            "url": "https://www.cnn.com/2023/04/01/world/russia-un-security-council-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230326001538-putin-032623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-01T09:53:00Z",
+            "content": "A country led by an accused war criminal is now in charge of the United Nations Security Council this month. Hard as it is to believe, its Russias turn to assume presidency of the powerful council wh\u2026 [+3322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Christine Romero-Chan",
+            "title": "I\u2019m excited (and nervous) about this iPhone 15 Pro rumor - Digital Trends",
+            "description": "Rumor has it that the iPhone 15 Pro is going to get a multi-use Action Button instead of a mute switch. Here's why that would be a good (and bad) thing.",
+            "url": "https://www.digitaltrends.com/mobile/apple-iphone-15-pro-getting-action-button-good-bad-why/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/10/iphone-14-Plus-Side-Volume.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2023-04-01T09:30:25Z",
+            "content": "The rumor mill for the Apple iPhone 15 has been ramping up lately, and if the whispers are true, this would be the biggest overhaul for the iPhone yet. Many of the reports have been circulating aroun\u2026 [+4641 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Homero De la Fuente, Issy Ronald",
+            "title": "Record-breaking Caitlin Clark leads No.2 Iowa to stunning victory over defending champion South Carolina in Final Four - CNN",
+            "description": "South Carolina's march to the national championship title seemed all but assured -- the defending champion and No.1 seed was on a 42-straight game win streak, spanning 389 days and dating back to last season's national title run.",
+            "url": "https://www.cnn.com/2023/04/01/sport/iowa-south-carolina-caitlin-clark-march-madness-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230401035045-01-caitlin-clark-iowa-ncaa-033123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-01T09:11:00Z",
+            "content": "South Carolinas march to the national championship title seemed all but assured the defending champion and No.1 seed was on a 42-straight game win streak, spanning 389 days and dating back to last se\u2026 [+3030 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Phoebe Natanson, Mary Kekatos, Kevin Shalvey, Jon Haworth",
+            "title": "Pope Francis leaves hospital after recovering from bronchitis - ABC News",
+            "description": "The pope is scheduled to be in St. Peter's Square for Palm Sunday.",
+            "url": "https://abcnews.go.com/International/pope-francis-leave-hospital-saturday-after-recovering-bronchitis/story?id=98264492",
+            "urlToImage": "https://s.abcnews.com/images/Health/pope-francis-rt-ps-2303331_1680267506671_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-04-01T09:00:00Z",
+            "content": "Pope Francis left hospital on Saturday morning after spending three days recovering from bronchitis, according to the Vatican press office.\r\nThe pope, standing on his feet, answered reporters' questi\u2026 [+3470 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Peter Kasperowicz",
+            "title": "Elon Musk\u2019s warnings about AI research followed months-long battle against \u2018woke\u2019 AI - Fox News",
+            "description": "Elon Musk's call for a pause in AI development followed a months-long public battle over what he called 'woke' AI, which may have influenced his push for a pause.",
+            "url": "https://www.foxnews.com/politics/elon-musks-warnings-ai-research-followed-months-long-battle-against-woke-ai",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/Elon-Musk-government.png",
+            "publishedAt": "2023-04-01T09:00:00Z",
+            "content": "Tesla and SpaceX CEO Elon Musk has been waging a battle for the last several months over what he called \"woke\" artificial intelligence, a fight that appears to have factored into his call for a six-m\u2026 [+5167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Nika Shakhnazarova",
+            "title": "Man who sued Gwyneth Paltrow says ski crash case was not worth it - New York Post ",
+            "description": "Terry Sanderson now thinks the lawsuit was not worth the trouble.",
+            "url": "https://nypost.com/2023/04/01/man-who-sued-gwyneth-paltrow-says-ski-crash-case-was-not-worth-it/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26399151-1680337015334.jpg?quality=75&strip=all&1680322990&w=1024",
+            "publishedAt": "2023-04-01T08:33:00Z",
+            "content": "The retired optometrist,\u00a0who unsuccessfully sued Gwyneth Paltrow over a 2016 Utah ski crash, said filing the lawsuit was simply not worth it.\r\nTerry Sanderson, 76, said he shouldn\u2019t have bothered pur\u2026 [+2542 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Andrew Demillo",
+            "title": "Tornadoes strike Arkansas, Illinois; 4 dead, dozens injured - The Associated Press",
+            "description": "LITTLE ROCK, Ark. (AP) \u2014 A monster storm system tore through the South and Midwest on Friday, spawning deadly weather including tornadoes that shredded homes and shopping centers in Arkansas, collapsed a theater roof during a heavy metal concert in Illinois a\u2026",
+            "url": "https://apnews.com/article/us-storms-tornadoes-midwest-south-4d35ce15af18e6cd50fda3aeb7a57176",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/067be3c6cbe74b4fb317609d5a5e10a4/3000.webp",
+            "publishedAt": "2023-04-01T07:39:13Z",
+            "content": "LITTLE ROCK, Ark. (AP) A monster storm system tore through the South and Midwest on Friday, spawning deadly weather including tornadoes that shredded homes and shopping centers in Arkansas, collapsed\u2026 [+7624 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi",
+            "title": "At least 5 killed and dozens others are hospitalized as tornadoes tear through the South and Midwest - CNN",
+            "description": "Devastating storms and tornadoes scraped the South and Midwest Friday into early Saturday, killing at least five people, injuring dozens more, trapping others in their homes, and damaging businesses and critical infrastructure -- with the threat of more sever\u2026",
+            "url": "https://www.cnn.com/2023/04/01/us/us-severe-storm-south-midwest-saturday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230331224421-10-storm-arkansas-033123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-01T06:58:00Z",
+            "content": "Devastating storms and tornadoes scraped the South and Midwest Friday into early Saturday, killing at least five people, injuring dozens more, trapping others in their homes, and damaging businesses \u2026 [+6536 chars]"
         },
         {
             "source": {
@@ -21,129 +125,129 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "The Murder of Sonic the Hedgehog: First 17 Minutes - IGN",
-            "description": "Sega loves to surprise Sonic fans, so they surprised everyone by releasing The Murder of Sonic the Hedgehog, a new murder mystery title featuring the Blue Bl...",
-            "url": "https://www.youtube.com/watch?v=_9XvjuF2OnU",
-            "urlToImage": "https://i.ytimg.com/vi/_9XvjuF2OnU/maxresdefault.jpg",
-            "publishedAt": "2023-04-01T00:00:23Z",
+            "title": "Internet personality Andrew Tate moved to house arrest | Latest World News | English News | WION - WION",
+            "description": "Controversial social media personality Andrew Tate and his brother Tristan Tate, have been released from jail and been placed under house arrest for 30 days....",
+            "url": "https://www.youtube.com/watch?v=KltuIyxtZlM",
+            "urlToImage": "https://i.ytimg.com/vi/KltuIyxtZlM/maxresdefault.jpg",
+            "publishedAt": "2023-04-01T05:42:16Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "New York Post"
             },
-            "author": "Matthew Carey",
-            "title": "Lisa Nishimura\u2019s Netflix Exit Shocks Documentary World: \u201cShe Has Massively Helped Grow This Industry\u201d - Deadline",
-            "description": "Netflix executive Lisa Nishimura backed some of the streamer\u2019s biggest successes \u2013 Tiger King, The Tinder Swindler, The Power of the Dog, Making a Murderer, and American Factory \u2013 but in an era of \u2026",
-            "url": "https://deadline.com/2023/03/lisa-nishimura-netflix-exit-shocks-documentary-world-news-1235315200/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/03/Lisa-Nishimura.jpg?w=1024",
-            "publishedAt": "2023-03-31T23:23:00Z",
-            "content": "Netflix executive Lisa Nishimura backed some of the streamer\u2019s biggest successes \u2013 Tiger King, The Tinder Swindler, The Power of the Dog, Making a Murderer, and American Factory \u2013 but in an era of co\u2026 [+9326 chars]"
+            "author": "Katherine Donlevy",
+            "title": "Missing Florida toddler found inside alligator's mouth day after mother's murder - New York Post ",
+            "description": "The father of Taylen Mosley, 2, was charged with two counts of first-degree murder: for the child and for the stabbing death of the boy\u2019s mother Pashun Jeffery.",
+            "url": "https://nypost.com/2023/04/01/missing-florida-toddler-taylen-mosley-found-inside-alligators-mouth-after-mothers-murder/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26398115-1680322208698.jpg?quality=75&strip=all&1680307924&w=1024",
+            "publishedAt": "2023-04-01T04:33:00Z",
+            "content": "The hunt for a missing toddler came to a tragic end Friday evening when the child\u2019s body was found inside an alligator\u2019s mouth in Florida. \r\nThe father of Taylen Mosley, 2, was charged with two count\u2026 [+2024 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Athletic"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Andy Staples",
-            "title": "Staples: Anthony Richardson betting on his ceiling is about to pay off in NFL Draft - The Athletic",
-            "description": "Richardson couldn\u2019t have served up a more perfect metaphor at his Florida pro day on Thursday with a throw that bounced off the ceiling.",
-            "url": "https://theathletic.com/4366683/2023/03/30/anthony-richardson-pro-day-nfl-draft/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/03/30195327/GettyImages-1471277875-1024x683.jpg",
-            "publishedAt": "2023-03-31T23:20:12Z",
-            "content": "GAINESVILLE, Fla. Former Florida receiver Justin Shorter roared down the right sideline on a go route that would require him to go almost to the end zone. Anthony Richardson measured Shorters pace an\u2026 [+7690 chars]"
+            "author": "Nolan King",
+            "title": "Bellator 293 salaries: Cat Zingano, Daniel James lead the paydays pack - MMA Junkie",
+            "description": "Check out the disclosed pay for all 30 fighters on Bellator 293, according to the California State Athletic Commission.",
+            "url": "https://mmajunkie.usatoday.com/lists/bellator-293-salaries-marcelo-golm-vs-daniel-james-cat-zingano-leah-mccourt",
+            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2023/04/cat-zingano-leah-mccourt-bellator-293-20.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2023-04-01T04:15:00Z",
+            "content": "Thirty fighters competed Friday at Bellator 293 with Cat Zingano and Daniel James leading all disclosed payouts.\r\nCalifornia State Athletic Commission (CSAC) executive director Andy Foster released a\u2026 [+836 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
             "author": null,
-            "title": "Ukraine vows never to forget or forgive on Bucha anniversary - Reuters.com",
-            "description": "President Volodymyr Zelenskiy said on Friday Ukraine would never forgive Russian troops responsible for atrocities in Bucha, as the town near Kyiv marked the anniversary of its recapture after 33 days of occupation.",
-            "url": "https://www.reuters.com/world/europe/ukraine-marks-anniversary-liberation-bucha-symbol-atrocities-2023-03-31/",
-            "urlToImage": "https://www.reuters.com/resizer/Dwe-da68VtCAjJ2bMfTvKCD2WKs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5WZAY7TOVVKWTJ5D3PBA3V45Y4.jpg",
-            "publishedAt": "2023-03-31T23:06:00Z",
-            "content": "BUCHA, Ukraine, March 31 (Reuters) - President Volodymyr Zelenskiy said on Friday Ukraine would never forgive Russian troops responsible for atrocities in Bucha, as the town near Kyiv marked the anni\u2026 [+4713 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Devan Cole",
-            "title": "Donald Trump has been indicted following an investigation into a hush money payment scheme. Here's what we know - CNN",
-            "description": "Former President Donald Trump's indictment by a New York grand jury has thrust the nation into uncharted political, legal and historical waters, and raised a slew of questions about how the criminal case will unfold.",
-            "url": "https://www.cnn.com/2023/03/31/politics/trump-indictment-what-to-know/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230330164942-20220330-trump-indictment-illustration-generic.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-31T22:50:00Z",
-            "content": "Former President Donald Trumps indictment by a New York grand jury has thrust the nation into uncharted political, legal and historical waters, and raised a slew of questions about how the criminal c\u2026 [+6232 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Annie Grayer, Sara Murray",
-            "title": "Manhattan DA's office again slams House GOP's efforts to investigate Trump probe, says approx. $5k federal funds used - CNN",
-            "description": "The Manhattan district attorney's office is again slamming House Republicans for their efforts to intervene in its investigation into former President Donald Trump, accusing them of collaborating with Trump to \"vilify and denigrate the integrity of elected st\u2026",
-            "url": "https://www.cnn.com/2023/03/31/politics/congress-trump-letter-latest/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230331100243-manhattan-district-attorney-alvin-bragg-office-230318.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-31T22:41:00Z",
-            "content": "The Manhattan district attorneys office is again slamming House Republicans for their efforts to intervene in its investigation into former President Donald Trump, accusing them of collaborating with\u2026 [+3093 chars]"
+            "title": "One killed, dozens hurt when theatre roof collapses in Illinois - CBS News",
+            "description": "Belvidere Police Chief Shane Woody described the scene after the collapse as \"chaos, absolute chaos.\"",
+            "url": "https://www.cbsnews.com/news/theatre-roof-collapse-illinois-fatality-injuries-apollo-theatre-belvidere/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/01/4e8e5288-69a2-49e5-9d2f-a6e2c50b2e07/thumbnail/1200x630/3ab4b3f889b4fa97979145e528dfaf8f/belviedere-theatre-collapse.png",
+            "publishedAt": "2023-04-01T03:58:41Z",
+            "content": "At least one person was killed and several dozen people hurt when the roof of a theater in Belvidere, Illinois, collapsed Friday night amid powerful winds, part of a massive storm system that hit mul\u2026 [+2377 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "Steve Karnowski",
-            "title": "Minneapolis and state agree to revamp policing post-Floyd - The Associated Press",
-            "description": "MINNEAPOLIS (AP) \u2014 The city of Minneapolis and the Minnesota Department of Human Rights signed a \u201ccourt-enforceable settlement agreement\u201d Friday to revamp policing in the city where George Floyd  was murdered by an officer nearly three years ago.",
-            "url": "https://apnews.com/article/george-floyd-minneapolis-police-discrimination-40342c35c09a300186e31c6b599f9d7c",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d97bd85051d1407c9ab3440394ae2c58/3000.webp",
-            "publishedAt": "2023-03-31T22:33:55Z",
-            "content": "MINNEAPOLIS (AP) The city of Minneapolis and the Minnesota Department of Human Rights signed a court-enforceable settlement agreement Friday to revamp policing in the city where George Floyd was murd\u2026 [+4994 chars]"
+            "author": "Stephen Hawkins",
+            "title": "Mulkey, LSU women rally in Final Four, reach 1st title game - The Associated Press",
+            "description": "DALLAS (AP) \u2014 Kim Mulkey is back in another national championship game, this time taking the flagship university from her home state there for the first time.  It took LSU only two seasons to get there with the feisty and flamboyantly dressed coach, and a big\u2026",
+            "url": "https://apnews.com/article/womens-final-four-lsu-virginia-tech-march-madness-292680727b52d2e99d887b40667dbc59",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/24aefdd7e50b4a37b964c343b3b2e28d/3000.webp",
+            "publishedAt": "2023-04-01T03:10:59Z",
+            "content": "DALLAS (AP) Kim Mulkey is back in another national championship game, this time taking the flagship university from her home state there for the first time. \r\nIt took LSU only two seasons to get ther\u2026 [+4593 chars]"
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "STEPHEN McGRATH AND VADIM GHIRDA Associated Press",
-            "title": "Romania: Andrew Tate's detention replaced with house arrest - ABC News",
-            "description": "A Romanian official says the divisive internet personality Andrew Tate has won an appeal to replace his months of detention in jail with house arrest while under investigation for possible organized crime and human trafficking",
-            "url": "https://abcnews.go.com/International/wireStory/romania-andrew-tate-leave-jail-put-house-arrest-98274901",
-            "urlToImage": "https://s.abcnews.com/images/International/wirestory_21d9c3f050b76f28615b541217ea83be_16x9_992.jpg",
-            "publishedAt": "2023-03-31T21:47:45Z",
-            "content": "BUCHAREST, Romania -- Andrew Tate, the divisive internet personality who has spent months in a Romanian jail on suspicion of organized crime and human trafficking, has won an appeal to replace his de\u2026 [+3110 chars]"
+            "author": null,
+            "title": "What's up with Charles Schwab? Stock record worst month since 1987 - CNBC Television",
+            "description": "Hosted by Brian Sullivan, \u201cLast Call\u201d is a fast-paced, entertaining business show that explores the intersection of money, culture and policy. Tune in Monday...",
+            "url": "https://www.youtube.com/watch?v=4s1bOATXDJA",
+            "urlToImage": "https://i.ytimg.com/vi/4s1bOATXDJA/maxresdefault.jpg",
+            "publishedAt": "2023-04-01T02:37:05Z",
+            "content": null
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Jay Peters",
-            "title": "This hoverboard is being recalled after a fire that killed two children - The Verge",
-            "description": "According to a notice on the US Consumer Product Safety Commission\u2019s (CPSC) website, the 42-volt Jetson Rogue is being recalled because the lithium-ion battery packs in the hoverboards can overheat.",
-            "url": "https://www.theverge.com/2023/3/31/23665249/hoverboard-recall-jetson-rogue-cspc-recall-fire-risk",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/74inHCMLn0g_MbQgJxcI1mv_EMI=/0x0:720x720/1200x628/filters:focal(360x360:361x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/24551795/JROGU_BLK_01_420172f3_f50b_449b.jpg",
-            "publishedAt": "2023-03-31T21:43:35Z",
-            "content": "This hoverboard is being recalled after a fire that killed two children\r\nThis hoverboard is being recalled after a fire that killed two children\r\n / The 42-volt Jetson Rogue is being recalled because\u2026 [+1971 chars]"
+            "author": "Frederik Kelter",
+            "title": "China\u2019s media realities clash over truth about war in Ukraine - Al Jazeera English",
+            "description": "Pro-Russia and anti-Western media coverage hampers Chinese public\u2019s understanding of the reality of war in Ukraine.",
+            "url": "https://www.aljazeera.com/news/2023/4/1/chinas-media-realities-clash-over-truth-about-war-in-ukraine",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/2022-08-04T000000Z_499520402_RC2HPV92V81F_RTRMADP_3_ASIA-PELOSI-1.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-04-01T01:05:02Z",
+            "content": "More than 10,000 Chinese people were in Ukraine when Russia invaded on February 24, 2022.\r\nThe no-limits friendship Russian President Vladimir Putin and his Chinese counterpart Xi Jinping announced b\u2026 [+5521 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Haley Britzky",
-            "title": "US Army identifies nine soldiers killed in Black Hawk training accident - CNN",
-            "description": "The US Army has identified the nine soldiers who were killed in a nighttime training accident on Wednesday evening, when two HH-60 Black Hawk helicopters crashed in a field near Fort Campbell, Kentucky.",
-            "url": "https://www.cnn.com/2023/03/31/politics/army-identifies-soldiers-killed-black-hawk-accident/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230331155650-soldiers-killed-helicopter-crash-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-31T21:31:00Z",
-            "content": "The US Army has identified the nine soldiers who were killed in a nighttime training accident on Wednesday evening, when two HH-60 Black Hawk helicopters crashed in a field near Fort Campbell, Kentuc\u2026 [+2993 chars]"
+            "author": null,
+            "title": "Scheana Says Ariana 'Assassinated' Raquel During PUMP RULES Reunion - Entertainment Tonight",
+            "description": "Scheana Shay and Lala Kent praised their co-star, Ariana Madix, for the way she handled herself during the \u2018Vanderpump Rules\u2019 reunion. The reality stars open...",
+            "url": "https://www.youtube.com/watch?v=3SRWh4lXFl0",
+            "urlToImage": "https://i.ytimg.com/vi/3SRWh4lXFl0/maxresdefault.jpg",
+            "publishedAt": "2023-04-01T00:00:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Prince Harry privacy case: battle with Mail owner begins - BBC",
+            "description": "The Duke listened and took written notes as his court fight with Associated Newspapers began.",
+            "url": "https://www.bbc.com/news/uk-65139280",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10F57/production/_129236496_f0fae17e76dfe815bc7e622f46091c18a9b112880_73_3333_18751000x563.jpg",
+            "publishedAt": "2023-03-31T23:57:09Z",
+            "content": "It is not often that hardened news photographers and camera crews are surprised, but when the Duke of Sussex emerged from a black cab at the Royal Courts of Justice on Monday morning, their muttered \u2026 [+5569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Palm Beach Post"
+            },
+            "author": "Hannah Leyva",
+            "title": "Final Four: How to watch Florida Atlantic basketball vs. San Diego State on TV, streaming - Palm Beach Post",
+            "description": "Both Dusty May's Florida Atlantic Owls and Brian Dutcher's San Diego State Aztecs are playing in their first Final Four. Here's how to watch the game.",
+            "url": "https://www.palmbeachpost.com/story/sports/college/owls/2023/03/31/fau-basketball-final-four-how-to-watch-live-stream-tv-san-diego-state/70064908007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/26/USAT/d5f76afb-3370-476e-b4fc-7c9105d580d1-USATSI_20319979.jpg?crop=4629,2604,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-03-31T22:02:09Z",
+            "content": "FAU has made it to the final weekend of the NCAA men's basketball season.\r\nTheir remarkable run to the Final Four has caught the attention of people across the nation, and all eyes will be on the Owl\u2026 [+2466 chars]"
         },
         {
             "source": {
@@ -157,110 +261,6 @@
             "urlToImage": "https://i.ytimg.com/vi/MDa8o2LUg9g/maxresdefault.jpg",
             "publishedAt": "2023-03-31T21:26:05Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Amanda Lee Myers, Ashley R. Williams, Doyle Rice",
-            "title": "Friday Tornado outbreak: Tornado emergencies; damage in Little Rock - USA TODAY",
-            "description": "Arkansas Governor Sarah Huckabee Sanders said \"Significant damage has occurred in Central Arkansas.\" Tornado and severe weather updates.",
-            "url": "https://www.usatoday.com/story/news/weather/2023/03/31/weather-storms-tornadoes-friday-forecast/11564697002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/31/USAT/c7abcb42-d9c6-4813-99f7-5d8fb8f5d55f-AP_APTOPIX_Severe_Weather_Arkansas.jpg?crop=4031,2268,x0,y373&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-03-31T21:03:34Z",
-            "content": "A tornado outbreak caused widespread havoc Friday evening as\u00a0federal forecasters warned of rare twister emergencies and confirmed tornadoes across several states.\r\nA tornado ripped through neighborho\u2026 [+6394 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Aislinn Murphy",
-            "title": "EV tax credit eligibility to be reduced in the coming month - Fox Business",
-            "description": "Eligibility for key tax credits could be reduced or lost altogether for a number of electric vehicles in the coming month. Come April 18, EVs will be subject to new rules proposed Friday by the Treasury.",
-            "url": "https://www.foxbusiness.com/markets/ev-tax-credit-eligibility-reduced-coming-month",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/TREASURY-2.jpg?ve=1&tl=1",
-            "publishedAt": "2023-03-31T20:58:16Z",
-            "content": "Eligibility for key tax credits could be reduced or lost altogether for a number of electric vehicles in the coming month.\r\nWhen April 18 arrives, EVs will be subject to new rules that impose critica\u2026 [+4569 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Daily News"
-            },
-            "author": "Ellen Moynihan, JOHN ANNESE",
-            "title": "Guilty verdict for pro-Trump troll who tried to trick voters out of casting Hillary Clinton ballots in 2016 - New York Daily News",
-            "description": "The case, which addresses the question of whether disseminating internet disinformation during the 2016 election rose to the level of a crime, has been closely watched by both anti-extremist groups and right-wing politicians and pundits.",
-            "url": "https://www.nydailynews.com/new-york/nyc-crime/ny-verdict-far-right-troll-douglass-mackey-election-interference-trial-20230331-mkpgqf2b4fhihk2z2vvqvpnsdi-story.html",
-            "urlToImage": "https://www.nydailynews.com/resizer/UQ3v4V80Nx9me0BG74hBDP2BrYQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/2FCNMBFFGRGCRLM772NKSOZ6IE.jpg",
-            "publishedAt": "2023-03-31T20:55:01Z",
-            "content": "A Brooklyn jury on Friday convicted pro-Trump troll Douglass Mackey of plotting to trick voters out of casting a ballot during the 2016 presidential election.\r\nThe case, which sought to address if an\u2026 [+4876 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Adriana Diaz",
-            "title": "Migraines, cluster headaches linked to how you sleep: study - New York Post ",
-            "description": "A new report, published Wednesday, suggested that those headaches have strong correlations to\u00a0the circadian system \u2014 the physical, mental and behavioral patterns that follow a 24-hour cycle.",
-            "url": "https://nypost.com/2023/03/31/migraines-cluster-headaches-linked-to-how-you-sleep-study/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000009028773.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-03-31T20:54:00Z",
-            "content": "Is it headache o\u2019clock? \r\nMigraines and cluster headaches are closely linked to the body\u2019s internal clock, a new study found.\r\nThe report, published in Neurology on Wednesday, suggested that both typ\u2026 [+3714 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": null,
-            "title": "MLB investigating altercation between Anthony Rendon, A's fan - ESPN",
-            "description": "MLB is investigating a confrontation between Angels third baseman Anthony Rendon and an Athletics fan at Thursday's season opener in Oakland.",
-            "url": "https://www.espn.com/mlb/story/_/id/36019702/mlb-investigating-altercation-anthony-rendon-fan",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0529%2Fr1018823_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-03-31T20:46:26Z",
-            "content": "Major League Baseball says it is investigating a confrontation between Angels third baseman Anthony Rendon and an Athletics fan at Thursday's season opener in Oakland.\r\nIn a 12-second video posted on\u2026 [+805 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "Is NASA Done Sending Traditional Rovers to Mars? - Gizmodo",
-            "description": "The space agency's proposed longterm strategy for exploring the Red Planet involves lower-cost missions and paving the way for humans to land on Mars.",
-            "url": "https://gizmodo.com/nasa-expensive-rovers-mars-perseverance-curiosity-1850288783",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/362cdb7900539683cfac2b3f7dfa0850.gif",
-            "publishedAt": "2023-03-31T20:00:00Z",
-            "content": "In February 2021, NASA landed a $2.7 billion rover on Mars that has been roaming the Red Planet ever since. The space agency got what it paid for, as the largely autonomous Perseverance rover has bee\u2026 [+3342 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Virgin Orbit to cease operations, lay off almost all of its workforce - CNBC Television",
-            "description": "CNBC\u2019s Michael Sheetz joins 'Power Lunch' to report on Virgin Orbit's collapse. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https...",
-            "url": "https://www.youtube.com/watch?v=PQ56X2d8o7U",
-            "urlToImage": "https://i.ytimg.com/vi/PQ56X2d8o7U/maxresdefault.jpg",
-            "publishedAt": "2023-03-31T19:39:01Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Complex"
-            },
-            "author": "Brad Callas",
-            "title": "Bam Margera Filmed Screaming at Estranged Wife in Restaurant Before Public Intoxication Arrest - Complex",
-            "description": "Days after Bam Margera was arrested on a public intoxication misdemeanor charge outside a restaurant in Burbank, TMZ has unearthed video of the incident.",
-            "url": "https://www.complex.com/pop-culture/bam-margera-screaming-at-wife-inside-restaurant-before-public-intoxication-arrest",
-            "urlToImage": "https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/j4x67paxrd2i8jj8q60t/bam-margera-public-intoxication",
-            "publishedAt": "2023-03-31T19:38:39Z",
-            "content": "Days after Bam Margera was arrested on a public intoxication misdemeanor charge outside a restaurant in Burbank, TMZ has unearthed video of what transpired leading up to the\u00a0incident.\r\nIn a new video\u2026 [+1357 chars]"
         }
     ]
 }
