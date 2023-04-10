@@ -1,45 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": "ign",
-                "name": "IGN"
+                "id": null,
+                "name": "Entertainment Tonight"
             },
-            "author": "Adam Bankhurst",
-            "title": "Star Wars Celebration 2023: Everything Announced So Far - IGN",
-            "description": "From three new live-action Star Wars movies from James Mangold, Dave Filoni, and Sharmeen Obaid Chinoy to Daisy Ridley's return as Rey in a film set after The Rise of Skywalker to Ahsoka's official trailer, Star Wars Celebration 2023 is super busy. Read about\u2026",
-            "url": "https://www.ign.com/articles/star-wars-celebration-2023-everything-announced-so-far",
-            "urlToImage": "https://assets-prd.ignimgs.com/2023/04/07/image-1680722530728-1680863425926.png?width=1280",
-            "publishedAt": "2023-04-08T09:56:15Z",
-            "content": "From three new live-action Star Wars movies from James Mangold, Dave Filoni, and Sharmeen Obaid Chinoy to Daisy Ridley's return as Rey in a film set after The Rise of Skywalker to Ahsoka's official t\u2026 [+18582 chars]"
+            "author": "Miguel A. Melendez",
+            "title": "Taylor Swift and Joe Alwyn Break Up After Six Years of Dating (Exclusive) - Entertainment Tonight",
+            "description": "The songstress and actor had been dating since 2016.",
+            "url": "https://www.etonline.com/taylor-swift-and-joe-alwyn-break-up-after-six-years-of-dating-exclusive-202408",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-04/image%20%283%29.png?h=739905c9&itok=J3Y39V0s",
+            "publishedAt": "2023-04-08T23:00:17Z",
+            "content": "Taylor Swift and Joe Alwyn\u00a0have called it quits. ET has exclusively learned that the \"Lavender Haze\" singer and the British actor broke up a few weeks ago.\r\nET has also learned that the split was ami\u2026 [+3329 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "pgatour.com"
+                "name": "Deadline"
             },
-            "author": "Paul Hodowanic",
-            "title": "Round 2 review: Masters Tournament - PGA TOUR - PGA TOUR",
-            "description": "The biggest stories from the second round of the Masters",
-            "url": "https://www.pgatour.com/article/news/latest/2023/04/07/the-biggest-stories-from-the-second-round-of-the-masters",
-            "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto/pgatour/news/editorial/2023/04/07/brooks-koepka-round-2-masters-review.jpg",
-            "publishedAt": "2023-04-08T09:08:18Z",
-            "content": "The biggest stories from the second round of the Masters\r\nA look at some of the big stories from the second round of the Masters Tournament. \r\nTaking advantage of benign conditions Friday morning, Br\u2026 [+9009 chars]"
+            "author": "Armando Tinoco",
+            "title": "Valerie Bertinelli Says Food Network Canceled 'Valerie's Home Cooking' After 14 Seasons: \u201cI Have No Idea Why\u201d - Deadline",
+            "description": "Valerie Bertinelli dropped the news that the upcoming season of Valerie\u2019s Home Cooking on Food Network is the last one. The show\u2019s host took to Instagram to share with her followers &#8\u2026",
+            "url": "https://deadline.com/2023/04/valerie-bertinelli-food-network-canceled-valeries-home-cooking-after-14-seasons-1235320640/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/04/Valerie-Bertinelli-food-network.jpg?w=1024",
+            "publishedAt": "2023-04-08T22:46:00Z",
+            "content": "Valerie Bertinelli dropped the news that the upcoming season of Valerie\u2019s Home Cooking on Food Network is the last one. \r\nThe show\u2019s host took to Instagram to share with her followers \u201csome good news\u2026 [+1330 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": null,
-            "title": "Georgia Looms Next After Trump's Indictment in New York - The New York Times",
-            "description": null,
-            "url": "https://families.google.com/service-restricted",
-            "urlToImage": null,
-            "publishedAt": "2023-04-08T09:00:17Z",
-            "content": null
+            "author": "Emily Langer",
+            "title": "Ben Ferencz, last living Nuremberg prosecutor, dies at 103 - The Washington Post",
+            "description": "At 27, he prosecuted Nazis for more than 1 million deaths in perhaps the largest murder case in history.",
+            "url": "https://www.washingtonpost.com/obituaries/2023/04/08/ben-ferencz-dead-nuremberg-law/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ACF6KNDO5II6NGJ7OPDJHKEYEA&w=1440",
+            "publishedAt": "2023-04-08T22:30:00Z",
+            "content": "Ben Ferencz was a 27-year-old lawyer with no courtroom experience when he prosecuted what would be called the largest murder case in history. Standing 5-foot-2, he nearly disappeared behind the lecte\u2026 [+9018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Sandra Herrera",
+            "title": "USWNT 2-0 victory over Ireland and Julie Ertz's return overshadowed by first-half Mallory Swanson knee injury - CBS Sports",
+            "description": "Swanson was injured near the end of the first half and immediately carted off and taken to the hospital",
+            "url": "https://www.cbssports.com/soccer/news/uswnt-2-0-victory-over-ireland-and-julie-ertzs-return-overshadowed-by-first-half-mallory-swanson-knee-injury/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/08/b76bda1f-7fc5-49fc-856c-0329f7235d4d/thumbnail/1200x675/0e7dd8f852883fb89e2561150cf4b8f7/untitled-design-2023-04-08t163521-874.png",
+            "publishedAt": "2023-04-08T22:11:00Z",
+            "content": "The United States women's national team lost top winger Mallory Swanson to a leg injury on Saturday but defeated Ireland 2-0 at Q2 Stadium in Austin, Texas. The two teams will play a pair of friendli\u2026 [+5333 chars]"
         },
         {
             "source": {
@@ -47,220 +60,207 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Mifepristone: US abortion pill access in doubt after rival rulings - BBC",
-            "description": "A Texas judge orders a hold on approval of the drug, a decision swiftly challenged by another court.",
-            "url": "https://www.bbc.com/news/world-us-canada-65217437",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16878/production/_129308229_gettyimages-1356608449.jpg",
-            "publishedAt": "2023-04-08T07:55:24Z",
-            "content": "A Trump-appointed federal judge in Texas has ordered a hold on the longstanding approval of a widely used abortion drug, mifepristone.\r\nBut an hour later an Obama-picked judge in Washington state iss\u2026 [+4071 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Justin Baragona",
-            "title": "'Twitter Files' Reporter Bails on Twitter After Elon Makes It 'Unusable' - The Daily Beast",
-            "description": "On Friday, one of Musk\u2019s handpicked Twitter Files disseminators turned his back on the social media site. The Chief Twit, meanwhile, quickly unfollowed him.",
-            "url": "https://www.thedailybeast.com/twitter-files-reporter-matt-taibbi-bails-on-twitter-after-elon-musk-makes-it-unusable",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_576,w_1024,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1680901361/GettyImages-1248906454_1_r3dmqa",
-            "publishedAt": "2023-04-08T07:18:26Z",
-            "content": "Matt Taibbi, one of Elon Musks handpicked disseminators of the so-called Twitter Files, informed his readers on Friday that he was ditching Twitter after the Chief Twit restricted links to Substack t\u2026 [+3587 chars]"
+            "title": "Maia and Rina Dee named as British-Israeli sisters killed in West Bank shooting - BBC",
+            "description": "Maia and Rina Dee, who lived in the settlement of Efrat, were shot dead in their car on Friday.",
+            "url": "https://www.bbc.com/news/world-middle-east-65222234",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D4E5/production/_129310545_deesisters.png",
+            "publishedAt": "2023-04-08T21:56:21Z",
+            "content": "Two British-Israeli sisters killed in a shooting in the occupied West Bank have been named as Maia and Rina Dee.\r\nThe sisters were killed on Friday afternoon near the Hamra Junction in the north of t\u2026 [+3331 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "ESPN"
             },
-            "author": "Tim MacMahon",
-            "title": "The end of the Dallas Mavericks' season marks the beginning for a few franchise-altering questions - ESPN",
-            "description": "After a deal for Kyrie Irving failed to make a difference in Dallas, a frustrating collapse gives way to an offseason full of uncertainty.",
-            "url": "https://www.espn.com/nba/story/_/id/36111588/the-end-dallas-mavericks-season-marks-beginning-franchise-altering-questions",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0408%2Fr1155919_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-04-08T07:00:32Z",
-            "content": "DALLAS -- ONCE AGAIN, the Dallas Mavericks changed plans during a bizarre final week of what Luka Doncic described as \"a very disappointing season.\"\r\nA few days after declaring he'd play so long as t\u2026 [+11778 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Israel Palestinian tensions high after deadly attacks - Reuters",
-            "description": "An Italian tourist was killed and five people were wounded in a car ramming in Tel Aviv on Friday that came hours after two Israeli sisters were killed in a shooting attack in the occupied West Bank.",
-            "url": "https://www.reuters.com/world/middle-east/israel-reinforces-troops-after-violence-along-lebanon-gaza-borders-2023-04-07/",
-            "urlToImage": "https://www.reuters.com/resizer/SnqH2rETyg2Pj2BMz8xiLL_9vDw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C72OTVRPZFKTBJPVNRYODI5ESA.jpg",
-            "publishedAt": "2023-04-08T05:43:00Z",
-            "content": "TEL AVIV, April 7 (Reuters) - An Italian tourist was killed and five people were wounded in a car ramming in Tel Aviv on Friday that came hours after two Israeli sisters were killed in a shooting att\u2026 [+5510 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Graeme Massie",
-            "title": "Hundreds flee South Carolina beach as six people shot - The Independent",
-            "description": "Multiple suspects arrested after incident on Isle of Palms near Charleston",
-            "url": "https://www.independent.co.uk/news/world/americas/crime/south-carolina-beach-shooting-police-b2316329.html",
-            "urlToImage": "https://static.independent.co.uk/2023/04/08/01/Shooting.png?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-04-08T05:12:49Z",
-            "content": "Sign up to our free US news bulletin sent straight to your inbox each weekday morning\r\nSign up to our free morning US email news bulletin\r\nSix people were hospitalised after a shooting took place on \u2026 [+1357 chars]"
+            "author": "Mark Schlabach",
+            "title": "Tiger Woods ties consecutive cuts made record at Masters - ESPN",
+            "description": "Tiger Woods has now made 23 consecutive cuts at the Masters, tying Gary Player and Fred Couples for the longest streak in the tournament's history.",
+            "url": "https://www.espn.com/golf/story/_/id/36118590/tiger-woods-ties-consecutive-cuts-made-record-masters",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0408%2Fr1156201_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-04-08T21:50:23Z",
+            "content": "AUGUSTA, Ga. -- Five-time Masters champion Tiger Woods needed some help Saturday but made the cut for the 23rd consecutive time at the Masters, tying Fred Couples and Gary Player for the longest stre\u2026 [+3078 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KXAN.com"
+                "name": "Sky Sports"
             },
-            "author": "Terr\u00e9 Gables/KFOR",
-            "title": "OUPD: The University of Oklahoma campus secure after alert sent about \u2018active shooter\u2019 - KXAN.com",
-            "description": "The alert has been canceled",
-            "url": "https://www.kxan.com/news/live-coverage-ou-campus-sends-alert-about-an-active-shooter/",
-            "urlToImage": "https://www.kxan.com/wp-content/uploads/sites/40/2023/04/snapshot-22.jpg?w=1280",
-            "publishedAt": "2023-04-08T03:23:55Z",
-            "content": "UPDATE: 10:57 p.m. The University of Oklahoma Police Department has canceled the \u2018active shooter\u2019 alert and given the All Clear for the situation. \r\nOU police Department says no shooter or victims ha\u2026 [+2145 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "China starts drills around Taiwan after US Speaker meeting - Reuters",
-            "description": "China began three days of military exercises around Taiwan on Saturday to express anger at Taiwan President Tsai Ing-wen's meeting with the speaker of the U.S. House of Representatives, as the island's defence ministry said it would respond calmly.",
-            "url": "https://www.reuters.com/world/china-announces-drills-around-taiwan-after-us-speaker-meeting-2023-04-08/",
-            "urlToImage": "https://www.reuters.com/resizer/UCV3GFIo4hVMnTv7vD9mDZhGrqw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PS6N2SMMGZL3VMXDSMIGBVN72E.jpg",
-            "publishedAt": "2023-04-08T03:17:00Z",
-            "content": "FUZHOU, China/TAIPEI, April 8 (Reuters) - China began three days of military exercises around Taiwan on Saturday to express anger at Taiwan President Tsai Ing-wen's meeting with the speaker of the U.\u2026 [+5235 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Victor Nava",
-            "title": "Biden invites 'Tennessee Three' Democrats who faced expulsion over gun violence protest to White House - New York Post ",
-            "description": "President Biden invited the three Tennessee Democrats who faced expulsion votes to the White House Friday, a day after two of them were ousted from the state legislature.",
-            "url": "https://nypost.com/2023/04/07/biden-invites-tennessee-three-to-the-white-house/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009360824.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-04-08T02:38:00Z",
-            "content": "President Biden invited the three Tennessee Democrats who faced expulsion votes to the White House Friday, a day after two of them were ousted from the state legislature for protesting against gun vi\u2026 [+2959 chars]"
+            "author": "Sky Sports",
+            "title": "The Masters: Plan for final round revealed as organisers try to avoid Monday finish at Augusta National - Sky Sports",
+            "description": "The possibility of The Masters going into a fifth day has been a talking point throughout the week, but will they avoid the first Monday finish since 1983 at Augusta?",
+            "url": "https://www.skysports.com/golf/news/24512/12853234/the-masters-plan-for-final-round-revealed-as-organisers-try-to-avoid-monday-finish-at-augusta-national",
+            "urlToImage": "https://e2.365dm.com/23/04/1600x900/skysports-jon-rahm-golf-the-masters_6115685.jpg",
+            "publishedAt": "2023-04-08T21:45:00Z",
+            "content": "The possibility of The Masters going into a fifth day has been a talking point throughout the week, with Augusta National officials keen to avoid taking the contest to a Monday finish for the first t\u2026 [+5122 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Ariane de Vogue, Tierney Sneed",
-            "title": "Justice Clarence Thomas says trips with billionaire didn't need to be disclosed at the time - CNN",
-            "description": "\"This is far greater than mere ethics violations; it's about the perceived legitimacy of the Supreme Court,\" one former conservative federal judge said.",
-            "url": "https://www.cnn.com/2023/04/07/politics/clarence-thomas-disclosures-supreme-court/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230406092847-justice-clarence-thomas-221007.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-08T01:52:00Z",
-            "content": "Justice Clarence Thomas said Friday that he did not disclose luxury travel paid for by a Republican donor because he was advised at the time that he did not have to report it. \r\nIn a rare statement s\u2026 [+8216 chars]"
+            "author": "Mohammed Tawfeeq",
+            "title": "Three rockets were launched from Syria toward Israel, IDF says - CNN",
+            "description": "Three rockets were launched toward Israel from Syria on Saturday, the Israeli military said.",
+            "url": "https://www.cnn.com/2023/04/08/middleeast/israel-syria-rockets-fired-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/150325082132-social-gfx-breaking-news.jpg?q=x_2,y_0,h_898,w_1596,c_crop/w_800",
+            "publishedAt": "2023-04-08T21:40:00Z",
+            "content": "Three rockets were launched toward Israel from Syria on Saturday, the Israeli military said. \r\nOne landed in the southern Golan Heights, the Israel Defense Forces (IDF) said. The IDF said it did not \u2026 [+1749 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Bethan McKernan",
+            "title": "Tensions run high across Israel after car ramming attack leaves tourist dead - The Guardian",
+            "description": "Further violence feared after Arab-Israeli man drives his vehicle into busy city promenade following a West Bank shooting",
+            "url": "https://www.theguardian.com/world/2023/apr/08/tensions-run-high-in-tel-aviv-after-car-ramming-attack-leaves-tourist-dead",
+            "urlToImage": "https://i.guim.co.uk/img/media/1f322d585d9935b78cd091754fd02a0139a28186/0_169_5068_3041/master/5068.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=739fc7d0cf80d8abea3ef84d21df58c9",
+            "publishedAt": "2023-04-08T21:37:00Z",
+            "content": "On 8 April 2022, a Palestinian gunman entered a crowded bar in Tel Aviv, Israels commercial capital, and opened fire, killing three people and wounding 10. This weekend, on the anniversary of that at\u2026 [+5679 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Jack Baer",
-            "title": "Jaylen Brown to miss Celtics' final 2 regular-season games after cutting his hand while watering plants - Yahoo Sports",
-            "description": "This is an extremely baseball injury.",
-            "url": "https://sports.yahoo.com/jaylen-brown-to-miss-celtics-final-2-regular-season-games-after-cutting-his-hand-while-watering-plants-013525706.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yapqGnXj5dksxrgkiooXsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/8b928fd0-d5ad-11ed-bfff-3df895d50e81",
-            "publishedAt": "2023-04-08T01:35:00Z",
-            "content": "Jaylen Brown is done for the regular season and the reason why feels straight out of a baseball story.\r\nThe Boston Celtics star cut his hand picking up a glass vase while watering his plants on Thurs\u2026 [+1389 chars]"
+            "author": "Dani Romero",
+            "title": "Housing market data suggests sector's downturn 'coming to an end' - Yahoo Finance",
+            "description": "A run of housing market data through March showed that while challenges are considerable in the sector, signs are adding up that the market may be turning a ...",
+            "url": "https://finance.yahoo.com/news/housing-market-data-suggests-sectors-downturn-coming-to-an-end-202631499.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fh3CVJOeC0ylP39G.SHRfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/deffd7e0-cf22-11ed-a36f-8d3517840eab",
+            "publishedAt": "2023-04-08T20:26:31Z",
+            "content": "Housing market data in recent weeks has offered some signs of stabilization as the spring selling season begins to ramp up.\r\nMortgage rates are on the downswing, with the average 30-year fixed mortga\u2026 [+5595 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "Austin American-Statesman"
             },
-            "author": "Patrick Reilly",
-            "title": "2 babies born with brain damage after moms tested positive for COVID-19 during pregnancy, study reveals - New York Post ",
-            "description": "The babies did not test positive for the virus themselves, but had high levels of COVID antibodies in their blood, researchers said.",
-            "url": "https://nypost.com/2023/04/07/2-babies-born-brain-damaged-after-moms-got-covid-19-during-pregnancy-study/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26501486-1680913623566.jpg?quality=75&strip=all&1680899815&w=1024",
-            "publishedAt": "2023-04-08T01:21:00Z",
-            "content": "The first confirmed cases of babies born with brain damage as a result of the COVID-19 virus crossing into their mothers placenta were revealed in a new study this week.\r\nBoth babies were born to you\u2026 [+2291 chars]"
+            "author": ", Austin American-Statesman",
+            "title": "Garrett Foster death: Texas governor says he will pardon Daniel Perry - Austin American-Statesman",
+            "description": "Abbott's pardon tweet published less than 24 hours after Tucker Carlson called out the governor on his broadcast to say that Texas did not recognize the right of self-defense.",
+            "url": "https://www.statesman.com/story/news/local/2023/04/08/texas-governor-greg-abbott-will-pardon-daniel-perry-convicted-of-murder-garrett-foster/70095504007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/05/NAAS/5b7a9a12-7639-40ba-9be8-4fbb769923a3-Daniel_Perry_Trial_jwj_00628.jpg?auto=webp&crop=2999,1687,x0,y189&format=pjpg&width=1200",
+            "publishedAt": "2023-04-08T20:04:49Z",
+            "content": "Less than 24 hours after a jury in Austin convicted him of murder in the shooting of a protester, Gov. Greg Abbott announced on social media Saturday that he will pardon Army Sgt. Daniel Perry as soo\u2026 [+1240 chars]"
         },
         {
             "source": {
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
-            "author": "Laura Curtis",
-            "title": "LA, Long Beach Port Terminals Reopen as Dockworkers Return - Bloomberg",
-            "description": "Normal operations resumed at the Ports of Los Angeles and Long Beach, as dockworkers returned to container terminals for the Friday evening shift.",
-            "url": "https://www.bloomberg.com/news/articles/2023-04-08/la-long-beach-port-terminals-reopen-as-dockworkers-return",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLFWie380gNU/v0/1200x800.jpg",
-            "publishedAt": "2023-04-08T01:15:00Z",
-            "content": "Normal operations resumed at the Ports of Los Angeles and Long Beach, as dockworkers returned to container terminals for the Friday evening shift.\r\n\u201cIt\u2019s a go,\u201d said Alan McCorkle, chief executive of\u2026 [+78 chars]"
+            "author": "Neil Callanan",
+            "title": "A $1.5 Trillion Wall of Debt is Looming for US Commercial Properties - Bloomberg",
+            "description": "Almost $1.5 trillion of US commercial real estate debt comes due for repayment before the end of 2025. The big question facing those borrowers is who\u2019s going to lend to them?",
+            "url": "https://www.bloomberg.com/news/articles/2023-04-08/a-1-5-trillion-wall-of-debt-is-looming-for-us-commercial-properties",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5kgmQNlZX4g/v1/1200x800.jpg",
+            "publishedAt": "2023-04-08T20:00:00Z",
+            "content": "Almost $1.5 trillion of US commercial real estate debt comes due for repayment before the end of 2025. The big question facing those borrowers is who\u2019s going to lend to them?\r\n\u201cRefinancing risks are \u2026 [+237 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Associated Press",
-            "title": "Over 100K Canadians without power after brutal ice storm - Fox News",
-            "description": "Hundreds of thousands of Canadians were left without power in parts of Quebec and Ontario after the Great White North's eastern half was hit with a major ice storm.",
-            "url": "https://www.foxnews.com/world/over-100k-canadians-without-power-brutal-ice-storm",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/canada_ice_storm.jpg",
-            "publishedAt": "2023-04-08T00:39:00Z",
-            "content": "Hundreds of thousands of people remained without power Friday in eastern Canada two days after a storm left parts of Quebec and Ontario coated in ice, causing tree limbs to break and fall on power li\u2026 [+1320 chars]"
+            "author": "Timothy Nerozzi",
+            "title": "Towns under 2024 solar eclipse's path of totality begin preparing for rare event - Fox News",
+            "description": "Towns and cities across more than two dozen states are preparing for a solar eclipse expected in 2024 that will arch across Mexico, the US, and Canada.",
+            "url": "https://www.foxnews.com/us/towns-under-2024-solar-eclipse-path-totality-begin-preparing-for-rare-event",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Solar-Eclipse.jpg",
+            "publishedAt": "2023-04-08T19:17:00Z",
+            "content": "Towns across North America are preparing for a solar eclipse event that will not repeat for another 21 years.\r\nThe Great North American Solar Eclipse is set to arch through Mexico, the United States,\u2026 [+1252 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Taylor Nicioli",
-            "title": "See Uranus' rings in stunning new image from the Webb telescope - CNN",
-            "description": "A new image of Uranus from the James Webb Space Telescope has captured 11 out of 13 known rings in a dynamic display.",
-            "url": "https://www.cnn.com/2023/04/07/world/uranus-rings-webb-telescope-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230406162345-james-webb-space-telescope-uranus-bars.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-08T00:25:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe James Webb Space Telescope has captured a new stun\u2026 [+3633 chars]"
+            "author": "Jeanine Santucci",
+            "title": "Video shows teacher repeating slur; Fontana, Calif. district response - USA TODAY",
+            "description": "A teacher at a California middle school was shown on video using a racial slur in class and prompting a student to repeat it.",
+            "url": "https://www.usatoday.com/story/news/education/2023/04/08/video-shows-teacher-repeating-slur-fontana-calif/11627939002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/07/08/USAT/3be95f41-613f-47bb-b3dc-0553234157d7-CA-01.png?crop=4108,2311,x763,y447&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-04-08T19:01:37Z",
+            "content": "A California school district said it was taking steps to address an\u00a0\"unfortunate exchange\" between a teacher and student that included the use of a \"racially insensitive word.\"\u00a0\r\nThe statement from F\u2026 [+1547 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macworld"
+            },
+            "author": "Roman Loyola",
+            "title": "The iOS 16.4.1 and macOS 13.3.1 updates fix much more than Apple says - Macworld",
+            "description": "iOS 16.4 and macOS Ventura 13.3 broke a lot of things.",
+            "url": "https://www.macworld.com/article/1717319/ios-16-4-1-macos-13-3-1updates-bug-fixes-weather-home-handoff.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2023/04/macbook-pro-with-bugs-12.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2023-04-08T18:48:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWhen it comes to OS \u2026 [+3290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "What is the Marburg virus disease? - ABC News",
+            "description": "The Centers for Disease Control and Prevention issued a warning Thursday for the U.S. public health departments to be on the lookout for outbreaks of Marburg...",
+            "url": "https://www.youtube.com/watch?v=g61wNLTbXYc",
+            "urlToImage": "https://i.ytimg.com/vi/g61wNLTbXYc/maxresdefault.jpg",
+            "publishedAt": "2023-04-08T18:32:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Claire Thornton",
+            "title": "South Carolina beach shooting on Isle of Palms injures six - USA TODAY",
+            "description": "Students from multiple local high schools had converged on the beach as part of a senior 'skip' day celebration, police said.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/04/08/south-carolina-beach-shooting-isle-palms-injures-six/11627596002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/07/12/USAT/8b0db2c7-2668-4553-a800-93e65ca0cede-SC-01.png?crop=3990,2244,x873,y429&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2023-04-08T18:22:45Z",
+            "content": "After high school students converged on a South Carolina beach Friday afternoon, six people were shot when fighting and gunfire broke out, authorities said.\r\nTwo people have been arrested, but it's u\u2026 [+2203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "J. Kim Murphy",
+            "title": "\u2018Air\u2019 Screenwriter Alex Convery on the Stress of Awaiting Michael Jordan\u2019s Blessing and How Viola Davis Became the Protagonist - Variety",
+            "description": "Before \u201cAir\u201d could get the greenlight, director Ben Affleck needed one last seal of approval. With months of development already complete, the director flew out to meet with Michael Jordan, seeking\u2026",
+            "url": "https://variety.com/2023/film/news/air-interview-alex-convery-michael-jordan-viola-davis-1235575994/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/04/air-damon-davis-split.jpg?w=1000&h=562&crop=1",
+            "publishedAt": "2023-04-08T17:30:00Z",
+            "content": "Before \u201cAir\u201d could get the greenlight, director Ben Affleck needed one last seal of approval. With months of development already complete, the director flew out to meet with Michael Jordan, seeking h\u2026 [+6362 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Victor Nava",
-            "title": "Biden congratulates LSU's Angel Reese after she called his wife's comments 'a joke' - New York Post ",
-            "description": "President Biden called LSU women\u2019s basketball star Angel Reese on Friday to congratulate her on her team\u2019s championship season \u2014 just days after the Lady Tigers player criticized the fi\u2026",
-            "url": "https://nypost.com/2023/04/07/biden-congratulates-lsus-angel-reese-after-she-criticized-first-lady/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009357137.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-04-08T00:21:00Z",
-            "content": "President Biden called LSU womens basketball star Angel Reese on Friday to congratulate her on her team\u2019s championship season \u2014 just days after the Lady Tigers player criticized the first lady for su\u2026 [+2115 chars]"
+            "author": "Rich Calder",
+            "title": "Tennessee Republican denies Justin Jones, Justin Pearson expelled over race - New York Post ",
+            "description": "Republican state Rep. Brian Richey claims one of the expelled black legislators \u201cwanted to be kicked out.\u201d",
+            "url": "https://nypost.com/2023/04/08/tennessee-gop-denies-justin-jones-justin-pearson-expelled-for-race/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009369208.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-04-08T17:02:00Z",
+            "content": "Race wasnt a factor in the Republican-controlled Tennessee House of Representatives decision to\u00a0expel two black Democratic lawmakers while sparing a white one for disrupting deliberations in the cham\u2026 [+3233 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Beast"
+                "name": "Nintendo Life"
             },
-            "author": "Katie Hawkinson",
-            "title": "Farmington New Mexico Police Officers Shot and Killed Homeowner After Responding to Wrong House - The Daily Beast",
-            "description": "The man \u201cwas not the subject of the call that our officers were responding to and this ending is just unbelievably tragic,\u201d the police chief said.",
-            "url": "https://www.thedailybeast.com/farmington-new-mexico-police-officers-shot-and-killed-homeowner-after-responding-to-wrong-house",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_775,w_1378,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1680911842/Screen_Shot_2023-04-07_at_7.57.07_PM_jhud8j",
-            "publishedAt": "2023-04-08T00:08:02Z",
-            "content": "Police officers in the city of Farmington, New Mexico, went to the wrong house while responding to an emergency call and shot and killed a homeowner there, according to a New Mexico State Police spok\u2026 [+777 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "David Martin, Eleanor Watson",
-            "title": "Pentagon investigating how Ukraine war document marked top-secret appeared online - CBS News",
-            "description": "An official said the Pentagon is trying to determine how the material leaked and how serious the leak is.",
-            "url": "https://www.cbsnews.com/news/military-slide-ukrainian-troop-document-leaked-posted-social-media/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/07/5ec8df12-46c7-47e3-b941-ed5647893885/thumbnail/1200x630/fd1571a67ea98bac8374d51f0da6edf7/gettyimages-1250826861.jpg",
-            "publishedAt": "2023-04-07T23:11:00Z",
-            "content": "A document marked \"top secret\" that depicts the daily disposition of forces in Ukraine was leaked and has shown up on social media, a U.S. official confirmed.\r\nThis official said that someone apparen\u2026 [+2107 chars]"
+            "author": "Liam Doolan",
+            "title": "Mario Movie Continues To Smash Global Box Office Records In Opening Weekend - Nintendo Life",
+            "description": "Mario time!",
+            "url": "https://www.nintendolife.com/news/2023/04/mario-movie-continues-to-smash-global-box-office-records-in-opening-weekend",
+            "urlToImage": "https://images.nintendolife.com/0912a5138c93e/1280x720.jpg",
+            "publishedAt": "2023-04-08T16:30:00Z",
+            "content": "Subscribe to Nintendo Life on YouTube\r\nWe're still in the early days of The Super Mario Bros. Movie, and so far it appears to be smashing it at the box office. In an update, the film is now projected\u2026 [+1296 chars]"
         }
     ]
 }
