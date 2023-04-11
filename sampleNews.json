@@ -1,110 +1,97 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Joseph Ataman",
-            "title": "2 bodies found, more missing after building collapses in Marseille - CNN",
-            "description": "Rescuers found two bodies in the rubble of a building that collapsed in an explosion in the southern French port city of Marseille on Sunday, according to the city's fire department.",
-            "url": "https://www.cnn.com/2023/04/09/europe/marseilles-france-building-collapse-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230409084840-03-marseille-france-building-collapse-0409.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-10T02:07:00Z",
-            "content": "Rescuers have found two bodies in the rubble of a building that collapsed in an explosion in the southern French port city of Marseille on Sunday, according to the citys fire department. \r\nEarlier, F\u2026 [+2327 chars]"
+            "author": "Linda Searing",
+            "title": "High stress raises odds of cognitive problems after age 45 - The Washington Post",
+            "description": "Chronic stress can lead to various physical and mental health problems, including anxiety, depression, headaches, heart disease, high blood pressure, sleep problems and more.",
+            "url": "https://www.washingtonpost.com/wellness/2023/04/10/stress-cognition-aging/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KEIQBUQOJCL7JK3FNR75IJBLE.jpg&w=1440",
+            "publishedAt": "2023-04-10T12:10:55Z",
+            "content": "Comment on this story\r\nComment\r\nPeople 45 and older who have elevated stress levels have been found to be 37 percent more likely to have cognitive problems, including memory and thinking issues, than\u2026 [+1719 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "CNBC"
             },
-            "author": "Dominic Patten",
-            "title": "\u2018Succession\u2019s Brian Cox On Tonight\u2019s Fatal Episode, Keeping Secrets, The Sh*tstorm To Come & Why Jesse Armstrong Needed To Move On - Deadline",
-            "description": "SPOILER ALERT: This article contains details of tonight\u2019s episode of Succession. So stop right now if you don\u2019t want to know what went down. \u201cToday\u2019s the day,\u201d says Logan Roy in tonight\u2026",
-            "url": "https://deadline.com/2023/04/succession-logan-roy-spoilers-brian-cox-interview-hbo-jesse-armstrong-1235320400/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/04/Brian-Cox-Matthew-Macfadyen-WBD-HBO-Succession.jpeg?w=907",
-            "publishedAt": "2023-04-10T02:05:00Z",
-            "content": "SPOILER ALERT: This article contains details of tonight\u2019s episode of Succession. So stop right now if you don\u2019t want to know what went down.\r\n\u201cToday\u2019s the day,\u201d says Logan Roy in tonight\u2019s truly shoc\u2026 [+14045 chars]"
+            "author": "Samantha Subin",
+            "title": "Stocks making the biggest moves premarket: Micron, Pioneer Natural Resources, Tesla and more - CNBC",
+            "description": "These are the stocks posting the largest moves before the bell.",
+            "url": "https://www.cnbc.com/2023/04/10/stocks-making-the-biggest-moves-premarket-mu-pxd-tsla.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106862228-1617205970738-gettyimages-1232019082-MICRON_EARNS.jpeg?v=1681128223&w=1920&h=1080",
+            "publishedAt": "2023-04-10T12:03:43Z",
+            "content": "Check out the companies making headlines in premarket trading.\r\nMicron Technology Shares jumped more than 6% following news that Samsung Electronics plans to cut memory chip production near term. Man\u2026 [+1380 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Bradford Betz",
-            "title": "NASA\u2019s Hubble Space Telescope spots runaway black hole creating \u2018trail of stars\u2019 - Fox News",
-            "description": "Using a Hubble Space Telescope, NASA researchers accidentally stumbled upon a supermassive black hole leaving behind a \"contrail\" of newborn stars.",
-            "url": "https://www.foxnews.com/science/nasas-hubble-space-telescope-spots-runaway-black-hole-creating-trail-stars",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Black-Hole.jpg",
-            "publishedAt": "2023-04-10T01:40:00Z",
-            "content": "NASAs Hubble Space Telescope has accidentally captured images of a \"runaway\" black hole barreling through space, leaving behind a contrail of newborn stars.\u00a0\r\nThe black hole, weighing as much as 20 m\u2026 [+2067 chars]"
+            "author": "Huizhong Wu",
+            "title": "China military 'ready to fight' after drills near Taiwan - The Associated Press",
+            "description": "TAIPEI, Taiwan (AP) \u2014 China\u2019s military declared Monday it is \u201cready to fight\u201d after completing three days of large-scale combat exercises around Taiwan that simulated sealing off the island in response to the Taiwanese president\u2019s trip to the U.S.",
+            "url": "https://apnews.com/article/china-military-taiwan-us-7549c646a377f1f199d2cda983573279",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/aeec38e3106b468dae0a928cdbf44fdb/3000.webp",
+            "publishedAt": "2023-04-10T11:21:34Z",
+            "content": "TAIPEI, Taiwan (AP) Chinas military declared Monday it is ready to fight after completing three days of large-scale combat exercises around Taiwan that simulated sealing off the island in response to\u2026 [+6300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jane C. Timm",
+            "title": "Hounded by baseless voter fraud allegations, an entire county's election staff quits in Virginia - Yahoo News",
+            "description": "In Buckingham County, an entire elections staff quit their jobs after a feud between local Republicans and the general registrar consumed the small community",
+            "url": "https://news.yahoo.com/hounded-baseless-voter-fraud-allegations-110000738.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.sTx6IR.mcOOeJmaLorhzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/nbc_news_122/bcc1bcaa8a4df2ca440b3e2773958c83",
+            "publishedAt": "2023-04-10T11:00:00Z",
+            "content": "BUCKINGHAM, Virginia Lindsey Taylor loved running elections here.\r\nThe previous registrar had spent nearly three decades in the job, and Taylor, 37, hoped to do the same when she was first hired in 2\u2026 [+17101 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Bantock",
+            "title": "Jon Rahm cruises to 2023 Masters victory, sealing Spaniard's second career major - CNN",
+            "description": "Jon Rahm won the 2023 Masters on Sunday, clinching his first green jacket and second career major with an unflappable showing at Augusta National.",
+            "url": "https://www.cnn.com/2023/04/09/golf/masters-2023-winner-jon-rahm-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230409180202-06-masters-2023-rahm-celebrates.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-10T10:34:00Z",
+            "content": "Jon Rahm won the 2023 Masters on Sunday, clinching his first green jacket and second career major with an unflappable showing at Augusta National.\r\nThe Spaniard put on a clinic in consistency to ease\u2026 [+6729 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
-            },
-            "author": "Gina Martinez",
-            "title": "Bodies of Lotus drummer Chuck Morris and son recovered 24 days after Arkansas kayak trip - CBS News",
-            "description": "The Benton County Sheriff's Office began its search for Morris and his son after they were reported missing on March 16.",
-            "url": "https://www.cbsnews.com/news/chuck-morris-lotus-body-of-drummer-and-son-charley-found-kayak-trip-arkansas/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/26/39aba0ba-58a0-42e8-bbc0-4c61e9958ef9/thumbnail/1200x630/c480d8fe6334f7aaadff9820959e6c7f/chuck-morris.jpg",
-            "publishedAt": "2023-04-10T01:27:52Z",
-            "content": "The bodies of Chuck Morris, a musician best known as the percussionist for the band Lotus, and his son, Charley, were recovered 24 days after the pair disappeared during a kayaking trip in Arkansas, \u2026 [+2436 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
             },
             "author": null,
-            "title": "Ukraine war: The latest news - Reuters",
-            "description": "President Volodymyr Zelenskiy <a href=\"/world/europe/ukraines-zelenskiy-denounces-russian-strikes-orthodox-palm-sunday-2023-04-09/\">denounced Russian air strikes</a> coinciding with the observance of Orthodox Palm Sunday, including an attack that killed a fat\u2026",
-            "url": "https://www.reuters.com/world/europe/russias-war-ukraine-latest-russia-likely-behind-document-leak-us-says-2023-04-08/",
-            "urlToImage": "https://www.reuters.com/resizer/vmuDy9MNMsgyUHj7pi0tr4HJr5M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O27JNP5UKBNO5EIXQGX3D62IKM.jpg",
-            "publishedAt": "2023-04-10T01:26:00Z",
-            "content": "LONDON, April 10 (Reuters) - President Volodymyr Zelenskiy denounced Russian air strikes coinciding with the observance of Orthodox Palm Sunday, including an attack that killed a father and daughter \u2026 [+2461 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NorthJersey.com"
-            },
-            "author": "Mary Ann Koruth",
-            "title": "Rutgers faculty unions decide to strike Monday as talks break down - NorthJersey.com",
-            "description": "Faculty on Rutgers' three campuses will strike Monday, shutting down classes for the first time in the university's 250-year history.",
-            "url": "https://www.northjersey.com/story/news/education/2023/04/09/rutgers-faculty-unions-decide-to-strike-monday-as-talks-break-down/70093922007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2019/04/09/PNJM/35b35da1-dff0-42b7-9bb9-5164147f86eb-040919_RutgersNewarkrally_02.JPG?crop=4797,2688,x0,y478&width=3200&height=1794&format=pjpg&auto=webp",
-            "publishedAt": "2023-04-10T00:36:45Z",
-            "content": "Union officials representing Rutgers faculty at three campuses decided Sunday night that they would strike indefinitely starting Monday morning, after reaching a stalemate in contract negotiations wi\u2026 [+7507 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Scott Pelley",
-            "title": "NASA's Webb telescope captures new views of the universe | 60 Minutes - CBS News",
-            "description": "As NASA's Webb telescope scours the universe to find light from the first stars and galaxies, it is also capturing the universe like never before. Scott Pelley got an inside look at Webb's new discoveries.",
-            "url": "https://www.cbsnews.com/news/nasa-webb-telescope-new-views-universe-60-minutes-transcript-2023-04-09/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/09/50c0ac34-5a0a-4bd5-a50d-963c37427765/thumbnail/1200x630/ae5c8e488af47ddb4dc5d4e69094c0af/carina-nebula.jpg",
-            "publishedAt": "2023-04-09T23:48:56Z",
-            "content": "NASA's James Webb Space Telescope has hardly opened its eyes and the universe is new-- more mysterious, more beautiful than humanity's dreams. The largest telescope ever flown launched into deep spac\u2026 [+10763 chars]"
+            "title": "Easter avalanche in French Alps kills 6, authorities say - CBS News",
+            "description": "It was one of the country's deadliest avalanches in years.",
+            "url": "https://www.cbsnews.com/news/avalanche-french-alps-6-killed-mont-blanc/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/10/28e5f705-8016-4483-b8b6-739d2d87ddbf/thumbnail/1200x630/b94477c6bb5647c97c1c4c4299c930ba/gettyimages-1191474975.jpg",
+            "publishedAt": "2023-04-10T10:23:00Z",
+            "content": "The death toll from an avalanche in the French Alps Sunday rose to six, including two mountain guides, local authorities said Monday. \r\nThe prosecutor's office in Bonneville, in the Haute-Savoie regi\u2026 [+1150 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Alli Rosenbloom",
-            "title": "Michael Lerner, 'Barton Fink' and 'Elf' actor, dead at 81 - CNN",
-            "description": "Michael Lerner, a veteran character actor who received an Oscar nomination for his performance as an overbearing studio head in the 1991 film \"Barton Fink,\" has died, his nephew, actor Sam Lerner, announced in a post on social media. He was 81.",
-            "url": "https://www.cnn.com/2023/04/09/entertainment/michael-lerner-death/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230409180207-michael-lerner-death-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-09T23:42:00Z",
-            "content": "Michael Lerner, a veteran character actor who received an Oscar nomination for his performance as an overbearing studio head in the 1991 film Barton Fink, has died, his nephew, actor Sam Lerner, anno\u2026 [+2829 chars]"
+            "author": "Manveena Suri, Rhea Mogul, Tenzin Dharpo",
+            "title": "Dalai Lama apologizes after video asking child to 'suck' his tongue sparks outcry - CNN",
+            "description": "The Dalai Lama has apologized after a video emerged showing the spiritual leader kissing a child on the lips and then asking him to \"suck my tongue\" at an event in northern India.",
+            "url": "https://www.cnn.com/2023/04/10/india/dalai-lama-apology-kissing-boy-video-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230410133924-03-dalai-lama-apology-blur.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-10T09:59:00Z",
+            "content": "New Delhi and Dharamshala, IndiaCNN\r\n \u00a0\u2014\u00a0\r\nThe Dalai Lama has apologized after a video emerged showing the spiritual leader kissing a child on the lips and then asking him to suck my tongue at an eve\u2026 [+2812 chars]"
         },
         {
             "source": {
@@ -112,38 +99,116 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Classified U.S. military documents 'leaked' online - MSNBC",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=bTbzPCli7JI",
-            "urlToImage": null,
-            "publishedAt": "2023-04-09T23:30:04Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "title": "Scott plans to reinstate youth curfew after teens shot at Inner Harbor - WJZ",
+            "description": "Two teens, 16 and 14, were shot as police tried to break up a fight at the harbor overnight",
+            "url": "https://www.youtube.com/watch?v=Gna2iRTlcvM",
+            "urlToImage": "https://i.ytimg.com/vi/Gna2iRTlcvM/maxresdefault.jpg",
+            "publishedAt": "2023-04-10T09:36:02Z",
+            "content": null
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Sara Fischer",
-            "title": "\"The Super Mario Bros. Movie\" smashes records with huge box office debut - Axios",
-            "description": "It's easily become the biggest opener of the year.",
-            "url": "https://www.axios.com/2023/04/09/super-mario-bros-smashes-box-office-records",
-            "urlToImage": "https://images.axios.com/2a-8P3JkXO5Rtt--8khbfna72SU=/0x48:1558x924/1366x768/2023/04/09/1681080589714.png",
-            "publishedAt": "2023-04-09T23:28:06Z",
-            "content": "\"The Super Mario Bros. Movie\" blew past expectations in its weekend debut, bringing in a whopping $377 million in global box office sales and $204.6 million in domestic sales between Wednesday and Su\u2026 [+2799 chars]"
+            "author": "Marilyn Heck, Jessie DiMartino, Cristina Corujo",
+            "title": "5-year-old girl shot and killed on California freeway, police say - ABC News",
+            "description": "Three suspects were arrested in Santa Cruz, police said.",
+            "url": "https://abcnews.go.com/US/5-year-girl-shot-killed-california-freeway-police/story?id=98466725",
+            "urlToImage": "https://s.abcnews.com/images/US/police-lights-rf-gty-200410_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-04-10T09:26:20Z",
+            "content": "A 5-year-old girl was shot and killed on a Bay Area freeway Saturday night just before 7 p.m., the California Highway Patrol said.\r\nThe shooting on Interstate 880 near Dixon Landing Road was one of t\u2026 [+645 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Chris Mooney, Brady Dennis",
+            "title": "Sea level rise along southern U.S. happening faster than previously thought - The Washington Post",
+            "description": "Multiple studies raise new questions about whether New Orleans, Miami, Houston and other coastal communities might be even more at risk from rising seas than once predicted.",
+            "url": "https://www.washingtonpost.com/climate-environment/2023/04/10/sea-level-rise-southern-us/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYCKSIRCLY5LWO5SNPGHK4CL4I_size-normalized.JPG&w=1440",
+            "publishedAt": "2023-04-10T09:25:09Z",
+            "content": "Comment on this story\r\nComment\r\nScientists have documented an abnormal and dramatic surge in sea levels along the U.S. gulf and southeastern coastlines since about 2010, raising new questions about w\u2026 [+11522 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Bill Hutchinson, Kiara Alfonseca",
+            "title": "Fate of 8 Ohio cops in question as grand jury probes Jayland Walker shooting - ABC News",
+            "description": "Walker was shot 46 times following a traffic stop and chase.",
+            "url": "https://abcnews.go.com/US/fate-8-ohio-cops-question-grand-jury-probes/story?id=98403532",
+            "urlToImage": "https://s.abcnews.com/images/US/akron-ohio-jayland-walker-gty-lv-230409-1_1681058626038_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-04-10T09:05:49Z",
+            "content": "A special grand jury will be seated Monday to decide whether to indict any of the eight Akron, Ohio, police officers involved in the death of Jayland Walker, a 25-year-old Black man who was shot more\u2026 [+6776 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mike Snider",
+            "title": "Check car recalls: Honda, Volkswagen, Kia recall 790,000 vehicles - USA TODAY",
+            "description": "Honda recalled more than 560,000 older CR-Vs for possible corrosion issues; Volkswagen said 143,000 Atlas SUVs could have deactivated air bags.",
+            "url": "https://www.usatoday.com/story/money/cars/2023/04/10/car-recalls-honda-volkswagen-kia/11627269002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/08/USAT/aaaef7ee-8243-452c-8f4b-0e43f0e89f23-Bxx_1_test__drive_06.jpeg?crop=2999,1687,x0,y152&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2023-04-10T09:00:34Z",
+            "content": "The latest round of vehicle recalls posted in the last week by the U.S. National Highway Traffic Administration includes potentially corroded SUV frames, possibly deactivated front passenger air bags\u2026 [+6312 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jasmine Wright",
-            "title": "HHS secretary says 'everything is on the table' in response to medication abortion ruling - CNN",
-            "description": "Health and Human Services Secretary Xavier Becerra on Sunday said \"everything is on the table\" following a Texas federal judge's ruling to suspend the Food and Drug Administration's approval of the medication abortion drug mifepristone.",
-            "url": "https://www.cnn.com/2023/04/09/politics/xavier-becerra-abortion-mifespristone-ruling-cnntv/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230409102511-xavier-becerra-sotu-0409.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-09T23:21:00Z",
-            "content": "Health and Human Services Secretary Xavier Becerra on Sunday said everything is on the table following a Texas federal judges ruling to suspend the Food and Drug Administrations approval of the medic\u2026 [+4991 chars]"
+            "author": "Amy Woodyatt",
+            "title": "Hilary Swank has given birth to twins - CNN",
+            "description": "Actress HIlary Swank has welcomed twins with her husband Philip Schneider.",
+            "url": "https://www.cnn.com/2023/04/10/entertainment/hilary-swank-twins-intl-scli/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230410090424-hilary-swank-birth-011023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-10T08:53:00Z",
+            "content": "Actress HIlary Swank has welcomed twins with her husband Philip Schneider.\r\nIt wasnt easy. But boy (and girl!) was it worth it, she posted to Instagram Monday, alongside a picture of her standing in \u2026 [+1129 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "Intel leak: US believes Israel can be pressured to supply \u2018lethal\u2019 arms to Ukraine - The Times of Israel",
+            "description": "Documents reported by US media say Washington thinks Jerusalem can be convinced to let third parties supply Kyiv with weapons including surface-to-air and anti-tank missiles",
+            "url": "https://www.timesofisrael.com/intel-leak-us-believes-israel-can-be-pressured-to-supply-lethal-arms-to-ukraine/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2021/10/IMG-20211005-WA0003-e1633432678964-1024x640.jpg",
+            "publishedAt": "2023-04-10T08:06:12Z",
+            "content": "The US believes Israel can be pressured or persuaded into changing its stance on Ukraine and providing Kyiv with \u201clethal aid,\u201d according to a leaked Pentagon document seen by American media outlets.\r\u2026 [+6715 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PhoneArena"
+            },
+            "author": null,
+            "title": "iPhone 15 Pro: Leak shows Apple enters new design era with all-screen look - PhoneArena",
+            "description": "PhoneArena is the premium website for new phone information such as full specifications, in-depth reviews, latest news, carrier available and upcoming phones. It features advanced phone filter, visual size comparison and 360 degree views of all hot phones.",
+            "url": "https://www.phonearena.com/",
+            "urlToImage": "https://s-cdn.phonearena.com/images/logo/phonearena-logo-light-blue-on-dark-blue.png",
+            "publishedAt": "2023-04-10T07:57:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Elizabeth Pritchett",
+            "title": "Remote workers became younger, better educated, more likely to move during pandemic: survey - Fox Business",
+            "description": "From 2019 to 2021, the share of remote employees in the workforce became younger, better educated and more likely to move to a different city, according to the U.S. Census Bureau.",
+            "url": "https://www.foxbusiness.com/lifestyle/remote-workers-younger-better-educated-more-likely-move-during-pandemic-survey",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/02/0/0/woman-on-computer-working.jpg?ve=1&tl=1",
+            "publishedAt": "2023-04-10T07:30:49Z",
+            "content": "A recent survey by the U.S. Census Bureau showed that people working from home from 2019 to 2021 became younger, better educated and more likely to move during the worst part of the COVID-19 pandemic\u2026 [+3239 chars]"
         },
         {
             "source": {
@@ -151,116 +216,51 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Odell Beckham Jr. joins Ravens: Star WR agrees to one-year deal worth up to $18 million - CBS Sports",
-            "description": "Baltimore lands OBJ with a massive deal that could help 'square things' with Lamar Jackson",
-            "url": "https://www.cbssports.com/nfl/news/odell-beckham-jr-joins-ravens-star-wr-agrees-to-one-year-deal-worth-up-to-18-million/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/06/024fa4c6-9b5c-4c99-b0f9-d15218c26c9c/thumbnail/1200x675/a6346e4da32fb6973e8611f58762a4b2/usatsi-odell-beckham-rams.jpg",
-            "publishedAt": "2023-04-09T23:06:00Z",
-            "content": "The Baltimore Ravens reportedly offered star wideout Odell Beckham Jr. a contract last week, and it appears he was impressed with the figures. The Ravens announced OBJ has agreed to sign a\u00a0one-year d\u2026 [+2216 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Katherine Greifeld, Liz McCormick",
-            "title": "Bond Market Flashes US Recession Warning While Other Investors Call False Alarm - Bloomberg",
-            "description": "Trading in other major markets suggests a painful economic downturn isn\u2019t as set in stone as Treasury\u00a0investors think",
-            "url": "https://www.bloomberg.com/news/articles/2023-04-09/bond-market-flashes-us-recession-warning-while-other-investors-call-false-alarm",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieZ868.SoqnM/v1/1200x675.jpg",
-            "publishedAt": "2023-04-09T23:00:35Z",
-            "content": "When banks started going belly-up, the reaction in bonds was emphatic. Two-year Treasury yields slid a percentage point over three days in March, the most since 1982.\r\nFor traders accustomed to treat\u2026 [+185 chars]"
+            "title": "Rudy Gobert punches teammate Kyle Anderson during a timeout, gets sent home mid-game by Timberwolves - CBS Sports",
+            "description": "It's unclear if Gobert will be available for the team's Play-In Tournament game vs. the Lakers",
+            "url": "https://www.cbssports.com/nba/news/rudy-gobert-punches-teammate-kyle-anderson-during-a-timeout-gets-sent-home-mid-game-by-timberwolves/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/09/58e4b8ce-19e9-454f-81d2-54a2bdc38af5/thumbnail/1200x675/d02de9f01da6d55b1c6c08652dd5c9f0/untitled-design-2023-04-09t154953-937.png",
+            "publishedAt": "2023-04-10T07:02:00Z",
+            "content": "Minnesota Timberwolves center Rudy Gobert was sent home by the team after throwing a punch at teammate Kyle Anderson during a timeout in the second quarter of their vital 113-108 win over the New Orl\u2026 [+3036 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Kitco NEWS"
+                "name": "Notebookcheck.net"
             },
-            "author": "http://www.facebook.com/kitconews",
-            "title": "Trading gold closed Friday, but market participants await the jobs report - Kitco NEWS",
-            "description": "Exclusive to Kitco News, technical analyst Gary Wagner provides a daily recap of what happened in the gold market, highlighting important events that captured investors' attention during the U.S. trading session. Wagner's commentary features a mix of fundamen\u2026",
-            "url": "https://www.kitco.com/commentaries/2023-04-09/Trading-gold-closed-Friday-but-market-participants-await-the-jobs-report.html",
-            "urlToImage": "https://www.kitco.com/commentaries/2023-04-09/images/Chart_23-04-06_12-03-42t.gif",
-            "publishedAt": "2023-04-09T22:34:00Z",
-            "content": "Although trading in the futures markets for precious metals, energies, grains, and other commodities is closed for trading tomorrow in honor of \u201cGood Friday\u201d, in this case, the government never rests\u2026 [+2202 chars]"
+            "author": "Anil Ganti",
+            "title": "Galaxy Z Tab: Samsung's foldable tablet rumoured to debut with the Tab S9 - Notebookcheck.net",
+            "description": "Samsung will supposedly launch its first-ever foldable tablet called the Galaxy Z Tab alongside the Galaxy Tab S9 series. Whether or not it is the tri-folding tablet Samsung showed off earlier remains to be seen.",
+            "url": "https://www.notebookcheck.net/Galaxy-Z-Tab-Samsung-s-foldable-tablet-rumoured-to-debut-with-the-Tab-S9.706461.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Samsung_galaxy_tri_fold.jpg",
+            "publishedAt": "2023-04-10T05:26:20Z",
+            "content": "Samsung's upcoming Galaxy Unpacked event in August is shaping up to be stacked with high-profile launches such as the Galaxy Z Fold5, Galaxy Z Flip5, Galaxy Tab S9 series and, if some rumours are tru\u2026 [+1078 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Des Bieler",
+            "title": "Oneil Cruz breaks ankle in Pirates-White Sox home plate collision - The Washington Post",
+            "description": "Pittsburgh teammates took exception to how White Sox catcher Seby Zavala barked at Cruz for the hard slide as the young shortstop was writhing in pain.",
+            "url": "https://www.washingtonpost.com/sports/2023/04/09/oneil-cruz-ankle-injury-pirates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LAPVYXYJDRMQI43ZQ3YWPVLRKY_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-04-10T04:12:05Z",
+            "content": "Comment on this story\r\nComment\r\nThat Oneil Cruzs unsuccessful slide into home plate Sunday led to a benches-clearing incident quickly turned into the least of the Pittsburgh Pirates concerns.\r\nWhile \u2026 [+3351 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Athletic"
+                "name": "ESPN"
             },
-            "author": "Eric Koreen, Marcus Thompson II, Darnell Mayberry, William Guillory, Joe Vardon, John Hollinger, Law Murray",
-            "title": "Full NBA playoff bracket set: What to expect from Play-In games, First Round matchups - The Athletic",
-            "description": "The Play-In Tournament games will begin Tuesday and be completed Friday.",
-            "url": "https://theathletic.com/4395110/2023/04/09/full-nba-playoff-bracket-play-in-tournament/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/04/09151912/GettyImages-1251147145-1024x819.jpg",
-            "publishedAt": "2023-04-09T22:29:53Z",
-            "content": "The full 2023 NBA playoff field is set following Sundays slate of games. Heres what you need to know:\r\n<ul><li>In the Western Conference, the Clippers clinched the No. 5 seed with their win over the \u2026 [+8065 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Tonight"
-            },
-            "author": "Leah Sarnoff",
-            "title": "Taylor Swift May Have Hinted at Joe Alwyn Breakup During Eras Tour - Entertainment Tonight",
-            "description": "ET exclusively revealed Swift and Alwyn's breakup on Saturday.",
-            "url": "https://www.etonline.com/taylor-swift-may-have-hinted-at-joe-alwyn-breakup-during-eras-tour-202415",
-            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-04/image%20%283%29.png?h=739905c9&itok=J3Y39V0s",
-            "publishedAt": "2023-04-09T22:17:34Z",
-            "content": "As the world reacts to Taylor Swift and Joe Alwyn's breakup after six years of dating, eagle-eyed fans question if the songstress hinted at the split in her Eras Tour setlist.\u00a0\r\nOn Saturday, ET exclu\u2026 [+1974 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "VOA News"
-            },
-            "author": "VOA Learning English",
-            "title": "NASA Announces Moon Mission Astronauts - VOA Learning English",
-            "description": "The American space agency NASA has chosen its astronaut crew to carry out a planned test mission around the moon next year.",
-            "url": "https://learningenglish.voanews.com/a/nasa-announces-moon-mission-astronauts/7040276.html",
-            "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-3f2b-08db3709bbe4_cx0_cy1_cw0_w1200_r1.png",
-            "publishedAt": "2023-04-09T22:01:12Z",
-            "content": "The American space agency NASA has chosen the astronaut crew that will carry out a planned test mission around the moon next year.\r\nThe trip is part of NASAs Artemis program, which aims to land the n\u2026 [+3728 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Teddy Grant",
-            "title": "2 police officers, suspect killed during shootout in Wisconsin - ABC News",
-            "description": "The names of the officers and the suspect have not been released.",
-            "url": "https://abcnews.go.com/US/2-police-officers-suspect-killed-shootout-wisconsin/story?id=98461326",
-            "urlToImage": "https://s.abcnews.com/images/US/wisconsin-police-ht-lv-230409-2_1681074482189_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-04-09T21:33:45Z",
-            "content": "Two Wisconsin police officers were killed on Saturday following a shootout with a suspect during a traffic stop in Cameron, according to the Wisconsin Department of Justice Division of Criminal Inves\u2026 [+2176 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Andrea Vacchiano",
-            "title": "Los Angeles suspect throws puppy out of moving car during police chase - Fox News",
-            "description": "An 8-week-old mixed-breed puppy was thrown in a Michael Kors bag and tossed onto the street during a police chase in Los Angeles on Friday, culminating in three arrests, the LAPD said.",
-            "url": "https://www.foxnews.com/us/los-angeles-suspect-throws-puppy-out-moving-car-police-chase",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/puppyrescue1.jpg",
-            "publishedAt": "2023-04-09T21:08:00Z",
-            "content": "A puppy that was thrown out of a moving car during a police chase in Los Angeles on Friday has been safely recovered, police say.\r\nThe pursuit began in South Los Angeles at around noon on Friday and \u2026 [+1494 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Jon Brown",
-            "title": "Woman with tuberculosis faces jail and forced treatment after she refused isolation and visited a casino - Fox News",
-            "description": "An unidentified woman in Washington state who was diagnosed with tuberculosis was found in contempt of court after refusing to isolate and pursue treatment despite warnings.",
-            "url": "https://www.foxnews.com/us/woman-with-tuberculosis-faces-jail-and-forced-treatment-after-refusing-medication-isolation",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/TB1.jpg",
-            "publishedAt": "2023-04-09T20:54:00Z",
-            "content": "A woman in Washington state who was diagnosed with tuberculosis was found in contempt of court Friday after she allegedly refused to pursue treatment and took a public bus to a casino rather than iso\u2026 [+2237 chars]"
+            "author": null,
+            "title": "NBA playoffs 2023 - The stars, stats and storylines that matter most this postseason - ESPN",
+            "description": "The NBA postseason begins Tuesday! Here's everything you need to know about the 20 teams still fighting for the title.\ufeff",
+            "url": "https://www.espn.com/nba/story/_/id/36127383/nba-playoffs-2023-stars-stats-storylines-matter-most-postseason",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0407%2Fnba_playoff_preview_noglow_cr_16x9.jpg",
+            "publishedAt": "2023-04-10T04:05:01Z",
+            "content": "The NBA postseason is here, with 20 teams still fighting for the 2022-23 title.\r\nAnd after a campaign of blockbuster trades, record scoring numbers, the end of a historic playoff drought and a wild r\u2026 [+46761 chars]"
         }
     ]
 }
