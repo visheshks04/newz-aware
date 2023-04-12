@@ -1,58 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "Indiana Fever select Aliyah Boston with the No. 1 pick in the WNBA Draft | WNBA on ESPN - ESPN",
-            "description": "Watch as South Carolina's Aliyah Boston is selected with the No. 1 pick in the WNBA Draft by the Indiana Fever.\u2714\ufe0fSubscribe to ESPN+ http://espnplus.com/youtu...",
-            "url": "https://www.youtube.com/watch?v=Fcyu1qSUi8s",
-            "urlToImage": "https://i.ytimg.com/vi/Fcyu1qSUi8s/maxresdefault.jpg",
-            "publishedAt": "2023-04-10T23:18:36Z",
-            "content": null
+            "author": "Elizabeth Wolfe, Laura Ly",
+            "title": "As Louisville police investigate what led up to bank shooting that left 5 dead, several victims remain hospitalized - CNN",
+            "description": "As Louisville investigators piece together what led up to a mass shooting inside a downtown bank that left five people dead, several victims remain hospitalized, including a police officer in critical condition after a shootout with the 25-year-old gunman.",
+            "url": "https://www.cnn.com/2023/04/11/us/louisville-kentucky-bank-shooting-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230411111053-kentucky-shooting-police-0410.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-11T11:34:00Z",
+            "content": "As Louisville investigators piece together what led up to a mass shooting inside a downtown bank that left five people dead, several victims remain hospitalized, including a police officer in critica\u2026 [+7737 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Tom Krisher",
-            "title": "AP sources: EPA car rule to push huge increase in EV sales - The Associated Press",
-            "description": "WASHINGTON (AP) \u2014 The Biden administration will propose strict new automobile pollution limits this week that would require at least 54% of new vehicles sold in the U.S. to be electric by 2030 and as many as two of every three by 2032, according to industry a\u2026",
-            "url": "https://apnews.com/article/biden-electric-vehicles-epa-tailpipe-emissions-31bf8104f44d81b988249483f1a79117",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/9db75f1456d546df90d04a57b0b6ea9a/3000.webp",
-            "publishedAt": "2023-04-10T23:05:43Z",
-            "content": "WASHINGTON (AP) The Biden administration will propose strict new automobile pollution limits this week that would require at least 54% of new vehicles sold in the U.S. to be electric by 2030 and as m\u2026 [+5490 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Terry Collins",
-            "title": "Lori Vallow Daybell murder trial: Idaho mom used 'money, power and sex' - USA TODAY",
-            "description": "Prosecutors claim in murder trial of Lori Vallow Daybell, accused of killing her two kids, that she used \"money, power, and sex,\" to her advantage.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/04/10/lori-vallow-daybell-idaho-mom-murder-trial-opening/11601653002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2020/06/10/USAT/ec9cee8a-7c75-4bfb-929a-04a857070ee7-VPC_LORI_VALLOW_BONES_UPDATE_DESK_THUMB.jpg?crop=1911,1075,x4,y0&width=1911&height=1075&format=pjpg&auto=webp",
-            "publishedAt": "2023-04-10T23:03:45Z",
-            "content": "In a murder trial that's captivated the country, prosecutors said Monday\u00a0that\u00a0Lori Vallow Daybell, the Idaho mother\u00a0accused of killing her two youngest children and her husband's late wife, was deter\u2026 [+7826 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Angie Orellana Hernandez",
-            "title": "Juli\u00e1n Figueroa, Singer-Songwriter and Telenovela Actor, Dead at 27 - E! NEWS",
-            "description": "Juli\u00e1n Figueroa, the son of Maribel Guardia and the late Joan Sebasti\u00e1n, died over the weekend at age 27, his mom wrote on Instagram. He was found in his Mexico City home.",
-            "url": "https://www.eonline.com/news/1370963/julian-figueroa-singer-songwriter-and-telenovela-actor-dead-at-27",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023310/rs_1200x1200-230410141101-Julian-Figueroa.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-04-10T22:53:00Z",
-            "content": "The telenovela community\u00a0is mourning the loss of a star.\r\nJuli\u00e1n Figueroa, the son of telenovela actress\u00a0Maribel Guardia and late Mexican singer Joan Sebasti\u00e1n, died over the weekend,\u00a0his mom shared \u2026 [+926 chars]"
+            "author": "Fredreka Schouten, Marshall Cohen",
+            "title": "GOP distrust in voting machines persists as Dominion and Fox News head to legal showdown - CNN",
+            "description": "The decision by a majority of supervisors in this deeply conservative California County to end a contract with Dominion Voting Systems illustrates how the attacks against the company continue to reverberate more than two years after the 2020 election. Dominio\u2026",
+            "url": "https://www.cnn.com/2023/04/11/politics/dominion-fox-news-voting-machines/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230410120755-01-dominion-voting-shasta-county-fox-news.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-11T11:10:00Z",
+            "content": "First, the Shasta County Board of Supervisors in rural northern California voted to cancel its contract with Dominion Voting Systems, citing public distrust of the companys machines.\r\nThen, the super\u2026 [+10058 chars]"
         },
         {
             "source": {
@@ -60,207 +34,233 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Ukraine battles rage, Kyiv reported to rethink counter-offensive after leak - Reuters",
-            "description": "Russian forces pressed attacks on frontline cities in eastern Ukraine on Monday, while Ukrainian officials played down a report that Kyiv is <a href=\"/world/europe/ukraine-alters-counter-offensive-plans-after-document-leak-cnn-2023-04-10/\">amending some plans\u2026",
-            "url": "https://www.reuters.com/world/russian-forces-step-up-strikes-two-key-ukrainian-cities-2023-04-10/",
-            "urlToImage": "https://www.reuters.com/resizer/y7W0DfR6ukWFiRmvmX8XzHfZxGE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/32SPVO2BFFLFPGIMZ55ZVZUKCY.jpg",
-            "publishedAt": "2023-04-10T21:47:00Z",
-            "content": "KYIV, April 10 (Reuters) - Russian forces pressed attacks on frontline cities in eastern Ukraine on Monday, while Ukrainian officials played down a report that Kyiv is amending some plans for a count\u2026 [+5409 chars]"
+            "title": "World stocks cling to upbeat mood, dollar stalls - Reuters",
+            "description": "World stocks rallied on Tuesday as traders held onto hope that interest rates will soon peak and fall later this year, even if the latest U.S. jobs data supported the case for a May hike by the Federal Reserve.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-04-11/",
+            "urlToImage": "https://www.reuters.com/resizer/r6l1QAvuB7xOzr1YaYmlHPNkDVc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DNJC2SSNSZPO3A3UFD3JA4XX5E.jpg",
+            "publishedAt": "2023-04-11T11:10:00Z",
+            "content": "LONDON, April 11 (Reuters) - World stocks rallied on Tuesday as traders held onto hope that interest rates will soon peak and fall later this year, even if the latest U.S. jobs data supported the cas\u2026 [+4398 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Tennessean"
+                "name": "Entertainment Tonight"
             },
-            "author": ", The Tennessean",
-            "title": "Justin Jones rejoins TN legislature after Nashville Council vote - Tennessean",
-            "description": "Rep. Justin Jones, D-Nashville, returned to the Tennessee legislature thanks to a vote from Nashville's council after being expelled Thursday.",
-            "url": "https://www.tennessean.com/story/news/politics/2023/04/10/justin-jones-reinstated-following-expulsion-tennessee-house-representatives/70099905007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/10/PNAS/37c113c8-2966-48bf-849c-6939c924277d-t3_rally_016.jpg?auto=webp&crop=3599,2025,x0,y181&format=pjpg&width=1200",
-            "publishedAt": "2023-04-10T21:42:16Z",
-            "content": "<ul><li>Justin Jones became the first Tennessee House representative to be expelled for breaking decorum rules on April 6 for leading a chant for gun reform on the floor of the House chamber.</li><li\u2026 [+5470 chars]"
+            "author": "Rachel McRady",
+            "title": "Millie Bobby Brown Seemingly Announces Engagement to Boyfriend Jake Bongiovi - Entertainment Tonight",
+            "description": "The 19-year-old 'Stranger Things' star took to Instagram to flash her giant ring in what appears to be an engagement announcement.",
+            "url": "https://www.etonline.com/millie-bobby-brown-seemingly-announces-engagement-to-boyfriend-jake-bongiovi-202501",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-04/GettyImages-1397263608.jpg?h=827f73f4&itok=GbxEidPE",
+            "publishedAt": "2023-04-11T10:51:55Z",
+            "content": "Stranger things have happened! Millie Bobby Brown took to Instagram on Tuesday to seemingly announce her engagement to boyfriend Jake Bongiovi.\r\nThe 19-year-old Stranger Things star posted a sweet bl\u2026 [+1023 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Tampa Bay Times"
+                "name": "The Athletic"
             },
-            "author": "Lawrence Mower, Romy Ellenbogen",
-            "title": "Florida GOP lawmaker calls transgender speakers 'demons and imps,' apologizes - Tampa Bay Times",
-            "description": "\u201cThat\u2019s right, I called you demons and imps who come and parade before us and pretend that you are part of this world,\u201d said Rep. Webster Barnaby, R-Deltona.",
-            "url": "https://www.tampabay.com/news/florida-politics/2023/04/10/transgender-demon-imps-barnaby-bathroom-sex/",
-            "urlToImage": "https://www.tampabay.com/resizer/o8s53qbGleZyANpZ1O6uum3Nngg=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/E73QGTK4K5AXPGSDMAV4O3V4T4.jpg",
-            "publishedAt": "2023-04-10T21:11:05Z",
-            "content": "TALLAHASSEE A Republican member of the Florida House of Representatives called transgender Floridians demons and imps and compared them to mutants from another planet during a committee hearing on Mo\u2026 [+4438 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lauren Leffer",
-            "title": "Strep Throat Is Surging, Alongside an Antibiotic Shortage - Gizmodo",
-            "description": "The pandemic-era slowdown on strep infections has ended, but there hasn't been enough medicine to go around.",
-            "url": "https://gizmodo.com/strep-throat-cases-increase-antibiotics-shortage-cdc-1850319605",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/93d6ecf577111819fdd2e9b62b5c1ffe.jpg",
-            "publishedAt": "2023-04-10T20:48:00Z",
-            "content": "Covid-related precautions helped minimize the spread plenty of other communicable diseases. But now, those bugs are back, along with some new challenges. The CDC reports that strep A infections (a.k.\u2026 [+3742 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KTLA Los Angeles"
-            },
-            "author": "Iman Palm",
-            "title": "California stockpiles abortion drug Misoprostol in wake of Texas court ruling - KTLA Los Angeles",
-            "description": "California Gov. Gavin Newsom announced Monday that the state had secured an emergency stockpile of up to two million pills of Misoprostol, a widely-used abortion medication. The announcement comes after a federal judge in Texas on Friday halted FDA approval o\u2026",
-            "url": "https://ktla.com/news/california/california-stockpiles-abortion-medication-in-wake-of-texas-court-ruling/",
-            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/03/82b8a929449b4ec0a662fcbef1b696b1-e1675804073640.jpg?w=1280",
-            "publishedAt": "2023-04-10T20:41:03Z",
-            "content": "California Gov. Gavin Newsom announced Monday that the state had secured an emergency stockpile of up to two million pills of Misoprostol, a widely-used abortion medication.\r\nThe announcement comes a\u2026 [+2103 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Katie Campione",
-            "title": "\u2018Succession\u2019 Season 4\u2019s Shocking Third Episode Boasts New Series High Audience With 2.5M Viewers - Deadline",
-            "description": "Succession Season 4 has set another audience record with its stunning third episode. Sunday night\u2019s shocker of an episode reached 2.5M viewers across HBO Max and linear telecasts, setting a n\u2026",
-            "url": "https://deadline.com/2023/04/succession-season-4-episode-3-logan-roy-series-high-viewership-hbo-1235316608/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/04/fisher-stevens-kieran-culkin-jeremy-strong-sarah-snook.jpeg?w=1000",
-            "publishedAt": "2023-04-10T20:40:00Z",
-            "content": "Succession Season 4 has set another audience record with its stunning third episode.\r\nSunday night\u2019s shocker of an episode reached 2.5M viewers across HBO Max and linear telecasts, setting a new seri\u2026 [+1488 chars]"
+            "author": "Rob Schaefer",
+            "title": "NBA Play-In Tournament picks, odds for Hawks-Heat and Timberwolves-Lakers - The Athletic",
+            "description": "The NBA postseason starts with the Hawks taking on the Heat and the Lakers hosting the Timberwolves.",
+            "url": "https://theathletic.com/4398498/2023/04/11/nba-play-in-tournament-picks-odds-hawks-heat-timberwolves-lakers/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/04/10155106/GettyImages-1481053506-scaled-e1681156288344-1024x683.jpg",
+            "publishedAt": "2023-04-11T10:30:46Z",
+            "content": "The NBA postseason is here with the play-in games starting with two games. LeBron James Lakers and Jimmy Butlers Heat have the history and the stars to make postseason runs, but are stuck in the Play\u2026 [+5878 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jennifer Hansler",
-            "title": "US designates Wall Street Journal reporter Evan Gershkovich as wrongfully detained by Russia - CNN",
-            "description": "The US State Department on Monday officially designated Wall Street Journal reporter Evan Gershkovich as wrongfully detained by Russia.",
-            "url": "https://www.cnn.com/2023/04/10/politics/us-designates-evan-gershkovich-wrongfully-detained-russia/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230404132816-evan-gershkovich-wsj-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-10T20:33:00Z",
-            "content": "The US State Department on Monday officially designated Wall Street Journal reporter Evan Gershkovich as wrongfully detained by Russia. \r\nToday, Secretary Blinken made a determination that Evan Gersh\u2026 [+2923 chars]"
+            "author": "Thomas Schlachter",
+            "title": "Aliyah Boston selected as No. 1 pick by Indiana Fever in the 2023 WNBA Draft - CNN",
+            "description": "Following her stellar college career, Aliyah Boston was picked first by the Indiana Fever in the 2023 WNBA Draft.",
+            "url": "https://www.cnn.com/2023/04/11/sport/aliyah-boston-wnba-draft-indiana-fever-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230411100438-04-aliyah-boston-wnba-draft-indiana-fever.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-11T09:45:00Z",
+            "content": "Following her stellar college career, Aliyah Boston was picked first by the Indiana Fever in the 2023 WNBA Draft.\r\nThe 21-year-old starred throughout her time playing for the South Carolina Gamecocks\u2026 [+2702 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Joseph Ataman",
-            "title": "Six bodies found in Marseille building collapse - CNN",
-            "description": "Rescuers found two bodies in the rubble of a building that collapsed in an explosion in the southern French port city of Marseille on Sunday, according to the city's fire department.",
-            "url": "https://www.cnn.com/2023/04/09/europe/marseilles-france-building-collapse-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230409084840-03-marseille-france-building-collapse-0409.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-10T20:25:00Z",
-            "content": "Rescuers have found two more bodies in the rubble of a building that collapsed in an explosion in the southern French port city of Marseille on Sunday, bringing the total death toll to six.\r\nA violen\u2026 [+2501 chars]"
+            "author": "Deidre McPhillips",
+            "title": "Gun violence has affected most families in the US, new survey finds - CNN",
+            "description": "Worry and fear about gun violence are widespread in the United States, where most families have been affected by a gun-related incident, according to a new survey from the Kaiser Family Foundation.",
+            "url": "https://www.cnn.com/2023/04/11/health/gun-violence-widespread-impact-kff/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230410171605-gun-violence-widespread-impact-kff-042023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-11T09:33:00Z",
+            "content": "Worry and fear about gun violence are widespread in the United States, where most families have been affected by a gun-related incident, according to a new survey from the Kaiser Family Foundation. \r\u2026 [+2965 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/sarah-fielding-01",
+            "title": "Google Bard's new 'experiment updates' page lets you know what's new | Engadget - Engadget",
+            "description": "The 'experiment updates' page explains the what and why for each announced improvement..",
+            "url": "https://www.engadget.com/google-bards-new-experiment-updates-page-lets-you-know-whats-new-091039433.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/GzD2s5OjayTYOmSWIjU2GQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/1f60f730-c80a-11ed-b5e4-035524a36a2f.cf.jpg",
+            "publishedAt": "2023-04-11T09:13:06Z",
+            "content": "Google has called Bard an \"experimental conversational AI service\" since first announcing it earlier this year. The company says it's constantly tweaking its models, but without a central place to le\u2026 [+1337 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
+                "name": "INSIDER"
             },
-            "author": "Neuroscience News",
-            "title": "Mild COVID During Pregnancy Does Not Slow Brain Development in Babies - Neuroscience News",
-            "description": "Babies of mothers who contracted mild or asymptomatic COVID-19 during pregnancy showed similar brain development to those born of mothers who did not contract coronavirus during pregnancy.",
-            "url": "https://neurosciencenews.com/covid-brain-development-22974/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/04/covid-pregnancy-brain-development-neurosiencce-public.jpg",
-            "publishedAt": "2023-04-10T19:58:11Z",
-            "content": "Summary: Babies of mothers who contracted mild or asymptomatic COVID-19 during pregnancy showed similar brain development to those born of mothers who did not contract coronavirus during pregnancy.\r\n\u2026 [+7009 chars]"
+            "author": "Cheryl Teh",
+            "title": "Nick Cannon says it'd be 'amazing' to have a baby with Taylor Swift - Insider",
+            "description": "Cannon \u2014 who's fathered 12 kids with six women \u2014 joked that his \"Spidey senses\" were tingling when he heard Swift was newly single.",
+            "url": "https://www.insider.com/nick-cannon-taylor-swift-baby-2023-4",
+            "urlToImage": "https://i.insider.com/6435122cca216e001821004c?width=1200&format=jpeg",
+            "publishedAt": "2023-04-11T08:55:10Z",
+            "content": "Nick Cannon who has fathered 12 children with six different women says it would be \"amazing\" if he could have a baby with Taylor Swift.\u00a0\r\nWhen asked on \"The Howard Stern Show\" on April 10 if he would\u2026 [+1588 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rachel Pannett, Annabelle Timsit",
+            "title": "Russia-Ukraine war news: Intel leak reveals challenges of likely counteroffensive - The Washington Post",
+            "description": "A top Russian general said the Kremlin will ramp up air defenses near Finland, which recently joined NATO and doubled the alliance's land border with Russia.",
+            "url": "https://www.washingtonpost.com/world/2023/04/11/russia-ukraine-war-news/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5UC2CMALMQ2OEWGF6VR4ZBVF2A.jpg&w=1440",
+            "publishedAt": "2023-04-11T08:49:24Z",
+            "content": "U.S. government agencies are working together to assess the fallout from a stunning leak of Pentagon documents that appeared to reveal, among other information, sensitive U.S. intelligence about the \u2026 [+6239 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Daily Beast"
             },
-            "author": "",
-            "title": "Lamar Jackson recruited Odell Beckham Jr. to Ravens with understanding he'll likely be QB in 2023, per report - CBS Sports",
-            "description": "Jackson and OBJ were reportedly hanging out in Miami hours after the deal",
-            "url": "https://www.cbssports.com/nfl/news/lamar-jackson-recruited-odell-beckham-jr-to-ravens-with-understanding-hell-likely-be-qb-in-2023-per-report/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/10/bb3b3745-fa69-4aa9-8654-a3fe11774bfe/thumbnail/1200x675/03a4b1ac34ad4723efaa994862c14605/lamar-jackson-odell-beckham-getty.jpg",
-            "publishedAt": "2023-04-10T19:09:00Z",
-            "content": "Lamar Jackson and the Ravens haven't been on the best of terms this offseason, but the team's decision to signOdell Beckham Jr. on Sunday night might be the one thing that could help patch things up \u2026 [+3058 chars]"
+            "author": "Michael Daly",
+            "title": "GOP's Harebrained Plan to Expel Tennessee Lawmakers Has Officially Backfired - The Daily Beast",
+            "description": "Rep. Justin Jones made a pledge just after being booted from the Tennessee Assembly last week: \u201cSee you on Monday.\u201d He kept his promise.",
+            "url": "https://www.thedailybeast.com/gops-harebrained-plan-to-expel-tennessee-lawmakers-has-officially-backfired",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2170,w_3859,x_812,y_637/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1681185513/2023-04-10T215628Z_655338091_RC2XB0A53X3Z_RTRMADP_3_TENNESSEE-POLITICS-HOUSE_drl4ao",
+            "publishedAt": "2023-04-11T08:23:51Z",
+            "content": "Six black and red ribbons representing those who died in the March 27 mass shooting at the Covenant School in Tennessee were arrayed before the clerk when the Metro Nashville Council met in special s\u2026 [+9847 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "BBC News"
             },
-            "author": "Science X",
-            "title": "Study: Those who avoided COVID-19 precautions early in the pandemic are more likely to buy firearms - Phys.org",
-            "description": "People who avoid COVID-19 precautions to prevent illness are more likely to purchase firearms\u2014a pattern of behavior most common among moderate and conservative individuals, according to a Rutgers study.",
-            "url": "https://phys.org/news/2023-04-covid-precautions-early-pandemic-buy.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/gun.jpg",
-            "publishedAt": "2023-04-10T19:08:52Z",
-            "content": "People who avoid COVID-19 precautions to prevent illness are more likely to purchase firearmsa pattern of behavior most common among moderate and conservative individuals, according to a Rutgers stud\u2026 [+4775 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Pentagon leak shows S Korea torn on sending Ukraine weapons - BBC",
+            "description": "The document, seen by the BBC, reveals a conversation between high-level South Korean officials.",
+            "url": "https://www.bbc.com/news/world-asia-65236991",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B452/production/_129326164_123830b35c44bf0ec718453d92d36d4324f8e6de0_0_8192_54641000x667.jpg",
+            "publishedAt": "2023-04-11T08:02:48Z",
+            "content": "A leaked Pentagon document seen by the BBC reveals a sensitive conversation between high-level South Korean officials on whether to sell weapons that could be used in Ukraine.\r\nThe intercept targeted\u2026 [+4098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Moscow Times"
+            },
+            "author": "The Moscow Times",
+            "title": "5 Things the Leaked Pentagon Documents Reveal About Russia\u2019s Army - The Moscow Times",
+            "description": "The leaked classified U.S. documents that rocked Washington and its allies this week have provided a rare glimpse into the Defense Department\u2019s intelligence on Russia\u2019s offensive on Ukraine.",
+            "url": "https://www.themoscowtimes.com/2023/04/11/5-things-the-leaked-pentagon-documents-reveal-about-russias-army-a80773",
+            "urlToImage": "https://static.themoscowtimes.com/image/og/84/80773__8410f5796c947d0daa718457831f4198.jpg",
+            "publishedAt": "2023-04-11T07:41:46Z",
+            "content": "The leaked classified U.S. documents that rocked Washington and its allies this week have provided a rare glimpse into the Defense Department\u2019s intelligence on Russia\u2019s offensive on Ukraine.\r\nThe lea\u2026 [+1997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "ScienceAlert",
+            "title": "Scientists Just Used The Most Powerful Space Telescope Ever Built to Look at Uranus - ScienceAlert",
+            "description": null,
+            "url": "https://www.sciencealert.com/scientists-just-used-the-most-powerful-space-telescope-ever-built-to-look-at-uranus",
+            "urlToImage": null,
+            "publishedAt": "2023-04-11T07:26:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Credit Suisse job cuts must be frozen -bankers leader says - CNBC",
+            "description": "Credit Suisse and UBS must postpone any layoffs planned as part of their merger, the Swiss Bank Employees' Association said.",
+            "url": "https://www.cnbc.com/2023/04/11/credit-suisse-job-cuts-must-be-frozen-bankers-leader-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104120892-Credit_Suisse_UBS.jpg?v=1681196998&w=1920&h=1080",
+            "publishedAt": "2023-04-11T07:09:58Z",
+            "content": "Credit Suisse and UBS must freeze any job cuts planned as part of their emergency merger, the Swiss Bank Employees' Association (SBPV) said on Monday, in an open letter to the country's parliament.\r\n\u2026 [+2174 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jim Gomez",
+            "title": "US, Philippines hold largest war drills near disputed waters - The Associated Press",
+            "description": "MANILA, Philippines (AP) \u2014 American and Filipino forces on Tuesday launched their largest combat exercises in decades in the Philippines and its waters across the disputed South China Sea and the Taiwan Strait,  where Washington has repeatedly warned China ov\u2026",
+            "url": "https://apnews.com/article/us-philippines-military-exercises-60af099f1526c6fce180d217e97788ad",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0edfe762bed84c90a29c30feec989136/3000.webp",
+            "publishedAt": "2023-04-11T06:33:45Z",
+            "content": "MANILA, Philippines (AP) American and Filipino forces on Tuesday launched their largest combat exercises in decades in the Philippines and its waters across the disputed South China Sea and the Taiwa\u2026 [+4747 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Bradford Betz",
-            "title": "Virginia mom of 6-year-old who shot teacher charged in connection with the shooting - Fox News",
-            "description": "The mom of a 6-year-old Virginia boy who shot his teacher in January is being criminally charged in connection with the shooting, according to the Newport News Commonwealth's Attorney's Office.",
-            "url": "https://www.foxnews.com/us/virginia-mom-6-year-old-who-shot-teacher-charged-connection-shooting",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/School.jpg",
-            "publishedAt": "2023-04-10T19:04:00Z",
-            "content": "The Virginia mom of a 6-year-old charged with shooting his first-grade teacher earlier this year has been indicted by a grand jury in connection with the shooting, the Newport News Commonwealth's Att\u2026 [+2524 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Michael Peck",
-            "title": "Russia is using jets, some flown by Wagner, against Ukraine in Bakhmut - Business Insider",
-            "description": "Russia's \"airpower is kind of playing in the margins but looking for ways to push itself into the fight,\" an expert said in March.",
-            "url": "https://www.businessinsider.com/russia-uses-jets-flown-by-wagner-against-ukraine-in-bakhmut-2023-4",
-            "urlToImage": "https://i.insider.com/64303b603007470019fe1e42?width=1200&format=jpeg",
-            "publishedAt": "2023-04-10T18:37:00Z",
-            "content": "After months of struggling to capture the Ukrainian city of Bakhmut, Russian ground troops still haven't been able to wrest all of the city away from tenacious Ukrainian defenders.\r\nOne reason is lac\u2026 [+5334 chars]"
+            "author": "Emma Colton",
+            "title": "AI: It's already '2001' in space exploration as scientists unravel mysteries of deep space - Fox News",
+            "description": "Space exploration agencies and companies have used artificial intelligence to help aid their efforts to unravel the mysteries of deep space, reports show.",
+            "url": "https://www.foxnews.com/tech/ai-2001-space-exploration-scientists-unravel-mysteries-deep-space",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/nasa5.png",
+            "publishedAt": "2023-04-11T06:00:00Z",
+            "content": "Artificial intelligence is under a worldwide spotlight amid the proliferation of high-tech chatbots that can mimic human conversations. But long before ChatGPT hit the market, the space exploration i\u2026 [+5435 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Madeline Holcombe",
-            "title": "Weight loss may mean a risk of death for older adults, study shows - CNN",
-            "description": "Even healthy older adults may not want to see the number on the scale go down, according to a new study. Experts share why weight loss may put people over age 65 at risk.",
-            "url": "https://www.cnn.com/2023/04/10/health/weight-loss-older-adults-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230410141359-weight-loss-older-adults-wellness-042023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-10T18:37:00Z",
-            "content": "As much as people may celebrate their own weight loss, it is not always healthy.\r\nA new study shows that weight loss in older adults is associated with early death and life-limiting conditions. \r\nWei\u2026 [+3716 chars]"
+            "author": "Manveena Suri, Rhea Mogul, Tenzin Dharpo",
+            "title": "Dalai Lama apologizes after video asking child to 'suck' his tongue sparks outcry - CNN",
+            "description": "The Dalai Lama has apologized after a video emerged showing the spiritual leader kissing a child on the lips and then asking him to \"suck my tongue\" at an event in northern India.",
+            "url": "https://www.cnn.com/2023/04/10/india/dalai-lama-apology-kissing-boy-video-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230410133924-03-dalai-lama-apology-blur.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-11T05:27:00Z",
+            "content": "New Delhi and Dharamshala, IndiaCNN\r\n \u00a0\u2014\u00a0\r\nThe Dalai Lama has apologized after a video emerged showing the spiritual leader kissing a child on the lips and then asking him to suck my tongue at an eve\u2026 [+3472 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "WDIV ClickOnDetroit"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Kayla Clarke",
-            "title": "Rare fungal outbreak up to 93 likely cases among paper mill workers in Escanaba - WDIV ClickOnDetroit",
-            "description": "Health officials in Michigan\u2019s Upper Peninsula are investigating an outbreak of a rare fungal disease among more than 90 paper mill workers in Escanaba.",
-            "url": "https://www.clickondetroit.com/news/michigan/2023/04/10/rare-fungal-outbreak-up-to-93-likely-cases-among-paper-mill-workers-in-escanaba/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/HJUEMFHFLVF6DPM7SQFENAPWEA.jpg?_a=ATCqVhC0",
-            "publishedAt": "2023-04-10T18:34:02Z",
-            "content": "DELTA COUNTY, Mich. Health officials in Michigans Upper Peninsula are investigating an outbreak of a rare fungal disease among more than 90 paper mill workers in Escanaba.\r\nOn Feb. 28, 2023, the Publ\u2026 [+2397 chars]"
+            "author": "Michael S. Rosenwald",
+            "title": "Leon Levine, retail contrarian who founded Family Dollar, dies at 85 - The Washington Post",
+            "description": "Mr. Levine competed with malls and big-box discounters by focusing on lower-income neighborhoods in cities and rural areas.",
+            "url": "https://www.washingtonpost.com/obituaries/2023/04/10/leon-levine-family-dollar-dead/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D3VWW7WI5RE5KXUCDJ74ANUFZA.jpg&w=1440",
+            "publishedAt": "2023-04-11T04:08:00Z",
+            "content": "Leon Levine, a college dropout who in 1959 emptied his bank account of $3,000 to found Family Dollar, growing it from a single store in downtown Charlotte into one of the countrys most successful dis\u2026 [+5334 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "profootballrumors.com"
             },
             "author": null,
-            "title": "Michigan AG slams Texas abortion pill decision: 'We're not going to take this lying down' - MSNBC",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=jjbKIYIkZdc",
-            "urlToImage": null,
-            "publishedAt": "2023-04-10T17:45:01Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "title": "Kliff Kingsbury Expected To Join USC's Staff - profootballrumors.com",
+            "description": "Kliff Kingsbury had been linked to a potential season off, but the ex-Cardinals leader did interview for multiple NFL gigs. &hellip;",
+            "url": "https://www.profootballrumors.com/2023/04/kliff-kingsbury-expected-to-join-uscs-staff",
+            "urlToImage": "https://cdn.profootballrumors.com/files/2018/11/Kliff-Kingsbury-vertical-1024x823.jpg",
+            "publishedAt": "2023-04-11T04:00:00Z",
+            "content": "Kliff Kingsbury had been linked to a potential season off, but the ex-Cardinals leader did interview for multiple NFL gigs. Instead, the recently fired HC looks set to return to the college ranks.\r\nL\u2026 [+2745 chars]"
         }
     ]
 }
