@@ -1,97 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Variety"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Elsa Keslassy",
-            "title": "French Actor Gerard Depardieu Accused of Sexual Misconduct by 13 Women in Investigative Report - Variety",
-            "description": "French actor Gerard Depardieu, who\u2019s already indicted on rape and sexual assault charges in connection to a 2018 case, is now being accused of sexual misconduct by 13 women in an investigativ\u2026",
-            "url": "https://variety.com/2023/film/global/gerard-depardieu-sexual-misconduct-allegations-13-women-mediapart-1235580231/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/04/Collage-Maker-12-Apr-2023-10-48-AM-5176.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2023-04-12T09:50:00Z",
-            "content": "French actor Gerard Depardieu, who\u2019s already indicted on rape and sexual assault charges in connection to a 2018 case, is now being accused of sexual misconduct by 13 women in an investigative report\u2026 [+3068 chars]"
+            "author": "Al Jazeera",
+            "title": "North Korean missile prompts evacuation order in Japan - Al Jazeera English",
+            "description": "The Japanese government has since advised residents that the reported missile launch is no longer a threat.",
+            "url": "https://www.aljazeera.com/news/2023/4/12/north-korean-missile-prompts-evacuation-order-in-japan",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/04/2023-04-05T232802Z_857751036_RC2LXZ9WIDYU_RTRMADP_3_NORTHKOREA-MISSILES.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-04-12T23:48:45Z",
+            "content": "North Korea has launched a ballistic missile that landed in the waters between the Korean Peninsula and Japan, and prompted a brief evacuation order for residents of the northern Japanese island of H\u2026 [+1792 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Denitsa Tsekova",
-            "title": "Stocks Edge Up in Holding Pattern Before Inflation: Markets Wrap - Yahoo Finance",
-            "description": "(Bloomberg) -- Global stock trading was muted as investors awaited US inflation data that may shed light on the Federal Reserve\u2019s next policy move. Most Read...",
-            "url": "https://finance.yahoo.com/news/asian-stocks-poised-modest-gains-220154009.html",
-            "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/3e655411904c586d67f0b93bf89ac23f",
-            "publishedAt": "2023-04-12T09:45:48Z",
-            "content": "(Bloomberg) -- Global stock trading was muted as investors awaited US inflation data that may shed light on the Federal Reserves next policy move.\r\nMost Read from Bloomberg\r\nContracts on the S&amp;P \u2026 [+3669 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Kentucky bank shooting: Bodycam video shows police under fire - BBC",
-            "description": "One officer was hit in the head, while the other suffered a graze wound before killing the suspect.",
-            "url": "https://www.bbc.com/news/world-us-canada-65234314",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DBBD/production/_129335265_p0fg3jth.jpg",
-            "publishedAt": "2023-04-12T09:25:59Z",
-            "content": "Media caption, WATCH: Louisville police release footage of shooting response\r\nPolice in Louisville, Kentucky, have released bodycam footage of the fatal shootout between police and a banker who gunne\u2026 [+4259 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jacqueline Howard",
-            "title": "Biden administration declares fentanyl laced with xylazine 'an emerging threat' in the US - CNN",
-            "description": "The White House has declared that the powerful synthetic opioid fentanyl combined with xylazine -- an animal tranquilizer that's increasingly being used in illicit drugs -- is an \"emerging threat\" facing the United States due to its role in the ongoing opioid\u2026",
-            "url": "https://www.cnn.com/2023/04/12/health/fentanyl-xylazine-emerging-threat-us/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230307145416-philadelphia-xylazine-tranq-drug-reeve-pkg-00010604.png?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-12T09:02:00Z",
-            "content": "The White House has declared that the powerful synthetic opioid fentanyl combined with xylazine an animal tranquilizer thats increasingly being used in illicit drugs is an emerging threat facing the \u2026 [+7606 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nintendo Life"
-            },
-            "author": "Nintendo Life",
-            "title": "Mega Man Battle Network Legacy Collection Review (Switch) - Nintendo Life",
-            "description": "Jack in!! Mega Man, Execute!",
-            "url": "https://www.nintendolife.com/reviews/nintendo-switch/mega-man-battle-network-legacy-collection",
-            "urlToImage": "https://images.nintendolife.com/ac63e8e51f076/1280x720.jpg",
-            "publishedAt": "2023-04-12T09:00:00Z",
-            "content": "Captured on Nintendo Switch (Docked)\r\nIn the early 2000s, an ancient and long-forgotten era when Capcom regularly released new Mega Man games, the company decided to produce not one, but two mainline\u2026 [+11905 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Groundbreaking New Dark Matter Map Validates Einstein's Theory of General Relativity - SciTechDaily",
-            "description": "Research by the Atacama Cosmology Telescope collaboration has culminated in a significant breakthrough in understanding the evolution of the universe. For millennia, humans have been fascinated by the mysteries of the cosmos. Unlike ancient philosophers imagi\u2026",
-            "url": "https://scitechdaily.com/groundbreaking-new-dark-matter-map-validates-einsteins-theory-of-general-relativity/",
-            "urlToImage": "https://scitechdaily.com/images/ACT-Lensing-Map-scaled.jpg",
-            "publishedAt": "2023-04-12T08:29:55Z",
-            "content": "ByPrinceton UniversityApril 12, 2023\r\nResearchers used the Atacama Cosmology Telescope to create this new map of the dark matter. The orange regions show where there is more mass; purple where there \u2026 [+11689 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Myanmar military airstrike: More than 100 people feared dead - BBC",
-            "description": "Survivors told the BBC they had collected at least 80 bodies but expect the roll to rise further.",
-            "url": "https://www.bbc.com/news/world-asia-65238250",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12856/production/_129326857_gettyimages-1163603288.jpg",
-            "publishedAt": "2023-04-12T06:31:07Z",
-            "content": "More than 100 people are feared to have been killed in Tuesday's airstrike by the Myanmar military, one of the deadliest so far in the civil war. \r\nSurvivors told the BBC they have collected at least\u2026 [+3976 chars]"
+            "title": "Raw: Rep. Nancy Pelosi questions whether calls for Feinstein to resign are sexist - KPIX | CBS NEWS BAY AREA",
+            "description": "Rep. Nancy Pelosi weighs in on new calls by Democratic members of the House for Sen. Dianne Feinstein to step down (4-12-2023)",
+            "url": "https://www.youtube.com/watch?v=lVPbsKphzhI",
+            "urlToImage": "https://i.ytimg.com/vi/lVPbsKphzhI/hqdefault.jpg",
+            "publishedAt": "2023-04-12T23:44:32Z",
+            "content": null
         },
         {
             "source": {
@@ -99,129 +34,12 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "China records world's first human death from H3N8 bird flu, WHO says - Reuters.com",
-            "description": "A Chinese woman has become the first person to die from a type of bird flu that is rare in humans, the World Health Organisation (WHO) said, but the strain does not appear to spread between people.",
-            "url": "https://www.reuters.com/world/china/china-records-worlds-first-human-death-h3n8-bird-flu-who-2023-04-12/",
-            "urlToImage": "https://www.reuters.com/resizer/df19pQM8694bQ773Gq4FrKAgs8Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L57XFDIZ3FMHDAMJJZ6IVCFFRM.jpg",
-            "publishedAt": "2023-04-12T05:32:00Z",
-            "content": "BEIJING, April 12 (Reuters) - A Chinese woman has become the first person to die from a type of bird flu that is rare in humans, the World Health Organisation (WHO) said, but the strain does not appe\u2026 [+1663 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Michelle Bruton",
-            "title": "NBA Playoff Picture 2023: Updated East, West Bracket After Hawks, Lakers Advance - Bleacher Report",
-            "description": "With the conclusion of the Atlanta Hawks' play-in game against the Miami Heat on Tuesday, we are now just one game away from learning what the Eastern\u2026",
-            "url": "https://bleacherreport.com/articles/10072100-nba-playoff-picture-2023-updated-east-west-bracket-after-hawks-lakers-advance",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1681264694/kytpsnfjkjxsnm7wth8b.jpg",
-            "publishedAt": "2023-04-12T05:24:38Z",
-            "content": "Eric Espada/NBAE via Getty Images\r\nWith the conclusion of the Atlanta Hawks' play-in game against the Miami Heat on Tuesday, we are now just one game away from learning what the Eastern Conference br\u2026 [+2545 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Charu Sinha",
-            "title": "Tom Sandoval Talks about Scandoval on Howie Mandel's Podcast - Vulture",
-            "description": "Tom Sandoval appeared on Howie Mandel\u2019s podcast to discuss his breakup with Ariana Madix and affair with Raquel Leviss.",
-            "url": "http://www.vulture.com/2023/04/tom-sandoval-talks-about-scandoval-on-howie-mandels-podcast.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/7d7/67b/ce1d3e2f308a08296065c7ad55d5a01d3f-tom-sandoval.1x.rsocial.w1200.png",
-            "publishedAt": "2023-04-12T05:22:59Z",
-            "content": "The latest chapter of the ongoing Scandoval unfolded where one would least expect it should: on this weeks episode of Howie Mandels podcast. Tom Sandoval, looking appropriately somber to match his gr\u2026 [+1610 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": null,
-            "title": "Lakers outlast Timberwolves in OT to claim 7-seed in West - ESPN",
-            "description": "The Lakers claimed the seventh spot in the Western Conference playoffs with a grueling overtime victory over the short-handed Timberwolves in the NBA's play-in tournament Tuesday night.",
-            "url": "https://www.espn.com/nba/story/_/id/36165916/lakers-outlast-timberwolves-ot-claim-7-seed-west",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0412%2Fr1157474_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-04-12T05:10:41Z",
-            "content": "LOS ANGELES -- Nearly everything about this season has been a grueling challenge for the Los Angeles Lakers, so nobody in a gold jersey really seemed surprised when Anthony Davis committed a baffling\u2026 [+4512 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "2023 NFL Draft: Five AFC teams that must ace their picks, including the Bills and most of the AFC South - CBS Sports",
-            "description": "Buffalo may be talented, but it's one of five AFC teams that need to dominate the draft",
-            "url": "https://www.cbssports.com/nfl/news/2023-nfl-draft-five-afc-teams-that-must-ace-their-picks-including-the-bills-and-most-of-the-afc-south/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/11/8f6af8e4-c087-43af-bf4e-024e802ca400/thumbnail/1200x675/fceff5660f134a1740917f827efb2b85/bills2.jpg",
-            "publishedAt": "2023-04-12T05:05:00Z",
-            "content": "With the 2023 NFL Draft mere weeks away, all 32 teams are looking forward to another opportunity to add talented players to their team. Of course, different teams have different goals when it comes t\u2026 [+4636 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Matt Viser, Tyler Pager",
-            "title": "Biden in Belfast to mark Good Friday accord despite Irish tensions - The Washington Post",
-            "description": "Biden marks the 25th anniversary of the Good Friday Agreement \u2014 which has brought peace but not harmony \u2014 before traveling to Ireland to explore his own heritage.",
-            "url": "https://www.washingtonpost.com/politics/2023/04/12/biden-good-friday-northern-ireland/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-12-2023/t_e1d78c5df1cb42de9d6b7fc596a91c41_name_DXBHGDWY3MI63LV5H7JKYTCGBI.jpg&w=1440",
-            "publishedAt": "2023-04-12T05:03:35Z",
-            "content": "Comment on this story\r\nComment\r\nBELFAST President Biden launches a three-day tour Wednesday of political and personal landmarks with remarks here celebrating the 25th anniversary of the Good Friday A\u2026 [+6146 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Sara Smart, Nouran Salahieh",
-            "title": "Indiana recycling plant fire forces evacuation orders for thousands as it emits toxic smoke, officials say. And it could burn for days - CNN",
-            "description": "A fire that started Tuesday afternoon at a recycling plant in the eastern Indiana city of Richmond was emitting toxic smoke and has forced evacuation orders for about 2,000 people -- and it is expected to burn for days, officials said.",
-            "url": "https://www.cnn.com/2023/04/11/us/richmond-indiana-recycling-plant-fire/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230411203418-01-richmond-industrial-fire-042023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-12T05:02:00Z",
-            "content": "A fire that started Tuesday afternoon at a recycling plant in the eastern Indiana city of Richmond was emitting toxic smoke and has forced evacuation orders for about 2,000 people and it is expected \u2026 [+3540 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Celine Alkhaldi, Ehsan Popalzai",
-            "title": "UN tells Afghan staff to stay home after Taliban bans women from working with the organization - CNN",
-            "description": "The United Nations said it was being forced into making an \"appalling choice\" after instructing all of its personnel in Afghanistan to stay away from its offices in the country, following the Taliban's ban on female Afghan aid workers.",
-            "url": "https://www.cnn.com/2023/04/11/asia/afghanistan-un-female-staff-taliban-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230405213215-02-afghanistan-un-female-staff-taliban-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-12T03:50:00Z",
-            "content": "The United Nations said it was being forced into making an appalling choice after instructing all of its personnel in Afghanistan to stay away from its offices in the country, following the Talibans \u2026 [+2899 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Teddy Amenabar, Lindsey Bever",
-            "title": "Strep throat is back. Here's what to know. - The Washington Post",
-            "description": "We spoke to infectious-disease experts to answer common questions about strep, its symptoms and the antibiotic shortages affecting some parts of the country.",
-            "url": "https://www.washingtonpost.com/wellness/2023/04/11/strep-throat-antibiotics/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/23AJAUKZPESM3TBC7MJQD5ODPE.jpg&w=1440",
-            "publishedAt": "2023-04-12T02:35:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Allie Griffin",
-            "title": "Museum offering $25K to whoever finds meteorite that fell to Earth over Maine - New York Post ",
-            "description": "A meteorite that appeared as a \u201cfireball\u201d flying over Maine crashed down over the weekend and whoever finds the space rock could earn some major cash.",
-            "url": "https://nypost.com/2023/04/11/museum-offering-25k-to-whoever-finds-meteorite-that-crashed-down-in-maine/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009495380.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-04-12T02:19:00Z",
-            "content": "A treasure hunt truly out of this world. \r\nA meteorite that appeared as a \u201cfireball\u201d flying over Maine crashed down over the weekend and whoever finds the space rock could earn some major cash. \r\nThe\u2026 [+2335 chars]"
+            "title": "Warner Bros Discovery unveils revamped 'Max' in push for streaming growth - Reuters",
+            "description": "Warner Bros Discovery Inc <a href=\"https://www.reuters.com/companies/WBD.O\" target=\"_blank\">(WBD.O)</a> on Wednesday said it will launch on May 23 its long-awaited new streaming service, christened \"Max\", combining HBO Max's scripted entertainment with Discov\u2026",
+            "url": "https://www.reuters.com/business/media-telecom/warner-bros-discovery-unveils-its-revamped-max-streaming-service-2023-04-12/",
+            "urlToImage": "https://www.reuters.com/resizer/hnCitASVJUq5PcJQ65HyLpx-gSE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XM2V5GBEJ5MOPKB4GOPS5WHDEY.jpg",
+            "publishedAt": "2023-04-12T23:40:00Z",
+            "content": "BURBANK, Calif., April 12 - Warner Bros Discovery Inc (WBD.O) on Wednesday said it will launch on May 23 its long-awaited new streaming service, christened \"Max\", combining HBO Max's scripted enterta\u2026 [+4158 chars]"
         },
         {
             "source": {
@@ -233,8 +51,60 @@
             "description": "Comments by French President Emmanuel Macron <a href=\"/world/europe/macrons-aim-eu-unity-china-undone-by-trip-fallout-2023-04-11/\">on Taiwan</a> are puzzling, a senior Taiwanese politician said, wondering whether France's founding ideals of liberty, equality \u2026",
             "url": "https://www.reuters.com/world/asia-pacific/macron-comments-leave-senior-taiwanese-official-puzzled-2023-04-12/",
             "urlToImage": "https://www.reuters.com/resizer/z7H5ndvJNMuh53AmOif9nrrswaM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4WIPE7JAUVIU5HHT2XGJAAFXQA.jpg",
-            "publishedAt": "2023-04-12T02:13:00Z",
+            "publishedAt": "2023-04-12T23:39:00Z",
             "content": "TAIPEI, April 12 (Reuters) - Comments by French President Emmanuel Macron on Taiwan are puzzling, a senior Taiwanese politician said, wondering whether France's founding ideals of liberty, equality a\u2026 [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro",
+            "title": "\u2018Harry Potter\u2019 Series: Will J.K. Rowling Trans Controversy Impact Show? - Deadline",
+            "description": "Despite author J.K. Rowling coming under fire during the pandemic over her comments on transgender issues, Warner Bros has boldly stood by the Harry Potter and Wizarding World architect, in particu\u2026",
+            "url": "https://deadline.com/2023/04/harry-potter-max-series-j-k-rowling-trans-controversy-casey-bloys-1235323769/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/04/Casey-Bloys.jpg?w=1024",
+            "publishedAt": "2023-04-12T23:18:00Z",
+            "content": "Despite author J.K. Rowling coming under fire during the pandemic over her comments on transgender issues, Warner Bros has boldly stood by the Harry Potterand Wizarding World architect, in particular\u2026 [+2159 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrea Vacchiano",
+            "title": "Colorado high school remains closed after teacher dies of suspected meningitis - Fox News",
+            "description": "Eaglecrest High School in Aurora, Colorado will remain closed as public health officials investigate the deaths of two teachers, including one who has symptoms of meningitis.",
+            "url": "https://www.foxnews.com/us/colorado-high-school-remains-closed-teacher-dies-suspected-meningitis",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/eaglecresths1.jpg",
+            "publishedAt": "2023-04-12T22:47:00Z",
+            "content": "A Colorado high school remains closed \u00a0after two faculty members died over the weekend including one from symptoms of bacterial meningitis.\r\nEaglecrest High School in Aurora, Colorado, was closed Wed\u2026 [+1590 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi, Eric Levenson",
+            "title": "Louisville officials release 911 calls revealing new details about mass shooting at bank - CNN",
+            "description": "The mother of the shooter who killed five people at Old National Bank in Louisville, Kentucky, on Monday called 911 after hearing secondhand that her son had a gun and was heading toward the bank, according to 911 calls released by police Wednesday.",
+            "url": "https://www.cnn.com/2023/04/12/us/louisville-kentucky-bank-shooting-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230412120351-01-louisville-memorial.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-12T22:28:00Z",
+            "content": "The mother of the shooter who killed five people at Old National Bank in Louisville, Kentucky, on Monday called 911 after hearing secondhand that her son had a gun and was heading toward the bank, ac\u2026 [+8757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Justin Pearson becomes second expelled Tennessee lawmaker to be reinstated - BBC",
+            "description": "Justin Pearson returns to the Tennessee House of Representatives after his expulsion last week.",
+            "url": "https://www.bbc.com/news/world-us-canada-65258583",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/21CE/production/_129345680_44ba3cfeef0c198277af4e58a516b1f768db67602.jpg",
+            "publishedAt": "2023-04-12T22:02:03Z",
+            "content": "The second of two Tennessee lawmakers expelled from the state legislature after leading a gun control protest on the chamber floor has been reinstated.\r\nJustin Pearson, 29, got his seat back after a \u2026 [+2822 chars]"
         },
         {
             "source": {
@@ -242,25 +112,155 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "After pothole goes unrepaired, Arnold Schwarzenegger takes matter into his own hands - ABC7",
-            "description": "California's soaking wet winter may have brought the state out of drought but it left behind a big mess on the streets: Potholes. But did Schwarzenegger real...",
-            "url": "https://www.youtube.com/watch?v=DG5jFqdbrF0",
-            "urlToImage": "https://i.ytimg.com/vi/DG5jFqdbrF0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYChQMA8=&rs=AOn4CLBcv-wAgVKl2CZF8zTOVWvZRO6Obg",
-            "publishedAt": "2023-04-12T02:08:11Z",
+            "title": "Prince Harry to attend King Charles' coronation without Meghan - CBS News",
+            "description": "Buckingham Palace has confirmed that Prince Harry will attend the coronation of his father, King Charles, but Harry's wife Meghan Markle will not be in atten...",
+            "url": "https://www.youtube.com/watch?v=rC_7rLkyf6U",
+            "urlToImage": "https://i.ytimg.com/vi/rC_7rLkyf6U/maxresdefault.jpg",
+            "publishedAt": "2023-04-12T22:01:53Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Recession Fears Hit Market; Buffett's Concerns Slam These Stocks - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-slips-fed-sees-recession-warren-buffett-concerns-hit-these-stocks/",
+            "urlToImage": null,
+            "publishedAt": "2023-04-12T22:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NBA picks, best bets for Raptors-Bulls and Pelicans-Thunder: Take the under in the East; Pelicans in the West - CBS Sports",
+            "description": "Scoring may be in short supply in Toronto; Brandon Ingram should lead New Orleans",
+            "url": "https://www.cbssports.com/nba/news/nba-picks-best-bets-for-raptors-bulls-and-pelicans-thunder-take-the-under-in-the-east-pelicans-in-the-west/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/02/15/d0857f78-6c71-4765-9744-d11b7d9f622d/thumbnail/1200x675/8c90a437e3fbc1bf90f6f12d4d6f5bc9/untitled-design-2022-02-15t002817-999.png",
+            "publishedAt": "2023-04-12T21:54:00Z",
+            "content": "With the 2022-23\u00a0NBA\u00a0regular season now in the books, the basketball betting market is hotter than ever. CBS Sports will be providing daily picks for the duration of the postseason. Sam Quinn will ma\u2026 [+2367 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "John Timmer",
+            "title": "Chemical reactions on the early Earth may have formed its ocean - Ars Technica",
+            "description": "Conditions that favor water may be common in the formation of rocky planets.",
+            "url": "https://arstechnica.com/science/2023/04/applying-what-weve-learned-from-exoplanets-to-the-earths-formation/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/618486main_earth_full.jpg",
+            "publishedAt": "2023-04-12T21:37:04Z",
+            "content": "10 with \r\nWater has made the Earth the planet that it isa planet known for its blue oceans. Water shapes the land through erosion and is fundamental to Earth's ability to support life. But we have a \u2026 [+2931 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Liam Twomey, Dermot Corrigan, Mark Carey",
+            "title": "Real 2 Chelsea 0: Madrid in control, Lampard tactics backfire, dismal Joao Felix - The Athletic",
+            "description": "Real's control, Chelsea's lack of cohesion and Benzema's ruthlessness were all on display at the Bernabeu. We analyse the talking points",
+            "url": "https://theathletic.com/4405878/2023/04/12/real-madrid-chelsea-champions-league-analysis/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/04/12165321/GettyImages-1481747165-scaled-e1681332819845-1024x681.jpg",
+            "publishedAt": "2023-04-12T21:30:27Z",
+            "content": "Real Madrid have taken another sizeable step towards retaining their Champions League crown with a straightforward 2-0 win over Chelsea in their quarter-final first leg.\r\nA difficult task for Frank L\u2026 [+10420 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "Stephen Council",
+            "title": "Musk says he wants to turn Twitter's SF HQ into a homeless shelter - SFGATE",
+            "description": "Elon Musk told the BBC he wants to turn Twitter\u2019s San Francisco HQ into a homeless shelter and that he sleeps on a seventh floor couch.",
+            "url": "https://www.sfgate.com/tech/article/elon-musk-twitter-homeless-shelter-17893811.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/32/23/41/23672914/3/rawImage.jpg",
+            "publishedAt": "2023-04-12T21:29:54Z",
+            "content": "For years,\u00a0Elon Musk has made a point of sprawling himself across the internet weighing in on random events, tweeting himself into legal trouble and posting meme after meme after meme.On Tuesday, he \u2026 [+3724 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Nick Anderson, Susan Svrluga",
-            "title": "U.S. News & World Report lists top law, med schools after rankings revolt - The Washington Post",
-            "description": "Yale Law School, which led an exodus from the influential U.S. News & World Report college rankings last fall, remains in the top spot.",
-            "url": "https://www.washingtonpost.com/education/2023/04/11/us-news-rankings-2023-law-medical-schools/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJO6NYQTD4I6XISYMFFM6K4QNU.jpg&w=1440",
-            "publishedAt": "2023-04-12T01:10:00Z",
-            "content": "Comment on this story\r\nComment\r\nAfter months of intensifying criticism and revolts, U.S. News &amp; World Report on Tuesday teased changes in the way it ranks law and medical schools. But the shifts \u2026 [+5700 chars]"
+            "author": "Yvonne Wingett Sanchez",
+            "title": "Rep. Liz Harris expelled by Arizona legislature in bipartisan vote - The Washington Post",
+            "description": "The bipartisan vote in Arizona amounted to a rare moment in which Republicans held one of their own to account for false accusations related to elections.",
+            "url": "https://www.washingtonpost.com/politics/2023/04/12/arizona-legislators-expel-gop-member-over-baseless-election-claims/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRXALT3EB75L72RTCLEDWEVKPI_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-04-12T21:21:55Z",
+            "content": "Comment on this story\r\nComment\r\nPHOENIX The Republican-controlled Arizona House of Representatives expelled a GOP member from the chamber Wednesday after an ethics committee concluded she committed d\u2026 [+2575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Justin Baragona, Will Sommer",
+            "title": "Dominion Judge Sanctions Fox News for Withholding Key Evidence - The Daily Beast",
+            "description": "This latest pre-trial ruling comes just a day after a former Fox News producer said the network failed to provide audio recording of Trump allies to Dominion.",
+            "url": "https://www.thedailybeast.com/dominion-judge-to-appoint-special-master-to-decide-if-fox-news-withheld-key-evidence",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2827,w_5025,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1681322574/GettyImages-1131719162_1_bsdrqy",
+            "publishedAt": "2023-04-12T21:16:12Z",
+            "content": "Fox News suffered a harsh blow in the run-up to next weeks blockbuster trial as a Delaware judge overseeing Dominion Voting Systems defamation case against the right-wing network said he plans to app\u2026 [+4881 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Matt O'brien",
+            "title": "NPR quits Elon Musk's Twitter over 'government-funded' label - The Associated Press",
+            "description": "National Public Radio is quitting Twitter after the social media platform owned by Elon Musk  stamped NPR's account with labels the news organization says are intended to undermine its credibility.",
+            "url": "https://apnews.com/article/npr-quits-twitter-stateaffiliated-media-label-elon-musk-94afa8e82cdc4bfc784a70725c9a8839",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/3b9f175b4fa24de48985b53e17dc3025/3000.webp",
+            "publishedAt": "2023-04-12T20:26:15Z",
+            "content": "National Public Radio is quitting Twitter after the social media platform owned by Elon Musk stamped NPRs account with labels the news organization says are intended to undermine its credibility.\r\nTw\u2026 [+5568 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "China records world's first human death from H3N8 bird flu, WHO says - Reuters.com",
+            "description": "A Chinese woman has become the first person to die from a type of bird flu that is rare in humans, the World Health Organisation (WHO) said, but the strain does not appear to spread between people.",
+            "url": "https://www.reuters.com/world/china/china-records-worlds-first-human-death-h3n8-bird-flu-who-2023-04-12/",
+            "urlToImage": "https://www.reuters.com/resizer/df19pQM8694bQ773Gq4FrKAgs8Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L57XFDIZ3FMHDAMJJZ6IVCFFRM.jpg",
+            "publishedAt": "2023-04-12T19:24:00Z",
+            "content": "BEIJING, April 12 (Reuters) - A Chinese woman has become the first person to die from a type of bird flu that is rare in humans, the World Health Organisation (WHO) said, but the strain does not appe\u2026 [+1663 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PATRICK WHITTLE Associated Press",
+            "title": "Space race! Meteorites hit Maine, museum offers $25K reward - ABC News",
+            "description": "Somewhere in a remote stretch of forest near Maine\u2019s border with Canada, rocks from space crashed to Earth and may be scattered across the ground \u2014 just waiting to be picked up",
+            "url": "https://abcnews.go.com/US/wireStory/space-race-meteorites-hit-maine-museum-offers-25k-98533462",
+            "urlToImage": "https://s.abcnews.com/images/Weird/wirestory_534c945a8cfaa6d5a21b13066ffd43f2_16x9_992.jpg",
+            "publishedAt": "2023-04-12T19:18:45Z",
+            "content": "PORTLAND, Maine -- Somewhere in a remote stretch of forest near Maine's border with Canada, rocks from space crashed to Earth and may be scattered across the ground just waiting to be picked up.\r\nIf \u2026 [+2305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Tereza Pultarova",
+            "title": "Europe's JUICE mission has to squeeze into a 1-second launch window. Here's why. - Space.com",
+            "description": "JUICE needs the universe to align so that it can get to Jupiter with as little fuel as possible.",
+            "url": "https://www.space.com/jupiter-juice-mission-one-second-launch-window",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fJJtT34d22oWC8mAUZkGuW-1200-80.jpg",
+            "publishedAt": "2023-04-12T18:30:10Z",
+            "content": "Europe's upcoming Jupiter mission has only one second a day in which it can \u00a0launch and hit the correct trajectory that will take it to the gas giant planet in eight years' time. Fortunately, the mis\u2026 [+3741 chars]"
         }
     ]
 }
