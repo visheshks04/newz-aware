@@ -1,109 +1,18 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 33,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "Investor's Business Daily",
-            "title": "Dow Jones Futures Fall On Boeing; JPMorgan, Bank Earnings Due After Bullish Market Rally | Investor's Business Daily - Investor's Business Daily",
-            "description": null,
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jpmorgan-earnings-boeing-737-woes-tesla-cuts-prices/",
-            "urlToImage": null,
-            "publishedAt": "2023-04-14T10:24:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Emily Shapiro",
-            "title": "Drake Bell, former Nickelodeon star, found safe after being reported missing - ABC News",
-            "description": "The 36-year-old had been \"considered missing and endangered.\"",
-            "url": "https://abcnews.go.com/US/drake-bell-former-nickelodeon-star-reported-missing-florida/story?id=98558676",
-            "urlToImage": "https://s.abcnews.com/images/US/drake-bell-gty-ps-230413_1681399247166_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-04-14T09:33:07Z",
-            "content": "Authorities in Daytona Beach, Florida, said former Nickelodeon star Drake Bell was found safe on Thursday after police alerted the public hours earlier that the actor was \"considered missing and enda\u2026 [+689 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tampa Bay Times"
-            },
-            "author": "John Romano",
-            "title": "The Rays have a goofy dress code and a historic winning streak - Tampa Bay Times",
-            "description": "John Romano | The fun continued in the clubhouse on Thursday after Tampa Bay beat Boston for a record-tying 13th consecutive victory.",
-            "url": "https://www.tampabay.com/sports/rays/2023/04/13/brandon-lowe-jason-adam-kevin-kelly-taj-bradley/",
-            "urlToImage": "https://www.tampabay.com/resizer/rKVqEKWJQGeZXDxVQQQWtDgBBYk=/1200x675/filters:focal(1185x825:1195x815)/cloudfront-us-east-1.images.arcpublishing.com/tbt/VK5B4XZQCVAZ5CDOV4PL3GVIAM.JPG",
-            "publishedAt": "2023-04-14T09:19:39Z",
-            "content": "ST. PETERSBURG Whadda ya say now, America?\r\nReady to embrace this nameless and spotless baseball team from Tampa Bay? Ready to admit theres something special happening in a clubhouse where everyone h\u2026 [+5041 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Coronation Has Caused \u201cTension At Home\u201d For Prince Harry And Meghan Markle, Says Kinsey Schofield - TalkTV",
-            "description": "The Duke of Sussex is to attend his father the King\u2019s coronation, but the Duchess of Sussex will miss the historic occasion and stay in California with the c...",
-            "url": "https://www.youtube.com/watch?v=Q-N70giH0xA",
-            "urlToImage": "https://i.ytimg.com/vi/Q-N70giH0xA/maxresdefault.jpg",
-            "publishedAt": "2023-04-14T09:06:06Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Gustaf Kilander",
-            "title": "Louisville shooting - live: Gunman to be tested for CTE as panicked bank worker 911 calls revealed - The Independent",
-            "description": "Louisville shooting live updates",
-            "url": "https://www.independent.co.uk/news/world/americas/crime/louisville-shooting-tommy-elliott-shooter-mom-911-call-b2319672.html",
-            "urlToImage": "https://static.independent.co.uk/2023/04/11/09/Louisville%20shooting.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-04-14T08:00:00Z",
-            "content": "A list of recent high-profile shootings in the US\r\nThe latest high-profile shooting in the United States happened Monday in\r\nLouisville, \r\nKentucky, when at least four people were killed at a downtow\u2026 [+3403 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Europe presses tough Taiwan stance after backlash against Macron comments - Reuters",
-            "description": "European foreign policy officials on Friday urged China not to use force over Taiwan, taking a tough stance against Beijing's threats over the democratically governed island, after comments by French President Emmanuel Macron were perceived as weak.",
-            "url": "https://www.reuters.com/world/eu-cannot-trust-china-unless-it-seeks-peace-ukraine-borrell-2023-04-14/",
-            "urlToImage": "https://www.reuters.com/resizer/8JZJ93LblQeJzEmqrWS2vU5-pF8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FXR5SOEDRBK6ZEYFL4DYOTZAUA.jpg",
-            "publishedAt": "2023-04-14T07:50:00Z",
-            "content": "April 14 (Reuters) - European foreign policy officials on Friday urged China not to use force over Taiwan, taking a tough stance against Beijing's threats over the democratically governed island, aft\u2026 [+3937 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Hilary Whiteman",
-            "title": "Cyclone Ilsa sets a new wind record as it smashes into Australia's western coast - CNN",
-            "description": "Cyclone Ilsa smashed into a remote stretch of coast in Western Australia around midnight Thursday local time with wind speeds that broke previous records set more than 10 years ago in the same place.",
-            "url": "https://www.cnn.com/2023/04/13/australia/cyclone-ilsa-new-speed-record-australia-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230413142903-02-map-weather-0413.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-14T07:10:00Z",
-            "content": "Cyclone Ilsa smashed into a remote stretch of coast in Western Australia around midnight Thursday local time with wind speeds that broke previous records set more than 10 years ago in the same place.\u2026 [+4004 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Minecraft Legends Review - IGN",
-            "description": "Minecraft Legends Reviewed by Justin Koreis on Xbox Series X, also available on Xbox One, PlayStation, PC, and Nintendo Switch.This Minecraft spin-off is an ...",
-            "url": "https://www.youtube.com/watch?v=2DLiIKvFtrc",
-            "urlToImage": "https://i.ytimg.com/vi/2DLiIKvFtrc/maxresdefault.jpg",
-            "publishedAt": "2023-04-14T07:01:00Z",
+            "title": "Leaked Tears of the Kingdom Trailer Reveals New Area & Boss Fight Gameplay - IGN Daily Fix - IGN",
+            "description": "On today's Daily Fix:As if the final trailer dropping today wasn't enough, a new The Legend of Zelda: Tears of the Kingdom TV spot seems to have leaked on Re...",
+            "url": "https://www.youtube.com/watch?v=VJlIJvs9QKI",
+            "urlToImage": "https://i.ytimg.com/vi/VJlIJvs9QKI/maxresdefault.jpg",
+            "publishedAt": "2023-04-14T23:40:12Z",
             "content": null
         },
         {
@@ -112,64 +21,64 @@
                 "name": "ESPN"
             },
             "author": null,
-            "title": "Rudy Gobert Suggests He Probably Wasn't Healthy Enough To Play At Lakers, Status For Friday Uncertain - RealGM.com",
-            "description": null,
-            "url": "https://www.espn.com/nba/story/_/id/36181130/timberwolves-hobbled-rudy-gobert-put-punch-past",
-            "urlToImage": null,
-            "publishedAt": "2023-04-14T05:41:00Z",
-            "content": null
+            "title": "Cardinals safety Budda Baker requests trade, source says - ESPN",
+            "description": "Arizona Cardinals Pro Bowl safety Budda Baker has requested a trade, a source told ESPN's Adam Schefter on Friday.",
+            "url": "https://www.espn.com/nfl/story/_/id/36190303/cardinals-safety-budda-baker-requests-trade-source-says",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0118%2Fr962904_986x555_16%2D9.jpg",
+            "publishedAt": "2023-04-14T23:33:52Z",
+            "content": "Arizona Cardinals five-time Pro Bowl safety Budda Baker has requested a trade, a source told ESPN's Adam Schefter on Friday.\r\nBaker informed the Cardinals in February that he wanted to be traded or r\u2026 [+463 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Joy Addison",
-            "title": "NASA prepares to send 4 volunteers on a Mars mission, on Earth - Fox News",
-            "description": "NASA is taking volunteers from outside of their program to test life on Mars. Volunteers will eat, sleep and exercise within the habitat for one year as they would on the red planet.",
-            "url": "https://www.foxnews.com/us/nasa-prepares-send-4-volunteers-mars-mission-earth",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Mars-habitat2.jpg",
-            "publishedAt": "2023-04-14T05:17:00Z",
-            "content": "HOUSTON Although we cant yet send people to Mars NASA is getting in some practice.\r\nIn June, four volunteers from outside of NASA with backgrounds in science and engineering will start a mission on M\u2026 [+2737 chars]"
+            "author": "Bailey Schulz",
+            "title": "Head of Anheuser-Busch beer brands responds to Dylan Mulvaney backlash - USA TODAY",
+            "description": "Brendan Whitworth, CEO of Anheuser-Busch, said the company behind Bud Light would continue to \"bring great beers to consumers across our nation.\u201d",
+            "url": "https://www.usatoday.com/story/money/2023/04/14/bud-light-ceo-respond-to-dylan-mulvaney-backlash/11668052002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/14/USAT/a0565a97-a3d0-4111-aa1d-dfa0eb3b3bbe-bud_light.jpg?crop=5045,2838,x0,y256&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-04-14T23:26:15Z",
+            "content": "The head of Anheuser-Busch has responded to the uproar over the beer brands recent collaboration with a transgender social media influencer, noting that the company aims to bring people together over\u2026 [+2088 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kate Sullivan,Shania Shelton",
+            "title": "Mike Pompeo says he is not running for president in 2024 - CNN",
+            "description": "Former Secretary of State Mike Pompeo said Friday he is not running for president in 2024.",
+            "url": "https://www.cnn.com/2023/04/14/politics/mike-pompeo/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230414183114-mike-pompeo-032023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-14T23:26:00Z",
+            "content": "Former Secretary of State Mike Pompeo said Friday he is not running for president in 2024. \r\nThis isnt our moment, Pompeo said on Fox News. \r\nPompeo, who had been fueling speculation about a potentia\u2026 [+2735 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Allie Griffin",
-            "title": "Trump grilled for 7 hours in AG Letitia James' state fraud case - New York Post ",
-            "description": "A lawyer for Trump\u2019s business said the Republican presidential contender spent nearly all seven hours \u201cdescribing in detail his extraordinary business success.\u201d",
-            "url": "https://nypost.com/2023/04/14/trump-grilled-for-7-hours-in-ny-ag-letitia-james-fraud-case/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009594431.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-04-14T04:52:00Z",
-            "content": "Former President Donald Trump was grilled for nearly seven hours Thursday during his second deposition in the $250 million civil case brought against him by New York Attorney General Letitia James.\r\n\u2026 [+2325 chars]"
+            "author": "Andrew Court",
+            "title": "Ryan Seacrest's girlfriend makes rare appearance during his final 'Live' show - New York Post ",
+            "description": "Seacrest, 48, has been dating Aubrey Paige Petcosky, 25, for two years.",
+            "url": "https://nypost.com/2023/04/14/ryan-seacrests-girlfriend-makes-rare-appearance-during-his-final-live-show/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009624324.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-04-14T22:34:00Z",
+            "content": "Ryan Seacrest\u2019s girlfriend, Aubrey Paige Petcosky, made a rare appearance during the TV star\u2019s final episode of \u201cLive With Kelly and Ryan\u201d on Friday and there was even whisper of a wedding. \r\nPetcosk\u2026 [+3513 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "SportsLine"
             },
-            "author": "Kareem El Damanhoury,Joseph Ataman",
-            "title": "Iran executions up 75% as Tehran seeks to 'instill fear' in protesters, rights groups say - CNN",
-            "description": "Iran executed at least 582 people last year, a 75% increase on the previous year, according to human rights groups who say the rise reflects an effort by Tehran to \"instill fear\" among anti-regime protesters.",
-            "url": "https://www.cnn.com/2023/04/14/middleeast/iran-execution-report-2022-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221012102908-04-iran-protests-100822.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-14T04:37:00Z",
-            "content": "Iran executed at least 582 people last year, a 75% increase on the previous year, according to human rights groups who say the rise reflects an effort by Tehran to instill fear among anti-regime prot\u2026 [+3744 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Steve Contorno",
-            "title": "Florida Gov. DeSantis signs 6-week abortion ban - CNN",
-            "description": "Florida Gov. Ron DeSantis has signed a bill that would ban most abortions in the state after six weeks, according to a release from the governor's office late Thursday night.",
-            "url": "https://www.cnn.com/2023/04/13/politics/florida-abortion-ban/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230413143207-florida-abortion-ban-0413.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-14T03:58:00Z",
-            "content": "Florida Gov. Ron DeSantis has signed a bill that would ban most abortions in the state after six weeks, according to a release from the governors office late Thursday night.\r\nThe six-week ban would n\u2026 [+5111 chars]"
+            "author": null,
+            "title": "Bulls vs. Heat prediction, odds, line, start time: Advanced computer model releases NBA picks for Friday, April 14, play-in matchup - SportsLine",
+            "description": "The Miami Heat will look to avoid going 0-4 against the Chicago Bulls this season when the teams meet in an Eastern Conference play-in matchup in...",
+            "url": "https://www.sportsline.com/insiders/bulls-vs-heat-prediction-odds-line-start-time-advanced-computer-model-releases-nba-picks-for-friday-april-14-play-in-matchup/",
+            "urlToImage": "https://splnhub.cbsistatic.com/i/2023/04/14/accdec6a-6aff-4c6f-bdef-613c9c971d7a/demar-derozan-chicago-bulls-usatsi.jpg",
+            "publishedAt": "2023-04-14T22:04:00Z",
+            "content": "The Miami Heat will look to avoid going 0-4 against the Chicago Bulls this season when the teams meet in an Eastern Conference play-in matchup in Miami on Friday. The winner will then face the Milwau\u2026 [+2486 chars]"
         },
         {
             "source": {
@@ -177,90 +86,181 @@
                 "name": "Independent"
             },
             "author": "Gustaf Kilander",
-            "title": "Bob Lee murder \u2013 news: San Francisco DA slams Elon Musk as suspect arrested in Cash App founder stabbing - The Independent",
+            "title": "Bob Lee murder \u2013 news: Nima Momeni in court as Cash App founder\u2019s possible ties to suspected killer revealed - The Independent",
             "description": "What happened to the founder of Cash App?",
             "url": "https://www.independent.co.uk/news/world/americas/crime/cash-app-murder-arrest-bob-lee-nima-momeni-b2319590.html",
             "urlToImage": "https://static.independent.co.uk/2023/04/06/12/ben%20lee.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-04-14T03:56:15Z",
-            "content": "Sign up to our free US news bulletin sent straight to your inbox each weekday morning\r\nSign up to our free morning US email news bulletin\r\nTech executive Nima Momeni has been arrested in connection w\u2026 [+5050 chars]"
+            "publishedAt": "2023-04-14T22:00:54Z",
+            "content": "Sign up to our free US news bulletin sent straight to your inbox each weekday morning\r\nSign up to our free morning US email news bulletin\r\nCash app founder Bob Lee was allegedly stabbed following an \u2026 [+8917 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "SFGate"
             },
-            "author": null,
-            "title": "Guardsman arrested in leak of classified military documents - WGN News",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=R9EibnFCs6s",
+            "author": "Drew Magary",
+            "title": "What proposed EPA rules would mean for the electric car revolution - SFGATE",
+            "description": "SFGATE columnist Drew Magary interviews an expert about the Environmental Protection Agency's push to put more electric vehicles on the road.",
+            "url": "https://www.sfgate.com/news/article/epa-proposes-electric-car-rules-17898258.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/31/65/51/23550569/3/rawImage.jpg",
+            "publishedAt": "2023-04-14T21:57:19Z",
+            "content": "After spending four years living under a Donald Trump presidency, Im not used to the Environmental Protection Agency showing an actual interest in protecting the environment. That changed this week, \u2026 [+8892 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Apple TV 4K is getting multiview for sports streams - The Verge",
+            "description": "Apple TV 4K is getting a new multiview feature that lets you watch multiple sports streams at once, according to a report from TechCrunch. The feature is available within the tvOS 16.5 beta.",
+            "url": "https://www.theverge.com/2023/4/14/23683917/apple-tv-4k-multiview-sports-baseball-soccer",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/834lDJ8VFp0l_soOCtZpxPYJC30=/0x0:750x500/1200x628/filters:focal(375x250:376x251)/cdn.vox-cdn.com/uploads/chorus_asset/file/24209128/DSCF0260_2.jpeg",
+            "publishedAt": "2023-04-14T21:55:07Z",
+            "content": "Apple TV 4K is getting multiview for sports streams\r\nApple TV 4K is getting multiview for sports streams\r\n / The feature will let you view up to four sports streams at once, according to TechCrunch.\r\u2026 [+2004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "France pension reforms: Constitutional Council clears age rise to 64 - BBC",
+            "description": "The Constitutional Council backs the thrust of President Macron's reforms despite weeks of protests.",
+            "url": "https://www.bbc.com/news/world-europe-65279818",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CB08/production/_129367915_franceprotest.jpg",
+            "publishedAt": "2023-04-14T21:37:34Z",
+            "content": "Media caption, Watch: Macron's pension reforms 'violent' says Paris protester\r\nFrance's top constitutional body has cleared the Macron government's highly unpopular move to raise the state pension ag\u2026 [+4220 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Alexander Tin",
+            "title": "At least 1 dead, 96 sickened in fungal outbreak that shuttered Michigan paper mill - CBS News",
+            "description": "All cases are among workers, contractors or visitors of a paper and packaging materials plant in the Michigan town of Escanaba, which has now been temporarily shuttered.",
+            "url": "https://www.cbsnews.com/news/dozens-sickened-1-dead-fungal-outbreak-michigan-paper-mill/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2018/07/18/20bc1e3d-2485-42c6-8748-529557052d9a/thumbnail/1200x630/badb5b378f44bead5bc65a23486134ea/doctor.jpg",
+            "publishedAt": "2023-04-14T21:12:07Z",
+            "content": "At least one person has died, and 96 others have been sickened, in an outbreak of blastomycosis at a northwest Michigan paper mill, local health authorities confirmed Friday. Federal investigators ar\u2026 [+4236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Hampshire Public Radio"
+            },
+            "author": "Jackie Fortier",
+            "title": "As some move on from the pandemic, people with long COVID feel frustrated and alone - New Hampshire Public Radio",
+            "description": "There's deep frustration growing among people with long COVID at the lack of progress in treating the condition.",
+            "url": "https://www.nhpr.org/2023-04-14/as-some-move-on-from-the-pandemic-people-with-long-covid-feel-frustrated-and-alone",
             "urlToImage": null,
-            "publishedAt": "2023-04-14T02:33:34Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "publishedAt": "2023-04-14T21:10:00Z",
+            "content": "NHPR is nonprofit and independent. We rely on readers like you to support the local, national, and international coverage on this website. Your support makes this news available to everyone.\r\nGive to\u2026 [+53 chars]"
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Huileng Tan",
-            "title": "Amazon CEO Andy Jassy's total compensation plunged last year to $1.3M - Business Insider",
-            "description": "Jassy's much smaller compensation in 2022 was due to him not receiving any stock awards in 2022.",
-            "url": "https://www.businessinsider.com/amazon-massive-pay-cut-ceo-andy-jassy-compensation-stock-awards-2023-4",
-            "urlToImage": "https://i.insider.com/6438b040051ad10018c47fb7?width=1200&format=jpeg",
-            "publishedAt": "2023-04-14T02:08:00Z",
-            "content": "Amazon CEO Andy Jassy's total compensation plunged last year.\u00a0\r\nJassy was paid $1.3 million in 2022, including a $317,500 base salary plus another $981,000 in 401(k) plan contributions and security c\u2026 [+2551 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Andrew Freedman, Rebecca Falconer",
-            "title": "Fort Lauderdale hit by heavy rainfall, flooding in Florida dry season - Axios",
-            "description": "\"This is a life threatening situation,\" the National Weather Service in Miami warned.",
-            "url": "https://www.axios.com/2023/04/13/fort-lauderdale-historic-rainfall-flooding-dry-season",
-            "urlToImage": "https://images.axios.com/kDjDOjPxsaXYLWAq0QS9N9wWBDM=/0x52:3000x1739/1366x768/2023/04/13/1681427181316.jpg",
-            "publishedAt": "2023-04-14T01:48:55Z",
-            "content": "Heavy rain has slammed South Florida, flooding cars and buildings including Fort Lauderdale-Hollywood International Airport, which remains closed through 9 a.m. ET Friday. \r\nThe big picture: Broward \u2026 [+3543 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ryan Morik",
-            "title": "Bud Light sponsors NFL Draft as beer brand faces backlash over Dylan Mulvaney partnership - Fox News",
-            "description": "The NFL Draft will commence in two weeks, and its main sponsor is Bud Light, which has received backlash for its partnership with trans influencer Dylan Mulvaney.",
-            "url": "https://www.foxnews.com/sports/bud-light-sponsors-nfl-draft-beer-brand-faces-backlash-dylan-mulvaney-partnership",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/DYLAN-MULVANEY-BUD-LIGHT.jpg",
-            "publishedAt": "2023-04-14T00:42:00Z",
-            "content": "The NFL Draft's main sponsor has been Bud Light, but the spotlight on the beer brand has never been hotter as it has caught flak over its partnership with Dylan Mulvaney.\r\nMulvaney is a transgender i\u2026 [+2880 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Peering Into the Abyss: Machine Learning Enhances M87 Black Hole Image - SciTechDaily",
-            "description": "Machine learning reconstructs new image from EHT data. The image of the M87 black hole has been enhanced using a machine learning technique called PRIMO, providing a more accurate representation and allowing for improved determinations of its mass and physica\u2026",
-            "url": "https://scitechdaily.com/peering-into-the-abyss-machine-learning-enhances-m87-black-hole-image/",
-            "urlToImage": "https://scitechdaily.com/images/Animated-M87-Black-Hole-Comparison.gif",
-            "publishedAt": "2023-04-14T00:39:17Z",
-            "content": "ByInstitute for Advanced StudyApril 13, 2023\r\nNew image of M87 supermassive black hole generated by the PRIMO algorithm using 2017 EHT data. Credit: Medeiros et al. 2023\r\nMachine learning reconstruct\u2026 [+10878 chars]"
+            "author": "Erin Jensen",
+            "title": "Kelly Ripa and Mark Consuelos on co-hosting, therapy and the secret to their 27-year marriage - USA TODAY",
+            "description": "\"We don't have quit in us,\" Kelly Ripa says when asked what she attributes her long marriage to \"Live\" cohost and husband Mark Consuelos to.",
+            "url": "https://www.usatoday.com/story/entertainment/tv/2023/04/14/kelly-ripa-mark-consuelos-live-cohosts-marriage-counseling/11659202002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/13/USAT/d2312cb3-db5a-4849-a4cf-a23f27a76be9-AFP_AFP_33B47KH.jpg?crop=7787,4380,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2023-04-14T19:42:52Z",
+            "content": "\"Live with Kelly and Mark\" has a nice (wedding) ring to it. At the start of a virtual\u00a0interview with married morning talk show hosts\u00a0Kelly Ripa and Mark Consuelos Thursday, Consuelos was taking a pho\u2026 [+5623 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Jihye Lee, Lim Hui Jie",
-            "title": "Singapore tightens monetary policy; Asia markets rise as more data shows U.S. inflation cooling - CNBC",
-            "description": "Asian markets trade higher as they see retail sales data out of Japan and Australia",
-            "url": "https://www.cnbc.com/2023/04/14/asia-markets-rebound-after-more-data-points-to-cooling-us-inflation.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107225120-1681432078121-gettyimages-586291115-824d2d3f-1a81-45ae-9569-5cf0eeb8029b.jpeg?v=1681432182&w=1920&h=1080",
-            "publishedAt": "2023-04-14T00:34:00Z",
-            "content": "Asia-Pacific markets largely rose on Friday, following the moves of Wall Street as the U.S. producer price index signaled further signs of cooling inflation.\r\nThe March producer price index, a measur\u2026 [+1309 chars]"
+            "author": "Leslie Josephs",
+            "title": "Boeing's 737 Max problem is the latest headache for airlines hungry for new planes - CNBC",
+            "description": "Southwest and American are among the airlines expecting new Max aircraft this year.",
+            "url": "https://www.cnbc.com/2023/04/14/boeings-737-max-problem-latest-headache-for-airlines.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107144865-16674043732022-06-01t234232z_850568595_rc2wiu9jcc67_rtrmadp_0_airlines-boeing.jpeg?v=1681501213&w=1920&h=1080",
+            "publishedAt": "2023-04-14T19:40:13Z",
+            "content": "Boeing's warning that a production quality problem will delay deliveries of its best-selling 737 Max is another headache for airlines clamoring for new planes to handle a rebound in air travel, just \u2026 [+3132 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Will Horner",
+            "title": "Saudi-Led Oil Cuts Risk Fueling Inflation and Harming Global Economy, IEA Says - The Wall Street Journal",
+            "description": "The hole in the global oil market between supply and demand is expected to reach 2 million barrels a day, the Paris-based energy watchdog says",
+            "url": "https://www.wsj.com/articles/saudi-led-oil-cuts-risk-fueling-inflation-and-harming-global-economy-iea-says-a9416a69",
+            "urlToImage": "https://images.wsj.net/im-763239/social",
+            "publishedAt": "2023-04-14T19:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Marina Bolotnikova, Kenny Torrella, Julieta Cardenas",
+            "title": "The Dimmitt, Texas, dairy farm fire that killed 18,000 cows, explained - Vox.com",
+            "description": "South Fork Dairy Farm is among the biggest dairy farms in the country. Its fire, which also injured one worker and killed thousands of cows, is considered the deadliest ever recorded.",
+            "url": "https://www.vox.com/future-perfect/23683141/texas-farm-fire-explosion-dimmitt-cows-factory-dairy",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/v1XkzjcLJl3u2uRYHBXrl_l1EM4=/0x759:1875x1741/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24585430/AP23104480002566.jpg",
+            "publishedAt": "2023-04-14T19:00:00Z",
+            "content": "An explosion and fire at a dairy farm on Monday in the Texas panhandle has been called the deadliest cattle barn fire ever recorded: it left one worker in critical condition and killed 18,000 cows. \r\u2026 [+6974 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson, Robert Legare",
+            "title": "What we know about Jack Teixeira, the Massachusetts Air National Guardsman charged in Pentagon leaks case - CBS News",
+            "description": "The 21-year-old faces charges of unauthorized retention and transmission of national defense information and unauthorized removal and retention of classified documents.",
+            "url": "https://www.cbsnews.com/news/jack-teixeira-what-we-know-man-charged-pentagon-leaks-case/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/14/5e7e3dc1-cee4-4de1-95c8-086ac6956a74/thumbnail/1200x630g2/420ee48b2ebdf92fffad1932efc0effc/2023-04-14t074102z-755164921-rc27e0aaqq8f-rtrmadp-3-usa-intel-leak.jpg",
+            "publishedAt": "2023-04-14T18:59:00Z",
+            "content": "Jack Teixeira faces years in prison if convicted of charges he's facing over his suspected connection to the disclosure of\u00a0dozens of secret documents\u00a0that revealed sensitive intelligence and defense \u2026 [+2643 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Machine learning sharpens first photo of a black hole into a 'skinny' doughnut - CNN",
+            "description": "The first photo taken of a black hole looks a little sharper after the original data was combined with machine learning. The image, first released in 2019, now includes more detail and resembles a \"skinny\" doughnut.",
+            "url": "https://www.cnn.com/2023/04/14/world/sharp-black-hole-image-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230414110044-black-hole-m87-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-14T18:37:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe first photo ever taken of a black hole looks a lit\u2026 [+4917 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mia Sato",
+            "title": "Instagram is adding TikTok-like Reels updates for editing and discovery - The Verge",
+            "description": "Instagram is adding new Reels features that consolidate the editing screen and add new ways to find trending videos. The features are similar to what exists on other platforms like TikTok.",
+            "url": "https://www.theverge.com/2023/4/14/23683489/instagram-reels-updates-editing-trending-audio-hashtags-analytics-gifts",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/xo3b8l6VFq-W_cSjYrr9xCWv7Oc=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24585613/4_Devices___Gradient.jpg",
+            "publishedAt": "2023-04-14T18:01:45Z",
+            "content": "Instagram is adding TikTok-like Reels updates for editing and discovery\r\nInstagram is adding TikTok-like Reels updates for editing and discovery\r\n / Instagram is streamlining the Reels editing proces\u2026 [+1984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Sam Jones",
+            "title": "Spanish woman emerges after spending 500 days living alone in cave - The Guardian",
+            "description": "Beatriz Flamini says she endured swarms of flies, read 60 books and never missed the sunlight",
+            "url": "https://www.theguardian.com/world/2023/apr/14/spanish-woman-emerges-after-spending-500-days-living-alone-in-cave",
+            "urlToImage": "https://i.guim.co.uk/img/media/10a211fa6c996252a0ef7c02b9912b95bb41a101/297_98_3989_2393/master/3989.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce050485980f8f95b8b276b817d579b1",
+            "publishedAt": "2023-04-14T17:44:00Z",
+            "content": "After spending 500 days alone in a dark cave 70 metres below the Earths surface, assailed by a plague of flies and the odd tantalising vision of roast chicken, most people would be craving a wash and\u2026 [+5120 chars]"
         }
     ]
 }
