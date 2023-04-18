@@ -1,19 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 32,
     "articles": [
         {
             "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
+                "id": null,
+                "name": "MarketWatch"
             },
-            "author": "Amanda Silberling",
-            "title": "Netflix experiencing issues with \u2018Love is Blind\u2019 livestream - TechCrunch",
-            "description": "After a 75 minute delay, Netflix pulled the plug on the live show, according to remarks from host Vanessa Lachey.",
-            "url": "https://techcrunch.com/2023/04/16/netflix-issues-love-is-blind-livestream-reunion/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/love-is-blind-s4-e1-uhd-00-01-31-12r-min-6419c75b1c031.jpg?resize=1200,675",
-            "publishedAt": "2023-04-17T01:18:45Z",
-            "content": "Netflix had some serious issues with the livestream of its \u201cLove is Blind\u201d reunion episode. We always knew the livestream would be messy, as reality show reunions always are \u2014 but after a 75 minute d\u2026 [+2239 chars]"
+            "author": "Tomi Kilgore",
+            "title": "Charles Schwab stock gains after earnings beat expectations, while revenue was a bit shy - MarketWatch",
+            "description": "Shares of Charles Schwab Corp. rose 1.0% in premarket trading Monday, after the discount broker and financial services company reported first-quarter profit...",
+            "url": "https://www.marketwatch.com/story/charles-schwab-stock-gains-after-earnings-beat-expectations-while-revenue-was-a-bit-shy-b69807b",
+            "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+            "publishedAt": "2023-04-17T12:24:00Z",
+            "content": "Shares of Charles Schwab Corp. \r\n SCHW,\r\n -1.40%\r\nrose 1.0% in premarket trading Monday, after the discount broker and financial services company reported first-quarter profit that beat expectations,\u2026 [+832 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "Merck to acquire Prometheus Biosciences for $10.8B - Fox Business",
+            "description": "San Diego, California-based Prometheus Biosciences has a drug in development that treats immune diseases including ulcerative colitis and Crohn\u2019s disease.",
+            "url": "https://www.foxbusiness.com/markets/merck-to-acquire-prometheus-biosciences-for-10-8b",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/04/0/0/Merck-logo-A.jpg?ve=1&tl=1",
+            "publishedAt": "2023-04-17T11:54:09Z",
+            "content": "Shares of Prometheus Biosciences soared 70% in premarket trading on Monday after Merck &amp; Co. announced that it would acquire the company in a $10.8 billion deal.\u00a0\r\nThe deal, announced Sunday, giv\u2026 [+2489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Netflix apologises as Love is Blind reunion delayed for UK viewers - BBC",
+            "description": "The special episode was pre-recorded and aired it in the US, but global viewers are left waiting.",
+            "url": "https://www.bbc.com/news/technology-65298352",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FD46/production/_129383846_9bb134a2-e969-43ed-8a22-06bae944c5ea.jpg",
+            "publishedAt": "2023-04-17T11:32:18Z",
+            "content": "Netflix has apologised after the \"live\" Love is Blind reunion was delayed and pre-recorded, with UK viewers still waiting to see it.\r\nThe dating show, which sees couples get engaged before they meet,\u2026 [+2623 chars]"
         },
         {
             "source": {
@@ -21,64 +47,129 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Merck to buy Prometheus Biosciences for about $11 billion - Reuters",
-            "description": "Merck & Co <a href=\"https://www.reuters.com/companies/MRK.N\" target=\"_blank\">(MRK.N)</a> said on Sunday it will buy Prometheus Biosciences Inc <a href=\"https://www.reuters.com/companies/RXDX.O\" target=\"_blank\">(RXDX.O)</a> for about $10.8 billion, picking up \u2026",
-            "url": "https://www.reuters.com/markets/deals/merck-late-stage-talks-acquire-prometheus-biosciences-wsj-2023-04-16/",
-            "urlToImage": "https://www.reuters.com/resizer/w90nS7KSCaC15u3LtCxun4o7cw4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/477JDON7EBJQVC7XIRXDGO6KLU.jpg",
-            "publishedAt": "2023-04-17T01:18:00Z",
-            "content": "April 16 (Reuters) - Merck &amp; Co (MRK.N) said on Sunday it will buy Prometheus Biosciences Inc (RXDX.O) for about $10.8 billion, picking up a promising experimental treatment for ulcerative coliti\u2026 [+2693 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Mari Yamaguchi",
-            "title": "Lack of security for Japanese prime minister surprised many - The Associated Press",
-            "description": "WAKAYAMA, Japan (AP) \u2014 The fishermen who tackled the man suspected of the second attack on a Japanese political leader in less than a year were surprised by the lack of security for Prime Minister Fumio Kishida.",
-            "url": "https://apnews.com/article/japan-kishida-attack-e2da899d2cfa9af7201ffa2d89d0c40d",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e557a91fddc84fefaf3e2c5d2167516a/3000.webp",
-            "publishedAt": "2023-04-17T00:50:20Z",
-            "content": "WAKAYAMA, Japan (AP) The fishermen who tackled the man suspected of the second attack on a Japanese political leader in less than a year were surprised by the lack of security for Prime Minister Fumi\u2026 [+4564 chars]"
+            "title": "Ukraine seeks re-opening of grain transit via Poland as import bans mount - Reuters",
+            "description": "Kyiv aims to re-open food and grain transit via Poland as \"a first step\" to ending import bans at talks in Warsaw on Monday as countries halted grain from Ukraine to protect their local agriculture markets from an influx of supply.",
+            "url": "https://www.reuters.com/world/europe/ukraine-seeks-reopening-food-transit-via-poland-talks-2023-04-17/",
+            "urlToImage": "https://www.reuters.com/resizer/qeaZLXGMN1tGn6JSegoc3ygxI74=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X53B5FRP3VPUVJY6PCFE4DZNIM.jpg",
+            "publishedAt": "2023-04-17T11:07:00Z",
+            "content": "KYIV, April 17 (Reuters) - Kyiv aims to re-open food and grain transit via Poland as \"a first step\" to ending import bans at talks in Warsaw on Monday as countries halted grain from Ukraine to protec\u2026 [+3313 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
-            },
-            "author": "Kevin Breuninger, Lillian Rizzo",
-            "title": "Fox-Dominion defamation trial delayed on the eve of opening statements - CNBC",
-            "description": "Dominion Voting Systems' $1.6 billion defamation lawsuit against Fox News has been delayed on the eve of its scheduled start date, the court said.",
-            "url": "https://www.cnbc.com/2023/04/17/dominion-defamation-lawsuit-against-fox-news-delayed.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107225953-1681691974516-gettyimages-1227722129-AFP_1VK1K4.jpeg?v=1681692483&w=1920&h=1080",
-            "publishedAt": "2023-04-17T00:35:00Z",
-            "content": "WILMINGTON, Del. Dominion Voting Systems' $1.6 billion defamation lawsuit against Fox News has been delayed on the eve of its scheduled start date, an official for the court said Sunday.\r\nThe conclus\u2026 [+1371 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "name": "Israelnationalnews.com"
             },
             "author": null,
-            "title": "Four dead in Alabama 'Sweet 16' birthday party shooting - Reuters.com",
-            "description": "At least four people were killed and 28 wounded in a shooting that erupted during a late-night \"Sweet 16\" birthday celebration at a dance studio in the small town of Dadeville, Alabama, state police and local news media said on Sunday.",
-            "url": "https://www.reuters.com/world/us/four-killed-multiple-injuries-alabama-shooting-2023-04-16/",
-            "urlToImage": "https://www.reuters.com/resizer/IYdE-S9NyF7Q6k1poUUE-ZOQ71Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QPPR4TTNAFIB5L3KZTZP2RISAE.jpg",
-            "publishedAt": "2023-04-17T00:26:00Z",
-            "content": "April 16 (Reuters) - At least four people were killed and 28 wounded in a shooting that erupted during a late-night \"Sweet 16\" birthday celebration at a dance studio in the small town of Dadeville, A\u2026 [+4126 chars]"
+            "title": "New study shows 'Long COVID' is unrelated to having the virus - Arutz Sheva",
+            "description": null,
+            "url": "https://www.israelnationalnews.com/news/370076",
+            "urlToImage": null,
+            "publishedAt": "2023-04-17T11:07:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "WEAU"
+                "name": "MarketWatch"
+            },
+            "author": "Barbara Kollmeyer",
+            "title": "Falling earnings estimates may follow banking stress, says Morgan Stanley. - MarketWatch",
+            "description": "Critical information for the U.S. trading day",
+            "url": "https://www.marketwatch.com/story/gradually-then-suddenly-earnings-expectations-may-be-about-to-drop-says-morgan-stanley-strategist-2ef02302",
+            "urlToImage": "https://images.mktw.net/im-764580/social",
+            "publishedAt": "2023-04-17T10:50:00Z",
+            "content": "Will optimism hold as earnings season gets fully under way this week and is banking stress done? Our call of the day, from Morgan Stanleys chief U.S. equity strategist Mike Wilson, warns of a long sh\u2026 [+6837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Vladimir Kara-Murza: Russian opposition figure jailed for 25 years - BBC",
+            "description": "The former journalist denies the charges against him, which are linked to his anti-war comments.",
+            "url": "https://www.bbc.com/news/world-europe-65297003",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B55C/production/_129382464_gettyimages-1243865891.jpg",
+            "publishedAt": "2023-04-17T10:09:49Z",
+            "content": "Opposition activist Vladimir Kara-Murza has been sentenced to 25 years in jail in Russia for charges linked to his criticism of the war in Ukraine.\r\nHe was found guilty of treason, spreading \"false\" \u2026 [+2802 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe",
+            "title": "Alabama investigators piecing together details of Sweet 16 birthday party shooting that left 4 dead and dozens injured - CNN",
+            "description": "After a Sweet 16 birthday celebration was shattered by a shooting over the weekend that left four people dead and at least 28 others injured, investigators in Dadeville, Alabama, are still working to determine what caused the chaos.",
+            "url": "https://www.cnn.com/2023/04/17/us/dadeville-alabama-birthday-party-shooting-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230416212419-12-dadeville-alabama-shooting-vigil.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-17T10:02:00Z",
+            "content": "After a Sweet 16 birthday celebration was shattered by a shooting over the weekend that left four people dead and at least 28 others injured, investigators in Dadeville, Alabama, are still working to\u2026 [+5972 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Landon Mion",
+            "title": "Tennessee Air National Guardsman arrested for applying to be hitman on parody website - Fox News",
+            "description": "A Tennessee Air National Guardsman was arrested after applying to be a hitman on a parody website. He could face up to 10 years in prison if convicted.",
+            "url": "https://www.foxnews.com/us/tennessee-air-national-guardsman-arrested-applying-hitman-parody-website",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/garcia.png",
+            "publishedAt": "2023-04-17T09:53:00Z",
+            "content": "A Tennessee Air National Guardsman was arrested on federal charges after applying to be a hitman on a parody website.\r\nJosiah Ernesto Garcia, 21, was charged Thursday with the use of interstate facil\u2026 [+3118 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
             },
             "author": null,
-            "title": "WINTER STORM WARNING: Heavy snow and strong winds will make for a hazardous Monday morning commute - WEAU",
-            "description": "Wintry weather returns to Western Wisconsin",
-            "url": "https://www.weau.com/2023/04/16/winter-storm-warning-heavy-snow-strong-winds-will-make-hazardous-monday-morning-commute/",
-            "urlToImage": "https://gray-weau-prod.cdn.arcpublishing.com/resizer/J7JNU5CsZxSDvPXcYHgXmvR5HKc=/1200x600/filters:focal(860x582:870x572):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/ATRZFZ7K7FDFJOMFXJ6JZIEGI4.png",
-            "publishedAt": "2023-04-16T23:22:00Z",
-            "content": "EAU CLAIRE, Wis. (WEAU) - After enjoying quiet weather this past week with unseasonably warm air, our weekend has looked much different with a storm system coming up from the southwest. Scattered sho\u2026 [+2631 chars]"
+            "title": "Kansas City police probe shooting of Ralph Yarl, Black teen who went to wrong house to pick up his younger brothers - CBS News",
+            "description": "Police say information officials have now doesn't point to the crime being racially motivated, but that remains under investigation.",
+            "url": "https://www.cbsnews.com/news/ralph-yarl-kansas-city-teen-shooting-wrong-house/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/17/e6a5afeb-39ba-460e-8ab6-569edae692fb/thumbnail/1200x630/2c3e84e6d0e7d2e676ca2d2b2c6fe288/ralph-yarl.jpg",
+            "publishedAt": "2023-04-17T09:49:00Z",
+            "content": "Kansas City, Mo. \u2014 Kansas City police are working to quickly prepare evidence for the Clay County prosecutor in the shooting of a Black teenager who was trying to pick up his younger brothers from a \u2026 [+4848 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Daniel Dale",
+            "title": "Fact check: Here's the truth about crime in Manhattan - CNN",
+            "description": "As former President Donald Trump and his allies attack Manhattan District Attorney Alvin Bragg, who is prosecuting Trump on felony charges of falsifying business records, the Republican-led House Judiciary Committee is holding a hearing Monday in Manhattan to\u2026",
+            "url": "https://www.cnn.com/2023/04/17/politics/fact-check-manhattan-crime-trump-bragg/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230414142010-jordan-bragg-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-17T09:00:00Z",
+            "content": "As former President Donald Trump and his allies attack Manhattan District Attorney Alvin Bragg, who is prosecuting Trump on felony charges of falsifying business records, the Republican-led House Jud\u2026 [+6615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPVI-TV"
+            },
+            "author": null,
+            "title": "Band of gunmen shoot up La Palma resort in central Mexico, killing 6 adults and 7-year-old - WPVI-TV",
+            "description": "A band of gunmen invaded a resort where dozens of vacationers were spending the weekend in central Mexico and opened fire, killing six adults and a 7-year-old, authorities said.",
+            "url": "https://6abc.com/la-palma-resort-shooting-central-mexico-gunmen-shootout-cortazar/13138640/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13140234_041623-kabc-7pm-mexico-resort-shooting-vid.jpg?w=1600",
+            "publishedAt": "2023-04-17T08:58:29Z",
+            "content": "MEXICO CITY -- A band of gunmen invaded a resort where dozens of vacationers were spending the weekend in central Mexico and opened fire, killing six adults and a 7-year-old, authorities said.\r\nNOTE:\u2026 [+1009 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "James Vincent",
+            "title": "Google will reportedly release new AI powered search tools next month - The Verge",
+            "description": "Google is developing new AI search tools under the codename Magi, reports The New York Times. The tools will be released to the public next month.",
+            "url": "https://www.theverge.com/2023/4/17/23686108/google-ai-search-tools-magi-chatgpt-bing-samsung-deal",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/a1UuqmTXeWu_sDyVAVipeGpIQ0s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg",
+            "publishedAt": "2023-04-17T08:48:13Z",
+            "content": "Google will reportedly release new AI powered search tools next month\r\nGoogle will reportedly release new AI powered search tools next month\r\n / The search giant is scrambling to answer the threat of\u2026 [+1998 chars]"
         },
         {
             "source": {
@@ -86,181 +177,90 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Ja Morant injury update: Grizzlies star says status for Game 2 'in jeopardy' after suffering hand injury - CBS Sports",
-            "description": "L.A. now leads the series 1-0 over Memphis",
-            "url": "https://www.cbssports.com/nba/news/ja-morant-injury-update-grizzlies-star-says-status-for-game-2-in-jeopardy-after-suffering-hand-injury/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/16/88ab01b7-f816-427d-b559-f1a4b476006b/thumbnail/1200x675/ba31d5129d918a8c041446ac8b275c2d/untitled-design-2023-04-16t171217-575.png",
-            "publishedAt": "2023-04-16T23:22:00Z",
-            "content": "Grizzlies star guard Ja Morant exited midway through the fourth quarter of Memphis' 128-112 loss to the Los Angeles Lakers in Game 1 of the first-round series between the teams on Sunday afternoon af\u2026 [+1524 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Melissa Rudy",
-            "title": "Michigan mill worker dies from fungal outbreak of blastomycosis: 'Deeply saddened' - Fox News",
-            "description": "A contract worker at the Billerud Paper Mill in Escanaba, Michigan, has died from an ongoing fungal outbreak that may have infected nearly 100 employees with blastomycosis.",
-            "url": "https://www.foxnews.com/health/michigan-mill-worker-dies-fungal-outbreak-blastomycosis-saddened",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/billerud-paper-mill.jpg",
-            "publishedAt": "2023-04-16T23:08:00Z",
-            "content": "A contract worker at the Billerud Paper Mill in Escanaba, Michigan, has died from an ongoing fungal outbreak that may have infected nearly 100 employees with blastomycosis, according to a press relea\u2026 [+3997 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Keith Zubrow",
-            "title": "How Google's \"Don't be evil\" motto has evolved for the AI age | 60 Minutes - CBS News",
-            "description": "Google CEO Sundar Pichai told 60 Minutes the company's founding motto includes more nuance, but still underpins its values.",
-            "url": "https://www.cbsnews.com/news/how-googles-dont-be-evil-motto-has-evolved-for-ai-age-60-minutes-2023-04-16/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/14/7881c035-bf17-4925-a031-e07f0b9be21a/thumbnail/1200x630/3fc21cbf2eeb74f5a257bdda0f5fe111/ot-googleaifd.jpg",
-            "publishedAt": "2023-04-16T23:03:06Z",
-            "content": "\"I've always thought of AI [artificial intelligence] as the most profound technology humanity is working on. More profound than fire or electricity or anything that we've done in the past,\" said Sund\u2026 [+3353 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Noah Buhayar, Jennifer Surane, Max Reyes, Ann Choi",
-            "title": "First Republic\u2019s Loans to Rich Clients Drag Earnings, Hinder Potential Sale - Bloomberg",
-            "description": "The bank attracted wealthy clients with loans that have become a costly hurdle to finding a rescuer.",
-            "url": "https://www.bloomberg.com/news/articles/2023-04-16/first-republic-s-loans-to-rich-clients-drag-earnings-hinder-potential-sale",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ0J8MEnUEEg/v1/1200x675.jpg",
-            "publishedAt": "2023-04-16T23:00:07Z",
-            "content": "In America\u2019s richest enclaves, word spread quickly: A bank was offering loans on sweet terms.\r\nWealthy homebuyers and property investors with high incomes and sterling credit scores could get a mortg\u2026 [+145 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Lauren Sforza",
-            "title": "Merck-Moderna vaccine helps reduce chances of skin cancer - The Hill",
-            "description": "A vaccine launched by Merck and Moderna was found to reduce the chances of skin cancer when used with the drug Keytruda, according to a new study released Monday. The new results found that 79 percent of participants who received the vaccine and Keytruda stay\u2026",
-            "url": "https://thehill.com/policy/healthcare/3953905-merck-moderna-vaccine-helps-reduce-chances-of-skin-cancer/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/12/Merck_Moderna1400x787.jpg?w=1280",
-            "publishedAt": "2023-04-16T22:52:00Z",
-            "content": "Skip to content\r\nA vaccine launched by Merck and Moderna was found to reduce the chances of skin cancer when used with the drug Keytruda, according to a new study released Monday. \r\nThe new results f\u2026 [+1775 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Corinne Heller",
-            "title": "Pregnant Lindsay Lohan Celebrates Baby Shower Weekend That's So Fetch - E! NEWS",
-            "description": "See photos from Lindsay Lohan's baby shower. The Mean Girls actress is expecting her first child with husband Bader Shammas.",
-            "url": "https://www.eonline.com/news/1371538/pregnant-lindsay-lohan-celebrates-baby-shower-weekend-thats-so-fetch",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023316/rs_600x600-230416143959-600-lindsay-lohan-baby-shower-ali-instagram-cjh-041523.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-04-16T22:37:00Z",
-            "content": "One time, Lindsay Lohan had a baby shower. It was awesome. (For real.)\r\nThe pregnant\u00a0Mean Girls star, who is expecting her first child with her husband of one year,\u00a0Bader Shammas, celebrating their b\u2026 [+829 chars]"
+            "title": "NBA playoffs: What Game 1 taught us about each series, including Lakers' size and Russell Westbrook's impact - CBS Sports",
+            "description": "Eight playoff games from the weekend bring us eight key lessons about each series",
+            "url": "https://www.cbssports.com/nba/news/nba-playoffs-what-game-1-taught-us-about-each-series-including-lakers-size-and-russell-westbrooks-impact/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/17/12cc54b1-14f9-48ee-9496-fca904916cd8/thumbnail/1200x675/a5a36a8c67811fc9d0b960e6f517b843/ad-usatsi.png",
+            "publishedAt": "2023-04-17T08:30:00Z",
+            "content": "From one perspective, the first weekend of the NBA playoffs was a chaotic mess. Most the 16 teams hadn't played in a week. Their opponents have used all of that time to game-plan against everything t\u2026 [+11453 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Reuters",
-            "title": "Former Indian lawmaker killed live on TV while in police custody - CNN",
-            "description": "A former lawmaker in India's parliament, convicted of kidnapping, was shot dead along with his brother while police were escorting them for a medical check-up in a slaying caught on live television on Saturday.",
-            "url": "https://www.cnn.com/2023/04/16/india/former-indian-lawmaker-killed-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230416042343-01-atiq-ahmed-041323.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-16T22:27:00Z",
-            "content": "A former lawmaker in Indias parliament, convicted of kidnapping, was shot dead along with his brother while police were escorting them for a medical check-up in a slaying caught on live television on\u2026 [+2384 chars]"
+            "author": "Ariane de Vogue",
+            "title": "Clarence Thomas to amend financial disclosure forms to reflect sale to GOP megadonor - CNN",
+            "description": "Justice Clarence Thomas intends to amend his financial disclosure forms to reflect a 2014 real estate deal he made with a GOP megadonor -- an acknowledgment that the transaction should have been disclosed almost a decade ago, a source close to Thomas tells CN\u2026",
+            "url": "https://www.cnn.com/2023/04/17/politics/clarence-thomas-amend-disclosure-gop-megadonor/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220606114957-01-clarence-thomas-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-17T07:09:00Z",
+            "content": "Justice Clarence Thomas intends to amend his financial disclosure forms to reflect a 2014 real estate deal he made with a GOP megadonor an acknowledgment that the transaction should have been disclos\u2026 [+5669 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Chicago Tribune"
-            },
-            "author": "Olivia Alexander, Adriana Perez",
-            "title": "Lori Lightfoot and Brandon Johnson weigh in on weekend shootings of teenagers as summer approaches - Chicago Tribune",
-            "description": "CTA service was disrupted Saturday night after two teenagers were shot in the Loop, officials say.",
-            "url": "https://www.chicagotribune.com/news/breaking/ct-teens-shot-loop-20230416-wcb2jspkjfgcxavvaiw6m42p4e-story.html",
-            "urlToImage": "https://www.chicagotribune.com/resizer/h2hDxEP8skEZF09PEtuUEa6I44A=/1200x630/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ERKVMG563JCDXKVLFKJ2SIMYEE.png",
-            "publishedAt": "2023-04-16T22:21:07Z",
-            "content": "The weekend shootings of three teenagers in two separate incidents drew responses from Mayor Lori Lightfoot and Mayor-elect Brandon Johnson as summer looms.\r\nIn a statement released Sunday afternoon,\u2026 [+2670 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "JOSH DUBOW AP Sports Writer",
-            "title": "Kings probe 'racial bias' claims after rapper E-40 ejected - ABC News",
-            "description": "The Sacramento Kings are investigating allegations from a Bay Area hip-hop star that \u201cracial bias\u201d led to him being kicked out of his seat during a playoff game against the Golden State Warriors",
-            "url": "https://abcnews.go.com/Sports/wireStory/kings-probe-racial-bias-claims-after-rapper-40-98620236",
-            "urlToImage": "https://s.abcnews.com/images/Sports/wirestory_805bf0cce2b990684461218bc68e934e_16x9_992.jpg",
-            "publishedAt": "2023-04-16T21:56:15Z",
-            "content": "SACRAMENTO, Calif. -- The Sacramento Kings are investigating allegations from a Bay Area hip-hop star that racial bias led to him being kicked out of his seat during a playoff game against the Golden\u2026 [+1997 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Action Network"
-            },
-            "author": "Tyler Schmidt",
-            "title": "NBA Game 1 Player Props Today: Best Bets for Deandre Ayton, Nikola Jokic (April 16) - The Action Network",
-            "description": "Tyler Schmidt writes about his two favorite NBA player props for Sunday's Game 1 matchups: Centers Deandre Ayton and Nikola Jokic.",
-            "url": "https://www.actionnetwork.com/nba/nba-player-props-today-picks-deandre-ayton-nikola-jokic-best-bets-game-1-april-16",
-            "urlToImage": "https://images.actionnetwork.com/blog/2023/04/jokic.jpg",
-            "publishedAt": "2023-04-16T21:38:00Z",
-            "content": "Saturday\u2019s opening playoff round matchups are in the books and Sunday brings more opportunities to find a betting edge. After hitting both NBA player props yesterday and one of our two PrizePicks pro\u2026 [+3400 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KABC-TV"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Band of gunmen shoot up La Palma resort in central Mexico, killing 6 adults and 7-year-old - KABC-TV",
-            "description": "A band of gunmen invaded a resort where dozens of vacationers were spending the weekend in central Mexico and opened fire, killing six adults and a 7-year-old, authorities said.",
-            "url": "https://abc7.com/la-palma-resort-shooting-central-mexico-gunmen-shootout-cortazar/13138640/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/12362047_031822-police-lights-img.png?w=1600",
-            "publishedAt": "2023-04-16T21:04:18Z",
-            "content": "MEXICO CITY -- A band of gunmen invaded a resort where dozens of vacationers were spending the weekend in central Mexico and opened fire, killing six adults and a 7-year-old, authorities said.\r\nNOTE:\u2026 [+1004 chars]"
+            "title": "Hong Kong activist Wong jailed for 3 months over information breach - Reuters",
+            "description": "One of the most prominent democracy activists in Hong Kong over recent years, Joshua Wong, was sentenced on Monday to three months in prison over an information breach involving a police officer, according to a post on Wong's Facebook account.",
+            "url": "https://www.reuters.com/world/asia-pacific/hong-kong-activist-wong-jailed-3-months-over-information-breach-2023-04-17/",
+            "urlToImage": "https://www.reuters.com/resizer/6N36KbuQmIIahX5hbPob_raeRTU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TSHXO7N6GZLP3FQO5GONUGFAFI.jpg",
+            "publishedAt": "2023-04-17T05:26:00Z",
+            "content": "HONG KONG, April 17 (Reuters) - One of the most prominent democracy activists in Hong Kong over recent years, Joshua Wong, was sentenced on Monday to three months in prison over an information breach\u2026 [+1740 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "Welcome to Mars! Caltech's Jaw-Dropping, 5.7 Terapixel Virtual Expedition Across the Red Planet - SciTechDaily",
-            "description": "Both scientists and the public can navigate a new global image of the Red Planet that was made at Caltech using data from NASA\u2019s Mars Reconnaissance Orbiter. Caltech has used data from NASA's Mars Reconnaissance Orbiter to create the highest-resolution global\u2026",
-            "url": "https://scitechdaily.com/welcome-to-mars-caltechs-jaw-dropping-5-7-terapixel-virtual-expedition-across-the-red-planet/",
-            "urlToImage": "https://scitechdaily.com/images/Global-CTX-Mosaic-of-Mars.jpg",
-            "publishedAt": "2023-04-16T20:45:08Z",
-            "content": "ByJet Propulsion LaboratoryApril 16, 2023\r\nThe Global CTX Mosaic of Mars allows scientists and the public to explore the planet like never before. It includes different layers of data that can be tur\u2026 [+6614 chars]"
+            "author": "Jennifer Elias",
+            "title": "Google CEO Sundar Pichai warns society to brace for impact of A.I. acceleration, says \u2018it\u2019s not for a company to decide' - CNBC",
+            "description": "The executive told \"60 Minutes\" that the technology is moving fast and \"it\u2019s not for a company to decide.\"",
+            "url": "https://www.cnbc.com/2023/04/17/google-ceo-sundar-pichai-warns-society-to-brace-for-impact-of-ai-acceleration.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107073776-1654806510081-gettyimages-1401984578-_m013308_f6033df0-c78b-46fb-89a4-0840d45f458b.jpeg?v=1681708703&w=1920&h=1080",
+            "publishedAt": "2023-04-17T05:18:23Z",
+            "content": "Google CEO Sundar Pichai speaks at a panel at the CEO Summit of the Americas hosted by the U.S. Chamber of Commerce on June 09, 2022 in Los Angeles, California.\r\nGoogle and Alphabet CEO Sundar Pichai\u2026 [+4708 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
+                "name": "NBCSports.com"
             },
-            "author": "Neuroscience News",
-            "title": "A New Breakthrough in Alzheimer Disease Research - Neuroscience News",
-            "description": "A novel imaging technique is capable of showing reactive astrocyte-neuron interactions. The technique sheds new light on Alzheimer's pathologies and offers a potential breakthrough for the diagnosis and treatment of dementia.",
-            "url": "https://neurosciencenews.com/astrocyte-neuron-alzheimers-neuroscience-23024/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/04/alzheimers-neuron-research-neurosciencce.jpg",
-            "publishedAt": "2023-04-16T20:33:53Z",
-            "content": "Summary: A novel imaging technique is capable of showing reactive astrocyte-neuron interactions. The technique sheds new light on Alzheimer\u2019s pathologies and offers a potential breakthrough for the d\u2026 [+5474 chars]"
+            "author": "Kurt Helin",
+            "title": "Herro fractured hand, Antetokounmpo injured back could swing series, playoffs - NBC Sports",
+            "description": "Herro is out for Game 2, Antetokounmpo's status is unknown",
+            "url": "https://nba.nbcsports.com/2023/04/17/herro-fractured-hand-antetokounmpo-injured-back-could-swing-series-playoffs/",
+            "urlToImage": "https://nba.nbcsports.com/wp-content/uploads/sites/12/2023/04/GettyImages-1482723182-e1681707019284.jpg",
+            "publishedAt": "2023-04-17T04:55:00Z",
+            "content": "Jamal Murray overcame some early jitters to have 24 points and eight assists in his first playoff game since the 2020 NBA bubble as the top-seeded Denver Nuggets routed the Minnesota Timberwolves 109\u2026 [+3610 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rosalind S. Helderman, Sarah Ellison, Jeremy Barr",
+            "title": "Trial over Dominion Voting Systems' lawsuit against Fox News is delayed by a day - The Washington Post",
+            "description": "The much-anticipated trial was delayed to allow both parties to hold conversations about the possibility of a settlement, according to two sources with knowledge of the situation.",
+            "url": "https://www.washingtonpost.com/media/2023/04/16/fox-news-dominion-trial/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-17-2023/t_f214806ce207476395470f6ac5fbf378_name_HZD7I3XYEY25PU7Z24FYU4BPOM.jpg&w=1440",
+            "publishedAt": "2023-04-17T04:52:00Z",
+            "content": "Comment on this story\r\nComment\r\nThe beginning of the much-anticipated defamation case between Dominion Voting Systems and Fox News has been delayed by one day, until Tuesday, to allow both parties to\u2026 [+3794 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WTHR"
+                "name": "BBC News"
             },
-            "author": "The Associated Press",
-            "title": "Evacuation order lifted in area near Richmond plastics fire - WTHR",
-            "description": "The order, imposed after a massive fire broke out April 11, was lifted Sunday afternoon.",
-            "url": "https://www.wthr.com/article/news/local/richmond-evacuation-order-lifted/531-a8eb381e-36db-4ac7-b839-2f118ea98b07",
-            "urlToImage": "https://media.tegna-media.com/assets/WTHR/images/a7a498d5-303b-4fb0-91ef-e066a7333136/a7a498d5-303b-4fb0-91ef-e066a7333136_1140x641.jpg",
-            "publishedAt": "2023-04-16T20:29:00Z",
-            "content": "RICHMOND, Ind. Authorities in eastern Indiana lifted a dayslong evacuation order late Sunday afternoon for an area near a plastics fire after they said it was determined air quality and other environ\u2026 [+2275 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Angry Birds: Sega in talks to buy video game maker Rovio - BBC",
+            "description": "The Japan-based entertainment giant Sega is in discussions over a deal for Rovio reportedly worth $1bn.",
+            "url": "https://www.bbc.com/news/business-65295724",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/132C/production/_129380940_capture.jpg",
+            "publishedAt": "2023-04-17T03:31:16Z",
+            "content": "The maker of the Angry Birds video games, Rovio Entertainment, has held talks with larger rival Sega Sammy Holdings over its possible takeover.\r\nIn February, Rovio announced it had launched a review \u2026 [+1900 chars]"
         }
     ]
 }
