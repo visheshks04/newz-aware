@@ -1,32 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "The Guardian"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Jon Henley",
-            "title": "China likely to rapidly achieve air superiority over Taiwan, US leaks say - The Guardian",
-            "description": "Documents among those shared by alleged leaker raise questions over island\u2019s military readiness",
-            "url": "https://www.theguardian.com/world/2023/apr/16/china-rapidly-achieve-air-superiority-taiwan-us-leaks",
-            "urlToImage": "https://i.guim.co.uk/img/media/2d2bd689326d22cae0eb39d64e0d8d74b70f3606/267_820_4055_2434/master/4055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed0395a2a7418bf190db88a281535c0b",
-            "publishedAt": "2023-04-16T12:31:00Z",
-            "content": "China would probably establish air superiority very rapidly in any attack on Taiwan, according to leaked US intelligence assessments that raise disturbing questions about the self-ruled islands milit\u2026 [+4150 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Andrea Atkins",
-            "title": "Melanoma kills more men than women, but prevention can save lives - The Washington Post",
-            "description": "Men are much more likely to get skin cancer \u2014 and to die from it \u2014 than women. Here's what makes men so vulnerable to melanoma, the deadliest form of skin cancer.",
-            "url": "https://www.washingtonpost.com/wellness/2023/04/16/skin-cancer-men-melanoma-prevention/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CG5GJ25H77HWZHQVN4UXL4HDHQ.jpg&w=1440",
-            "publishedAt": "2023-04-16T12:03:33Z",
-            "content": "Comment on this story\r\nComment\r\nAs his patient sat on the examining table, dermatologist Jeremy Brauer explained the pathology report, letting him know that the lesion on his chest was skin cancer an\u2026 [+6729 chars]"
+            "author": "Amanda Silberling",
+            "title": "Netflix experiencing issues with \u2018Love is Blind\u2019 livestream - TechCrunch",
+            "description": "After a 75 minute delay, Netflix pulled the plug on the live show, according to remarks from host Vanessa Lachey.",
+            "url": "https://techcrunch.com/2023/04/16/netflix-issues-love-is-blind-livestream-reunion/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/love-is-blind-s4-e1-uhd-00-01-31-12r-min-6419c75b1c031.jpg?resize=1200,675",
+            "publishedAt": "2023-04-17T01:18:45Z",
+            "content": "Netflix had some serious issues with the livestream of its \u201cLove is Blind\u201d reunion episode. We always knew the livestream would be messy, as reality show reunions always are \u2014 but after a 75 minute d\u2026 [+2239 chars]"
         },
         {
             "source": {
@@ -34,38 +21,12 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "EU says unilateral trade action unacceptable after Poland, Hungary ban Ukraine grain, food imports - Reuters.com",
-            "description": "Unilateral action on trade by European Union member states is unacceptable, a European Commission spokesperson said on Sunday, after Poland and Hungary announced bans on grain and other food imports from Ukraine to protect the local agricultural sector.",
-            "url": "https://www.reuters.com/world/europe/polish-ban-ukrainian-grain-food-imports-apply-transit-says-minister-2023-04-16/",
-            "urlToImage": "https://www.reuters.com/resizer/vXZWG1IrbJt31iQPjY7LrKGLmxI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKML2QIXRNOYZDVAMNMZ6OHU5Q.jpg",
-            "publishedAt": "2023-04-16T11:59:00Z",
-            "content": "WARSAW, April 16 (Reuters) - Unilateral action on trade by European Union member states is unacceptable, a European Commission spokesperson said on Sunday, after Poland and Hungary announced bans on \u2026 [+3049 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FOX 5 Atlanta"
-            },
-            "author": "FOX 5 Atlanta",
-            "title": "Alabama birthday party ends in mass shooting leaving multiple children dead - FOX 5 Atlanta",
-            "description": "A mass shooting at a teenager's birthday party in Dadeville, Alabama, Saturday evening left multiple children dead, according to reports.",
-            "url": "https://www.fox5atlanta.com/news/alabama-birthday-party-ends-in-mass-shooting-leaving-multiple-children-dead",
-            "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/03/1280/720/Generic-police-lights-2-11.jpg?ve=1&tl=1",
-            "publishedAt": "2023-04-16T11:25:41Z",
-            "content": "DADEVILLE Alabama - A mass shooting at a teenager's birthday party in Dadeville, Alabama\r\n, Saturday evening left multiple children dead, according to reports.\r\nThe incident occurred at around 10:30 \u2026 [+793 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "nj.com"
-            },
-            "author": "Katherine Rodriguez | NJ Advance Media for NJ.com",
-            "title": "Walmart store closings 2023: See the full list - NJ.com",
-            "description": "Walmart is planning on closing 20 underperforming stores in 11 states and the District of Columbia",
-            "url": "https://www.nj.com/business/2023/04/walmart-store-closings-2023-see-the-full-list.html",
-            "urlToImage": "https://www.nj.com/resizer/4ilay1CzhnK5Xgle_CQlvvgPzOE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HPQMDENV3RHIHKHBWAOI3APR2M.JPG",
-            "publishedAt": "2023-04-16T11:05:00Z",
-            "content": "Walmart has set plans to shutter 20 of its stores across 12 states and Washington, D.C. in 2023.\r\nThe big-box retailer initially said it would close 15 stores, but that number has expanded to 20.\r\nWa\u2026 [+2003 chars]"
+            "title": "Merck to buy Prometheus Biosciences for about $11 billion - Reuters",
+            "description": "Merck & Co <a href=\"https://www.reuters.com/companies/MRK.N\" target=\"_blank\">(MRK.N)</a> said on Sunday it will buy Prometheus Biosciences Inc <a href=\"https://www.reuters.com/companies/RXDX.O\" target=\"_blank\">(RXDX.O)</a> for about $10.8 billion, picking up \u2026",
+            "url": "https://www.reuters.com/markets/deals/merck-late-stage-talks-acquire-prometheus-biosciences-wsj-2023-04-16/",
+            "urlToImage": "https://www.reuters.com/resizer/w90nS7KSCaC15u3LtCxun4o7cw4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/477JDON7EBJQVC7XIRXDGO6KLU.jpg",
+            "publishedAt": "2023-04-17T01:18:00Z",
+            "content": "April 16 (Reuters) - Merck &amp; Co (MRK.N) said on Sunday it will buy Prometheus Biosciences Inc (RXDX.O) for about $10.8 billion, picking up a promising experimental treatment for ulcerative coliti\u2026 [+2693 chars]"
         },
         {
             "source": {
@@ -73,116 +34,25 @@
                 "name": "Associated Press"
             },
             "author": "Mari Yamaguchi",
-            "title": "Explosive thrown at Japan PM at campaign event; 1 hurt - The Associated Press",
-            "description": "WAKAYAMA, Japan (AP) \u2014 Japanese Prime Minister Fumio Kishida was evacuated unharmed Saturday after someone threw an explosive device in his direction while he was campaigning at a fishing port in western Japan, officials said.",
-            "url": "https://apnews.com/article/kishida-japan-explosion-port-abe-34361b2a4996663c461ba6a152130d6a",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/4be1af198e654f0ba59b960b2f543130/3000.webp",
-            "publishedAt": "2023-04-16T10:25:33Z",
-            "content": "WAKAYAMA, Japan (AP) Japanese Prime Minister Fumio Kishida was evacuated unharmed Saturday after someone threw an explosive device in his direction while he was campaigning at a fishing port in weste\u2026 [+4914 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aimee Lewis,Jacob Lev",
-            "title": "Sacramento Kings win first playoff game in 17 years with defeat of Golden State Warriors in Game 1 - CNN",
-            "description": "The Sacramento Kings could not have enjoyed a better start to their return to the playoffs for the first time in 17 years.",
-            "url": "https://www.cnn.com/2023/04/16/sport/sacramento-kings-golden-state-nba-playoffs-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230416055000-01-kings-warriors-041523-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-16T10:23:00Z",
-            "content": "The Sacramento Kings could not have enjoyed a better start to their return to the playoffs for the first time in 17 years. \r\nKings guard DeAaron Fox finished with 38 points, five assists and three st\u2026 [+1203 chars]"
+            "title": "Lack of security for Japanese prime minister surprised many - The Associated Press",
+            "description": "WAKAYAMA, Japan (AP) \u2014 The fishermen who tackled the man suspected of the second attack on a Japanese political leader in less than a year were surprised by the lack of security for Prime Minister Fumio Kishida.",
+            "url": "https://apnews.com/article/japan-kishida-attack-e2da899d2cfa9af7201ffa2d89d0c40d",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e557a91fddc84fefaf3e2c5d2167516a/3000.webp",
+            "publishedAt": "2023-04-17T00:50:20Z",
+            "content": "WAKAYAMA, Japan (AP) The fishermen who tackled the man suspected of the second attack on a Japanese political leader in less than a year were surprised by the lack of security for Prime Minister Fumi\u2026 [+4564 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "CNBC"
             },
-            "author": "Associated Press",
-            "title": "Archeologists in Italy unearth ancient dolphin statuette - New York Post ",
-            "description": "Ancient Romans controlled the city by around 275 B.C., renaming it Paestum from the Greek \u201cPoseidonia,\u201d in what had before been Magna Graecia.",
-            "url": "https://nypost.com/2023/04/16/archeologists-in-italy-unearth-ancient-dolphin-statuette/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26613401-1681637729721.jpg?quality=75&strip=all&1681623367&w=1024",
-            "publishedAt": "2023-04-16T09:47:00Z",
-            "content": "Excavations in southern Italy have unearthed terracotta bullheads and a figurine of the Greek god Eros riding a dolphin, shining new light on the religious life and rituals of an ancient city, cultur\u2026 [+1655 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "",
-            "title": "Dozens killed as fighting between Sudan military rivals enters a second day - CNN",
-            "description": "Fierce fighting across Sudan entered a second day as months of tensions between a paramilitary group and the country's army erupted into violence.",
-            "url": "https://www.cnn.com/2023/04/15/africa/sudan-presidential-palace-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230415071804-02-sudan-unrest-0415.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-16T09:28:00Z",
-            "content": "Fierce fighting across Sudan entered a second day as months of tensions between a paramilitary group and the countrys army erupted into violence.\r\nEyewitnesses in the capital Khartoum told CNN that f\u2026 [+4201 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Zachary Petrizzo",
-            "title": "GOP Quietly Backs Off Attacking Bud Light\u2014Its Own Major Donor - The Daily Beast",
-            "description": "The NRCC put out and then swiftly deleted a direct attack on Bud Light, whose parent company donated nearly $500,000 to its candidates in the most recent campaign cycle.",
-            "url": "https://www.thedailybeast.com/nrcc-quietly-backs-off-attacking-bud-lightits-own-major-donor",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1681584049/230415-budlight-kozie-hero_yjluzx",
-            "publishedAt": "2023-04-16T07:09:07Z",
-            "content": "The National Republican Congressional Committee quietly deleted a fundraising page Saturday that took aim at one of its largest donors, the parent company of Bud Light, Anheuser-Busch.\r\nThe NRCCs bac\u2026 [+2484 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Peter Orsi",
-            "title": "Ferry runs aground near Seattle; no injuries reported - The Associated Press",
-            "description": "SEATTLE (AP) \u2014 A passenger ferry carrying hundreds of people ran aground near Bainbridge Island west of Seattle on Saturday but there were no reports of injuries or contamination, authorities said.",
-            "url": "https://apnews.com/article/ferry-aground-accident-seattle-bremerton-bainbridge-bef8a59ba80b7464241195ddd3241d05",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/99056e89e9a74ccb845bc3c0eb2a00c4/3000.webp",
-            "publishedAt": "2023-04-16T07:07:50Z",
-            "content": "SEATTLE (AP) A passenger ferry carrying hundreds of people ran aground near Bainbridge Island west of Seattle on Saturday but there were no reports of injuries or contamination, authorities said. \r\nT\u2026 [+2684 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Bevan Hurley",
-            "title": "Nima Momeni: Who is the tech executive arrested for murder of Cash App founder Bob Lee? - The Independent",
-            "description": "Nima Momeni has been charged with the murder, according to county jail records",
-            "url": "https://www.independent.co.uk/news/world/americas/crime/nima-momeni-sister-ethnicity-bob-lee-killed-b2320596.html",
-            "urlToImage": "https://static.independent.co.uk/2023/04/13/17/Screen%20Shot%202023-04-13%20at%2011.45.00%20AM.png?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-04-16T06:55:22Z",
-            "content": "Sign up to our free US news bulletin sent straight to your inbox each weekday morning\r\nSign up to our free morning US email news bulletin\r\nPolice in San Francisco arrested tech executive Nima Momeni \u2026 [+6891 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Charu Sinha",
-            "title": "Blackpink Goes Solo at Coachella - Vulture",
-            "description": "Blackpink made history on Saturday night, becoming the first Korean act to headline Coachella. All four members performed solo songs.",
-            "url": "http://www.vulture.com/2023/04/blackpink-goes-solo-at-coachella.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/b92/40d/3373b602e07c7d01ecee8350f33aa67fa3-blackpink.1x.rsocial.w1200.jpg",
-            "publishedAt": "2023-04-16T06:08:45Z",
-            "content": "Last time Blackpink was at Coachella in 2019, things were a little different. For one, they werent performing on the main stage, and two, only one of them (Jennie) performed a solo song. On Saturday \u2026 [+767 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MMA Fighting"
-            },
-            "author": "MMA Fighting Newswire",
-            "title": "UFC Kansas City post-fight show: Reaction to Max Holloway outlasting Arnold Allen, Edson Barboza\u2019s nasty knoc\u2026 - MMA Fighting",
-            "description": "MMA Fighting reacts to Max Holloway\u2019s big win over Arnold Allen, and the top storylines from UFC Kansas City.",
-            "url": "https://www.mmafighting.com/2023/4/16/23685144/ufc-kansas-city-post-fight-show-reaction-to-max-holloway-outlasting-game-arnold-allen-barboza-ko",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Bw0XOS3DMyexOPE6GlPpsCwG9pk=/0x0:6974x3651/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24588809/1482513677.jpg",
-            "publishedAt": "2023-04-16T05:32:54Z",
-            "content": "Max Holloway and Arnold Allen put on a highly competitive five-round headliner to cap off Saturdays UFC Kansas City event, but in the end, it was the former champion who was able to outlast the surgi\u2026 [+884 chars]"
+            "author": "Kevin Breuninger, Lillian Rizzo",
+            "title": "Fox-Dominion defamation trial delayed on the eve of opening statements - CNBC",
+            "description": "Dominion Voting Systems' $1.6 billion defamation lawsuit against Fox News has been delayed on the eve of its scheduled start date, the court said.",
+            "url": "https://www.cnbc.com/2023/04/17/dominion-defamation-lawsuit-against-fox-news-delayed.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107225953-1681691974516-gettyimages-1227722129-AFP_1VK1K4.jpeg?v=1681692483&w=1920&h=1080",
+            "publishedAt": "2023-04-17T00:35:00Z",
+            "content": "WILMINGTON, Del. Dominion Voting Systems' $1.6 billion defamation lawsuit against Fox News has been delayed on the eve of its scheduled start date, an official for the court said Sunday.\r\nThe conclus\u2026 [+1371 chars]"
         },
         {
             "source": {
@@ -190,77 +60,207 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Gunmen storm Mexican resort, kill 7, including child - Reuters Canada",
-            "description": "Armed men on Saturday killed a child and six others after storming a resort in the central Mexican state of Guanajuato, authorities said, in a region increasingly plagued by drug cartel violence.",
-            "url": "https://www.reuters.com/world/americas/gunmen-storm-mexican-resort-kill-7-including-child-2023-04-16/",
-            "urlToImage": "https://www.reuters.com/resizer/TG_nvdNU9zigaJSVfz4ocrz6I1M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7U3QDDV7E5LKHN5TIWDUCOJOMA.jpg",
-            "publishedAt": "2023-04-16T04:19:00Z",
-            "content": "MEXICO CITY, April 15 (Reuters) - Armed men on Saturday killed a child and six others after storming a resort in the central Mexican state of Guanajuato, authorities said, in a region increasingly pl\u2026 [+1259 chars]"
+            "title": "Four dead in Alabama 'Sweet 16' birthday party shooting - Reuters.com",
+            "description": "At least four people were killed and 28 wounded in a shooting that erupted during a late-night \"Sweet 16\" birthday celebration at a dance studio in the small town of Dadeville, Alabama, state police and local news media said on Sunday.",
+            "url": "https://www.reuters.com/world/us/four-killed-multiple-injuries-alabama-shooting-2023-04-16/",
+            "urlToImage": "https://www.reuters.com/resizer/IYdE-S9NyF7Q6k1poUUE-ZOQ71Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QPPR4TTNAFIB5L3KZTZP2RISAE.jpg",
+            "publishedAt": "2023-04-17T00:26:00Z",
+            "content": "April 16 (Reuters) - At least four people were killed and 28 wounded in a shooting that erupted during a late-night \"Sweet 16\" birthday celebration at a dance studio in the small town of Dadeville, A\u2026 [+4126 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "WEAU"
             },
-            "author": "Ben Rohrbach",
-            "title": "Trae Young and his Atlanta Hawks have nowhere to hide against the Boston Celtics - Yahoo Sports",
-            "description": "It took all of 11 seconds for the Celtics to establish dominance over the Hawks in Game 1 of their first-round playoff series.",
-            "url": "https://sports.yahoo.com/trae-young-and-his-atlanta-hawks-have-nowhere-to-hide-against-the-boston-celtics-041652130.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kD7Bw3pkmoHaQhEkEAKXow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/133a4ea0-dc0c-11ed-b7fe-2731b150f91b",
-            "publishedAt": "2023-04-16T04:16:00Z",
-            "content": "BOSTON The Celtics led the Hawks by 30 points at halftime in Game 1 of their first-round playoff series when Cedric Maxwell called to Dominique Wilkins across the media dining area in TD Garden's und\u2026 [+5236 chars]"
+            "author": null,
+            "title": "WINTER STORM WARNING: Heavy snow and strong winds will make for a hazardous Monday morning commute - WEAU",
+            "description": "Wintry weather returns to Western Wisconsin",
+            "url": "https://www.weau.com/2023/04/16/winter-storm-warning-heavy-snow-strong-winds-will-make-hazardous-monday-morning-commute/",
+            "urlToImage": "https://gray-weau-prod.cdn.arcpublishing.com/resizer/J7JNU5CsZxSDvPXcYHgXmvR5HKc=/1200x600/filters:focal(860x582:870x572):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/ATRZFZ7K7FDFJOMFXJ6JZIEGI4.png",
+            "publishedAt": "2023-04-16T23:22:00Z",
+            "content": "EAU CLAIRE, Wis. (WEAU) - After enjoying quiet weather this past week with unseasonably warm air, our weekend has looked much different with a storm system coming up from the southwest. Scattered sho\u2026 [+2631 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Ja Morant injury update: Grizzlies star says status for Game 2 'in jeopardy' after suffering hand injury - CBS Sports",
+            "description": "L.A. now leads the series 1-0 over Memphis",
+            "url": "https://www.cbssports.com/nba/news/ja-morant-injury-update-grizzlies-star-says-status-for-game-2-in-jeopardy-after-suffering-hand-injury/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/16/88ab01b7-f816-427d-b559-f1a4b476006b/thumbnail/1200x675/ba31d5129d918a8c041446ac8b275c2d/untitled-design-2023-04-16t171217-575.png",
+            "publishedAt": "2023-04-16T23:22:00Z",
+            "content": "Grizzlies star guard Ja Morant exited midway through the fourth quarter of Memphis' 128-112 loss to the Los Angeles Lakers in Game 1 of the first-round series between the teams on Sunday afternoon af\u2026 [+1524 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Michigan mill worker dies from fungal outbreak of blastomycosis: 'Deeply saddened' - Fox News",
+            "description": "A contract worker at the Billerud Paper Mill in Escanaba, Michigan, has died from an ongoing fungal outbreak that may have infected nearly 100 employees with blastomycosis.",
+            "url": "https://www.foxnews.com/health/michigan-mill-worker-dies-fungal-outbreak-blastomycosis-saddened",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/billerud-paper-mill.jpg",
+            "publishedAt": "2023-04-16T23:08:00Z",
+            "content": "A contract worker at the Billerud Paper Mill in Escanaba, Michigan, has died from an ongoing fungal outbreak that may have infected nearly 100 employees with blastomycosis, according to a press relea\u2026 [+3997 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Jonathan Vigliotti",
-            "title": "Christy Giles and Hilda Marcela Cabrales-Arzola case: Digital evidence leads to clues in deaths of friends dumped outside LA hospitals by masked men - CBS News",
-            "description": "When model Christy Giles, 24, and architect Hilda Marcela Cabrales, 26, were dropped off at two different hospitals after a night out together, they could have been seen as two more overdose deaths \u2014 but police immediately suspected foul play.",
-            "url": "https://www.cbsnews.com/news/christy-giles-model-hilda-marcela-cabrales-arzola-deaths-david-pearce-48-hours/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/15/5e2b649e-ede7-4cb0-adb4-53861c7b3496/thumbnail/1200x630/4e55e9ebaa565e029c5695583e7b6743/giles-cabrales-sneakpeek.jpg",
-            "publishedAt": "2023-04-16T03:00:00Z",
-            "content": "Hilda Marcela Arzola-Plascencia, a doctor in Durango, Mexico, was used to handling medical emergencies. But nothing prepared her for the call she got about her eldest daughter and namesake Hilda Marc\u2026 [+32644 chars]"
+            "author": "Keith Zubrow",
+            "title": "How Google's \"Don't be evil\" motto has evolved for the AI age | 60 Minutes - CBS News",
+            "description": "Google CEO Sundar Pichai told 60 Minutes the company's founding motto includes more nuance, but still underpins its values.",
+            "url": "https://www.cbsnews.com/news/how-googles-dont-be-evil-motto-has-evolved-for-ai-age-60-minutes-2023-04-16/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/14/7881c035-bf17-4925-a031-e07f0b9be21a/thumbnail/1200x630/3fc21cbf2eeb74f5a257bdda0f5fe111/ot-googleaifd.jpg",
+            "publishedAt": "2023-04-16T23:03:06Z",
+            "content": "\"I've always thought of AI [artificial intelligence] as the most profound technology humanity is working on. More profound than fire or electricity or anything that we've done in the past,\" said Sund\u2026 [+3353 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Noah Buhayar, Jennifer Surane, Max Reyes, Ann Choi",
+            "title": "First Republic\u2019s Loans to Rich Clients Drag Earnings, Hinder Potential Sale - Bloomberg",
+            "description": "The bank attracted wealthy clients with loans that have become a costly hurdle to finding a rescuer.",
+            "url": "https://www.bloomberg.com/news/articles/2023-04-16/first-republic-s-loans-to-rich-clients-drag-earnings-hinder-potential-sale",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ0J8MEnUEEg/v1/1200x675.jpg",
+            "publishedAt": "2023-04-16T23:00:07Z",
+            "content": "In America\u2019s richest enclaves, word spread quickly: A bank was offering loans on sweet terms.\r\nWealthy homebuyers and property investors with high incomes and sterling credit scores could get a mortg\u2026 [+145 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Lauren Sforza",
+            "title": "Merck-Moderna vaccine helps reduce chances of skin cancer - The Hill",
+            "description": "A vaccine launched by Merck and Moderna was found to reduce the chances of skin cancer when used with the drug Keytruda, according to a new study released Monday. The new results found that 79 percent of participants who received the vaccine and Keytruda stay\u2026",
+            "url": "https://thehill.com/policy/healthcare/3953905-merck-moderna-vaccine-helps-reduce-chances-of-skin-cancer/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/12/Merck_Moderna1400x787.jpg?w=1280",
+            "publishedAt": "2023-04-16T22:52:00Z",
+            "content": "Skip to content\r\nA vaccine launched by Merck and Moderna was found to reduce the chances of skin cancer when used with the drug Keytruda, according to a new study released Monday. \r\nThe new results f\u2026 [+1775 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Eonline.com"
+            },
+            "author": "Corinne Heller",
+            "title": "Pregnant Lindsay Lohan Celebrates Baby Shower Weekend That's So Fetch - E! NEWS",
+            "description": "See photos from Lindsay Lohan's baby shower. The Mean Girls actress is expecting her first child with husband Bader Shammas.",
+            "url": "https://www.eonline.com/news/1371538/pregnant-lindsay-lohan-celebrates-baby-shower-weekend-thats-so-fetch",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023316/rs_600x600-230416143959-600-lindsay-lohan-baby-shower-ali-instagram-cjh-041523.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-04-16T22:37:00Z",
+            "content": "One time, Lindsay Lohan had a baby shower. It was awesome. (For real.)\r\nThe pregnant\u00a0Mean Girls star, who is expecting her first child with her husband of one year,\u00a0Bader Shammas, celebrating their b\u2026 [+829 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Reuters",
+            "title": "Former Indian lawmaker killed live on TV while in police custody - CNN",
+            "description": "A former lawmaker in India's parliament, convicted of kidnapping, was shot dead along with his brother while police were escorting them for a medical check-up in a slaying caught on live television on Saturday.",
+            "url": "https://www.cnn.com/2023/04/16/india/former-indian-lawmaker-killed-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230416042343-01-atiq-ahmed-041323.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-16T22:27:00Z",
+            "content": "A former lawmaker in Indias parliament, convicted of kidnapping, was shot dead along with his brother while police were escorting them for a medical check-up in a slaying caught on live television on\u2026 [+2384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chicago Tribune"
+            },
+            "author": "Olivia Alexander, Adriana Perez",
+            "title": "Lori Lightfoot and Brandon Johnson weigh in on weekend shootings of teenagers as summer approaches - Chicago Tribune",
+            "description": "CTA service was disrupted Saturday night after two teenagers were shot in the Loop, officials say.",
+            "url": "https://www.chicagotribune.com/news/breaking/ct-teens-shot-loop-20230416-wcb2jspkjfgcxavvaiw6m42p4e-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/h2hDxEP8skEZF09PEtuUEa6I44A=/1200x630/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ERKVMG563JCDXKVLFKJ2SIMYEE.png",
+            "publishedAt": "2023-04-16T22:21:07Z",
+            "content": "The weekend shootings of three teenagers in two separate incidents drew responses from Mayor Lori Lightfoot and Mayor-elect Brandon Johnson as summer looms.\r\nIn a statement released Sunday afternoon,\u2026 [+2670 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOSH DUBOW AP Sports Writer",
+            "title": "Kings probe 'racial bias' claims after rapper E-40 ejected - ABC News",
+            "description": "The Sacramento Kings are investigating allegations from a Bay Area hip-hop star that \u201cracial bias\u201d led to him being kicked out of his seat during a playoff game against the Golden State Warriors",
+            "url": "https://abcnews.go.com/Sports/wireStory/kings-probe-racial-bias-claims-after-rapper-40-98620236",
+            "urlToImage": "https://s.abcnews.com/images/Sports/wirestory_805bf0cce2b990684461218bc68e934e_16x9_992.jpg",
+            "publishedAt": "2023-04-16T21:56:15Z",
+            "content": "SACRAMENTO, Calif. -- The Sacramento Kings are investigating allegations from a Bay Area hip-hop star that racial bias led to him being kicked out of his seat during a playoff game against the Golden\u2026 [+1997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Action Network"
+            },
+            "author": "Tyler Schmidt",
+            "title": "NBA Game 1 Player Props Today: Best Bets for Deandre Ayton, Nikola Jokic (April 16) - The Action Network",
+            "description": "Tyler Schmidt writes about his two favorite NBA player props for Sunday's Game 1 matchups: Centers Deandre Ayton and Nikola Jokic.",
+            "url": "https://www.actionnetwork.com/nba/nba-player-props-today-picks-deandre-ayton-nikola-jokic-best-bets-game-1-april-16",
+            "urlToImage": "https://images.actionnetwork.com/blog/2023/04/jokic.jpg",
+            "publishedAt": "2023-04-16T21:38:00Z",
+            "content": "Saturday\u2019s opening playoff round matchups are in the books and Sunday brings more opportunities to find a betting edge. After hitting both NBA player props yesterday and one of our two PrizePicks pro\u2026 [+3400 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
             },
             "author": null,
-            "title": "BREAKING: Evacuation issued after fire reignites at Georgia plant - ABC 7 Chicago",
-            "description": "An evacuation was issued after the Pinova plant fire in Brunswick, GA reignited, a Glynn County official said. https://abc7chicago.com/pinova-plant-fire-chem...",
-            "url": "https://www.youtube.com/watch?v=Akr3KPYR5J8",
-            "urlToImage": "https://i.ytimg.com/vi/Akr3KPYR5J8/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGEIgUShlMA8=&rs=AOn4CLAse0SzrwrR8Dq6KPZchBjPbNPEtw",
-            "publishedAt": "2023-04-16T02:42:31Z",
-            "content": null
+            "title": "Band of gunmen shoot up La Palma resort in central Mexico, killing 6 adults and 7-year-old - KABC-TV",
+            "description": "A band of gunmen invaded a resort where dozens of vacationers were spending the weekend in central Mexico and opened fire, killing six adults and a 7-year-old, authorities said.",
+            "url": "https://abc7.com/la-palma-resort-shooting-central-mexico-gunmen-shootout-cortazar/13138640/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/12362047_031822-police-lights-img.png?w=1600",
+            "publishedAt": "2023-04-16T21:04:18Z",
+            "content": "MEXICO CITY -- A band of gunmen invaded a resort where dozens of vacationers were spending the weekend in central Mexico and opened fire, killing six adults and a 7-year-old, authorities said.\r\nNOTE:\u2026 [+1004 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Nintendo Life"
+                "name": "SciTechDaily"
             },
-            "author": "Liam Doolan",
-            "title": "Zelda: Tears Of The Kingdom Switch Download Card Shows Off New Characters - Nintendo Life",
-            "description": "Another official reveal",
-            "url": "https://www.nintendolife.com/news/2023/04/zelda-tears-of-the-kingdom-switch-download-card-shows-off-new-characters",
-            "urlToImage": "https://images.nintendolife.com/83f51d28e6df7/1280x720.jpg",
-            "publishedAt": "2023-04-16T01:30:00Z",
-            "content": "Image: Nintendo\r\nIf you're eager to see more of The Legend of Zelda: Tears of the Kingdom, it seems we've got another official reveal.\r\nDownload cards for the game are now appearing at stores in Japa\u2026 [+810 chars]"
+            "author": null,
+            "title": "Welcome to Mars! Caltech's Jaw-Dropping, 5.7 Terapixel Virtual Expedition Across the Red Planet - SciTechDaily",
+            "description": "Both scientists and the public can navigate a new global image of the Red Planet that was made at Caltech using data from NASA\u2019s Mars Reconnaissance Orbiter. Caltech has used data from NASA's Mars Reconnaissance Orbiter to create the highest-resolution global\u2026",
+            "url": "https://scitechdaily.com/welcome-to-mars-caltechs-jaw-dropping-5-7-terapixel-virtual-expedition-across-the-red-planet/",
+            "urlToImage": "https://scitechdaily.com/images/Global-CTX-Mosaic-of-Mars.jpg",
+            "publishedAt": "2023-04-16T20:45:08Z",
+            "content": "ByJet Propulsion LaboratoryApril 16, 2023\r\nThe Global CTX Mosaic of Mars allows scientists and the public to explore the planet like never before. It includes different layers of data that can be tur\u2026 [+6614 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Neurosciencenews.com"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Atiq Ahmed: Former Indian politician and brother shot dead live on TV - BBC",
-            "description": "Atiq Ahmed, a former politician convicted in a kidnapping case, was shot while under police escort.",
-            "url": "https://www.bbc.com/news/world-asia-india-65290042",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/175A9/production/_129375659_annotation2023-04-16004234.jpg",
-            "publishedAt": "2023-04-16T00:46:54Z",
-            "content": "A former Indian politician convicted of kidnapping has been shot dead live on TV along with his brother.\r\nAtiq Ahmed, who was under police escort, was talking to reporters when a gun was pulled close\u2026 [+4631 chars]"
+            "author": "Neuroscience News",
+            "title": "A New Breakthrough in Alzheimer Disease Research - Neuroscience News",
+            "description": "A novel imaging technique is capable of showing reactive astrocyte-neuron interactions. The technique sheds new light on Alzheimer's pathologies and offers a potential breakthrough for the diagnosis and treatment of dementia.",
+            "url": "https://neurosciencenews.com/astrocyte-neuron-alzheimers-neuroscience-23024/",
+            "urlToImage": "https://neurosciencenews.com/files/2023/04/alzheimers-neuron-research-neurosciencce.jpg",
+            "publishedAt": "2023-04-16T20:33:53Z",
+            "content": "Summary: A novel imaging technique is capable of showing reactive astrocyte-neuron interactions. The technique sheds new light on Alzheimer\u2019s pathologies and offers a potential breakthrough for the d\u2026 [+5474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WTHR"
+            },
+            "author": "The Associated Press",
+            "title": "Evacuation order lifted in area near Richmond plastics fire - WTHR",
+            "description": "The order, imposed after a massive fire broke out April 11, was lifted Sunday afternoon.",
+            "url": "https://www.wthr.com/article/news/local/richmond-evacuation-order-lifted/531-a8eb381e-36db-4ac7-b839-2f118ea98b07",
+            "urlToImage": "https://media.tegna-media.com/assets/WTHR/images/a7a498d5-303b-4fb0-91ef-e066a7333136/a7a498d5-303b-4fb0-91ef-e066a7333136_1140x641.jpg",
+            "publishedAt": "2023-04-16T20:29:00Z",
+            "content": "RICHMOND, Ind. Authorities in eastern Indiana lifted a dayslong evacuation order late Sunday afternoon for an area near a plastics fire after they said it was determined air quality and other environ\u2026 [+2275 chars]"
         }
     ]
 }
