@@ -1,58 +1,253 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 36,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt, Natasha Turak",
+            "title": "Ukraine war live updates: Putin makes rare visit to meet troops in Ukraine; Moscow court denies WSJ reporter's appeal - CNBC",
+            "description": "Russian President Vladimir Putin has made a rare trip to meet Russian military commanders and troops fighting in Ukraine.",
+            "url": "https://www.cnbc.com/2023/04/18/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107226886-16818191732023-04-18t070526z_180960544_rc2vg0aph3kv_rtrmadp_0_ukraine-crisis-putin-kherson.jpeg?v=1681821298&w=1920&h=1080",
+            "publishedAt": "2023-04-18T12:11:00Z",
+            "content": "Russian President Vladimir Putin met with China's Defense Minister Li Shangfu on Sunday, marking the latest high-profile meeting between Russian and Chinese officials in recent months.\r\nFootage of th\u2026 [+1420 chars]"
+        },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "Carla Bridi",
-            "title": "Brazil's welcome of Russian minister prompts US blowback - The Associated Press",
-            "description": "BRASILIA, Brazil (AP) \u2014 Russia\u2019s Foreign Minister Sergey Lavrov on Monday expressed gratitude to Brazil for its approach in pushing for an end to hostilities in Ukraine \u2014 an effort that has irked both Kyiv and the West, and by afternoon prompted an unusually \u2026",
-            "url": "https://apnews.com/article/brazil-russia-lula-lavrov-putin-42c7c46fa629d98b2029aa1ff44a89b6",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/a546e4c556334877912c3992271014b0/3000.webp",
-            "publishedAt": "2023-04-18T01:17:34Z",
-            "content": "BRASILIA, Brazil (AP) Russias Foreign Minister Sergey Lavrov on Monday expressed gratitude to Brazil for its approach in pushing for an end to hostilities in Ukraine an effort that has irked both Kyi\u2026 [+5766 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Elon Musk claims to be working on 'TruthGPT' \u2014 a 'maximum truth-seeking AI' - The Verge",
-            "description": "During an interview with Tucker Carlson, Elon Musk says he wants to work on a ChatGPT alternative, called \u201cTruthGPT\u201d that serves as a \u201cmaximum truth-seeking AI.\u201d",
-            "url": "https://www.theverge.com/2023/4/17/23687440/elon-musk-truthgpt-ai-chatgpt",
-            "urlToImage": null,
-            "publishedAt": "2023-04-18T01:08:00Z",
-            "content": "Elon Musk claims to be working on TruthGPT a maximum truth-seeking AI\r\nElon Musk claims to be working on TruthGPT a maximum truth-seeking AI\r\n / An AI that cares about understanding the universe is u\u2026 [+2159 chars]"
+            "author": "Jack Jeffery",
+            "title": "Sudanese army, rival forces agree to 24-hour cease-fire - The Associated Press",
+            "description": "KHARTOUM, Sudan (AP) \u2014 The Sudanese army and a rival paramilitary force that have been battling the past four days for control of the country agreed on Tuesday to a 24-hour cease-fire, Arab media reports said.",
+            "url": "https://apnews.com/article/sudan-fighting-military-us-convoy-attacked-60b1568b3bd05cdf6ad78c7f17cc8208",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/980968ca210749b8985cc2b27d150282/3000.webp",
+            "publishedAt": "2023-04-18T12:08:00Z",
+            "content": "KHARTOUM, Sudan (AP) The Sudanese army and a rival paramilitary force that have been battling the past four days for control of the country agreed on Tuesday to a 24-hour cease-fire, Arab media repor\u2026 [+6676 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eonline.com"
+                "name": "CNBC"
             },
-            "author": "Daniel Trainor",
-            "title": "Love Is Blind's Paul Reveals the Cast Member He Dated After Micah Breakup - E! NEWS",
-            "description": "In an exclusive interview with E! News, Love Is Blind's Paul Peden revealed the season four cast member he dated after his breakup with ex-fianc\u00e9e Micah Lussier.",
-            "url": "https://www.eonline.com/news/1371650/love-is-blinds-paul-reveals-the-cast-member-he-dated-after-micah-breakup",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023317/rs_1200x1200-230417165236-paul.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-04-18T01:08:00Z",
-            "content": "Status: Didn't make it to wedding day\r\nFans watched with dismay as Jackie chose to give Josh Demas, the other man she connected with in the pods, a second chance, meeting up with him before ending he\u2026 [+1052 chars]"
+            "author": "Pia Singh",
+            "title": "Stocks making the biggest moves premarket: Johnson & Johnson, Goldman Sachs, Sunrun and more - CNBC",
+            "description": "Shares of Goldman Sachs shed nearly 4% after missing revenue estimates in its first-quarter earnings released before Tuesday's opening bell.",
+            "url": "https://www.cnbc.com/2023/04/18/stocks-making-the-biggest-moves-premarket-jnj-gs-run.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107221192-1680718205717-gettyimages-1480096593-0j5a5779_phvhhgre.jpeg?v=1681819598&w=1920&h=1080",
+            "publishedAt": "2023-04-18T12:06:38Z",
+            "content": "Check out the companies making headlines before the bell on Tuesday.\r\nGoldman Sachs The investment bank said first quarter revenue totaled $12.22 billion, below the $12.79 billion consensus estimate \u2026 [+2789 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "The Athletic"
             },
-            "author": "Jay Peters",
-            "title": "The Pixel 7A might cost $50 more than the Pixel 6A - The Verge",
-            "description": "Google\u2019s still-unannounced Pixel 7A might cost $499, meaning the rumored midrange phone will launch at a $50 premium over last year\u2019s Pixel 6A.",
-            "url": "https://www.theverge.com/2023/4/17/23687340/pixel-7a-cost-camera-wireless-charging-tablet",
-            "urlToImage": null,
-            "publishedAt": "2023-04-18T00:32:00Z",
-            "content": "The Pixel 7A might cost $50 more than the Pixel 6A\r\nThe Pixel 7A might cost $50 more than the Pixel 6A\r\n / The still-unannounced phone might cost $499.\r\nByJay Peters\r\nApr 18, 2023, 12:32 AM UTC|Comme\u2026 [+1724 chars]"
+            "author": "Marcus Thompson II, Anthony Slater, Sam Amick, Hunter Patterson",
+            "title": "Draymond Green ejected as Kings take 2-0 series lead over Warriors: Further discipline coming? - The Athletic",
+            "description": "Green had eight points on 3-of-6 shooting in 31 minutes before the ejection.",
+            "url": "https://theathletic.com/4423463/2023/04/18/warriors-kings-game-2-score-draymond-green/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/04/18003053/USATSI_20475843-1024x683.jpg",
+            "publishedAt": "2023-04-18T11:18:01Z",
+            "content": "By Sam Amick, Marcus Thompson II and Hunter Patterson\r\nThe Warriors find themselves down 0-2 in a playoff series for the first time since 2007 after their 114-106 loss to the Kings in Sacramento on M\u2026 [+4079 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Renowned mountain climber Noel Hanna dies descending from peak of Nepal's treacherous Annapurna - CBS News",
+            "description": "Hanna had summited Everest 10 times and climbed the highest point on all seven continents.",
+            "url": "https://www.cbsnews.com/news/nepal-annapurna-noel-hanna-climber-dies-on-mountain/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/18/e8cd2f02-d5a9-4d47-9818-4e8f0a9ed67d/thumbnail/1200x630/22d200b5faa1fd9fee5e78ab950e37a6/noel-hanna.jpg",
+            "publishedAt": "2023-04-18T11:12:08Z",
+            "content": "Kathmandu \u2014 Renowned Northern Irish climber Noel Hanna has died in Nepal while descending from the top of the treacherous Annapurna mountain range, officials said Tuesday. The 56-year-old adventurer \u2026 [+1893 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Peter Schrager",
+            "title": "Peter Schrager 2023 NFL mock draft 1.0: Texans trade out of No. 2; five QBs taken in first 12 picks - NFL.com",
+            "description": "In his first mock of the 2023 NFL Draft, Peter Schrager has C.J. Stroud going second overall -- but not to the Texans, who land another QB altogether later in Round 1. In fact, five quarterbacks come off the board in the first 12 picks.",
+            "url": "https://www.nfl.com/news/peter-schrager-2023-nfl-mock-draft-1-0-texans-trade-out-of-no-2-two-rbs-picked-i",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/bzth1aignpfcahmcugen",
+            "publishedAt": "2023-04-18T11:00:00Z",
+            "content": "We're officially single-digit days away from the 2023 NFL Draft (April 27-29 in Kansas City, Missouri). Time to take my first crack at mocking the first round.\r\nREMINDER: As always, this isn't what I\u2026 [+1367 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Wayne Sterling",
+            "title": "Double delight for Kenya as Evans Chebet and Hellen Obiri win men's and women's Boston Marathon races - CNN",
+            "description": "There was double delight for Kenya at the 2023 Boston Marathon as Evans Chebet and Hellen Obiri won the men's and women's races respectively.",
+            "url": "https://www.cnn.com/2023/04/17/sport/evans-chebet-wins-boston-marathon-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230417132901-boston-marathon-2023-chebet-obiri.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-18T10:37:00Z",
+            "content": "There was double delight for Kenya at the 2023 Boston Marathon as Evans Chebet and Hellen Obiri won the mens and womens races respectively.\r\nChebet claimed his second consecutive Boston Marathon the \u2026 [+1271 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tracy Wright",
+            "title": "Kelly Ripa, Mark Consuelos criticized for 'painful' new show as viewers tune out post-Ryan Seacrest - Fox News",
+            "description": "Former soap stars and married couple Kelly Ripa and Mark Counselos were off to a rough start on the first day of co-hosting the long-running \"Live!\" ABC morning show.",
+            "url": "https://www.foxnews.com/media/kelly-ripa-mark-consuelos-criticized-painful-new-show-viewers-tune-out-post-ryan-seacrest",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/kelly-ripa.jpg",
+            "publishedAt": "2023-04-18T10:33:00Z",
+            "content": "\"Live with Kelly and Mark\" debuted Monday, and Ryan Seacrest was out of the co-hosting seat with Mark Consuelos officially beginning his first day on the job.\r\nWhile Kelly Ripa was completely comfort\u2026 [+3110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Akron Beacon Journal"
+            },
+            "author": "Amanda Garrett, Doug Livingston",
+            "title": "What we're learning from BCI investigation into Akron police shooting of Jayland Walker - Akron Beacon Journal",
+            "description": "The Akron community, after months of grieving and protests, is learning new details about what happened the night Akron police killed Jayland Walker.",
+            "url": "https://www.beaconjournal.com/story/news/2023/04/18/what-did-bci-discover-in-akron-police-shooting-death-of-jayland-walker/70084389007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/03/NABJ/1509ece7-f9d8-484e-8a64-6097cb5759b2-jaylandwalkerpresser05.jpg?crop=1799,1012,x0,y0&width=1799&height=1012&format=pjpg&auto=webp",
+            "publishedAt": "2023-04-18T10:03:41Z",
+            "content": "Did Jayland Walker intend to die the night police shot and killed him last year?\r\nIts one of the biggest questions the Ohio Bureau of Criminal Investigation (BCI) tried to answer during its 10-month \u2026 [+10606 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kevin Breuninger, Lillian Rizzo",
+            "title": "Fox News and Dominion trial kicks off with opening statements in defamation suit - CNBC",
+            "description": "Dominion has accused Fox of \"intentionally and falsely\" blaming it for former President Donald Trump's loss to President Joe Biden.",
+            "url": "https://www.cnbc.com/2023/04/18/fox-dominion-trial-defamation-case-opening-statements.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107224308-16813328122023-04-12t204812z_922460316_rc28d0al6d65_rtrmadp_0_usa-fox-dominion-sanction.jpeg?v=1681812001&w=1920&h=1080",
+            "publishedAt": "2023-04-18T10:00:01Z",
+            "content": "WILMINGTON, Del. Opening arguments are set to begin Tuesday in the Dominion Voting Systems' defamation lawsuit accusing Fox News of spreading the damaging falsehood that the company rigged the 2020 e\u2026 [+4318 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TrueAchievements"
+            },
+            "author": "Sean Carey",
+            "title": "Game Pass adds Minecraft Legends today - TrueAchievements",
+            "description": "The Xbox Game Pass and PC Game Pass libraries grow once more today with the addition of the blocky action-strategy title Minecraft Legends.",
+            "url": "https://www.trueachievements.com/n53520/minecraft-legends-release-time-game-pass",
+            "urlToImage": "https://www.trueachievements.com/imgs/138406/minecraft-legends-achievements.jpg",
+            "publishedAt": "2023-04-18T09:35:12Z",
+            "content": "Minecraft Legends\r\nThe piglins Nether corruption is spreading across the Overworld, scorching everything it touches. Are you the hero who will protect this gentle land? Plan your strategy and face th\u2026 [+900 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh",
+            "title": "Tim Cook opens first Apple store in India - CNN",
+            "description": "Apple's CEO Tim Cook is in India this week to open its first physical stores in the country, marking a milestone for the iPhone maker in the world's second largest smartphone market.",
+            "url": "https://www.cnn.com/2023/04/18/tech/tim-cook-apple-store-india-opening-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230418141215-tim-cook-mumbai-0418.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-18T09:25:00Z",
+            "content": "Apples CEO Tim Cook is in India this week to open its first physical stores in the country, marking a milestone for the iPhone maker in the worlds second largest smartphone market.\r\nCook was seen per\u2026 [+5013 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ariane de Vogue",
+            "title": "Supreme Court hears appeal of postal worker who didn't work Sundays in dispute over religious accommodations - CNN",
+            "description": "The Supreme Court on Tuesday will take on a major religious liberty dispute that could ultimately clarify how far employers must go to accommodate their employees' religious beliefs.",
+            "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230417113724-gerald-groff-230308.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-18T09:03:00Z",
+            "content": "The Supreme Court on Tuesday will take on a major religious liberty dispute that could ultimately clarify how far employers must go to accommodate their employees religious beliefs. \r\nGerald Groff, w\u2026 [+4238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Nika Shakhnazarova",
+            "title": "'Mike & Molly' star Billy Gardell details 150-pound weight loss: My diabetes is 'gone' - Page Six",
+            "description": "The \u201cMike & Molly\u201d alum said he\u2019s \u201cwalking around pretty healthy these days\u201d after his 150-pound weight loss and revealed he no longer has diabetes.",
+            "url": "https://pagesix.com/2023/04/18/mike-molly-star-billy-gardell-details-150-pound-weight-loss/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/04/newspress-collage-6825814-1681803449604.jpg?quality=75&strip=all&1681789141&w=1200",
+            "publishedAt": "2023-04-18T07:44:00Z",
+            "content": "Actor Billy Gardell has detailed his impressive 150-pound weight loss, revealing he\u2019s no longer diabetic.\r\nThe \u201cMike &amp; Molly\u201d alum told Entertainment Tonight that he\u2019s \u201cwalking around pretty heal\u2026 [+2799 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe,Kevin Conlon,Takashi Murakami",
+            "title": "'Don't give up on me': Teen recounts terror of Alabama mass shooting that killed her brother and 3 others at her Sweet 16 - CNN",
+            "description": "Before Alexis Dowdell headed to her Sweet 16 party, she sat on her big brother's bed to tell him she was nervous for the event she had been planning for months, only to have him make her laugh and reassure her that he would make sure she had fun.",
+            "url": "https://www.cnn.com/2023/04/18/us/dadeville-alabama-sweet-16-birthday-shooting-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230416212422-14-dadeville-alabama-shooting-vigil.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-18T07:19:00Z",
+            "content": "Before Alexis Dowdell headed to her Sweet 16 party, she sat on her big brothers bed to tell him she was nervous for the event she had been planning for months only to have him make her laugh and assu\u2026 [+5710 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Namita Singh",
+            "title": "Ralph Yarl shooting \u2013 update: Mugshot of suspect Andrew Lester shared as police say 'racial component' to case - The Independent",
+            "description": "Viola Davis, Halle Berry and Chrissy Teigen have joined in the outrage over the shooting of Black 16-year-old Ralph Yarl",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/ralph-yarl-released-andrew-lester-shooting-kansas-b2321559.html",
+            "urlToImage": "https://static.independent.co.uk/2023/04/17/17/Ralph%20Yarl%20insert%20viola%20davis%20halle%20berry.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-04-18T06:55:03Z",
+            "content": "Who is Ralph Yarl?\r\nRalph Yarl, a Black 16-year-old, is a high school scholar who has dreams of going to attend Texas A&amp;M to major in chemical Engineering.\r\nA GoFundMe launched by his family desc\u2026 [+1162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Sacramento Kings Playoff Game 2 Update: Kings take down Warriors, 2-0 in series - ABC10",
+            "description": "The Sacramento Kings and the fans are raucous outside of the Golden 1 Center after the Kings toppled the Warriors.#sacramentokings #kings #sacramento #warrio...",
+            "url": "https://www.youtube.com/watch?v=vBCs8E9YsWU",
+            "urlToImage": "https://i.ytimg.com/vi/vBCs8E9YsWU/hqdefault.jpg",
+            "publishedAt": "2023-04-18T06:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Charisma Madarang",
+            "title": "Justin Bieber Shares Heartfelt Message to Frank Ocean After Coachella Set - Rolling Stone",
+            "description": "Bieber took to social media on Monday to share his thoughts on Ocean\u2019s performance last weekend",
+            "url": "https://www.rollingstone.com/music/music-news/justin-bieber-frank-ocean-coachella-1234716828/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/04/Justin-Bieber-Frank-Ocean.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-04-18T06:17:39Z",
+            "content": "Justin Bieber shared his thoughts on Frank Ocean\u2019s controversial Coachella performance on Sunday, which left many fans bewildered and disappointed. The set was the musician\u2019s first live performance i\u2026 [+1244 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Blinken confirms US diplomatic convoy was fired on in Sudan - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/International/blinken-confirms-us-diplomatic-convoy-fired-on-sudan/story?id=98653881",
+            "urlToImage": "https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-04-18T04:52:30Z",
+            "content": "Secretary of State Antony Blinken has confirmed an attack on a U.S. diplomatic convoy in Sudan amid ongoing violence in the region.\r\n\"Yesterday, we had an American diplomatic convoy that was fired on\u2026 [+3159 chars]"
         },
         {
             "source": {
@@ -64,203 +259,8 @@
             "description": "ANCHORAGE, Alaska (AP) \u2014 Northern light enthusiasts got a surprise mixed in with the green bands of light dancing in the Alaska skies: A light baby blue spiral resembling a galaxy appeared amid the aurora for a few minutes.",
             "url": "https://apnews.com/article/alaska-sky-spiral-aurora-northern-lights-90e767058f328bb95bab62c3f5bed1cc",
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/2f5e47ea5055494e9303d97c39fa9d77/3000.webp",
-            "publishedAt": "2023-04-18T00:03:38Z",
+            "publishedAt": "2023-04-18T04:40:57Z",
             "content": "ANCHORAGE, Alaska (AP) Northern light enthusiasts got a surprise mixed in with the green bands of light dancing in the Alaska skies: A light baby blue spiral resembling a galaxy appeared amid the aur\u2026 [+1939 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Niall Stanage",
-            "title": "5 takeaways from Jim Jordan\u2019s NYC hearing into Alvin Bragg and crime - The Hill",
-            "description": "A new battle in the political war over former President Trump\u2019s indictment took place in New York on Monday. House Judiciary Committee Chairman Jim Jordan (R-Ohio), a key Trump ally, held a field hearing. The hearing\u2019s official title was \u201cVictims of Violent C\u2026",
-            "url": "https://thehill.com/homenews/house/3955513-5-takeaways-from-jim-jordans-nyc-hearing-into-alvin-bragg-and-crime/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/jordanjim041723_AP.jpg?w=1280",
-            "publishedAt": "2023-04-17T23:32:00Z",
-            "content": "Skip to content\r\nA new battle in the political war over former President Trump\u2019s indictment took place in New York on Monday.\r\nHouse Judiciary Committee Chairman Jim Jordan (R-Ohio), a key Trump ally\u2026 [+5443 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Nets @ 76ers Game 2 | #NBAPlayoffs presented by Google Pixel Live Scoreboard - NBA",
-            "description": "Tune into TNT to watch #NBAPlayoffs presented by Google Pixel all night long! 7:30 PM ET | Nets/76ers10:00 PM ET | Warriors/KingsNever miss a moment with the...",
-            "url": "https://www.youtube.com/watch?v=siq9H_KHcYc",
-            "urlToImage": "https://i.ytimg.com/vi/siq9H_KHcYc/maxresdefault_live.jpg",
-            "publishedAt": "2023-04-17T23:30:47Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Ewan Spence",
-            "title": "Forget The New MacBook Pro, Apple Has Something Much Better - Forbes",
-            "description": "Developers are caching their first look at the next MacBook, and there's something unusual going on.",
-            "url": "https://www.forbes.com/sites/ewanspence/2023/04/17/apple-macbook-air-15-inch-m2-m3-leak-specs-wwdc-macbook-pro/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6361705195c958b54327c5a2/0x0.jpg?format=jpg&width=1200",
-            "publishedAt": "2023-04-17T23:20:00Z",
-            "content": "Updated April 17th: article originally posted April 15th.\r\nApple's MacBook range has always lacked a larger laptop for consumers. With the older Intel machines, the 15-inch and 17-inch screens were r\u2026 [+5073 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AL.com"
-            },
-            "author": "William Thornton | wthornton@al.com, Mike Cason | mcason@al.com, Carol Robinson | crobinson@al.com, Jeremy Gray | jgray@al.com",
-            "title": "Dadeville mass shooting: What we know today after 4 killed, 32 injured at Alabama birthday party - AL.com",
-            "description": "The victims are Philstavious Dowdell, Keke Nicole Smith, Marsiah Emmanuel \u201cSiah\u201d Collins, and Corbin Dahmontrey Holston.",
-            "url": "https://www.al.com/news/2023/04/dadeville-mass-shooting-what-we-know-today-after-4-killed-28-injured-at-alabama-birthday-party.html",
-            "urlToImage": "https://www.al.com/resizer/afDpHFrZtqsqS7ov8R5_XYuVH0M=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L33QKHF665BNZNSAM3TC4UEX4Q.jpg",
-            "publishedAt": "2023-04-17T23:11:00Z",
-            "content": "Tragedy struck Alabama Saturday night as gunfire erupted at a sweet 16 birthday party in the heart of Dadeville, killing four young people and injuring 32 others -- some of them critically.\r\nThe inve\u2026 [+12793 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Michael Wayland",
-            "title": "Ford unveils new Lincoln Nautilus to be imported from China - CNBC",
-            "description": "The vehicle is currently produced for the U.S. at a Canadian plant, where the automaker recently said it would invest about $1.3 billion for EV production.",
-            "url": "https://www.cnbc.com/2023/04/17/ford-lincoln-nautilus-imported-from-china.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107226531-1681761190207-2024_Lincoln_Nautilus_Reserve_Jet_Package_01.jpg?v=1681772401&w=1920&h=1080",
-            "publishedAt": "2023-04-17T23:00:01Z",
-            "content": "Ford Motor will import its next-generation Lincoln Nautilus from China to the U.S., the company said Monday night.\r\nThe midsize crossover is currently produced for the U.S. at Ford's Oakville Assembl\u2026 [+3804 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Amanda Hoover",
-            "title": "The 'Love Is Blind' Fiasco Proves Netflix Has a Lot to Learn - WIRED",
-            "description": "The streamer\u2019s highly anticipated reunion left many disappointed, showing that TV might have a leg up on streaming when it comes to live programming.",
-            "url": "https://www.wired.com/story/netflix-love-is-blind-live-streaming-problems/",
-            "urlToImage": "https://media.wired.com/photos/643d8b17feb0cdce093950ef/191:100/w_1280,c_limit/Love-Is-Blind-Livestream-Fiasco-Culture-S4_Unit_11443R.jpg",
-            "publishedAt": "2023-04-17T22:59:30Z",
-            "content": "Fans sat down Sunday evening ready to watch a live\u00a0Love is Blind reunion and learn whether or not season favorites Tiffany and Brett are really forever, as\u00a0Netflixs own\u00a0Twitter bio proclaimed. But th\u2026 [+2750 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Dan Pompei, Mike Sando, Mike Jones",
-            "title": "How Jalen Hurts\u2019 new contract affects Lamar Jackson and future QB deals: Roundtable - The Athletic",
-            "description": "Who might reset the market again after Hurts' five-year, $255 million extension? And how much is too much when it comes to QB contracts?",
-            "url": "https://theathletic.com/4421292/2023/04/17/jalen-hurts-contract-jackson-questions/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/04/17140537/GettyImages-1434023787-scaled-e1681754755904-1024x688.jpg",
-            "publishedAt": "2023-04-17T22:17:36Z",
-            "content": "Philadelphia Eagles quarterback Jalen Hurts finished this past season as the runner-up in the Super Bowl and in league MVP voting, but hes now No. 1 in one category: as the highest-paid player in NFL\u2026 [+8445 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Sammy Westfall",
-            "title": "After killing of former MP Atiq Ahmed, India grapples with extrajudicial violence - The Washington Post",
-            "description": "Assassins posing as journalists killed Atiq Ahmed, 60, a mobster-turned-lawmaker, and his brother Ashraf Ahmed as they answered questions on live TV.",
-            "url": "https://www.washingtonpost.com/world/2023/04/17/atiq-ahmed-killed-india-violence-hindu-nationalism/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q55LKT5VI4QSVFVFMID27XN2TE_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-04-17T22:11:26Z",
-            "content": "Comment on this story\r\nComment\r\nThe slaying of a former lawmaker and his brother in police custody in Indias Uttar Pradesh state over the weekend has placed a spotlight on extrajudicial attacks and k\u2026 [+4663 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "David Bauder, Randall Chase",
-            "title": "Fox News-Dominion libel case set to begin after brief delay - The Associated Press",
-            "description": "WILMINGTON, Del. (AP) \u2014 The Delaware judge overseeing a voting machine company\u2019s $1.6 billion defamation lawsuit against Fox News delayed the opening of the trial Monday, raising the prospect that the two sides might attempt to settle before the eagerly watch\u2026",
-            "url": "https://apnews.com/article/fox-news-dominion-trial-trump-election-lies-1b0c3a1d067dff11bf6a6f516fe9988a",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/03b8fea6b8f8426789c0e6c61281499a/3000.webp",
-            "publishedAt": "2023-04-17T22:02:05Z",
-            "content": "WILMINGTON, Del. (AP) The Delaware judge overseeing a voting machine companys $1.6 billion defamation lawsuit against Fox News delayed the opening of the trial Monday, raising the prospect that the t\u2026 [+3310 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Adriana Diaz",
-            "title": "14 million cases of type 2 diabetes linked to these foods, study says - New York Post ",
-            "description": "The rise of type 2 diabetes cases represents \u201ca growing burden on individuals, families, and healthcare systems,\u201d according to the new study.",
-            "url": "https://nypost.com/2023/04/17/14-million-cases-of-type-2-diabetes-linked-to-these-foods-study-says/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009774901.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-04-17T21:24:00Z",
-            "content": "An estimated 14 million cases of type 2 diabetes were caused by a poor diet, a recent study published in Nature Medicine found.\r\nDiets that lacked whole grains or had too much refined rice, wheat or \u2026 [+3524 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "DeSantis floats idea of state prison near Disney park - BBC",
-            "description": "The Florida governor made the threat, a bit tongue-in-cheek, while vowing to assert state control over Disney.",
-            "url": "https://www.bbc.com/news/business-65305166",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0991/production/_129394420_51c547f671345c30f6386de0bf8f6a3fdcce31da.jpg",
-            "publishedAt": "2023-04-17T21:23:30Z",
-            "content": "Florida Governor Ron DeSantis has floated the idea of building a prison near Disney's Florida theme park.\r\nThe threat, made smiling, came as he vowed to take new steps to assert state control over th\u2026 [+2676 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Executive gives new details on paper mill linked to deadly fungus - CNN",
-            "description": "Nearly 100 confirmed or probable cases of blastomycosis and one death have been identified in Michigan's Delta and Menominee counties, according to the local...",
-            "url": "https://www.youtube.com/watch?v=ENpuKmbnOD8",
-            "urlToImage": "https://i.ytimg.com/vi/ENpuKmbnOD8/maxresdefault.jpg",
-            "publishedAt": "2023-04-17T21:10:36Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Akron Beacon Journal"
-            },
-            "author": ", Akron Beacon Journal",
-            "title": "Grand jury: No charges for Akron officers who shot Jayland Walker - Akron Beacon Journal",
-            "description": "A special Summit County grand jury found that eight Akron officers were justified when they shot and killed Jayland Walker.",
-            "url": "https://www.beaconjournal.com/story/news/2023/04/17/grand-jury-decision-verdict-no-criminal-charges-for-akron-officers-who-shot-jayland-walker/70088282007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/17/NABJ/fc986eee-ba03-4e20-9eea-c97bd25b14f0-jayland_walker_portrait.jpg?auto=webp&crop=1386,780,x1,y403&format=pjpg&width=1200",
-            "publishedAt": "2023-04-17T21:00:00Z",
-            "content": "The eight Akron officers who shot and killed Jayland Walker last June wont face criminal charges in his death.\r\nA special grand jury of six women and three men, including two Black citizens, on Monda\u2026 [+5422 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Peter Grad",
-            "title": "Solar sails could guide interplanetary travel, says new study - Phys.org",
-            "description": "Space travel has brought us to our next-door neighbor, the moon, and to the depths of our larger solar community inhabited by giants such as Saturn and Jupiter.",
-            "url": "https://phys.org/news/2023-04-solar-interplanetary.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/uranus.jpg",
-            "publishedAt": "2023-04-17T20:50:01Z",
-            "content": "Space travel has brought us to our next-door neighbor, the moon, and to the depths of our larger solar community inhabited by giants such as Saturn and Jupiter.\r\nIn 1982, Voyager 2 whisked past Uranu\u2026 [+4133 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SFGate"
-            },
-            "author": "Grant Marek",
-            "title": "Kings announcer vents misplaced outrage over TV promo - SFGATE",
-            "description": "Kings PA announcer Scott\u00a0Moak was very, very angry about a very normal Game 2 promo from the NBA that featured only the Warriors' Steph Curry.",
-            "url": "https://www.sfgate.com/warriors/article/warriors-kings-game-2-promo-steph-curry-17902196.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/32/27/32/23688854/3/rawImage.jpg",
-            "publishedAt": "2023-04-17T20:45:38Z",
-            "content": "It's been a long while since anyone meaningfully disrespected the Sacramento Kings, who didn't have all that much to disrespect after missing the NBA playoffs for 17 years straight. So it makes sense\u2026 [+2499 chars]"
         }
     ]
 }
