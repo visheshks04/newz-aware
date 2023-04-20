@@ -1,58 +1,175 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Trevor Hughes, USA TODAY",
-            "title": "Live updates on shooting on I-295 in Maine: 4 dead, 3 injured, man arrested - USA TODAY",
-            "description": "Town officials said a firearm was recovered, and police said a suspect has been arrested and will face charges.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/04/18/maine-shooting-interstate-295-highway-live-updates/11688716002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/18/USAT/0a278373-a502-4c5f-b3ed-baee3d5d1446-AP_Maine_Highway_Gunfire.jpg?auto=webp&crop=2468,1389,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2023-04-19T00:33:45Z",
-            "content": "A suspect is jailed after four people were found dead at a house and bullets were fired at a major highway\u00a0near Portland, Maine, Tuesday morning, according to authorities.\r\nMaine State Police said fo\u2026 [+2445 chars]"
+            "author": null,
+            "title": "New report finds Pittsburgh among worst places for air quality - CBS Pittsburgh",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=vhjOkd_DkJM",
+            "urlToImage": null,
+            "publishedAt": "2023-04-19T09:39:26Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hollywood Reporter"
+                "name": "BBC News"
             },
-            "author": "Abbey White",
-            "title": "Aaron Carter Death an Accident, Result of Drowning and Effects of Difluoroethane and Alprazolam - Hollywood Reporter",
-            "description": "The younger brother to Backstreet Boys' Nick Carter was found dead in his California home on Nov. 5.",
-            "url": "https://www.hollywoodreporter.com/news/music-news/aaron-carter-cause-manner-of-death-1235391578/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/04/GettyImages-1370262469-H-2023.jpg?w=1024",
-            "publishedAt": "2023-04-19T00:00:00Z",
-            "content": "Aaron Carter\u2019s death has been ruled an accident, according to the Los Angeles Medical Examiner. \r\nThe late singer and younger brother of Backstreet Boys singer Nick Carter was found dead on Nov. 5 at\u2026 [+2499 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "India population to surpass China by mid-2023 - UN - BBC",
+            "description": "India is expected to have 2.9 million more people than its neighbour by mid-2023, according to UN data.",
+            "url": "https://www.bbc.com/news/world-asia-india-65320690",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/111C0/production/_129408007_gettyimages-1456156649-170667a.jpg",
+            "publishedAt": "2023-04-19T09:15:48Z",
+            "content": "India is set to overtake China to become the most populous country in the world by the middle of this year, data released by the United Nations shows.\r\nIndia's population is pegged to reach 1,428.6 m\u2026 [+2001 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jessie Yeung,Teele Rebane,Rob Picheta",
-            "title": "Ceasefire crumbles amid chaos in Sudan as death toll reaches 270 - CNN",
-            "description": "Gunfire, explosions and overhead fighter jets were heard across Sudan's capital Khartoum on Tuesday, as gunmen reportedly stormed the homes of people working for the United Nations and other international organizations, amid conflicting reports of an agreed c\u2026",
-            "url": "https://www.cnn.com/2023/04/18/africa/sudan-fighting-intensifies-students-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230417104918-01-sudan-unrest-041723.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-18T23:45:00Z",
-            "content": "Gunfire, explosions and overhead fighter jets were heard across Sudans capital Khartoum on Tuesday, as gunmen reportedly stormed the homes of people working for the United Nations and other internati\u2026 [+9794 chars]"
+            "author": "Nectar Gan,Wayne Chang",
+            "title": "A hospital fire killed 29 in Beijing, but residents were kept in the dark for hours - CNN",
+            "description": "The deadliest fire to hit the Chinese capital in two decades killed 29 people in a hospital Tuesday, but most people didn't hear about it until several hours later, and even then the details were slim as authorities kept a tight lid on details.",
+            "url": "https://www.cnn.com/2023/04/19/china/china-beijing-fire-censorship-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230419092016-02-beijing-hospital-fire-0418.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-19T09:13:00Z",
+            "content": "The deadliest fire to hit the Chinese capital in two decades killed 29 people in a hospital Tuesday, but most people didnt hear about it until several hours later, and even then the details were slim\u2026 [+6009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Barbara Kollmeyer",
+            "title": "Tesla makes another round of U.S. price cuts ahead of earnings - MarketWatch",
+            "description": "EV maker\u2019s website reflected cuts of up to $3,000 on several models",
+            "url": "https://www.marketwatch.com/story/tesla-makes-another-round-of-u-s-price-cuts-ahead-of-earnings-a8a22794",
+            "urlToImage": "https://images.mktw.net/im-766232/social",
+            "publishedAt": "2023-04-19T09:10:00Z",
+            "content": "Tesla Inc. shares fell Wednesday, after the electric-car maker again cut prices on its U.S. cars, just ahead of whats expected to be a tough set of first-quarter results. Tesla shares, which have reb\u2026 [+2022 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jennifer Peltz",
+            "title": "How election lies, libel law were key to Fox defamation suit - The Associated Press",
+            "description": "Fox News settled a major defamation lawsuit for $787.5 million on Tuesday, according to the voting machine company that sued the top cable news network. The settlement avoids a trial that could have shed additional light on former President Donald Trump's ele\u2026",
+            "url": "https://apnews.com/article/fox-news-dominion-lawsuit-trial-explainer-trump-fbd401a951905879d837a8860b3bec5e",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e45fb132895c43aab0a1d65d95c73abd/3000.webp",
+            "publishedAt": "2023-04-19T07:44:14Z",
+            "content": "Fox News settled a major defamation lawsuit for $787.5 million on Tuesday, according to the voting machine company that sued the top cable news network.\r\nThe settlement avoids a trial that could have\u2026 [+4728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Anthony Slater, Hunter Patterson",
+            "title": "Warriors\u2019 Draymond Green suspended for Game 3 vs. Kings - The Athletic",
+            "description": "Green was ejected from Game 2 after being assessed the Flagrant Foul 2 for stepping on Domantas Sabonis in the fourth quarter.",
+            "url": "https://theathletic.com/4427216/2023/04/19/warriors-draymond-green-suspended-game-3/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/04/18235310/GettyImages-1251759204-1024x683.jpg",
+            "publishedAt": "2023-04-19T07:22:01Z",
+            "content": "The NBA has suspended Golden State Warriors forward Draymond Green for Game 3 of the Western Conference first round against the Sacramento Kings for stepping on center Domantas Sabonis, the league an\u2026 [+3887 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pff.com"
+            },
+            "author": "Arjun Menon and Brad Spielberger",
+            "title": "The PFF Analytics 2023 NFL Mock Draft: Four QBs go off the board first, Will Anderson Jr. lands in Seattle | NFL Draft - Pro Football Focus",
+            "description": "This mock draft exclusively follows analytical thinking by putting added emphasis on positional value, along with PFF grading and player statistics.",
+            "url": "https://www.pff.com/news/draft-pff-analytics-2023-nfl-mock-draft-will-anderson-seahawks",
+            "urlToImage": "https://media.pff.com/2023/04/USATSI_17111914_168392742_lowres.jpg?w=956&h=538",
+            "publishedAt": "2023-04-19T07:13:45Z",
+            "content": "Young, Stroud, Richardson and Levis go Nos. 1, 2, 3 and 4: Quarterback is the most valuable position in football, and that's reflected early in this mock draft.\r\n Seattle steals Alabama's Will Anders\u2026 [+16599 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
+            },
+            "author": "Nouran Salahieh",
+            "title": "Recovery of Black teen allegedly shot by White homeowner after ringing wrong doorbell is a miracle, attorney says - CNN",
+            "description": "A Black teenager who authorities say was shot by an 84-year-old White homeowner after going to the wrong Kansas City address has received a positive prognosis but still faces a long road to recovery as his family fights for justice in his case, according to h\u2026",
+            "url": "https://www.cnn.com/2023/04/19/us/kansas-city-ralph-yarl-shooting-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230419121044-rally-ralph-yarl-0418.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-19T07:01:00Z",
+            "content": "A Black teenager who authorities say was shot by an 84-year-old White homeowner after going to the wrong Kansas City address has received a positive prognosis but still faces a long road to recovery \u2026 [+7125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Nick Friedell",
+            "title": "'Aggressive' Darius Garland leads Cavs to Game 2 win over Knicks - ESPN",
+            "description": "After struggling to make an impact in Game 1, Darius Garland got rolling early in Game 2, and the Cavaliers beat the Knicks to even their Eastern Conference quarterfinal series.",
+            "url": "https://www.espn.com/nba/story/_/id/36230867/aggressive-darius-garland-leads-cavs-game-2-win-knicks",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0419%2Fr1160981_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-04-19T04:41:11Z",
+            "content": "CLEVELAND -- Darius Garland heard the message loud and clear.\r\nAfter the Cleveland Cavaliers' point guard struggled to make an impact at various points during Saturday's Game 1 loss to the New York K\u2026 [+3402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arizona Sports"
             },
             "author": "",
-            "title": "WSJ journalist seen in court for first time since detained in Russia - CNN",
-            "description": "Wall Street Journal reporter Evan Gershkovich appeared at a Moscow court for a hearing to appeal the terms of his detention. He asked that his pre-trial detention be under house arrest rather than in jail but the judge denied his request. Gershkovich was deta\u2026",
-            "url": "https://www.cnn.com/videos/world/2023/04/18/evan-gershkovich-journalist-russia-detention-appeal-intl-ldn-vpx.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230418134630-gershkovich-looses-appeal.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-18T23:34:27Z",
-            "content": null
+            "title": "Devin Booker, Kevin Durant combine for 63 points in Suns\u2019 Game 2 win over Clippers - Arizona Sports",
+            "description": "Phoenix got big contributions from its two superstars Devin Booker and Kevin Durant, who combined for a total of 63 points in the Game 2 win.",
+            "url": "https://arizonasports.com/story/3520585/devin-booker-kevin-durant-score-63-in-suns-game-2-win-over-clippers/",
+            "urlToImage": "http://arizonasports.com/wp-content/uploads/2023/04/GettyImages-1483176492-e1681877692529.jpg",
+            "publishedAt": "2023-04-19T04:36:00Z",
+            "content": "The Phoenix Suns tied up their opening-round playoff series with the Los Angeles Clippers with a 123-109 win on Tuesday night at Footprint Center.\r\nPhoenix got big contributions from its two supersta\u2026 [+2037 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Kaylin Gillis: Driveway shooting suspect shows no remorse - police - BBC",
+            "description": "A young woman was killed in New York state when her car pulled up in the wrong driveway.",
+            "url": "https://www.bbc.com/news/world-us-canada-65319833",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/649F/production/_129395752_mediaitem129395578.jpg",
+            "publishedAt": "2023-04-19T03:30:22Z",
+            "content": "A man who allegedly shot and killed a 20-year-old woman in New York state as the car she was in mistakenly drove up the man's driveway has shown no remorse, police say.\r\nKaylin Gillis was in a car th\u2026 [+3016 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Michael Liedtke",
+            "title": "Netflix is ending its DVD-by-mail service - The Associated Press",
+            "description": "SAN FRANCISCO (AP) \u2014 Netflix is poised to shut down the DVD-by-mail rental service that set the stage for its trailblazing video streaming service, ending an era that began a quarter century ago when delivering discs through the mail was considered a revoluti\u2026",
+            "url": "https://apnews.com/article/netflix-dvd-rentals-red-envelopes-closing-ab088c5816570b8fa3a1d727f9ba1908",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c9e84e1d716242bc973403874a54ef23/3000.webp",
+            "publishedAt": "2023-04-19T02:34:55Z",
+            "content": "SAN FRANCISCO (AP) Netflix is poised to shut down the DVD-by-mail rental service that set the stage for its trailblazing video streaming service, ending an era that began a quarter century ago when d\u2026 [+4168 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paul Best",
+            "title": "Maine police identify gunman who allegedly shot and killed four people, wounded three others - Fox News",
+            "description": "Maine State Police arrested a 34-year-old man accused of murdering four people and wounding three others at multiple shooting scenes on Tuesday.",
+            "url": "https://www.foxnews.com/us/maine-police-identify-gunman-allegedly-shot-killed-four-people-wounded-three-others",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/maine.png",
+            "publishedAt": "2023-04-19T01:19:00Z",
+            "content": "Maine State Police arrested 34-year-old Joseph Eaton and charged him with murder on Tuesday evening after he allegedly shot and killed four people and wounded three others earlier in the day.\u00a0\r\nThe s\u2026 [+1484 chars]"
         },
         {
             "source": {
@@ -60,25 +177,51 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Artist wins photo award with AI generated image, sparking debate | DW News - DW News",
-            "description": "Berlin-based photographer Boris Eldagsen rejected the recognition from Sony World Photography Awards, saying that artificial intelligence (AI) images and pho...",
-            "url": "https://www.youtube.com/watch?v=Pv1HUd8rsG4",
-            "urlToImage": "https://i.ytimg.com/vi/Pv1HUd8rsG4/maxresdefault.jpg",
-            "publishedAt": "2023-04-18T23:30:09Z",
+            "title": "UTLA reaches agreement with LAUSD on labor contract - KCAL News",
+            "description": "Jake Reiner provides the latest on the labor contract agreement between Los Angeles Unified School District and the United Teachers Los Angeles union, which ...",
+            "url": "https://www.youtube.com/watch?v=urUlTqjwknI",
+            "urlToImage": "https://i.ytimg.com/vi/urUlTqjwknI/maxresdefault.jpg",
+            "publishedAt": "2023-04-18T23:21:14Z",
             "content": null
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Brooke Singman",
-            "title": "Bidens report an adjusted gross income of $579,514 - Fox News",
-            "description": "President Joe Biden and first lady Jill Biden reported a federal adjusted gross income of $579,514, according to their 2022 federal income tax returns released by the White House.",
-            "url": "https://www.foxnews.com/politics/biden-2022-tax-returns",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/05/AP22150504245597.jpg",
-            "publishedAt": "2023-04-18T23:00:00Z",
-            "content": "President Joe Biden and first lady Jill Biden reported a federal adjusted gross income of $579,514, according to their 2022 federal income tax returns, which were released by the White House on Tuesd\u2026 [+2122 chars]"
+            "author": "Emma Roth",
+            "title": "Netflix delays its password-sharing crackdown to sometime before July - The Verge",
+            "description": "Netflix is pushing back its password-sharing implementation in the US until July. The streamer initially planned on rolling out paid sharing broadly in the first quarter of 2023.",
+            "url": "https://www.theverge.com/2023/4/18/23687853/netflix-earnings-password-sharing-delay-q1-2023",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T22:36:34Z",
+            "content": "Netflix delays its password-sharing crackdown to sometime before July\r\nNetflix delays its password-sharing crackdown to sometime before July\r\n / The password-sharing crackdown is still coming just no\u2026 [+4206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Taryn Ryder",
+            "title": "Aaron Carter's cause of death revealed 5 months after his passing - Yahoo Entertainment",
+            "description": "Carter accidentally drowned due to the effects of alprazolam, a generic form of Xanax, and huffing compressed air.",
+            "url": "https://www.yahoo.com/entertainment/aaron-carters-cause-death-revealed-222811482.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/M7SaJPGHC8O_zWpTcwR5_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjQ-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/e1666a00-5d47-11ed-bfbe-2f0ed57b4721",
+            "publishedAt": "2023-04-18T22:28:11Z",
+            "content": "Aaron Carter's cause of death released. (Photo: Getty Images)\r\nAaron Carter drowned after taking prescription pills and huffing compressed air. The Los Angeles County Medical Examiner ruled his death\u2026 [+2740 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Robert Brand",
+            "title": "Stock Market Today: Dow, S&P Live Updates for April 19 - Bloomberg",
+            "description": "European stocks and US equity futures retreated while bond yields rose as traders assessed the latest corporate earnings reports against the backdrop of yet another hot inflation print from one of the world\u2019s major economies.",
+            "url": "https://www.bloomberg.com/news/articles/2023-04-18/stock-market-today-dow-s-p-live-updates",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im0tAgWfTKA8/v0/1200x800.jpg",
+            "publishedAt": "2023-04-18T22:26:56Z",
+            "content": "European stocks and US equity futures retreated while bond yields rose as traders assessed the latest corporate earnings reports against the backdrop of yet another hot \r\ninflation print from one of \u2026 [+416 chars]"
         },
         {
             "source": {
@@ -95,172 +238,29 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Matt Foster,David Close",
-            "title": "Damar Hamlin cleared to resume football activities after January cardiac arrest - CNN",
-            "description": "Buffalo Bills safety Damar Hamlin, who has been cleared to resume football activities, said Tuesday his cardiac arrest during an NFL game in January was caused by commotio cordis.",
-            "url": "https://www.cnn.com/2023/04/18/sport/damar-hamlin-cleared-to-train-nfl-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230418115826-damar-hamlin-file-0327.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-18T22:11:00Z",
-            "content": "Buffalo Bills safety Damar Hamlin, who has been cleared to resume football activities, said Tuesday his cardiac arrest during an NFL game in January was caused by commotio cordis.\r\nHamlin went into c\u2026 [+2954 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Netflix reports mixed earnings as password crackdown set to expand - Reuters",
-            "description": "Netflix Inc <a href=\"https://www.reuters.com/companies/NFLX.O\" target=\"_blank\">(NFLX.O)</a> beat Wall Street earnings estimates for the first quarter but offered a lighter-than-expected forecast on Tuesday, demonstrating the challenges that the mature streami\u2026",
-            "url": "https://www.reuters.com/business/media-telecom/netflix-earnings-line-with-estimates-forecast-shy-wall-street-consensus-2023-04-18/",
-            "urlToImage": "https://www.reuters.com/resizer/9A2Na1S2Jf7-RNGg0ZiwPNvC9LA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L43EDZ2HZ5PWLICZP23SHD7S7E.jpg",
-            "publishedAt": "2023-04-18T21:45:00Z",
-            "content": "April 18 (Reuters) - Netflix Inc (NFLX.O) beat Wall Street earnings estimates for the first quarter but offered a lighter-than-expected forecast on Tuesday, demonstrating the challenges that the matu\u2026 [+2894 chars]"
+            "author": "Pat Eaton-robb",
+            "title": "Wreckage of submarine found by divers in Long Island Sound - The Associated Press",
+            "description": "HARTFORD, Conn. (AP) \u2014 Connecticut divers have discovered the wreckage of an experimental submarine that was built in 1907 and later scuttled in Long Island Sound. The Defender, a 92-foot-long (28-meter-long) boat, was found Sunday by a team led by Richard Si\u2026",
+            "url": "https://apnews.com/article/submarine-wreckage-divers-connecticut-long-island-sound-482c153fa328bf86ce12024c7fb6b05a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/addeaa67c5c64ba7856cbe90cbf608b6/3000.webp",
+            "publishedAt": "2023-04-18T22:16:34Z",
+            "content": "HARTFORD, Conn. (AP) Connecticut divers have discovered the wreckage of an experimental submarine that was built in 1907 and later scuttled in Long Island Sound.\r\nThe Defender, a 92-foot-long (28-met\u2026 [+3473 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Phys.Org"
             },
-            "author": null,
-            "title": "Senate GOP pops Feinstein Judiciary replacement balloon - KTLA 5",
-            "description": "Republicans on Monday put up a blockade against the Democratic push to temporarily replace Sen. Dianne Feinstein (D-Calif.) on the Senate Judiciary Committee...",
-            "url": "https://www.youtube.com/watch?v=EluF_6KDmDQ",
-            "urlToImage": "https://i.ytimg.com/vi/EluF_6KDmDQ/maxresdefault.jpg",
-            "publishedAt": "2023-04-18T21:29:40Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Could Fixing a Problem With the Heart Be Good for Your Brain? - Neuroscience News",
-            "description": "People with atrial fibrillation who were treated with catheter ablation may be at lower risk of cognitive decline and dementia than those who did not receive the treatment.",
-            "url": "https://neurosciencenews.com/heart-brain-dementia-23044/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/04/heart-brain-health-neurosciences-public.jpg",
-            "publishedAt": "2023-04-18T21:00:59Z",
-            "content": "Summary: People with atrial fibrillation who were treated with catheter ablation may be at lower risk of cognitive decline and dementia than those who did not receive the treatment.\r\nSource: AAN\r\nPeo\u2026 [+2656 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": null,
-            "title": "Reported cap hits early in Hurts' contract are shockingly low - NBC Sports",
-            "description": "The reported cap hits for Jalen Hurts over the next few years are much lower than you'd probably expect. By Dave Zangaro",
-            "url": "https://www.nbcsports.com/philadelphia/eagles/eagles-reported-cap-hits-jalen-hurts-shouldnt-be-prohibitive",
-            "urlToImage": "https://www.nbcsports.com/sites/rsnunited/files/styles/metatags_opengraph/public/article/hero/Hurts-Roseman-USATSI-15310814.jpg",
-            "publishedAt": "2023-04-18T20:48:34Z",
-            "content": "The Eagles and Jalen Hurts reached terms on a five-year, $255 million extension on Monday and now were learning more details about the deal.\r\nAnd it looks like Hurts salary cap hits over the next few\u2026 [+1779 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Josh Schafer",
-            "title": "Netflix to wind down red envelope DVD rentals - Yahoo Finance",
-            "description": "DVDs have become a shrinking percentage of Netflix\u2019s revenue over the past several years as consumers increasingly shift to streaming services.",
-            "url": "https://finance.yahoo.com/news/netflix-to-wind-down-red-envelope-dvd-rentals-203931857.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PT3e8yStwaussi3I2Z6iOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjk4/https://s.yimg.com/os/creatr-uploaded-images/2023-04/f8edb3f0-de24-11ed-b16f-aaad1f11f4db",
-            "publishedAt": "2023-04-18T20:39:31Z",
-            "content": "Netflix's (NFLX) red DVD envelopes will be no more.\r\nThe company said Tuesday that it is ending its 25-year DVD rental business, noting that it plans to ship its final discs on Sept. 29.\r\nOur goal ha\u2026 [+1853 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "David Newton",
-            "title": "Panthers GM says he hasn't told anybody who'll be No. 1 pick - ESPN",
-            "description": "Carolina GM Scott Fitterer said he hasn't told Bryce Young that he'll be the team's choice as the No. 1 pick in the NFL draft.",
-            "url": "https://www.espn.com/nfl/story/_/id/36226200/panthers-gm-says-told-anybody-no-1-pick",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0311%2Fr1142679_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-04-18T20:39:11Z",
-            "content": "CHARLOTTE, N.C. -- Carolina Panthers general manager Scott Fitterer made it clear Tuesday that Alabama quarterback Bryce Young has not been told he will be the top pick of the NFL draft.\r\nFitterer's \u2026 [+3873 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Ron Amadeo",
-            "title": "Xiaomi\u2019s \u201cUltra\u201d camera phone has a grip accessory, screw-on lens filters - Ars Technica",
-            "description": "The grip has a shutter button, zoom controls, and standard 67 mm lens-filter support.",
-            "url": "https://arstechnica.com/gadgets/2023/04/xiaomis-ultra-camera-phone-has-a-grip-accessory-screw-on-lens-filters/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/24-760x380.jpg",
-            "publishedAt": "2023-04-18T20:38:25Z",
-            "content": "29 with \r\n<ul><li>\r\n The Xiaomi 13 Ultra in its full camera mode regalia. \r\n</li><li>\r\n Here is just the phone body. \r\n</li><li>\r\n See that shadow to the left of the camera bump? The whole phone gets\u2026 [+6110 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "https://www.facebook.com/kslcom/",
-            "title": "Odd spiral appears amid northern lights in Alaska night sky - KSL.com",
-            "description": "Northern light enthusiasts got a surprise mixed in with the green bands of light dancing in the Alaska skies: A light baby blue spiral resembling a galaxy appeared amid the aurora for a few minutes.",
-            "url": "https://www.ksl.com/article/50623457/odd-spiral-appears-amid-northern-lights-in-alaska-night-sky",
-            "urlToImage": "https://img.ksl.com/slc/2925/292535/29253530.jpg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2023-04-18T20:09:50Z",
-            "content": "Estimated read time: 2-3\r\n minutes\r\nANCHORAGE, Alaska Northern light enthusiasts got a surprise mixed in with the green bands of light dancing in the Alaska skies: A light baby blue spiral resembling\u2026 [+2082 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Seema Mody",
-            "title": "Apple CEO Tim Cook to meet with India\u2019s Prime Minister Narendra Modi following Mumbai store opening - CNBC",
-            "description": "Apple CEO Tim Cook will be meeting with Prime Minister Narendra Modi, as the iPhone maker looks to expand in India.",
-            "url": "https://www.cnbc.com/2023/04/18/apple-ceo-tim-cook-plans-to-meet-with-modi-on-wednesday-in-new-delhi.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107182183-1674434241608-gettyimages-1246360412-20230119_mum-sb-mn_pmmodi_015.jpeg?v=1681847378&w=1920&h=1080",
-            "publishedAt": "2023-04-18T19:49:38Z",
-            "content": "Apple has a big week planned in India, where the iPhone maker has growing ambitions. \r\nAfter opening a flagship store in Mumbai, CEO Tim Cook will travel to New Delhi to meet with Indian Prime Minist\u2026 [+3484 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Hannah Yasharoff",
-            "title": "Kylie Jenner, Timothee Chalamet dating rumors: Why we love odd couples - USA TODAY",
-            "description": "Though Kylie Jenner and Timoth\u00e9e Chalamet haven't confirmed they're dating, fans are obsessed what they deem to be an odd couple. Here's why.",
-            "url": "https://www.usatoday.com/story/life/health-wellness/2023/04/18/kylie-jenner-timothee-chalamet-fascination-celeb-odd-couples/11686941002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/18/USAT/aa29059c-120d-4e4e-8cb7-35f39e01801c-Untitled_design_2.png?crop=1635,920,x2,y0&width=1635&height=920&format=pjpg&auto=webp",
-            "publishedAt": "2023-04-18T19:23:26Z",
-            "content": "Some\u00a0couples just make sense Blake Lively and Ryan Reynolds, Beyonce and Jay-Z,\u00a0Kelly Ripa and Mark Consuelos. Others make some people do a double take: Think Elon Musk and Grimes,\u00a0Olivia Wilde and H\u2026 [+3572 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Joe Rao",
-            "title": "April 20 hybrid solar eclipse: An observer's guide - Space.com",
-            "description": "Get ready for a rare celestial spectacle Down Under.",
-            "url": "https://www.space.com/hybrid-solar-eclipse-down-under-april-2023",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TTJ3NqFuSRRyzjPHXPLDZe-1200-80.jpg",
-            "publishedAt": "2023-04-18T19:00:42Z",
-            "content": "This month will see the first of two solar eclipses in this year of 2023. But this upcoming eclipse will be a rather special kind of eclipse.\u00a0\r\nWhen speaking of eclipses of the sun, there are three b\u2026 [+9566 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Ariana Grande SINGS as Glinda on Set of 'Wicked' (Raw Video) - Entertainment Tonight",
-            "description": "Watch Ariana Grande sing as Glinda on set of the film adaptation of 'Wicked.' We also see a sneak peek of the magical land of Oz.More from Entertainment Toni...",
-            "url": "https://www.youtube.com/watch?v=5fG6BZ0CjWg",
-            "urlToImage": "https://i.ytimg.com/vi/5fG6BZ0CjWg/maxresdefault.jpg",
-            "publishedAt": "2023-04-18T19:00:05Z",
-            "content": null
+            "author": "Mark Thiessen",
+            "title": "Rocket science: Alaska sky spiral caused by SpaceX fuel dump - Phys.org",
+            "description": "Northern lights enthusiasts got a surprise mixed in with the green bands of light dancing in the Alaska skies: A light baby blue spiral resembling a galaxy appeared amid the aurora for a few minutes.",
+            "url": "https://phys.org/news/2023-04-rocket-science-alaska-sky-spiral.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/rocket-science-alaska.jpg",
+            "publishedAt": "2023-04-18T20:12:59Z",
+            "content": "Northern lights enthusiasts got a surprise mixed in with the green bands of light dancing in the Alaska skies: A light baby blue spiral resembling a galaxy appeared amid the aurora for a few minutes.\u2026 [+2745 chars]"
         }
     ]
 }
