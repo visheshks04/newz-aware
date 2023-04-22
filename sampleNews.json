@@ -1,253 +1,201 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Peter Charalambous",
-            "title": "6-year-old, parents and neighbor shot after basketball rolls into North Carolina man's yard - ABC News",
-            "description": "The suspect turned himself in to police in Florida Thursday, authorities said.",
-            "url": "https://abcnews.go.com/US/6-year-parents-neighbor-shot-after-basketball-rolls/story?id=98717589",
-            "urlToImage": "https://s.abcnews.com/images/US/Suspect_1681982350116_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-04-21T00:33:45Z",
-            "content": "A North Carolina man allegedly shot a 6-year-old girl, her parents and an additional neighbor after a basketball rolled into his yard.\r\nThe suspect, Robert Louis Singletary, 24, turned himself in on \u2026 [+3004 chars]"
+            "author": "Peter Wilkinson,Luke McGee,Ivana Kottasov\u00e1,Alex Hardie",
+            "title": "UK Prime Minister Rishi Sunak rocked by resignation of top ally Raab over bullying allegations - CNN",
+            "description": "British Prime Minister Rishi Sunak suffered a serious blow to his premiership on Friday as one of his closest allies resigned over allegations he bullied officials.",
+            "url": "https://www.cnn.com/2023/04/21/uk/uk-raab-bullying-report-intl-gbr/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230421045523-01-dominic-raab-041823-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-21T09:54:00Z",
+            "content": "British Prime Minister Rishi Sunak suffered a serious blow to his premiership on Friday as one of his closest allies resigned over allegations he bullied officials.\r\nIn a resignation letter posted on\u2026 [+3898 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Philadelphia Inquirer"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Rob Tornoe, Matt Mullin, Keith Pompey, Gina Mizell",
-            "title": "Sixers vs. Nets: Game 3 live updates, score, highlights, news, NBA playoffs schedule - The Philadelphia Inquirer",
-            "description": "The Sixers hope to avoid a prolonged series against the Nets as they eye a likely matchup against the Boston Celtics in the second round.",
-            "url": "https://www.inquirer.com/sixers/live/sixers-vs-nets-game-3-nba-playoffs-20230420.html",
-            "urlToImage": "https://www.inquirer.com/resizer/kQHQ8AnvmpMjFTA-IRTmz7toU0s=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/KQDKKL6SYZEOFPTF7AIXYG44Q4.jpg",
-            "publishedAt": "2023-04-21T00:32:33Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Caitlin Yilek",
-            "title": "1 American dead in Sudan as U.S. readies troops for potential embassy evacuation amid heavy fighting - CBS News",
-            "description": "Heavy fighting broke out earlier this month as two rival generals battle for control of the country.",
-            "url": "https://www.cbsnews.com/news/sudan-american-dead-us-troops-embassy-evacuation-khartoum/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/20/9941a4df-d21c-4c13-ada8-2f3789a4efcd/thumbnail/1200x630/fc36aab60f53896d1d6e4fdbd4085507/gettyimages-1252022484.jpg",
-            "publishedAt": "2023-04-21T00:05:00Z",
-            "content": "Washington \u2014 An American citizen has died in Sudan amid intense fighting between two rival generals, the State Department said Thursday, as the U.S. repositions troops in the region ahead of a potent\u2026 [+2753 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Max Scherzer suspension: Mets right-hander banned 10 games following ejection for excessive sticky stuff - CBS Sports",
-            "description": "Scherzer, who was tossed from his start against the Dodgers on Wednesday, claimed he was only using rosin and sweat",
-            "url": "https://www.cbssports.com/mlb/news/max-scherzer-suspension-mets-right-hander-banned-10-games-following-ejection-for-excessive-sticky-stuff/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/20/c9715829-eeef-4632-988e-bfbf7be0d3b2/thumbnail/1200x675/b7d769ec7904f2243880242ac24594ee/scherzer-getty.png",
-            "publishedAt": "2023-04-20T23:17:00Z",
-            "content": "New York Mets right-hander Max Scherzer has been suspended for 10 games by Major League Baseball in accordance with the rules governing grip-enhancing substances, the league announced Thursday.\u00a0\r\nSch\u2026 [+6017 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": null,
-            "title": "Oakland A's agree to purchase land near Las Vegas Strip - ESPN",
-            "description": "Athletics president Dave Kaval announced the team has signed a binding agreement to purchase land near the Las Vegas Strip, with the intent to build a $1.5 billion stadium on the site.",
-            "url": "https://www.espn.com/mlb/story/_/id/36241520/oakland-agree-purchase-land-las-vegas-strip",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0506%2Fr695900_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-04-20T21:50:51Z",
-            "content": "The Oakland Athletics have signed a binding agreement to purchase land near the Las Vegas Strip, where they intend to construct a major league ballpark, team president Dave Kaval said Wednesday night\u2026 [+3053 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Tesla share price tanks nearly 10% on Musk comments - Al Jazeera English",
-            "description": "Tesla has already slashed prices six times this year and chief Elon Musk suggested more such moves ahead.",
-            "url": "https://www.aljazeera.com/economy/2023/4/20/tesla-share-price-tanks-nearly-10-on-musk-comments",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/tesla.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-04-20T21:42:39Z",
-            "content": "Teslas shares sank by nearly 10 percent on Thursday after Chief Executive Elon Musk signalled the electric vehicle maker will keep cutting prices to drive up demand even after taking a big hit to mar\u2026 [+2117 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "David Ovalle",
-            "title": "Experts slam plan to sell overdose antidote Narcan at about $50 a kit - The Washington Post",
-            "description": "Drugmaker\u2019s price is \u2018still too expensive for pretty much everyone I\u2019ve ever provided it to,\u2019 epidemiologist says.",
-            "url": "https://www.washingtonpost.com/health/2023/04/20/narcan-price-over-the-counter/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PZRNW3G7SQI63J4OTJ6CIGFQBQ.jpg&w=1440",
-            "publishedAt": "2023-04-20T21:29:23Z",
-            "content": "Comment on this story\r\nComment\r\nThe nasal spray that reverses opioid overdoses will sell for less than $50 per kit, the manufacturer announced Thursday, spurring criticism that the price of the over-\u2026 [+5187 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rottentomatoes.com"
-            },
-            "author": "Whitney Friedlander",
-            "title": "Keri Russell on Playing a Workaholic in a Complicated Marriage (Again) for Political Thriller The Diplomat - Rotten Tomatoes",
-            "description": "Keri Russell stars in \"The Diplomat,\" a political thriller that doubles as a conversation on marriage in the public light. It's created by \"West Wing\" and \"Grey's Anatomy\" alum Debora Cahn and premieres April 20 on Netflix.",
-            "url": "https://editorial.rottentomatoes.com/article/keri-russell-and-costars-on-the-diplomat/",
-            "urlToImage": "https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/04/20132440/Diplomat_S1_key-art-600x314-1.jpg",
-            "publishedAt": "2023-04-20T20:47:24Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Uganda\u2019s President Museveni refuses to sign anti-LGBTQ bill - Al Jazeera English",
-            "description": "A spokesman says Museveni not opposed to bill\u2019s punishments, but wants lawmakers to study \u2018the issue of rehabilitation.\u2019",
-            "url": "https://www.aljazeera.com/news/2023/4/20/ugandas-president-museveni-refuses-to-sign-lgbtq-bill",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2018/01/341651d89c5e4103bb14c9ebb1abb905_18.jpeg?resize=1200%2C675",
-            "publishedAt": "2023-04-20T19:25:58Z",
-            "content": "President Yoweri Museveni of Uganda has refused to sign into law a controversial new bill against homosexuality that prescribes the death penalty in some cases, requesting that it should be amended.\r\u2026 [+2993 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Chicago Tribune"
-            },
-            "author": "Todd Spangler",
-            "title": "BuzzFeed News is shutting down, company laying off 180 staffers - Chicago Tribune",
-            "description": "Pulitzer Prize winning digital media company BuzzFeed will shut down its news division and cut another 15% of its staff across the company, adding to layoffs made earlier this year.",
-            "url": "https://www.chicagotribune.com/entertainment/ct-ent-buzzfeed-shutting-down-20230420-qlpmpmxlejhcdhrhbkqd4wzwyq-story.html",
-            "urlToImage": "https://www.chicagotribune.com/resizer/etgx4fQyfa4V4X-NhF9dz1k3UYs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UN45CPMZUASAFNAQYENHIKMF6U.jpg",
-            "publishedAt": "2023-04-20T19:19:42Z",
-            "content": "Pulitzer Prize winning digital media company BuzzFeed will shut down its news division and cut another 15% of its staff across the company, adding to layoffs made earlier this year.\r\nBuzzFeed has app\u2026 [+3072 chars]"
+            "author": "Lawrence Richard",
+            "title": "Sudan conflict: Rapid Support Forces announces 72-hour truce as Sudanese general commits to civilian rule - Fox News",
+            "description": "Sudanese Armed Forces Commander Gen. Abdel Fattah al Burhan and Rapid Support Forces Commander Gen. Mohamed Hamdan Dagalo separately announced truces.",
+            "url": "https://www.foxnews.com/world/sudan-conflict-rapid-support-forces-announces-72-hour-truce-sudanese-general-commits-civilian-rule",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/AP23110365951982.jpg",
+            "publishedAt": "2023-04-21T09:47:00Z",
+            "content": "Military generals on both sides of the fighting in Sudan agreed to a temporary truce Friday, which coincides with the Muslim Eid al-Fitr holiday, marking the end of Ramadan.\r\nExplosions and gunfire r\u2026 [+4146 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Clare Duffy",
-            "title": "Elon Musk's Twitter begins purge of blue check marks - CNN",
-            "description": "Elon Musk's Twitter on Thursday began a purge of blue verification check marks from users who have not signed up for its subscription service, with the checks disappearing from the accounts of journalists, academics and celebrities.",
-            "url": "https://www.cnn.com/2023/04/20/tech/twitter-verification-blue-check-purge/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230419153805-twitter-blue-checkmark-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-20T19:08:00Z",
-            "content": "Elon Musks Twitter on Thursday began a purge of blue verification check marks from users who have not signed up for its subscription service, with the checks disappearing from the accounts of journal\u2026 [+4124 chars]"
+            "author": "Chloe Melas",
+            "title": "Prosecutors dismissing charges against Alec Baldwin in 'Rust' shooting - CNN",
+            "description": "Involuntary manslaughter charges will be dismissed against actor Alec Baldwin, according to a statement from the New Mexico special prosecutors overseeing the cases in the \"Rust\" shooting.",
+            "url": "https://www.cnn.com/2023/04/20/entertainment/alec-baldwin-rust-charges/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220120163711-alec-baldwin-dec-2021.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-21T09:16:00Z",
+            "content": "Involuntary manslaughter charges will be dismissed against actor Alec Baldwin, according to a statement from the New Mexico special prosecutors overseeing the cases in the Rust shooting. \r\nCiting new\u2026 [+3846 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Deadline"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Dominic Patten",
-            "title": "Alec Baldwin Criminal Charges To Be Dropped In Fatal \u2018Rust\u2019 Shooting - Deadline",
-            "description": "EXCLUSIVE, updated with Baldwin lawyer statement: Less than two weeks before a mini-trial is scheduled to begin in New Mexico over the October 2021 killing of\u00a0Rust\u00a0cinematographer Halyna Hutchins, \u2026",
-            "url": "https://deadline.com/2023/04/alec-baldwin-charges-dropped-rust-shooting-halyna-hutchins-1235329568/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/02/alec-baldwin-3-1.jpg?w=1024",
-            "publishedAt": "2023-04-20T19:03:00Z",
-            "content": "EXCLUSIVE, updated with Baldwin lawyer statement: Less than two weeks before a mini-trial is scheduled to begin in New Mexico over the October 2021 killing of\u00a0Rust\u00a0cinematographer Halyna Hutchins, al\u2026 [+5733 chars]"
+            "author": "Al Jazeera",
+            "title": "US deploys more troops to Djibouti for possible Sudan evacuation - Al Jazeera English",
+            "description": "US preparing to send additional troops to nearby Djibouti in case an evacuation of Americans from Sudan is needed.",
+            "url": "https://www.aljazeera.com/news/2023/4/21/us-prepares-troops-for-possible-sudan-embassy-evacuation",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/04/Sudan-1682065470.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-04-21T08:45:38Z",
+            "content": "The United States is preparing to send a large number of additional troops to its military base in Djibouti in case of an eventual emergency evacuation from Sudan of American citizens.\r\nForces comman\u2026 [+3277 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "HuffPost"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Jazmin Tolliver",
-            "title": "Petition To Remove Nick, Vanessa Lachey As \u2018Love Is Blind\u2019 Co-Hosts Picks Up Steam - HuffPost",
-            "description": "People across social media are slamming the dating reality show's hosts for being \"cringey\" and pushing childbirth on contestants.",
-            "url": "https://www.huffpost.com/entry/love-is-blind-petition-to-remove-nick-vanessa-lachey-as-co-hosts-is-shutting-down-the-internet_n_6441786ee4b03c1b88c5c751",
-            "urlToImage": "https://img.huffingtonpost.com/asset/644178ad20000059007dd12a.jpeg?ops=1200_630",
-            "publishedAt": "2023-04-20T18:51:59Z",
-            "content": "Love Is Blind fans have spoken, and apparently many of them want Nick and Vanessa Lachey to stop hosting the Netflix reality dating show. \r\nPeople on Twitter blasted the celebrity couple for being bi\u2026 [+3080 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Hannah Devlin",
-            "title": "Elephant seals sleep for just two hours a day, deep dive research reveals - The Guardian",
-            "description": "Marine mammals typically sleep in 10-minute bursts during deep, 30-minute dives to avoid predators, scientists believe",
-            "url": "https://www.theguardian.com/world/2023/apr/20/elephant-seals-sleep-two-hours-a-day-deep-dive-research",
-            "urlToImage": "https://i.guim.co.uk/img/media/0bb8522d9ddd8bea6fad422bae339848f1c7c472/0_95_2835_1701/master/2835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48b07c328746e38dd4b73c9cbe2711b5",
-            "publishedAt": "2023-04-20T18:32:00Z",
-            "content": "Seals dozing on the beach may appear to be enjoying the ultimate life of leisure. However, groundbreaking research has revealed that for most of their lives elephant seals sleep just two hours daily \u2026 [+3744 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Proton launches an end-to-end encrypted password manager - The Verge",
-            "description": "Proton has launched Proton Pass, a password manager that lets users store usernames, passwords, notes, and email addresses in an end-to-end encrypted vault.",
-            "url": "https://www.theverge.com/2023/4/20/23691097/proton-end-to-end-encrypted-password-manager-e2ee",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/RewK3D9FcJ-UOqiFCGmsctcPLGs=/0x0:2400x1200/1200x628/filters:focal(1200x600:1201x601)/cdn.vox-cdn.com/uploads/chorus_asset/file/24598546/proton_pass_sec_model_blog_2x.jpg",
-            "publishedAt": "2023-04-20T18:15:56Z",
-            "content": "Proton launches an end-to-end encrypted password manager\r\nProton launches an end-to-end encrypted password manager\r\n / In addition to encrypting your passwords, Proton Pass applies the same layer of \u2026 [+2958 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Sara Moniuszko",
-            "title": "What makes hair turn gray? \"Stuck\" stem cells play a role, researchers find - CBS News",
-            "description": "The research focused on cells in the skin of mice that are also found in humans, prompting hope that a cure for gray hair could be on the horizon.",
-            "url": "https://www.cbsnews.com/news/what-makes-hair-turn-gray-stuck-stem-cells/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2016/03/02/5a0a9acf-5867-4031-903f-c2e6a367ac81/thumbnail/1200x630/b640e7a74d809832fbc9b4e4b4e02c06/mangrayhair.jpg",
-            "publishedAt": "2023-04-20T18:15:00Z",
-            "content": "Researchers may have discovered what makes hair turn gray, prompting hope that a treatment for preventing or reversing the process could be on the horizon.\r\nPublished Wednesday in the journal\u00a0Nature,\u2026 [+2003 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Kyle Wiggers",
-            "title": "Google consolidates AI research divisions into Google DeepMind - TechCrunch",
-            "description": "Google is consolidating several of its AI research divisions into one, Google DeepMind, as it seeks new AI breakthroughs.",
-            "url": "https://techcrunch.com/2023/04/20/google-consolidates-ai-research-divisions-into-google-deepmind/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1243527327.jpg?resize=1200,800",
-            "publishedAt": "2023-04-20T18:00:00Z",
-            "content": "As Google looks to maintain pace in AI with the rest of the tech giants, it\u2019s consolidating its AI research divisions.\r\nGoogle today announced Google DeepMind, a new unit made up of the DeepMind team\u2026 [+5101 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Marcus Thompson II",
-            "title": "Thompson: The NBA missed the point with Draymond Green\u2019s suspension, and it\u2019s our loss - The Athletic",
-            "description": "In suspending Draymond Green for Game 3, the NBA may have sacrificed an incredible series. It\u2019s their league. Their call. Our loss.",
-            "url": "https://theathletic.com/4430859/2023/04/20/draymond-green-suspension-nba/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/04/20121026/GettyImages-1251866416-1024x683.jpg",
-            "publishedAt": "2023-04-20T17:14:18Z",
-            "content": "SAN FRANCISCO It was supposed to be a most epic night at Chase Center. Fans at a fever pitch, trying to outdo the fervor of the Sacramento fans in Games 1 and 2. E-40 back in the building. A palpable\u2026 [+7866 chars]"
+            "author": null,
+            "title": "Pope loses verified status on Twitter, US basketball star LeBron James remains - Reuters",
+            "description": "Twitter on Thursday began removing legacy blue checkmarks from user profiles, with famous people including pop icon Beyonce and Pope Francis losing their verified statuses.",
+            "url": "https://www.reuters.com/technology/pope-loses-verified-status-twitter-us-basketball-star-lebron-james-remains-2023-04-21/",
+            "urlToImage": "https://www.reuters.com/resizer/uB7Rso_cTvinVffJ5IFVDW8i_jQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I3XH2N36Z5LGVKFH3HUBXLRI4M.jpg",
+            "publishedAt": "2023-04-21T08:27:00Z",
+            "content": "April 20 (Reuters) - Twitter on Thursday began removing legacy blue checkmarks from user profiles, with famous people including pop icon Beyonce and Pope Francis losing their verified statuses.\r\nSome\u2026 [+2135 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Olivia Land",
-            "title": "Fifth suspect arrested in deadly Alabama Sweet 16 shooting - New York Post ",
-            "description": "A fourth suspect was arrested Thursday in connection to the Sweet 16 shooting that killed four people in Alabama over the weekend, including a local high school football prodigy.",
-            "url": "https://nypost.com/2023/04/20/fourth-suspect-arrested-in-deadly-alabama-sweet-16-shooting/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/alabama-shooting-suspects-comp4.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-04-20T16:59:00Z",
-            "content": "Two more suspects were arrested Thursday in connection to the Sweet 16 shooting that killed four people in Alabama over the weekend, including a local high school football prodigy.\r\nJohnny Letron Bro\u2026 [+3914 chars]"
+            "author": "Katherine Donlevy",
+            "title": "Robert Singletary, neighbor accused of shooting 6-year-old, parents over basketball, arrested - New York Post ",
+            "description": "Robert Louis Singletary, 24, handed himself over to authorities in Tampa, over 560 miles from where he allegedly opened fire on his neighbors, police said.",
+            "url": "https://nypost.com/2023/04/21/robert-singletary-accused-of-shooting-child-parents-over-basketball-arrested/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26691863-1682057695028.jpg?quality=75&strip=all&1682043363&w=1024",
+            "publishedAt": "2023-04-21T06:20:00Z",
+            "content": "A North Carolina man who allegedly fired shots at a 6-year-old and her parents\u00a0after a basketball rolled into his yard turned himself in at a Florida police station Thursday after two days on the lam\u2026 [+2395 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "K-pop star Moonbin mourned in the Philippines after suspected suicide - South China Morning Post",
+            "description": "Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtubeOver a hundred fans gathered in the Philippine capital Manila on April 20, 202...",
+            "url": "https://www.youtube.com/watch?v=84w1t9nD0a0",
+            "urlToImage": "https://i.ytimg.com/vi/84w1t9nD0a0/maxresdefault.jpg",
+            "publishedAt": "2023-04-21T06:03:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jack Baer",
+            "title": "NBA playoffs: Warriors cruise to Game 3 win vs. Kings without Draymond Green - Yahoo Sports",
+            "description": "The Warriors have life again.",
+            "url": "https://sports.yahoo.com/nba-playoffs-warriors-cruise-to-game-3-win-vs-kings-without-draymond-green-043709548.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XU_hkLazhwWCXtNgozMMbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/aecd1830-dffd-11ed-bdff-1c3a7f3e4f71",
+            "publishedAt": "2023-04-21T04:37:00Z",
+            "content": "The Golden State Warriors aren't done yet.\r\nWith Draymond Green suspended and their backs against the wall in their first-round series against the Sacramento Kings, the Warriors pulled out a 114-97 w\u2026 [+2282 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Radina Gigova,Victoria Butenko,Josh Pennington,Brad Lendon",
+            "title": "Russian jet drops bomb on Russian city, state media says - CNN",
+            "description": "A Russian warplane dropped a bomb on a Russian city of more than 400,000 people late Thursday, leaving a crater 40 meters (130 feet) across, blowing a car onto a roof and damaging buildings in what state media called an \"emergency release of an air ordnance.\"",
+            "url": "https://www.cnn.com/2023/04/20/europe/russia-belgorod-accidental-bombing-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230421111743-belgorod-explosion-0421.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-21T04:24:00Z",
+            "content": "A Russian warplane dropped a bomb on a Russian city of more than 400,000 people late Thursday, leaving a crater 40 meters (130 feet) across, blowing a car onto a roof and damaging buildings in what s\u2026 [+3830 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Tesla Increases Price of Model S, X in US After Shares Slump - Bloomberg",
+            "description": "Tesla Inc. increased prices of its Model S and X vehicles in the US after steep markdowns early this year took a toll on profitability and the carmaker\u2019s shares.",
+            "url": "https://www.bloomberg.com/news/articles/2023-04-21/tesla-increases-price-of-model-s-x-in-us-after-shares-slump",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iabNXXWnJhm8/v1/1200x800.jpg",
+            "publishedAt": "2023-04-21T04:22:00Z",
+            "content": "Tesla Inc. increased prices of its Model S and X vehicles in the US after steep markdowns early this year took a toll on profitability and the carmaker\u2019s shares.\r\nTesla bumped up each variant of its \u2026 [+196 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Cydney Henderson and Jace Evans, USA TODAY",
+            "title": "James Harden ejected; Joel Embiid receives flagrant foul for kicking Nets' Nic Claxton - USA TODAY",
+            "description": "Joel Embiid received a flagrant foul for kicking Nets' Nic Claxton. Later, James Harden was ejected for a foul, a decision he called \"unacceptable.\"",
+            "url": "https://www.usatoday.com/story/sports/nba/playoffs/2023/04/20/joel-embiid-kicks-nic-claxton-flagrant-foul/11708291002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/21/USAT/32c242d4-4aa4-4f6b-a68e-701d6d0b04d7-USP_NBA__Playoffs-Philadelphia_76ers_at_Brooklyn_N.jpg?auto=webp&crop=3229,1816,x0,y96&format=pjpg&width=1200",
+            "publishedAt": "2023-04-21T01:30:00Z",
+            "content": "Things got chippy early in the\u00a0Philadelphia 76ers' 102-97 Game 3 win over the\u00a0Brooklyn Nets, and the physical play continued throughout the contest, eventually earning an ejection for Sixers star Jam\u2026 [+3929 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Dark Order in the Universe: Distant Galaxies Align To Support Einstein's General Relativity - SciTechDaily",
+            "description": "Scientists have confirmed that intrinsic alignments of galaxies can probe dark matter and dark energy on a cosmological scale, supporting general relativity at vast spatial scales. However, the nature of dark energy and cosmic acceleration remains unresolved.\u2026",
+            "url": "https://scitechdaily.com/?p=270069",
+            "urlToImage": "https://scitechdaily.com/images/Dark-Order-in-Universe-Galaxy-Alignment.jpg",
+            "publishedAt": "2023-04-21T01:04:12Z",
+            "content": "3D position and shape information for each galaxy helped to measure the magnitude of alignment relative to distant galaxies. Credit: KyotoU/Jake Tobiyama\r\nScientists have confirmed that intrinsic ali\u2026 [+2924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samuel Okiror",
+            "title": "Uganda\u2019s president rejects new hardline anti-gay bill as not tough enough - The Guardian",
+            "description": "Yoweri Museveni sends bill imposing death penalty for homosexuality back to parliament",
+            "url": "https://www.theguardian.com/global-development/2023/apr/20/ugandas-president-refuses-to-sign-new-hardline-anti-gay-bill",
+            "urlToImage": "https://i.guim.co.uk/img/media/a3e4b774bfb8b9be71aaf662cf5bff7eb3ee42f9/0_38_5451_3272/master/5451.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb4f1a05f9e023d0d557d194c468073b",
+            "publishedAt": "2023-04-21T00:55:00Z",
+            "content": "Ugandas president, Yoweri Museveni, has refused to sign into law a controversial anti-LGBTQ+ bill that imposes the death penalty for homosexuality, requesting that it be returned to parliament to mak\u2026 [+5028 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "Trans lawmaker silenced by Montana House speaker as Legislature debates gender-affirming care ban - PBS NewsHour",
+            "description": "Speaker Matt Regier said Thursday he would not recognize any representative that he doesn't feel can \"maintain decorum.\"",
+            "url": "https://www.pbs.org/newshour/politics/trans-lawmaker-silenced-by-montana-house-speaker-as-legislature-debates-gender-affirming-care-ban",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/04/GettyImages-1404386591-1024x640.jpg",
+            "publishedAt": "2023-04-21T00:47:01Z",
+            "content": "HELENA, Mont. (AP) Montanas House speaker refused to allow a transgender lawmaker to speak on a bill Thursday, two days after a conservative group of lawmakers deliberately misgendered her and called\u2026 [+3228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SportsLine"
+            },
+            "author": null,
+            "title": "Kings vs. Warriors prediction, odds, line, start time: Advanced computer model releases NBA picks for Thursday, April 20, Game 3 first-round matchup - SportsLine",
+            "description": "The Sacramento Kings will look to take a commanding 3-0 series lead when they meet the Golden State Warriors in their Western Conference first-ro...",
+            "url": "https://www.sportsline.com/insiders/kings-vs-warriors-prediction-odds-line-start-time-advanced-computer-model-releases-nba-picks-for-thursday-april-20-game-3-first-round-matchup/",
+            "urlToImage": "https://splnhub.cbsistatic.com/i/2023/04/15/a518253e-2237-4907-9d63-169c866f3376/stephen-curry-golden-state-warriors-usatsi.jpg",
+            "publishedAt": "2023-04-21T00:25:00Z",
+            "content": "The Sacramento Kings will look to take a commanding 3-0 series lead when they meet the Golden State Warriors in their Western Conference first-round matchup on Thursday. The Kings (48-34), who finish\u2026 [+2186 chars]"
         },
         {
             "source": {
@@ -255,12 +203,64 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "World Press Photo won by image of wounded pregnant woman in Mariupol - BBC",
-            "description": "Evgeniy Maloletka's picture was taken outside a maternity hospital damaged in a Russian airstrike.",
-            "url": "https://www.bbc.com/news/in-pictures-65340265",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15AB0/production/_129425788_4612468bbcef5c35c9f4efdf2a30c5c82fec9f3c.jpg",
-            "publishedAt": "2023-04-20T16:27:28Z",
-            "content": "Evgeniy Maloletka's picture, Mariupol Maternity Hospital Airstrike, has been named World Press Photo of the Year.\r\nTaken on assignment for the Associated Press, the image shows Iryna Kalinina, a woun\u2026 [+4133 chars]"
+            "title": "Northern elephant seals sleep in the deep to avoid predators - BBC",
+            "description": "Northern elephant seals sleep underwater for just two hours per day on their months-long foraging journeys.",
+            "url": "https://www.bbc.com/news/science-environment-65338500",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/126D0/production/_129427457_mediaitem129427456.jpg",
+            "publishedAt": "2023-04-21T00:13:35Z",
+            "content": "Northern elephant seals sleep while drifting hundreds of metres below the sea surface - at depths where their predators do not usually lurk. \r\nUS researchers tracked the animals, recording their brai\u2026 [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Kat Pettibone",
+            "title": "Taylor Swift Is \u2018Enjoying Her Freedom\u2019 After Her Split From Joe Alwyn, Is \u2018Optimistic\u2019 About Her Future - Yahoo Entertainment",
+            "description": "Not so delicate. Taylor Swift is shaking it off following her split from Joe Alwyn \u2014 and settling in nicely to her newly single status. \u201cTaylor is handling...",
+            "url": "https://www.yahoo.com/entertainment/taylor-swift-enjoying-her-freedom-230926039.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bAnMmPsxP8vqqCcVrg8PnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/us_magazine_896/069d5bd2bfa51022f7ec4ff9e26908a0",
+            "publishedAt": "2023-04-20T23:09:26Z",
+            "content": "Taylor Swift and Joe Alwyn.ZUMAPRESS/MEGA; David Fisher/BAFTA/Shutterstock\r\nNot so delicate. Taylor Swift is shaking it off following her split from Joe Alwyn and settling in nicely to her newly sing\u2026 [+4614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "MyPillow CEO Mike Lindell ordered to pay $5 million for losing false election challenge - CNN",
+            "description": "MyPillow CEO Mike Lindell has been ordered to pay $5 million to an expert who debunked his data related to the 2020 election, according to a decision by the ...",
+            "url": "https://www.youtube.com/watch?v=BSB9Yeky624",
+            "urlToImage": "https://i.ytimg.com/vi/BSB9Yeky624/maxresdefault.jpg",
+            "publishedAt": "2023-04-20T23:00:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katherine Dillinger",
+            "title": "Narcan nasal spray maker aims for over-the-counter price of less than $50 - CNN",
+            "description": "Emergent, the maker of the opioid overdose antidote Narcan, said in a statement Thursday that it is aiming for an out-of-pocket price of less than $50 for its nasal spray product now that the US Food and Drug Administration allows for over-the-counter sales.",
+            "url": "https://www.cnn.com/2023/04/20/health/narcan-price/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230420184434-narcan-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-20T22:59:00Z",
+            "content": "Emergent, the maker of the opioid overdose antidote Narcan, said in a statement Thursday that it is aiming for an out-of-pocket price of less than $50 for its nasal spray product now that the US Food\u2026 [+3825 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Asia Grace",
+            "title": "Vanessa Lachey blasted for pregnancy questions at 'Love is Blind' reunion - New York Post ",
+            "description": "Women on TikTok who\u2019ve experienced fertility issues slammed Lachey\u2019s baby questions for the show\u2019s couples.",
+            "url": "https://nypost.com/2023/04/20/vanessa-lachey-blasted-for-baby-talk-at-love-is-blind-reunion/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009921966.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-04-20T22:35:00Z",
+            "content": "Vanessa Lachey had a lot to say and a lot of it rubbed the infertility community the wrong way.\u00a0\r\nFor hounding the cast of Netflixs Love is Blind with questions about which of the newlyweds would be \u2026 [+4150 chars]"
         }
     ]
 }
