@@ -1,45 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CBS Sports"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "",
-            "title": "Celtics vs. Hawks score: Live NBA playoffs updates as Atlanta hosts Boston in pivotal Game 3 - CBS Sports",
-            "description": "The Celtics are looking to take a commanding 3-0 lead on the Hawks",
-            "url": "https://www.cbssports.com/nba/news/celtics-vs-hawks-score-live-nba-playoffs-updates-as-atlanta-hosts-boston-in-pivotal-game-3/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/22/e5621cf8-742b-45da-9d19-52d80cc47f61/thumbnail/1200x675/eacd1730f6d4549ab6efaa9611cb5249/bogdan-getty.png",
-            "publishedAt": "2023-04-21T23:55:00Z",
-            "content": "The Boston Celtics were heavy favorites coming into their first-round series against the Atlanta Hawks, and we've seen why in the first two games. They have not trailed at any point after the first q\u2026 [+3007 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Rebekah Riess,Joe Sutton",
-            "title": "Montana Republicans call for censure of transgender lawmaker amid debate over ban of gender-affirming care for minors - CNN",
-            "description": "A number of Republican lawmakers from the Montana Freedom Caucus are demanding Democratic state Rep. Zooey Zephyr be censured by the state House for \"using inappropriate and uncalled-for language\" during a floor debate over amendments concerning a bill that b\u2026",
-            "url": "https://www.cnn.com/2023/04/21/politics/zooey-zephyr-montana-republicans-censure/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230421083318-zooey-zephyr-2022-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-21T23:52:00Z",
-            "content": "A number of Republican lawmakers from the Montana Freedom Caucus are demanding Democratic state Rep. Zooey Zephyr be censured by the state House for using inappropriate and uncalled-for language duri\u2026 [+2814 chars]"
+            "author": "George Petras, Janet Loehrke",
+            "title": "Sudan conflict: US prepares troops to evacuate as fighting intensifies - USA TODAY",
+            "description": "Thousands of Americans remain in Sudan as the nation's army and a rival paramilitary group battle each other across capital city.",
+            "url": "https://www.usatoday.com/story/graphics/2023/04/21/sudan-fighting-us-embassy-evacuation/11680560002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/17/USAT/a2db4724-cbb2-4d0b-81ac-100225b8dc9b-Sudan-topper.png?crop=3125,1758,x221,y243&width=3125&height=1758&format=pjpg&auto=webp",
+            "publishedAt": "2023-04-22T07:50:23Z",
+            "content": "The U.S. is preparing troops to evacuate\u00a0American Embassy personnel in Sudan as a power struggle between\u00a0two top military factions has erupted into widespread fighting across Khartoum, the capital ci\u2026 [+535 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "New York Post"
             },
-            "author": "",
-            "title": "Five NFL players suspended for violating league's gambling policy, including Lions' 2022 first-round pick - CBS Sports",
-            "description": "The NFL has dropped the hammer on five different players for violating the league's gambling policy",
-            "url": "https://www.cbssports.com/nfl/news/five-nfl-players-suspended-for-violating-leagues-gambling-policy-including-lions-2022-first-round-pick/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/21/04795de4-5e68-440e-bb40-f5b374f28739/thumbnail/1200x675/b4f908d2a4e343c0ed96fa7476a146fc/jamesonwilliams.jpg",
-            "publishedAt": "2023-04-21T23:08:00Z",
-            "content": "The NFL has made it very clear that gambling on games won't be tolerated and five different players found that out the hard way on Friday. The NFL has announced that Stanley Berryhill III, Jameson Wi\u2026 [+4379 chars]"
+            "author": "Katherine Donlevy",
+            "title": "DA Alvin Bragg, House GOP reach deal in probe over Trump indictment - New York Post ",
+            "description": "Alvin Bragg and House Republicans struck a deal Friday that allows the Judiciary Committee to question an ex-prosecutor about the Manhattan district attorney\u2019s case against former President T\u2026",
+            "url": "https://nypost.com/2023/04/22/alvin-bragg-house-gop-reach-deal-in-probe-over-trump-indictment/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26710230-1682145072045.jpg?quality=75&strip=all&1682130747&w=1024",
+            "publishedAt": "2023-04-22T06:53:00Z",
+            "content": "Alvin Bragg and House Republicans struck a deal Friday that allows the Judiciary Committee to question an ex-prosecutor about the Manhattan district attorney\u2019s case against former President Trump \u2014 a\u2026 [+2862 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Gervonta Davis and Ryan Garcia get HEATED ahead of their fight | SportsCenter - ESPN",
+            "description": "Stan Verrett interviews Gervonta Davis and Ryan Garcia ahead of their catchweight bout in Las Vegas on Saturday night.#Boxing #DavisGarcia\u2714\ufe0f Subscribe to ESP...",
+            "url": "https://www.youtube.com/watch?v=H-_RjIbcNcc",
+            "urlToImage": "https://i.ytimg.com/vi/H-_RjIbcNcc/maxresdefault.jpg",
+            "publishedAt": "2023-04-22T05:45:40Z",
+            "content": null
         },
         {
             "source": {
@@ -47,25 +47,181 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "As DeSantis stumbles, anti-Trump Republicans fear a rerun in 2024 campaign - Reuters",
-            "description": "Current and former Republican Party operatives who have spent years trying to banish Donald Trump from American political life say the former president's 2024 campaign has begun to gain so much steam that they fear he is by far the favorite to become the part\u2026",
-            "url": "https://www.reuters.com/world/us/desantis-stumbles-anti-trump-republicans-fear-rerun-2024-campaign-2023-04-21/",
-            "urlToImage": "https://www.reuters.com/resizer/8vs92uAq9lSpvDNVtuHKPPd1iCg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WLN67XKGINOMVNKJOVVMI5VIQQ.jpg",
-            "publishedAt": "2023-04-21T22:37:00Z",
-            "content": "April 21 (Reuters) - Current and former Republican Party operatives who have spent years trying to banish Donald Trump from American political life say the former president's 2024 campaign has begun \u2026 [+6766 chars]"
+            "title": "U.S. Supreme Court preserves broad access to abortion pill - Reuters.com",
+            "description": "The U.S. Supreme Court on Friday blocked new restrictions set by lower courts on a widely used abortion pill, a decision welcomed by President Joe Biden as his administration defends broad access to the drug in the latest fierce legal battle over reproductive\u2026",
+            "url": "https://www.reuters.com/legal/us-supreme-court-poised-act-abortion-pill-curbs-2023-04-21/",
+            "urlToImage": "https://www.reuters.com/resizer/ay36mPYMHv7Y_BkSbdLiMoSv_w8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JYQQYUVDY5M5HHASWUJLX6W734.jpg",
+            "publishedAt": "2023-04-22T05:43:00Z",
+            "content": "April 21 (Reuters) - The U.S. Supreme Court on Friday blocked new restrictions set by lower courts on a widely used abortion pill, a decision welcomed by President Joe Biden as his administration def\u2026 [+5810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Nuggets vs. Timberwolves: Nikola Jokic dominates, Anthony Edwards joins Kobe Bryant as Denver takes 3-0 lead - CBS Sports",
+            "description": "Denver is one win away from advancing to the Western Conference semifinals",
+            "url": "https://www.cbssports.com/nba/news/nuggets-vs-timberwolves-nikola-jokic-dominates-anthony-edwards-joins-kobe-bryant-as-denver-takes-3-0-lead/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/22/7415f544-e254-41be-8f47-f174c79a6228/thumbnail/1200x675/91476a3653c7c8e7cb241b7996217468/jokic-getty.png",
+            "publishedAt": "2023-04-22T05:19:00Z",
+            "content": "The top-seeded Denver Nuggets are one win away from advancing to the Western Conference semifinals after a workmanlike 120-111 Game 3 road win over the Minnesota Timberwolves on Friday night. The Nug\u2026 [+4396 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mitchell McCluskey",
+            "title": "Belgium destroys shipment of American beer after taking issue with 'Champagne of Beer' slogan - CNN",
+            "description": "Belgium has destroyed a shipment of American beer after taking exception to its maker's slogan that it was \"The Champagne of Beers.\"",
+            "url": "https://www.cnn.com/2023/04/22/europe/belgium-destroys-beer-champagne-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230421215958-01-belgium-beer-destroyed-041723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-22T04:29:00Z",
+            "content": "Belgium has destroyed a shipment of American beer after taking exception to its makers slogan that it was The Champagne of Beers.\r\nBelgian customs crushed the 2,352 cans of Miller High Life beer earl\u2026 [+1917 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Barak Ravid",
+            "title": "Sudan's rival generals \"hold country hostage\" as battle of egos turns deadly - Axios",
+            "description": "Many fear the generals have \"passed the point of no return\u201d and the fighting will continue until one declares victory.",
+            "url": "https://www.axios.com/2023/04/21/sudan-fighting-burhan-hemedti-history-background",
+            "urlToImage": "https://images.axios.com/htEdVMINfHxMheh_ILK6svIYkO0=/0x0:1920x1080/1366x768/2023/04/21/1682085096758.png",
+            "publishedAt": "2023-04-22T03:22:40Z",
+            "content": "A battle of egos and the struggle for power are at the center of the fighting in Sudan that's killed more than 400 people over the last seven days. \r\nThe big picture: Both sides said Friday they'll a\u2026 [+6493 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Transgender Montana lawmaker reacts to calls for censure - CNN",
+            "description": "Montana state Rep. Zooey Zephyr (D) speaks with CNN's Jake Tapper about her experience after taking a stand against a GOP-backed plan to ban gender-affirming care for transgender children and teenagers.",
+            "url": "https://www.cnn.com/videos/politics/2023/04/21/montana-transgender-children-health-bill-zooey-zephyr-sot-lead-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230421184458-zephyr.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-22T03:08:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Alec Baldwin's gun from 'Rust' shooting found to be mechanically improper, sources tell ABC News - KABC-TV",
+            "description": "The gun that killed Halyna Hutchins on the set of \"Rust\" has been found to be mechanically improper, sources tell ABC News.",
+            "url": "https://abc7.com/alec-baldwin-rust-new-mexico-charges-dropped/13167405/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13167115_042123-kabc-4pm-rust-shooting-2-vid.jpg?w=1600",
+            "publishedAt": "2023-04-22T02:08:37Z",
+            "content": "ABC News has learned more information as to why the involuntary manslaughter charge against Alec Baldwin following the fatal shooting on the set of \"Rust\" have been dropped.\r\nSources tell ABC News Ba\u2026 [+744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Angie Orellana Hernandez",
+            "title": "The Big Bang Theory Alum Kevin Sussman Marries Addie Hall - E! NEWS",
+            "description": "The Big Bang Theory actor Kevin Sussman shared that he tied the knot last weekend with partner Addie Hall after more than two years of dating.",
+            "url": "https://www.eonline.com/news/1372170/the-big-bang-theory-alum-kevin-sussman-marries-addie-hall",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023321/rs_1200x1200-230421175401-1200-Kevin-Sussman-IG.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-04-22T01:53:00Z",
+            "content": "These nuptials are out of this world.\r\nThe Big Bang Theory actor\u00a0Kevin Sussman recently announced on social media that he married partner\u00a0Addie Hall last weekend in an outdoor ceremony.\r\nIn a wedding\u2026 [+962 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Hope King",
+            "title": "Disney leans into values amid Florida feud with DeSantis - Axios",
+            "description": "The public rift offers the company an opportunity to double down on social values.",
+            "url": "https://www.axios.com/2023/04/21/disney-desantis-prison",
+            "urlToImage": "https://images.axios.com/21KqodIRimqrvBVzkIijB_DCz9k=/0x0:1920x1080/1366x768/2023/04/21/1682108510729.jpg",
+            "publishedAt": "2023-04-22T01:14:05Z",
+            "content": "Beef between Disney and Florida Gov. Ron DeSantis shows no sign of abating.\r\nWhy it matters: Thehighly public feud is entering a new chapter, as Disney looks to flex its muscles from inside the State\u2026 [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Google Pixel Fold Leak Includes Display and Camera Specs - CNET",
+            "description": "We have purported specs and a possible first-look date for Google's foldable.",
+            "url": "https://www.cnet.com/tech/mobile/google-pixel-fold-leak-includes-display-and-camera-specs/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/38181a69f6abf713714f1822f058f1927c11a8cc/hub/2022/11/14/e8f49cf2-c234-4cbb-a2c9-0e156ecc73a9/2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-04-22T00:50:00Z",
+            "content": "What's said to be a new Pixel Fold leak appears to fill in whatever gaps were left in knowledge about Google's first foldable phone. If the details are true, we have not only a long list of potential\u2026 [+3642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Tom\u00e1s Mier",
+            "title": "Frank Ocean\u2019s Coachella Performance Was a \u2018Scramble\u2019 in Days Before Controversial Set: Sources - Rolling Stone",
+            "description": "Ocean soundchecked songs such as \u201cDear April\u201d and \u201cPretty Sweet\u201d days before the show and had to make \u201clast-minute\u201d changes to his performance, sources tell Rolling Stone",
+            "url": "https://www.rollingstone.com/music/music-features/frank-oceans-coachella-scramble-before-set-1234721600/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/04/frank-ocean-coachella.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-04-22T00:46:44Z",
+            "content": "Frank Ocean\u2019s polarizingCoachella set and subsequent cancellation just days before the festival\u2019s second weekend have garnered a flurry of negative reactions from festival attendees and fans. With st\u2026 [+7257 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Adam Sabes",
-            "title": "Fiery Connecticut fuel truck crash on I-95 bridge leaves 1 dead, others injured - Fox News",
-            "description": "Connecticut police say one person was killed and several others were injured following an fiery crash involving a tractor-trailer truck carrying fuel Friday on an Interstate 95 bridge in Groton.",
-            "url": "https://www.foxnews.com/us/fiery-connecticut-fuel-truck-crash-interstate-95-bridge-1-dead-others-injured",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Untitled-design-731.png",
-            "publishedAt": "2023-04-21T22:29:00Z",
-            "content": "One person is dead and several others were injured after a truck carrying thousands of gallons of fuel rolled over in a fiery crash on a busy Connecticut interstate late Friday morning, sending a bil\u2026 [+1556 chars]"
+            "author": "Alexander Hall",
+            "title": "CNN anchor asks if US wants \u20184 more years\u2019 of Biden when 74% of Americans say US headed in \u2018wrong direction' - Fox News",
+            "description": "A CNN host expressed skepticism that Biden can viably run for reelection when so many American citizen are skeptical of America's future on its current course.",
+            "url": "https://www.foxnews.com/media/cnn-anchor-asks-wants-4-years-biden-when-74-americans-headed-wrong-direction",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/John-King-screencap.png",
+            "publishedAt": "2023-04-22T00:29:00Z",
+            "content": "CNN anchor John King noted President Bidens key challenges, and asked whether the American public truly plans to reelect him in 2024.\r\nWhile the political pushback many expected for Democrats in the \u2026 [+1897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pro Football Network"
+            },
+            "author": null,
+            "title": "Garrett's 2023 NFL Mock Draft: Raiders Trade up for C.J. Stroud, Bijan Robinson Goes Top 10 - Pro Football Network",
+            "description": null,
+            "url": "https://www.profootballnetwork.com/2023-nfl-mock-draft-raiders-stroud-bijan-robinson-top-10/",
+            "urlToImage": null,
+            "publishedAt": "2023-04-22T00:00:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Paige Gawley",
+            "title": "Jimmie Allen Announces Separation from Pregnant Wife Alexis Gale - Entertainment Tonight",
+            "description": "This will be the estranged couple's third child together.",
+            "url": "https://www.etonline.com/jimmie-allen-announces-separation-from-pregnant-wife-alexis-gale-203169",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-04/MK-Jimmie-Allen-and-Alexis-Gale-1280-X-720-BREAK-UP-TEAR.jpg?h=17e1fd80&itok=n-mt8Q9l",
+            "publishedAt": "2023-04-21T23:23:34Z",
+            "content": "Jimmie Allen is sharing two pieces of news with fans. On Friday, the 37-year-old country singer took to Instagram to announce that he and his wife, Alexis Gale, are separating, and additionally revea\u2026 [+1592 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Jacob Knutson",
+            "title": "How to see peak of the Lyrid meteor shower this weekend - Axios",
+            "description": "It's one of the oldest known meteor showers.",
+            "url": "https://www.axios.com/2023/04/21/meteor-shower-2023-april-lyrid",
+            "urlToImage": "https://images.axios.com/yvqdmFNXKbwmoSiSo5MgkSkS8pU=/0x595:8660x5466/1366x768/2023/04/21/1682099346367.jpg",
+            "publishedAt": "2023-04-21T22:30:56Z",
+            "content": "Sky watchers in the Northern Hemisphere in an area away from excessive artificial light and cloudy weather should be able to see the peak of the Lyrids meteor shower this weekend.\r\nWhy it matters: It\u2026 [+1304 chars]"
         },
         {
             "source": {
@@ -83,184 +239,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Florence Ion",
-            "title": "Google Pixel Fold Camera and Screen Specs Leak - Gizmodo",
-            "description": "Everything from the camera system to the high-resolution displays indicates that Google is gunning for Samsung's foldables.",
-            "url": "https://gizmodo.com/google-pixel-fold-specs-camera-screen-oled-display-io-1850363476",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/705ce5ed4ca4b28986ff8a933e80bd1b.jpg",
-            "publishedAt": "2023-04-21T21:20:00Z",
-            "content": "We only just heard a leak that the Pixel Fold is slated to drop at Google I/O, and yet were already hearing more, including camera and screen specs. This new leak comes from Front Page Tech via 9to5G\u2026 [+3661 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brandon Gillespie, Jake Gibson, Bill Mears",
-            "title": "Hunter Biden lawyers to meet with DOJ officials next week as federal investigation criticism intensifies - Fox News",
-            "description": "Attorney's for Hunter Biden will be me meeting with officials from the Department of Justice next week as the federal investigation into his taxes and other matters continues.",
-            "url": "https://www.foxnews.com/politics/hunter-biden-lawyers-meet-doj-officials-next-week-federal-investigation-criticism-intensifies",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/hunter.jpg",
-            "publishedAt": "2023-04-21T21:12:00Z",
-            "content": "Hunter Bidens lawyers will meet with Department of Justice officials next week, including Delaware U.S. Attorney David Weiss, according to two federal law enforcement officials familiar with the matt\u2026 [+2482 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Brent D. Griffiths",
-            "title": "DeSantis may have overreached in war on Disney, and Trump smells blood - Business Insider",
-            "description": "Disney has proven to be a tough opponent for the Florida governor and now his potential primary foes are entering the debate over his actions.",
-            "url": "https://www.businessinsider.com/desantis-disney-feud-2024-republicans-response-trump-florida-wdw-mickey-2023-4",
-            "urlToImage": "https://i.insider.com/6442bff377ecc80019e5c65e?width=1200&format=jpeg",
-            "publishedAt": "2023-04-21T20:59:00Z",
-            "content": "Former President Donald Trump senses that part of Ron DeSantis' mythmaking bravado may lead to his downfall.\r\n\"DeSanctus is being absolutely destroyed by Disney,\" Trump crowed on his social media pla\u2026 [+5850 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "name": "Ca.gov"
             },
             "author": null,
-            "title": "Factbox: World's biggest lithium producers - Reuters",
-            "description": "Chilean President Gabriel Boric said on Thursday he would <a href=\"/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/\">nationalise the country's lithium industry</a> and create a state-owned company to produce the metal \u2026",
-            "url": "https://www.reuters.com/markets/commodities/worlds-biggest-lithium-producers-2023-04-21/",
-            "urlToImage": "https://www.reuters.com/resizer/wQoQHkYac2Jpqsd7U4r41ccvPIk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F54OCSOWERK3NLRB3EX56WBNQA.jpg",
-            "publishedAt": "2023-04-21T20:41:00Z",
-            "content": "SINGAPORE, April 21 (Reuters) - Chilean President Gabriel Boric said on Thursday he would nationalise the country's lithium industry and create a state-owned company to produce the metal that is a ke\u2026 [+2527 chars]"
+            "title": "Public Safety Partnership to Disrupt Fentanyl Trafficking in SF - Office of Governor Gavin Newsom",
+            "description": "In new partnership with the City of San Francisco, Governor Newsom is directing CHP and CalGuard to identify personnel and resources to assist the city in combatting fentanyl trafficking.",
+            "url": "https://www.gov.ca.gov/2023/04/21/public-safety-partnership-sf/",
+            "urlToImage": "https://www.gov.ca.gov/wp-content/uploads/2019/02/GovernorSeal-Blue.png",
+            "publishedAt": "2023-04-21T21:22:51Z",
+            "content": "WHAT YOU NEED TO KNOW: In new partnership with the City of San Francisco, Governor Newsom is directing California Highway Patrol and California National Guard to identify personnel and resources to a\u2026 [+6329 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "OregonLive"
             },
             "author": null,
-            "title": "'Flagrant Fallout': Explaining Harden & Embiid's upgraded fouls w/ Monty McCutchen | NBA Today - ESPN",
-            "description": "Sr. Vice President, Head of Referee Development & Training, Monty McCutchen, joins Malika Andrews, Zach Lowe & Kendrick Perkins on NBA Today to justify the o...",
-            "url": "https://www.youtube.com/watch?v=BX_aOqmxMEs",
-            "urlToImage": "https://i.ytimg.com/vi/BX_aOqmxMEs/maxresdefault.jpg",
-            "publishedAt": "2023-04-21T20:22:01Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Vivien Lou Chen",
-            "title": "Here's how anxiety over the U.S. debt ceiling may play out in markets - MarketWatch",
-            "description": "Investors continue to pour money into the Treasury market's shortest-dated security amid nervousness over the chance the U.S. government might default on its...",
-            "url": "https://www.marketwatch.com/story/heres-how-anxiety-over-the-u-s-debt-ceiling-may-play-out-in-markets-42dd2f11",
-            "urlToImage": "https://images.mktw.net/im-768044/social",
-            "publishedAt": "2023-04-21T20:08:00Z",
-            "content": "Investors continued to pour money into the Treasury markets shortest-dated security on Friday amid ongoing worry over the U.S. debt ceiling and the possibility that the government might default on it\u2026 [+424 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Dominic Patten",
-            "title": "Alec Baldwin Involuntary Manslaughter Charges Officially Dropped In Fatal \u2018Rust\u2019 Shooting - Deadline",
-            "description": "UPDATED with latest court hearing information: The New Mexico criminal case against Alec Baldwin for the on-set death of Rust cinematographer Halyna Hutchins on October 21, 2021 is officially close\u2026",
-            "url": "https://deadline.com/2023/04/alec-baldwin-court-hearing-rust-charges-dropped-1235333728/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/04/Alec-Baldwin-Hannah-Gutierrez-Reed.jpg?w=1000",
-            "publishedAt": "2023-04-21T20:02:00Z",
-            "content": "UPDATED with latest court hearing information: The New Mexico criminal case against Alec Baldwin for the on-set death of Rustcinematographer Halyna Hutchins on October 21, 2021 is officially closed.\r\u2026 [+7200 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "STEVE KARNOWSKI and JIM SALTER Associated Press",
-            "title": "Minnesota officer who fatally shot Daunte Wright to be freed - ABC News",
-            "description": "A white ex-police officer convicted of manslaughter after mistaking her handgun for a Taser and fatally shooting a Black motorist in suburban Minneapolis in 2021 is set to be released from prison on Monday",
-            "url": "https://abcnews.go.com/US/wireStory/minnesota-officer-fatally-shot-daunte-wright-freed-98762113",
-            "urlToImage": "https://s.abcnews.com/images/US/wirestory_93c1d847f2188571ce70285d0ac55406_16x9_992.jpg",
-            "publishedAt": "2023-04-21T19:28:22Z",
-            "content": "MINNEAPOLIS -- A white former police officer convicted of manslaughter after mistaking her handgun for a Taser and fatally shooting Black motorist Daunte Wright in suburban Minneapolis in 2021 is set\u2026 [+2875 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Jordan Moreau",
-            "title": "Steven Yeun, Ali Wong and \u2018Beef\u2019 Creator Say David Choe Has \u2018Put in the Work\u2019 Since \u2018Fabricated\u2019 Rape Story - Variety",
-            "description": "The creator and stars of Netflix\u2019s popular show \u201cBeef\u201d have responded to resurfaced criticism against cast member David Choe, who has recently come under fire for a 2014 podcast interview whe\u2026",
-            "url": "https://variety.com/2023/tv/news/beef-david-choe-netflix-rape-1235591031/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/04/David-Choe-Beef.jpg?w=1000&h=562&crop=1",
-            "publishedAt": "2023-04-21T19:27:00Z",
-            "content": "The creator and stars of Netflix\u2019s popular show \u201cBeef\u201d have responded to resurfaced criticism against cast member David Choe, who has recently come under fire for a 2014 podcast interview where he ha\u2026 [+4062 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mike Snider",
-            "title": "Miller beer destroyed over High Life's 'Champagne of Beers' label - USA TODAY",
-            "description": "Beer and Champagne don't always mix in Europe. 98 cases of Miller High Life were destroyed at the order of Belgium officials. Here's why.",
-            "url": "https://www.usatoday.com/story/news/world/2023/04/21/miller-beer-destroyed-over-high-lifes-champagne-beers-label/11712370002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/21/USAT/13baa116-0b5d-4771-a8fd-ddb24338b003-AP23111351417560.jpg?crop=1619,911,x0,y82&width=1619&height=911&format=pjpg&auto=webp",
-            "publishedAt": "2023-04-21T19:18:01Z",
-            "content": "Authorities in Europe\u00a0crushed\u00a0 literally\u00a0\u00a0more than 2,300 cans of Miller High Life because the beer is labelled \"The Champagne of Beers.\"\u00a0\r\nBelgian customs seized a shipment of 2,352 cans of Miller H\u2026 [+2459 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "David McKenzie,Nimi Princewill",
-            "title": "10 members of same family killed in South Africa mass shooting - CNN",
-            "description": "Ten members from the same family,\u00a0including seven women and three men, were killed by\u00a0gunmen Friday in the city of Pietermaritzburg,\u00a0in KwaZulu-Natal (KZN) province of South Africa, police\u00a0said Friday.",
-            "url": "https://www.cnn.com/2023/04/21/africa/kwazulu-natal-mass-shooting-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220710072712-south-africa-shooting-071022.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-21T19:11:00Z",
-            "content": "Ten members from the same family,\u00a0including seven women and three men, were killed by\u00a0gunmen Friday in the city of Pietermaritzburg,\u00a0in KwaZulu-Natal (KZN) province of South Africa, police\u00a0said Frida\u2026 [+1567 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Elana Fishman",
-            "title": "Sofia Richie glows in white beaded bridal look ahead of Elliot Grainge wedding - Page Six",
-            "description": "Ahead of her nuptials in the South of France, the bride-to-be stepped out with her fianc\u00e9 for an elegant sunset portrait session in a shimmering look.",
-            "url": "https://pagesix.com/2023/04/21/sofia-richie-wears-beaded-bridal-look-ahead-of-elliot-grainge-wedding/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/04/NYPICHPDPICT000009974082.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2023-04-21T19:02:00Z",
-            "content": "Here comes the bride.\r\nAhead of her wedding to Elliot Grainge in the South of France this weekend, Sofia Richie stepped out with her fianc\u00e9 for an elegant sunset portrait session during the couple\u2019s \u2026 [+1746 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Stress Rapidly Increases Biological Age, but Recovery Turns Back the Clock - Neuroscience News",
-            "description": "Stress can cause rapid and transient increases in biological age, which can be reversed upon recovery, according to a new study. Using DNA methylation clocks, researchers found that stress triggers short-term fluctuations in biological age in humans and mice.\u2026",
-            "url": "https://neurosciencenews.com/stress-aging-23078/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/04/stress-aging-neurosinces-public.jpg",
-            "publishedAt": "2023-04-21T18:59:07Z",
-            "content": "Summary: Stress can cause rapid and transient increases in biological age, which can be reversed upon recovery, according to a new study. Using DNA methylation clocks, researchers found that stress t\u2026 [+7700 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Ron Amadeo",
-            "title": "Google\u2019s AI panic forces merger of rival divisions, DeepMind and Brain - Ars Technica",
-            "description": "Alphabet's two AI groups, which reportedly don't get along, are merging.",
-            "url": "https://arstechnica.com/gadgets/2023/04/googles-ai-panic-forces-merger-of-rival-divisions-deepmind-and-brain/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/623082907ce4897c3820b24c_DeepMind-760x380.jpg",
-            "publishedAt": "2023-04-21T18:49:12Z",
-            "content": "Enlarge/ Google DeepMind will presumably be getting a rainbow logo, but for now here's the old DeepMind logo. \r\n60 with \r\nGoogle's 'Code Red' panic over the rise of ChatGPT and its failure to excite \u2026 [+3592 chars]"
+            "title": "Elon Musk\u2019s Twitter yanks blue checks from government agencies; impersonators emerge - OregonLive",
+            "description": "A number of agencies said they were awaiting more clarity from Twitter, which has sharply curtailed its staff.",
+            "url": "https://www.oregonlive.com/business/2023/04/elon-musks-twitter-yanks-blue-checks-from-government-agencies-impersonators-emerge.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/AT5KWBOhxf-dnmjwnSHIbRaMPvg=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JMC2CTXJFFCQ7E3W6U2ZAX4MWI.jpg",
+            "publishedAt": "2023-04-21T21:03:00Z",
+            "content": "Twitter has long been a way for people to keep track of tornado watches, train delays, news alerts or the latest crime warnings from their local police department.\r\nBut when the Elon Musk-owned platf\u2026 [+7019 chars]"
         }
     ]
 }
