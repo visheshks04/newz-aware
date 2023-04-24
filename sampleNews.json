@@ -1,45 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "fox8.com"
             },
-            "author": "George Petras, Janet Loehrke",
-            "title": "Sudan conflict: US prepares troops to evacuate as fighting intensifies - USA TODAY",
-            "description": "Thousands of Americans remain in Sudan as the nation's army and a rival paramilitary group battle each other across capital city.",
-            "url": "https://www.usatoday.com/story/graphics/2023/04/21/sudan-fighting-us-embassy-evacuation/11680560002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/17/USAT/a2db4724-cbb2-4d0b-81ac-100225b8dc9b-Sudan-topper.png?crop=3125,1758,x221,y243&width=3125&height=1758&format=pjpg&auto=webp",
-            "publishedAt": "2023-04-22T07:50:23Z",
-            "content": "The U.S. is preparing troops to evacuate\u00a0American Embassy personnel in Sudan as a power struggle between\u00a0two top military factions has erupted into widespread fighting across Khartoum, the capital ci\u2026 [+535 chars]"
+            "author": "Jordan Unger, Laura Morrison",
+            "title": "Lyrids meteor shower Ohio - WJW FOX 8 News Cleveland",
+            "description": "The Lyrids meteor shower, one of the oldest known meteor showers will be lighting up the night sky this weekend, but will we be able to see it here in Northeast Ohio?",
+            "url": "https://fox8.com/news/lyrids-meteor-shower-this-weekend-will-northeast-ohio-see-it/",
+            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2023/04/GettyImages-1026811196-1.jpg?w=1280",
+            "publishedAt": "2023-04-22T23:20:00Z",
+            "content": "**Related Video Above: Moon halo seen above Northeast Ohio in November.**\r\nCLEVELAND (WJW) \u2013 Look up! One of the oldest known meteor showers will be lighting up the night sky this weekend.\r\nAccording\u2026 [+1023 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrea Vacchiano, Jon Street",
+            "title": "Montana Republicans condemn 'hate-filled' remarks by transgender Rep. Zooey Zephyr: 'Not public service' - Fox News",
+            "description": "Montana state representative Braxton Mitchell said Friday that Zooey Zephyr's controversial attack against Republican representatives were \"hate-filled\" and a violation of decorum.",
+            "url": "https://www.foxnews.com/politics/montana-republicans-condemn-hate-filled-remarks-transgender-rep-zooey-zephyr-not-public-service",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/zooeybraxtonsbs.png",
+            "publishedAt": "2023-04-22T23:02:00Z",
+            "content": "A Montana state representative condemned a transgender legislator's \"hate-filled remarks\" to Fox News Digital, accusing the representative of \"seeking media attention.\"\r\nThe controversy stems from co\u2026 [+1937 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "BBC News"
             },
-            "author": "Katherine Donlevy",
-            "title": "DA Alvin Bragg, House GOP reach deal in probe over Trump indictment - New York Post ",
-            "description": "Alvin Bragg and House Republicans struck a deal Friday that allows the Judiciary Committee to question an ex-prosecutor about the Manhattan district attorney\u2019s case against former President T\u2026",
-            "url": "https://nypost.com/2023/04/22/alvin-bragg-house-gop-reach-deal-in-probe-over-trump-indictment/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26710230-1682145072045.jpg?quality=75&strip=all&1682130747&w=1024",
-            "publishedAt": "2023-04-22T06:53:00Z",
-            "content": "Alvin Bragg and House Republicans struck a deal Friday that allows the Judiciary Committee to question an ex-prosecutor about the Manhattan district attorney\u2019s case against former President Trump \u2014 a\u2026 [+2862 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Gervonta Davis and Ryan Garcia get HEATED ahead of their fight | SportsCenter - ESPN",
-            "description": "Stan Verrett interviews Gervonta Davis and Ryan Garcia ahead of their catchweight bout in Las Vegas on Saturday night.#Boxing #DavisGarcia\u2714\ufe0f Subscribe to ESP...",
-            "url": "https://www.youtube.com/watch?v=H-_RjIbcNcc",
-            "urlToImage": "https://i.ytimg.com/vi/H-_RjIbcNcc/maxresdefault.jpg",
-            "publishedAt": "2023-04-22T05:45:40Z",
-            "content": null
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Barry Humphries: Dame Edna Everage comedian dies at 89 - BBC",
+            "description": "Tributes paid to \"savagely funny\" Australian entertainer whose characters were loved by millions.",
+            "url": "https://www.bbc.com/news/entertainment-arts-65328507",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2F6D/production/_129414121_gettyimages-526509642.jpg",
+            "publishedAt": "2023-04-22T23:00:36Z",
+            "content": "Media caption, Watch: Dame Edna's funniest moments in 80 seconds\r\nAustralian entertainer Barry Humphries, best known for his comic character Dame Edna Everage, has died aged 89.\r\nThe star had been in\u2026 [+6018 chars]"
         },
         {
             "source": {
@@ -47,64 +47,129 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "U.S. Supreme Court preserves broad access to abortion pill - Reuters.com",
-            "description": "The U.S. Supreme Court on Friday blocked new restrictions set by lower courts on a widely used abortion pill, a decision welcomed by President Joe Biden as his administration defends broad access to the drug in the latest fierce legal battle over reproductive\u2026",
-            "url": "https://www.reuters.com/legal/us-supreme-court-poised-act-abortion-pill-curbs-2023-04-21/",
-            "urlToImage": "https://www.reuters.com/resizer/ay36mPYMHv7Y_BkSbdLiMoSv_w8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JYQQYUVDY5M5HHASWUJLX6W734.jpg",
-            "publishedAt": "2023-04-22T05:43:00Z",
-            "content": "April 21 (Reuters) - The U.S. Supreme Court on Friday blocked new restrictions set by lower courts on a widely used abortion pill, a decision welcomed by President Joe Biden as his administration def\u2026 [+5810 chars]"
+            "title": "Foreign states start evacuations from Sudan as battle rages - Reuters.com",
+            "description": "Some foreign nationals began evacuating from a Red Sea port in Sudan on Saturday, even as air strikes again rocked the capital Khartoum after a week of fighting between rival commanders that has killed hundreds of civilians across the nation.",
+            "url": "https://www.reuters.com/world/africa/sudan-army-okays-foreign-evacuation-khartoum-battle-rages-2023-04-22/",
+            "urlToImage": "https://www.reuters.com/resizer/w7O8WMjNBmpedejriilfDQ0qfqY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OEEWGLTX3BKLDFZJBZVDMP5RZY.jpg",
+            "publishedAt": "2023-04-22T22:26:00Z",
+            "content": "KHARTOUM, April 22 (Reuters) - Some foreign nationals began evacuating from a Red Sea port in Sudan on Saturday, even as air strikes again rocked the capital Khartoum after a week of fighting between\u2026 [+5255 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "ESPN"
             },
-            "author": "",
-            "title": "Nuggets vs. Timberwolves: Nikola Jokic dominates, Anthony Edwards joins Kobe Bryant as Denver takes 3-0 lead - CBS Sports",
-            "description": "Denver is one win away from advancing to the Western Conference semifinals",
-            "url": "https://www.cbssports.com/nba/news/nuggets-vs-timberwolves-nikola-jokic-dominates-anthony-edwards-joins-kobe-bryant-as-denver-takes-3-0-lead/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/22/7415f544-e254-41be-8f47-f174c79a6228/thumbnail/1200x675/91476a3653c7c8e7cb241b7996217468/jokic-getty.png",
-            "publishedAt": "2023-04-22T05:19:00Z",
-            "content": "The top-seeded Denver Nuggets are one win away from advancing to the Western Conference semifinals after a workmanlike 120-111 Game 3 road win over the Minnesota Timberwolves on Friday night. The Nug\u2026 [+4396 chars]"
+            "author": "Jamal Collier",
+            "title": "Bucks rule Giannis Antetokounmpo (back) out again for Game 3 - ESPN",
+            "description": "Giannis Antetokounmpo will miss his second straight game of the Bucks' first-round series against the Heat due to a lower-back contusion.",
+            "url": "https://www.espn.com/nba/story/_/id/36266034/bucks-rule-giannis-antetokounmpo-back-again-game-3",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0419%2Fr1160995_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-04-22T22:17:48Z",
+            "content": "MIAMI -- Milwaukee Bucks star Giannis Antetokounmpo will miss his second straight game with a lower back contusion after he was ruled out for Game 3 against the Miami Heat on Saturday night.\r\nAntetok\u2026 [+1224 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Meghan hits out at UK media over King Charles letters - Reuters UK",
+            "description": "Meghan, the wife of Britain's Prince Harry, criticised the British media on Saturday over reports that letters exchanged with King Charles played a part behind her decision not to attend his coronation, her latest confrontation with the press.",
+            "url": "https://www.reuters.com/world/uk/meghan-hits-out-uk-media-over-king-charles-letters-2023-04-22/",
+            "urlToImage": "https://www.reuters.com/resizer/C2PzwZACAMx5SdgDoCumNd3v4vw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JY6DLVAFMFKYDE3NCKQUPIB4AM.jpg",
+            "publishedAt": "2023-04-22T22:16:00Z",
+            "content": "LONDON, April 22 (Reuters) - Meghan, the wife of Britain's Prince Harry, criticised the British media on Saturday over reports that letters exchanged with King Charles played a part behind her decisi\u2026 [+1353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Corinne Heller",
+            "title": "Kourtney Kardashian Responds to Criticism Over Her Birthday Flowers - E! NEWS",
+            "description": "Not all fans appeared impressed by the enormous floral gifts Kourtney Kardashian received for her 44th birthday. Find out how the Poosh founder reacted to one person's query.",
+            "url": "https://www.eonline.com/news/1372192/kourtney-kardashian-responds-to-criticism-over-her-birthday-flowers",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023322/rs_1200x1200-230422143018-1200.kourtney-kardashian-birthday-flowers.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-04-22T22:08:00Z",
+            "content": "Ever wonder what the Kardashian-Jenners eventually do with the enormous floral displays they\u00a0often receive\u00a0as gifts?\r\nKourtney Kardashian has the answer. The Poosh founder, whose family is occasional\u2026 [+875 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Simrin Singh",
+            "title": "Florida DoorDash driver kidnapped and sexually assaulted during delivery, police say - CBS News",
+            "description": "The victim's family rescued her from the attacker after tracking her cell phone location, police said.",
+            "url": "https://www.cbsnews.com/news/doordash-driver-tampa-florida-kidnapped-sexually-assaulted-suspect-arrested/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/22/fb436ace-60e5-4274-8a47-9a9c6bbb115c/thumbnail/1200x630/c4eff1d55a201cfe59e65d4f51c5be74/gettyimages-1291135403-3.jpg",
+            "publishedAt": "2023-04-22T21:39:02Z",
+            "content": "A man was arrested Friday in Tampa, Florida, on allegations of kidnapping and sexually assaulting a DoorDash driver who was attempting to make a delivery earlier this week, authorities said.\r\nJoseph \u2026 [+2097 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGHP FOX 8 Greensboro"
+            },
+            "author": "Emily Mikkelsen, Brayden Stamps",
+            "title": "Lt. Gov. Mark Robinson announces run for governor at rainy Ace Speedway rally - WGHP FOX8 Greensboro",
+            "description": "GREENSBORO, N.C. (WGHP) \u2014 North Carolina\u2019s top Republican has \u2014 finally \u2014 made his run for North Carolina Governor official. Lt. Gov. Mark Robinson, a Greensboro native who attended Grimsley High School and UNCG, announced his intent to run in 2024 at a previ\u2026",
+            "url": "https://myfox8.com/news/politics/nc-gov-race/lt-gov-robinson-announces-governor-bid/",
+            "urlToImage": "https://myfox8.com/wp-content/uploads/sites/17/2023/04/Screenshot-2023-04-22-163513.jpg?w=1280",
+            "publishedAt": "2023-04-22T20:31:53Z",
+            "content": "GREENSBORO, N.C. (WGHP) North Carolina\u2019s top Republican has finally made his run for North Carolina Governor official. \r\nLt. Gov. Mark Robinson, a Greensboro native who attended Grimsley High School \u2026 [+3562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Bradford Betz",
+            "title": "Narcan maker aims to make overdose reversal drug more affordable, company says - Fox Business",
+            "description": "Emergent BioSolutions is aiming to make Narcan more affordable after the Food and Drug Administration approved sales of the live-saving without a prescription.",
+            "url": "https://www.foxbusiness.com/healthcare/narcan-maker-aims-make-overdose-reversal-drug-more-affordable-company-says",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/04/0/0/Nasal-Spray.jpg?ve=1&tl=1",
+            "publishedAt": "2023-04-22T19:55:27Z",
+            "content": "A manufacturer of Narcan is planning to make the lifesaving overdose reversal drug more affordable after the Food and Drug Administration (FDA) last month approved sales without a prescription.\u00a0\r\nIn \u2026 [+1792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Billboard"
+            },
+            "author": "Mitchell Peters",
+            "title": "Sofia Richie and Elliot Grainge Marry in South of France - Billboard",
+            "description": "The model and music executive got engaged in April 2022.",
+            "url": "https://www.billboard.com/music/music-news/sofia-richie-elliot-grainge-marry-south-of-france-1235313119/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2022/04/Sofia-Richie-and-Elliot-Grainge-2022-billboard-1548.jpg?w=1024",
+            "publishedAt": "2023-04-22T19:42:08Z",
+            "content": "Congratulations are in order for Sofia Richie and Elliot Grainge, who married over the weekend in the South of France.\r\nThe 24-year-old model and designer, who is the daughter of legendary singer Lio\u2026 [+1683 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Mitchell McCluskey",
-            "title": "Belgium destroys shipment of American beer after taking issue with 'Champagne of Beer' slogan - CNN",
-            "description": "Belgium has destroyed a shipment of American beer after taking exception to its maker's slogan that it was \"The Champagne of Beers.\"",
-            "url": "https://www.cnn.com/2023/04/22/europe/belgium-destroys-beer-champagne-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230421215958-01-belgium-beer-destroyed-041723.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-22T04:29:00Z",
-            "content": "Belgium has destroyed a shipment of American beer after taking exception to its makers slogan that it was The Champagne of Beers.\r\nBelgian customs crushed the 2,352 cans of Miller High Life beer earl\u2026 [+1917 chars]"
+            "author": "Nicole Goodkind",
+            "title": "Gayle King and Charles Barkley to host new prime-time show on CNN, company announces - CNN",
+            "description": "CNN will be the home to a new weekly prime-time show featuring Gayle King and Charles Barkley, the news network announced on Saturday.",
+            "url": "https://www.cnn.com/2023/04/22/media/cnn-king-charles-announcement/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230422140213-gayle-king-charles-barkley-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-22T19:41:00Z",
+            "content": "CNN will be the home to a new weekly prime-time show featuring Gayle King and Charles Barkley, the news network announced on Saturday.\r\nKing and Barkley sat down together on TNTs NBA Tip-Off Saturday\u2026 [+1526 chars]"
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Barak Ravid",
-            "title": "Sudan's rival generals \"hold country hostage\" as battle of egos turns deadly - Axios",
-            "description": "Many fear the generals have \"passed the point of no return\u201d and the fighting will continue until one declares victory.",
-            "url": "https://www.axios.com/2023/04/21/sudan-fighting-burhan-hemedti-history-background",
-            "urlToImage": "https://images.axios.com/htEdVMINfHxMheh_ILK6svIYkO0=/0x0:1920x1080/1366x768/2023/04/21/1682085096758.png",
-            "publishedAt": "2023-04-22T03:22:40Z",
-            "content": "A battle of egos and the struggle for power are at the center of the fighting in Sudan that's killed more than 400 people over the last seven days. \r\nThe big picture: Both sides said Friday they'll a\u2026 [+6493 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "",
-            "title": "Transgender Montana lawmaker reacts to calls for censure - CNN",
-            "description": "Montana state Rep. Zooey Zephyr (D) speaks with CNN's Jake Tapper about her experience after taking a stand against a GOP-backed plan to ban gender-affirming care for transgender children and teenagers.",
-            "url": "https://www.cnn.com/videos/politics/2023/04/21/montana-transgender-children-health-bill-zooey-zephyr-sot-lead-vpx.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230421184458-zephyr.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-22T03:08:50Z",
-            "content": null
+            "author": "ADIL JAWAD Associated Press",
+            "title": "Elephant dies at Pakistani zoo days after procedure - ABC News",
+            "description": "Pakistani officials say an ailing elephant who underwent a critical medical procedure by a team of international experts earlier this month has died",
+            "url": "https://abcnews.go.com/International/wireStory/elephant-dies-pakistani-zoo-days-after-procedure-98773278",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_ae0ef50c738affa81347cc29c90f0e45_16x9_992.jpg",
+            "publishedAt": "2023-04-22T19:18:25Z",
+            "content": "KARACHI, Pakistan -- An ailing elephant who underwent a critical medical procedure by a team of international veterinarians earlier this month has died at a Pakistani zoo, officials said Saturday.\r\nN\u2026 [+2338 chars]"
         },
         {
             "source": {
@@ -112,155 +177,90 @@
                 "name": "KABC-TV"
             },
             "author": null,
-            "title": "Alec Baldwin's gun from 'Rust' shooting found to be mechanically improper, sources tell ABC News - KABC-TV",
-            "description": "The gun that killed Halyna Hutchins on the set of \"Rust\" has been found to be mechanically improper, sources tell ABC News.",
-            "url": "https://abc7.com/alec-baldwin-rust-new-mexico-charges-dropped/13167405/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13167115_042123-kabc-4pm-rust-shooting-2-vid.jpg?w=1600",
-            "publishedAt": "2023-04-22T02:08:37Z",
-            "content": "ABC News has learned more information as to why the involuntary manslaughter charge against Alec Baldwin following the fatal shooting on the set of \"Rust\" have been dropped.\r\nSources tell ABC News Ba\u2026 [+744 chars]"
+            "title": "Belgium destroys shipment of American beer after taking issue with 'Champagne of Beer' slogan - KABC-TV",
+            "description": "Belgium has destroyed a shipment of American beer after taking exception to its maker's slogan that it was \"The Champagne of Beers.\"",
+            "url": "https://abc7.com/belgium-beer-miller-champagne/13170283/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13170284_beer_belgium.jpg?w=1600",
+            "publishedAt": "2023-04-22T18:28:44Z",
+            "content": "Belgium has destroyed a shipment of American beer after taking exception to its maker's slogan that it was \"The Champagne of Beers.\"\r\nBelgian customs crushed the 2,352 cans of Miller High Life beer e\u2026 [+2047 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Meredith Deliso",
+            "title": "Suspected meteor behind loud boom heard in Central Indiana, officials say - ABC News",
+            "description": "The NWS detected a likely fireball meteor Friday night.",
+            "url": "https://abcnews.go.com/US/suspected-meteor-loud-boom-heard-central-indiana-officials/story?id=98776319",
+            "urlToImage": "https://s.abcnews.com/images/US/meteor-indiana-01-ht-jt-230422_1682183173435_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-04-22T18:11:16Z",
+            "content": "A loud boom heard across Central Indiana Friday night reportedly shook some homes and left residents wondering what exactly just happened.\r\nThere were also reports of a light streaking across the sky\u2026 [+1614 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eonline.com"
+                "name": "New York Post"
             },
-            "author": "Angie Orellana Hernandez",
-            "title": "The Big Bang Theory Alum Kevin Sussman Marries Addie Hall - E! NEWS",
-            "description": "The Big Bang Theory actor Kevin Sussman shared that he tied the knot last weekend with partner Addie Hall after more than two years of dating.",
-            "url": "https://www.eonline.com/news/1372170/the-big-bang-theory-alum-kevin-sussman-marries-addie-hall",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023321/rs_1200x1200-230421175401-1200-Kevin-Sussman-IG.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-04-22T01:53:00Z",
-            "content": "These nuptials are out of this world.\r\nThe Big Bang Theory actor\u00a0Kevin Sussman recently announced on social media that he married partner\u00a0Addie Hall last weekend in an outdoor ceremony.\r\nIn a wedding\u2026 [+962 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Hope King",
-            "title": "Disney leans into values amid Florida feud with DeSantis - Axios",
-            "description": "The public rift offers the company an opportunity to double down on social values.",
-            "url": "https://www.axios.com/2023/04/21/disney-desantis-prison",
-            "urlToImage": "https://images.axios.com/21KqodIRimqrvBVzkIijB_DCz9k=/0x0:1920x1080/1366x768/2023/04/21/1682108510729.jpg",
-            "publishedAt": "2023-04-22T01:14:05Z",
-            "content": "Beef between Disney and Florida Gov. Ron DeSantis shows no sign of abating.\r\nWhy it matters: Thehighly public feud is entering a new chapter, as Disney looks to flex its muscles from inside the State\u2026 [+1916 chars]"
+            "author": "Rich Calder",
+            "title": "Explorers find WWII Japanese ship sunk with over 1,000 Allied POWs - New York Post ",
+            "description": "A Japanese merchant ship that sunk during World War II while carrying more than 1,000 Allied prisoners of war has been found.",
+            "url": "https://nypost.com/2023/04/22/explorers-find-wwii-ship-sunk-with-over-1000-allied-pows/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26713390-1682185182152.jpg?quality=75&strip=all&1682171002&w=1024",
+            "publishedAt": "2023-04-22T17:47:00Z",
+            "content": "A Japanese merchant ship sunk during World War II while carrying more than 1,000 Allied prisoners of war has been found, officials announced Saturday. \r\nThe Montevideo Maru was torpedoed on July 1, 1\u2026 [+1253 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Google Pixel Fold Leak Includes Display and Camera Specs - CNET",
-            "description": "We have purported specs and a possible first-look date for Google's foldable.",
-            "url": "https://www.cnet.com/tech/mobile/google-pixel-fold-leak-includes-display-and-camera-specs/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/38181a69f6abf713714f1822f058f1927c11a8cc/hub/2022/11/14/e8f49cf2-c234-4cbb-a2c9-0e156ecc73a9/2.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2023-04-22T00:50:00Z",
-            "content": "What's said to be a new Pixel Fold leak appears to fill in whatever gaps were left in knowledge about Google's first foldable phone. If the details are true, we have not only a long list of potential\u2026 [+3642 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Tom\u00e1s Mier",
-            "title": "Frank Ocean\u2019s Coachella Performance Was a \u2018Scramble\u2019 in Days Before Controversial Set: Sources - Rolling Stone",
-            "description": "Ocean soundchecked songs such as \u201cDear April\u201d and \u201cPretty Sweet\u201d days before the show and had to make \u201clast-minute\u201d changes to his performance, sources tell Rolling Stone",
-            "url": "https://www.rollingstone.com/music/music-features/frank-oceans-coachella-scramble-before-set-1234721600/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/04/frank-ocean-coachella.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2023-04-22T00:46:44Z",
-            "content": "Frank Ocean\u2019s polarizingCoachella set and subsequent cancellation just days before the festival\u2019s second weekend have garnered a flurry of negative reactions from festival attendees and fans. With st\u2026 [+7257 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Alexander Hall",
-            "title": "CNN anchor asks if US wants \u20184 more years\u2019 of Biden when 74% of Americans say US headed in \u2018wrong direction' - Fox News",
-            "description": "A CNN host expressed skepticism that Biden can viably run for reelection when so many American citizen are skeptical of America's future on its current course.",
-            "url": "https://www.foxnews.com/media/cnn-anchor-asks-wants-4-years-biden-when-74-americans-headed-wrong-direction",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/John-King-screencap.png",
-            "publishedAt": "2023-04-22T00:29:00Z",
-            "content": "CNN anchor John King noted President Bidens key challenges, and asked whether the American public truly plans to reelect him in 2024.\r\nWhile the political pushback many expected for Democrats in the \u2026 [+1897 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pro Football Network"
-            },
-            "author": null,
-            "title": "Garrett's 2023 NFL Mock Draft: Raiders Trade up for C.J. Stroud, Bijan Robinson Goes Top 10 - Pro Football Network",
-            "description": null,
-            "url": "https://www.profootballnetwork.com/2023-nfl-mock-draft-raiders-stroud-bijan-robinson-top-10/",
-            "urlToImage": null,
-            "publishedAt": "2023-04-22T00:00:39Z",
+            "title": "Supreme Court protects access to abortion pill for now - MSNBC",
+            "description": "For now, the Supreme Court is protecting access to a key abortion pill used for more than half of abortions in the U.S. today. The next stop for whether Mife...",
+            "url": "https://www.youtube.com/watch?v=Gs__rieM_FE",
+            "urlToImage": "https://i.ytimg.com/vi/Gs__rieM_FE/maxresdefault.jpg",
+            "publishedAt": "2023-04-22T17:30:02Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Entertainment Tonight"
+                "name": "Decrypt"
             },
-            "author": "Paige Gawley",
-            "title": "Jimmie Allen Announces Separation from Pregnant Wife Alexis Gale - Entertainment Tonight",
-            "description": "This will be the estranged couple's third child together.",
-            "url": "https://www.etonline.com/jimmie-allen-announces-separation-from-pregnant-wife-alexis-gale-203169",
-            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-04/MK-Jimmie-Allen-and-Alexis-Gale-1280-X-720-BREAK-UP-TEAR.jpg?h=17e1fd80&itok=n-mt8Q9l",
-            "publishedAt": "2023-04-21T23:23:34Z",
-            "content": "Jimmie Allen is sharing two pieces of news with fans. On Friday, the 37-year-old country singer took to Instagram to announce that he and his wife, Alexis Gale, are separating, and additionally revea\u2026 [+1592 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Jacob Knutson",
-            "title": "How to see peak of the Lyrid meteor shower this weekend - Axios",
-            "description": "It's one of the oldest known meteor showers.",
-            "url": "https://www.axios.com/2023/04/21/meteor-shower-2023-april-lyrid",
-            "urlToImage": "https://images.axios.com/yvqdmFNXKbwmoSiSo5MgkSkS8pU=/0x595:8660x5466/1366x768/2023/04/21/1682099346367.jpg",
-            "publishedAt": "2023-04-21T22:30:56Z",
-            "content": "Sky watchers in the Northern Hemisphere in an area away from excessive artificial light and cloudy weather should be able to see the peak of the Lyrids meteor shower this weekend.\r\nWhy it matters: It\u2026 [+1304 chars]"
+            "author": "Tim Hakki",
+            "title": "This Week in Coins: Market Slumps as Bitcoin and Ethereum Drop Over 10% - Decrypt",
+            "description": "Markets were cautious this week as regulators continued the debate over crypto.",
+            "url": "https://decrypt.co/137574/this-week-in-coins-bitcoin-ethereum-crash-bittrex-sec-gensler-hearings",
+            "urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/crypto-coins-gID_7.jpg@png",
+            "publishedAt": "2023-04-22T17:15:27Z",
+            "content": "This week in coins. Illustration by Mitchell Preffer for Decrypt.\r\nThere was a limit to cryptos growth this week as the market is still pricing the effects of another possible interest rate hike from\u2026 [+3741 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "Forbes"
             },
-            "author": "Aislinn Murphy",
-            "title": "Google unveils new Bard AI capabilities for coding - Fox Business",
-            "description": "Google has unveiled a range of programming-related features added to its experimental artificial intelligence tool, Bard. The new coding capabilities went live Friday.",
-            "url": "https://www.foxbusiness.com/technology/google-unveils-new-bard-ai-capabilities-coding",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/0fafb013-Bard.jpg?ve=1&tl=1",
-            "publishedAt": "2023-04-21T22:13:28Z",
-            "content": "Google has unveiled new programming and software development-related features added to its experimental artificial intelligence tool, Bard.\r\nThe company has brought capabilities such as \"code generat\u2026 [+3463 chars]"
+            "author": "Ty Roush",
+            "title": "More Bud Light-Dylan Mulvaney Fallout: Marketing Executive Out Amid Far-Right Uproar - Forbes",
+            "description": "Anheuser-Busch has been criticized by far-right personalities in recent weeks after partnering with the transgender TikTok star.",
+            "url": "https://www.forbes.com/sites/tylerroush/2023/04/22/more-bud-light-dylan-mulvaney-fallout-marketing-executive-out-amid-far-right-uproar/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644411998c7a9fd6fd23907a/0x0.jpg?format=jpg&crop=3554,1998,x0,y134,safe&width=1200",
+            "publishedAt": "2023-04-22T16:58:07Z",
+            "content": "Alissa Heinerscheid, Bud Lights vice president of marketing, has taken a leave of absence, according to AdAge, weeks after the brand was criticized and boycotted by far-right personalities for its ma\u2026 [+3481 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Ca.gov"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": null,
-            "title": "Public Safety Partnership to Disrupt Fentanyl Trafficking in SF - Office of Governor Gavin Newsom",
-            "description": "In new partnership with the City of San Francisco, Governor Newsom is directing CHP and CalGuard to identify personnel and resources to assist the city in combatting fentanyl trafficking.",
-            "url": "https://www.gov.ca.gov/2023/04/21/public-safety-partnership-sf/",
-            "urlToImage": "https://www.gov.ca.gov/wp-content/uploads/2019/02/GovernorSeal-Blue.png",
-            "publishedAt": "2023-04-21T21:22:51Z",
-            "content": "WHAT YOU NEED TO KNOW: In new partnership with the City of San Francisco, Governor Newsom is directing California Highway Patrol and California National Guard to identify personnel and resources to a\u2026 [+6329 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OregonLive"
-            },
-            "author": null,
-            "title": "Elon Musk\u2019s Twitter yanks blue checks from government agencies; impersonators emerge - OregonLive",
-            "description": "A number of agencies said they were awaiting more clarity from Twitter, which has sharply curtailed its staff.",
-            "url": "https://www.oregonlive.com/business/2023/04/elon-musks-twitter-yanks-blue-checks-from-government-agencies-impersonators-emerge.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/AT5KWBOhxf-dnmjwnSHIbRaMPvg=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JMC2CTXJFFCQ7E3W6U2ZAX4MWI.jpg",
-            "publishedAt": "2023-04-21T21:03:00Z",
-            "content": "Twitter has long been a way for people to keep track of tornado watches, train delays, news alerts or the latest crime warnings from their local police department.\r\nBut when the Elon Musk-owned platf\u2026 [+7019 chars]"
+            "author": "Alexandra Hutzler",
+            "title": "Republican governor to call special session in Tennessee to discuss gun reform - ABC News",
+            "description": "Gov. Bill Lee proposed keeping guns away from those deemed a risk to others.",
+            "url": "https://abcnews.go.com/Politics/republican-governor-call-special-session-tennessee-discuss-gun/story?id=98775075",
+            "urlToImage": "https://s.abcnews.com/images/Politics/governor-bill-lee-ap-jt-230422_1682174789823_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-04-22T16:50:29Z",
+            "content": "Tennessee Gov. Bill Lee will call a special legislative session to address gun reform nearly a month after a mass shooting at a Nashville school -- an unusual step for a Republican.\r\nJust hours after\u2026 [+2543 chars]"
         }
     ]
 }
