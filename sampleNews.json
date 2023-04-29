@@ -1,253 +1,110 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Steve Contorno",
-            "title": "In Jerusalem, DeSantis offers support for Israel and blasts Disney - CNN",
-            "description": "Florida Gov. Ron DeSantis condemned antisemitism and offered strong backing for the Israeli government in a speech in Jerusalem on Thursday but also discussed his long-running feud with Disney, saying at a news conference that the entertainment giant's lawsui\u2026",
-            "url": "https://www.cnn.com/2023/04/27/politics/desantis-jerusalem-speech/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230427131218-desantis-israel-042723.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-27T12:32:00Z",
-            "content": "Florida Gov. Ron DeSantis condemned antisemitism and offered strong backing for the Israeli government in a speech in Jerusalem on Thursday but also discussed his long-running feud with Disney, sayin\u2026 [+7211 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Robert Legare",
-            "title": "Accused Pentagon leaker Jack Teixeira should be detained before trial, Justice Dept. argues - CBS News",
-            "description": "Prosecutors say Jack Teixeira could be a significant flight risk and nations hostile to the U.S. might even try to help him flee.",
-            "url": "https://www.cbsnews.com/news/accused-pentagon-leaker-jack-teixeira-should-be-detained-before-trial-justice-dept-argues/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/14/4fe67581-e059-4ec8-b27c-de24bab772d3/thumbnail/1200x630g2/6ba8351f8a436f7a49168f4dd6bc16b5/hypatia-h-28c0621e04d4e10802a44abcc2c5f632-h-babe5ebb7783832300f8b9d01865a525.jpg",
-            "publishedAt": "2023-04-27T12:32:00Z",
-            "content": "The Justice Department argued Wednesday night that accused Pentagon leaker Jack Teixeira must remain in detention before he is tried on charges related to his alleged unlawful retention and transmiss\u2026 [+4708 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Microsoft hits back at UK after Activision acquisition blocked - Reuters",
-            "description": "Microsoft's <a href=\"https://www.reuters.com/companies/MSFT.O\" target=\"_blank\">(MSFT.O)</a> president Brad Smith said the UK regulator's decision to prevent its acquisition of 'Call of Duty' maker Activision Blizzard \"had shaken confidence\" in Britain as a de\u2026",
-            "url": "https://www.reuters.com/markets/deals/uk-watchdog-defends-microsoft-block-face-onslaught-companies-2023-04-27/",
-            "urlToImage": "https://www.reuters.com/resizer/b8Malnr79iwY68KDh9o95ieC6lA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZZY5EVQTHVIKNMDLWCROJX37QI.jpg",
-            "publishedAt": "2023-04-27T12:15:00Z",
-            "content": "LONDON, April 27 (Reuters) - Microsoft's (MSFT.O) president Brad Smith said the UK regulator's decision to prevent its acquisition of 'Call of Duty' maker Activision Blizzard \"had shaken confidence\" \u2026 [+2436 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nicole Goodkind",
-            "title": "Here's what we know about First Republic Bank - CNN",
-            "description": "First Republic Bank has been teetering on the edge for weeks. It may be finally falling.",
-            "url": "https://www.cnn.com/2023/04/27/investing/premarket-stocks-trading/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230426181849-02-first-republic-bank-branch-0426.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-27T11:18:00Z",
-            "content": "A version of this story first appeared in CNN Business Before the Bell newsletter. Not a subscriber? You can sign up\u00a0right here. You can listen to an audio version of the newsletter by clicking the s\u2026 [+6063 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Hugo Lowell",
-            "title": "DeSantis assembles senior staff for expected 2024 presidential campaign - The Guardian US",
-            "description": "Exclusive: Florida governor\u2019s team expected to be led by adviser Generra Peck and include top Republican strategists",
-            "url": "https://www.theguardian.com/us-news/2023/apr/27/ron-desantis-2024-presidential-campaign-staff",
-            "urlToImage": "https://i.guim.co.uk/img/media/80034a90fd2eba6f19ccb65731b9ce7d8f80e64f/188_0_5625_3375/master/5625.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0bb38c77ca0382ac230a0bafe71f38e",
-            "publishedAt": "2023-04-27T11:00:00Z",
-            "content": "Floridas governor, Ron DeSantis, is quietly assembling a senior staff for an expected 2024 presidential campaign that will be headed by his top political adviser, Generra Peck, and around seven other\u2026 [+5265 chars]"
-        },
         {
             "source": {
                 "id": "nfl-news",
                 "name": "NFL News"
             },
-            "author": "Peter Schrager",
-            "title": "Peter Schrager 2023 NFL mock draft 2.0: Titans trade up for C.J. Stroud; Vikings, Giants nab running back - NFL.com",
-            "description": "In his final first-round mock of the 2023 NFL Draft, Peter Schrager sees the Titans trading into the top three for a quarterback. Plus, the Vikings and Giants each grab a running back. Check out the full rundown, 1-31.",
-            "url": "https://www.nfl.com/news/peter-schrager-2023-nfl-mock-draft-2-0-titans-trade-up-for-c-j-stroud-vikings-gi",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/dfqmv4sqeqtgc6owx1tx",
-            "publishedAt": "2023-04-27T11:00:00Z",
-            "content": "The day has come! Finally. With the 2023 NFL Draft set to begin tonight at 8 p.m. ET from Kansas City, Missouri, here's my second and final attempt at predicting Round 1.\r\nREMINDER: As always, this i\u2026 [+2417 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Julia Ainsley",
-            "title": "Border officials are already short on space and money, and a massive migrant surge is coming - NBC News",
-            "description": "A massive surge in migrants at the southern border looms when the Title 42 Covid ban ends May 11, and local and federal officials are already short on money and space.",
-            "url": "https://www.nbcnews.com/politics/immigration/record-migrant-border-surge-covid-ban-title-42-ends-may-11-rcna80472",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-04/230426-border-el-paso-texas-ew-543p-db87be.jpg",
-            "publishedAt": "2023-04-27T10:30:00Z",
-            "content": "As the Biden administration braces for what is expected to be a record surge in migration across the southern border when Covid restrictions officially end May 11, federal immigration authorities and\u2026 [+4665 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Steve Osunsami, Laura Romero, Dr. Mark Abdelmalek, Doug Vollmayer",
-            "title": "Supreme Court takes on what critics call predatory tax foreclosure practice - ABC News",
-            "description": "After reselling a foreclosure, the government can keep more than the taxes owed.",
-            "url": "https://abcnews.go.com/US/supreme-court-takes-critics-call-predatory-tax-foreclosure/story?id=98833801",
-            "urlToImage": "https://s.abcnews.com/images/International/tawanda-hall-attorney-ht-jt-230426_1682555753125_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-04-27T10:05:42Z",
-            "content": "After saving up for three years during which they sometimes worked 80 hours a week, Tawanda Hall and her husband purchased their dream home in the suburbs of Detroit in 2010. The five-bedroom house w\u2026 [+9695 chars]"
+            "author": "Eric Edholm",
+            "title": "Texans select Ohio State QB C.J. Stroud with No. 2 overall pick; trade up to select Alabama's Will Anderson at No. 3 overall in 2023 NFL Draft - NFL.com",
+            "description": "The Houston Texans selected Ohio State quarterback C.J. Stroud with the No. 2 overall pick in the 2023 NFL Draft in Kansas City, Missouri, on Thursday night. Houston then surprised with a trade up to No. 3 to select Alabama edge Will Anderson Jr.",
+            "url": "https://www.nfl.com/news/texans-select-ohio-state-qb-c-j-stroud-with-no-2-overall-pick-in-2023-nfl-draft",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/yhsdtgryx2ovu97iyeww",
+            "publishedAt": "2023-04-28T00:26:00Z",
+            "content": "There had been discussion in recent days over Stroud's scores in the S2 Cognition test, which he responded to on Wednesday.\r\nStroud is a smooth passer with excellent accuracy from the pocket. His abi\u2026 [+1580 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "CBS Sports"
             },
-            "author": "Sophie Kevany",
-            "title": "Life in ocean\u2019s twilight zone \u2018could disappear\u2019 amid warming seas - The Guardian",
-            "description": "Less food is falling to dimly-lit waters, home to specially adapted marine life \u2013 but emissions cuts would stem decline",
-            "url": "https://www.theguardian.com/environment/2023/apr/27/life-in-oceans-twilight-zone-could-disappear-amid-warming-seas",
-            "urlToImage": "https://i.guim.co.uk/img/media/9a5cd8df3518751201467f9d41671dfb33237cde/101_0_3600_2160/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8cef2c87cc6061939a948ad0a44dceb",
-            "publishedAt": "2023-04-27T10:00:00Z",
-            "content": "Life in the oceans twilight zone is expected to face dramatic declines and even extinction as seas warm and less food reaches the dimly lit waters, a study has found.\r\nThe twilight zone lies between \u2026 [+3083 chars]"
+            "author": "",
+            "title": "Prisco's final 2023 NFL Mock Draft: Will Levis lands in Houston at No. 2 as five QBs go in Round 1 - CBS Sports",
+            "description": "Prisco's final word on his last mock draft: Trust no one",
+            "url": "https://www.cbssports.com/nfl/draft/news/priscos-final-2023-nfl-mock-draft-will-levis-lands-in-houston-at-no-2-as-five-qbs-go-in-round-1/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/26/126983c4-7847-4289-9956-915613c4e0a9/thumbnail/1200x675/794b1a368b28ff05c1cdd81ef2b3af58/levis.jpg",
+            "publishedAt": "2023-04-27T23:54:00Z",
+            "content": "This is my final mock draft, which means good news and bad news.\r\nThe bad news first: It's as tough a year to place guys into spots as any year in my over three decades of covering the league.\u00a0\r\nThe \u2026 [+1125 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Android Police"
+                "name": "Investor's Business Daily"
             },
-            "author": "Manuel Vonau",
-            "title": "Leaks spill all the Google Pixel 7a specs - Android Police",
-            "description": "We now know basically everything we need to know about Google\u2019s upcoming budget offering",
-            "url": "https://www.androidpolice.com/leak-all-google-pixel-7a-specs/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/10/google-pixel-7-vs-6a-5.jpg",
-            "publishedAt": "2023-04-27T09:58:00Z",
-            "content": "If the rumors from the last few months are to be believed, the Google Pixel 7a is launching during Google I/O 2023 on May 10th. But as always, leaks have already spilled most of the beans, and the la\u2026 [+3012 chars]"
+            "author": "Investor's Business Daily",
+            "title": "Amazon Stock Down As Earnings, Revenue Beat Amid Cost Cutting - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/news/technology/amazon-stock-amazon-earnings-amzn-stock-q12023/",
+            "urlToImage": null,
+            "publishedAt": "2023-04-27T23:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "The Hunger Games: The Ballad of Songbirds and Snakes gets first trailer - The Verge",
+            "description": "Lionsgate has released a trailer for The Hunger Games: The Ballad of Songbirds and Snakes, which is a prequel to the original trilogy.",
+            "url": "https://www.theverge.com/2023/4/27/23701502/the-hunger-games-the-ballad-of-songbirds-and-snakes-trailer",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/P4D-incIQNu2zItd6-haP7GSy3g=/0x0:2550x1063/1200x628/filters:focal(1491x504:1492x505)/cdn.vox-cdn.com/uploads/chorus_asset/file/24616101/The_Hunger_Games__The_Ballad_of_Songbirds___Snakes__2023__Official_Trailer___Tom_Blyth_____The_Hunger_Games__The_Ballad_of_Songbirds___Snakes__2023__Official_Trailer___Tom_Blyth_2023_4_27_155144.376_1440p_streamshot.png",
+            "publishedAt": "2023-04-27T22:53:34Z",
+            "content": "The Hunger Games prequel film gets its first trailer\r\nThe Hunger Games prequel film gets its first trailer\r\n / The Hunger Games: The Ballad of Songbirds and Snakes hits theaters on November 17th.\r\nBy\u2026 [+1081 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
+                "name": "KOMO News"
             },
-            "author": "Tim Hardwick",
-            "title": "Apple Working on 'Special Version of iPadOS 17' for Larger iPads, Starting With 14.1-inch Model Set to Launch in 2024 - MacRumors",
-            "description": "Apple is developing a version of iPadOS 17 that is specifically designed for larger unreleased iPad sizes, the first of which will arrive next year,...",
-            "url": "https://www.macrumors.com/2023/04/27/ipados-17-for-larger-ipads-14-1-model/",
-            "urlToImage": "https://images.macrumors.com/t/oQpAgCAqCSTLNHg_2BhcMeRJA3E=/2500x/article-new/2022/06/iPad-14-Inches-Feature-Orange.jpg",
-            "publishedAt": "2023-04-27T09:27:59Z",
-            "content": "Apple is developing a version of iPadOS 17 that is specifically designed for larger unreleased iPad sizes, the first of which will arrive next year, claims a new rumor.\r\nAccording to the Twitter acco\u2026 [+2441 chars]"
+            "author": "KOMO News Staff",
+            "title": "4 deaths, 27 cases reported since bacterial outbreak found at Virginia Mason in Seattle - KOMO News",
+            "description": "Virginia Mason Franciscan Health is investigating a bacterial outbreak after 31 patients at its First Hill campus were infected.",
+            "url": "https://komonews.com/news/local/virginia-mason-medical-center-klebsiella-pneumoniae-bacteria-outbreak-deaths-infections-seattle-patients-hospitals",
+            "urlToImage": "https://komonews.com/resources/media/a2f3fa4f-55ec-4d06-bb1f-2dd85b63a1ab-large16x9_PKGVIRGINIAMASONLAWSUIT.transfer_frame_1138.jpg?1494549836604",
+            "publishedAt": "2023-04-27T22:39:11Z",
+            "content": null
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": "financial-times",
+                "name": "Financial Times"
             },
-            "author": "Steven Arons",
-            "title": "Deutsche Bank (ETR: DBK) Steps Up Cost Savings After Traders Trail Peers - Bloomberg",
-            "description": "Deutsche Bank AG plans to cut about 800 senior back-office staff as Chief Executive Officer Christian Sewing steps up cost reductions amid a slowdown in the trading business that has fueled much of the lender\u2019s growth.",
-            "url": "https://www.bloomberg.com/news/articles/2023-04-27/deutsche-bank-steps-up-cost-savings-after-traders-trail-peers",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijxSAXZ8B9N8/v0/1200x800.jpg",
-            "publishedAt": "2023-04-27T09:24:57Z",
-            "content": "Deutsche Bank AG plans to cut about 800 senior back-office staff as Chief Executive Officer Christian Sewing steps up cost reductions amid a slowdown in the trading business that has fueled much of t\u2026 [+371 chars]"
+            "author": "Brooke Masters, James Politi, Stephen Gandel, Colby Smith, James Fontanella-Khan",
+            "title": "First Republic works on plan to prevent government seizure - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the world\u02bcs leading global business publication",
+            "url": "https://www.ft.com/content/818c44cb-0612-47c7-8b6f-3f5e1c38f009",
+            "urlToImage": null,
+            "publishedAt": "2023-04-27T22:20:01Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "NPR"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": null,
-            "title": "She had to pay thousands upfront for a procedure \u2014 or risk losing her twins : Shots - Health News - NPR",
-            "description": "Doctors rushed a pregnant woman to a surgeon who charged thousands upfront just to see her. The case reveals a gap in medical billing protections for those with rare, specialized conditions.",
-            "url": "https://www.npr.org/sections/health-shots/2023/04/27/1171936566/she-was-pregnant-and-had-to-find-15-000-overnight-to-save-her-twins",
-            "urlToImage": "https://media.npr.org/assets/img/2023/04/25/updated-image-april-botm_wide-b7ef024a967937459cd9bafc93aa01c0f3375fb2-s1400-c100.jpg",
-            "publishedAt": "2023-04-27T09:00:31Z",
-            "content": "When she was pregnant with her twins, Sara Walsh was diagnosed with a serious complication and had to pay thousands upfront before a specialist would see her.\r\nZack Wittman/ KFF Health News\r\nIt was L\u2026 [+12333 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Linda Carroll",
-            "title": "Heart-healthy diets: Where keto, paleo and Mediterranean rank, based on science - NBC News",
-            "description": "What is the healthiest diet for the heart? The American Heart Association ranks popular diets for the first time based on scientific guidelines.",
-            "url": "https://www.nbcnews.com/health/heart-health/heart-healthy-diet-keto-paleo-mediterranean-rank-science-rcna81646",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-04/230426-stock-meat-hamburger-ew-510p-a47042.jpg",
-            "publishedAt": "2023-04-27T09:00:00Z",
-            "content": "Some of the most popular diet plans may help with weight loss, which can lower the risk of heart disease. But an eating plan that includes a lot of unhealthy oils and saturated fats can raise the ris\u2026 [+4708 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Lawrence Richard",
-            "title": "US claims Sudan too dangerous to evacuate Americans while rest of the world safely removes their citizens - Fox News",
-            "description": "The U.S. does not have a plan to evacuate its estimated 16,000 Americans still residing in Sudan, despite undergoing a special military evacuation for its diplomatic staff.",
-            "url": "https://www.foxnews.com/politics/us-claims-sudan-dangerous-evacuate-americans-rest-world-safely-removes-citizens",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/AP23116813450233.jpg",
-            "publishedAt": "2023-04-27T08:54:00Z",
-            "content": "The U.S. has extracted its diplomatic staff from Sudan, as security conditions in the country worsened late last week, but the evacuation left thousands of Americans behind.\r\nIn a security alert Tues\u2026 [+4339 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Whec.com"
-            },
-            "author": "Taylor Liberti",
-            "title": "Neighbors in Brighton worried about skulk of foxes after rabid attack - News10NBC",
-            "description": "ROCHESTER, N.Y. \u2013 A rabid fox bit at least six people in Brighton over the weekend. Now, those who live in the neighborhood where it happened are worried about the rest of the foxes in the skulk.\u00a0\u201cThere\u2019s some un-developed land behind us so they like hanging \u2026",
-            "url": "https://www.whec.com/top-news/neighbors-in-brighton-worried-about-skulk-of-foxes-after-rabid-attack/",
-            "urlToImage": "https://www.whec.com/wp-content/uploads/akta/71AC609C0B17B14CBF1671417C84BD31.jpg",
-            "publishedAt": "2023-04-27T08:40:03Z",
-            "content": "ROCHESTER, N.Y. \u2013 A rabid fox bit at least six people in Brighton over the weekend. Now, those who live in the neighborhood where it happened are worried about the rest of the foxes in the skulk.\u00a0\r\nT\u2026 [+3370 chars]"
+            "author": "Sam Fortier, Nicki Jhabvala, Adam Kilgore, Mark Maske",
+            "title": "NFL Draft 2023 live updates: How to watch, first round order, top picks - The Washington Post",
+            "description": "As many as five quarterbacks could go in the first round of this year's NFL draft, which begins at 8 p.m. Eastern time.",
+            "url": "https://www.washingtonpost.com/sports/2023/04/27/nfl-draft-live-updates-picks-analysis/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BS6KWT5ZSFDFXM7WLLUG6OQ7YM_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-04-27T22:18:45Z",
+            "content": "The Washington Post\r\nDemocracy Dies in Darkness\r\nThe Carolina Panthers, after trading up with the Chicago Bears in March, used the first pick in the 2023 NFL draft to select Alabamas Bryce Young. For\u2026 [+1202 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Wayne Sterling",
-            "title": "'This is a surreal day for me': Aaron Rodgers introduced as New York Jets quarterback - CNN",
-            "description": "Four-time NFL MVP and Super Bowl XLV champion Aaron Rodgers was introduced Wednesday as the New York Jets' newest signal-caller.",
-            "url": "https://www.cnn.com/2023/04/27/sport/aaron-rodgers-introduced-new-york-jets-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230427091621-01-aaron-rodgers-jets-042623.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-27T08:30:00Z",
-            "content": "Four-time NFL MVP and Super Bowl XLV champion Aaron Rodgers was introduced Wednesday as the New York Jets newest signal-caller. \r\nThis is a surreal day for me after spending 18 years in the same city\u2026 [+2122 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Associated Press",
-            "title": "Singapore executes man for helping buy 2 pounds of cannabis - New York Post ",
-            "description": "Tangaraju Suppiah, 46, was sentenced to death in 2018 for abetting the trafficking of 1 kilogram (2.2 pounds) of cannabis.",
-            "url": "https://nypost.com/2023/04/27/singapore-executes-man-for-helping-buy-2-pounds-of-cannabis/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26779582-1682581462615.jpg?quality=75&strip=all&1682567134&w=1024",
-            "publishedAt": "2023-04-27T07:55:16Z",
-            "content": "HONG KONG Singapore on Wednesday executed a man accused of coordinating a cannabis delivery, despite pleas for clemency from his family and protests from activists that he was convicted on weak evide\u2026 [+3857 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": null,
-            "title": "Draymond Green's Dirk Nowitzki fadeaway in Game 5 win impresses Steve Kerr - NBC Sports",
-            "description": "Steve Kerr admitted that he was impressed by Draymond Green's \"Dirk Nowitzki\" fadeaway shot in the Game 5 win.",
-            "url": "https://www.nbcsports.com/bayarea/warriors/draymond-greens-dirk-nowitzki-fadeaway-game-5-win-impresses-steve-kerr",
-            "urlToImage": "https://www.nbcsports.com/sites/rsnunited/files/styles/metatags_opengraph/public/article/hero/draymond-green-driving-GETTY.jpg",
-            "publishedAt": "2023-04-27T07:18:36Z",
-            "content": "Draymond Green channeled his inner Dirk Nowitzki with his fadeaway late in the fourth quarter.\u00a0\r\nGreen's shot helped fend off the Sacramento Kings in Golden State's\u00a0123-116 Game 5 win\u00a0in its first-ro\u2026 [+1663 chars]"
+            "author": "Katelyn Polantz,Devan Cole",
+            "title": "Former Vice President Pence testifies to federal grand jury investigating Donald Trump and January 6 - CNN",
+            "description": "Former Vice President Mike Pence testified on Thursday to a federal grand jury investigating the aftermath of the 2020 election",
+            "url": "https://www.cnn.com/2023/04/27/politics/mike-pence-grand-jury-testimony/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230427153737-pence-march-31.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-27T22:14:00Z",
+            "content": "Former Vice President Mike Pence testified on Thursday to a federal grand jury investigating the aftermath of the 2020 election and the actions of then-President Donald Trump and others, sources fami\u2026 [+5775 chars]"
         },
         {
             "source": {
@@ -255,12 +112,155 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Facebook owner Meta touts AI might as digital ads boost outlook; shares jump - Reuters",
-            "description": "Meta Platforms Inc <a href=\"https://www.reuters.com/companies/META.O\" target=\"_blank\">(META.O)</a> CEO Mark Zuckerberg said on Wednesday that AI was helping the company boost traffic to Facebook and Instagram and earn more in ad sales, as it forecast quarterl\u2026",
-            "url": "https://www.reuters.com/technology/facebook-parent-meta-sees-higher-than-expected-second-quarter-revenue-2023-04-26/",
-            "urlToImage": "https://www.reuters.com/resizer/YV3WxerM3iG5EXaVpNA8l4Xo4NY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KKRKLT6WINNYNP73DHNTICX3FI.jpg",
-            "publishedAt": "2023-04-27T06:44:00Z",
-            "content": "April 26 (Reuters) - Meta Platforms Inc (META.O) CEO Mark Zuckerberg said on Wednesday that AI was helping the company boost traffic to Facebook and Instagram and earn more in ad sales, as it forecas\u2026 [+4744 chars]"
+            "title": "Iran seizes oil tanker in Gulf, U.S. Navy says - Reuters",
+            "description": "Iran seized a Marshall Islands-flagged oil tanker in the Gulf of Oman in international waters on Thursday, the U.S. Navy said, the latest in a series of seizures or attacks on commercial vessels in sensitive Gulf waters since 2019.",
+            "url": "https://www.reuters.com/world/us-navy-says-iran-seized-marshall-islands-flagged-oil-tanker-gulf-oman-2023-04-27/",
+            "urlToImage": "https://www.reuters.com/resizer/4TCqxGEclT2cVzYwWx99fTen9ZU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VYXGSNALTJKONC3O7BARHPLZ4E.jpg",
+            "publishedAt": "2023-04-27T21:50:00Z",
+            "content": "April 27 (Reuters) - Iran seized a Marshall Islands-flagged oil tanker in the Gulf of Oman in international waters on Thursday, the U.S. Navy said, the latest in a series of seizures or attacks on co\u2026 [+4020 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Abbey White",
+            "title": "Jonathan Majors\u2019 Alleged Victim Granted Full Temporary Order of Protection, Says Manhattan D.A. - Hollywood Reporter",
+            "description": "The order was granted with the consent of defense counsel, a spokesperson for the office said Thursday. Majors, who is accused of assaulting a woman, has continued to deny wrongdoing.",
+            "url": "https://www.hollywoodreporter.com/news/general-news/manhattan-district-attorney-protection-order-jonathan-majors-1235361004/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/GettyImages-1466832837.jpg?w=1024",
+            "publishedAt": "2023-04-27T21:33:45Z",
+            "content": "A judge has granted a full temporary order of protection for the woman involved in the case against Jonathan Majors stemming from an alleged domestic dispute.\r\nThe order, which was requested by the M\u2026 [+2236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Kisha Forde",
+            "title": "Kourtney Kardashian Accuses Kim of Using Her Wedding as a Business Opportunity in Bombshell Trailer - E! NEWS",
+            "description": "In the jaw-dropping trailer for season three of Hulu's The Kardashians, Kourtney Kardashian accuses sister Kim Kardashian of using her wedding to Travis Barker as a business opportunity.",
+            "url": "https://www.eonline.com/news/1372674/kourtney-kardashian-accuses-kim-of-using-her-wedding-as-a-business-opportunity-in-bombshell-trailer",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021319/rs_1200x1200-210419062854-1200-Kourtney-Kardashian-Kim-Kardashian-black-dress-gucci-041921.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-04-27T21:32:18Z",
+            "content": "But for Kourtney, there seems to simply be no room for confusion.\u00a0\"People think it's a misunderstanding,\" she says, adding, \"But it's not.\"\r\nAs the mom of three put it, \"It's who she is to her core.\"\u2026 [+149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boston 25 News"
+            },
+            "author": "Bob Ward",
+            "title": "Prosecutors: Brian Walshe believed Ana Walshe was having an affair, hired investigator to follow her - Boston 25 News",
+            "description": "After allegedly murdering and dismembering his wife, Brian used his child\u2019s iPad to make a slew of disturbing Google searches and misled investigators.",
+            "url": "https://www.boston25news.com/news/local/prosecutors-brian-walshe-believed-ana-walshe-was-having-an-affair-hired-investigator-follow-her/CEVA7ICMTZECNMAOMXKW4PP76E/",
+            "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/9gjxePBnkHf1DVMr_o8gxpqJBi0=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/04-27-2023/t_4f5c66a4830741b2acee2f61f9e7bc1a_name_file_960x540_1200_v3_1_.jpg",
+            "publishedAt": "2023-04-27T21:26:37Z",
+            "content": "DEDHAM, Mass. \u2014 Brian Walshe, the Cohasset man accused of murdering and dismembering his wife, believed she was having an affair and hired a private investigator to prove her infidelity prior to her \u2026 [+5993 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Jocelyn Yang",
+            "title": "Bitcoin Circles Above $29.5K as Investors Weigh Sluggish GDP, Latest Banking Woes - CoinDesk",
+            "description": "BTC dipped slightly during U.S. morning trading Thursday on the Commerce Department reporting a tepid gain in GDP for the first quarter  and disappointing personal consumption data, before rebounding.",
+            "url": "https://www.coindesk.com/markets/2023/04/27/bitcoin-circles-above-295k-as-investors-weigh-sluggish-gdp-latest-banking-woes/",
+            "urlToImage": "https://www.coindesk.com/resizer/dEwGZFIHsORXzhzg6xpept5Kr34=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZJY55XTAPJASNLUSQN7D6Q3MJ4.png",
+            "publishedAt": "2023-04-27T21:03:00Z",
+            "content": "A day after crypto markets went on a roller-coaster ride, bitcoin (BTC) held steady over $29,500 as investors weighed sluggish U.S. economic growth data and the latest banking sector woes.\r\nThe large\u2026 [+2375 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jamison Hensley",
+            "title": "Source -- Lamar Jackson's new Ravens deal includes $185M guaranteed - ESPN - ESPN",
+            "description": "The Ravens and Lamar Jackson have agreed to a five-year contract extension that a source told ESPN is worth $260 million and includes $185 million in guaranteed money.",
+            "url": "https://www.espn.com/nfl/story/_/id/36305705/sources-lamar-jackson-ravens-progressing-extension-talks",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0303%2Fr1139133_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-04-27T20:58:43Z",
+            "content": "OWINGS MILLS, Md. -- In a span of a month, quarterback Lamar Jackson went from wanting out of Baltimore to signing the largest deal in Ravens history.\r\nConsider it another one of Jackson's jaw-droppi\u2026 [+3091 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Stephen Neukam",
+            "title": "Montana governor\u2019s nonbinary son calls on him to reject anti-trans bills - The Hill",
+            "description": "Montana Gov. Greg Gianforte (R) is being lobbied by one of his children, who identifies as gay and nonbinary, not to sign legislation that would ban gender-affirming care for minors in the state, among other anti-transgender bills moving through the state\u2019s L\u2026",
+            "url": "https://thehill.com/homenews/state-watch/3975988-montana-governors-nonbinary-son-calls-on-him-to-reject-anti-trans-bills/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/gianfortegreg_11162023ap.jpg?w=1280",
+            "publishedAt": "2023-04-27T19:59:00Z",
+            "content": "Skip to content\r\nMontana Gov. Greg Gianforte (R) is being lobbied by one of his children, who identifies as gay and nonbinary, not to sign legislation that would ban gender-affirming care for minors \u2026 [+2367 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Greg Miller",
+            "title": "U.S. asks Brazil to extradite alleged Russian spy who posed as student - The Washington Post",
+            "description": "The United States wants to take custody of alleged Russian operative Sergey Cherkasov while Moscow is pursuing its own extradition request accusing him of being a heroin trafficker.",
+            "url": "https://www.washingtonpost.com/world/2023/04/27/spy-extradition-russia-brazil-illegal/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ZNKR7ITR7TMGJRVFBZ23OS4IM.jpg&w=1440",
+            "publishedAt": "2023-04-27T19:59:00Z",
+            "content": "Comment on this story\r\nComment\r\nThe United States has asked Brazil to extradite an alleged Russian spy charged last month by the Justice Department with posing as a foreign student in Washington whil\u2026 [+7809 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Milwaukee Journal Sentinel"
+            },
+            "author": "Sophie Carson, Madeline Heim",
+            "title": "Train derails in Wisconsin, south of De Soto in Crawford County along Mississippi River - Milwaukee Journal Sentinel",
+            "description": "The derailment occurred near Highway 82, which crosses the river near the border with Iowa.",
+            "url": "https://www.jsonline.com/story/news/2023/04/27/train-derailment-reported-in-wisconsin-along-mississippi-river/70159960007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/27/PMJS/dc29660c-aaa0-4eb2-b0fc-d7841adaef48-MJS_derailment_1.jpg?crop=8421,4737,x1,y116&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-04-27T19:56:24Z",
+            "content": "FERRYVILLE - A train derailed along the Mississippi River Thursday afternoon in southwest Wisconsin, leaving several cars overturned and jumbled along the bluff and two cars floating down the river.\r\u2026 [+7115 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Jared Gans",
+            "title": "What to know about new Arcturus COVID variant - The Hill",
+            "description": "A new subvariant of the coronavirus has been gaining steam in recent weeks, and it has spread to several countries, including the United States.\u00a0 The XBB.1.16 subvariant, a member of the omicron variant\u2019s lineage that has been nicknamed Arcturus, has become i\u2026",
+            "url": "https://thehill.com/policy/healthcare/3975895-what-to-know-about-new-arcturus-covid-variant/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/covid.jpg?w=1280",
+            "publishedAt": "2023-04-27T19:43:00Z",
+            "content": "Skip to content\r\nA new subvariant of the coronavirus has been gaining steam in recent weeks, and it has spread to several countries, including the United States.\u00a0\r\nThe XBB.1.16 subvariant, a member o\u2026 [+3579 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Microsoft is done with major Windows 10 updates - The Verge",
+            "description": "Windows 10 22H2 will be the final version of the operating system, Microsoft said in a blog post on Thursday. Microsoft will end support for Windows 10 on October 14th, 2025.",
+            "url": "https://www.theverge.com/2023/4/27/23701134/microsoft-windows-10-updates-end-of-support",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/kTqHNybimk7DzqzMEMF0Jr1TNdM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24007866/acastro_STK109_microsoft_02.jpg",
+            "publishedAt": "2023-04-27T19:41:17Z",
+            "content": "Microsoft is done with major Windows 10 updates\r\nMicrosoft is done with major Windows 10 updates\r\n / Microsoft will end support for the operating system in 2025.\r\nByJay Peters\r\nApr 27, 2023, 7:41 PM \u2026 [+867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexander Nazaryan",
+            "title": "Nukes, leaks and chips: What you need to know about South Korean President Yoon Suk Yeol's visit to Washington - Yahoo News",
+            "description": "South Korean President Yoon Suk Yeol\u2019s Washington visit is a sign of the deepening bonds between his nation and the U.S., but it comes during a fraught...",
+            "url": "https://news.yahoo.com/nukes-leaks-and-chips-what-you-need-to-know-about-south-korean-president-yoon-suk-yeols-visit-to-washington-193723204.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KcQDsxYCndvQpOmERQtZzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/f73d3d10-e530-11ed-8fdf-0c65bcc9c609",
+            "publishedAt": "2023-04-27T19:37:23Z",
+            "content": "WASHINGTON At the White House state dinner held in his honor on Wednesday night, South Korean President Yoon Suk Yeol took the microphone from President Biden and sang the opening lines of Don McLean\u2026 [+6098 chars]"
         }
     ]
 }
