@@ -1,71 +1,123 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Maegan Vazquez",
-            "title": "Biden set to discuss wrongfully detained Americans during White House Correspondents Dinner - CNN",
-            "description": "President Joe Biden appeared at the White House Correspondents Dinner on Saturday, marking his first time at the black-tie gathering in Washington since he announced the launch of his reelection campaign earlier this week.",
-            "url": "https://www.cnn.com/2023/04/29/politics/biden-white-house-correspondents-dinner/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220430224808-16-white-house-correspondents-dinner.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-30T00:19:00Z",
-            "content": "President Joe Biden appeared at the White House Correspondents Dinner on Saturday, marking his first time at the black-tie gathering in Washington since he announced the launch of his reelection camp\u2026 [+4528 chars]"
+            "author": "John Blake",
+            "title": "What a Black man discovered when he met the White mother he never knew - CNN",
+            "description": "John Blake grew up in a Black neighborhood of West Baltimore where hostility towards White people was common, and he absorbed some of that. But then, at age 17, he met his White mother for the first time -- sending him on a journey that challenged his assumpt\u2026",
+            "url": "https://www.cnn.com/2023/04/30/us/john-blake-more-than-i-imagined-cec/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230428110318-13-john-blake-personal-story-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-30T09:05:00Z",
+            "content": "Editors Note: This story contains language that some readers may find offensive.\r\nI dont remember what I said because I was too shocked to respond. But I remember where I stood when it happened.\r\nI w\u2026 [+20771 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rachel Pannett, Annabelle Timsit",
+            "title": "Russia-Ukraine war news: Kremlin blames Kyiv for Crimea oil depot fire - The Washington Post",
+            "description": "Kyiv, which has not claimed responsibility for the Crimea incident, said the attack was divine retribution for a Russian strike that killed civilians.",
+            "url": "https://www.washingtonpost.com/world/2023/04/30/russia-ukraine-war-news/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SXKJRWCNBWCQU3EJIYRNQWVL3Q_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-04-30T08:07:00Z",
+            "content": "Russia accused Ukraine of carrying out Saturdays drone attack on a fuel depot in Crimea, the peninsula illegally annexed by the Kremlin in 2014. Ukraine hasnt claimed responsibility for the strike, w\u2026 [+6711 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "The Guardian"
+            },
+            "author": "Lauren Aratani",
+            "title": "Danger and deja vu: what 2011 can tell us about the US debt ceiling crisis - The Guardian",
+            "description": "Congress appears to be facing its biggest debt standoff in years \u2013 and the consequences of default could be disastrous",
+            "url": "https://www.theguardian.com/business/2023/apr/30/us-debt-ceiling-congress-republicans-democrats-2011",
+            "urlToImage": "https://i.guim.co.uk/img/media/72429ab2b0f6629c99812b9bcafee50feb7a79ba/0_150_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f39f453a8679c03716afe2f0bb41be1",
+            "publishedAt": "2023-04-30T07:34:00Z",
+            "content": "Angry at the size of the government debt, House Republicans have passed a bill that ties spending cuts to any lifting of the USs debt limit. A tense fight is escalating, with Democrats refusing to bu\u2026 [+8987 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Lauren Gambino",
+            "title": "'We need to read the room': GOP divided on abortion as Democrats unite for 2024 - The Guardian",
+            "description": "Democrats center abortion rights in early stages of presidential campaign while Republicans waver over unpopular position",
+            "url": "https://www.theguardian.com/world/2023/apr/30/republicans-divided-abortion-democrats-united-2024-election",
+            "urlToImage": "https://i.guim.co.uk/img/media/e36c7bf3717d6abbe2b11d2852e5b1c37f127789/0_199_5000_3001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4e8e05a6337fdced6bc169ae114b16e",
+            "publishedAt": "2023-04-30T07:34:00Z",
+            "content": "Hours after Joe Biden announced his re-election campaign on Tuesday, his vice-president and 2024 running mate, Kamala Harris, delivered a fiery call to action for voters alarmed by the loss of consti\u2026 [+10663 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Josh Pennington,Heather Chen",
+            "title": "Two dead in Russian village after Ukrainian shelling, local governor says - CNN",
+            "description": "Two civilians have died in a village in Russia's Bryansk region following Ukrainian shelling, according to a local governor.",
+            "url": "https://www.cnn.com/2023/04/30/europe/russia-village-suzemka-ukraine-shelling-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230430020354-01-suzemka-rus-map.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-30T06:27:00Z",
+            "content": "Two civilians have died in a village in Russias Bryansk region following Ukrainian shelling, according to a local governor.\r\nAlexander Bogomaz, the governor of Bryansk, said in a message on his Teleg\u2026 [+967 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arizona Sports"
             },
             "author": "",
-            "title": "2023 NFL Draft seventh-round grades: Max Duggan pick a 'C+' for Chargers; Rams get 'A-' for Mr. Irrelevant - CBS Sports",
-            "description": "Chris Trapasso grades the third day of the 2023 NFL Draft",
-            "url": "https://www.cbssports.com/nfl/draft/news/2023-nfl-draft-seventh-round-grades-max-duggan-pick-a-c-for-chargers-rams-get-a-for-mr-irrelevant/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/02/c4a69451-767e-4939-a686-7a687a0ea1df/thumbnail/1200x675/90309f30a8412a07b9ac85b96158957b/max-duggan-tcu-horned-frogs-usatsi.jpg",
-            "publishedAt": "2023-04-29T23:07:33Z",
-            "content": "Want to know what I think of every pick made in the seventh round of the 2023 NFL Draft plus all the other rounds? I graded all the Round 7 picks below, plus all the other Day 2 and Day 3 selections.\u2026 [+10295 chars]"
+            "title": "Suns steamrolled by Nuggets, Jamal Murray and math in Game 1 loss - Arizona Sports",
+            "description": "The Phoenix Suns put themselves in too deep of a hole after getting beat in the little areas early by the Denver Nuggets.",
+            "url": "https://arizonasports.com/story/3522177/suns-steamrolled-by-nuggets-jamal-murray-and-math-in-game-1-loss/",
+            "urlToImage": "http://arizonasports.com/wp-content/uploads/2023/04/GettyImages-1486440825-e1682828787134.jpg",
+            "publishedAt": "2023-04-30T04:46:00Z",
+            "content": "DENVER \u2014 The Phoenix Suns are not going to get by on being more talented anymore. That stopped as soon as the ball went in the air for Saturday\u2019s Game 1 of the second round against the Denver Nuggets\u2026 [+7214 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Russia\u2019s Wagner mercenary force boss threatens Bakhmut withdrawal - Al Jazeera English",
+            "description": "Yevgeny Prigozhin says casualties in Bakhmut would be \u2018five times fewer if we had more ammunition\u2019.",
+            "url": "https://www.aljazeera.com/news/2023/4/30/russias-wagner-mercenary-force-boss-threatens-bakhmut-withdrawal",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/04/AP23116671302326-1682619267.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-04-30T04:42:19Z",
+            "content": "The head of Russias Wagner mercenary force threatens to withdraw his troops from the key battle for Bakhmut in eastern Ukraine as casualty rates mount while Ukraines military authorities say Russian \u2026 [+3661 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "Sports Illustrated"
             },
-            "author": null,
-            "title": "Yankees mull placing Judge on injured list with mild hip strain - ESPN",
-            "description": "Yankees captain Aaron Judge has a mild hip strain that New York manager Aaron Boone said the team will continue to evaluate through the weekend before determining whether the reigning AL MVP will go on the injured list.",
-            "url": "https://www.espn.com/mlb/story/_/id/36322772/yankees-mull-placing-judge-injured-list-mild-hip-strain",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0429%2Fr1166219_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-04-29T22:20:27Z",
-            "content": "ARLINGTON, Texas -- New York Yankees captain Aaron Judge has a mild hip strain that manager Aaron Boone said the team will continue to evaluate through the weekend before determining whether the reig\u2026 [+1903 chars]"
+            "author": "Karl Rasmussen",
+            "title": "Charles Barkley Drops Bold Prediction Ahead of Warriors-Kings Series Finale - Sports Illustrated",
+            "description": "Chuck is all aboard the Kings\u2019 bandwagon.",
+            "url": "https://www.si.com/nba/2023/04/30/charles-barkley-bold-prediction-kings-warriors-playoffs",
+            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk3NjA2ODc5MjAxODYyOTU3/deaaronfoxx.jpg",
+            "publishedAt": "2023-04-30T04:32:53Z",
+            "content": "The\u00a0Kings\u00a0and\u00a0Warriors\u00a0are set to square off in Game 7 of their first-round playoff matchup on Sunday, but Charles Barkley is already looking well beyond that in regards to this Sacramento squad.\r\nOn\u2026 [+1268 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "New York Post"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Fox News",
-            "title": "California man found guilty of murdering teens who ding-dong ditched his house - New York Post ",
-            "description": "Anurag Chandra was recently found guilty\u00a0of killing three teenage boys\u00a0who played ding-dong ditch at his house in 2020.",
-            "url": "https://nypost.com/2023/04/29/anurag-chandra-found-guilty-of-murdering-teens-who-ding-dong-ditched-his-house/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26824892-1682805677058.jpg?quality=75&strip=all&1682791427&w=1024",
-            "publishedAt": "2023-04-29T22:07:00Z",
-            "content": "A California man was recently found guilty\u00a0of killing three teenage boys\u00a0who played ding-dong ditch at his house in 2020.\r\nRiverside County resident Anurag Chandra\u00a0was found guilty of three counts of\u2026 [+1614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Detroit Free Press"
-            },
-            "author": "Dave Birkett",
-            "title": "Lions pick WR Antoine Green in 7th round of NFL draft 2023 - Detroit Free Press",
-            "description": "The Detroit Lions took Antoine Green, North Carolina WR, with their final pick of 2023 NFL draft, No. 219 overall in seventh round Saturday.",
-            "url": "https://www.freep.com/story/sports/nfl/lions/2023/04/29/detroit-lions-pick-antoine-green-nfl-draft-2023/70166697007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/29/PDTF/8803e202-2c9b-40d9-be87-1c249e117f3c-ACC_Championship_Football_50671.jpg?crop=2080,1170,x1,y233&width=2080&height=1170&format=pjpg&auto=webp",
-            "publishedAt": "2023-04-29T21:38:10Z",
-            "content": "The Detroit Lions took North Carolina wide receiver Antoine Green with their final pick of the 2023 NFL draft, No. 219 overall, the second selection of the seventh round.\r\nGreen, 6 feet 2 and 199 pou\u2026 [+2124 chars]"
+            "author": "Kaanita Iyer",
+            "title": "Top moments from the White House Correspondents Dinner - CNN",
+            "description": "President Joe Biden joked about a range of topics at the White House Correspondents Dinner on Saturday but struck a serious tone as he called for the release of wrongfully detained Americans abroad.",
+            "url": "https://www.cnn.com/2023/04/30/politics/white-house-correspondents-dinner-biden/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230429225947-03-white-house-correspondents-dinner-2023-biden.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-30T04:30:00Z",
+            "content": "President Joe Biden joked about a range of topics at the White House Correspondents Dinner on Saturday but struck a serious tone as he called for the release of wrongfully detained Americans abroad. \u2026 [+5294 chars]"
         },
         {
             "source": {
@@ -73,194 +125,142 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Russia blames Ukraine drone attack for major Crimea fuel depot fire - Reuters",
-            "description": "A Ukrainian drone strike set ablaze a Russian fuel storage facility in the Crimean port of Sevastopol early on Saturday, sending a vast column of black smoke into the sky in the latest attack on the Russia-occupied peninsula.",
-            "url": "https://www.reuters.com/world/europe/fuel-tank-ablaze-sevastopol-official-says-apparent-drone-attack-2023-04-29/",
-            "urlToImage": "https://www.reuters.com/resizer/AeSGdrRk2nCxeVmOeSmKY82_mWQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZH4BQTE2G5KWJHLVHDVJFETXAU.jpg",
-            "publishedAt": "2023-04-29T21:34:00Z",
-            "content": "April 29 (Reuters) - A Ukrainian drone strike set ablaze a Russian fuel storage facility in the Crimean port of Sevastopol early on Saturday, sending a vast column of black smoke into the sky in the \u2026 [+3115 chars]"
+            "title": "China factory activity unexpectedly cools in April - Reuters",
+            "description": "China's manufacturing activity unexpectedly shrank in April, official data showed on Sunday, raising pressure on policymakers seeking to boost an economy struggling for a post-COVID lift-off amid subdued global demand and persistent property weakness.",
+            "url": "https://www.reuters.com/world/china/china-manufacturing-unexpectedly-cools-april-official-pmi-2023-04-30/",
+            "urlToImage": "https://www.reuters.com/resizer/RKXs8ACML8fQ7O0r8PgdyZYB1w0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YMQACVPZ6NNRVGVEXPADTSEDLY.jpg",
+            "publishedAt": "2023-04-30T04:17:13Z",
+            "content": "BEIJING, April 30 (Reuters) - China's manufacturing activity unexpectedly shrank in April, official data showed on Sunday, raising pressure on policymakers seeking to boost an economy struggling for \u2026 [+3013 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Eonline.com"
+            },
+            "author": "Brett Malec",
+            "title": "You Won't Believe These Stars Have Never Been to the Met Gala - E! Online - E! NEWS",
+            "description": "Before the 2023 Met Gala\u2014themed \"Karl Lagerfeld: A Line of Beauty\"\u2014 takes place on May 1, look back at all the A-list celebrities who have never made appearances at the annual fashion fanfare.",
+            "url": "https://www.eonline.com/news/1372273/you-wont-believe-these-stars-have-never-been-to-the-met-gala",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023324/rs_1200x1200-230424103930-1200-ryan-gosling-jennifer-aniston-britney-spears.cm.42423.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-04-30T03:00:00Z",
+            "content": "It's hard to believe some of Hollywood's biggest stars have never been part of\u00a0fashion's biggest night.\r\nAs any fashionista knows, the first Monday in May has become synonymous with the Met Galathe C\u2026 [+938 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Chad Reuter",
+            "title": "2023 NFL Draft: Final quick-snap grades for all 32 teams - NFL.com",
+            "description": "Chad Reuter reveals his final quick-snap grades for all 32 teams based on their decisions from all three days of the 2023 NFL Draft.",
+            "url": "https://www.nfl.com/news/2023-nfl-draft-final-quick-snap-grades-for-all-32-teams",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/yv9kvbluvrhvgjqvea3h",
+            "publishedAt": "2023-04-30T02:45:00Z",
+            "content": "Immediate draft grades provide a foundation for future evaluations. Waiting three years to assess draft classes without accounting for how the decision was viewed at the time usually leads to revisio\u2026 [+483 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Mario Movie Crosses $1 Billion Mark At The Global Box Office This Weekend - Nintendo Life",
+            "description": "It's achieved this milestone in less than a month!",
+            "url": "https://www.nintendolife.com/news/2023/04/mario-movie-crosses-usd1-billion-mark-at-the-global-box-office-this-weekend",
+            "urlToImage": "https://images.nintendolife.com/f3ed45a4e17c9/1280x720.jpg",
+            "publishedAt": "2023-04-30T02:05:00Z",
+            "content": "As I've said before, it's a HUGE reversal of fortune for Nintendo-based movies. After the failure of the 1993 Mario movie, Nintendo was very hesitant to make any more movies based on their games (eve\u2026 [+695 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "It's not your imagination, allergy season is extra bad this year. Here's why - PBS NewsHour",
-            "description": "Allergy season got a jump start this year and has been more intense all over the country, especially in the North and Southeast. Ali Rogin speaks with Theres...",
-            "url": "https://www.youtube.com/watch?v=D-yZX8F5iVU",
-            "urlToImage": "https://i.ytimg.com/vi/D-yZX8F5iVU/maxresdefault.jpg",
-            "publishedAt": "2023-04-29T21:31:38Z",
-            "content": null
+            "title": "China's Zhurong Mars Rover Finds Evidence of Water in Martian Sand Dunes - SciTechDaily",
+            "description": "The Zhurong rover, part of China's Tianwen-1 Mars mission, has found evidence of liquid water at low Martian latitudes, indicating potentially habitable environments. This discovery, contradicting previous beliefs that water could only exist in solid or gaseo\u2026",
+            "url": "https://scitechdaily.com/?p=272933",
+            "urlToImage": "https://scitechdaily.com/images/Zhurong-Mars-Rover-Selfie.jpg",
+            "publishedAt": "2023-04-30T02:02:54Z",
+            "content": "ByChinese Academy of SciencesApril 29, 2023\r\nA selfie taken by the Zhurong rover alongside its landing platform, captured with a wireless camera. Credit: Chinese National Space Administration\r\nThe Zh\u2026 [+6523 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Cydney Henderson",
-            "title": "LeBron James has last laugh over Dillon Brooks after Lakers eliminate Grizzlies - USA TODAY",
-            "description": "The feud between LeBron James and Dillon Brooks ended on Friday with Los Angeles' Game 6 win to send Memphis home. And James had the final say.",
-            "url": "https://www.usatoday.com/story/sports/nba/playoffs/2023/04/29/lakers-lebron-james-has-last-laugh-over-dillon-brooks-posts/11768024002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/20/USAT/040ce93d-8f87-45a6-ba36-d930e911c772-USP_NBA__Playoffs-Los_Angeles_Lakers_at_Memphis_Gr.jpg?crop=4389,2469,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-04-29T21:30:49Z",
-            "content": "The King has spoken.\u00a0\r\nThe feud between Los Angeles Lakers star LeBron James and\u00a0Grizzlies forward Dillon Brooks officially ended on Friday with Los Angeles' 125-85 blowout Game 6 win to send Memphis\u2026 [+2057 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "News Wrap: Hundreds of Americans evacuated from Khartoum amid fighting in Sudan - PBS NewsHour",
-            "description": "In our news wrap Saturday, the U.S. completed the first land evacuation of private American citizens from Sudan\u2019s capital, Russia says Ukrainian drones struc...",
-            "url": "https://www.youtube.com/watch?v=tQr1LGr194U",
-            "urlToImage": "https://i.ytimg.com/vi/tQr1LGr194U/maxresdefault.jpg",
-            "publishedAt": "2023-04-29T21:11:40Z",
-            "content": null
+            "author": "Adam Sabes",
+            "title": "Army releases identities of soldiers killed in Alaska helicopter crash - Fox News",
+            "description": "The Army has released the identities of three soldiers killed earlier in the week in a helicopter crash, and say a fourth person was injured.",
+            "url": "https://www.foxnews.com/us/army-releases-identities-soldiers-killed-alaska-helicopter-crash",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/HELICOPTERS.jpg",
+            "publishedAt": "2023-04-30T01:21:00Z",
+            "content": "The Army has released the identities of the three soldiers killed on Thursday in a helicopter crash.\r\nTwo AH-64 Apache helicopters collided in midair on Thursday near Healy, Alaska and left three sol\u2026 [+2016 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Page Six"
+                "name": "Dark Horizons"
             },
-            "author": "Eileen Reslen, Leah Bitsky",
-            "title": "Sydney Sweeney, fianc\u00e9 Jonathan Davino go on date night amid Glen Powell drama - Page Six",
-            "description": "The couple went on a rare outing together in New York City Friday night. However, the \u201cEuphoria\u201d star was still not wearing her engagement ring.",
-            "url": "https://pagesix.com/2023/04/29/sydney-sweeney-jonathan-davino-go-on-date-amid-glen-powell-drama/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/04/Sydney-Sweeney-fiance\u0301-Jonathan-Davino-shut-down-Glen-Powell-romance-buzz-with-date-night.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2023-04-29T20:19:00Z",
-            "content": "Sydney Sweeney and her fianc\u00e9, Jonathan Davino, shut down speculation that their relationship is on the rocks by stepping out together Friday night.\r\nThe couple were photographed in photos obtained b\u2026 [+3328 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mike Snider",
-            "title": "Saturday is 'Bring Your Own Cup Day' at 7-Eleven. Get your Slurpee on for $1.99 - USA TODAY",
-            "description": "Saturday is 'Bring Your Own Cup Day' at 7-11. Bring your container and get a  Slurpee for $1.99.",
-            "url": "https://www.usatoday.com/story/money/food/2023/04/29/slurpee-bring-your-own-cup-day-7-eleven/11767561002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/29/USAT/ccaff1e3-b164-4d42-ad2f-8b461edd0321-slurpee.jpg?crop=5463,3073,x0,y3924&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-04-29T20:04:50Z",
-            "content": "Slurpee lovers, on Saturday\u00a0you can truly slurp your favorite 7-Eleven drink until your heart is content.\r\nThat's because April 29 is \"Bring Your Own Cup Day\" at\u00a0participating\u00a07Eleven,\u00a0Speedway\u00a0and\u00a0S\u2026 [+1513 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Collider.com"
-            },
-            "author": "Hayley St. James",
-            "title": "'Peter Pan & Wendy': 10 On-Screen Captain Hooks, Ranked - Collider",
-            "description": "From Christopher Walken to Dustin Hoffman, these are the best depictions of Captain Hook from Peter Pan movies and TV shows.",
-            "url": "https://collider.com/peter-pan-captain-hooks-ranked/",
-            "urlToImage": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/04/peter-pan-and-wendy-10-best-captain-hooks-on-screen-ranked.jpg",
-            "publishedAt": "2023-04-29T20:01:00Z",
-            "content": "Peter Pan, J.M. Barrie's timeless play-turned-novel about the boy who never grows up, has captured the hearts and imaginations of generations for over a century. Peter's adventures with the Darling c\u2026 [+8653 chars]"
+            "author": "Garth Franklin",
+            "title": "Chris Pratt Talks Failed Marvel Auditions - Dark Horizons",
+            "description": "Chris Pratt is set to dominate the box office next weekend with the former \u201cParks and Recreation\u201d actor serving as the leading man of both the ongoing success story that is \u201cThe Super Mario Bros. Movie,\u201d and as Star-Lord in Marvel\u2019s \u201cGuardians of The Galaxy V\u2026",
+            "url": "https://www.darkhorizons.com/chris-pratt-talks-failed-marvel-auditions/",
+            "urlToImage": "https://cdndh.darkhorizons.com/wp-content/uploads/2023/04/chris-pratt-talks-failed-marvel-auditions.jpg",
+            "publishedAt": "2023-04-30T00:33:08Z",
+            "content": "Chris Pratt is set to dominate the box office next weekend with the former \u201cParks and Recreation\u201d actor serving as the leading man of both the ongoing success story that is \u201cThe Super Mario Bros. Mov\u2026 [+2166 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Mary Kay Linge",
-            "title": "Michelle Obama joins Bruce Springsteen to sing 'Glory Days' in Barcelona - New York Post ",
-            "description": "She could have used President Biden\u2019s cheat sheet.",
-            "url": "https://nypost.com/2023/04/29/michelle-obama-joins-bruce-springsteen-to-sing-glory-days-in-barcelona/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/chrome-capture-2023-3-29.gif?w=1024",
-            "publishedAt": "2023-04-29T19:48:00Z",
-            "content": "She could have used President Biden\u2019s cheat sheet.\r\nMichelle Obama hit the stage in Barcelona, Spain, on Friday night as Bruce Springsteen, on tour with the E Street Band, launched into his 1985 hit \u2026 [+1246 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ryan Morik",
-            "title": "Robert F. Kennedy Jr. says he opposes biological males competing in women's sports - Fox News",
-            "description": "Democratic presidential candidate Robert F. Kennedy Jr. said Saturday morning he is \"against people participating in women's sports who are biologically male.\"",
-            "url": "https://www.foxnews.com/sports/robert-f-kennedy-jr-against-biological-males-competing-womens-sports",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/GettyImages-1252012556.jpg",
-            "publishedAt": "2023-04-29T19:33:00Z",
-            "content": "Twenty-one states have banned transgender females from participating in girls and women's sports, and Robert F. Kennedy Jr. wants that number to rise.\r\nThe son of the former New York senator appeared\u2026 [+1666 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jay Croft,Paradise Afshar",
-            "title": "New Orleans restaurant employee was target of fatal shooting, police say - CNN",
-            "description": "The New Orleans Police Department said an employee of the popular Mandina's Restaurant was the intended target of a fatal shooting Friday night near the annual Jazz Fest.",
-            "url": "https://www.cnn.com/2023/04/29/us/fatal-shooting-new-orleans-restaurant/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230429123056-fatal-shooting-new-orleans-map-0428.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-04-29T19:24:00Z",
-            "content": "The New Orleans Police Department said an employee of the popular Mandinas Restaurant was the intended target of a fatal shooting Friday night near the annual Jazz Fest.\r\nOfficers responded to a call\u2026 [+2073 chars]"
+            "author": "Katherine Donlevy",
+            "title": "FDIC races to find buyer for collapsing First Republic Bank: report - New York Post ",
+            "description": "Federal regulators are scrambling to find a buyer for First Republic Bank as the banking company\u2019s stocks continue to tumble, according to sources.",
+            "url": "https://nypost.com/2023/04/29/fdic-races-to-find-buyer-for-collapsing-first-republic-bank/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/first-republic-bank.jpg?quality=75&strip=all&1682798860&w=1024",
+            "publishedAt": "2023-04-30T00:27:00Z",
+            "content": "Federal regulators are scrambling to find a buyer for First Republic Bank as the banking company\u2019s stock continue to tumble, according to a report.\r\nThe Federal Deposit Insurance Corp. has asked seve\u2026 [+2095 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Verywellhealth.com"
+                "name": "Hindustan Times"
             },
-            "author": "https://www.facebook.com/verywell",
-            "title": "Mounjaro May Soon Join Wegovy as a Weight Loss-Approved Drug - Verywell Health",
-            "description": "Tirzepatide, the drug behind the diabetes medication Mounjaro, is effective for weight loss in people with diabetes, according to new data. Learn how it compares to Wegovy and Ozempic.",
-            "url": "https://www.verywellhealth.com/mounjaro-tirzepatide-weight-loss-study-results-7486690",
-            "urlToImage": "https://www.verywellhealth.com/thmb/DQrrKDCmwjl4ekWUmK2aRXJYyrU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1302141463-b78f0c41c2ac459e8cb00a632e6099a1.jpg",
-            "publishedAt": "2023-04-29T19:23:42Z",
-            "content": "<ul><li>Tirzepatide, the active ingredient in the diabetes medication Mounjaro, appears to be a safe and effective obesity treatment.</li><li>Lilly, the manufacturer of Mounjaro, reported that tirzep\u2026 [+7358 chars]"
+            "author": "Mallika Soni",
+            "title": "Neighbors asked man to stop firing rifle outside. He then shot 5 people in Texas - Hindustan Times",
+            "description": "Texas US Shooting: When the family asked Francisco Oropeza to stop firing rounds in his yard because they were trying to sleep, he fatally shot his neighbours. | World News",
+            "url": "https://www.hindustantimes.com/world-news/texas-us-shooting-neighbors-asked-man-to-stop-firing-rifle-outside-he-then-shot-5-people-in-texas-101682812900047.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/04/30/1600x900/US-GUNMAN-KILLS-NEIGHBORS-IN-CLEVELAND--TEXAS-AFTE_1682813858149_1682813858496.jpg",
+            "publishedAt": "2023-04-30T00:18:55Z",
+            "content": "Authorities widened search for the suspect after the killing of five of his neighbours in the town of Cleveland in Texas. San Jacinto County Sheriff Greg Capers said that the police were searching fo\u2026 [+1587 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Slashdot.org"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Lyft Demands Employees Return to Office in September - Slashdot",
-            "description": "\"Since the pandemic began, Lyft employees have been able to work remotely,\" notes the New York Times, \"logging into videoconferences from their homes and dispersing across the country like many other tech workers. Last year, the company made that policy offic\u2026",
-            "url": "https://it.slashdot.org/story/23/04/29/0454222/lyft-demands-employees-return-to-office-in-september",
-            "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
-            "publishedAt": "2023-04-29T18:54:11Z",
-            "content": "In my experience, the vast majority of \"white board\" type meetings were between my teams as tech people trying to convince management of things that needed attention - equipment upgrades, system/netw\u2026 [+804 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Chris Pandolfo",
-            "title": "Texas shooting: Suspect accused of killing 5 neighbors after request to stop firing rifle - Fox News",
-            "description": "Five people from Honduras were fatally shot late Friday night in southern San Jacinto County, Texas, according to the San Jacinto County Sheriff's Office.",
-            "url": "https://www.foxnews.com/us/texas-shooting-leaves-dead-including-8-year-old-manhunt-underway",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Texas-Shooting-Suspect-Francisco-Oropeza-1280.jpg",
-            "publishedAt": "2023-04-29T17:34:00Z",
-            "content": "A Mexican national is suspected of killing five neighbors in southeast Texas after one of them asked him to stop shooting his rifle late Friday, saying that a baby was trying to sleep.\r\nThe suspect i\u2026 [+4760 chars]"
+            "title": "Russia pledges harsh response after Polish 'seizure' of embassy school - Reuters",
+            "description": "Russia on Saturday promised it would respond harshly to what it said was Poland's illegal seizure of its embassy school in Warsaw, an act it called a flagrant violation of the Vienna Convention on diplomatic relations.",
+            "url": "https://www.reuters.com/world/europe/russia-lodge-official-protest-over-seizure-embassy-school-warsaw-2023-04-29/",
+            "urlToImage": "https://www.reuters.com/resizer/Y6LWfiNqExnoFDEn9RTk66A1-S4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7WPNBCAAORP4FKRT33Q3AEQNRY.jpg",
+            "publishedAt": "2023-04-30T00:07:00Z",
+            "content": "MOSCOW, April 29 (Reuters) - Russia on Saturday promised it would respond harshly to what it said was Poland's illegal seizure of its embassy school in Warsaw, an act it called a flagrant violation o\u2026 [+2367 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KABC-TV"
+                "name": "NBCSports.com"
             },
-            "author": null,
-            "title": "California approves rule phasing out big diesel trucks - KABC-TV",
-            "description": "New big rigs and buses that run on diesel would not be sold in California starting in 2036, according to the newly approved rules.",
-            "url": "https://abc7.com/big-rig-bus-diesel-ban/13195644/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/11561688_021222-kgo-truck-emission-img.jpg?w=1600",
-            "publishedAt": "2023-04-29T17:23:57Z",
-            "content": "SACRAMENTO, Calif. -- New big rigs and buses that run on diesel would not be sold in California starting in 2036, according to new rules approved by state regulators Friday to wean the state off foss\u2026 [+4153 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Peter Aitken",
-            "title": "Prolific sperm donor with over 500 children must pay $110K if he donates again, court rules - Yahoo News",
-            "description": "Jonathan Jacob Meijer told mothers that he had adhered to legal limits on sperm donation even though he had already fathered hundreds of children in the...",
-            "url": "https://news.yahoo.com/prolific-sperm-donor-over-500-171523323.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pIycRh6ipyu3d_cfcZgPxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/fox_news_text_979/13e6036d30fe986b24d6738b054315c4",
-            "publishedAt": "2023-04-29T17:15:23Z",
-            "content": "A sperm donor who may have fathered over 500 children now faces a fine of around $110,000 if he donates again, a court ruled on Friday.\r\nA Dutch court this week heard the case of Jonathan Jacob Meije\u2026 [+3621 chars]"
+            "author": "Kurt Helin",
+            "title": "Three things to watch: Miami Heat renew rivalry with New York Knicks - NBC Sports",
+            "description": "Bam Adebayo vs. Mitchell Robinson could decide the series.",
+            "url": "https://nba.nbcsports.com/2023/04/29/three-things-to-watch-miami-heat-renew-rivalry-with-new-york-knicks/",
+            "urlToImage": "https://nba.nbcsports.com/wp-content/uploads/sites/12/2023/04/GettyImages-1477999940-e1682808876312.jpg",
+            "publishedAt": "2023-04-29T23:04:00Z",
+            "content": "The Denver Nuggets would like to remind you that they have not been healthy the last couple of postseasons. This is what they look like when they are and what they looked like most of the season on t\u2026 [+4698 chars]"
         }
     ]
 }
