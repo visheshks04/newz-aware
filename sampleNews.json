@@ -1,18 +1,135 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>, Sophie Tanno, <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a> and <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, CNN",
+            "title": "Russia's war in Ukraine: Live updates - CNN",
+            "description": "Russia has unleashed another wave of drone attacks against multiple regions of Ukraine, including the capital. Follow here for live updates.",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-05-03-23/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230501113942-bakhmut-230422-super-tease.jpg",
+            "publishedAt": "2023-05-03T12:21:00Z",
+            "content": "Ukrainian President Volodymyr Zelensky will pay an official visit to Finland on Wednesday, Finnish President Sauli Niinisto announced.\r\nIn a press release, Niinisto said Zelensky will travel to Helsi\u2026 [+929 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Paul Davidson",
+            "title": "Fed likely to hike rates and signal a pause i - USA TODAY",
+            "description": "The Federal Reserve is expected to raise its key interest rate by another quarter point, then signal a long pause - if inflation eases as projected",
+            "url": "https://www.usatoday.com/story/money/2023/05/02/fed-hike-interest-rates/70172271007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/22/USAT/aa0bc43f-b84b-463b-9320-6a5461418f3b-AFP_AFP_33BV3HC.jpg?crop=5999,3375,x0,y429&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-05-03T12:16:41Z",
+            "content": "Heres the good news.\r\nAfter its most aggressive interest rate hikes in 40 years, the Federal Reserve on Wednesday is expected to approve a final quarter-point increase and signal a long-awaited pause\u2026 [+4403 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Anthony Davis' huge night helps Lakers win playoff series opener against Warriors - The Guardian",
+            "description": "The Los Angeles Lakers held off a late flurry by the Golden State Warriors to win an entertaining Game 1 in the Western Conference semi-finals",
+            "url": "https://www.theguardian.com/sport/2023/may/03/anthony-davis-huge-night-helps-lakers-win-playoff-series-opener-against-warriors",
+            "urlToImage": "https://i.guim.co.uk/img/media/7851b3fdc6c282486a3a9b7887908f6d5dd6f04f/0_102_5043_3026/master/5043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b19aac31f7b58d28cbe1860747a6b2a",
+            "publishedAt": "2023-05-03T11:31:00Z",
+            "content": "LeBron James no longer has to do it all against Stephen Curry on the big stage, not even close. Anthony Davis plugs the middle and takes away the easy chances inside. Dennis Schr\u00f6der has the energy t\u2026 [+3930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jonathan Yerushalmy, Martin Pengelly",
+            "title": "\u2018Not how white men fight\u2019: Tucker Carlson text reportedly worried Fox bosses - The Guardian",
+            "description": "Fired Fox host allegedly described Trump supporters assaulting a man, while finding himself \u2018rooting for the mob\u2019",
+            "url": "https://www.theguardian.com/media/2023/may/03/tucker-carlson-text-message-fox-news",
+            "urlToImage": "https://i.guim.co.uk/img/media/c7925a8ae18e10a4314b6ccdf15deb9c01568aa8/0_238_2067_1241/master/2067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f70a9ddecf26a8944d7c19fe4452b481",
+            "publishedAt": "2023-05-03T11:14:00Z",
+            "content": "A racist text message allegedly sent by the former Fox News host Tucker Carlson set off alarm bells at the top of the network and ultimately contributed to his firing, the New York Times reported.\r\nT\u2026 [+4414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Andreas Wiseman",
+            "title": "Rushed Scripts, Confusion & Blacklisting Threats: How The UK Is Responding To The Writers Strike - Deadline",
+            "description": "The impact of the momentous WGA strike is still being digested by the UK industry with professionals we\u2019ve spoken to in the past 24 hours expressing a combination of solidarity, uncertainty, \u2026",
+            "url": "https://deadline.com/2023/05/how-the-writers-strike-could-impact-the-uk-industry-and-beyond-wggb-wga-1235340719/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/03/QUEENCHARLOTTE_103_Unit_03165RC.jpg?w=1024",
+            "publishedAt": "2023-05-03T11:09:00Z",
+            "content": "The impact of the momentous WGA strike is still being digested by the UK industry with professionals we\u2019ve spoken to in the past 24 hours expressing a combination of solidarity, uncertainty, and the \u2026 [+9943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Belarusian dissident Roman Protasevich sentenced to eight years - BBC",
+            "description": "Roman Protasevich was arrested after his Ryanair flight was diverted to Belarus in May 2021.",
+            "url": "https://www.bbc.com/news/world-65466698",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11A6/production/_129581540_mediaitem118673786.jpg",
+            "publishedAt": "2023-05-03T10:57:52Z",
+            "content": "A Belarusian opposition activist arrested after his Ryanair flight was forced to land in Minsk has been sentenced to eight years in prison.\r\nRoman Protasevich was hauled off his flight and arrested o\u2026 [+2023 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
             },
             "author": null,
-            "title": "LIVE: Starbucks earnings analysis on Yahoo Finance's After the Call - Yahoo Finance",
-            "description": "Starbucks (SBUX) reported fiscal second quarter 2023 earnings results that beat estimates on Tuesday, May 2 after market close.In its fiscal second quarter, ...",
-            "url": "https://www.youtube.com/watch?v=1jRcqBcNiQQ",
-            "urlToImage": "https://i.ytimg.com/vi/1jRcqBcNiQQ/maxresdefault.jpg",
-            "publishedAt": "2023-05-02T22:30:13Z",
+            "title": "NYC subway passenger dead after confrontation with another - CBS News",
+            "description": "Sources say a former Marine restrained the other passenger, who was acting erratically. Video shows the passenger who later died being kept in a chokehold.",
+            "url": "https://www.cbsnews.com/news/nyc-subway-passenger-dead-confrontation-chokehold/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2020/02/17/48b9da38-596d-45fc-9208-3cdb8872a243/thumbnail/1200x630/bf82b4b2a4e4fe67c7c7c20c8cb40dd5/Ftrain-56484332.jpg",
+            "publishedAt": "2023-05-03T10:15:00Z",
+            "content": "Police are investigating a deadly confrontation in the New York City subway system, CBS New York's Ali Bauman reports.\r\nSources tell the station a former Marine restrained another passenger who was a\u2026 [+2192 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sarah Min",
+            "title": "Stock futures rise slightly as investors await Fed rate decision: Live updates - CNBC",
+            "description": "Investors looked ahead to the Federal Reserve's latest policy decision.",
+            "url": "https://www.cnbc.com/2023/05/02/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107112919-1664470248152-abc.jpg?v=1683064979&w=1920&h=1080",
+            "publishedAt": "2023-05-03T10:10:00Z",
+            "content": "U.S. stock futures rose Wednesday as investors looked ahead to the Federal Reserve's latest policy decision.\r\nDow Jones Industrial Average futures climbed by 14 points, or 0.05%. S&amp;P 500 and Nasd\u2026 [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Josh Pennington,Amy Croffey,Radina Gigova,Rob Picheta",
+            "title": "Eight children killed as 14-year-old boy allegedly opens fire at Serbian school, reports say - CNN",
+            "description": "Eight children have died after a 14-year-old boy allegedly opened fire in his elementary school in the Serbian capital Belgrade, officials reported Wednesday.",
+            "url": "https://www.cnn.com/2023/05/03/europe/serbia-school-shooting-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230503091758-01-serbia-school-shooting-050323.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-03T09:52:00Z",
+            "content": "Eight children have died after a 14-year-old boy allegedly opened fire in his elementary school in the Serbian capital Belgrade, officialsreported Wednesday.\r\nA security guard was also killed, while \u2026 [+1300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Salon",
+            "title": "These brain scans of dying patients may reveal what happens when you die - Salon",
+            "description": null,
+            "url": "https://www.salon.com/2023/05/03/these-brain-scans-of-dying-patients-may-reveal-what-happens-when-you/",
+            "urlToImage": null,
+            "publishedAt": "2023-05-03T09:30:00Z",
             "content": null
         },
         {
@@ -21,246 +138,129 @@
                 "name": "SciTechDaily"
             },
             "author": null,
-            "title": "Don't Miss: \u201cPeak Venus\u201d and Jupiter Occultation - SciTechDaily",
-            "description": "What are some skywatching highlights in May 2023? Venus reaches its highest point in the evening sky for the year, while Jupiter disappears behind the Moon for some U.S. observers. Plus, some key differences in the Southern Hemisphere's skies compared to thos\u2026",
-            "url": "https://scitechdaily.com/?p=273594",
-            "urlToImage": "https://scitechdaily.com/images/Jupiter-Occultation.jpg",
-            "publishedAt": "2023-05-02T21:06:52Z",
-            "content": "ByNASA's Jet Propulsion LaboratoryMay 2, 2023\r\nAn occultation is a celestial event that occurs when one object is hidden by another object that passes between it and the observer. In this Jupiter occ\u2026 [+8778 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Lena H. Sun, Dan Diamond",
-            "title": "CDC opens probe after 35 test positive for covid following CDC conference - The Washington Post",
-            "description": "Attendees say many people did not mask, socially distance or take other precautions recommended earlier in the pandemic.",
-            "url": "https://www.washingtonpost.com/health/2023/05/02/covid-outbreak-cdc-annual-conference/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4J7FAJRTOAI6ZABWPWZFLP7ROY.jpg&w=1440",
-            "publishedAt": "2023-05-02T20:38:30Z",
-            "content": "Comment on this story\r\nComment\r\nDisease detectives at the Centers for Disease Control and Prevention are probing a new outbreak: the roughly three-dozen covid cases linked to their own annual confere\u2026 [+3771 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Man arrested outside Buckingham Palace - BBC",
-            "description": "Scotland Yard says he was detained after throwing suspected shotgun cartridges into palace grounds.",
-            "url": "https://www.bbc.com/news/uk-65464885",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B407/production/_129578064_buckingham_palace.jpg",
-            "publishedAt": "2023-05-02T20:35:37Z",
-            "content": "A controlled explosion was held and a man was arrested outside Buckingham Palace after throwing suspected shotgun cartridges into palace grounds, police have said. \r\nA cordon was put in place after t\u2026 [+1882 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Pras Subramanian",
-            "title": "Ford first quarter revenue, profits top estimates; EV unit loses $722 million - Yahoo Finance",
-            "description": "Ford's Q1 earnings on Tuesday will break down results by its three new business segments for the first time.",
-            "url": "https://finance.yahoo.com/news/ford-first-quarter-revenue-profits-top-estimates-ev-unit-loses-722-million-201822810.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5u6npCGlmsFfckHBPPmSQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjE-/https://s.yimg.com/os/creatr-uploaded-images/2021-02/186d5ef0-72da-11eb-b9bf-41b3e66da508",
-            "publishedAt": "2023-05-02T20:18:34Z",
-            "content": "Ford (F) reported first quarter revenue and earnings that topped Wall Street expectations on Tuesday while also breaking out results for its EV segment for the first time, where losses totaled more t\u2026 [+3709 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Warriors, keep doing what you're doing! - Jalen Rose on how GSW beats the Lakers | NBA Today - ESPN",
-            "description": "Share your videos with friends, family, and the world",
-            "url": "https://www.youtube.com/watch?v=Fm11BXoHvhc",
-            "urlToImage": null,
-            "publishedAt": "2023-05-02T20:15:28Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Christina Wilkie",
-            "title": "Democrats harden their message on the debt ceiling while quietly paving the way for a deal - CNBC",
-            "description": "The moves were spurred by the prospect of a potentially catastrophic U.S. default that appears closer than it did just 24 hours ago.",
-            "url": "https://www.cnbc.com/2023/05/02/debt-ceiling-democrats-deal.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107183348-1674599920863-gettyimages-1246508588-AFP_337R4TG.jpeg?v=1683057696&w=1920&h=1080",
-            "publishedAt": "2023-05-02T20:01:36Z",
-            "content": "US Senate Majority Leader Chuck Schumer (D-NY) speaks to the press as US House Minority Leader Hakeem Jeffries (D-NY) (L) listens, after meeting with US President Joe Biden at the White House in Wash\u2026 [+5204 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OPB News"
-            },
-            "author": "Dirk VanderHart | Lauren Dake",
-            "title": "Shemia Fagan resigns as Oregon secretary of state following cannabis consulting scandal - Oregon Public Broadcasting",
-            "description": "Oregon Secretary of State Shemia Fagan resigned her position after revelations that she was working as a consultant for a cannabis company while her office was auditing the industry.",
-            "url": "https://www.opb.org/article/2023/05/02/shemia-fagan-resign-cannabis-oregon-secretary-state/",
-            "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/1rPomfblQ5_qQUFYCyVZVyUQyC8=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/UOX7ZUHK3ZDT7CVUX5XESTAEKY.JPG",
-            "publishedAt": "2023-05-02T20:01:07Z",
-            "content": "FILE: Shemia Fagan gives her acceptance speech to unmanned camera after winning the race for Oregon's secretary of state, Nov. 3, 2020.\r\nKristyna Wentz-Graff / OPB\r\nOregon Secretary of State Shemia F\u2026 [+9192 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Robert Lea",
-            "title": "See the moment lightning struck SpaceX's Falcon Heavy rocket launch pad (photo) - Space.com",
-            "description": "Luckily, the pad's lightning protection mast functioned as intended.",
-            "url": "https://www.space.com/spacex-falcon-heavy-lightning-strike-launch-pad",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sf2b5gJBDAuTzr2ez3rNRi-1200-80.jpg",
-            "publishedAt": "2023-05-02T20:00:00Z",
-            "content": "Stunning videos and images shared across social media captured the exact moment that lightning struck the launch pad as a SpaceX Falcon Heavy rocket sat awaiting liftoff on Thursday, April 27.\u00a0\r\nNASA\u2026 [+3216 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Hannah Marriott",
-            "title": "The designers of Jared Leto\u2019s Met Gala look: \u2018He wanted it to be like a real cat\u2019 - The Guardian",
-            "description": "Joshua Balster on his top-secret project creating the \u2018essence\u2019 of Choupette, Karl Lagerfeld\u2019s cat and reported heir",
-            "url": "https://www.theguardian.com/fashion/2023/may/02/met-gala-2023-cat-jared-leto",
-            "urlToImage": "https://i.guim.co.uk/img/media/5f47a810916dce9bdd209a968e6b66b72be8ea5d/0_435_7773_4664/master/7773.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a8556140293072f0fe43d628f931f52",
-            "publishedAt": "2023-05-02T19:45:00Z",
-            "content": "There was only one winner of the Met Gala red carpet last night: a gargantuan cat costume with whiskers, plush paws and hyper-real blue eyes, which had Jared Leto inside it.\r\nLetos look comfortably o\u2026 [+4052 chars]"
+            "title": "Double Danger for Young Women: High Risk of Rehospitalization After Heart Attack - SciTechDaily",
+            "description": "NIH-supported findings identify risk factors in women and suggest the need for closer monitoring. A study funded by the National Institutes of Health shows that women aged 55 and younger are nearly twice as likely to be rehospitalized within a year of a heart\u2026",
+            "url": "https://scitechdaily.com/?p=273871",
+            "urlToImage": "https://scitechdaily.com/images/Woman-Heart-Attack.jpg",
+            "publishedAt": "2023-05-03T08:23:40Z",
+            "content": "Women aged 55 and younger face nearly twice the risk of rehospitalization in the year following a heart attack compared to similarly aged men, as per a study supported by the National Institutes of H\u2026 [+6262 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
+            },
+            "author": "Kristen Rogers",
+            "title": "Extravagant trains pulled up at this year's Met Gala - CNN",
+            "description": "Elaborate trains were a common theme in outfits celebrities wore to honor the late designer Karl Lagerfeld at the 2023 Met Gala in New York City.",
+            "url": "https://www.cnn.com/style/article/met-gala-2023-trains-trend/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230501204502-48-met-gala-2023-red-carpet-fashion-jeremy-pope.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-03T07:47:00Z",
+            "content": "At the Met Gala in New York City last night, celebrities pulled out all the stops to honor the late designer Karl Lagerfeld, the focus of the Costume Institutes spring exhibition Karl Lagerfeld: A Li\u2026 [+3139 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Go First owner has no plans to exit airline: CEO - Reuters",
+            "description": "Go Airlines (India) Ltd owner Wadia Group is completely committed to the airline and had no plans to exit it, the airline's chief executive told Reuters in an interview on Wednesday.",
+            "url": "https://www.reuters.com/business/aerospace-defense/indigo-shares-surge-after-smaller-rival-go-first-files-bankruptcy-2023-05-03/",
+            "urlToImage": "https://www.reuters.com/resizer/WMj_ftvuFFsIkdshBWa8bqMCKjk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V4VHCJYVTBM5BAMVLIQGSMTGHA.jpg",
+            "publishedAt": "2023-05-03T07:08:00Z",
+            "content": "BENGALURU, May 3 (Reuters) - Go Airlines (India) Ltd owner Wadia Group is completely committed to the airline and had no plans to exit it, the airline's chief executive told Reuters in an interview o\u2026 [+2741 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Alden Gonzalez",
+            "title": "Phillies' Bryce Harper goes hitless in return but 'excited to be back' - ESPN - ESPN",
+            "description": "Returning from Tommy John surgery he had in November, Bryce Harper went 0-for-4 against the Dodgers on Tuesday.",
+            "url": "https://www.espn.com/mlb/story/_/id/37238808/phillies-bryce-harper-goes-hitless-return-excited-back",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0503%2Fr1167809_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-05-03T06:56:15Z",
+            "content": "LOS ANGELES -- Bryce Harper's historically rapid return from Tommy John surgery brought with it questions surrounding timing, particularly his ability to catch up to major league pitching after spend\u2026 [+5729 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
             },
             "author": "",
-            "title": "'The Godfather of AI' quits Google and warns of its dangers. Apple co-founder weighs in - CNN",
-            "description": "Apple co-founder Steve Wozniak joins \"CNN This Morning\" to discuss the impacts of artificial intelligence.",
-            "url": "https://www.cnn.com/videos/business/2023/05/02/steve-wozniak-apple-founder-cnntm-intv-ai-concerns-vpx.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230502083127-steve-wozniak-cnntm.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-02T19:10:03Z",
-            "content": null
+            "title": "Ranking every team's 2023 NFL Draft class: Steelers, Colts crush it; several playoff teams raise questions - CBS Sports",
+            "description": "Keep reading to see how your team did, everything from our favorite picks to best values to most surprising selections",
+            "url": "https://www.cbssports.com/nfl/news/ranking-every-teams-2023-nfl-draft-class-steelers-colts-crush-it-several-playoff-teams-raise-questions/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/02/7f453599-3a88-4664-8187-ecfd77acc953/thumbnail/1200x675/5e1c9123ffe3fa318908f704d9866b99/artboard-2.png",
+            "publishedAt": "2023-05-03T06:44:00Z",
+            "content": "The 2023 NFL Draft is over and all 259 selections have been made. All that's left to do is brace for the knee-jerk reactions from media folk, ourselves included. We liked what most of the teams did o\u2026 [+45412 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "marca",
+                "name": "Marca"
             },
-            "author": ", USA TODAY",
-            "title": "Illinois dust storm crash explained: Did climate change affect it? - USA TODAY",
-            "description": "Climate models show the United States will likely see more dust storms as rising temperatures dry out the ground and rains fall less frequently.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/05/02/illinois-dust-storm-explained-did-climate-change-affect-it/70173197007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/02/USAT/ced95be6-4ee4-40bb-8b81-f2c31f943f6d-AP23121748686765.jpg?auto=webp&crop=1499,844,x0,y400&format=pjpg&width=1200",
-            "publishedAt": "2023-05-02T18:56:15Z",
-            "content": "The National Weather Service office in Springfield, Illinois, issued a blowing-dust warning Monday for the first time ever after a blinding dust storm sprang up south of Springfield, Illinois, causin\u2026 [+6222 chars]"
+            "author": "LW",
+            "title": "Jamie Foxx's doing better, friends call for prayers as Oscar winner actor remains hospitalized - Marca English",
+            "description": "Jamie Foxx, the Academy Award-winning actor, has been hospitalized since April 11, and his close friend Charles Alston, also known as &quot;Charlie Mack&quot; or &quot;Mr. Philadel",
+            "url": "https://www.marca.com/en/lifestyle/celebrities/2023/05/03/6451ea8b46163f04288b4600.html",
+            "urlToImage": "https://phantom-marca.unidadeditorial.es/d20a6d6b81dc4db6db593d893e71fa32/resize/1200/f/jpg/assets/multimedia/imagenes/2023/05/03/16830887014399.jpg",
+            "publishedAt": "2023-05-03T05:20:56Z",
+            "content": "Jamie Foxx, the Academy Award-winning actor, has been hospitalized since April 11, and his close friend Charles Alston, also known as \"Charlie Mack\" or \"Mr. Philadelphia,\" has taken to Instagram to a\u2026 [+2037 chars]"
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Julia Jacobo",
-            "title": "Divers find underwater hospital, cemetery off coast of Key West - ABC News",
-            "description": "The 19th century hospital was used to treat patients with yellow fever.",
-            "url": "https://abcnews.go.com/US/divers-find-underwater-hospital-cemetery-off-coast-key/story?id=99011906",
-            "urlToImage": "https://s.abcnews.com/images/US/underwater-cemetery-ht-jt-230502_1683040613995_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-05-02T18:28:45Z",
-            "content": "The archeological remains of a 19th century hospital and cemetery have been found on a submerged island near Garden Key, the second-largest island in the Dry Tortugas National Park near Key West, Flo\u2026 [+3287 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "James Harden, 76ers take 1-0 lead over Celtics, LeBron's respect for Steph Curry | NBA | THE HERD - The Herd with Colin Cowherd",
-            "description": "James Harden dropped 45 points and led the Philadelphia 76ers to a Game 1 upset win over the Boston Celtics last night. Tonight, LeBron James and Steph Curry...",
-            "url": "https://www.youtube.com/watch?v=nUjrGfSPC7M",
-            "urlToImage": "https://i.ytimg.com/vi/nUjrGfSPC7M/maxresdefault.jpg",
-            "publishedAt": "2023-05-02T18:16:50Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Isabel Coles",
-            "title": "Ukraine Seeks to Bolster Air Defenses After Russian Missile Barrages - The Wall Street Journal",
-            "description": "Strikes come after purported U.S. documents showed Ukraine running low on antiaircraft missiles",
-            "url": "https://www.wsj.com/articles/ukraine-seeks-to-bolster-air-defenses-after-russian-missile-barrages-e55a4b83",
-            "urlToImage": "https://images.wsj.net/im-773929/social",
-            "publishedAt": "2023-05-02T18:11:00Z",
-            "content": null
+            "author": "Namita Singh",
+            "title": "Oklahoma bodies found - latest: Seven dead in Henryetta were shot by convicted rapist, grandmother claims - The Independent",
+            "description": "Jesse McFadden was set to appear in court on day of gruesome discovery",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/oklahoma-bodies-found-henryetta-missing-teens-jesse-mcfadden-b2331356.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/02/02/Missing_Teens_Bodies_Found_Oklahoma_48924.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-05-03T04:30:33Z",
+            "content": "They let a monster out, angry father lashes out at law enforcement\r\nTwo missing teenage girls have been found dead in a house in Oklahoma, along with their suspected abductor and four other people, a\u2026 [+2190 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Sports Illustrated"
             },
-            "author": null,
-            "title": "Xbox PC Game Pass - Official Friend Referral Trailer - IGN",
-            "description": "Microsoft's Xbox PC Game Pass has unveiled an official Friend Referral Trial Program for new members of PC Game Pass. New members can now give five friends a...",
-            "url": "https://www.youtube.com/watch?v=EynXxPuj8fo",
-            "urlToImage": "https://i.ytimg.com/vi/EynXxPuj8fo/maxresdefault.jpg",
-            "publishedAt": "2023-05-02T17:30:02Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Olivia Land",
-            "title": "Oklahoma teen found dead was set to represent town at state beauty pageant: father - New York Post ",
-            "description": "The bodies of Brittany Brewer, 16, and her friend were discovered alongside five others on Monday.",
-            "url": "https://nypost.com/2023/05/02/oklahoma-teen-brittany-brewer-was-set-to-represent-town-at-pageant-father/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000010493925-1.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-05-02T17:15:00Z",
-            "content": "A missing teen girl who was found dead on a rural Oklahoma property along with six other people, including a convictedsex offender, was set to represent her town at a state beauty pageant this summer\u2026 [+2416 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Laya's Horizon on Netflix makes flying both exhilarating and soothing - The Verge",
-            "description": "Laya\u2019s Horizon is the latest game from Snowman, the team behind Alto\u2019s Odyssey, and it\u2019s available to Netflix subscribers on iPhone and Android on May 2nd.",
-            "url": "https://www.theverge.com/23707873/layas-horizon-netflix-game-iphone-android",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/0odkEcaw7nWcUojomBUM2pdVK2E=/0x0:3840x2160/1200x628/filters:focal(1232x1199:1233x1200)/cdn.vox-cdn.com/uploads/chorus_asset/file/24626955/Laya_Perched_Night.png",
-            "publishedAt": "2023-05-02T17:00:00Z",
-            "content": "Layas Horizon on Netflix makes flying both exhilarating and soothing\r\nLayas Horizon on Netflix makes flying both exhilarating and soothing\r\n / The latest game from the team behind Altos Odyssey is ou\u2026 [+4815 chars]"
+            "author": "Frankie Taddeo",
+            "title": "Shaq Offers Blunt Reality Check for Grizzlies\u2019 Dillon Brooks - Sports Illustrated",
+            "description": "Shaquille O'Neal didn\u2019t hold back on what he sees the future holding for the NBA\u2019s newest villain.",
+            "url": "https://www.si.com/extra-mustard/2023/05/03/shaq-offers-blunt-reality-check-grizzlies-dillon-brooks",
+            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk3Njc2MTA0Njc5NDMzNTE3/shaq2.jpg",
+            "publishedAt": "2023-05-03T03:58:04Z",
+            "content": "Four-time NBA champion Shaquille O'Neal didn\u2019t hold back on what he sees the future holding for the NBA\u2019s newest villain,\u00a0Dillon Brooks.\r\nThe Athletic\u2019s Shams Charania reported Monday that the Memphi\u2026 [+1292 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Ashley Strickland",
-            "title": "Webb telescope detects mysterious water vapor in a nearby star system - CNN",
-            "description": "The James Webb Space Telescope has detected water vapor around a rocky exoplanet located 26 light-years away from Earth. Astronomers are trying to determine whether that water vapor indicates an atmosphere.",
-            "url": "https://www.cnn.com/2023/05/02/world/webb-telescope-planet-star-atmosphere-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230501135336-01-exoplanet-gj-486-b.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-02T16:53:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe James Webb Space Telescope has detected water vapo\u2026 [+4837 chars]"
+            "author": "Jennifer Korn",
+            "title": "Why the 'Godfather of AI' decided he had to 'blow the whistle' on the technology - CNN",
+            "description": "Geoffrey Hinton, also known as the \"Godfather of AI,\" decided he had to \"blow the whistle\" on the technology he helped develop after worrying about how smart it was becoming, he told CNN on Tuesday.",
+            "url": "https://www.cnn.com/2023/05/02/tech/hinton-tapper-wozniak-ai-fears/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230502172638-geoffrey-hinton-the-lead-0502.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-03T03:23:00Z",
+            "content": "Geoffrey Hinton, also known as the Godfather of AI, decided he had to blow the whistle on the technology he helped develop after worrying about how smart it was becoming, he told CNN on Tuesday.\r\nIm \u2026 [+2915 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Deadline"
             },
-            "author": "Andy Behrens",
-            "title": "Post-2023 NFL Draft Dynasty Rookie Fantasy Rankings: There's a clear 1-2 in mock, but rest of class is up for debate - Yahoo Sports",
-            "description": "The two RBs drafted in Round 1 stand alone when it comes to clear fantasy value. How do the rest of the rookies stack up? Andy Behrens takes a closer look in...",
-            "url": "https://sports.yahoo.com/post-2023-nfl-draft-dynasty-rookie-fantasy-rankings-theres-a-clear-1-2-in-mock-but-rest-of-class-is-up-for-debate-165244387.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4jjsv_YWZD02IaTZsUzo5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-04/ac0dd6b0-e788-11ed-ac9f-ef3bb50ef21f",
-            "publishedAt": "2023-05-02T16:52:44Z",
-            "content": "Because we realize the clock starts ticking on rookie dynasty drafts almost as soon as the actual NFL Draft wraps up, we're wasting no time getting a set of ranks live, for immediate use. This year's\u2026 [+10813 chars]"
+            "author": "Armando Tinoco",
+            "title": "Elon Musk Threatens To Transfer NPR\u2019s Twitter Handle To \u201cAnother Company\u201d - Deadline",
+            "description": "Elon Musk continues to taunt NPR and is now reportedly threatening to transfer their Twitter handle to \u201canother company.\u201d Reporter Bobby Allen shared that in a series of emails from the\u2026",
+            "url": "https://deadline.com/2023/05/elon-musk-threatens-transfer-npr-twitter-handle-another-company-1235354636/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/elon-musk-twitter-npr.jpg?w=1024",
+            "publishedAt": "2023-05-03T02:51:00Z",
+            "content": "Elon Musk continues to taunt NPR and is now reportedly threatening to transfer their Twitter handle to \u201canother company.\u201d\r\nReporter Bobby Allen shared that in a series of emails from the CEO of the s\u2026 [+1268 chars]"
         }
     ]
 }
