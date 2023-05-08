@@ -4,94 +4,42 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "The Japan Times"
             },
-            "author": "John Miller,Ashley Killough,Andy Rose",
-            "title": "Authorities confirm 9 deaths in Texas mall shooting; at least seven are hospitalized - CNN",
-            "description": "Eight people were killed in a shooting at an outlet mall near Dallas, and seven victims are being treated at trauma facilities, officials said Saturday night. The gunman, who authorities believe was acting alone, is also dead.",
-            "url": "https://www.cnn.com/2023/05/06/us/allen-texas-mall-shooter-reports/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230506173746-01-allen-texas-outlet-mall-active-shooter-050623.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-07T02:28:00Z",
-            "content": "Eight people were killed in a shooting at an outlet mall near Dallas, and seven victims are being treated at trauma facilities, officials said Saturday night. The gunman, who authorities believe was \u2026 [+3848 chars]"
+            "author": "Jesse Johnson",
+            "title": "Kishida and Yoon hail improved ties as 'shuttle diplomacy' resumes - The Japan Times",
+            "description": "Prime Minister Fumio Kishida met with South Korean President Yoon Suk-yeol on Sunday, becoming the first Japanese leader to conduct an official bilateral visit to Seoul in over 12 years.",
+            "url": "https://www.japantimes.co.jp/news/2023/05/07/national/politics-diplomacy/kishida-south-korea-visit-yoon-talks/",
+            "urlToImage": "https://cdn-japantimes.com/wp-content/uploads/2023/05/np_file_226070-870x489.jpeg",
+            "publishedAt": "2023-05-07T11:14:30Z",
+            "content": "Prime Minister Fumio Kishida said his heart aches over Japans colonial rule of the Korean Peninsula, speaking after a meeting Sunday with South Korean leader Yoon Suk-yeol in Seoul the first such bil\u2026 [+1063 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "The Guardian"
             },
-            "author": "Brent Brookhouse",
-            "title": "Canelo Alvarez vs. John Ryder fight results: Live boxing updates, scorecard, start time, undercard - CBS Sports",
-            "description": "The pair of super middleweights collide in Guadalajara, Mexico with an undisputed title on the line",
-            "url": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-john-ryder-fight-results-live-boxing-updates-scorecard-start-time-undercard/live/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/06/c4aece0f-bcd4-4821-bbfc-9e218736a3bd/thumbnail/1200x675/908d9d28090f382308e5173d78f86f20/canelo-ryder-weighin.jpg",
-            "publishedAt": "2023-05-07T02:27:00Z",
-            "content": "Mexico's biggest modern boxing star returns home on Saturday as Saul \"Canelo\" Alvarez defends his undisputed super middleweight championship against John Ryder at Estadio Akron in Guadalajara. The fi\u2026 [+1758 chars]"
+            "author": "Tom Perkins",
+            "title": "US food pesticides contaminated with toxic 'forever chemicals' testing finds - The Guardian",
+            "description": "PFAS are present at \u2018potentially dangerous\u2019 levels in widely used chemicals sprayed on food crops destined for Americans\u2019 plates",
+            "url": "https://www.theguardian.com/environment/2023/may/07/food-pesticides-toxic-forever-chemicals-pfas",
+            "urlToImage": "https://i.guim.co.uk/img/media/94d137ce11063ba2f185748a74983b3c76e274ed/0_173_5200_3120/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=671464626d8159683aaf84b908dadf21",
+            "publishedAt": "2023-05-07T10:23:00Z",
+            "content": "Some of the United States most widely used food pesticides are contaminated with potentially dangerous levels of toxic PFAS forever chemicals, new testing of the products finds.\r\nThe Environmental Pr\u2026 [+10565 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": null,
-            "title": "California's Black reparations panel approves recommendations including payments, apology - CBS News",
-            "description": "The nine-member committee gave final approval at a meeting in Oakland to a hefty list of proposals that now go to state lawmakers to consider for reparations legislation.",
-            "url": "https://www.cbsnews.com/news/californias-black-reparations-panel-approves-payments-apology/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/06/a9a20cdc-498f-4a34-9450-67e4bbfc8438/thumbnail/1200x630/2dc605f0ddbe44d86d0a7538aba482a4/statehouseca.jpg",
-            "publishedAt": "2023-05-07T01:38:00Z",
-            "content": "California's reparations task force voted Saturday to approve recommendations on how the state may compensate and apologize to Black residents for generations of harm caused by discriminatory policie\u2026 [+5566 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Haley Ott, Tucker Reals",
-            "title": "King Charles III and Queen Camilla officially crowned in coronation ceremony - CBS News",
-            "description": "Get live coverage and the latest coronation day updates as Britain's King Charles III and Queen Camilla are formally crowned in an ancient ceremony.",
-            "url": "https://www.cbsnews.com/live-updates/coronation-live-coverage-king-charles-iii-camilla-ceremony-2023-latest/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/06/1e5c1ba3-256c-4ef6-a9de-828978c7e1c2/thumbnail/1200x630/e09607affb274365deaf95a61cf885ee/charles-camilla-buckingham-palace-1487953811.jpg",
-            "publishedAt": "2023-05-07T01:07:00Z",
-            "content": "Despite a cloudy sky and drizzle, hardy souls emerged from tents and others started flocking into central London Saturday morning to witness what they could of King Charles III's coronation ceremony.\u2026 [+1230 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Armando Tinoco",
-            "title": "Former Yahoo CEO Marissa Mayer Regrets Buying Tumblr Instead Of Netflix Or Hulu As It \u201cWould Have Been A Better Acquisition\u201d - Deadline",
-            "description": "Marissa Mayer, the former CEO of Yahoo, is recalling her time at the tech company and opening up about some regrets. During Mayer\u2019s tenure at the top of Yahoo, the company bought the microblo\u2026",
-            "url": "https://deadline.com/2023/05/former-yahoo-ceo-marissa-mayer-regrets-buying-tumblr-instead-netflix-hulu-would-have-been-a-better-acquisition-1235358501/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/marissa-mayer-yahoo-tumblr.jpg?w=1024",
-            "publishedAt": "2023-05-07T00:58:00Z",
-            "content": "Marissa Mayer, the former CEO of Yahoo, is recalling her time at the tech company and opening up about some regrets.\r\nDuring Mayer\u2019s tenure at the top of Yahoo, the company bought the microblogging p\u2026 [+1419 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Sports Staff",
-            "title": "NBA playoffs: Warriors-Lakers Game 3 live updates, lineups, injury report, how to watch, TV channel - Yahoo Sports",
-            "description": "Follow Yahoo Sports for live updates from Game 3.",
-            "url": "https://sports.yahoo.com/nba-playoffs-warriors-lakers-game-3-live-updates-lineups-injury-report-how-to-watch-tv-channel-223053483.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gNMvAU5vK6tjDNNPn7c8CQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/058411e0-ebdb-11ed-9fd3-aa9984726fbf",
-            "publishedAt": "2023-05-07T00:29:00Z",
-            "content": "The Los Angeles Lakersstole Game 1 on the road, then the Golden State Warriorsgot a little revenge with a blowout victory in Game 2. Now, the series shifts to Los Angeles for Game 3 on Saturday, and \u2026 [+1089 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Beth Harris",
-            "title": "Mage wins star-crossed Kentucky Derby amid 7th death - The Associated Press",
-            "description": "LOUISVILLE, Ky. (AP) \u2014 After seven deaths raised questions about the future of horse racing, Mage earned a surprising Kentucky Derby victory on Saturday, capping a nerve-rattling day that included two more fatalities ahead of the 149th edition of the world\u2019s \u2026",
-            "url": "https://apnews.com/article/2023-kentucky-derby-live-updates-02c48f133ca75e513fceb967eff75495",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1dfc314f9a0c403ea0823dfb206f2cf0/3000.webp",
-            "publishedAt": "2023-05-06T23:45:55Z",
-            "content": "LOUISVILLE, Ky. (AP) After seven deaths raised questions about the future of horse racing, Mage earned a surprising Kentucky Derby victory on Saturday, capping a nerve-rattling day that included two \u2026 [+5175 chars]"
+            "author": "Max Colchester",
+            "title": "Prince Harry Sidelined at King Charles III's Coronation - The Wall Street Journal",
+            "description": "Duke of Sussex plays minor role in father\u2019s big day, underscoring enduring rift in royal family",
+            "url": "https://www.wsj.com/articles/prince-harry-sidelined-at-king-charles-iiis-coronation-ee80d354",
+            "urlToImage": "https://images.wsj.net/im-777332/social",
+            "publishedAt": "2023-05-07T09:30:00Z",
+            "content": null
         },
         {
             "source": {
@@ -99,12 +47,38 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "'Wasn't time for reconciliation': Prince Harry relegated to third row | 9 News Australia - 9 News Australia",
-            "description": "It\u2019s been revealed Prince Harry rejected a royal family reception following his father's coronation to fly back to California for his son Archie\u2019s 4th birthd...",
-            "url": "https://www.youtube.com/watch?v=bAmuTgMQq6E",
-            "urlToImage": "https://i.ytimg.com/vi/bAmuTgMQq6E/maxresdefault.jpg",
-            "publishedAt": "2023-05-06T23:05:47Z",
-            "content": null
+            "title": "Ukraine counter-offensive underway says Wagner Chief Yevgeny Prigozhin | Russia-Ukraine war | WION - WION",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=9fwYetv8rus",
+            "urlToImage": null,
+            "publishedAt": "2023-05-07T09:06:59Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Zakhar Prilepin: Russian pro-war writer hit by car bomb out of coma - BBC",
+            "description": "Investigators claim a man, who allegedly detonated the bomb remotely, was working for Ukraine.",
+            "url": "https://www.bbc.com/news/world-europe-65516630",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85E0/production/_129627243_gettyimages-1203490269.jpg",
+            "publishedAt": "2023-05-07T09:00:54Z",
+            "content": "A Russian pro-war writer who was seriously injured in a car bomb on Saturday is out of a medically induced coma, his spokeswoman says. \r\nZakhar Prilepin, a vehement supporter of Russia's campaign in \u2026 [+3377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Edward Helmore",
+            "title": "The digital media bubble has burst. Where does the industry go from here? - The Guardian",
+            "description": "Buzzfeed, Vice, Gawker and Drudge Report are all traffic-war casualties, but they succeeded in shaking up the media landscape",
+            "url": "https://www.theguardian.com/media/2023/may/07/the-digital-media-bubble-has-burst-where-does-the-industry-go-from-here",
+            "urlToImage": "https://i.guim.co.uk/img/media/745cd8a93904d64fd2145843f17b8627350392e2/0_427_6500_3902/master/6500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e55b1262f7a4e3fbe8ecb1978e65fa7e",
+            "publishedAt": "2023-05-07T09:00:00Z",
+            "content": "Toward the end of Traffic, a new account of the early rock n roll years of internet publishing, Ben Smith writes that the failings of Buzzfeed News had come about as a result of a utopian ideology, f\u2026 [+5929 chars]"
         },
         {
             "source": {
@@ -112,155 +86,181 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Warren Buffett faults handling of bank failures, upbeat on U.S., Berkshire - Reuters",
-            "description": "Warren Buffett on Saturday criticized the handling of recent tumult in the banking sector and said a debt ceiling showdown could bring \"turmoil\" to the financial system, even as he offered a vote of confidence in the United States and his conglomerate Berkshi\u2026",
-            "url": "https://www.reuters.com/business/buffett-says-he-cannot-imagine-us-debt-default-2023-05-06/",
-            "urlToImage": "https://www.reuters.com/resizer/I1rQGkO8X99jN2LpFwV-lZ-JQBg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ER7G7RGERFKTPDYZNACIMGVHDE.jpg",
-            "publishedAt": "2023-05-06T22:59:00Z",
-            "content": "OMAHA, Nebraska, May 6 (Reuters) - Warren Buffett on Saturday criticized the handling of recent tumult in the banking sector and said a debt ceiling showdown could bring \"turmoil\" to the financial sy\u2026 [+5701 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Jeff Borzello",
-            "title": "Bronny James, No. 19 recruit in 2023, commits to USC - ESPN - ESPN",
-            "description": "Four-star guard Bronny James, son of NBA superstar LeBron James, announced his commitment to USC on Saturday.",
-            "url": "https://www.espn.com/mens-college-basketball/story/_/id/37528265/bronny-james-no-19-recruit-2023-commits-usc",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0329%2Fr1151200_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-05-06T22:34:00Z",
-            "content": "Four-star guard Bronny James, son of NBA superstar LeBron James, announced his commitment to USC on Saturday.\r\nBronny James made the announcement on Instagram.\r\nA 6-foot-3 guard from Cleveland who at\u2026 [+2635 chars]"
+            "title": "Inside Westminster Abbey during King Charles' coronation - Reuters UK",
+            "description": "The explosive crescendo of \"Zadok the Priest\", Handel's soaring anthem composed nearly 300 years ago for the crowning of King George III, marked the most sacred moment of Charles' coronation on Saturday.",
+            "url": "https://www.reuters.com/world/uk/king-charles-coronation-blends-splendour-intimacy-inside-westminster-abbey-2023-05-06/",
+            "urlToImage": "https://www.reuters.com/resizer/gFi6ecA7IL89jWsJ4nmYaEdI1A0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G5B3OA5OOZKKDAYKLJWSJRUJUQ.jpg",
+            "publishedAt": "2023-05-07T08:59:00Z",
+            "content": "WESTMINSTER ABBEY, London, May 6 (Reuters) - The explosive crescendo of \"Zadok the Priest\", Handel's soaring anthem composed nearly 300 years ago for the crowning of King George III, marked the most \u2026 [+3177 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "9to5google.com"
             },
-            "author": "Maya Yang",
-            "title": "Richard Dreyfuss says Oscar diversity rules \u2018make me vomit\u2019 - The Guardian",
-            "description": "Jaws star went on to defend Laurence Olivier\u2019s performance in blackface in the 1965 adaptation of Othello",
-            "url": "https://www.theguardian.com/film/2023/may/06/richard-dreyfuss-says-oscar-diversity-rules-make-me-vomit",
-            "urlToImage": "https://i.guim.co.uk/img/media/0b18ef07145494e2ff15e7ce3f92ce34b94c3841/0_141_3600_2160/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e1f015dca233f757f435a8040fc7c38",
-            "publishedAt": "2023-05-06T22:33:00Z",
-            "content": "Academy Award-winning actor Richard Dreyfuss has harshly criticized the Oscars new diversity and inclusion standards, saying they make me vomit.\r\nIn an interview with PBSs Firing Line, the co-star of\u2026 [+7854 chars]"
+            "author": "Abner Li",
+            "title": "Pixel Tablet leak reveals screen and battery specs, release date, more - 9to5Google",
+            "description": "According to an Amazon listing leak, the Pixel Tablet will be released on June 20 in Japan, while other keys specs have also emerged.",
+            "url": "https://9to5google.com/2023/05/07/pixel-tablet-specs-leak/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/04/google-pixel-tablet-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-05-07T08:22:00Z",
+            "content": "According to an early Amazon listing that has since been removed, the Pixel Tablet will be released on June 20 in Japan, while other key specs have also now emerged thanks to this leak.\r\nAs captured \u2026 [+1453 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Atlanta Journal Constitution"
+                "name": "BBC News"
             },
-            "author": "Tamar Hallerman",
-            "title": "Eight Georgia GOP electors accept immunity deals in Fulton Trump probe -  The Atlanta Journal Constitution",
-            "description": "",
-            "url": "https://www.ajc.com/politics/eight-gop-electors-accept-immunity-deals-in-fulton-trump-probe/VWJO62QAMFAZXJYDPVDJ3DHFI4/",
-            "urlToImage": "https://www.ajc.com/resizer/JRLOqD89TeSPGCdLBn0yg3_4bog=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/IY2VDKYUBBGSZKIKPCCCXD3ZYI.jpg",
-            "publishedAt": "2023-05-06T22:22:12Z",
-            "content": "Prosecutors have indicated theyre interested in the documents the GOP activists submitted to the National Archives following a ceremony in the state Capitol on Dec. 14, 2020, in which they claimed to\u2026 [+4425 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: 'Mad panic' as Russia evacuates town near Zaporizhzhia plant - BBC",
+            "description": "UN watchdog warns of \"threat of a severe nuclear accident\" at the Zaporizhzhia plant in Ukraine.",
+            "url": "https://www.bbc.com/news/world-europe-65515443",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16B90/production/_129627039_4eba4f6a-8816-4ce3-829f-277b80e74637.jpg",
+            "publishedAt": "2023-05-07T07:59:52Z",
+            "content": "Russia has sparked a \"mad panic\" as it evacuates a town near the contested Zaporizhzhia nuclear power plant, a Ukrainian official says.\r\nRussia has told people to leave 18 settlements in the Zaporizh\u2026 [+2702 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "wdwnt.com"
+                "name": "The Athletic"
             },
-            "author": "JessH",
-            "title": "Disney Demands Showrunners Work During WGA Writers Strike - WDW News Today",
-            "description": "Disney and Warner Bros. Studios Are Demanding Showrunners Work During Writers Strike",
-            "url": "https://wdwnt.com/2023/05/disney-and-warner-bros-studios-are-demanding-showrunners-work-during-writers-strike/",
-            "urlToImage": "https://media.wdwnt.com/2023/04/Writers-Guild-of-America-Strike-Authorization-Vote-April-2023-.jpeg",
-            "publishedAt": "2023-05-06T22:02:25Z",
-            "content": "Studios such as Disney and Warner Bros. Studios are starting to demand that writers must perform non-writing duties and may have to act against their guild\u2019s own mandates during the writers strike.\r\n\u2026 [+3739 chars]"
+            "author": "Law Murray",
+            "title": "How the Lakers are using their advantage at the free-throw line to beat the Warriors - The Athletic",
+            "description": "The Lakers outscored the Warriors 28-12 from the free-throw line. Anthony Davis attempted as many free throws as the Warriors made.",
+            "url": "https://theathletic.com/4495474/2023/05/07/lakers-beat-warriors/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/05/07031704/davis.0506-scaled-e1683443845385-1024x683.jpeg",
+            "publishedAt": "2023-05-07T07:39:19Z",
+            "content": "LOS ANGELES It was a first quarter that no one had ever seen before from LeBron James in the postseason: no field goal attempts. James saw DAngelo Russell score the first 11 points of Game 3 for the \u2026 [+8585 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Rich Calder",
-            "title": "Ex-UC Davis student Carlos Dominguez claims innocence in deadly stabbings - New York Post ",
-            "description": "The 20-year-old was booted from the school for poor academic performance less than two days before the attacks began.",
-            "url": "https://nypost.com/2023/05/06/carlos-dominguez-pleads-not-guilty-to-deadly-california-stabbings/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000010721237.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-05-06T21:39:00Z",
-            "content": "A former University of California, Davis student charged in serial stabbings that left two men dead and a homeless woman hospitalized claims hes innocent.\r\nWearing an anti-suicide vest and chained at\u2026 [+3403 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Andrew Miller",
-            "title": "Biden touts 82-year-old age in 2024 as a benefit: 'I know more than the vast majority of people' - Fox News",
-            "description": "President Biden suggested his age is a benefit in a recent interview with MSNBC on Friday where he said that he knows more than the \"vast majority\" of people.",
-            "url": "https://www.foxnews.com/politics/biden-touts-82-year-old-age-2024-benefit-know-more-vast-majority-people",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/biden-brighter.jpg",
-            "publishedAt": "2023-05-06T21:09:00Z",
-            "content": "President Joe Biden attempted to ease concerns about his age in an interview Friday by framing his 80 years of life experience as a positive rather than a negative.\r\n\"Because I have acquired a hell o\u2026 [+2724 chars]"
+            "author": "Kevin Iole",
+            "title": "UFC 288: Aljamain Sterling, Henry Cejudo headed in opposite directions after close title fight - Yahoo Sports",
+            "description": "Sterling was joyful after beating Cejudo, and eager to shut up future challenger Sean O'Malley. After losing to Sterling in the main event of UFC 288, Cejudo...",
+            "url": "https://sports.yahoo.com/ufc-288-aljamain-sterling-henry-cejudo-headed-in-opposite-directions-after-close-title-fight-072818299.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6ltYcrwgN9NBJkxpE4lqBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/dee2a030-eca0-11ed-b7ff-4344e7549d08",
+            "publishedAt": "2023-05-07T07:28:18Z",
+            "content": "Henry Cejudo said he tried to climb Mount Everest, and took little solace that he nearly reached the summit. The 2008 Olympic gold medalist ended a three-year retirement from the UFC with a near-miss\u2026 [+5356 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "William Booth, Karla Adam",
-            "title": "King Charles III coronation highlights: a celebration medieval and modern - The Washington Post",
-            "description": "King Charles III finally sat on his Coronation Chair, above the Stone of Destiny, while a heavy crown was fitted upon his head.",
-            "url": "https://www.washingtonpost.com/world/2023/05/06/coronation-highlights-king-charles/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-06-2023/t_9cedc5d5c3824279a09f3e495c37faac_name_Wrap_1_TB_1.jpg&w=1440",
-            "publishedAt": "2023-05-06T20:38:21Z",
-            "content": "Comment on this story\r\nComment\r\nLONDON After the longest wait ever, King Charles III finally sat on his Coronation Chair, above the Stone of Destiny, while a heavy golden crown was fitted upon his he\u2026 [+6994 chars]"
+            "author": "Rachel Pannett, Leo Sands",
+            "title": "Russia-Ukraine war news: Kyiv celebrates claim to have shot down hypersonic missile - The Washington Post",
+            "description": "The apparent defense milestone over the skies of Kyiv comes as officials worry that their long planned counteroffensive may not live up to expectations.",
+            "url": "https://www.washingtonpost.com/world/2023/05/07/russia-ukraine-war-news/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2T5JN3SSIXL6OKLSFFLXMGUIEY_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-05-07T06:46:31Z",
+            "content": "Ukraines air force claims to have successfully shot down one of Russias most sophisticated conventional weapons using a U.S.-made Patriot air defense missile. The Kinzhal, or dagger, hypersonic missi\u2026 [+4304 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "BBC News"
             },
-            "author": "",
-            "title": "Unsold Yeezys collect dust as Adidas lags on a plan to repurpose them - NPR",
-            "description": "Investors have been asking for Adidas' plan to repurpose unsold Yeezy products for months. On Friday, the company said it would likely settle on a plan in the \"mid-term.\"",
-            "url": "https://www.npr.org/2023/05/06/1174518127/kanye-west-unsold-yeezy-adidas-repurpose",
-            "urlToImage": "https://media.npr.org/assets/img/2023/05/06/gettyimages-1333803087_wide-2e6320ee535ea5acbc492e1bf46feee6e13edce5-s1400-c100.jpg",
-            "publishedAt": "2023-05-06T20:28:29Z",
-            "content": "Adidas cut ties with Ye, formerly known as Kanye West, back in October after the rapper made antisemitic comments.\r\nJoe Raedle/Getty Images\r\nMore than six months after Adidas cut ties with Ye, former\u2026 [+1860 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Texas shooting: Eight killed by gunman in Allen mall - BBC",
+            "description": "A police officer on an unrelated call at the mall in Allen killed the gunman after hearing shots.",
+            "url": "https://www.bbc.com/news/world-us-canada-65515915",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5372/production/_129626312_mediaitem129626308.jpg",
+            "publishedAt": "2023-05-07T06:25:12Z",
+            "content": "Media caption, Watch: Gunfire heard as people flee Texas mall\r\nA gunman has shot and killed eight people shopping at a mall north of Dallas, Texas, emergency services say.\r\nHundreds of people were ev\u2026 [+3286 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "DW (English)"
+                "name": "CBS Sports"
             },
-            "author": "Deutsche Welle",
-            "title": "Ukraine updates: Kyiv 'shot down' Russian hypersonic missile - DW (English)",
-            "description": "Ukraine's air force commander said the missile was shot down using a US Patriot defense system. Meanwhile, a Russian author was reportedly injured in a bombing, which killed another person. DW has the latest.",
-            "url": "https://www.dw.com/en/ukraine-updates-kyiv-shot-down-russian-hypersonic-missile/a-65536880",
-            "urlToImage": "https://static.dw.com/image/65535374_6.jpg",
-            "publishedAt": "2023-05-06T20:03:45Z",
-            "content": "Ukraine said it has shot down a Russian hypersonic missile over Kyiv using newly acquired US-made\u00a0Patriot defense systems.\r\nUkrainian Air Force\u00a0commander Mykola Oleshchuk announced the operation on T\u2026 [+6269 chars]"
+            "author": "Brent Brookhouse",
+            "title": "Canelo Alvarez vs. John Ryder fight results, highlights: Mexican superstar scores decisive win in homecoming - CBS Sports",
+            "description": "Alvarez battered and dropped Ryder en route to a decision in Guadalajara on Saturday night",
+            "url": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-john-ryder-fight-results-highlights-mexican-superstar-scores-decisive-win-in-homecoming/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/07/5b2d98a4-9d5b-4392-b19f-15e685894b26/thumbnail/1200x675/6fa59c2226d78b922add7d69359f56c4/canelo-walkaway-ryder.jpg",
+            "publishedAt": "2023-05-07T06:15:26Z",
+            "content": "Saul \"Canelo\" Alvarez is still king of the super middleweights. Alvarez retained his undisputed super middleweight championship on Saturday night, bludgeoning John Ryder over 12 rounds to win a wide \u2026 [+4344 chars]"
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Brad Dress",
-            "title": "Why Russia\u2019s Wagner Group leader is \u2018yelling mutiny\u2019 in Ukraine war - The Hill",
-            "description": "The announced withdrawal of Wagner Group fighters from the town of Bakhmut is another setback for Russia at a crucial moment in its war in Ukraine, exposing an enormous rift between the figures leading the effort just as Kyiv prepares to launch a counteroffen\u2026",
-            "url": "https://thehill.com/policy/defense/3991049-why-russias-wagner-group-leader-is-yelling-mutiny-in-ukraine-war/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/military_ukraine_050523ap_wagner.jpg?w=1280",
-            "publishedAt": "2023-05-06T20:00:00Z",
-            "content": "Skip to content\r\nThe announced withdrawal of Wagner Group fighters from the town of Bakhmut is another setback for Russia at a crucial moment in its war in Ukraine, exposing an enormous rift between \u2026 [+6342 chars]"
+            "author": null,
+            "title": "Bad Bunny vs. Damian Priest - San Juan Street Fight: WWE Backlash 2023 highlights - WWE",
+            "description": "Music sensation Bad Bunny brings Puerto Rico to its feet in an all-out San Juan Street Fight with The Judgment Day's Damian Priest. Catch WWE action on Peaco...",
+            "url": "https://www.youtube.com/watch?v=1_hMh9B3Py0",
+            "urlToImage": "https://i.ytimg.com/vi/1_hMh9B3Py0/maxresdefault.jpg",
+            "publishedAt": "2023-05-07T04:00:46Z",
+            "content": null
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Jordan Hart",
-            "title": "Google passwords will be replaced by passkeys. Here's how they differ. - Business Insider",
-            "description": "Instead of entering a password, users would simply verify their identity on a trusted device with a PIN, fingerprint, or face scan, Google said.",
-            "url": "https://www.businessinsider.com/google-passwords-replaced-by-passkeys-heres-how-they-differ-2023-5",
-            "urlToImage": "https://i.insider.com/645695956a3ee80019092366?width=1200&format=jpeg",
-            "publishedAt": "2023-05-06T19:49:00Z",
-            "content": "That old password you've been recycling for years may soon be obsolete as Google moves toward a new way for users to access their online accounts.\r\nThe tech giant said it's adding passkeys as \"a safe\u2026 [+1193 chars]"
+            "author": null,
+            "title": "17-year-old killed, 5 hurt in Chico house party shooting - ABC10",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=h20twkEkXCs",
+            "urlToImage": null,
+            "publishedAt": "2023-05-07T03:49:04Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Carly Thomas, Carly Thomas",
+            "title": "TV Shows, Movies Impacted by WGA Writers Strike - Hollywood Reporter",
+            "description": "'Stranger Things,' 'Blade,' and 'Loot' are among the shows and films affected by the labor unrest between the Writers Guild and studios and streamers.",
+            "url": "https://www.hollywoodreporter.com/lists/tv-shows-movies-affected-by-wga-writers-strike/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/Stranger-Things-Loot-publicity-H-2023.jpg?w=1024",
+            "publishedAt": "2023-05-07T03:16:45Z",
+            "content": "A number of television shows and movies are being affected by the writers strike after negotiations faltered between the Writers Guild of America and the Alliance of Motion Picture and Television Pro\u2026 [+3042 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Michelle Miller",
+            "title": "Diana Duve's murder investigation uncovers her killer Michael Jones's criminal past, web of lies - CBS News",
+            "description": "Mike Jones's friends didn't know he was a convicted felon, but he did tell them outlandish stories, including that his sister was dating Jason Aldean and that he was adopted by Ronald Reagan's son.",
+            "url": "https://www.cbsnews.com/news/diana-duve-murder-michael-jones-criminal-past-web-of-lies-48-hours/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/07/4368a3b3-e76e-4941-b4f4-45e8e3c9fd3b/thumbnail/1200x630/70d8c58239c0b39301723a7e1b343a97/duve-diana3.jpg",
+            "publishedAt": "2023-05-07T03:11:00Z",
+            "content": "Diana Duve was 26 when she vanished one night in 2014 in Vero Beach, Florida. She was last seen alive leaving a bar with her on-again, off-again boyfriend, Michael Jones. To witnesses, the couple see\u2026 [+37033 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Alex Woodward",
+            "title": "Jordan Neely \u2013 latest: Daniel Penny identified as ex-Marine who fatally choked homeless passenger - The Independent",
+            "description": "What did Jordan Neely do?",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/jordan-neely-daniel-penny-video-nyc-subway-chokehold-b2333739.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/03/19/Subway_Restraint_Death_80631.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-05-07T03:00:36Z",
+            "content": "New York was not a safe city for Jordan Neely\r\nNoah Berlatsky\u00a0writes for\u00a0The Independent:\r\nOn Monday, a Black houseless man with a history of mental illness, Jordan Neely, was shouting at passengers \u2026 [+1165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "New research identifies earliest signs of colon cancer - NBC News",
+            "description": "Abdominal pain, rectal bleeding, ongoing diarrhea and iron deficiency anemia are among the four indicators for early onset colon cancer. NBC News' Erika Edwa...",
+            "url": "https://www.youtube.com/watch?v=EtSH5_Y3Fws",
+            "urlToImage": "https://i.ytimg.com/vi/EtSH5_Y3Fws/maxresdefault.jpg",
+            "publishedAt": "2023-05-06T23:00:03Z",
+            "content": null
         }
     ]
 }
