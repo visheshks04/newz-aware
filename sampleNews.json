@@ -1,253 +1,214 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "The Japan Times"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Jesse Johnson",
-            "title": "Kishida and Yoon hail improved ties as 'shuttle diplomacy' resumes - The Japan Times",
-            "description": "Prime Minister Fumio Kishida met with South Korean President Yoon Suk-yeol on Sunday, becoming the first Japanese leader to conduct an official bilateral visit to Seoul in over 12 years.",
-            "url": "https://www.japantimes.co.jp/news/2023/05/07/national/politics-diplomacy/kishida-south-korea-visit-yoon-talks/",
-            "urlToImage": "https://cdn-japantimes.com/wp-content/uploads/2023/05/np_file_226070-870x489.jpeg",
-            "publishedAt": "2023-05-07T11:14:30Z",
-            "content": "Prime Minister Fumio Kishida said his heart aches over Japans colonial rule of the Korean Peninsula, speaking after a meeting Sunday with South Korean leader Yoon Suk-yeol in Seoul the first such bil\u2026 [+1063 chars]"
+            "author": "Alli Rosenbloom",
+            "title": "MTV Movie & TV Awards 2023: See who won - CNN",
+            "description": "After a wild week full of production changes for the MTV Movie & TV Awards amid the writers' strike, a motley crew of stars received golden popcorn statuettes on Sunday.",
+            "url": "https://www.cnn.com/2023/05/07/entertainment/mtv-movie-tv-awards-2023-winners/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230507173132-mtv-movie-tv-awards-golden-popcorn.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-08T02:10:00Z",
+            "content": "After a wild week full of production changes for the MTV Movie &amp; TV Awards amid the writers strike, a motley crew of stars received golden popcorn statuettes on Sunday. \r\nBlockbuster film Top Gun\u2026 [+5345 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Tyler Dragon",
+            "title": "Nikola Jokic, Mat Ishbia get into courtside tussle during Game 4 - USA TODAY",
+            "description": "Denver Nuggets All-Star Nikola Jokic received a technical foul after a courtside tussle with Phoenix Suns owner Mat Ishbia.",
+            "url": "https://www.usatoday.com/story/sports/nba/2023/05/07/nikola-jokic-mat-ishbia-get-into-courtside-tussle-during-game-4/70193377007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/08/USAT/5f3836b4-8473-4d2b-b200-cb15ad167cf3-AP_Nuggets_Suns_Basketball_1.jpg?crop=3194,1797,x1,y98&width=3194&height=1797&format=pjpg&auto=webp",
+            "publishedAt": "2023-05-08T01:30:08Z",
+            "content": "PHOENIX Denver Nuggets All-Star Nikola Jokic got into a little tussle with Phoenix Suns owner Mat Ishbia.\r\nWith more than two minutes remaining in the second quarter of Game 4 at the Footprint Center\u2026 [+996 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Josh Campbell,Ed Lavandera,Holly Yan,Christina Maxouris,Sharif Paget,Elizabeth Wolfe",
+            "title": "Texas mall massacre gunman identified as witnesses describe horror of the shooting spree that killed 8 people - CNN",
+            "description": "The man who opened fire Saturday at an outlet mall in Allen, Texas, killing eight people and wounding at least seven others was identified as 33-year-old Mauricio Garcia, the Texas Department of Public Safety said Sunday.",
+            "url": "https://www.cnn.com/2023/05/07/us/allen-texas-mall-shooting-sunday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230507140730-13-allen-texas-outlet-mall-active-shooter-050723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-08T01:29:00Z",
+            "content": "Editors Note: This story contains graphic descriptions of the shootings aftermath.\r\nThe man who opened fire Saturday at an outlet mall in Allen, Texas, killing eight people and wounding at least seve\u2026 [+8370 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Larry Neumeister",
+            "title": "Trump rejects last chance to testify at New York civil trial - The Associated Press",
+            "description": "NEW YORK (AP) \u2014 Former President Donald Trump rejected his last chance Sunday to testify at a civil trial where a longtime advice columnist has accused him of raping her in a luxury department store dressing room in 1996.",
+            "url": "https://apnews.com/article/trump-rape-carroll-trial-40f9bf3da2474c28dc2bc869d68fdb82",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/7c774e4dbf2e457e9a36f7b4f35098ae/2000.webp",
+            "publishedAt": "2023-05-08T01:20:38Z",
+            "content": "NEW YORK (AP) Former President Donald Trump rejected his last chance Sunday to testify at a civil trial where a longtime advice columnist has accused him of raping her in a luxury department store dr\u2026 [+3622 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Kstp.com"
             },
-            "author": "Tom Perkins",
-            "title": "US food pesticides contaminated with toxic 'forever chemicals' testing finds - The Guardian",
-            "description": "PFAS are present at \u2018potentially dangerous\u2019 levels in widely used chemicals sprayed on food crops destined for Americans\u2019 plates",
-            "url": "https://www.theguardian.com/environment/2023/may/07/food-pesticides-toxic-forever-chemicals-pfas",
-            "urlToImage": "https://i.guim.co.uk/img/media/94d137ce11063ba2f185748a74983b3c76e274ed/0_173_5200_3120/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=671464626d8159683aaf84b908dadf21",
-            "publishedAt": "2023-05-07T10:23:00Z",
-            "content": "Some of the United States most widely used food pesticides are contaminated with potentially dangerous levels of toxic PFAS forever chemicals, new testing of the products finds.\r\nThe Environmental Pr\u2026 [+10565 chars]"
+            "author": "Kilat Fitzgerald",
+            "title": "St. Croix County deputy shot and killed identified - KSTP",
+            "description": "A St. Croix County deputy is dead after being shot near Glenwood City Saturday night, according to a news release from the St. Croix County Sheriff's Office. Authorities say the suspect was later found dead in a wooded area with a gunshot wound.",
+            "url": "https://kstp.com/kstp-news/top-news/st-croix-county-deputy-shot-and-killed-identified/",
+            "urlToImage": "https://kstp.com/wp-content/uploads/2023/05/Deputy-Kaitie-Leising.jpg",
+            "publishedAt": "2023-05-08T00:45:00Z",
+            "content": "Authorities say a western Wisconsin deputy was shot and killed while responding to a report of a drunk driver in a ditch Saturday night near Glenwood, Wisconsin.\r\nAround 6:15 p.m., Deputy Kaitie Leis\u2026 [+3155 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Max Colchester",
-            "title": "Prince Harry Sidelined at King Charles III's Coronation - The Wall Street Journal",
-            "description": "Duke of Sussex plays minor role in father\u2019s big day, underscoring enduring rift in royal family",
-            "url": "https://www.wsj.com/articles/prince-harry-sidelined-at-king-charles-iiis-coronation-ee80d354",
-            "urlToImage": "https://images.wsj.net/im-777332/social",
-            "publishedAt": "2023-05-07T09:30:00Z",
+            "author": "Ganesh Rao",
+            "title": "Here are 10 global stocks analyst love coming out of the earnings week, Bank of America says - CNBC",
+            "description": "The investment bank screened for European large-cap stocks that had an increase in net earnings per share revisions.",
+            "url": "https://www.cnbc.com/2023/05/08/here-are-10-global-stocks-analyst-love-coming-out-of-the-earnings-week-bank-of-america-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103182864-GettyImages-481534278.jpg?v=1683505898&w=1920&h=1080",
+            "publishedAt": "2023-05-08T00:31:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Deadline"
             },
-            "author": null,
-            "title": "Ukraine counter-offensive underway says Wagner Chief Yevgeny Prigozhin | Russia-Ukraine war | WION - WION",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=9fwYetv8rus",
-            "urlToImage": null,
-            "publishedAt": "2023-05-07T09:06:59Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "author": "Armando Tinoco",
+            "title": "\u2018American Idol\u2019 Gets Royal Surprise From King Charles III & Queen Camilla As Katy Perry & Lionel Richie Check-In From The U.K. - Deadline",
+            "description": "Katy Perry and Lionel Richie were absent from American Idol this week as they traveled to the U.K. to perform at the historic coronation of King Charles III. \u201cWhat a party, what a party, it w\u2026",
+            "url": "https://deadline.com/2023/05/american-idol-royal-surprise-king-charles-iii-queen-camilla-katy-perry-lionel-richie-1235358859/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/katy-perry-king-charles-queen-camilla-lionel-richie-american-idol.jpg?w=1024",
+            "publishedAt": "2023-05-08T00:18:00Z",
+            "content": "Katy Perry and Lionel Richie were absent from American Idol this week as they traveled to the U.K. to perform at the historic coronation of King Charles III.\r\n\u201cWhat a party, what a party, it was unbe\u2026 [+949 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "id": "espn",
+                "name": "ESPN"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Zakhar Prilepin: Russian pro-war writer hit by car bomb out of coma - BBC",
-            "description": "Investigators claim a man, who allegedly detonated the bomb remotely, was working for Ukraine.",
-            "url": "https://www.bbc.com/news/world-europe-65516630",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85E0/production/_129627243_gettyimages-1203490269.jpg",
-            "publishedAt": "2023-05-07T09:00:54Z",
-            "content": "A Russian pro-war writer who was seriously injured in a car bomb on Saturday is out of a medically induced coma, his spokeswoman says. \r\nZakhar Prilepin, a vehement supporter of Russia's campaign in \u2026 [+3377 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Edward Helmore",
-            "title": "The digital media bubble has burst. Where does the industry go from here? - The Guardian",
-            "description": "Buzzfeed, Vice, Gawker and Drudge Report are all traffic-war casualties, but they succeeded in shaking up the media landscape",
-            "url": "https://www.theguardian.com/media/2023/may/07/the-digital-media-bubble-has-burst-where-does-the-industry-go-from-here",
-            "urlToImage": "https://i.guim.co.uk/img/media/745cd8a93904d64fd2145843f17b8627350392e2/0_427_6500_3902/master/6500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e55b1262f7a4e3fbe8ecb1978e65fa7e",
-            "publishedAt": "2023-05-07T09:00:00Z",
-            "content": "Toward the end of Traffic, a new account of the early rock n roll years of internet publishing, Ben Smith writes that the failings of Buzzfeed News had come about as a result of a utopian ideology, f\u2026 [+5929 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Inside Westminster Abbey during King Charles' coronation - Reuters UK",
-            "description": "The explosive crescendo of \"Zadok the Priest\", Handel's soaring anthem composed nearly 300 years ago for the crowning of King George III, marked the most sacred moment of Charles' coronation on Saturday.",
-            "url": "https://www.reuters.com/world/uk/king-charles-coronation-blends-splendour-intimacy-inside-westminster-abbey-2023-05-06/",
-            "urlToImage": "https://www.reuters.com/resizer/gFi6ecA7IL89jWsJ4nmYaEdI1A0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G5B3OA5OOZKKDAYKLJWSJRUJUQ.jpg",
-            "publishedAt": "2023-05-07T08:59:00Z",
-            "content": "WESTMINSTER ABBEY, London, May 6 (Reuters) - The explosive crescendo of \"Zadok the Priest\", Handel's soaring anthem composed nearly 300 years ago for the crowning of King George III, marked the most \u2026 [+3177 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Abner Li",
-            "title": "Pixel Tablet leak reveals screen and battery specs, release date, more - 9to5Google",
-            "description": "According to an Amazon listing leak, the Pixel Tablet will be released on June 20 in Japan, while other keys specs have also emerged.",
-            "url": "https://9to5google.com/2023/05/07/pixel-tablet-specs-leak/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/04/google-pixel-tablet-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-05-07T08:22:00Z",
-            "content": "According to an early Amazon listing that has since been removed, the Pixel Tablet will be released on June 20 in Japan, while other key specs have also now emerged thanks to this leak.\r\nAs captured \u2026 [+1453 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Ukraine war: 'Mad panic' as Russia evacuates town near Zaporizhzhia plant - BBC",
-            "description": "UN watchdog warns of \"threat of a severe nuclear accident\" at the Zaporizhzhia plant in Ukraine.",
-            "url": "https://www.bbc.com/news/world-europe-65515443",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16B90/production/_129627039_4eba4f6a-8816-4ce3-829f-277b80e74637.jpg",
-            "publishedAt": "2023-05-07T07:59:52Z",
-            "content": "Russia has sparked a \"mad panic\" as it evacuates a town near the contested Zaporizhzhia nuclear power plant, a Ukrainian official says.\r\nRussia has told people to leave 18 settlements in the Zaporizh\u2026 [+2702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Law Murray",
-            "title": "How the Lakers are using their advantage at the free-throw line to beat the Warriors - The Athletic",
-            "description": "The Lakers outscored the Warriors 28-12 from the free-throw line. Anthony Davis attempted as many free throws as the Warriors made.",
-            "url": "https://theathletic.com/4495474/2023/05/07/lakers-beat-warriors/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/05/07031704/davis.0506-scaled-e1683443845385-1024x683.jpeg",
-            "publishedAt": "2023-05-07T07:39:19Z",
-            "content": "LOS ANGELES It was a first quarter that no one had ever seen before from LeBron James in the postseason: no field goal attempts. James saw DAngelo Russell score the first 11 points of Game 3 for the \u2026 [+8585 chars]"
+            "author": "Laurence Edmondson",
+            "title": "Max Verstappen on being booed by Miami F1 fans -- 'They don't like who is winning' - ESPN - ESPN",
+            "description": "Max Verstappen shrugged off the boos he received before and after winning the Miami Grand Prix, saying he only cares about going home from a race weekend with the winner's trophy.",
+            "url": "https://www.espn.com/f1/story/_/id/37554546/max-verstappen-being-booed-miami-f1-fans-is-winning",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0507%2Fr1169971_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-05-08T00:05:00Z",
+            "content": "MIAMI -- Max Verstappen shrugged off the boos he received before and after winning the Miami Grand Prix, saying he only cares about going home from a race weekend with the winner's trophy.\r\nEditor's \u2026 [+2534 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Kevin Iole",
-            "title": "UFC 288: Aljamain Sterling, Henry Cejudo headed in opposite directions after close title fight - Yahoo Sports",
-            "description": "Sterling was joyful after beating Cejudo, and eager to shut up future challenger Sean O'Malley. After losing to Sterling in the main event of UFC 288, Cejudo...",
-            "url": "https://sports.yahoo.com/ufc-288-aljamain-sterling-henry-cejudo-headed-in-opposite-directions-after-close-title-fight-072818299.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6ltYcrwgN9NBJkxpE4lqBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/dee2a030-eca0-11ed-b7ff-4344e7549d08",
-            "publishedAt": "2023-05-07T07:28:18Z",
-            "content": "Henry Cejudo said he tried to climb Mount Everest, and took little solace that he nearly reached the summit. The 2008 Olympic gold medalist ended a three-year retirement from the UFC with a near-miss\u2026 [+5356 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Rachel Pannett, Leo Sands",
-            "title": "Russia-Ukraine war news: Kyiv celebrates claim to have shot down hypersonic missile - The Washington Post",
-            "description": "The apparent defense milestone over the skies of Kyiv comes as officials worry that their long planned counteroffensive may not live up to expectations.",
-            "url": "https://www.washingtonpost.com/world/2023/05/07/russia-ukraine-war-news/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2T5JN3SSIXL6OKLSFFLXMGUIEY_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-05-07T06:46:31Z",
-            "content": "Ukraines air force claims to have successfully shot down one of Russias most sophisticated conventional weapons using a U.S.-made Patriot air defense missile. The Kinzhal, or dagger, hypersonic missi\u2026 [+4304 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Texas shooting: Eight killed by gunman in Allen mall - BBC",
-            "description": "A police officer on an unrelated call at the mall in Allen killed the gunman after hearing shots.",
-            "url": "https://www.bbc.com/news/world-us-canada-65515915",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5372/production/_129626312_mediaitem129626308.jpg",
-            "publishedAt": "2023-05-07T06:25:12Z",
-            "content": "Media caption, Watch: Gunfire heard as people flee Texas mall\r\nA gunman has shot and killed eight people shopping at a mall north of Dallas, Texas, emergency services say.\r\nHundreds of people were ev\u2026 [+3286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Brent Brookhouse",
-            "title": "Canelo Alvarez vs. John Ryder fight results, highlights: Mexican superstar scores decisive win in homecoming - CBS Sports",
-            "description": "Alvarez battered and dropped Ryder en route to a decision in Guadalajara on Saturday night",
-            "url": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-john-ryder-fight-results-highlights-mexican-superstar-scores-decisive-win-in-homecoming/live/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/07/5b2d98a4-9d5b-4392-b19f-15e685894b26/thumbnail/1200x675/6fa59c2226d78b922add7d69359f56c4/canelo-walkaway-ryder.jpg",
-            "publishedAt": "2023-05-07T06:15:26Z",
-            "content": "Saul \"Canelo\" Alvarez is still king of the super middleweights. Alvarez retained his undisputed super middleweight championship on Saturday night, bludgeoning John Ryder over 12 rounds to win a wide \u2026 [+4344 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Bad Bunny vs. Damian Priest - San Juan Street Fight: WWE Backlash 2023 highlights - WWE",
-            "description": "Music sensation Bad Bunny brings Puerto Rico to its feet in an all-out San Juan Street Fight with The Judgment Day's Damian Priest. Catch WWE action on Peaco...",
-            "url": "https://www.youtube.com/watch?v=1_hMh9B3Py0",
-            "urlToImage": "https://i.ytimg.com/vi/1_hMh9B3Py0/maxresdefault.jpg",
-            "publishedAt": "2023-05-07T04:00:46Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "17-year-old killed, 5 hurt in Chico house party shooting - ABC10",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=h20twkEkXCs",
-            "urlToImage": null,
-            "publishedAt": "2023-05-07T03:49:04Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Carly Thomas, Carly Thomas",
-            "title": "TV Shows, Movies Impacted by WGA Writers Strike - Hollywood Reporter",
-            "description": "'Stranger Things,' 'Blade,' and 'Loot' are among the shows and films affected by the labor unrest between the Writers Guild and studios and streamers.",
-            "url": "https://www.hollywoodreporter.com/lists/tv-shows-movies-affected-by-wga-writers-strike/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/Stranger-Things-Loot-publicity-H-2023.jpg?w=1024",
-            "publishedAt": "2023-05-07T03:16:45Z",
-            "content": "A number of television shows and movies are being affected by the writers strike after negotiations faltered between the Writers Guild of America and the Alliance of Motion Picture and Television Pro\u2026 [+3042 chars]"
+            "author": "Loree Seitz",
+            "title": "Glowing Elizabeth Holmes Profile in New York Times Draws Fury: They \u2018Got Conned Just Like Her Board\u2019 - Yahoo Entertainment",
+            "description": "\"Nice to be a pretty white lady working your charm on a NYT reporter,\" wrote former CNN host Soledad O'Brien",
+            "url": "https://www.yahoo.com/entertainment/glowing-elizabeth-holmes-profile-york-232909671.html",
+            "urlToImage": "https://media.zenfs.com/en/thewrap.com/1ce45fd2257dc6e68c574c19a854ba9a",
+            "publishedAt": "2023-05-07T23:29:09Z",
+            "content": "People are criticizing the New York Times after it published a glowing profile of Elizabeth Holmes, which painted the Theranos founder, who was found guilty of defrauding investors out of more than $\u2026 [+3496 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Michelle Miller",
-            "title": "Diana Duve's murder investigation uncovers her killer Michael Jones's criminal past, web of lies - CBS News",
-            "description": "Mike Jones's friends didn't know he was a convicted felon, but he did tell them outlandish stories, including that his sister was dating Jason Aldean and that he was adopted by Ronald Reagan's son.",
-            "url": "https://www.cbsnews.com/news/diana-duve-murder-michael-jones-criminal-past-web-of-lies-48-hours/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/07/4368a3b3-e76e-4941-b4f4-45e8e3c9fd3b/thumbnail/1200x630/70d8c58239c0b39301723a7e1b343a97/duve-diana3.jpg",
-            "publishedAt": "2023-05-07T03:11:00Z",
-            "content": "Diana Duve was 26 when she vanished one night in 2014 in Vero Beach, Florida. She was last seen alive leaving a bar with her on-again, off-again boyfriend, Michael Jones. To witnesses, the couple see\u2026 [+37033 chars]"
+            "author": null,
+            "title": "King Charles' coronation celebration continues with concert and \"big lunch\" - CBS News",
+            "description": "Charles and Queen Camilla\u200b said Sunday in a statement that they were \"deeply touched\" by the celebration.",
+            "url": "https://www.cbsnews.com/news/king-charles-coronation-celebration-concert-big-lunch/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/07/17029305-309a-48c8-9102-40d8c233f9a0/thumbnail/1200x630/304b4217eea649335980d4ddb6cc8142/gettyimages-1488222817.jpg",
+            "publishedAt": "2023-05-07T23:22:00Z",
+            "content": "At coronation celebrations held Sunday, anyone could wear a crown \u2014 even a dog.\r\nA day after the gilded spectacle of King Charles III's crowning in an ancient religious ceremony, festivities took a m\u2026 [+7392 chars]"
         },
         {
             "source": {
-                "id": "independent",
-                "name": "Independent"
+                "id": null,
+                "name": "The Philadelphia Inquirer"
             },
-            "author": "Alex Woodward",
-            "title": "Jordan Neely \u2013 latest: Daniel Penny identified as ex-Marine who fatally choked homeless passenger - The Independent",
-            "description": "What did Jordan Neely do?",
-            "url": "https://www.independent.co.uk/news/world/americas/crime/jordan-neely-daniel-penny-video-nyc-subway-chokehold-b2333739.html",
-            "urlToImage": "https://static.independent.co.uk/2023/05/03/19/Subway_Restraint_Death_80631.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-05-07T03:00:36Z",
-            "content": "New York was not a safe city for Jordan Neely\r\nNoah Berlatsky\u00a0writes for\u00a0The Independent:\r\nOn Monday, a Black houseless man with a history of mental illness, Jordan Neely, was shouting at passengers \u2026 [+1165 chars]"
+            "author": "Gina Mizell",
+            "title": "James Harden\u2019s game-winner lifts Sixers to wild 116-115 overtime win to even series with Boston Celtics - The Philadelphia Inquirer",
+            "description": "After struggling through much of Games 2 and 3, Harden bounced back to scorch the Celtics at the Wells Fargo Center. His 42 points and decisive three-pointer secured Game 4.",
+            "url": "https://www.inquirer.com/sixers/sixers-james-harden-joel-embiid-boston-celtics-overtime-nba-playoffs-20230507.html",
+            "urlToImage": "https://www.inquirer.com/resizer/87bzaaF8ZGO_elHvPRlXlVhIr_g=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/KJED4ABW6JBPLGWWWIZ56JBYVI.jpg",
+            "publishedAt": "2023-05-07T23:02:50Z",
+            "content": "A Wells Fargo Center crowd that spent more than two hours waving rally towels throughout Sunday afternoons Game 4 spontaneously burst into another move in unison motioning their arms to signal no goo\u2026 [+4917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rottentomatoes.com"
+            },
+            "author": "Erik Childress",
+            "title": "Weekend Box Office Results: Guardians of the Galaxy Vol. 3 Kicks Off Summer Movie Season with a Bang - Rotten Tomatoes",
+            "description": "James Gunn's trilogy-capper brought in a strong $114 million domestic and $282 million at the worldwide box office, but will it be enough to top another Chris Pratt global hit?",
+            "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-results-guardians-of-the-galaxy-vol-3-kicks-off-summer-movie-season-with-a-bang/",
+            "urlToImage": "https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/05/07154241/Guardians_Vol_3_BO1-Rep.jpg",
+            "publishedAt": "2023-05-07T22:42:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Buffett, Munger on banks, real estate, Musk, Apple, AI, dollar dangers - Markets Insider",
+            "description": "Buffett and Munger flagged threats to banks and real estate, discussed the risk of de-dollarization, and praised Elon Musk for doing the impossible.",
+            "url": "https://markets.businessinsider.com/news/stocks/buffett-munger-berkshire-meeting-banks-real-estate-musk-ai-dollar-2023-5",
+            "urlToImage": "https://i.insider.com/64580844c726bc00196a658f?width=1200&format=jpeg",
+            "publishedAt": "2023-05-07T22:36:00Z",
+            "content": "Warren Buffett and Charlie Munger sounded off on the current banking turmoil, the bleak outlook for commercial real estate, and the possibility of de-dollarization during Berkshire Hathaway's annual \u2026 [+4248 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Wagner chief backtracks on threat to Putin's military leaders. Hear why - CNN",
+            "description": "Yevgeny Prigozhin, head of Russian mercenary group Wagner, says he will reverse course on a previous promise to pull his troops out of the battle for Bakhmut, Ukraine. CNN's Sam Kiley reports.",
+            "url": "https://www.cnn.com/videos/world/2023/05/07/prigozhin-wagner-reverses-course-bakhmut-pullout-kiley-acostanr-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230204073944-putin-yevgeny-prigozhin-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-07T22:17:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "George Stephanopoulos admits new 2024 poll 'just brutal for President Biden' - Fox News",
+            "description": "ABC host George Stephanopoulos responds to a 'brutal' poll showing a majority of Americans don't believe President Biden has the 'mental sharpness' to serve another term.",
+            "url": "https://www.foxnews.com/media/george-stephanopoulos-2024-poll-brutal-president-biden",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a47eeafb-3a3d-4c1a-af7e-f97cff67fd4e/906b495b-2a6a-499c-855a-ef39f1339e71/1280x720/match/image.jpg",
+            "publishedAt": "2023-05-07T21:44:59Z",
+            "content": "ABC News anchor George Stephanopoulos pulled no punches reacting to a new poll on air Sunday that showed the vast majority of Americans don't believe President Biden has the physical or mental capaci\u2026 [+2990 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tracy Wright",
+            "title": "Royal family celebrates King Charles' coronation; Prince George, Princess Charlotte steal show - Fox News",
+            "description": "Prince William and Princess Kate enjoyed a few laughs at King Charles' coronation concert thanks to their two eldest kids, Princess Charlotte and Prince George.",
+            "url": "https://www.foxnews.com/entertainment/royal-family-celebrates-king-charles-coronation-prince-george-princess-charlotte-steal-show",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/king-charles-coronation-concert-princess-prince-2.jpg",
+            "publishedAt": "2023-05-07T21:37:00Z",
+            "content": "Princess Kate and Prince William were in great company Sunday for King Charles III coronation concert at Windsor Castle.\r\nTheir two eldest children, Prince George and Princess Charlotte, appeared to \u2026 [+2127 chars]"
         },
         {
             "source": {
@@ -255,12 +216,51 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "New research identifies earliest signs of colon cancer - NBC News",
-            "description": "Abdominal pain, rectal bleeding, ongoing diarrhea and iron deficiency anemia are among the four indicators for early onset colon cancer. NBC News' Erika Edwa...",
-            "url": "https://www.youtube.com/watch?v=EtSH5_Y3Fws",
-            "urlToImage": "https://i.ytimg.com/vi/EtSH5_Y3Fws/maxresdefault.jpg",
-            "publishedAt": "2023-05-06T23:00:03Z",
+            "title": "First Alert Weather: More storms possible this evening. - CBS TEXAS",
+            "description": "Then once again storms will develop out west along the dry line during peak heating, and work their way eastward in the evening hours. We have not issued a w...",
+            "url": "https://www.youtube.com/watch?v=oOW6mZGnIog",
+            "urlToImage": "https://i.ytimg.com/vi/oOW6mZGnIog/maxresdefault.jpg",
+            "publishedAt": "2023-05-07T20:26:19Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Celina Tebor,Zoe Sottile",
+            "title": "Child in Maine tests positive for measles, first case in state since 2019 - CNN",
+            "description": "A child in Maine has tested positive for measles, officials said, marking the first case in the state since 2019.",
+            "url": "https://www.cnn.com/2023/05/07/us/maine-measles-child-tests-positive/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230507160052-02-measles-vaccine-2019-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-07T20:26:00Z",
+            "content": "A child in Maine has tested positive for measles, officials said, marking the first case in the state since 2019. \r\nThe child who tested positive had received a dose of the measles vaccine, but the M\u2026 [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mireya Villarreal",
+            "title": "7 dead after car runs into pedestrians in Brownsville, Texas, alleged driver arrested - ABC News",
+            "description": "A male suspect is in custody.",
+            "url": "https://abcnews.go.com/US/7-dead-after-car-runs-pedestrians-brownsville-texas/story?id=99152817",
+            "urlToImage": "https://s.abcnews.com/images/US/texas-car-crash-abc-moe-024-230507_1683487179246_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-05-07T20:04:38Z",
+            "content": "Seven people are dead in Brownsville, Texas, after a car ran into pedestrians Sunday morning while they were waiting at a bus stop.\r\nThe crash occurred at 8:30 a.m. near the Ozanam Center in Brownsvi\u2026 [+1727 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "Say goodbye to Google passwords and hello to Google Passkeys - Fox News",
+            "description": "Google is rolling out with a new security feature called a passkey, which is said to keep your data safer than passwords, Kurt \"CyberGuy\" Knutsson explains.",
+            "url": "https://www.foxnews.com/tech/say-goodbye-google-passwords-hello-google-passkeys",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/1-GOOGLE-PASSKEY.jpg",
+            "publishedAt": "2023-05-07T18:47:00Z",
+            "content": "The tech giant Google is incorporating a new security feature called passkeys into its devices and platforms. Using a passkey means that anytime you'd traditionally be prompted to put in your Google \u2026 [+5507 chars]"
         }
     ]
 }
