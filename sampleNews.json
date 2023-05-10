@@ -1,19 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "The Athletic"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Rich Hofmann",
-            "title": "Sixers, and Philadelphia, are riding the James Harden roller coaster vs. Celtics - The Athletic",
-            "description": "How Harden got back to being himself again and picked up the league MVP Embiid, alongside an assist from PJ Tucker.",
-            "url": "https://theathletic.com/4497973/2023/05/08/sixers-celtics-game-4-james-harden/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/05/08015302/USATSI_20618330-1024x683.jpg",
-            "publishedAt": "2023-05-08T12:29:01Z",
-            "content": "James Harden was en route to the Wells Fargo Center on Sunday afternoon when coach Doc Rivers texted him with a song called, Do You Know My Name?\r\nIts a gospel song, perhaps one that isnt Hardens nor\u2026 [+10673 chars]"
+            "author": "Casey Tolan,Paul P. Murphy,Curt Devine,Josh Campbell,Alisha Ebrahimji",
+            "title": "What we know about the North Texas outlet mall gunman and what he wrote online - CNN",
+            "description": "The country is grieving yet again in the aftermath of a mass shooting -- this time at an outlet mall in Texas after a gunman, who purportedly wrote of his support for Nazi ideology online, shot and killed eight people and wounded at least seven others.",
+            "url": "https://www.cnn.com/2023/05/08/us/mauricio-garcia-allen-texas-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508065255-allen-outlets-shooting-texas-file-050623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-09T00:30:00Z",
+            "content": "The country is grieving yet again in the aftermath of a mass shooting this time at an outlet mall in Texas after a gunman, who purportedly wrote of his support for Nazi ideology online, shot and kill\u2026 [+7371 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh,Tina Burnside,Amy Simonson",
+            "title": "More than 29,000 people are evacuated from communities throughout Alberta as wildfires rage in Canada - CNN",
+            "description": "Close to 100 wildfires raging across the Alberta region of Canada have forced more than 29,000 people to flee in what officials have called an \"unprecedented situation\" for the province.",
+            "url": "https://www.cnn.com/2023/05/08/weather/alberta-canada-wildfires-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508131339-03-alberta-canada-wildfires.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-09T00:25:00Z",
+            "content": "Close to 100 wildfires raging across the Alberta region of Canada have forced more than 29,000 people to flee in what officials have called an unprecedented situation for the province.\r\nIn the past 2\u2026 [+5551 chars]"
         },
         {
             "source": {
@@ -21,12 +34,25 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Russia attacks Ukraine with huge drone swarm ahead of Victory Day holiday - Reuters",
-            "description": "Russia launched its biggest swarm of drones for months against Ukraine on Monday, the eve of Russia's May 9 holiday celebrating the defeat of Nazi Germany, which Kyiv marked a day earlier in a symbolic new break with Moscow.",
-            "url": "https://www.reuters.com/world/europe/least-five-wounded-due-russian-strikes-kyiv-city-officials-say-2023-05-07/",
-            "urlToImage": "https://www.reuters.com/resizer/5Tt2Qqnt3FEneagO4b3YxdNoJMI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LC4P3HFBAFINDAZBB6FJNDTSDA.jpg",
-            "publishedAt": "2023-05-08T12:09:00Z",
-            "content": "May 8 (Reuters) - Russia launched its biggest swarm of drones for months against Ukraine on Monday, the eve of Russia's May 9 holiday celebrating the defeat of Nazi Germany, which Kyiv marked a day e\u2026 [+5896 chars]"
+            "title": "Trump's absence at civil rape trial shows 'he did it,' accuser's lawyer says - Reuters",
+            "description": "Donald Trump's absence from a trial where writer E. Jean Carroll accuses him of rape and defamation shows that \"he did it,\" a lawyer for Carroll said on Monday, while Trump's lawyer told jurors the case was \"outrageous.\"",
+            "url": "https://www.reuters.com/world/us/closing-arguments-set-rape-defamation-suit-against-trump-2023-05-08/",
+            "urlToImage": "https://www.reuters.com/resizer/Iyayhup0s1HHoAXLec1MZD5qDOU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XCBK3WH3MRLRRD2PWNRMGA7UDA.jpg",
+            "publishedAt": "2023-05-08T23:59:00Z",
+            "content": "NEW YORK, May 8 (Reuters) - Donald Trump's absence from a trial where writer E. Jean Carroll accuses him of rape and defamation shows that \"he did it,\" a lawyer for Carroll said on Monday, while Trum\u2026 [+3593 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "David Bauder",
+            "title": "AP wins public service, photo Pulitzers for Ukraine coverage - The Associated Press",
+            "description": "NEW YORK (AP) \u2014 The Associated Press won two Pulitzer Prizes on Monday for its coverage of the war in Ukraine , earning recognition for its breaking news photography of the Russian invasion, as well as the prestigious public service award for its startling \u2014 \u2026",
+            "url": "https://apnews.com/article/2023-pulitzer-prizes-e95c689997429071513d377cc209ae4b",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/fe5d5c0770514ab690245f79f074882a/3000.jpeg",
+            "publishedAt": "2023-05-08T23:38:24Z",
+            "content": "NEW YORK (AP) The Associated Press won two Pulitzer Prizes on Monday for its coverage of the war in Ukraine, earning recognition for its breaking news photography of the Russian invasion, as well as \u2026 [+5162 chars]"
         },
         {
             "source": {
@@ -34,11 +60,24 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "A detailed reaction to the Nikola Jokic-Mat Ishbia incident in Nuggets vs. Suns Game 4\ufe0f\u20e3 | KJM - ESPN",
-            "description": "A detailed reaction to the Nikola Jokic-Mat Ishbia incident in Nuggets vs. Suns Game 4\ufe0f\u20e3  | KJMKeyshawn, JWill and Max react to Nikola Jokic getting an unspo...",
-            "url": "https://www.youtube.com/watch?v=sZ8njJhQyCg",
-            "urlToImage": "https://i.ytimg.com/vi/sZ8njJhQyCg/maxresdefault.jpg",
-            "publishedAt": "2023-05-08T12:05:58Z",
+            "title": "Knicks @ Heat Game 4 Live Scoreboard | #NBAPlayoffs Presented by Google Pixel - NBA",
+            "description": "Tune into TNT For all of today's #NBAPlayoff Presented by Google Pixel action! Knicks/Heat Game 4 | 7:30 PM ET Warriors/Lakers Game 4| 10:00 PM ETNever miss ...",
+            "url": "https://www.youtube.com/watch?v=FkqJ42bjj6s",
+            "urlToImage": "https://i.ytimg.com/vi/FkqJ42bjj6s/maxresdefault_live.jpg",
+            "publishedAt": "2023-05-08T23:25:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Cincinnati Enquirer"
+            },
+            "author": "The Cincinnati Enquirer",
+            "title": "Huggins to 700 WLW's Cunningham: Xavier fans are 'Catholic f--s' - The Cincinnati Enquirer",
+            "description": null,
+            "url": "https://www.cincinnati.com/story/news/2023/05/08/west-virginia-coach-bob-huggins-says-xavier-fans-are-catholic-f-s/70196919007/",
+            "urlToImage": null,
+            "publishedAt": "2023-05-08T22:18:45Z",
             "content": null
         },
         {
@@ -46,39 +85,156 @@
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Michelle Fox",
-            "title": "Stocks making the biggest premarket moves: PacWest, Berkshire Hathaway, American Airlines, AMC and more - CNBC",
-            "description": "These are the stocks posting the largest moves in the premarket.",
-            "url": "https://www.cnbc.com/2023/05/08/stocks-making-the-biggest-premarket-moves-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107236280-1683289070928-gettyimages-1252654067-AFP_33EF8HP.jpeg?v=1683547494&w=1920&h=1080",
-            "publishedAt": "2023-05-08T12:04:54Z",
-            "content": "Check out the companies making the biggest moves in premarket trading:\r\nPacWest The regional bank popped 39% in premarket trading, adding to its nearly 82% gain on Friday. PacWest said its business i\u2026 [+2613 chars]"
+            "author": "Dan Mangan",
+            "title": "Trump barred from making evidence public in Stormy Daniels hush money case - CNBC",
+            "description": "Donald Trump is charged with falsifying business records related to a hush money payment to porn star Stormy Daniels before the 2016 presidential election.",
+            "url": "https://www.cnbc.com/2023/05/08/trump-barred-in-stormy-daniels-case-from-revealing-evidence.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107234345-1683060527353-gettyimages-1252521987-Trump.jpeg?v=1683585875&w=1920&h=1080",
+            "publishedAt": "2023-05-08T22:18:24Z",
+            "content": "A judge Monday barred former President Donald Trump from making public evidence and other material related to a pending criminal case against him in New York, where he is charged with falsifying busi\u2026 [+2248 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Hollywood Reporter"
             },
-            "author": "Nilay Patel",
-            "title": "Google is searching for answers: 25 years of Search - The Verge",
-            "description": "After controlling how the internet has been distributed for the past 25 years, the search giant now faces an existential threat in AI. Can it maintain relevance?",
-            "url": "https://www.theverge.com/23712602/google-search-25-years-anniversary-ai-artificial-intelligence",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/X06AQWJAnDNjgfyZD_iWspNJtyg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24636040/236639_25_years_of_Google_Search_JLee.jpg",
-            "publishedAt": "2023-05-08T12:00:00Z",
-            "content": "After controlling how information has been distributed for the past 25 years, Google Search faces a set of challenges that will change the company and the internet forever.\r\nByNilay Patel\r\nIllustrati\u2026 [+7404 chars]"
+            "author": "Jackie Strause",
+            "title": "\u2018Succession\u2019 Star Matthew Macfadyen Unpacks That Balcony Fight: \u201cSomething Breaks\u201d - Hollywood Reporter",
+            "description": "The actor who plays Tom Wambsgans spoke on the show's podcast about the breaking point in episode seven of the final season.",
+            "url": "https://www.hollywoodreporter.com/tv/tv-features/succession-matthew-macfadyen-shiv-tom-fight-1235482233/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/matthew-macfadyen-sarah-snook-H-2023.jpg?w=1024",
+            "publishedAt": "2023-05-08T21:48:19Z",
+            "content": "[This story contains spoilers for the seventh episode of\u00a0Succession\u00a0season four, \u201cTailgate Party.\u201d]\r\nWith three episodes left in the series, Succession ended its latest episode with a major blowup. \r\u2026 [+5333 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": "espn",
+                "name": "ESPN"
             },
-            "author": "Macarena Munoz Montijano, Breanna Bradham",
-            "title": "PacWest Leads Rally in Regional Banks After Slashing Dividend - Bloomberg",
-            "description": "PacWest Bancorp rose as much as 42% in premarket trading Monday, leading gains in US regional banks after saying its business remains \u201csound\u201d and that it was cutting its quarterly dividend to one cent to accelerate capital build plans.",
-            "url": "https://www.bloomberg.com/news/articles/2023-05-08/pacwest-leads-rally-in-regional-banks-after-slashing-dividend",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ8xQJPtTCIE/v1/1200x800.jpg",
-            "publishedAt": "2023-05-08T11:12:05Z",
-            "content": "PacWest Bancorp rose as much as 42% in premarket trading Monday, leading gains in US regional banks after saying its business remains \u201csound\u201d and that it was cutting its quarterly dividend to one cen\u2026 [+376 chars]"
+            "author": "Adrian Wojnarowski",
+            "title": "Jokic won't be suspended for Suns owner push - ESPN",
+            "description": "Nuggets star Nikola Jokic will not be suspended but has been fined $25,000 for making contact with Suns owner Mat Ishbia during Sunday night's game.",
+            "url": "https://www.espn.com/nba/story/_/id/37570693/nikola-jokic-not-suspended-altercation-suns-owner-source-says",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0508%2Fr1170407_1024x576_16%2D9.jpg",
+            "publishedAt": "2023-05-08T21:17:00Z",
+            "content": "The NBA isn't suspending Denver Nuggets star Nikola Jokic for Game 5 against the Phoenix Suns.\r\nThe league announced Monday that it fined Jokic $25,000 for his slight push of Suns owner Mat Ishbia in\u2026 [+1644 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Joshua Franklin, Brooke Masters, James Politi",
+            "title": "Federal Reserve warns of credit crunch risk after US bank turmoil - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the world\u02bcs leading global business publication",
+            "url": "https://www.ft.com/content/77d42ab5-694b-4bdb-9e5b-d8e106e2c02f",
+            "urlToImage": null,
+            "publishedAt": "2023-05-08T21:07:00Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "A major Greenland glacier is melting away with the tide, which could signal faster sea level rise, study finds - CNN",
+            "description": "A major glacier in northwest Greenland is interacting with the ocean tides, scientists reported Monday, resulting in previously unaccounted-for melting and potentially faster sea level rise.",
+            "url": "https://www.cnn.com/2023/05/08/us/greenland-petermann-glacier-melting-climate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508160556-02-greenland-petermann-glacier-melting-climate-052023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-08T20:57:00Z",
+            "content": "A major glacier in northwest Greenland is interacting with the ocean tides, scientists reported Monday, resulting in previously unaccounted-for melting and potentially faster sea level rise. \r\nThe gr\u2026 [+2142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Brian Evans, Samantha Subin",
+            "title": "S&P 500 ends Monday little changed as investors look ahead to key inflation reports: Live updates - CNBC",
+            "description": "Stocks are coming off a volatile week that saw the Dow Jones Industrial Average and S&P 500 notch their worst weekly stretches since March.",
+            "url": "https://www.cnbc.com/2023/05/07/stock-futures-are-flat-to-start-the-week.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107237755-1683576809754-aa6_img_100_99_112_1957665_1000-1683576708678.jpg?v=1683577122&w=1920&h=1080",
+            "publishedAt": "2023-05-08T20:45:00Z",
+            "content": "The S&amp;P 500 closed near the flat line on Monday as investors looked ahead to pivotal inflation readings, including April's consumer price index report.\r\nThe broad market index was little changed \u2026 [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Jennifer Maas",
+            "title": "Studios to Suspend Some First-Look and Overall Deals Amid Writers Strike - Variety",
+            "description": "Amazon, HBO, Warner Bros. TV, NBCUniversal, Disney, CBS Studios and other major struck studios will be suspending some first-look and overall deals amid the ongoing writers strike. Sources close to\u2026",
+            "url": "https://variety.com/2023/tv/news/studios-suspend-deals-writers-strike-1235606633/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/05/Writers-Strike.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-05-08T20:43:00Z",
+            "content": "Amazon, HBO, Warner Bros. TV, NBCUniversal, Disney, CBS Studios and other major struck studios will be suspending some first-look and overall deals amid the ongoing writers strike.\r\nSources close to \u2026 [+2631 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Chandraveer Mathur",
+            "title": "Google Docs is letting a whole lot more of us play with its generative AI tools - Android Police",
+            "description": "Testing is still geo-limited to the US",
+            "url": "https://www.androidpolice.com/google-docs-more-beta-testers-generative-ai/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/03/google-bard-favicon-hero-1.jpg",
+            "publishedAt": "2023-05-08T20:42:00Z",
+            "content": "AI is far from being an independent, unmanned resource to most enterprises, and is mostly playing an assistive role in the lives of tech-savvy people in its current form. Google acknowledges this, an\u2026 [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBSColorado.com Staff",
+            "title": "Letecia Stauch guilty on all counts: Jury convicts Colorado woman in murder of stepson Gannon - CBS Colardo",
+            "description": "A Colorado jury convicted Letecia Stauch in the murder of her 11-year-old stepson in 2020. Stauch was found guilty on all counts.",
+            "url": "https://www.cbsnews.com/colorado/news/letecia-stauch-guilty-verdict-murder-trial-death-stepson-gannon-colorado-springs/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/08/0613fba7-ff96-48ef-bef7-09ce4ddd8587/thumbnail/1200x630/c3eae8f290f9a81c3ae0e98331a49568/stauch-trial-frame-247280-copy.jpg",
+            "publishedAt": "2023-05-08T20:23:00Z",
+            "content": "An El Paso County jury on Monday convicted Letecia Stauch in the murder of her 11-year-old stepson in 2020. Stauch was found guilty on all counts, including first-degree murder, murder of a child und\u2026 [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": null,
+            "title": "JWST captures images of the first asteroid belts seen beyond the Solar System | Engadget - Engadget",
+            "description": "Since 1983, astronomers have known the 440 million-year-old Fomalhaut is surrounded by dust and debris, but what they didn\u2019t expect to find was three different debris fields surrounding the star..",
+            "url": "https://www.engadget.com/jwst-captures-images-of-the-first-asteroid-belts-seen-beyond-the-solar-system-192847989.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/IwGVVZ8oSd0Ni6.IbqIGoA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/63c8e2c0-edd5-11ed-9bbf-44ee17d9a0b4.cf.jpg",
+            "publishedAt": "2023-05-08T19:30:53Z",
+            "content": "About 25 light years away from Earth lies Fomalhaut, one of the brightest stars in the night sky. The Fomalhaut system has captivated astronomers for decades, but its only now that were developing a \u2026 [+2526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Joan E Greve",
+            "title": "Should US get rid of debt ceiling altogether? Lawmakers consider it as crisis looms - The Guardian",
+            "description": "Its weaponization threatens US economic standing, so some are considering doing away with the \u2018anachronistic\u2019 rule",
+            "url": "https://www.theguardian.com/business/2023/may/08/debt-ceiling-us-biden-default",
+            "urlToImage": "https://i.guim.co.uk/img/media/f6d87cde5116dd992ee9d187be99ee60ecddbd6b/0_170_5872_3525/master/5872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df671e31617102c0719132525512e48b",
+            "publishedAt": "2023-05-08T19:30:00Z",
+            "content": "In just a few weeks, the US may be unable to pay its bills.\r\nA divided Congress has still not reached an agreement on raising the debt ceiling, and time is running out to avoid a default. The treasur\u2026 [+10234 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Taryn Ryder",
+            "title": "Kim Zolciak and Kroy Biermann divorcing amid report they owe $1.1M in unpaid taxes - Yahoo Entertainment",
+            "description": "The reality stars wed in 2011 and went on to have four kids.",
+            "url": "https://www.yahoo.com/entertainment/kim-zolciak-kroy-biermann-divorcing-debt-190242617.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VfZOYXkqOdzBLEZourWxdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/37f01440-edce-11ed-bdff-911375e0f51e",
+            "publishedAt": "2023-05-08T19:02:42Z",
+            "content": "Kim Zolciak-Biermann and Kroy Biermann are splitting up after 11 years of marriage. (Photo: NBCUniversal via Getty Images)\r\nIt's over for Kim Zolciak-Biermann and Kroy Biermann. The former Real House\u2026 [+1674 chars]"
         },
         {
             "source": {
@@ -86,181 +242,25 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Biden defends son as DOJ weighs criminal charges - MSNBC",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=VgU9N_x1omw",
-            "urlToImage": null,
-            "publishedAt": "2023-05-08T10:32:46Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ben Church",
-            "title": "'I take the trophy home and they go back to their houses:' Max Verstappen ignores boos during statement win in Miami - CNN",
-            "description": "Max Verstappen produced a scintillating performance on the track to win his second consecutive Miami Grand Prix on Sunday as the 25-year-old shrugged off boos from some people in the crowd.",
-            "url": "https://www.cnn.com/2023/05/08/motorsport/max-verstappen-boos-miami-gp-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508110041-01-f1-grand-prix-max-verstappen.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-08T10:17:00Z",
-            "content": "Max Verstappen produced a scintillating performance on the track to win his second consecutive Miami Grand Prix on Sunday as the 25-year-old shrugged off boos from some people in the crowd. \r\nThe Red\u2026 [+1917 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "After weight loss, Alzheimer's may be next frontier for drugs like Ozempic - Reuters",
-            "description": "Diabetes drugs that also promote weight loss such as Novo Nordisk\u2019s <a href=\"https://www.reuters.com/companies/NOVOb.CO\" target=\"_blank\">(NOVOb.CO)</a> Ozempic, becoming a darling of celebrities and investors, are being studied to tackle some of the most diff\u2026",
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/after-weight-loss-alzheimers-may-be-next-frontier-drugs-like-ozempic-2023-05-08/",
-            "urlToImage": "https://www.reuters.com/resizer/ugkv8uGsKxID_aZWFD0AMmIns74=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TMB2SR6WF5ODTCNRTO6MFIXALQ.jpg",
-            "publishedAt": "2023-05-08T10:11:00Z",
-            "content": "LONDON, May 8 (Reuters) - Diabetes drugs that also promote weight loss such as Novo Nordisks (NOVOb.CO) Ozempic, becoming a darling of celebrities and investors, are being studied to tackle some of t\u2026 [+5598 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Lauren del Valle",
-            "title": "Closing arguments set for Monday morning in E. Jean Carroll civil rape trial against Donald Trump - CNN",
-            "description": "Attorneys for E. Jean Carroll and Donald Trump are set to give closing arguments Monday morning in the battery and defamation trial against the former president in Manhattan federal court.",
-            "url": "https://www.cnn.com/2023/05/08/politics/trump-carroll-closing-arguments/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230505114551-trump-deposition-carroll-trial.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-08T09:40:00Z",
-            "content": "Attorneys for E. Jean Carroll and Donald Trump are set to give closing arguments Monday morning in the battery and defamation trial against the former president in Manhattan federal court.\r\nCarroll, \u2026 [+1597 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Maureen Groppe",
-            "title": "Biden looks to McConnell in debt ceiling fight with Speaker McCarthy - USA TODAY",
-            "description": "President Biden and Mitch McConnell found a way out of the 2011 debt limit crisis. Can the \"odd couple\" do it again?",
-            "url": "https://www.usatoday.com/story/news/politics/2023/05/08/biden-mcconnell-debt-ceiling-fight-speaker-mccarthy/70185363007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/10/USAT/43c6c168-7d7e-4b6b-a9ea-6956ab82aff3-McConnell_Biden.jpg?crop=5999,3374,x1,y572&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2023-05-08T09:20:00Z",
-            "content": "WASHINGTON As Republicans took control of the House in January amid a chaotic fight over who would lead them, President Joe Biden made a point of showcasing his ability to work with Senate Minority L\u2026 [+5874 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Reuters",
-            "title": "Biden plans to bolster U.S. airline consumer protections - CNBC",
-            "description": "President Joe Biden will announce on Monday new rules requiring airlines to compensate passengers for significant flight delays or cancellations.",
-            "url": "https://www.cnbc.com/2023/05/08/biden-plans-to-bolster-us-airline-consumer-protections.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107171340-1672155336675-gettyimages-1245833073-AA_27122022_1004223.jpeg?v=1683537355&w=1920&h=1080",
-            "publishedAt": "2023-05-08T09:15:55Z",
-            "content": "President Joe Biden will announce on Monday that the U.S. Transportation Department aims to write new rules requiring airlines to compensate passengers for significant flight delays or cancellations \u2026 [+2450 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jack Guy,Niamh Kennedy",
-            "title": "Prince William tells King Charles the late Queen Elizabeth would be 'proud' - CNN",
-            "description": "Prince William paid tribute to his \"Pa\" King Charles III at the coronation concert on Sunday, saying \"we are all so proud of you\" as he evoked the memory of the late Queen Elizabeth II.",
-            "url": "https://www.cnn.com/2023/05/08/uk/coronation-concert-prince-william-scli-intl-ckc-gbr/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508092153-01-coronation-concert-050723-william.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-08T09:12:00Z",
-            "content": "Prince William paid tribute to his Pa King Charles III at the coronation concert on Sunday, saying we are all so proud of you as he evoked the memory of the late Queen Elizabeth II.\r\nI know she is up\u2026 [+2487 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Herald-Mail Media"
-            },
-            "author": "Dave McMillion",
-            "title": "Meritus doctor expects RSV vaccine in Hagerstown by end of month - Herald-Mail Media",
-            "description": "The vaccine is expected to be available at pharmacies and physician offices.",
-            "url": "https://www.heraldmailmedia.com/story/news/local/2023/05/08/meritus-doctor-expects-rsv-vaccine-in-hagerstown-md-by-end-of-month/70184447007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2021/06/22/NTHM/48949042-f608-4d7a-a6ac-32f3a1d64bc7-vaccine.jpg?crop=999,562,x0,y0&width=999&height=562&format=pjpg&auto=webp",
-            "publishedAt": "2023-05-08T09:03:18Z",
-            "content": "Many people don't know about respiratory syncytial virus, or RSV.\r\nAnd in many ways, that makes sense.\r\nIt largely goes unnoticed because in most cases, it results in a common cold, according to the \u2026 [+3570 chars]"
+            "title": "Buckingham Palace Releases Official Coronation Portraits - The Royal Family Channel",
+            "description": "'Buckingham Palace Releases Official Coronation Portraits' #royalfamily #kingcharles #queencamilla #coronation Buckingham Palace has released the official Co...",
+            "url": "https://www.youtube.com/watch?v=oM676vboNpg",
+            "urlToImage": "https://i.ytimg.com/vi/oM676vboNpg/maxresdefault.jpg",
+            "publishedAt": "2023-05-08T19:00:17Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Associated Press",
-            "title": "Fire deep in gold mine in southern Peru kills 27 workers - New York Post ",
-            "description": "Relatives of the victims were brought by buses to the mine in Yanaquihua in the Arequipa region, where they were briefed by security agents.",
-            "url": "https://nypost.com/2023/05/08/peru-gold-mine-fire-kills-27-workers/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/newspress-collage-26947704-1683535363798.jpg?quality=75&strip=all&1683530235&w=1024",
-            "publishedAt": "2023-05-08T08:58:00Z",
-            "content": "A fire broke out deep in a gold mine in southern Peru and killed at least 27 workers during an overnight shift, Peruvian authorities reported.\r\nThe Yanaquihua mining company said in a statement that \u2026 [+1318 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Marilyn Heck, Jessie DiMartino, Cristina Corujo",
-            "title": "Gunman on the loose after Dallas train shooting that killed 1, injured 2 - ABC News",
-            "description": "A fight broke out on a Dallas Area Rapid Transit train, a spokesperson said.",
-            "url": "https://abcnews.go.com/US/gunman-loose-after-dallas-train-shooting-killed-1/story?id=99162085",
-            "urlToImage": "https://s.abcnews.com/images/US/police-lights-rf-gty-200410_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-05-08T08:45:14Z",
-            "content": "One person is dead and two are injured after a fight broke out between two people on a Dallas Area Rapid Transit train, a spokesperson said.\r\nDART police officers are searching for the alleged shoote\u2026 [+343 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nouran Salahieh,Tina Burnside",
-            "title": "More than 29,000 people are evacuated from communities throughout Alberta as wildfires rage in Canada - CNN",
-            "description": "More than 100 wildfires raging across the Alberta region of Canada have forced more than 29,000 people to flee in what officials have called an \"unprecedented situation\" for the province.",
-            "url": "https://www.cnn.com/2023/05/08/weather/alberta-canada-wildfires-monday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508131339-03-alberta-canada-wildfires.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-08T08:23:00Z",
-            "content": "More than 100 wildfires raging across the Alberta region of Canada have forced more than 29,000 people to flee in what officials have called an unprecedented situation for the province.\r\nIn the past \u2026 [+4453 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Warren Buffett Sees Uncertainty In The EV Market - OilPrice.com",
-            "description": null,
-            "url": "https://families.google.com/service-restricted",
-            "urlToImage": null,
-            "publishedAt": "2023-05-08T08:17:23Z",
-            "content": "This service is unavailable for Google Workspace for Education users marked as under the age of 18 by their administrator. Learn more\r\nIf you have any further questions about your access, reach out t\u2026 [+37 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Rajesh Pandey",
-            "title": "Amazon spills the beans on the Google Pixel Tablet - Android Police",
-            "description": "Here\u2019s everything you want to know about Google\u2019s upcoming tablet",
-            "url": "https://www.androidpolice.com/amazon-spills-beans-google-pixel-tablet/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/10/Pixel-Tablet-Tensor-G2-pixel-event-front-dock-.png",
-            "publishedAt": "2023-05-08T07:41:00Z",
-            "content": "Alongside the Pixel Fold, Google is rumored to announce the Pixel Tablet and the Pixel 7a at I/O 2023 later this week. The Pixel Fold and Pixel 7a have been extensively detailed in leaks, revealing t\u2026 [+1866 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Namita Singh",
-            "title": "Brownsville Texas crash \u2013 live: SUV driver suspected of killing seven outside migrant shelter \u2018uncooperative\u2019 - The Independent",
-            "description": "Crash unfolded outside Ozanam Center as group of mostly Venezuelan men waited for city bus",
-            "url": "https://www.independent.co.uk/news/world/americas/crime/brownsville-texas-car-crash-video-latest-b2334655.html",
-            "urlToImage": "https://static.independent.co.uk/2023/05/07/21/AP23127685139236.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-05-08T07:37:49Z",
-            "content": "Investigation continues into Brownsville crash\r\nAn SUV slammed into a crowd of people waiting for a bus Sunday outside a migrant shelter in the border city of Brownsville, Texas, killing at least sev\u2026 [+1280 chars]"
+            "author": "Shannon Thaler",
+            "title": "JPMorgan must pay Charlie Javice's legal fees despite suing her in $175M fraud case - New York Post ",
+            "description": "JPMorgan Chase has been ordered to pay Charlie Javice\u2019s legal fees, a judge decided on Monday despite the fact that JPMorgan is suing Javice. The bank claimed Javice defrauded it in the $175 \u2026",
+            "url": "https://nypost.com/2023/05/08/jpmorgan-sues-charlie-javice-then-has-to-pay-her-legal-fees/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000010813093.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-05-08T18:53:00Z",
+            "content": "A judge has ordered JPMorgan Chase to pay Charlie Javice\u2019s legal fees \u2014 even as the mega-bank sues the embattled Frank founder for fraud in its $175 million acquisition of her company.\r\nDelaware Chan\u2026 [+3698 chars]"
         }
     ]
 }
