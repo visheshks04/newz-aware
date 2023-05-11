@@ -1,188 +1,240 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 34,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jason Owens",
+            "title": "NBA playoffs: Joel Embiid summons MVP form, powers 76ers to 3-2 series lead over Celtics - Yahoo Sports",
+            "description": "Philadelphia will have a closeout Game 6 at home.",
+            "url": "https://sports.yahoo.com/nba-playoffs-joel-embiid-summons-mvp-form-powers-76ers-to-3-2-series-lead-over-celtics-015842696.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XvZOruuUcxo6GsH3za9tUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/f8fb31d0-eed5-11ed-a79f-e72ee3f6edcf",
+            "publishedAt": "2023-05-10T01:58:00Z",
+            "content": "James Harden was the hero in Game 4.\r\nJoel Embiid took his turn in Game 5. The 76ers center powered Philadelphia to a 115-103 Game 5 win over the Boston Celtics on Tuesday to take a 3-2 series lead i\u2026 [+3949 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "MTV News forced to close down after 36 years amid Paramount layoffs - Fox News",
+            "description": "The news division of MTV, known for its focus on pop culture, will close its doors this week after 36 years on air, the company announced in a memo on Tuesday.",
+            "url": "https://www.foxnews.com/media/mtv-news-forced-close-down-36-years-amid-paramount-layoffs",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/GettyImages-1269763562.jpg",
+            "publishedAt": "2023-05-10T01:43:00Z",
+            "content": "MTV News will close its doors this week after 36 years as part of the latest round of mass layoffs at Paramount Global, the company announced in a memo Tuesday.\r\nThe news division of MTV launched in \u2026 [+4078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Elizabeth Elkind",
+            "title": "McCarthy says he'll meet with Biden on debt limit again Friday, opposes using 14th Amendment - Fox Business",
+            "description": "McCarthy spoke to reporters at the U.S. Capitol after the White House meeting on Tuesday.",
+            "url": "https://www.foxbusiness.com/politics/mccarthy-says-hell-meet-biden-debt-limit-again-friday-opposes-using-14th-amendment",
+            "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/05/0/0/GettyImages-1488691114.jpg?ve=1&tl=1",
+            "publishedAt": "2023-05-10T01:32:54Z",
+            "content": "House Speaker Kevin McCarthy told reporters at the U.S. Capitol on Tuesday evening that he will meet with President Joe Biden again on Friday to discuss the debt limit and that he would oppose the co\u2026 [+3185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Christine Idzelis",
+            "title": "Stanley Druckenmiller warns of U.S. hard landing at Sohn conference - MarketWatch",
+            "description": "Duquesne Family Office CEO Druckenmiller and Bridgewater co-CIO Karen Karniol-Tambour were among investors who spoke at the 2023 Sohn Investment Conference on Tuesday",
+            "url": "https://www.marketwatch.com/story/stanley-druckenmiller-warns-of-u-s-hard-landing-at-sohn-conference-says-debt-ceiling-debate-really-depressing-65d9ddab",
+            "urlToImage": "https://images.mktw.net/im-763159/social",
+            "publishedAt": "2023-05-10T00:30:00Z",
+            "content": "Macroeconomic concerns are piling up, creating heightened uncertainty for investors.\r\nThe debt-ceiling debate is really depressing, said Stanley Druckenmiller, chairman and chief executive of Duquesn\u2026 [+187 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Trump sexually abused writer E. Jean Carroll, must pay her $5 million, jury says - Reuters",
+            "description": "Donald Trump must pay $5 million in damages for sexually abusing magazine writer E. Jean Carroll in the 1990s and then defaming her by branding her a liar, a jury decided on Tuesday.",
+            "url": "https://www.reuters.com/legal/jurors-set-deliberate-civil-rape-case-against-donald-trump-2023-05-09/",
+            "urlToImage": "https://www.reuters.com/resizer/y2h6l3KCYeX3IpoNCSjE9ahJL1c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X4GPU3VDWRMULNUVRDNJUV2GUU.jpg",
+            "publishedAt": "2023-05-09T23:55:00Z",
+            "content": "NEW YORK, May 9 (Reuters) - Donald Trump must pay $5 million in damages for sexually abusing magazine writer E. Jean Carroll in the 1990s and then defaming her by branding her a liar, a jury decided \u2026 [+6372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Utah woman who wrote kids book on grief after husband died now charged with murder - KABC-TV",
+            "description": "Kouri Richins was arrested and is accused in charging documents of poisoning her husband with a lethal dose of fentanyl at their home in Kamas, a small mountain town near Park City.",
+            "url": "https://abc7.com/utah-woman-kouri-richins-wife-murder-childrens-book-husband-death-investigation/13228463/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13228531_wife-murder-childrens-book-AP-TN-img.jpg?w=1600",
+            "publishedAt": "2023-05-09T23:42:04Z",
+            "content": "SALT LAKE CITY -- After her husband died last year, she wrote a children's book on grief. Now she's charged with murder in his death.\r\nKouri Richins, 33, was arrested Monday and is accused in chargin\u2026 [+2525 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Cara Tabachnick",
+            "title": "Allen, Texas, mall shooter had 8 guns and targeted location, authorities say - CBS News",
+            "description": "The shooter had three guns on him and authorities said they found five more guns in his car.",
+            "url": "https://www.cbsnews.com/news/allen-texas-mall-shooter-guns-targeted-location-authorities/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/09/d359845c-5acb-4dd8-8b62-392162b2f044/thumbnail/1200x630/a8fc527c8e13d463fe715a6bf47a0237/ap23128841866443.jpg",
+            "publishedAt": "2023-05-09T23:37:00Z",
+            "content": "The Allen, Texas, mall shooter had three guns on him and five more in his car when he began his attack over the weekend, authorities said in a news conference Tuesday afternoon.\r\nMauricio Garcia, 33,\u2026 [+1624 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Feinstein returning to Senate after facing resignation calls - KCRA 3",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=-CHI9pwY_zM",
+            "urlToImage": null,
+            "publishedAt": "2023-05-09T23:10:11Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Aaron Kliegman",
+            "title": "California reparations committee calls for mandatory 'anti-bias' training to graduate medical school - Fox News",
+            "description": "California's reparations task force is calling on the state legislature to mandate \"anti-bias training\" and an assessment based on that training to graduate medical school.",
+            "url": "https://www.foxnews.com/politics/california-reparations-committee-calls-mandatory-anti-bias-training-graduate-medical-school",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/GettyImages-1243475686.jpg",
+            "publishedAt": "2023-05-09T22:17:00Z",
+            "content": "California's reparations task force is calling on the state legislature to mandate \"anti-bias training\" and an assessment based on that training as graduate requirements for medical school across the\u2026 [+6642 chars]"
+        },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Christina Zdanowicz,Kelly McCleary",
-            "title": "2 families lost multiple loved ones in the Texas outlet mall shooting - CNN",
-            "description": "A family of four has become a family of one after a 6-year-old's parents and brother were fatally shot by a gunman at a Texas outlet mall Saturday, a GoFundMe post by the family's friends said.",
-            "url": "https://www.cnn.com/2023/05/08/us/victims-allen-texas-outlet-mall-shooting/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508164555-01-texas-mall-shooting-victims-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-09T10:35:00Z",
-            "content": "A family of four has become a family of one after a 6-year-olds parents and brother were fatally shot by a gunman at a Texas outlet mall Saturday, a GoFundMe post by the familys friends said.\r\nThe Ho\u2026 [+5073 chars]"
+            "author": "Alli Rosenbloom",
+            "title": "Robert De Niro, 79, welcomes his seventh child - CNN",
+            "description": "Robert De Niro is a dad again, a representative for the actor confirmed to CNN on Tuesday.",
+            "url": "https://www.cnn.com/2023/05/09/entertainment/robert-de-niro-7th-child/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230509153131-robert-de-niro-seventh-child-052023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-09T22:09:00Z",
+            "content": "Robert De Niro is a dad again, a representative for the actor confirmed to CNN on Tuesday. \r\nThe Oscar-winner first shared the news on Monday in an interview with ET Canada to promote his new film, a\u2026 [+1181 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mark Morales,Evan Perez,Gregory Krieg",
+            "title": "Exclusive: Rep. George Santos charged by Justice Department in federal probe - CNN",
+            "description": "Federal prosecutors have filed criminal charges against New York Rep. George Santos, the Republican lawmaker whose astonishing pattern of lies and fabrications stunned even hardened politicos, according to three sources familiar with the matter.",
+            "url": "https://www.cnn.com/2023/05/09/politics/george-santos-charged-justice-department/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230509141639-02-george-santos-230427.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-09T21:58:00Z",
+            "content": "Federal prosecutors have filed criminal charges against New York Rep. George Santos, the Republican lawmaker whose astonishing pattern of lies and fabrications stunned even hardened politicos, accord\u2026 [+6712 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Maura Judkis, Andrea Salcedo, Maham Javaid",
+            "title": "Westminster dog show 2023: Lives updates from Best in Show - The Washington Post",
+            "description": "The latest news and updates from the Westminster Kennel Club Dog Show's final day Tuesday. Follow along for live updates New York.",
+            "url": "https://www.washingtonpost.com/sports/2023/05/09/westminister-dog-show/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGKC52HB6LK6ZZWEFJRFU355QE.jpg&w=1440",
+            "publishedAt": "2023-05-09T21:53:44Z",
+            "content": "NEW YORK After three days of competitions, judges at the 147th Westminster Kennel Club Dog Show will name one dog Best in Show, the events most coveted award, on Tuesday.\r\nThe final competition featu\u2026 [+285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "Israel kills three Islamic Jihad chiefs, 10 civilians in Gaza - Reuters",
-            "description": "Israel killed three Islamic Jihad commanders and 10 civilians in surprise airstrikes in Gaza on Tuesday, Palestinian officials said, drawing threats of reprisals from the faction and censure from Egypt, which has mediated past ceasefires in the enclave.",
-            "url": "https://www.reuters.com/world/middle-east/israeli-jets-strike-islamic-jihad-targets-gaza-military-2023-05-08/",
-            "urlToImage": "https://www.reuters.com/resizer/-P5ClsUMOqVkuuW2O7EgGKNgSZM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EJUFBDXRPBPFRA3ENNZK2IZJHA.jpg",
-            "publishedAt": "2023-05-09T09:45:00Z",
-            "content": "JERUSALEM, May 9 (Reuters) - Israel killed three Islamic Jihad commanders and 10 civilians in surprise airstrikes in Gaza on Tuesday, Palestinian officials said, drawing threats of reprisals from the\u2026 [+4635 chars]"
+            "title": "Tidal Surprises: Researchers Unravel the Secret Behind Greenland's Ice Meltdown - SciTechDaily",
+            "description": "Study suggests extent of future sea level rise could be vastly underestimated. New research has found that the grounding line of Greenland's Petermann Glacier shifts during tidal cycles, allowing warm seawater to accelerate ice melt. This previously unknown i\u2026",
+            "url": "https://scitechdaily.com/?p=275955",
+            "urlToImage": "https://scitechdaily.com/images/Petermann-Glacier-in-Greenland-scaled.jpg",
+            "publishedAt": "2023-05-09T21:42:08Z",
+            "content": "ByUniversity of California, IrvineMay 9, 2023\r\nIn the center of this NASA photograph taken in 2012, Petermann Glacier in northwest Greenland gradually moves toward the ocean, with large segments brea\u2026 [+3605 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "Here's one more Pixel 7a leak [Video] - 9to5Google",
+            "description": "Here's one more leak of the Google Pixel 7a before the company's launch at Google I/O 2023 on May 10, 2023.",
+            "url": "https://9to5google.com/2023/05/09/pixel-7a-leak-promo-video/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/05/pixel-7a-leak-video-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-05-09T21:34:00Z",
+            "content": "The Pixel 7a has pretty much leaked to death at this point, and we know everything there is to know about it. Now, less than a day before Google is poised to publicly announce the device, yet another\u2026 [+1228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Astronomers claim to have solved mystery of the runaway supermassive black hole - Phys.org",
+            "description": "A mysterious trail of stars formed eight thousand million years ago and recently discovered by the Hubble Space Telescope has been a challenge to a number of research groups. Its size is similar to that of the Milky Way, and this very long narrow structure ha\u2026",
+            "url": "https://phys.org/news/2023-05-astronomers-mystery-runaway-supermassive-black.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/the-mystery-of-the-run.jpg",
+            "publishedAt": "2023-05-09T20:50:57Z",
+            "content": "A mysterious trail of stars formed eight thousand million years ago and recently discovered by the Hubble Space Telescope has been a challenge to a number of research groups. Its size is similar to t\u2026 [+3128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Angie Orellana Hernandez",
+            "title": "Kellie Pickler\u2019s Husband Kyle Jacobs' Cause of Death Confirmed by Autopsy - Yahoo Entertainment",
+            "description": "Kellie Pickler\u2019s husband Kyle Jacobs died by suicide on Feb. 17, the Davidson Country Medical Examiner confirmed two months after his passing. Jacobs was 49.",
+            "url": "https://www.yahoo.com/entertainment/kellie-pickler-rsquo-husband-kyle-204330084.html",
+            "urlToImage": "https://media.zenfs.com/en/e__181/fe7d99ee362db75333ef69fceec8acf8",
+            "publishedAt": "2023-05-09T20:43:30Z",
+            "content": "Kyle Jacobs' cause of death has been determined by officials.\r\nThe husband of Kellie Pickler died by suicide on Feb. 17, a spokesperson for the Davidson Country Medical Examiner confirmed to E! News \u2026 [+2018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
             },
             "author": null,
-            "title": "Writers' strike freezes 'Handmaid's Tale,' 'Game of Thrones' spinoff - Reuters",
-            "description": "Writing for a new season of \"The Handmaid's Tale\" and a coming \"Game of Thrones\" prequel was halted as a nearly week-long strike by thousands of film and television writers rippled across Hollywood on Monday.",
-            "url": "https://www.reuters.com/business/media-telecom/writers-strike-freezes-game-thrones-spinoff-other-shows-2023-05-08/",
-            "urlToImage": "https://www.reuters.com/resizer/SuzoNbQRBk1vJM_Wp4gOrwHbU-E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N7UIFMCK7FKYHK7LCSK6KQQHEU.jpg",
-            "publishedAt": "2023-05-09T09:34:00Z",
-            "content": "LOS ANGELES, May 8 (Reuters) - Writing for a new season of \"The Handmaid's Tale\" and a coming \"Game of Thrones\" prequel was halted as a nearly week-long strike by thousands of film and television wri\u2026 [+2689 chars]"
+            "title": "Shin Bet chief: Slain Gaza terror chief was directing West Bank rocket-making cell - The Times of Israel",
+            "description": "Ronen Bar also reveals Gaza strike killed Islamic Jihad leader behind gruesome 2004 murder of Hatuel family, as Netanyahu warns terror groups against launching multi-front battle",
+            "url": "https://www.timesofisrael.com/shin-bet-chief-says-troops-thwarted-west-bank-cell-making-rockets-to-fire-at-israel/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/04/33DE8UC-highres-1024x640.jpg",
+            "publishedAt": "2023-05-09T20:29:00Z",
+            "content": "Shin Bet chief Ronen Bar said Tuesday that security forces recently foiled a Palestinian Islamic Jihad cell based in the West Bank that had started to manufacture rockets to launch at Israel under th\u2026 [+6179 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "techcrunch",
+                "name": "TechCrunch"
             },
-            "author": "Holly Ellyatt",
-            "title": "Russia\u2019s Victory Day in pictures: Putin watches on during scaled-back parade - CNBC",
-            "description": "Russia's annual Victory Day parade is underway in Moscow with thousands of military personnel and weaponry filing past Russia's President Vladimir Putin.",
-            "url": "https://www.cnbc.com/2023/05/09/russia-victory-day-photos-show-putin-watching-on-during-annual-parade.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107238000-1683621906234-gettyimages-1253226828-AFP_33EP3NU.jpeg?v=1683624761&w=1920&h=1080",
-            "publishedAt": "2023-05-09T09:32:41Z",
-            "content": "Russia's annual Victory Day parade is underway in Moscow with thousands of military personnel and weaponry filing past Russia's President Vladimir Putin, his top military officials and allies.\r\nThe s\u2026 [+1405 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Nika Shakhnazarova",
-            "title": "Kim Zolciak, Kroy Biermann's financial woes led to divorce: report - Page Six",
-            "description": "\u201cThe Real Housewives of Atlanta\u201d alum this week filed for divorce from the former NFL star, listing April 30 as the date of their separation.",
-            "url": "https://pagesix.com/2023/05/09/kim-zolciak-kroy-biermanns-financial-woes-led-to-divorce-report/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/05/newspress-collage-6873542-1683620131049.jpg?quality=75&strip=all&1683605913&w=1200",
-            "publishedAt": "2023-05-09T08:35:00Z",
-            "content": "Kim Zolciak\u2019s ill-fated marriage to Kroy Biermann crumbled due to their mounting financial woes, according to reports.\r\n\u201cThe Real Housewives of Atlanta\u201d alum this week filed for divorce from the form\u2026 [+2556 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "John Raby",
-            "title": "Bob Huggins apologizes for homophobic slur during radio show - The Associated Press",
-            "description": "West Virginia basketball coach Bob Huggins apologized Monday after using a homophobic slur to refer to Xavier fans while also denigrating Catholics during a radio interview.  West Virginia's athletic department called Huggins' comments \u201coffensive\" and said it\u2026",
-            "url": "https://apnews.com/article/huggins-homophobic-slur-west-virginia-665dd3d31760b1c6f66d7d706e825727",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cac792b00ad4410989978321913d0bf0/3000.webp",
-            "publishedAt": "2023-05-09T08:23:33Z",
-            "content": "West Virginia basketball coach Bob Huggins apologized Monday after using a homophobic slur to refer to Xavier fans while also denigrating Catholics during a radio interview. \r\nWest Virginias athletic\u2026 [+2118 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Dave McMenamin",
-            "title": "Lonnie Walker's thrilling 4th quarter gives Lakers 3-1 lead - ESPN - ESPN",
-            "description": "Lonnie Walker IV scored all 15 of his points in the fourth quarter and took over Monday night's Game 4 to put the Lakers one win away from the Western Conference finals.",
-            "url": "https://www.espn.com/nba/story/_/id/37582316/lonnie-walker-thrilling-4th-quarter-gives-lakers-3-1-series-lead-warriors",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0509%2Fr1170560_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-05-09T08:21:00Z",
-            "content": "LOS ANGELES -- Turning in a fourth-quarter offensive performance unmatched by a Lakers player since Kobe Bryant did it before he was even born, Lonnie Walker IV took over Game 4 of Los Angeles' secon\u2026 [+4379 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Namita Singh",
-            "title": "Texas car crash \u2013 live: Brownsville driver George Alvarez yelled anti-migrant insults, says witness - The Independent",
-            "description": "Police say they are still investigating whether crash was intentional",
-            "url": "https://www.independent.co.uk/news/world/americas/crime/brownsville-texas-car-crash-video-latest-b2335355.html",
-            "urlToImage": "https://static.independent.co.uk/2023/05/07/21/AP23127685139236.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-05-09T08:14:15Z",
-            "content": "Outpouring of support for migrants after Brownsville crash\r\nBrownsville residents gathered outside Oznam Center at a makeshift memorial to pay their respects to those killed in the crash.\r\nFor a numb\u2026 [+1193 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Video Games Chronicle"
-            },
-            "author": "Andy Robinson",
-            "title": "Nintendo reports Switch sales slowdown and warns no new hardware this year - Video Games Chronicle",
-            "description": "Console sales declined by 22% in the year ended March 31; Company forecasts further 16.5%",
-            "url": "https://www.videogameschronicle.com/news/nintendo-reports-switch-sales-slowdown-and-warns-no-new-hardware-this-year/",
-            "urlToImage": "https://www.videogameschronicle.com/files/2022/09/Switch-OLED-Pokemon-Scarlet-Violet-2560x1463.jpg",
-            "publishedAt": "2023-05-09T07:48:16Z",
-            "content": "This article was updated at 10:25 BST.Nintendo has reported a slowdown in Switch hardware sales and suggested that no new hardware will release before April 2024.\r\nThe company has now sold 125.62 mil\u2026 [+4744 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Julia Kollewe",
-            "title": "Apple co-founder warns AI could make it harder to spot scams - The Guardian",
-            "description": "Steve Wozniak says content created with artificial intelligence should be labelled and calls for regulation",
-            "url": "https://www.theguardian.com/technology/2023/may/09/apple-co-founder-ai-scams-steve-wozniak-artificial-intelligence",
-            "urlToImage": "https://i.guim.co.uk/img/media/891cd476653ebbb0db34a7281c20657a1310f661/0_165_2600_1561/master/2600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc6c475792846167b9cff71452d5d522",
-            "publishedAt": "2023-05-09T07:33:00Z",
-            "content": "Apple co-founder Steve Wozniak has warned that artificial intelligence could be used by bad actors and make it harder to spot scams and misinformation.\r\nWozniak, who was one of Apples co-founders wit\u2026 [+7589 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Scott Powers, Corey Pronman, Mark Lazerus",
-            "title": "Connor Bedard to Chicago? What NHL Draft Lottery win means for Blackhawks\u2019 rebuild - The Athletic",
-            "description": "The Blackhawks entered Monday's lottery with an 11.5 percent chance of landing the No. 1 pick.",
-            "url": "https://theathletic.com/4500083/2023/05/08/blackhawks-connor-bedard-draft-lottery/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/05/06184447/AP23034671540284-scaled-e1683413115499-1024x683.jpg",
-            "publishedAt": "2023-05-09T06:40:40Z",
-            "content": "By Scott Powers, Mark Lazerus and Corey Pronman\r\nThe Chicago Blackhawks won the 2023 NHL Draft Lottery on Monday, landing the opportunity to select star prospect Connor Bedard at No. 1. Heres what yo\u2026 [+4584 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Elliot Smith",
-            "title": "UBS announces Credit Suisse CEO Koerner to join board after emergency rescue - CNBC",
-            "description": "UBS on Tuesday announced that Credit Suisse CEO Ulrich Koerner will join the executive board of the new joint entity once its emergency purchase of the stricken bank completes.",
-            "url": "https://www.cnbc.com/2023/05/09/ubs-announces-credit-suisse-ceo-koerner-to-join-board-after-emergency-rescue.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107209075-1678885775654-gettyimages-1248217516-UK_KOERNER.jpeg?v=1683610757&w=1920&h=1080",
-            "publishedAt": "2023-05-09T05:39:17Z",
-            "content": "UBS on Tuesday announced that Credit Suisse CEO Ulrich Koerner will join the executive board of the new joint entity once its emergency purchase of the stricken bank completes.\r\nThe Swiss giant said \u2026 [+2267 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Brian Lewis",
-            "title": "Heat's Erik Spoelstra 'putting on a clinic' against Tom Thibodeau, Knicks - New York Post ",
-            "description": "Tom Thibodeau has two Coach of the Year trophies, but Erik Spoelstra has a couple of titles \u2014 and so far, the upper hand on his Knicks counterpart.",
-            "url": "https://nypost.com/2023/05/09/erik-spoelstra-putting-on-a-clinic-vs-tom-thibodeau-knicks/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/newspress-collage-26963281-1683606470874.jpg?quality=75&strip=all&1683592241&w=1024",
-            "publishedAt": "2023-05-09T05:17:00Z",
-            "content": "MIAMI Tom Thibodeau has two Coach of the Year trophies, but Miamis Erik Spoelstra has a couple of titles and so far, the upper hand on his Knicks counterpart.\r\nThe shorthanded Heat survived a red-hot\u2026 [+3076 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Adam Shaw",
-            "title": "CBP, ICE to launch enforcement operation in El Paso as migrant numbers surge ahead of Title 42\u2019s end - Fox News",
-            "description": "CBP and ICE will launch a \"targeted enforcement operation\" in El Paso, Texas, to process and possibly remove illegal immigrants in a key crossing area ahead of Title 42's end.",
-            "url": "https://www.foxnews.com/politics/cbp-ice-launch-enforcement-operation-el-paso-migrant-numbers-surge-ahead-title-42s-end",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/AP23125800262095.jpg",
-            "publishedAt": "2023-05-09T03:59:00Z",
-            "content": "The Biden administration is launching a \"targeted enforcement operation\" in El Paso, Texas, on Tuesday to process and potentially deport and expel illegal immigrants in one of the hotspots for migran\u2026 [+4095 chars]"
+            "author": "Kirsten Korosec",
+            "title": "EV maker Rivian narrows losses in Q1, beats on revenue - TechCrunch",
+            "description": "Rivian reported $661 million in revenue for the first quarter, beating Wall Street expectations. The company also saw net losses narrow.",
+            "url": "https://techcrunch.com/2023/05/09/ev-maker-rivian-narrows-losses-in-q1-beats-on-revenue/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/IMG_2374.jpeg?resize=1200,675",
+            "publishedAt": "2023-05-09T20:23:29Z",
+            "content": "Rivian may still be burning through cash, but it has managed to narrow losses and generate more revenue as the automaker sells more of its EVs while paring down costs.\r\nRivian reported Tuesday $661 m\u2026 [+3472 chars]"
         },
         {
             "source": {
@@ -190,77 +242,25 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Biden announces new travel compensation plan for flight delays and cancellations - NBC News",
-            "description": "President Biden unveiled a new plan calling for airlines to compensate passengers with cash, meal and hotel vouchers when flight delays or cancellations are ...",
-            "url": "https://www.youtube.com/watch?v=CAGxbIuYsZs",
-            "urlToImage": "https://i.ytimg.com/vi/CAGxbIuYsZs/maxresdefault.jpg",
-            "publishedAt": "2023-05-09T03:30:04Z",
+            "title": "Rich Eisen Reacts to Lonnie Walker IV's Amazing 4th Quarter in Lakers' GM4 Win vs the Warriors - The Rich Eisen Show",
+            "description": "Rich Eisen recaps the Lakers\u2019 Game 4 win over the Golden State Warriors that featured an unlikely star turn by L.A.\u2019S Lonnie Walker IV who scored all of his ...",
+            "url": "https://www.youtube.com/watch?v=Dbr_seq47aY",
+            "urlToImage": "https://i.ytimg.com/vi/Dbr_seq47aY/maxresdefault.jpg",
+            "publishedAt": "2023-05-09T20:00:04Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Deadline"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Katie Campione",
-            "title": "2023 MTV Movie & TV Awards Up 23% In Viewers - Deadline",
-            "description": "The 2023 MTV Movie & TV Awards managed to see an uptick in viewers compared to last year despite a few last minute hiccups. Just one day after Drew Barrymore pulled out as host of the awards sh\u2026",
-            "url": "https://deadline.com/2023/05/2023-mtv-movie-and-tv-awards-ratings-writers-strike-1235360018/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/pedro-pascal-mtv-movie-and-tv-awards.jpg?w=1024",
-            "publishedAt": "2023-05-09T01:01:00Z",
-            "content": "The 2023 MTV Movie &amp; TV Awards managed to see an uptick in viewers compared to last year despite a few last minute hiccups.\r\nJust one day after Drew Barrymore pulled out as host of the awards sho\u2026 [+1513 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Teen dies when dune sand hole collapses - ABC11",
-            "description": "Teen dies when dune sand hole collapses at Cape Hatteras National Seashore in North Carolinahttps://abc11.com/sand-dune-collapse-teen-killed-cape-hatteras/13...",
-            "url": "https://www.youtube.com/watch?v=orLh6Wbz4pw",
-            "urlToImage": "https://i.ytimg.com/vi/orLh6Wbz4pw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB8UocAPsMa1jkUIIek-kP0JQ8EZg",
-            "publishedAt": "2023-05-08T23:52:38Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Greg Wehner",
-            "title": "White House press secretary slips up and says US averages 1 shooting a week, after saying more than 1 per day - Fox News",
-            "description": "White House press secretary Karine Jean-Pierre said the United States averages more than one shooting per day before accidentally saying it averages one per week.",
-            "url": "https://www.foxnews.com/politics/white-house-press-secretary-slips-up-says-us-averages-shooting-week-after-saying-more-than-per-day",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/KJP.jpg",
-            "publishedAt": "2023-05-08T23:52:00Z",
-            "content": "White House press secretary Karine Jean-Pierre said during a press briefing on Monday that the U.S. has averaged more than one mass shooting per day since the start of 2023, before later saying the c\u2026 [+2605 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "INSIDER"
-            },
-            "author": "Callie Ahlgrim",
-            "title": "Taylor Swift and Matty Healy: Timeline of friendship, rumored romance - Insider",
-            "description": "The musicians first sparked dating rumors in 2014, but Healy said it was just a \"flirtation.\" He recently attended Swift's tour stops in Nashville.",
-            "url": "https://www.insider.com/taylor-swift-matty-healy-relationship-timeline-2023-5",
-            "urlToImage": "https://i.insider.com/6459195365a21600192fa1db?width=1200&format=jpeg",
-            "publishedAt": "2023-05-08T23:25:00Z",
-            "content": "November 7, 2014: Healy wore a '1989' T-shirt during The 1975's concert in Milwaukee\r\nkelly (@tweetsbykell) November 8, 2014\r\nHealy took the stage at the Eagles Ballroom in Milwaukee wearing a piece \u2026 [+11800 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Decrypt"
-            },
-            "author": "Jose Antonio Lanz",
-            "title": "Warren \u2018Bitcoin Is Rat Poison\u2019 Buffett Likens AI to the Atom Bomb - Decrypt",
-            "description": "\"We won't be able to uninvent it,\" Warren Buffett said. \"And, you know, we did invent... the atom bomb.\"",
-            "url": "https://decrypt.co/139371/warren-bitcoin-is-rat-poison-buffett-likens-ai-to-the-atom-bomb",
-            "urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Warren-Buffett-shutterstock_2177551955-16x9-1-gID_7.jpg@png",
-            "publishedAt": "2023-05-08T23:07:01Z",
-            "content": "Bitcoin is rat poison, in the view of Berkshire Hathaway's chairman and CEO, Warren Buffett, and its vice chair Charlie Munger. But for them, there's something even worse: AI.\r\nThe two legends of the\u2026 [+2804 chars]"
+            "author": "Ariane de Vogue,Shawna Mizelle,Lauren Fox,Tierney Sneed",
+            "title": "GOP megadonor Harlan Crow rebuffs congressional request to disclose details about travel and real estate deals with Clarence Thomas - CNN",
+            "description": "Harlan Crow, the GOP megadonor who paid for luxury travel for Supreme Court Justice Clarence Thomas, declined to answer questions raised by a key Democratic senator who is examining whether those trips and a private real estate deal could have triggered viola\u2026",
+            "url": "https://www.cnn.com/2023/05/09/politics/harlan-crow-senate-democrats-clarence-thomas/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230509080108-senate-judiciary-committee-clarence-thomas-file-050223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-09T19:56:00Z",
+            "content": "Harlan Crow, the GOP megadonor who paid for luxury travel for Supreme Court Justice Clarence Thomas, declined to answer questions raised by a key Democratic senator who is examining whether those tri\u2026 [+5295 chars]"
         }
     ]
 }
