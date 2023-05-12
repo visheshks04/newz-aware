@@ -1,19 +1,214 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh,Rosa Flores",
+            "title": "Asylum officers, Secret Service agents and troops have surged toward border with Title 42\u2019s expiration hours away - CNN",
+            "description": "With just hours left before Title 42 expires Thursday night, the US is wrapping up a surge of asylum officers, troops and federal agents toward the southern border, anticipating the Trump-era border restriction policy's demise could spur an even heavier migra\u2026",
+            "url": "https://www.cnn.com/2023/05/11/us/title-42-expires-border-immigration-thursday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230511001332-01-title-42-us-mx-border-050923.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-11T09:08:00Z",
+            "content": "With just hours left before Title 42 expires Thursday night, the US is wrapping up a surge of asylum officers, troops and federal agents toward the southern border, anticipating the Trump-era border \u2026 [+8927 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ella Nilsen",
+            "title": "EPA proposes new rules that would dramatically slash planet-warming pollution from power plants - CNN",
+            "description": "The rules would apply to the nation's fleet of existing and new power plants that run on coal and natural gas -- two major fossil fuels that are the root cause of the climate crisis.",
+            "url": "https://www.cnn.com/2023/05/11/politics/epa-power-plant-rules-climate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230510132243-calpine-lost-medanos-energy-center-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-11T09:01:00Z",
+            "content": "The Environmental Protection Agency on Thursday will propose one of its most highly anticipated climate rules to date, compelling nearly all US power plants that generate the nations electricity to c\u2026 [+7197 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "CNBC"
+            },
+            "author": "Sophie Kiderlin",
+            "title": "Treasury yields mixed as investors weigh inflation expectations - CNBC",
+            "description": "U.S. Treasury yields were mixed on Thursday as investors digested the latest consumer price index report and looked ahead to further inflation insights.",
+            "url": "https://www.cnbc.com/2023/05/11/us-treasury-yields-investors-weigh-inflation-expectations.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107231399-1682520260323-gettyimages-1485421609-032a0226_9x0rkxlf.jpeg?v=1683793101&w=1920&h=1080",
+            "publishedAt": "2023-05-11T08:18:21Z",
+            "content": "U.S. Treasury yields were mixed on Thursday as investors digested the latest consumer price index report and looked ahead to further inflation insights and key economic data.\r\nAt 6:14 a.m. ET, the yi\u2026 [+1435 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Kendra Andrews",
+            "title": "Draymond Green sets tone as Warriors beat Lakers to stay alive - ESPN - ESPN",
+            "description": "Draymond Green came out as Golden State's engine, and the Warriors beat the Lakers to stave off elimination.",
+            "url": "https://www.espn.com/nba/story/_/id/37600741/draymond-green-sets-tone-warriors-beat-lakers-stay-alive",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0511%2Fr1171470_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-05-11T07:55:15Z",
+            "content": "SAN FRANCISCO -- Draymond Green was not going to let the Golden State Warriors' season end Wednesday night. It was his goal to set the tone for his team.\r\nAhead of Game 5 against the Los Angeles Lake\u2026 [+5714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Wajahat Ali",
+            "title": "CNN Failed America With Its Train Wreck of a Trump Town Hall - The Daily Beast",
+            "description": "CNN decided to reward Trump for his reckless and dangerous behavior by giving him a 70-minute Festivus to air his grievances and lies.",
+            "url": "https://www.thedailybeast.com/cnn-failed-america-with-its-trainwreck-of-a-trump-town-hall",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683772743/230510-trump-townhall-tease_vpsysw",
+            "publishedAt": "2023-05-11T07:14:14Z",
+            "content": "With its Republican presidential town hall on Wednesday, CNN failed journalism, the American public, and its own employees by deciding to invite an arsonist who has spent the past seven years trying \u2026 [+6188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Stephen Curry is a step closer to getting revenge for the LeBron James-led comeback in 2016 NBA Finals - CBS Sports",
+            "description": "Seven years ago, Steph's Warriors were up on LeBron's Cavs 3-1. Can Curry flip the script?",
+            "url": "https://www.cbssports.com/nba/news/stephen-curry-is-a-step-closer-to-getting-revenge-for-the-lebron-james-led-comeback-in-2016-nba-finals/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/11/56f8061b-b7c2-413c-aff4-da1188606033/thumbnail/1200x675/3c6841f0c637914c0e394dc58a386c71/untitled-design-324.png",
+            "publishedAt": "2023-05-11T06:28:00Z",
+            "content": "Few things motivate like the sweet sense of revenge.\u00a0\r\nAnd Steph Curry, after leading his Golden State Warriors to a Game 5 win Wednesday night over the Los Angeles Lakers, now has a shot at some ser\u2026 [+3807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Arjun Kharpal",
+            "title": "SoftBank posts record $32 billion loss at its Vision Fund tech investment arm - CNBC",
+            "description": "SoftBank's Vision Fund segment posted a 4.3 trillion Japanese yen ($32 billion) loss for its fiscal year ending Mar. 31.",
+            "url": "https://www.cnbc.com/2023/05/11/softbank-full-year-2022-earnings-vision-fund-posts-32-billion-loss.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107122654-1663838758188-gettyimages-1200309948-diciommo-softbank200212_nppjx.jpeg?v=1683786089&w=1920&h=1080",
+            "publishedAt": "2023-05-11T06:21:29Z",
+            "content": "SoftBank recorded a record loss for its Vision Fund as a recent rally in tech stocks has done little to help another difficult year for its flagship investment unit.\r\nThe Japanese giant's Vision Fund\u2026 [+4083 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Heat @ Knicks Game 5 Live Scoreboard | #NBAPlayoffs Presented by Google Pixel - NBA",
-            "description": "Tune into TNT For all of today's #NBAPlayoff Presented by Google Pixel action! Heat/Knicks Game 5 | 7:30 PM ET Lakers/Warriors Game 5| 10:00 PM ETNever miss ...",
-            "url": "https://www.youtube.com/watch?v=l5RSxa4qoVc",
-            "urlToImage": "https://i.ytimg.com/vi/l5RSxa4qoVc/maxresdefault_live.jpg",
-            "publishedAt": "2023-05-10T23:26:17Z",
-            "content": null
+            "title": "Google I/O 2023: Search king adds AI to respond to Microsoft challenge - Reuters",
+            "description": "Alphabet Inc's <a href=\"https://www.reuters.com/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> Google is rolling out more artificial intelligence for its core search product, hoping to create some of the same consumer excitement generated by Microsoft Corp'\u2026",
+            "url": "https://www.reuters.com/technology/google-expected-unveil-its-answer-microsofts-ai-search-challenge-2023-05-10/",
+            "urlToImage": "https://www.reuters.com/resizer/IFynpz7OmR70_9GEiOGTvMHvfPI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TONA4244NZINJFFRKGODXROZNM.jpg",
+            "publishedAt": "2023-05-11T05:52:00Z",
+            "content": "May 10 (Reuters) - Alphabet Inc's (GOOGL.O) Google is rolling out more artificial intelligence for its core search product, hoping to create some of the same consumer excitement generated by Microsof\u2026 [+5459 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": null,
+            "title": "Watch the Google I/O 2023 keynote in under 18 minutes | Engadget - Engadget",
+            "description": "Google's I/O event this year was jam-packed with new product launches and an in-depth introduction to its new generative AI offerings..",
+            "url": "https://www.engadget.com/watch-the-google-io-2023-keynote-in-under-18-minutes-052059113.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/hFU8rc7830i0Hw0r.Fpkdg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/89c27f10-efa9-11ed-a42b-7e406812b8a5.cf.jpg",
+            "publishedAt": "2023-05-11T05:22:20Z",
+            "content": "Google's I/O event this year was jam-packed with new product launches and an in-depth introduction to its new generative AI offerings. The star of its new set of device was, perhaps, the new Pixel Fo\u2026 [+1348 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Thursday, May 11, 2023 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2023/5/11/23715878/horoscopes-today-thursday-may-11-2023",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/c23cdf6/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FjAkovojt-ROOGQJf13YCslslXz0%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24642255%2FGeorgia_mug.jpeg",
+            "publishedAt": "2023-05-11T05:01:15Z",
+            "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Aquarius.\r\nAries (March 21-April 19)\r\nThis is a good day to make long-range plans about money issues, earnings\u2026 [+3799 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Aislinn Murphy",
+            "title": "Disney's earnings rise on theme park strength as streaming subscribers decline - Fox Business",
+            "description": "The Walt Disney Co.\u2019s\u00a0quarterly results release Wednesday included increased revenue and net profit boosted by its theme park business.",
+            "url": "https://www.foxbusiness.com/markets/disneys-earnings-rise-theme-park-strength-subscribers-decline",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/02/0/0/AP23040512375466.jpg?ve=1&tl=1",
+            "publishedAt": "2023-05-11T03:48:22Z",
+            "content": "The Walt Disney Company reported improved results last quarter as revenue rose and net profit nearly tripled.\r\nThe company reported that it reduced losses at its streaming service, Disney+, by increa\u2026 [+3701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "A Shiny, Steamy Surprise: NASA's Webb Takes Closest Look Yet at Mysterious Planet - SciTechDaily",
+            "description": "NASA's James Webb Space Telescope has observed a steamy, highly reflective mini-Neptune exoplanet, GJ 1214 b, using its Mid-Infrared Instrument (MIRI) to reveal details about its atmosphere. The watery atmosphere suggests that the planet formed farther from i\u2026",
+            "url": "https://scitechdaily.com/a-shiny-steamy-surprise-nasas-webb-takes-closest-look-yet-at-mysterious-planet/",
+            "urlToImage": "https://scitechdaily.com/images/Exoplanet-GJ-1214-b-and-Its-Star-scaled.jpg",
+            "publishedAt": "2023-05-11T03:22:36Z",
+            "content": "ByPat Brennan, NASA's Exoplanet Exploration ProgramMay 10, 2023\r\nThis artists concept depicts the planet GJ 1214 b, a mini-Neptune with what is likely a steamy, hazy atmosphere. A new study based on \u2026 [+11708 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine says it routs Russian brigade, Kremlin acknowledges 'very difficult' campaign - Reuters",
+            "description": "A Ukrainian unit said on Wednesday it had routed a Russian brigade near the stronghold of Bakhmut in an incident underlining the task facing the Kremlin as it carries out what it calls a \"very difficult\" military operation.",
+            "url": "https://www.reuters.com/world/europe/ukraine-says-it-routs-russia-brigade-kremlin-admits-campaign-very-difficult-2023-05-10/",
+            "urlToImage": "https://www.reuters.com/resizer/t9aoVLk-aE9sXw3t3ILxoHdgUSk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WLX5MFJN4ZNOXD7OGIHBDTVPOM.jpg",
+            "publishedAt": "2023-05-11T02:48:00Z",
+            "content": "May 11 (Reuters) - A Ukrainian unit said on Wednesday it had routed a Russian brigade near the stronghold of Bakhmut in an incident underlining the task facing the Kremlin as it carries out what it c\u2026 [+4506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "247Sports"
+            },
+            "author": "Mike Casazza",
+            "title": "Rapid reactions to the Bob Huggins penalties - 247Sports",
+            "description": "What do we make of this response?",
+            "url": "https://247sports.com/college/west-virginia/article/west-virginia-basketball-coach-bob-huggins-suspension-new-contra-210014773/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/177/91/10091177.jpg",
+            "publishedAt": "2023-05-11T02:46:28Z",
+            "content": "For the time being, which means for at least a few more months and until the time when Neal Brown decides to say this is no longer the case, not much separates Garrett Greene and Nicco Marchiol. They\u2026 [+4170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Mona Khalifeh",
+            "title": "Chrishell Stause and G Flip Get Married in Surprise Wedding After 1 Year of Dating - Entertainment Tonight",
+            "description": "The pair first went public with their relationship in May of 2022.",
+            "url": "https://www.etonline.com/chrishell-stause-and-g-flip-get-married-in-surprise-wedding-after-1-year-of-dating-204389",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/AD-G-Flip-Chrishell-1280-X-720-HERO-1-IMAGE.jpg?h=e8a55521&itok=btUi5Eot",
+            "publishedAt": "2023-05-11T01:57:03Z",
+            "content": "Chrishell Stause\u00a0and G Flip are married!\r\nOn Wednesday, Stause's rep confirmed the happy news to ET following the\u00a0Selling Sunset\u00a0star's Instagram post celebrating\u00a0the release of G Flip's new single, \u2026 [+1975 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paul Steinhauser",
+            "title": "Trump claims rape accuser a 'wack job' and verdict he was liable for sexual abuse a 'rigged deal' at townhall - Fox News",
+            "description": "Former President Donald Trumps takes questions from GOP voters at a New Hampshire the day after the verdict by a federal jury that former President Trump was liable for sexual abuse",
+            "url": "https://www.foxnews.com/politics/trump-town-hall-accuser-wack-job-verdict-liable-sexual-abuse-rigged-deal-townhall",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Look.jpg",
+            "publishedAt": "2023-05-11T01:47:00Z",
+            "content": "GOFFSTOWN, N.H. - Former President Donald Trump argued that the verdict by a federal jury that he was liable for sexual abuse was \"a rigged deal\" during a contentious prime time town hall of Republic\u2026 [+8368 chars]"
         },
         {
             "source": {
@@ -25,7 +220,7 @@
             "description": "The Biden administration is rolling out a new program for migrant families released in the United States to track them as they go through a speedy deportation process, including a measure that would require they stay under home confinement, according to multi\u2026",
             "url": "https://www.cnn.com/2023/05/10/politics/migrant-families-tracking-biden-administration/index.html",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/170518110200-01-white-house-exterior-file.jpg?q=x_3,y_126,h_1684,w_2993,c_crop/w_800",
-            "publishedAt": "2023-05-10T22:57:00Z",
+            "publishedAt": "2023-05-11T00:40:00Z",
             "content": "The Biden administration is rolling out a new program for migrant families released in the United States to track them as they go through a speedy deportation process, including a measure that would \u2026 [+3237 chars]"
         },
         {
@@ -33,234 +228,39 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Mark Morales,Evan Perez,Fredreka Schouten,Gregory Krieg,Tierney Sneed,Hannah Rabinowitz,Devan Cole",
-            "title": "George Santos pleads not guilty to 13 federal charges, including fraud and money laundering - CNN",
-            "description": "Rep. George Santos, a New York Republican, pleaded not guilty to allegations of fraud and money laundering in a Long Island courtroom Wednesday.",
-            "url": "https://www.cnn.com/2023/05/10/politics/george-santos-indicted-arrested/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230510152536-05-george-santos-230510.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-10T22:39:00Z",
-            "content": "Rep. George Santos has pleaded not guilty to 13 federal charges, including allegations of fraud related to Covid-19 unemployment benefits, misusing campaign funds and lying about his personal finance\u2026 [+7444 chars]"
+            "author": "Katherine Dillinger",
+            "title": "Skin patch shows promise in toddlers with peanut allergies - CNN",
+            "description": "A \"peanut patch\" showed promising results in a late-phase clinical trial in toddlers with peanut allergies, according to a new study.",
+            "url": "https://www.cnn.com/2023/05/10/health/peanut-allergy-patch/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230510201213-peanut-butter-toast-peanuts-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-11T00:33:00Z",
+            "content": "A peanut patch showed promising results in a late-phase clinical trial in toddlers with peanut allergies, according to a new study.\r\nResearchers from the French biopharmaceutical firm DBV Technologie\u2026 [+3899 chars]"
         },
         {
             "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": null,
-            "title": "Biden starts to throw some punches in the debt ceiling fight - POLITICO",
-            "description": "The president took questions from the press and went to a GOP-held district Wednesday. His team is already eyeing more.",
-            "url": "https://www.politico.com/news/2023/05/10/biden-new-york-debt-ceiling-fight-00096309",
-            "urlToImage": "https://static.politico.com/f8/b6/ab6a9d8849cbb684fd197b20bfb7/https-delivery-gettyimages.com/downloads/1488884188",
-            "publishedAt": "2023-05-10T22:26:08Z",
-            "content": "Republican threats are dangerous and they make no sense, Biden said to a crowd of roughly 300 people at SUNY Westchester Community College.\r\nThe speech from Biden reflected a hardening posture from b\u2026 [+6442 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Google Pixel Fold vs. Samsung Galaxy Z Fold 4: specs comparison - The Verge",
-            "description": "Dissecting the specs of the Pixel Fold, freshly announced at Google I/O 2023, and Samsung\u2019s Galaxy Z Fold 4. Both are $1,800 foldable phones with a lot of similarities, but here\u2019s how they compare on paper.",
-            "url": "https://www.theverge.com/23715900/google-pixel-fold-vs-samsung-galaxy-z-4-comparison-specs",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/lJMCNqI7JOxEg_s51PZXpJs63Vo=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24642390/google_pixel_fold_hands_on_1.jpg",
-            "publishedAt": "2023-05-10T22:17:33Z",
-            "content": "Heres how the new Google Pixel Fold stacks up to Samsungs Galaxy Z Fold 4\r\nHeres how the new Google Pixel Fold stacks up to Samsungs Galaxy Z Fold 4\r\n / There are lots of similarities aside from the \u2026 [+3820 chars]"
+            "author": "Louis Casiano",
+            "title": "Natalee Holloway suspect Joran van der Sloot to be extradited to US, Beth Holloway says - Fox News",
+            "description": "The prime suspect in the disappearance of Natalee Holloway is slated to be brought to the United States to face prosecution.",
+            "url": "https://www.foxnews.com/world/natalee-holloway-suspect-joran-van-der-sloot-extradited-us",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/0421c910-Van-der-Sloot-Holloway.jpg",
+            "publishedAt": "2023-05-11T00:22:00Z",
+            "content": "Joran van der Sloot, the prime suspect in the 2005 disappearance of Natalee Holloway, an American, who vanished while on a high school graduation class trip in Aruba, will be extradited to the United\u2026 [+3244 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WGAL Susquehanna Valley Pa."
+                "name": "DW (English)"
             },
-            "author": "Susan Shapiro",
-            "title": "Health panel recommends women get regular mammograms starting at 40 - WGAL Susquehanna Valley Pa.",
-            "description": "The U.S. Preventive Services Task Force says younger women are being diagnosed more often with breast cancer.",
-            "url": "https://www.wgal.com/article/expert-panel-recommends-women-get-regular-mammograms-starting-at-40/43855860",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/images/mammogram-645c177a9fd86.jpg?crop=1xw:1xh;center,top&resize=1200:*",
-            "publishedAt": "2023-05-10T22:16:00Z",
-            "content": "A panel of experts has a new recommendation for when women should start getting mammograms.\r\nYounger women are being diagnosed more often with breast cancer, so the U.S. Preventive Services Task Forc\u2026 [+1559 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Boston Globe"
-            },
-            "author": null,
-            "title": "Robert De Niro joins an exclusive club: older new fathers - The Boston Globe",
-            "description": "How rare is it to be an older father? It's rare but not unprecedented. De Niro is already a father of seven children, ages ranging from 51 to 11.",
-            "url": "https://www.bostonglobe.com/2023/05/10/nation/de-niro-older-fathers/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/RbITQVetf3ijEIPRFmK5VtNzyYk=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/GIGOTF45I37WTC242DAIPWV5XY.jpg",
-            "publishedAt": "2023-05-10T21:58:17Z",
-            "content": "How rare is it to be an older father? A 2018 study by researchers at Stanford University looked at more than 34.3 million births in the United States from 2007 to 2016 in which the fathers age was av\u2026 [+2532 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Ailing Feinstein returns to Senate after monthslong absence - KPIX | CBS NEWS BAY AREA",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=9sxLBfn74mA",
-            "urlToImage": null,
-            "publishedAt": "2023-05-10T21:51:20Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Lauren Forristal",
-            "title": "Disney+ and Hulu content to combine into one streaming app - TechCrunch",
-            "description": "In a significant move made by Disney, the company announced Wednesday that U.S. customers are getting a new app that combines Disney+ and Hulu content.",
-            "url": "https://techcrunch.com/2023/05/10/disney-and-hulu-content-combine-into-one-app-later-this-year/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1233058211.jpg?resize=1200,800",
-            "publishedAt": "2023-05-10T21:37:17Z",
-            "content": "In a significant move made by Disney, the company announced Wednesday that U.S. customers are getting a new app that combines Disney+ and Hulu content.\r\nThe company also announced that it is raising \u2026 [+2286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "INSIDER"
-            },
-            "author": "Julia Pugachevsky",
-            "title": "A new pancreatic cancer vaccine personalized to each patient - Insider",
-            "description": "A new pancreatic cancer vaccine shows promise. In a small trial, treatment worked by using individual patients' mRNA to create a custom vaccine.",
-            "url": "https://www.insider.com/pancreatic-cancer-new-vaccine-promising-2023-5",
-            "urlToImage": "https://i.insider.com/645bfd2665275b0018b7e8d5?width=1200&format=jpeg",
-            "publishedAt": "2023-05-10T21:29:00Z",
-            "content": "A new vaccine designed to treat pancreatic cancer prevented the disease from returning in 50% of patients who received it, scientists reported today.\r\nPancreatic cancer is notoriously hard\u00a0to detect \u2026 [+2453 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Alex Weprin",
-            "title": "Disney Earnings: Streaming Losses Shrink and ARPU Rises, Disney+ Subscribers Fall to 157.8M - Hollywood Reporter",
-            "description": "Higher prices did not seem to materially impact the Disney+ domestic subscriber base even as the service lost subs due to international arm Disney+ Hotstar.",
-            "url": "https://www.hollywoodreporter.com/business/business-news/disney-q1-earnings-streaming-losses-fall-arpu-rises-1235484314/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/Bob-Iger-Oscars-Arrivals-Carpet-GettyImages-1473069011-H-2023.jpg?w=1024",
-            "publishedAt": "2023-05-10T21:11:15Z",
-            "content": "The Walt Disney Co. reported its fiscal second quarter earnings Wednesday, with the company largely beating Wall Street expectations on most key metrics, including revenue.\r\nAs with every major enter\u2026 [+4197 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "Possible Meteorite Crashes Through Roof of New Jersey Home - Gizmodo",
-            "description": "The incident could be related to the ongoing Eta Aquariids meteor shower.",
-            "url": "https://gizmodo.com/possible-meteorite-crashes-through-roof-of-new-jersey-h-1850425697",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0c77c59296dcef01692c9a2e83c2fc11.jpg",
-            "publishedAt": "2023-05-10T21:00:00Z",
-            "content": "A metallic oblong-shaped rock may have made its way from space all the way to the surface of Earth, traveling hundreds of millions of miles only to land in New Jersey. \r\nThe object fell through the r\u2026 [+1706 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "House Republicans release probe into Biden family finances - BBC",
-            "description": "A congressional report lists foreign payments to the president's family. The White House calls it \"innuendo\".",
-            "url": "https://www.bbc.com/news/world-us-canada-65553168",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A28F/production/_129651614_47dca56ef542642d2bfe4c45880921897b9127740_47_5472_30781000x563.jpg",
-            "publishedAt": "2023-05-10T20:56:12Z",
-            "content": "House Republicans have unveiled what they say are records of $10m (\u00a38m) in payments to members of the Biden family from foreign entities.\r\nOversight Committee Chair James Comer said Joe Biden's relat\u2026 [+2964 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Piers Morgan's brutal takedown of Prince Harry amid phone hacking trial - Sunrise",
-            "description": "Get the latest news \u00bb https://7news.com.auMore from Sunrise \u00bb https://sunrise.com.au Subscribe to Sunrise \u00bb https://7news.link/SunriseSubscribeSubscribe to t...",
-            "url": "https://www.youtube.com/watch?v=VI5Iff4CEIk",
-            "urlToImage": "https://i.ytimg.com/vi/VI5Iff4CEIk/maxresdefault.jpg",
-            "publishedAt": "2023-05-10T20:46:29Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ed Cara",
-            "title": "Mosquitoes Have Mixed Feelings About Soap, Study Finds - Gizmodo",
-            "description": "Scientists have found that soaps can drastically change whether our smell is attractive or repellent to female, blood-sucking mosquitoes.",
-            "url": "https://gizmodo.com/mosquitoes-repelled-by-the-smell-of-soap-study-1850425541",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b2fdcd5244b4363d503320119b711553.jpg",
-            "publishedAt": "2023-05-10T20:40:00Z",
-            "content": "Mosquitos and the humans they feed on seem to have something in common: a discerning palate for soap. In a new study this week, scientists have found that female, blood-sucking mosquitos are drawn to\u2026 [+4215 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": null,
-            "title": "Pixel Tablet vs. the competition: Google's latest stab at making Android tablets a thing | Engadget - Engadget",
-            "description": "Here's how Google's new Pixel Tablet compares to a couple popular tablets that retail for less than $500: the 10th-gen Apple iPad and the Samsung Galaxy Tab A8..",
-            "url": "https://www.engadget.com/pixel-tablet-vs-the-competition-googles-latest-stab-at-making-android-tablets-a-thing-191008603.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/nVJZ.VIeSYsM3BAfrugEjg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/ab0946e0-eefa-11ed-97f7-d396792f4f4c.cf.jpg",
-            "publishedAt": "2023-05-10T19:12:02Z",
-            "content": "Google is ready to give Android tablets another go. Nearly five years after launching the ill-fated Pixel Slate, the company has fully taken the wraps off its latest large-screen device, the Pixel Ta\u2026 [+4251 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Stocks mixed as U.S. inflation data trends lower, bond yields slide - Reuters",
-            "description": "A gauge of global stock markets rose and bond yields slid on Wednesday after data showed U.S. consumer prices in April rose at a slightly slower-than-expected pace, suggesting the Federal Reserve is succeeding in taming high inflation.",
-            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-05-10/",
-            "urlToImage": "https://www.reuters.com/resizer/74VJPyqsB-M0xrQGyS8zQmkqVlc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2MI4Y5BPCRO6VEDVAEJEJZHHGU.jpg",
-            "publishedAt": "2023-05-10T19:11:00Z",
-            "content": "SINGAPORE, May 10 (Reuters) - A gauge of global stock markets rose and bond yields slid on Wednesday after data showed U.S. consumer prices in April rose at a slightly slower-than-expected pace, sugg\u2026 [+4407 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Field Gulls"
-            },
-            "author": "Mookie Alexander",
-            "title": "Seattle Seahawks 2023 NFL schedule tracker: News, leaks, rumors, updates, and more - Field Gulls",
-            "description": "All the info you need on the 2023 Seattle Seahawks regular season schedule in one post!",
-            "url": "https://www.fieldgulls.com/2023/5/10/23718661/seattle-seahawks-2023-nfl-schedule-release-tracker-leaks-news-updates-rumors",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/l4_tdcfqMTfH9ghLnUKhBJX8_Yg=/0x0:5020x2628/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24647785/1437771663.jpg",
-            "publishedAt": "2023-05-10T18:38:31Z",
-            "content": "Happy Seattle Seahawks schedule release day, everyone!\r\nIts been four months since we last saw our Seahawks in action, but were not just four months away from seeing them return to the field in their\u2026 [+2024 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Google I/O: Tech giant removes the waitlist for Bard A.I. chatbot - CNBC Television",
-            "description": "CNBC's Deirdre Bosa joins 'The Exchange' to discuss upcoming modifications to Google Search, how Google will change its advertising model, and Sundar Pichai'...",
-            "url": "https://www.youtube.com/watch?v=WocYtC0bVgo",
-            "urlToImage": "https://i.ytimg.com/vi/WocYtC0bVgo/maxresdefault.jpg",
-            "publishedAt": "2023-05-10T18:31:54Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "XDA Developers"
-            },
-            "author": "Brady Snyder",
-            "title": "Join the waitlist for Google's generative AI tools, including search, Project Tailwind, & MusicLM - XDA Developers",
-            "description": "Google is using artificial intelligence to improve its existing products, and you can sign up to try them in Labs now. Here's how to get started.",
-            "url": "https://www.xda-developers.com/join-waitlist-google-generative-ai-tools/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/05/google-labs-experimental-website.jpg",
-            "publishedAt": "2023-05-10T18:23:00Z",
-            "content": "Google announced its plans to incorporate artificial intelligence into its existing products at I/O 2023, the company's annual developer conference. Though we've seen implementations of AI before fro\u2026 [+2925 chars]"
+            "author": "Deutsche Welle",
+            "title": "Pakistan calls in army to quell riots over Imran Khan arrest - DW (English)",
+            "description": "Pakistan's government called in the army to help end deadly unrest in the wake of the arrest of the former prime minister. Violence has spread across Pakistani cities since his arrest.",
+            "url": "https://www.dw.com/en/pakistan-calls-in-army-to-quell-riots-over-imran-khan-arrest/a-65575710",
+            "urlToImage": "https://static.dw.com/image/65582803_6.jpg",
+            "publishedAt": "2023-05-11T00:07:55Z",
+            "content": "Pakistan's government called in the military on Wednesday to help restore order in the capital city of Islamabad and in two provinces in the wake of violence following the arrest of former Prime Mini\u2026 [+3931 chars]"
         }
     ]
 }
