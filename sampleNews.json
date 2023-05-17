@@ -1,71 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 37,
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "A timeline of Ja Morant's alleged off-court incidents | SportsCenter - ESPN",
-            "description": "ESPN's Michelle Steele joins SportsCenter to give a video essay depicting a timeline of Ja Morant's alleged off-court incidents.\u2714\ufe0f Subscribe to ESPN+ http://...",
-            "url": "https://www.youtube.com/watch?v=rhqO8kU0Ox0",
-            "urlToImage": "https://i.ytimg.com/vi/rhqO8kU0Ox0/maxresdefault.jpg",
-            "publishedAt": "2023-05-16T02:09:39Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Zachary Cohen,Devan Cole,Tierney Sneed,Evan Perez,Hannah Rabinowitz,Jeremy Herb,Marshall Cohen",
-            "title": "Special counsel John Durham concludes FBI never should have launched full Trump-Russia probe - CNN",
-            "description": "Special counsel John Durham concluded that the FBI should never have launched a full investigation into connections between Donald Trump\u2019s campaign and Russia during the 2016 election, according to a report compiled over three years by the Trump-administratio\u2026",
-            "url": "https://www.cnn.com/2023/05/15/politics/john-durham-report-fbi-trump-released/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230515124810-03-special-counsel-john-durham-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-16T01:08:00Z",
-            "content": "Special counsel John Durham concluded that the FBI should never have launched a full investigation into connections between Donald Trumps campaign and Russia during the 2016 election, according to a \u2026 [+13958 chars]"
-        },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Rachel Pannett, Sammy Westfall",
-            "title": "Wellington hostel fire: Six killed in New Zealand fire - The Washington Post",
-            "description": "Six people have been confirmed dead in a fire that broke out in a Wellington hostel around 12:30 a.m. local time Tuesday, officials said.",
-            "url": "https://www.washingtonpost.com/world/2023/05/15/wellington-fire-hostel-new-zealand/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6VNK3NHTNII63EMNAESXFVSJGA_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-05-16T01:02:00Z",
-            "content": "Comment on this story\r\nComment\r\nWELLINGTON, New Zealand At least six people are dead after a fire broke out overnight at a multistory hostel in New Zealands capital in what fire officials are describ\u2026 [+2372 chars]"
+            "author": "Kate Brady",
+            "title": "Dresden jewel heist gang convicted and sentenced to years in prison - The Washington Post",
+            "description": "It was one of Europe\u2019s most daring jewel heists when members of the Remmo clan broke into the Green Vault museum at Dresden\u2019s Royal Palace in a smash-and-grab job.",
+            "url": "https://www.washingtonpost.com/world/2023/05/16/germany-jewel-heist-convicted-sentence/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WKO2TFWQR3W4TVUUR2JHGKFDUU.jpg&w=1440",
+            "publishedAt": "2023-05-16T12:13:53Z",
+            "content": "Comment on this story\r\nComment\r\nBERLIN A court in the eastern German city of Dresden found five family members of a criminal gang guilty of a $129 million (113 million euro) jewelry heist Tuesday and\u2026 [+3067 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "The Associated Press",
-            "title": "At 81, Martha Stewart becomes oldest Sports Illustrated swimsuit cover model - The Associated Press",
-            "description": "NEW YORK (AP) \u2014 At 81, Martha Stewart  isn't slowing down and some might say she's heating up. Stewart has been chosen as one of Sports Illustrated's swimsuit cover models, the magazine announced Monday.",
-            "url": "https://apnews.com/article/martha-stewart-sports-illustrated-swimsuit-issue-64e2bd56eb19bf38f87fe68228ef24ce",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/2d4cba479eb64b9aa2bb8ed0493d8aa3/3000.webp",
-            "publishedAt": "2023-05-16T00:21:23Z",
-            "content": "NEW YORK (AP) At 81, Martha Stewart isnt slowing down and some might say shes heating up. Stewart has been chosen as one of Sports Illustrateds swimsuit cover models, the magazine announced Monday.\r\n\u2026 [+1350 chars]"
+            "author": "Annika Kim Constantino",
+            "title": "Horizon Therapeutics stock plunges on report FTC is preparing to block Amgen deal - CNBC",
+            "description": "The deal is a bid to strengthen Amgen's drug portfolio as it prepares to face several patent expirations for key treatments over the next decade.",
+            "url": "https://www.cnbc.com/2023/05/16/horizon-therapeutics-amgen-deal-ftc.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/101879382-RTX14J0R.jpg?v=1684238098&w=1920&h=1080",
+            "publishedAt": "2023-05-16T11:54:58Z",
+            "content": "Horizon Therapeutics' stock price plunged more than 17% in premarket trading Tuesday after a report that the Federal Trade Commission is preparing to file a lawsuit to block the biotech company's $27\u2026 [+1727 chars]"
         },
         {
             "source": {
-                "id": "marca",
-                "name": "Marca"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "LW",
-            "title": "Jamie Foxx is at a top-notch rehab facility that specializes in stroke recovery after his undisclosed medical - Marca English",
-            "description": "Jamie Foxx has been getting the best medical attention from doctors and nurses at a Chicago medical rehab facility to tend to his physical recovery after he was released from the h",
-            "url": "https://www.marca.com/en/lifestyle/celebrities/2023/05/16/6462c665268e3e115b8b4597.html",
-            "urlToImage": "https://phantom-marca.unidadeditorial.es/d9c95c5d65b7cfe9701db51b1f3c61a7/resize/1200/f/jpg/assets/multimedia/imagenes/2023/05/16/16841930236145.jpg",
-            "publishedAt": "2023-05-15T23:55:39Z",
-            "content": "Jamie Foxx has been getting the best medical attention from doctors and nurses at a Chicago medical rehab facility to tend to his physical recovery after he was released from the hospital from his re\u2026 [+1843 chars]"
+            "author": "Stephen Collinson",
+            "title": "Trump weaponizes FBI-Russia report he demanded to keep fighting the election that never ends - CNN",
+            "description": "A long-awaited report by Republican-appointed special counsel John Durham failed to find the \u201ccrime of the century\u201d that ex-President Donald Trump said targeted him at the center of the Russia investigation. But it delivered him a potential political payoff n\u2026",
+            "url": "https://www.cnn.com/2023/05/16/politics/john-durham-trump-russia-report/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230509180118-file-donald-trump-221115.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-16T11:47:00Z",
+            "content": "A long-awaited report by Republican-appointed special counsel John Durham failed to find the crime of the century that ex-President Donald Trump said targeted him at the center of the Russia investig\u2026 [+9973 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Darnell Mayberry, Sam Amick, Josh Robbins",
+            "title": "NBA playoffs 2023 predictions: Anonymous scout, coach, exec pick Nuggets-Lakers, Celtics-Heat winners - The Athletic",
+            "description": "Which teams will advance out of the Eastern Conference finals and the Western Conference finals?",
+            "url": "https://theathletic.com/4521294/2023/05/16/nba-conference-finals-predictions/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/05/16071242/230516-Nugets-Lakers-scaled-e1684235599804.jpg",
+            "publishedAt": "2023-05-16T11:17:32Z",
+            "content": "Which remaining Eastern Conference team will advance to the NBA Finals, Jayson Tatums Boston Celtics or Jimmy Butlers Miami Heat? Which remaining Western Conference team will advance, Nikola Jokis De\u2026 [+10002 chars]"
         },
         {
             "source": {
@@ -73,142 +60,64 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Elon Musk documents subpoenaed in Jeffrey Epstein lawsuit by U.S. Virgin Islands - Reuters",
-            "description": "The U.S. Virgin Islands has subpoenaed Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> CEO Elon Musk for documents in its lawsuit accusing JPMorgan Chase & Co <a href=\"https://www.reuters.com/companies/JPM.N\" target=\"\u2026",
-            "url": "https://www.reuters.com/legal/us-virgin-islands-subpoenaed-elon-musk-jeffrey-epstein-litigation-2023-05-15/",
-            "urlToImage": "https://www.reuters.com/resizer/oVZPJzhVZip_GCYgC00hchjM7tQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQLLDYLXJBIZVMUE2TH2WQB6RI.jpg",
-            "publishedAt": "2023-05-15T23:37:00Z",
-            "content": "WILMINGTON, Delaware, May 15 (Reuters) - The U.S. Virgin Islands has subpoenaed Tesla Inc (TSLA.O) CEO Elon Musk for documents in its lawsuit accusing JPMorgan Chase &amp; Co (JPM.N) of helping enabl\u2026 [+2968 chars]"
+            "title": "Microsoft wins EU antitrust approval for Activision deal vetoed by UK - Reuters",
+            "description": "Microsoft Corp <a href=\"https://www.reuters.com/companies/MSFT.O\" target=\"_blank\">(MSFT.O)</a> won EU antitrust approval for its $69 billion acquisition of Activision <a href=\"https://www.reuters.com/companies/ATVI.O\" target=\"_blank\">(ATVI.O)</a> on Monday, i\u2026",
+            "url": "https://www.reuters.com/markets/deals/eu-antitrust-regulators-clear-69-bln-microsoft-activision-deal-2023-05-15/",
+            "urlToImage": "https://www.reuters.com/resizer/k7_Ku9l8plKV23mxqRGtFKziP8s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DYHCS4NE4ZNNJA4UJR2XNBHHQQ.jpg",
+            "publishedAt": "2023-05-16T10:50:00Z",
+            "content": "BRUSSELS, May 15 (Reuters) - Microsoft Corp (MSFT.O) won EU antitrust approval for its $69 billion acquisition of Activision (ATVI.O) on Monday, in a significant boost that could prompt Chinese and S\u2026 [+3385 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Brenda Goodman",
-            "title": "Man who defied genetics for decades may hold a clue to preventing Alzheimer\u2019s, scientists say - CNN",
-            "description": "Researchers working to unlock the secrets of Alzheimer\u2019s disease say they\u2019ve been given a major clue that could help protect people at risk for this type of dementia.",
-            "url": "https://www.cnn.com/2023/05/15/health/alzheimers-gene-reelin-protected/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/191030162356-encuentro-cerebro.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-15T23:28:00Z",
-            "content": "Researchers working to unlock the secrets of Alzheimers disease say theyve been given a major clue that could help protect people at risk for this type of dementia.\r\nA man who seemed fated to develop\u2026 [+4396 chars]"
+            "author": "Aaron Katersky",
+            "title": "Rudy Giuliani sued by former employee for alleged sexual assault and harassment - ABC News",
+            "description": "Giuliani is accused of making \"sexual demands.\"",
+            "url": "https://abcnews.go.com/US/rudy-giuliani-sued-former-employee-alleged-sexual-assault/story?id=99337231",
+            "urlToImage": "https://s.abcnews.com/images/US/rudy-giuliani-gty-moe-17-230515_1684175655178_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-05-16T10:38:41Z",
+            "content": "A former associate is suing Rudy Giuliani for alleged sexual assault and harassment, wage theft and other misconduct, accusing the former mayor and Trump lawyer of making \"sexual demands\" and going o\u2026 [+2992 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "New York Post"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Peter Botte",
-            "title": "NBA-altering Victor Wembanyama sweepstakes will be decided at Draft Lottery - New York Post ",
-            "description": "Victor Wembanyama, the 7-foot-4 French phenom with a guard\u2019s handle, a deft outside shooting touch and an 8-foot wingspan, will finally learn his initial NBA destination when the draft lottery take\u2026",
-            "url": "https://nypost.com/2023/05/15/nba-draft-lottery-victor-wembanyamas-destination-will-be-decided/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/newspress-collage-27059199-1684187951140.jpg?quality=75&strip=all&1684173660&w=1024",
-            "publishedAt": "2023-05-15T22:31:00Z",
-            "content": "The NBA draft lottery hasnt generated this much buzz and anticipation since the hometown Cavaliers landed the rights to select LeBron James in 2003.\r\nTwo decades later, the complicated pingpong proce\u2026 [+4028 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "San Francisco Chronicle"
-            },
-            "author": "Rachel Swan",
-            "title": "Video shows Banko Brown shooting; DA won't file charges - San Francisco Chronicle",
-            "description": "Video released by the S.F. D.A.'s Office shows Michael Earl-Wayne Anthony, a security guard, shooting and killing Banko Brown. Brown will not face charges.",
-            "url": "https://www.sfchronicle.com/sf/article/banko-brown-charges-video-walgreens-shooting-18099516.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/32/71/16/23827388/3/rawImage.jpg",
-            "publishedAt": "2023-05-15T22:07:30Z",
-            "content": "A security guard who confronted and killed a suspected shoplifter at a San Francisco Walgreens fired a single shot as the man stepped backward onto the sidewalk, moments after he turned and made a sl\u2026 [+8308 chars]"
+            "author": "Jeff Zillgitt",
+            "title": "NBA draft lottery 2023: Victor Wembanyama best fits - USA TODAY",
+            "description": "Victor Wembanyama, the 19-year-old considered one of the best prospects to enter the draft, would be a fit for all 30 NBA teams.",
+            "url": "https://www.usatoday.com/story/sports/nba/2023/05/16/nba-draft-lottery-2023-victor-wembanyama-best-fits/70221684007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/16/USAT/800fbf77-e5bd-4bd9-b963-add6e0bf2957-USATSI_19178492.jpg?crop=5999,3375,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-05-16T10:32:36Z",
+            "content": "There are 30 NBA teams, and 30 NBA teams would love to draft Frances Victor Wembanyama in the June draft.\r\nAnd given his all-purpose skillset for his size at 7-3, Wembanyama is a fit for any team.\r\nB\u2026 [+2921 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "CNBC"
             },
-            "author": "David Hollerith",
-            "title": "Warren Buffett sells stakes in two banks, raises Bank of America bet - Yahoo Finance",
-            "description": "The Oracle of Omaha has made it clear that he is still cautious about holding many bank stocks.",
-            "url": "https://finance.yahoo.com/news/warren-buffett-sells-stakes-in-two-banks-raises-bank-of-america-bet-220257631.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sV3_ibnfR40tNrRv3zX3qg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05OTI-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/cad29380-cdeb-11ed-be7e-af2a0bd0e7a0",
-            "publishedAt": "2023-05-15T22:02:57Z",
-            "content": "Warren Buffett cut his exposure to two more banks last quarter while raising his commitment to Bank of America (BAC) and buying new stock in Capital One (COF).\r\nThe billionaire's investment conglomer\u2026 [+2741 chars]"
+            "author": "Emma Kinery",
+            "title": "Here's where Biden and McCarthy stand on debt ceiling talks heading into today's meeting - CNBC",
+            "description": "The discussions have high stakes. Defaulting on sovereign debt would wreak havoc on the economy and\u00a0roil markets\u00a0around the world.",
+            "url": "https://www.cnbc.com/2023/05/16/debt-ceiling-update-white-house-meeting.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107239114-16837402252023-05-10t172614z_2076288060_rc28v0a2u1i0_rtrmadp_0_usa-election-biden.jpeg?v=1684233499&w=1920&h=1080",
+            "publishedAt": "2023-05-16T10:00:01Z",
+            "content": "WASHINGTON \u00a0President Joe Biden is set to meet with House Speaker Kevin McCarthy on Tuesday afternoon alongside other top congressional leaders to discuss the debt ceiling, a day before Biden is slat\u2026 [+3067 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "VOA News"
+                "name": "BBC News"
             },
-            "author": "VOA Learning English",
-            "title": "Scientists Release New Accounting of Human Genome - VOA Learning English",
-            "description": "Scientists recently released a new accounting of the human genome. The research effort included information from people from around the world and could help ongoing efforts to identify genetic causes of diseases.",
-            "url": "https://learningenglish.voanews.com/a/scientists-release-new-accounting-of-human-genome/7093833.html",
-            "urlToImage": "https://gdb.voanews.com/eaeab002-1e4c-418b-8724-ec14983fe6f3_w1200_r1.jpg",
-            "publishedAt": "2023-05-15T22:01:31Z",
-            "content": "Scientists recently released a new accounting of the human genome. The research effort included information from people from around the world and could help ongoing efforts to identify genetic causes\u2026 [+3665 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Rudy Giuliani sued for $10 million by former aide over alleged sexual assault - Reuters",
-            "description": "A former associate of Rudy Giuliani is suing him for sexual assault and other wrongdoing, accusing Donald Trump's former personal lawyer of hiring her to fulfill his desire for a sexual relationship.",
-            "url": "https://www.reuters.com/legal/rudy-giuliani-sued-10-million-by-former-aide-over-alleged-sexual-assault-2023-05-15/",
-            "urlToImage": "https://www.reuters.com/resizer/luJ3MAZSyZCJP85Q-gQMUKCFXLY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ELD63JORTRJKVOGPSYB6M2BGXM.jpg",
-            "publishedAt": "2023-05-15T21:45:00Z",
-            "content": "NEW YORK, May 15 (Reuters) - A former associate of Rudy Giuliani is suing him for sexual assault and other wrongdoing, accusing Donald Trump's former personal lawyer of hiring her to fulfill his desi\u2026 [+2068 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Brett Tingley",
-            "title": "Axiom Space Ax-2 private spaceflight: Live updates - Space.com",
-            "description": "Find out what's going on with Axiom Space's private Ax-2 mission to the International Space Station.",
-            "url": "https://www.space.com/news/live/axiom-space-missions-updates",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rFaahfcnurdNx8uhMkBxjT-1200-80.png",
-            "publishedAt": "2023-05-15T21:43:28Z",
-            "content": "2023-05-15T15:16:20.840ZAxiom Space 'Go' for Ax-2 launch on May 21\r\nIn a Flight Readiness Review (FRR) conference held Wednesday (May 15), mission managers from NASA, SpaceX, and Axiom Space said the\u2026 [+752 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Cynthia Littleton",
-            "title": "Writers Strike: Variety\u2019s Co-Editor-in-Chief Answers Burning Questions About Why It\u2019s Happening and What\u2019s Next - Variety",
-            "description": "On May 12, Variety partnered with Reddit\u2019s Television subreddit to host an Ask Me Anything discussion about the ongoing writers strike. Variety co-editor-in-chief Cynthia Littleton \u2014\u00a0who has \u2026",
-            "url": "https://variety.com/2023/tv/news/wga-writers-strike-media-expert-explains-1235613172/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/05/GettyImages-1252570632.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2023-05-15T21:30:00Z",
-            "content": "On May 12, Variety partnered with Reddit\u2019s Television subreddit to host an Ask Me Anything discussion about the ongoing writers strike. Variety co-editor-in-chief Cynthia Littleton \u2014\u00a0who has covered \u2026 [+14729 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Covers.com"
-            },
-            "author": "Jonny Lazarus",
-            "title": "Kraken vs Stars Odds, Picks, and Predictions - NHL Playoffs Game 7 - Covers",
-            "description": "NHL odds, picks, and predictions for the Seattle Kraken at Dallas Stars Game 7 on May 15. NHL Playoffs best bet and free pick analysis.",
-            "url": "https://www.covers.com/nhl/kraken-vs-stars-game-7-picks-predictions-may-15-2023",
-            "urlToImage": "https://img.covers.com/cms/covers/a0b4b6dc-ad68-42c7-8bfe-23138d97b8bf..jpg",
-            "publishedAt": "2023-05-15T21:21:00Z",
-            "content": "The last game of the second round is a Game 7 battle between the Seattle Kraken and Dallas Stars, and with neither team looking to take risks early, we could be in for an uneventful first period \u2014 re\u2026 [+4596 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jen Christensen",
-            "title": "Face masks are still a good idea at the doctor\u2019s office, study says - CNN",
-            "description": "Signs urging everyone to mask up have largely disappeared from places like grocery stores and schools in the third year of the Covid-19 pandemic. But they remain in many medical offices, and a study published Monday says they might still be a good idea.",
-            "url": "https://www.cnn.com/2023/05/15/health/masks-medical-office/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230515145547-masks-medical-office-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-15T21:01:00Z",
-            "content": "Signs urging everyone to mask up have largely disappeared from places like grocery stores and schools in the third year of the Covid-19 pandemic. But they remain in many medical offices, and a study \u2026 [+4392 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Martha Stewart, 81, becomes oldest Sports Illustrated swimsuit cover star - BBC",
+            "description": "The businesswoman says she wants to inspire other women, adding: \"This is kind of historic.\"",
+            "url": "https://www.bbc.com/news/world-us-canada-65608913",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11B56/production/_129743527_gettyimages-1439897835.jpg",
+            "publishedAt": "2023-05-16T09:46:43Z",
+            "content": "Martha Stewart has become the oldest ever cover model for Sports Illustrated's annual swimsuit edition at the age of 81. \r\nThe businesswoman and presenter was one of four cover models chosen for the \u2026 [+1648 chars]"
         },
         {
             "source": {
@@ -216,51 +125,142 @@
                 "name": "Engadget"
             },
             "author": null,
-            "title": "James Webb telescope finds water around a comet in the main asteroid belt - Engadget",
-            "description": "The James Webb telescope has spotted the first known instance of a comet with water vapor in the main asteroid belt..",
-            "url": "https://www.engadget.com/james-webb-telescope-finds-water-around-a-comet-in-the-main-asteroid-belt-203825983.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/kqlyLWADegocuSpnobw52A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/f696f2c0-f359-11ed-9fbd-6df479fafe95.cf.jpg",
-            "publishedAt": "2023-05-15T20:39:40Z",
-            "content": "The James Webb Space Telescope just made its second breakthrough observation in as many weeks. Researchers have used the observatory's near-infrared camera to detect the first known instance of water\u2026 [+1332 chars]"
+            "title": "Apple's Mac Mini M2 falls back to an all-time low of $500 - Engadget",
+            "description": "The Mac Mini M2 is the cheapest way to get Apple's latest processors, and now Amazon is has dropped them back to the lowest prices we've ever seen..",
+            "url": "https://www.engadget.com/apples-mac-mini-m2-falls-back-to-an-all-time-low-of-500-091518407.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xhkSHMLLAJTWhozWhYNdjw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/9125b0f0-ddbc-11ed-acf5-33d4eca9067d.cf.jpg",
+            "publishedAt": "2023-05-16T09:16:15Z",
+            "content": "The Mac Mini M2 is the cheapest way to get Apple's latest processors, and now Amazon is has dropped them back to the lowest prices we've ever seen. You can buy the 256GB version for just $500 ($100 o\u2026 [+1422 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Jalopnik"
+                "name": "The Guardian"
             },
-            "author": "Erin Marquis",
-            "title": "Company Wants to Launch Mission to Resurrect Space Telescope 185 Million Miles From Earth - Jalopnik",
-            "description": "The ambitious plan is the first attempt of a private company to revive expired astronomical tools so far way.",
-            "url": "https://jalopnik.com/company-wants-resurrect-space-telescope-185m-miles-eart-1850437571",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d9f7b09a84298f45db2c1172024e4e7b.jpg",
-            "publishedAt": "2023-05-15T20:30:00Z",
-            "content": "When something drifts off into space, its usually done and dusted. A private company, however, is saying not so fast to manmade objects in space. It has plans to revive the legendary space telescope \u2026 [+2983 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Sony Salzman, Youri Benadjaoud",
-            "title": "CDC warns about potential risk of mpox ahead of summer gatherings - ABC News",
-            "description": "It warned that summer gatherings could lead to a \"resurgence.\"",
-            "url": "https://abcnews.go.com/Health/cdc-warns-potential-risk-mpox-ahead-summer-gatherings/story?id=99339609",
-            "urlToImage": "https://s.abcnews.com/images/Health/monkeypox-gty-er-230515_1684180461938_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-05-15T20:29:10Z",
-            "content": "The Centers for Disease Control and Prevention alerted doctors across the country Monday about the potential risk of new mpox, formerly known as monkeypox, cases, warning that summer gatherings could\u2026 [+4642 chars]"
+            "author": "Oliver Milman",
+            "title": "EPA finally wakes up with stiff new climate rules: 'They've hit full throttle' - The Guardian",
+            "description": "A slew of anti-pollution, from toxic water to planet-heating emissions has been issued by an agency belatedly flexing its muscles",
+            "url": "https://www.theguardian.com/environment/2023/may/16/epa-climate-rules-climate-crisis",
+            "urlToImage": "https://i.guim.co.uk/img/media/75cf6df2adf237a36e541d2285d64b83b4a60940/0_155_5400_3240/master/5400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a4a35377139dd4a9925047d8a090dbf",
+            "publishedAt": "2023-05-16T09:04:00Z",
+            "content": "The sleeping giant of the US Environmental Protection Agency (EPA) has stirred.\r\nIn the past month, an avalanche of anti-pollution rules, targeting everything from toxic drinking water to planet-heat\u2026 [+7638 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "SciTechDaily"
             },
-            "author": "Contessa Brewer",
-            "title": "A pair of sports betting deals has the gaming industry asking, 'Who's next?' - CNBC",
-            "description": "Fanatics' splashy $150 million acquisition of PointsBet's U.S. business wasn't the only deal in gambling in recent days. It could be a sign of more to come.",
-            "url": "https://www.cnbc.com/2023/05/15/fanatics-pointsbet-aristocrat-neogames-sports-betting-deals.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107241300-1684177279308-gettyimages-1245759682-Michael_Rubin.jpeg?v=1684181229&w=1920&h=1080",
-            "publishedAt": "2023-05-15T20:07:09Z",
-            "content": "Fanatics' splashy $150 million acquisition of PointsBet's U.S. business wasn't the only deal in gambling in recent days and it could be a sign of more to come.\r\nFanatics on Sunday announced it has ag\u2026 [+2844 chars]"
+            "author": null,
+            "title": "Unexpected New Quest for Astronomers After Webb's Mysterious Find in Rare Main Belt Comet - SciTechDaily",
+            "description": "The James Webb Space Telescope\u2019s latest discovery is a tale of two detections. Solar system scientists took NASA\u2019s James Webb Space Telescope on a treasure hunt in the asteroid belt, and what they didn\u2019t find turned out to be as significant as what they did. \u2026",
+            "url": "https://scitechdaily.com/unexpected-new-quest-for-astronomers-after-webbs-mysterious-find-in-rare-main-belt-comet/",
+            "urlToImage": "https://scitechdaily.com/images/Artists-Concept-Comet-238P-Read-scaled.jpg",
+            "publishedAt": "2023-05-16T08:45:16Z",
+            "content": "BySpace Telescope Science InstituteMay 16, 2023\r\nThis illustration of Comet 238P/Read shows the main belt comet sublimatingits water ice vaporizing as its orbit approaches the Sun. This is significan\u2026 [+9898 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "John Vincent",
+            "title": "Tracking Warren Buffett's Berkshire Hathaway Portfolio - Q1 2023 Update (NYSE:BRK.A) - Seeking Alpha",
+            "description": "Berkshire Hathaway's 13F stock portfolio value increased from ~$299B to ~$325B. Click here to read more about the company's holdings and trades for Q1 2023.",
+            "url": "https://seekingalpha.com/article/4604927-warren-buffett-berkshire-hathaway-portfolio-q1-2023-update",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/184769358/image_184769358.jpg?io=getty-c-w1536",
+            "publishedAt": "2023-05-16T08:35:04Z",
+            "content": "Paul Morigi\r\nThis article is part of a series that provides an ongoing analysis of the changes made to Berkshire Hathaway's 13F stock portfolio on a quarterly basis. It is based on Warren Buffett's r\u2026 [+17815 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Pilots at Canada's WestJet Airlines give 72-hour notice as strike looms - Reuters",
+            "description": "Pilots at Onex Corp's <a href=\"https://www.reuters.com/companies/ONEX.TO\" target=\"_blank\">(ONEX.TO)</a> WestJet Group gave notice on Monday that could allow for strike action as early as May 19, raising the possibility of travel disruptions during Canada's Vi\u2026",
+            "url": "https://www.reuters.com/business/aerospace-defense/pilots-canadas-westjet-airlines-give-72-hour-notice-strike-looms-2023-05-16/",
+            "urlToImage": "https://www.reuters.com/resizer/SVd882XDn5QE-5-ZknOYG-Lf0MY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5YOUDCNU5FPJ3NLXPGWPDGS62Y.jpg",
+            "publishedAt": "2023-05-16T08:33:00Z",
+            "content": "May 15 (Reuters) - Pilots at Onex Corp's (ONEX.TO) WestJet Group gave notice on Monday that could allow for strike action as early as May 19, raising the possibility of travel disruptions during Cana\u2026 [+1109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Kyiv hit by 'exceptionally dense' missile and drone attack - BBC",
+            "description": "It is the eighth time Ukraine's capital has been targeted by Russia so far this month.",
+            "url": "https://www.bbc.com/news/world-europe-65606385",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/491A/production/_129741781_kyivbus5.jpg",
+            "publishedAt": "2023-05-16T07:15:31Z",
+            "content": "The Ukrainian capital Kyiv has been targeted by further Russian air attacks, described by one official as \"exceptional in density\". \r\nUkraine said all 18 missiles were shot down and footage showed ai\u2026 [+2593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "ScienceAlert",
+            "title": "Man Identified With Rare Mutation That Protects From Alzheimer's Disease - ScienceAlert",
+            "description": null,
+            "url": "https://www.sciencealert.com/man-identified-with-rare-mutation-that-protects-from-alzheimers-disease",
+            "urlToImage": null,
+            "publishedAt": "2023-05-16T07:03:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Intercept"
+            },
+            "author": "Ryan Grim",
+            "title": "Erdogan Arrested and Expelled International Officials Observing Turkish Election - The Intercept",
+            "description": "The Turkish government jailed and expelled a team of international observers on hand to monitor election day activity on Sunday.",
+            "url": "http://theintercept.com/2023/05/16/erdogan-arrested-deported-election-observers-turkey/",
+            "urlToImage": "https://production.public.theintercept.cloud/wp-content/uploads/2023/05/GettyImages-1254042505-erdogan-elections.jpg?w=1024",
+            "publishedAt": "2023-05-16T07:00:00Z",
+            "content": "The government of Recep Tayyip Erdogan swept up and jailed a team of international observers on hand to monitor election day activity in Turkey on Sunday, members of the team told The Intercept in a \u2026 [+4409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Tuesday, May 16, 2023 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2023/5/16/23717701/horoscopes-today-tuesday-may-16-2023",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/f86a419/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FmL6gxr6DFBaj9K_-mjut3FhhCB0%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24646090%2FGeorgia_mug.jpeg",
+            "publishedAt": "2023-05-16T05:02:23Z",
+            "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Aries.\r\nAries (March 21-April 19)\r\nYour ability to boost your income will increase in the next 24 months. (You\u2026 [+3867 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Almasy,Amy Simonson",
+            "title": "Gunman who killed 3 people and injured 6 in Farmington, New Mexico, was 18 years old and used three firearms, police say - CNN",
+            "description": "The 18-year-old gunman who shot and killed three people and wounded six others, including two law enforcement officers, in Farmington, New Mexico, used three guns, the city\u2019s police chief said Monday in a video news statement.",
+            "url": "https://www.cnn.com/2023/05/15/us/farmington-new-mexico-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230515151652-01-new-mexico-shooting-0515.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-16T04:26:00Z",
+            "content": "The 18-year-old gunman who shot and killed three people and wounded six others, including two law enforcement officers, in Farmington, New Mexico, used three guns, the citys police chief said Monday \u2026 [+3059 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Florida teacher under investigation after showing students Disney movie - WGN News",
+            "description": "A fifth-grade teacher in Florida is currently under investigation after she showed a Disney movie that featured a gay character in class. READ MORE: https://...",
+            "url": "https://www.youtube.com/watch?v=diPHlgNLjLo",
+            "urlToImage": "https://i.ytimg.com/vi/diPHlgNLjLo/maxresdefault.jpg",
+            "publishedAt": "2023-05-16T03:03:05Z",
+            "content": null
         }
     ]
 }
