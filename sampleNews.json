@@ -1,32 +1,214 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "SAMYA KULLAB Associated Press",
-            "title": "Ukraine says it downed Russian hypersonic missiles during 'exceptional' air attack on Kyiv - ABC News",
-            "description": "Ukrainian officials say air defenses thwarted an intense Russian air attack on Kyiv and shot down all missiles aimed at the capital with the help of Western-supplied weapons",
-            "url": "https://abcnews.go.com/International/wireStory/russia-launches-exceptional-air-attack-kyiv-drones-missiles-99351653",
-            "urlToImage": "https://s.abcnews.com/images/International/wirestory_db14b569b86299a519df0d1e79dcad2c_16x9_992.jpg",
-            "publishedAt": "2023-05-17T00:28:46Z",
-            "content": "KYIV, Ukraine -- Ukrainian air defenses, bolstered by sophisticated Western-supplied systems, thwarted an intense Russian air attack on Kyiv early Tuesday, shooting down all missiles aimed at the cap\u2026 [+7907 chars]"
+            "author": "Holly Ellyatt",
+            "title": "Ukraine war live updates: Russia doubles down on efforts to capture Bakhmut; Ukraine's grain export deal hangs in the balance - CNBC",
+            "description": "Russia appears to be doubling down on its efforts to capture Bakhmut in eastern Ukraine.",
+            "url": "https://www.cnbc.com/2023/05/17/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107242368-1684304923749-gettyimages-1253936908-AA_12052023_1190968.jpeg?v=1684306288&w=1920&h=1080",
+            "publishedAt": "2023-05-17T10:05:00Z",
+            "content": "European leaders are meeting in Iceland on Tuesday for a two-day summit meant to show their support for Ukraine but also send a powerful message on core democratic values many feel are under threat.\r\u2026 [+2172 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine denies Russia destroyed Patriot missile defence system - Reuters",
+            "description": "Ukraine denied on Wednesday that a Russian hypersonic missile had destroyed a U.S.-made Patriot missile defence system during an <a href=\"/world/europe/air-defence-systems-repelling-attacks-ukraine-early-tuesday-officials-2023-05-16/\">air strike</a> on Kyiv.",
+            "url": "https://www.reuters.com/business/aerospace-defense/ukraine-denies-russia-destroyed-patriot-missile-defence-system-2023-05-17/",
+            "urlToImage": "https://www.reuters.com/resizer/uwq6njbGkFIWEl0ghv5mxwRyxZQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M2B6L5RIDZKGZBVG5QY5WI2PIA.jpg",
+            "publishedAt": "2023-05-17T09:04:00Z",
+            "content": "KYIV, May 17 (Reuters) - Ukraine denied on Wednesday that a Russian hypersonic missile had destroyed a U.S.-made Patriot missile defence system during an air strike on Kyiv.\r\nRussia's defence ministr\u2026 [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Tom Murray",
+            "title": "Johnny Depp 'tears up' during seven-minute standing ovation at Cannes - The Independent",
+            "description": "French-language movie was filmed in 2022 around the same time as his trial with ex-wife Amber Heard",
+            "url": "https://www.independent.co.uk/arts-entertainment/films/news/johnny-depp-standing-ovation-cannes-b2340247.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/16/23/Collage%20Maker-16-May-2023-03-04-PM-6845.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-05-17T08:04:08Z",
+            "content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nJohnny Depp was seen getting visibly emotional as his ne\u2026 [+1910 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Simone McCarthy,Angus Watson",
+            "title": "Quad summit in Australia canceled after Joe Biden shortens Asia trip - CNN",
+            "description": "A planned summit of Quad leaders from the United States, India, Australia, and Japan in Sydney next week has been canceled after US President Joe Biden pulled out of his visit, Australia\u2019s Prime Minister Anthony Albanese said on Wednesday, adding that talks c\u2026",
+            "url": "https://www.cnn.com/2023/05/16/asia/quad-canceled-biden-visit-australia-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230517112341-restricted-quad-meeting.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-17T07:32:00Z",
+            "content": "A planned summit of Quad leaders from the United States, India, Australia, and Japan in Sydney next week has been canceled after US President Joe Biden pulled out of his visit, Australias Prime Minis\u2026 [+5482 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Ohm Youngmisuk",
+            "title": "Nikola Jokic's dominant triple-double leads Nuggets over Lakers - ESPN - ESPN",
+            "description": "Nikola Jokic came out aggressive and finished with his third straight triple-double to lead the Nuggets to a win over the Lakers.",
+            "url": "https://www.espn.com/nba/story/_/id/37667132/nikola-jokic-dominant-triple-double-leads-nuggets-lakers",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0517%2Fr1174094_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-05-17T06:37:00Z",
+            "content": "DENVER -- Nikola Jokic claimed he did not have a strategy in mind to combat Anthony Davis.\r\nBut it did not take long in Tuesday night's Game 1 for the Los Angeles Lakers to see Jokic's blueprint. The\u2026 [+3891 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Krysten Peek",
-            "title": "2023 NBA Draft Lottery: Which team will land right to select Victor Wembanyama? Team odds, how to watch, TV channel - Yahoo Sports",
-            "description": "The San Antonio Spurs got the No. 1 overall pick in the 2023 NBA Draft, and will presumably select Victor Wembanyama in June.",
-            "url": "https://sports.yahoo.com/2023-nba-draft-lottery-san-antonio-spurs-land-no-1-overall-pick-right-to-select-victor-wembanyama-002754112.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8nnXhkGvuw7TjfQlnAw43w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/1b778040-d187-11ed-bf7d-0785ad11d8e4",
-            "publishedAt": "2023-05-17T00:26:00Z",
-            "content": "The 2023 NBA Draft is the most-anticipated draft since 2003, when the Cleveland Cavaliers selected LeBron James with the No. 1 overall pick. Victor Wembanyama, the 7-foot-4 French phenom, is the best\u2026 [+5154 chars]"
+            "author": "SOPHIE AUSTIN and JANIE HAR",
+            "title": "Black Californians hope state reparations don't become another broken promise - Yahoo News",
+            "description": "It frustrates Harris, 45, that reparations opponents won\u2019t acknowledge that life for Black people did not improve with the abolition of chattel slavery in...",
+            "url": "https://news.yahoo.com/black-californians-hope-state-reparations-050138232.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TLnMYL2G5BhTy_.RqcXW3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/a2eec8c65b368bcc45c296e21a0edf57",
+            "publishedAt": "2023-05-17T05:01:00Z",
+            "content": "SACRAMENTO, Calif. (AP) San Francisco resident Pia Harris hopes for reparations in her lifetime. But the nonprofit program director is not confident that California lawmakers will turn the recommenda\u2026 [+6640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "'He's got this sort of god complex': Kara Swisher on Elon Musk's controversial tweets - MSNBC",
+            "description": "Musk told CNBC that he would continue to speak his mind and \"if the consequence of that is losing money, so be it.\" Kara Swisher breaks down his recent Twitt...",
+            "url": "https://www.youtube.com/watch?v=BXxU_42kMMM",
+            "urlToImage": "https://i.ytimg.com/vi/BXxU_42kMMM/maxresdefault.jpg",
+            "publishedAt": "2023-05-17T05:00:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2023 NBA Mock Draft: Brandon Miller gets nod over Scoot Henderson after Hornets land No. 2 pick in lottery - CBS Sports",
+            "description": "Victor Wembanyama goes No. 1 to Spurs, but then it gets interesting in Gary Parrish's first mock draft after the lottery",
+            "url": "https://www.cbssports.com/nba/news/2023-nba-mock-draft-brandon-miller-gets-nod-over-scoot-henderson-after-hornets-land-no-2-pick-in-lottery/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/17/7d49a81f-bfca-4fc4-a47a-0be8649cdd5c/thumbnail/1200x675/f0595c49edb13f6826fcfb8f46bf7aa3/gettyimages-1255287895-1.jpg",
+            "publishedAt": "2023-05-17T04:18:24Z",
+            "content": "San Antonio is picking first again.\r\nThe franchise that once selected David Robinson No. 1 overall, and then Tim Duncan No. 1 overall, before going on to use one or both of those eventual Naismith Me\u2026 [+1381 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Brooke Schultz",
+            "title": "Democrat Cherelle Parker wins primary for Philadelphia mayor - The Associated Press",
+            "description": "Cherelle Parker, a Democrat with a long political history in Pennsylvania, won Philadelphia\u2019s mayoral primary on Tuesday, likely setting her up as the city\u2019s 100th mayor and the first woman to serve in the role.",
+            "url": "https://apnews.com/article/philadelphia-mayor-democratic-primary-5adb427dc507ed5e7133a1ca834d4306",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1ff85e3c4e5a4a03b691ce8ec1705174/3000.webp",
+            "publishedAt": "2023-05-17T04:02:16Z",
+            "content": "Cherelle Parker, a Democrat with a long political history in Pennsylvania, won Philadelphias mayoral primary on Tuesday, likely setting her up as the citys 100th mayor and the first woman to serve in\u2026 [+2919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Philadelphia Inquirer"
+            },
+            "author": "Gillian McGoldrick",
+            "title": "Democrats keep Pa. House majority following Rep. Mike Zabel\u2019s resignation - The Philadelphia Inquirer",
+            "description": "Democrat Heather Boyd won the special election to replace former state Rep. Mike Zabel, keeping the Democrats in control of the Pennsylvania House.",
+            "url": "https://www.inquirer.com/politics/election/pennsylvania-house-163rd-district-election-results-20230516.html",
+            "urlToImage": "https://www.inquirer.com/resizer/RpWGv4H0UV8C52pcDA6Ckykv_XE=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/GXIM75KPCJFTXENF4VX2EUOPJU.jpg",
+            "publishedAt": "2023-05-17T03:50:32Z",
+            "content": "Pennsylvania House Democrats will retain their one-seat majority in the state House, after spending more than $1 million to defend their control of the chamber.\r\nThe Associated Press declared Democra\u2026 [+4432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "'Foreign investors are back': Japan stocks surge to their highest since 1990 - CNBC",
+            "description": "Japan's Topix marked a 33-year high on revived hopes for Japanese equities, with the index outperforming its regional peers year-to-date.",
+            "url": "https://www.cnbc.com/2023/05/17/stocks-in-tokyo-highest-since-1990.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107242277-1684282208981-gettyimages-1235399600-AFP_9N97TN.jpeg?v=1684293789&w=1920&h=1080",
+            "publishedAt": "2023-05-17T03:23:00Z",
+            "content": "A general view shows the skyline of the city as people stand on the observation deck of Roppongi Hills to watch the full moon, in Tokyo on September 21, 2021. (Photo by Philip FONG / AFP) (Photo by P\u2026 [+4118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Erik Uebelacker",
+            "title": "Florida Dems Shock GOP With Jacksonville Mayor Win - The Daily Beast",
+            "description": "Jacksonville was previously the largest city in the country to have a Republican mayor.",
+            "url": "https://www.thedailybeast.com/donna-deegan-and-florida-dems-shock-gop-with-jacksonville-mayor-win",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_242,w_430,x_22,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1684291700/Screenshot_2023-05-16_214638_gdsbcp",
+            "publishedAt": "2023-05-17T03:06:33Z",
+            "content": "Democrat Donna Deegan became the first woman to be elected mayor of Jacksonville, Floridabeating out Republican Daniel Davis, a former state legislator who had the backing of Gov. Ron DeSantis, in a \u2026 [+1445 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US debt ceiling: Biden and Republicans hopeful of a deal - BBC",
+            "description": "House Speaker Kevin McCarthy says the two sides are far apart but an agreement is possible this week.",
+            "url": "https://www.bbc.com/news/world-us-canada-65615314",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B99/production/_129750586_mccarthy.jpg",
+            "publishedAt": "2023-05-17T01:57:28Z",
+            "content": "Media caption, Watch: The debt ceiling explained - in under 90 seconds\r\nPresident Joe Biden and Republican leaders have expressed cautious optimism that a deal to raise the US debt ceiling is within \u2026 [+4140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jane Herz",
+            "title": "Mpox resurgence risk ahead of summer, CDC warns - New York Post ",
+            "description": "\u201cSpring and summer season in 2023 could lead to a resurgence of mpox as people gather for festivals and other events,\u201d the CDC said in a Monday alert.",
+            "url": "https://nypost.com/2023/05/16/mpox-resurgence-risk-ahead-of-summer-cdc-warns/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/newspress-collage-27076317-1684280530337.jpg?quality=75&strip=all&1684267910&w=1024",
+            "publishedAt": "2023-05-17T00:28:00Z",
+            "content": "The Centers for Disease Control and Prevention is warning of the potential resurgence of mpox, formerly known as monkeypox, ahead of summer gatherings.\r\n\u201cSpring and summer season in 2023 could lead t\u2026 [+2317 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "New Mexico teen bought AR-style rifle legally before shooting spree, police say - Reuters",
+            "description": "The gunman who shot dead three elderly women as he prowled a New Mexico neighborhood firing at cars this week had legally purchased an assault-style rifle, one of three weapons he used in the rampage, a month after he turned 18, police said on Tuesday.",
+            "url": "https://www.reuters.com/world/us/new-mexico-teen-bought-ar-style-rifle-legally-before-shooting-spree-police-say-2023-05-16/",
+            "urlToImage": "https://www.reuters.com/resizer/7-h8YsYL8Y9iI6j-rlE9_SPv7j4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YUVGAH7TVVLWBHGGJRU2NLNJWA.jpg",
+            "publishedAt": "2023-05-16T23:36:00Z",
+            "content": "TAOS, NEW MEXICO, May 16 (Reuters) - The gunman who shot dead three elderly women as he prowled a New Mexico neighborhood firing at cars this week had legally purchased an assault-style rifle, one of\u2026 [+2765 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brenda Goodman",
+            "title": "Man who defied genetics for decades may hold a clue to preventing Alzheimer\u2019s, scientists say - CNN",
+            "description": "Researchers working to unlock the secrets of Alzheimer\u2019s disease say they\u2019ve been given a major clue that could help protect people at risk for this type of dementia.",
+            "url": "https://www.cnn.com/2023/05/15/health/alzheimers-gene-reelin-protected/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/191030162356-encuentro-cerebro.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-16T23:31:00Z",
+            "content": "Researchers working to unlock the secrets of Alzheimers disease say theyve been given a major clue that could help protect people at risk for this type of dementia.\r\nA man who seemed fated to develop\u2026 [+4568 chars]"
         },
         {
             "source": {
@@ -43,224 +225,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CBS Sports"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "",
-            "title": "Lakers-Nuggets picks, NBA playoffs best bets: Denver defends home court, but Nikola Jokic's assist numbers dip - CBS Sports",
-            "description": "Game 1 of the Western Conference Finals is set for Tuesday night",
-            "url": "https://www.cbssports.com/nba/news/lakers-nuggets-picks-nba-playoffs-best-bets-denver-defends-home-court-but-nikola-jokics-assist-numbers-dip/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/16/b1fc6e22-2dd2-4763-92f7-683efdb02a5c/thumbnail/1200x675/23cd84ce8e057cdeec2d996e6e5a445a/jokic-getty-7.png",
-            "publishedAt": "2023-05-16T23:24:00Z",
-            "content": "Now that we're in the thick of the\u00a0NBA\u00a0playoffs, the basketball betting market is hotter than ever. CBS Sports will be providing daily picks for the duration of the postseason. Sam Quinn will make at\u2026 [+2171 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Rebecca Bellan",
-            "title": "Elon Musk teases two new EVs, says Tesla is already building one - TechCrunch",
-            "description": "Tesla CEO Elon Musk teased two new electric vehicles and said the automaker is \"actually building a new product.\"",
-            "url": "https://techcrunch.com/2023/05/16/elon-musk-teases-two-new-evs-says-tesla-is-already-building-one/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/Tesla-new-EV-teaser.jpg?resize=1200,529",
-            "publishedAt": "2023-05-16T22:55:18Z",
-            "content": "Tesla CEO Elon Musk teased two new electric vehicles Tuesday at the automaker\u2019s 2023 annual shareholder\u2019s meeting. The billionaire executive even claimed that Tesla is already in the process of build\u2026 [+2419 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Carol D. Leonnig, Tyler Pager",
-            "title": "Intrusion at National Security Adviser\u2019s home under investigation - The Washington Post",
-            "description": "An intruder entered the home of national security adviser Jake Sullivan in middle of night without Secret Service being aware, a breach now under investigation.",
-            "url": "https://www.washingtonpost.com/nation/2023/05/16/national-security-adviser-home-intrusion/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KQA6VIGAVJSZDX2BMQMHDFX57M.JPG&w=1440",
-            "publishedAt": "2023-05-16T22:27:00Z",
-            "content": "Comment on this story\r\nComment\r\nThe U.S. Secret Service is investigating how a man entered the home of President Bidens national security adviser in the middle of the night roughly two weeks ago with\u2026 [+5530 chars]"
+            "author": "Brandon Gillespie",
+            "title": "Trump-backed Daniel Cameron wins GOP primary for Kentucky governor, will face incumbent Democrat Andy Beshear - Fox News",
+            "description": "Trump-backed Kentucky Attorney General Daniel Cameron won the state's Republican gubernatorial primary and will face incumbent Democrat Gov. Andy Beshear in November.",
+            "url": "https://www.foxnews.com/politics/trump-backed-daniel-cameron-wins-gop-primary-kentucky-governor-incumbent-democrat-andy-beshear",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/2021-03-29T000000Z_914066490_RC22LM9MRHQ9_RTRMADP_3_USA-COURT-ABORTION-KENTUCKY-1.jpg",
+            "publishedAt": "2023-05-16T23:15:00Z",
+            "content": "LOUISVILLE, Ky. Kentucky Attorney General Daniel Cameron has won the state's Republican gubernatorial primary and will face incumbent Democratic Gov. Andy Beshear in the November general election.\r\nC\u2026 [+3392 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jennifer Schonberger",
-            "title": "Senator Warren calls for insider-trading investigation of former SVB CEO - Yahoo Finance",
-            "description": "Greg Becker on Tuesday said he was not in possession of any material, non-public information when he sold stock before the collapse of Silicon Valley Bank.",
-            "url": "https://finance.yahoo.com/news/senator-warren-calls-for-insider-trading-investigation-of-former-svb-ceo-222221162.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dctUAh_Y9lOOaJls9nXRKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/c17544a0-f437-11ed-bd7b-203409c0d3dd",
-            "publishedAt": "2023-05-16T22:22:21Z",
-            "content": "Senator Elizabeth Warren is calling for an insider-trading investigation into former Silicon Valley Bank CEO Greg Becker following a Senate Banking Committee hearing Tuesday.\r\nThere is enough that wa\u2026 [+3956 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Brett Tingley",
-            "title": "Axiom Space Ax-2 private spaceflight: Live updates - Space.com",
-            "description": "Find out what's going on with Axiom Space's private Ax-2 mission to the International Space Station.",
-            "url": "https://www.space.com/news/live/axiom-space-missions-updates",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rFaahfcnurdNx8uhMkBxjT-1200-80.png",
-            "publishedAt": "2023-05-16T22:18:57Z",
-            "content": "2023-05-16T22:18:57.275ZAx-2 crew shares excitement over upcoming launch\r\nThe four astronauts who will be launching on Axiom Space's upcoming Ax-2 mission to the International Space Station (ISS) hel\u2026 [+2049 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Chris Gardner",
-            "title": "Cannes: Johnny Depp Tears Up During Warm Standing Ovation at \u2018Jeanne du Barry\u2019 Premiere - Hollywood Reporter",
-            "description": "The 76th edition of the French film event rolled out the iconic Palais red carpet for a host of stars including Michael Douglas, who is set to receive an honorary Palme d'Or as part of the opening-night ceremony.",
-            "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-cannes-premiere-controversy-response-jeanne-du-barry-1235492656/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/Johnny-Depp-Cannes-Red-Carpet-GettyImages-1490704920-H-2023.jpg?w=1024",
-            "publishedAt": "2023-05-16T21:24:56Z",
-            "content": "The fever surrounding this year\u2019s Cannes Film Festival finally broke on Tuesday evening as the 76th edition kicked off in the South of France by hosting Johnny Depp and his opening-night film from Ma\u2026 [+8088 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HuffPost"
-            },
-            "author": "Nina Golgowski",
-            "title": "CDC Warns Of Potential Mpox Resurgence In Coming Months - HuffPost",
-            "description": "New cases of the virus, formerly called monkeypox, were recently reported in Chicago. Health officials say summer social events could help it spread.",
-            "url": "https://www.huffpost.com/entry/cdc-potential-rise-mpox-cases-summer_n_64639d6de4b094269bb6e9f1",
-            "urlToImage": "https://img.huffingtonpost.com/asset/6463df0c2400003500882266.jpeg?cache=5Am2DQbJmi&ops=1200_630",
-            "publishedAt": "2023-05-16T21:07:10Z",
-            "content": "Federal health officials are warning that there could be a resurgence of mpox cases in the coming months following a steady nine-month nationwide decline.\r\nSpring and summer season in 2023 could lead\u2026 [+2664 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Graig Graziosi",
-            "title": "Texas boy, 12, charged with fatally shooting Sonic employee over urine complaint - The Independent",
-            "description": "The Sonic employee was a father to a 10-year-old son",
-            "url": "https://www.independent.co.uk/news/world/americas/crime/texas-boy-shoots-sonic-employee-assault-rife-b2340033.html",
-            "urlToImage": "https://static.independent.co.uk/2023/05/16/19/Screen%20Shot%202023-05-16%20at%201.59.46%20PM.png?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-05-16T20:41:44Z",
-            "content": "Sign up to our free US news bulletin sent straight to your inbox each weekday morning\r\nSign up to our free morning US email news bulletin\r\nA 12-year-old boy has been charged with murder after he alle\u2026 [+2274 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Kenneth Shepard",
-            "title": "7 Zelda: Tears Of The Kingdom Sidequests Worth Seeking Out - Kotaku",
-            "description": "From joining the newspaper to finding the Great Fairies, here are some detours worth taking in Hyrule",
-            "url": "https://kotaku.com/zelda-tears-of-the-kingdom-sidequests-newspaper-great-f-1850442713",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9299c1d7f9aed78e2d9a345152722bed.png",
-            "publishedAt": "2023-05-16T20:30:00Z",
-            "content": "The Legend of Zelda: Tears of the Kingdom is a big game, and it can be easy to miss some of its best quests if you dont know where to look. In the same breath (of the wild), its also easy to get real\u2026 [+6323 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MMA Fighting"
-            },
-            "author": "Jed Meshew",
-            "title": "Francis Ngannou clears air on ONE, \u2018joke\u2019 BKFC courtship: \u2018I think Chatri was just performing\u2019 - MMA Fighting",
-            "description": "Francis Ngannou reveals his negotiations with Chatri Sityodtong, responds to the ONE Chairman\u2019s previous comments.",
-            "url": "https://www.mmafighting.com/2023/5/16/23725712/francis-ngannou-clears-air-on-one-joke-bkfc-courtship-i-think-chatri-was-just-performing",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/yOm7OWlnV_xN6Y1oNnfrz_2M0UE=/0x344:4789x2851/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24661279/1366939621.jpg",
-            "publishedAt": "2023-05-16T20:30:00Z",
-            "content": "Francis Ngannou has a new home, and some choice words for promoters who he feels talked out of turn about him. \r\nOn Tuesday, news broke that Ngannous highly publicized MMA free agency has come to an \u2026 [+6437 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Caitlin Doornbos",
-            "title": "Durham points to Clinton crony Charles Dolan as likely 'pee tape' source from notorious Steele Dossier report - New York Post ",
-            "description": "Charles Dolan, a former adviser to Hillary Clinton\u2019s failed 2008 presidential campaign, appears to have been \u201cthe actual source\u2026\u201d",
-            "url": "https://nypost.com/2023/05/16/durham-points-to-clinton-crony-charles-dolan-as-likely-pee-tape-source-from-notorious-steele-dossier-report/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/newspress-collage-27067304-1684267554589.jpg?quality=75&strip=all&1684253226&w=1024",
-            "publishedAt": "2023-05-16T20:29:00Z",
-            "content": "WASHINGTON The likeliest source of the notorious Steele Dossier report that Donald Trump paid prostitutes to urinate on a bed in a Moscow hotel room was a PR executive with close ties to Bill and Hil\u2026 [+7303 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Wall Street closes lower after Home Depot outlook, US retail sales - Reuters.com",
-            "description": "U.S. stock indexes closed lower on Tuesday after a disappointing forecast from Home Depot and U.S. retail sales data for April pointed to softer consumer spending, while uncertainty about interest rates and debt limit negotiations weighed on sentiment.",
-            "url": "https://www.reuters.com/markets/us/futures-flat-ahead-debt-ceiling-talks-data-2023-05-16/",
-            "urlToImage": "https://www.reuters.com/resizer/Yck89sWUvBjmerJKFrWH_lI7nIc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/25HON3FUPNP2TDPSAJTTJWOSFE.jpg",
-            "publishedAt": "2023-05-16T20:18:00Z",
-            "content": "May 16 (Reuters) - U.S. stock indexes closed lower on Tuesday after a disappointing forecast from Home Depot and U.S. retail sales data for April pointed to softer consumer spending, while uncertaint\u2026 [+3467 chars]"
+            "title": "The Legend of Zelda: Tears of the Kingdom - All Climbing Gear Locations - IGN",
+            "description": "Where can you find the Tears of the Kingdom Climbing Gear location? The Zelda TotK climbing set is one of the most useful armor sets for exploration as it gr...",
+            "url": "https://www.youtube.com/watch?v=VbWFPOz0FiU",
+            "urlToImage": "https://i.ytimg.com/vi/VbWFPOz0FiU/maxresdefault.jpg",
+            "publishedAt": "2023-05-16T23:00:15Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "SciTechDaily"
+                "id": "the-times-of-india",
+                "name": "The Times of India"
             },
-            "author": null,
-            "title": "62 New Moons Discovered Orbiting Saturn Using Innovative Astronomy - SciTechDaily",
-            "description": "An international team of astronomers has found 62 new moons around Saturn using an innovative technique. These irregular moons contribute to Saturn's total moon count of 145, surpassing Jupiter, and provide insights into the planet's moon system's collisional\u2026",
-            "url": "https://scitechdaily.com/?p=278527",
-            "urlToImage": "https://scitechdaily.com/images/Hubble-View-of-Saturn-2019.jpg",
-            "publishedAt": "2023-05-16T19:55:59Z",
-            "content": "ByUniversity of British ColumbiaMay 16, 2023\r\nNASAs Hubble Space Telescope captured exquisite details of the ring system in this 2019 observation. An international team of astronomers led by Edward A\u2026 [+7275 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Logan Plant",
-            "title": "Overwatch 2 PvE Hero Mode Canceled: 'A Difficult Choice' - IGN",
-            "description": "Blizzard has officially scrapped Overwatch 2's long-awaited PvE mode, but the game's creative leads are assuring fans that PvE is still a focus for the game moving forward.",
-            "url": "https://www.ign.com/articles/overwatch-2-pve-hero-mode-canceled-a-difficult-choice",
-            "urlToImage": "https://assets-prd.ignimgs.com/2021/02/19/sequence-02-00-24-42-13-still104-1613733759985.jpg?width=1280",
-            "publishedAt": "2023-05-16T19:26:34Z",
-            "content": "Blizzard has officially scrapped Overwatch 2's long-awaited PvE Hero mode, but the game's creative leads are assuring fans that PvE is still a focus for the game moving forward.\r\nOn a Twitch stream d\u2026 [+4628 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Louis Pavlakos",
-            "title": "Google TV's Live tab is headed to Android TV - Android Police",
-            "description": "Hundreds of free channels for everyone to enjoy",
-            "url": "https://www.androidpolice.com/google-tv-live-tab-android-tv/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/12/google-tv-generic-hero.jpg",
-            "publishedAt": "2023-05-16T19:21:00Z",
-            "content": "Last month, Google brought hundreds of ad supported channels to Google TV devices like the Chromecast and a handful of smart TVs. To make these channels more accessible to anyone in the Google ecosys\u2026 [+2015 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Emily Joshu",
-            "title": "Kansas man who had strokes at 28 and 33 warns 'it's not about age' - as rates in young people rise - Daily Mail",
-            "description": "Bill Ramsey of Kansas suffered two strokes at ages 28 and 33. He now warns that having a stroke is 'not about age' and that it can happen to anyone. Rates in young people are steadily on the rise.",
-            "url": "https://www.dailymail.co.uk/health/article-12090173/Kansas-man-strokes-28-33-warns-not-age-rates-young-people-rise.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2023/05/16/19/71053439-0-image-a-10_1684261000325.jpg",
-            "publishedAt": "2023-05-16T18:21:27Z",
-            "content": "A Kansas man who suffered strokes twice in his 20s and 30s has warned others 'it's not about your age' when it comes to the condition.\r\nBill Ramsey of Kansas told\u00a0KSN News Wichita\u00a0he woke up on the f\u2026 [+5622 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FRANCE 24 English"
-            },
-            "author": "NEWS WIRES",
-            "title": "Relative of Brigitte Macron assaulted by anti-govt protesters at family shop - FRANCE 24 English",
-            "description": "A relative of French first lady Brigitte Macron has been beaten up outside her family's chocolate shop in an apparent politically motivated assault that sparked widespread condemnation on Tuesday.",
-            "url": "https://www.france24.com/en/europe/20230516-relative-of-brigitte-macron-assaulted-by-anti-govt-protesters-at-family-shop",
-            "urlToImage": "https://s.france24.com/media/display/23f84ad8-f40f-11ed-9910-005056bf30b7/w:1280/p:16x9/000_33FA6BH.jpg",
-            "publishedAt": "2023-05-16T18:11:04Z",
-            "content": "A relative of French first lady Brigitte Macron has been beaten up outside her family's chocolate shop in an apparent politically motivated assault that sparked widespread condemnation on Tuesday.\u00a0 J\u2026 [+4296 chars]"
+            "author": "etimes.in",
+            "title": "Priyanka Chopra, Anne Hathway, Zendaya and BLACKPINK's Lisa stun at the Bulgari event in Venice - Indiatimes.com",
+            "description": "Priyanka Chopra, Anne Hathaway, Zendaya and K-pop singer Lisa of BLACKPINK graced a Bulgari event together in Venice, Italy on May 17.",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-anne-hathway-zendaya-and-blackpinks-lisa-stun-at-the-bulgari-event-in-venice/articleshow/100287934.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-100288089,width-1070,height-580,imgsize-77526,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-05-16T22:26:00Z",
+            "content": "Priyanka Chopra Jonas reveals she wanted to quit showbiz after being tired of rejection: People didnt believe I could do my jobPriyanka Chopra Jonas recently revealed that she wanted to quit show bus\u2026 [+79 chars]"
         }
     ]
 }
