@@ -1,201 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 33,
     "articles": [
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "James Politi, Lauren Fedor, Colby Smith",
+            "title": "Joe Biden and Kevin McCarthy hold 'productive' debt ceiling talks but deal still elusive - Financial Times",
+            "description": "Janet Yellen warns it is \u2018highly likely\u2019 the US will be unable to pay its bills by early June without action",
+            "url": "https://www.ft.com/content/f35c7eb3-0e51-4364-9f54-77ea68fe5556",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3873042-2938-4c73-943c-17a36dc23b7c.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-05-23T00:01:54Z",
+            "content": "President Joe Biden and Republican House speaker Kevin McCarthy on Monday evening failed to reach a fiscal deal to avoid a default on US debt, but talks were set to continue, suggesting an agreement \u2026 [+3699 chars]"
+        },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
             "author": "Guardian staff reporter",
-            "title": "Spanish football chief admits racism \u2018problem\u2019 after Vin\u00edcius J\u00fanior abuse - The Guardian",
-            "description": "Comments follow racial abuse of Real Madrid player during match against Valencia",
-            "url": "https://www.theguardian.com/world/2023/may/22/spanish-football-chief-acknowledges-racism-problem-after-vinicius-jr-abuse",
-            "urlToImage": "https://i.guim.co.uk/img/media/aa1cb5ea7d2738d70f1721a4897b488c453933a4/0_89_5000_2999/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=401ae3554c59771835168deab79830af",
-            "publishedAt": "2023-05-22T12:14:00Z",
-            "content": "The head of Spains national football federation has said the country has a problem with racism following the abuse hurled at Real Madrids Vin\u00edcius J\u00fanior during Sundays match against Valencia.\r\nLuis \u2026 [+771 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": "Kevin Patra",
-            "title": "Ben Roethlisberger initially didn\u2019t want Steelers QB Kenny Pickett to succeed: 'Because then it's like, Ben who?' - NFL.com",
-            "description": "Longtime Steelers franchise quarterback Ben Roethlisberger admitted he initially didn't want Pittsburgh's new QB Kenny Pickett to shine out of the gate, but he came around to rooting for the 2022 No. 20 overall pick as his rookie season progressed.",
-            "url": "https://www.nfl.com/news/ben-roethlisberger-initially-didn-t-want-steelers-qb-kenny-pickett-to-succeed-be",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/xw4krkot0vozxhoxbbfg",
-            "publishedAt": "2023-05-22T11:45:00Z",
-            "content": "\"Early on, I didn't want him to succeed, 'cause I didn't want him to follow me up,\" he said. \"I didn't want it to happen. I think that's probably the selfishness of me, and I feel bad for it. But as \u2026 [+1880 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Celtics vs. Heat: Boston coach Joe Mazzulla admits disconnect in locker room after Game 3 loss to Miami - CBS Sports",
-            "description": "Celtics now face elimination on Tuesday against the Heat",
-            "url": "https://www.cbssports.com/nba/news/celtics-vs-heat-boston-coach-joe-mazzulla-admits-disconnect-in-locker-room-after-game-3-loss-to-miami/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/22/b3cf1ff9-a0eb-4d4b-9881-fa07df400e88/thumbnail/1200x675/3e79549c4dc01a9038b17c229fa7aea1/mazzulla-getty.png",
-            "publishedAt": "2023-05-22T11:44:00Z",
-            "content": "Following a 128-102 blowout loss against the Miami Heat Sunday night, Boston Celtics head coach Joe Mazzulla got pretty candid during his postgame press conference. In a game where Boston fell behind\u2026 [+2017 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Hugh Son",
-            "title": "JPMorgan Chase raises key revenue target to $84 billion after First Republic takeover - CNBC",
-            "description": "Longtime JPMorgan CEO Jamie Dimon is expected to speak in a question-and-answer session this afternoon.",
-            "url": "https://www.cnbc.com/2023/05/22/jpmorgan-chase-jpm-investor-day.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107203770-1678126476518-gettyimages-1247830435-JPMORGAN_DIMON.jpeg?v=1684754793&w=1920&h=1080",
-            "publishedAt": "2023-05-22T11:26:33Z",
-            "content": "JPMorgan Chase raised a key performance target on the heels of its government-brokered takeover of First Republic earlier this month.\r\nThe bank will generate about $84 billion in net interest income \u2026 [+1465 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Moscow Times"
-            },
-            "author": "AFP",
-            "title": "Zaporizhzhia Nuclear Plant Reconnected to Ukraine Grid - The Moscow Times",
-            "description": "The occupied Zaporizhzhia nuclear plant has been reconnected to Ukraine's electricity grid again after being offline for several hours, officials in Kyiv said on Monday.",
-            "url": "https://www.themoscowtimes.com/2023/05/22/zaporizhzhia-nuclear-plant-reconnected-to-ukraine-grid-a81226",
-            "urlToImage": "https://static.themoscowtimes.com/image/og/03/81226__03a54a29908582b69cdc64511fd37924.jpg",
-            "publishedAt": "2023-05-22T11:21:57Z",
-            "content": "The occupied Zaporizhzhia nuclear plant has been reconnected to Ukraine's electricity grid again after being offline for several hours, officials in Kyiv said on Monday.\r\nEarlier Monday Ukraine's nuc\u2026 [+1855 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jack Bantock",
-            "title": "Brooks Koepka wins third PGA Championship to seal fifth major title - CNN",
-            "description": "Brooks Koepka won the PGA Championship for the third time on Sunday, clinching his fifth major title at Oak Hill Country Club in Rochester, New York.",
-            "url": "https://www.cnn.com/2023/05/21/golf/winner-pga-championship-2023-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230521184729-08-pga-championship-2023-winner-koepka.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-22T11:15:00Z",
-            "content": "Brooks Koepka won the PGA Championship for the third time, clinching his fifth major title on Sunday at Oak Hill Country Club in Rochester, New York.\r\nA commanding final round showing saw the America\u2026 [+6561 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Dakin Andone",
-            "title": "University of Idaho quadruple stabbings suspect Bryan Kohberger to be arraigned Monday - CNN",
-            "description": "Bryan Kohberger, the suspect in the killings of four University of Idaho students in November 2022, is set to appear in court Monday, days after he was indicted by a grand jury.",
-            "url": "https://www.cnn.com/2023/05/22/us/bryan-kohberger-idaho-arraignment/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230119160433-bryan-kohberger-file-22.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-22T10:24:00Z",
-            "content": "The man accused of fatally stabbing four University of Idaho students last year is set to appear in court Monday, days after he was indicted by a grand jury.\r\nBryan Kohberger is expected to be arraig\u2026 [+3385 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "NICK PERRY Associated Press",
-            "title": "US signs new security pact with Papua New Guinea amid competition with China - ABC News",
-            "description": "The United States has signed a new security pact with Papua New Guinea as the U.S. continues to jostle with China for influence in the Pacific",
-            "url": "https://abcnews.go.com/US/wireStory/us-sign-new-security-pact-papua-new-guinea-99496252",
-            "urlToImage": "https://s.abcnews.com/images/US/wirestory_a4a052e05ff3f03f9e392e66cca74018_16x9_992.jpg",
-            "publishedAt": "2023-05-22T10:20:15Z",
-            "content": "PORT MORESBY, Papua New Guinea -- The United States signed a new security pact with Papua New Guinea on Monday as it competes with China for influence in the Pacific.\r\nPapua New Guinea's location jus\u2026 [+3744 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Natasha Lomas",
-            "title": "Meta ordered to suspend Facebook EU data flows as it\u2019s hit with record \u20ac1.2BN privacy fine - TechCrunch",
-            "description": "Meta, the company formerly known as Facebook, has been hit with a formal suspension order requiring it to stop exporting European Union user data to the US for processing",
-            "url": "https://techcrunch.com/2023/05/22/facebook-eu-us-data-flows-decision/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1146087387.jpg?resize=1200,813",
-            "publishedAt": "2023-05-22T10:17:14Z",
-            "content": "It\u2019s finally happened: Meta, the company formerly known as Facebook, has been hit with a formal suspension order requiring it to stop exporting European Union user data to the US for processing.\r\nTod\u2026 [+32501 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Shootout at Baja California car rally in Mexico near U.S. border leaves 10 dead, 10 wounded - CBS News",
-            "description": "The apparent gunfight happened at an off-road vehicle rally in Mexico's Baja California state, near the U.S. border. It prompted an intense mobilization of army, navy, and state and local police units.",
-            "url": "https://www.cbsnews.com/news/baja-california-mexico-car-rally-shootout-10-dead-10-wounded/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/22/7e42e28a-dcb2-4e8d-9de2-387fb190ba6e/thumbnail/1200x630/8c296e8758be83438b8e135e67ae4ab4/gettyimages-1256922449.jpg",
-            "publishedAt": "2023-05-22T10:00:21Z",
-            "content": "Authorities say they are investigating an apparent gunfight at an off-road vehicle rally in Mexico's Baja California state that left 10 people dead and another 10 wounded.\r\nVideos posted on social me\u2026 [+943 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": null,
-            "title": "Lego's new 2650-piece Pac-Man arcade includes a mechanical crank | Engadget - Engadget",
-            "description": "Last year Lego released a set for the Atari 2600 console released in the 1970s, and now it's paying homage to the definitive '80s arcade game..",
-            "url": "https://www.engadget.com/legos-new-2650-piece-pac-man-arcade-includes-a-mechanical-crank-095625676.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Nfoci1IXM5l_SjoyvyePEg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/be1d5130-f883-11ed-8bb7-eb9ad28b03a8.cf.jpg",
-            "publishedAt": "2023-05-22T09:57:34Z",
-            "content": "Last year, Lego released a set for the Atari 2600 console released in the 1970s, and now it's paying homage to the definitive '80s arcade game. The 2,650-piece Logo Icons Pac-Man set recreates the cl\u2026 [+1543 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Usf.edu"
-            },
-            "author": "Andrea Hsu",
-            "title": "The latest workers calling for a better quality of life: airline pilots - WUSF Public Media",
-            "description": "In ongoing contract negotiations, pilots at major airlines are pushing for changes in scheduling, to allow for more time at home and fewer missed birthdays and other celebrations.",
-            "url": "https://wusfnews.wusf.usf.edu/2023-05-22/the-latest-workers-calling-for-a-better-quality-of-life-airline-pilots",
-            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/9a38435/2147483647/strip/true/crop/4310x2263+0+485/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F05%2F18%2Fgettyimages-1489507976-26d5e09dff9928c31ac8a325f47b2b45ee58381d.jpg",
-            "publishedAt": "2023-05-22T09:00:00Z",
-            "content": "In the departures hall of Washington Dulles International Airport, hundreds of uniformed United Airlines pilots filed silently past travelers pulling suitcases and children toward the check-in kiosks\u2026 [+4575 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Simone McCarthy",
-            "title": "Russia and China hit back at a G7 that saw them as a threat - CNN",
-            "description": "Moscow and Beijing lashed out against the Group of Seven (G7) summit in Hiroshima, where leaders of major democracies pledged new measures targeting Russia and spoke in one voice on their growing concerns over China.",
-            "url": "https://www.cnn.com/2023/05/21/asia/g7-summit-china-russia-reaction-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230521010217-01-zelensky-g7-family-photo-052123.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-22T08:57:00Z",
-            "content": "Moscow and Beijing lashed out against the Group of Seven (G7) summit in Hiroshima, where leaders of major democracies pledged new measures targeting Russia and spoke in one voice on their growing con\u2026 [+6034 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Fletcher Peters",
-            "title": "Logan Roy's Ex-Lovers Get the Last Word in Succession's Big Funeral - The Daily Beast",
-            "description": "The penultimate episode of the season\u2014and series\u2014takes place at the funeral we\u2019ve been waiting for. Thanks to Kendall and Roman, it goes about as well as you\u2019d expect.",
-            "url": "https://www.thedailybeast.com/obsessed/succession-recap-logan-roys-ex-lovers-get-the-last-word-at-his-funeral",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1684707738/230521-succession-tease_mzxido",
-            "publishedAt": "2023-05-22T08:55:00Z",
-            "content": "This weeks Successionbegins with a eulogy. No, its not for Logan Roy (Brian Cox), whose funeral takes up the majority of this episode. The speech is given by Roman (Kieran Culkin) and is actually for\u2026 [+7342 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Yeo Boon Ping",
-            "title": "CNBC Daily Open: Debt ceiling detours - CNBC",
-            "description": "The good news: Biden will meet McCarthy in person later today to discuss the debt ceiling. The bad: There\u2019s no telling how the talks will proceed.",
-            "url": "https://www.cnbc.com/2023/05/22/stock-markets-debt-ceiling-detours.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107244456-1684732186253-gettyimages-1491006907-_s1_8919_wcz0e4sh.jpeg?v=1684737001&w=1920&h=1080",
-            "publishedAt": "2023-05-22T06:30:01Z",
-            "content": "This report is from today's CNBC Daily Open, our new, international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need to know, no matter where they are. Like wh\u2026 [+1953 chars]"
+            "title": "Ray Stevenson \u2013 RRR, Thor and Star Wars actor \u2013 dies aged 58 - The Guardian",
+            "description": "Northern Irish actor, who often played warriors in productions including Rome and Vikings, was hospitalised suddenly while filming in Italy",
+            "url": "https://www.theguardian.com/film/2023/may/23/ray-stevenson-rrr-thor-and-star-wars-actor-dies-aged-58",
+            "urlToImage": "https://i.guim.co.uk/img/media/3b25e1c88a86ca7c1cb327556726be2334788209/121_38_2779_1667/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7791a1a5fda38f2959611985bbed551",
+            "publishedAt": "2023-05-22T23:59:00Z",
+            "content": "Ray Stevenson, the Northern Irish actor who played the villainous British governor in RRR, Volstagg in the Thor films and a main antagonist in the upcoming Star Wars series Ahsoka, has died aged 58.\r\u2026 [+2535 chars]"
         },
         {
             "source": {
@@ -203,64 +34,233 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Greek election: Centre-right Mitsotakis hails big win but wants majority - BBC",
-            "description": "Centre-right Kyriakos Mitsotakis falls just short of outright victory and plans for a second round.",
-            "url": "https://www.bbc.com/news/world-europe-65666261",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05D1/production/_129798410_mitso1.jpg",
-            "publishedAt": "2023-05-22T06:13:49Z",
-            "content": "Greece's conservative prime minister Kyriakos Mitsotakis has won national elections, hailing his party's big victory as a \"political earthquake\".\r\nHis centre-right New Democracy party were heading fo\u2026 [+4351 chars]"
+            "title": "Ukraine war: Russia battles armed group in border region - BBC",
+            "description": "Ukraine denies involvement and says Russian paramilitary groups are responsible for the incursion.",
+            "url": "https://www.bbc.com/news/world-europe-65674773",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10D38/production/_129802986_belgorod-index.jpg",
+            "publishedAt": "2023-05-22T23:09:42Z",
+            "content": "An armed group has crossed from Ukraine into Russia's Belgorod region and clashes there have injured a number of people, Russian authorities say.\r\nLocal governor Vyacheslav Gladkov said Russian force\u2026 [+3429 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Variety"
             },
-            "author": "Jesse Pound",
-            "title": "Stock futures fall slightly as Wall Street focuses on tense debt ceiling negotiations - CNBC",
-            "description": "The market has continued to grind higher, led by tech stocks, even in the face of a potential debt default and stubborn inflation.",
-            "url": "https://www.cnbc.com/2023/05/21/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107242766-1684340767064-NYSE-Traders-OB-20230517-CC-PRESS-2.jpg?v=1684706764&w=1920&h=1080",
-            "publishedAt": "2023-05-22T05:57:00Z",
-            "content": "Stock futures were mixed on Sunday evening as traders monitored the negotiations over the U.S. debt ceiling.\r\nFutures for the Dow Jones Industrial Average ticked down 54 points, or 0.16%. S&amp;P 500\u2026 [+1682 chars]"
+            "author": "Matt Donnelly",
+            "title": "\u2018The Idol\u2019 Scandalizes Cannes With Five-Minute Standing Ovation for Lily-Rose Depp\u2019s Masturbating Pop Star, Explicit Nudity and the Weeknd\u2019s TV Acting Debut - Variety",
+            "description": "The Weeknd and Lily-Rose Depp shut down the Croisette to show the price of fame \u2014 and plenty of raunchy intrigue \u2014 at the Cannes premiere of \u201cThe Idol\u201d on Monday. Making direct parallels to superst\u2026",
+            "url": "https://variety.com/2023/tv/news/the-idol-cannes-weeknd-standing-ovation-lily-rose-depp-nudity-1235621084/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/05/BUK_4634-1.jpg?w=1000&h=562&crop=1",
+            "publishedAt": "2023-05-22T22:38:00Z",
+            "content": "The Weeknd and Lily-Rose Depp shut down the Croisette to show the price of fame \u2014 and plenty of raunchy intrigue \u2014 at the Cannes premiere of \u201cThe Idol\u201d on Monday.\r\nMaking direct parallels to supersta\u2026 [+3033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "What the Colorado River water use agreement will mean for western states - PBS NewsHour",
+            "description": "The Biden administration reached a landmark deal with several western states to stave off an immediate crisis with the Colorado River and the communities tha...",
+            "url": "https://www.youtube.com/watch?v=-xTv3xYx8b4",
+            "urlToImage": "https://i.ytimg.com/vi/-xTv3xYx8b4/maxresdefault.jpg",
+            "publishedAt": "2023-05-22T22:21:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Kevin Seifert",
+            "title": "NFL owners OK flexing of Thursday night games - ESPN - ESPN",
+            "description": "NFL owners have approved flexing for \"Thursday Night Football\" starting this season.",
+            "url": "https://www.espn.com/nfl/story/_/id/37709462/nfl-owners-ok-flexing-thursday-night-games",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0701%2Fr98819_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-05-22T21:20:00Z",
+            "content": "EAGAN, Minn. -- The NFL will have the capacity to flex a limited number of late-season \"Thursday Night Football\" games on the Amazon Prime streaming platform, according to a resolution approved by NF\u2026 [+2594 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Saber-toothed mammalian ancestor reveals how unstable life was during \u2018the Great Dying\u2019 - CNN",
+            "description": "An unusual saber-toothed creature, similar in size to a tiger but with a reptilian appearance, fought for its place as a predator during Earth\u2019s worst mass extinction event 250 million years ago.",
+            "url": "https://www.cnn.com/2023/05/22/world/saber-tooth-predator-fossil-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230522123903-01-saber-tooth-fossils-illo.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-22T21:18:00Z",
+            "content": "Editors Note: Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nFossils of an unusual saber-toothed pred\u2026 [+6100 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Lili Bayer, Cristina Gallardo, Lara Seligman",
+            "title": "The F-16 takeoff to Ukraine will take time - POLITICO Europe",
+            "description": "While allies have agreed to train Kyiv\u2019s pilots, no country is ready to actually donate jets \u2014 for now.",
+            "url": "https://www.politico.eu/article/f-16-jet-to-ukraine-will-take-time-pilot-training/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/22/GettyImages-1243743072-scaled.jpg",
+            "publishedAt": "2023-05-22T20:48:00Z",
+            "content": "Press play to listen to this article\r\nVoiced by artificial intelligence.\r\nDont expect to see F-16s in Ukrainian skies anytime soon \u00a0the allies need some time.\r\nFollowing months of Ukrainian lobbying,\u2026 [+7244 chars]"
         },
         {
             "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "SUSIE BLANN and ZEKE MILLER Associated Press",
-            "title": "Zelenskyy says 'Bakhmut is only in our hearts' after Russia claims control of Ukrainian city - ABC News",
-            "description": "Ukrainian President Volodymyr Zelenskyy says that he believes that Russia has taken control of the eastern city of Bakhmut",
-            "url": "https://abcnews.go.com/International/wireStory/russian-private-army-head-claims-control-bakhmut-wars-99478947",
-            "urlToImage": "https://s.abcnews.com/images/International/wirestory_da2fc05b818b3dcc39decd40b17d2d8b_16x9_992.jpg",
-            "publishedAt": "2023-05-22T05:51:32Z",
-            "content": "KYIV, Ukraine -- Ukrainian President Volodymyr Zelenskyy said Sunday that Bakhmut was only in our hearts,\" hours after Russias defense ministry reported that forces of the Wagner private army, with t\u2026 [+6045 chars]"
+            "author": "Sasha Pezenik, Kayna Whitworth, Kevin Shalvey",
+            "title": "Idaho college murder suspect Bryan Kohberger 'stands silent' at arraignment, not guilty plea entered - ABC News",
+            "description": "A grand jury last week indicted Kohberger, 28, on murder charges.",
+            "url": "https://abcnews.go.com/US/idaho-college-murders-bryan-kohberger-expected-arraigned-counts/story?id=99500067",
+            "urlToImage": "https://s.abcnews.com/images/US/idaho-students-court-rt-lv-230522_1684782034779_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-05-22T20:14:43Z",
+            "content": "Bryan Kohberger, the suspect accused of killing four Idaho college students in an early morning attack last year, chose to \"stand silent\" during his arraignment Monday.\r\nKohberger, 28, did not respon\u2026 [+2175 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "Space.com"
             },
-            "author": "Michelle Starr",
-            "title": "Captivating Close-Ups Show Amazing Details Hiding in The Glare of The Sun - ScienceAlert",
-            "description": "The largest and most powerful solar telescope on Earth has just given us breathtaking new views of the surface of the Sun.",
-            "url": "https://www.sciencealert.com/captivating-close-ups-show-amazing-details-hiding-in-the-glare-of-the-sun",
-            "urlToImage": "https://www.sciencealert.com/images/2023/05/sunspot-light-bridge.jpg",
-            "publishedAt": "2023-05-22T05:31:53Z",
-            "content": "The largest and most powerful solar telescope on Earth has just given us breathtaking new views of the surface of the Sun.\r\nIn a series of new images, the Daniel K. Inouye Solar Telescope's observati\u2026 [+5068 chars]"
+            "author": "Charles Q. Choi",
+            "title": "Record-breaking Tonga undersea volcano disrupted satellite signals in space - Space.com",
+            "description": "The January 2022 Hunga Tonga-Hunga Ha'apai eruption continues to astound.",
+            "url": "https://www.space.com/tonga-undersea-volcano-eruption-disrupted-satellite-signals",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YkieGoJLvuLRhtJL4YdXJ7-1200-80.jpeg",
+            "publishedAt": "2023-05-22T19:30:49Z",
+            "content": "An underwater volcanic eruption last year was powerful enough to generate plasma bubbles that disrupted radio communications in outer space, a new study finds.\r\nThe new results could lead to ways to \u2026 [+3926 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "DW (English)"
+                "name": "The Athletic"
             },
-            "author": "Deutsche Welle",
-            "title": "Ukraine: F-16's to Kyiv would raise NATO question \u2014 Russia - DW (English)",
-            "description": "The head of Russia's private army says his fighters will transfer control of Bakhmut to the Russian army by June 1. But Kyiv says Russia has \"not occupied\" Bakhmut. DW has the latest.",
-            "url": "https://www.dw.com/en/ukraine-updates-wagner-to-leave-bakhmut-by-june-1/a-65693418",
-            "urlToImage": "https://static.dw.com/image/65686551_6.jpg",
-            "publishedAt": "2023-05-22T04:54:25Z",
-            "content": "The founder of Wagner, Russia's private military\u00a0group,\u00a0Yevgeny Prigozhin said on Monday that his\u00a0forces will leave Bakhmut by the beginning of next month.\r\nWagner, working alongside Russian forces,\u00a0\u2026 [+7186 chars]"
+            "author": "Jared Weiss",
+            "title": "After Miami blowout pushes Celtics\u2019 season to brink, everyone is taking blame - The Athletic",
+            "description": "The Celtics faltered and their season is on the line. With everyone taking the blame, what can they salvage now?",
+            "url": "https://theathletic.com/4540371/2023/05/22/celtics-elimination-heat-game3/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/05/22030454/GettyImages-1492167682-1024x718.jpg",
+            "publishedAt": "2023-05-22T19:27:00Z",
+            "content": "MIAMI Coming into Game 3, the Boston Celtics had a plan and a purpose. They knew one more loss would push their season to an irreparable breaking point. They came in with the best intentions.\r\nThen i\u2026 [+8776 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eatingwell.com"
+            },
+            "author": "https://www.facebook.com/EatingWell/",
+            "title": "The 4 Best Carbs for Gut Health, According to Gastroenterologists - EatingWell",
+            "description": "Fiber is one of the most important features in a gut healthy diet plan. Learn more about healthy carbohydrates that support your gut microbiome.",
+            "url": "https://www.eatingwell.com/article/8043669/best-carbs-for-gut-health/",
+            "urlToImage": "https://www.eatingwell.com/thmb/Q6krDbbjDFZDs2c2VNNt5dUIBtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7680764-923725f579e74aafbce6d5d439f37576.jpg",
+            "publishedAt": "2023-05-22T18:59:36Z",
+            "content": "Whether you call it Atkins, Keto or simply aim to live la vida low-carb, these diets continue to be among the most trendy eating patterns in America.\r\nDepending on which plan you follow, low-carb die\u2026 [+9148 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Danielle Wallace",
+            "title": "China summons Japan ambassador to rebuke G7 summit 'camp confrontation and Cold War mentality': report - Fox News",
+            "description": "China reportedly summoned the Japanese ambassador to rebuke the G7 summit in Hiroshima, slamming the event for \"camp confrontation and Cold War mentality.\"",
+            "url": "https://www.foxnews.com/world/china-summons-japan-ambassador-rebuke-g7-summit-camp-confrontation-cold-war-mentality-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/GettyImages-1249178933.jpg",
+            "publishedAt": "2023-05-22T18:49:00Z",
+            "content": "Chinas Vice Foreign Minister Sun Weidong reportedly summoned Hideo Tarumi, Japan's ambassador to China, on Sunday to relay \"solemn\" protest from Beijing in response to the \"hype around China-related \u2026 [+4579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Marc Sternfield",
+            "title": "Anaheim mayor invites spurned \u2018nun\u2019 group to Angels Pride event - KTLA Los Angeles",
+            "description": "The mayor of Anaheim has invited a group of self-described queer and trans \u201cnuns\u201d to the Los Angeles Angels\u2019 Pride Night after they were abruptly uninvited from the pride event being hosted by the crosstown Dodgers. \u201cI\u2019m inviting the Sisters of Perpetual Indu\u2026",
+            "url": "https://ktla.com/news/local-news/anaheim-mayor-invites-queer-and-trans-nun-group-to-angels-pride-night-after-dodgers-snub/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/05/6466cd77cab971.60826445.jpeg?w=1280",
+            "publishedAt": "2023-05-22T18:38:39Z",
+            "content": "The mayor of Anaheim has invited a group of self-described queer and trans nuns to the Los Angeles Angels Pride Night after they were abruptly uninvited from the pride event being hosted by the cross\u2026 [+2832 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Larry Celona, Joe Marino, Steve Janoski",
+            "title": "Third teen saw two drowned NYC boys playing near water's edge before disappearance: sources - New York Post ",
+            "description": "The circumstances of the boys\u2019 deaths remain opaque. But a third teenager said he saw Alfa Barrie, 11, and Garrett Warren, 13, horsing around near the river\u2019s edge.",
+            "url": "https://nypost.com/2023/05/22/boy-saw-two-drowned-boys-playing-near-waters-edge-before-disappearance-sources-say/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000011558962.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-05-22T18:27:00Z",
+            "content": "A third teenager was with the two boys found dead in waters off Manhattan when the pair went missing earlier this month \u2014 and told cops he saw them playing near the shoreline before they vanished, la\u2026 [+3205 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Watch: Fireball-Like Meteor Lights Up Night Sky In Australia - NDTV",
+            "description": "The incident took place at 9.22 pm in Australia and was observed across multiple suburbs.",
+            "url": "https://www.ndtv.com/feature/watch-fireball-like-meteor-lights-up-night-sky-in-australia-4057473",
+            "urlToImage": "https://c.ndtvimg.com/2023-05/r6bdhm88_meteor-in-australia_625x300_22_May_23.jpg",
+            "publishedAt": "2023-05-22T17:31:36Z",
+            "content": "The video was captured at Cairns Airport in Queensland\r\nOn Saturday, residents in northeast Australia witnessed a fireball-like object shooting across the sky. An incredible video was captured at Cai\u2026 [+1414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Eric Slivka",
+            "title": "Apple Releases First Public Betas of iOS 16.6 and iPadOS 16.6 - MacRumors",
+            "description": "Apple today seeded the first betas of upcoming iOS 16.6 and iPadOS 16.6 updates to public beta testers, allowing non-developers to test out the...",
+            "url": "https://www.macrumors.com/2023/05/22/ios-16-6-public-beta-1/",
+            "urlToImage": "https://images.macrumors.com/t/AF-YgkU3cvp9FiAzku9bUJdOOsg=/2500x/article-new/2023/04/iOS-16.6-Feature.jpg",
+            "publishedAt": "2023-05-22T17:23:33Z",
+            "content": "Apple today seeded the first betas of upcoming iOS 16.6 and iPadOS 16.6 updates to public beta testers, allowing non-developers to test out the software head of its official launch. The public betas \u2026 [+819 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "https://gothamist.com/staff/giulia-heyward",
+            "title": "In exclusive interview, man charged with killing Jordan Neely defends fatal chokehold - Gothamist",
+            "description": "Daniel Penny, who has been charged in the chokehold killing of Jordan Neely, spoke with the New York Post about his arrest.",
+            "url": "https://gothamist.com/news/in-exclusive-interview-man-charged-with-killing-jordan-neely-defends-fatal-chokehold",
+            "urlToImage": "https://cms.prod.nypr.digital/images/338704/fill-1200x650|format-webp|webpquality-85",
+            "publishedAt": "2023-05-22T17:10:00Z",
+            "content": "Daniel Penny provided his first public comments since placing 30-year-old Jordan Neely in a fatal chokehold on May 1.\r\nIn the exclusive interview with the New York Post, the 24-year-old Marine vetera\u2026 [+2363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Reuters",
+            "title": "Startup founder Charlie Javice pleads not guilty to defrauding JPMorgan - New York Post ",
+            "description": "Javice was indicted last week on charges of securities fraud, wire fraud, bank fraud and conspiracy.",
+            "url": "https://nypost.com/2023/05/22/charlie-javice-pleads-not-guilty-to-defrauding-jpmorgan/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/charlie-javice-jpm-plea.jpg?quality=75&strip=all&1684758233&w=1024",
+            "publishedAt": "2023-05-22T16:51:00Z",
+            "content": "The young entrepreneur\u00a0Charlie Javice pleaded not guilty on Monday to charges of defrauding JPMorgan Chase\u00a0into buying her now-shuttered college financial aid startup Frank\u00a0for $175 million in 2021.\r\u2026 [+1570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bravo"
+            },
+            "author": "Allison Crist",
+            "title": "Ariana and a Vanderpump Rules Producer Break Down Her Intense Finale Showdown with Tom Sandoval - Bravo",
+            "description": "Ariana Madix and Vanderpump Rules executive producer Alex Baskin unpack the Season 10 finale with never-before-heard information.",
+            "url": "https://www.bravotv.com/the-daily-dish/vanderpump-rules-producer-bts-secrets-on-tom-ariana-raquel",
+            "urlToImage": "https://www.bravotv.com/sites/bravo/files/2023/05/ariana-madix-tom-sandoval-finale-nyt.jpg",
+            "publishedAt": "2023-05-22T16:48:01Z",
+            "content": "There was no shortage of shocking moments on theVanderpump RulesSeason 10 finale, but one of the most memorable came when\u00a0Tom Sandoval and Ariana Madix finally sat down one-on-one and unpacked his af\u2026 [+2929 chars]"
         }
     ]
 }
