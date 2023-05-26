@@ -4,133 +4,94 @@
     "articles": [
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Jay Peters",
-            "title": "PlayStation Showcase 2023: all the news from Sony's big gaming event - The Verge",
-            "description": "Sony\u2019s PlayStation Showcase on May 24th, was packed with news about games and hardware accessories for the PS5 and PSVR 2. We saw the Project Q handheld, Marathon, and a new trailer for Spider-Man 2. Here\u2019s our coverage of the event.",
-            "url": "https://www.theverge.com/2023/5/24/23734469/sony-playstation-showcase-2023-news-announcements",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/8OjMfHDMDT9Q6-06dzxjFhi8ykk=/0x0:2040x1360/1200x628/filters:focal(924x608:925x609)/cdn.vox-cdn.com/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg",
-            "publishedAt": "2023-05-24T21:53:16Z",
-            "content": "Filed under:\r\nByJay Peters, a news editor who writes about technology, video games, and virtual worlds. Hes submitted several accepted emoji proposals to the Unicode Consortium.\r\nSonys latest PlaySta\u2026 [+10155 chars]"
+            "author": "Samantha Delouya",
+            "title": "Credit rating agency warns it may downgrade US debt rating, driving up costs - CNN",
+            "description": "A deadlocked Congress that has taken America to the brink of default could jeopardize the United States\u2019 perfect credit rating, Fitch said in a stern warning Wednesday.",
+            "url": "https://www.cnn.com/2023/05/24/business/fitch-places-us-on-rating-watch-negative/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230420174349-capitol-dome-041723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-25T10:32:00Z",
+            "content": "A deadlocked Congress that has taken America to the brink of default could jeopardize the United States perfect credit rating, Fitch said in a stern warning Wednesday.\r\nThe credit ratings agency plac\u2026 [+2838 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "PlayStation 5 - Project Q Reveal Trailer | PlayStation Showcase 2023 - IGN",
-            "description": "Project Q has an 8-inch HD screen attached to DualSense-style grips, and offers all the same haptic features as the regular DualSense controller.",
-            "url": "https://www.youtube.com/watch?v=03DEcB2ny4E",
-            "urlToImage": "https://i.ytimg.com/vi/03DEcB2ny4E/maxresdefault.jpg",
-            "publishedAt": "2023-05-24T21:05:58Z",
-            "content": null
+            "title": "AAArrggh! Stocks in debt ceiling danger zone after U.S. rating warning - Reuters",
+            "description": "Markets were stuck in U.S. debt ceiling limbo on Thursday, while Europe largely shrugged off news that its biggest economy, Germany, had sagged into recession and that all the wrangling in the United States could cost it an AAA credit rating.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-05-25/",
+            "urlToImage": "https://www.reuters.com/resizer/DKZUHbg-Nm_ACE7jHszqRxkVfbs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E3J4DPXFUJLFRHTFZI52NJBDKM.jpg",
+            "publishedAt": "2023-05-25T10:19:00Z",
+            "content": "SINGAPORE, May 25 (Reuters) - Markets were stuck in U.S. debt ceiling limbo on Thursday, while Europe largely shrugged off news that its biggest economy, Germany, had sagged into recession and that a\u2026 [+3757 chars]"
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Alexander Smith, Caroline Radnofsky, Matthew Mulligan, Reuters, The Associated Press, Sara Mhaidli, Patrick Smith",
-            "title": "U.S. distances itself from Belgorod incursion into Russia by pro-Ukraine fighters - NBC News",
-            "description": "The United States has sought to distance itself from a dramatic raid into Russian territory by pro-Ukraine fighters who appeared to use American equipment in their attack.",
-            "url": "https://www.nbcnews.com/news/world/us-humvees-incursion-belgorod-russia-ukraine-attack-rcna85946",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-05/230534-belgorod-mb-0946-92b4b1.jpg",
-            "publishedAt": "2023-05-24T21:05:03Z",
-            "content": "The United States has sought to distance itself from a dramatic raid into Russian territory by pro-Ukraine fighters who appeared to use American equipment in their attack.\r\nMoscow said Tuesday it had\u2026 [+5208 chars]"
+            "author": "Al Jazeera",
+            "title": "Paralysed man walks with device that connects brain, spinal cord - Al Jazeera English",
+            "description": "A paralysed man has regained the ability to walk smoothly using only his thoughts, for the first time.",
+            "url": "https://www.aljazeera.com/news/2023/5/25/paralysed-man-walks-with-device-that-connects-brain-spinal-cord",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-25-at-11.06.26-AM-1-1685002212.jpg?resize=1200%2C675",
+            "publishedAt": "2023-05-25T09:27:33Z",
+            "content": "A previously paralysed man has been able to walk again just by thinking about it thanks to a new device that connects his brain and his spinal cord, bypassing an injury he suffered 12 years ago.\r\nA c\u2026 [+3425 chars]"
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": "polygon",
+                "name": "Polygon"
             },
-            "author": "Adam Teicher",
-            "title": "Patrick Mahomes - Priority is 'legacy and winning rings,' not money - ESPN - ESPN",
-            "description": "Patrick Mahomes emphasized that his priority is winning Super Bowls, saying \"I worry about legacy and winning rings more than making money.\"",
-            "url": "https://www.espn.com/nfl/story/_/id/37722831/patrick-mahomes-priority-legacy-winning-rings-not-money",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0524%2Fr1177767_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-05-24T20:27:50Z",
-            "content": "KANSAS CITY, Mo. -- Ever since signing what at the time was the richest contract in NFL history, Patrick Mahomes has watched as his annual pay has slipped to seventh among the league's quarterbacks.\r\u2026 [+2402 chars]"
+            "author": "Susana Polo",
+            "title": "The Lord of the Rings: Gollum lacks the personality of Tolkien\u2019s epic - Polygon",
+            "description": "Daedalic Entertainment\u2019s Gollum game struggles to find an untold story in J.R.R. Tolkien\u2019s Lord of the Rings trilogy on Switch, PC, PlayStation, and Xbox.",
+            "url": "https://www.polygon.com/23735798/lord-of-the-rings-gollum-game-review-daedalic",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/itSpvHckxoKKGjOIzbAp0uyZtbo=/0x7:1106x586/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24491818/Screenshot_2023_03_09_at_1.47.34_PM.png",
+            "publishedAt": "2023-05-25T08:00:00Z",
+            "content": "One thing you cant say about J.R.R. Tolkiens orcs is that they lacked personality. The generic orc of generic fantasy may be a hulking, dimwitted goon, but to Tolkien they were his chief way of injec\u2026 [+5829 chars]"
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "The Associated Press",
-            "title": "95-year-old Australian woman dies after police shoot her with stun gun; officer faces charges - ABC News",
-            "description": "A 95-year-old Australian woman has died a week after a police officer shot her with a stun gun in a nursing home as she moved toward him using a walker and carrying a steak knife, in a tragedy that has outraged many Australians",
-            "url": "https://abcnews.go.com/International/wireStory/australian-police-officer-faces-charges-after-shocking-95-99562910",
-            "urlToImage": "https://s.abcnews.com/images/International/wirestory_2fe75117912f8b26500d617ccde32104_12x5_992.jpg",
-            "publishedAt": "2023-05-24T20:25:18Z",
-            "content": "CANBERRA, Australia -- A 95-year-old Australian woman died Wednesday, a week after a police officer shot her with a stun gun in a nursing home as she moved toward him using a walker and carrying a st\u2026 [+1542 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Laura Snapes",
-            "title": "Tina Turner: legendary rock\u2019n\u2019roll singer dies aged 83 - The Guardian",
-            "description": "Turner who initially found fame in a turbulent musical partnership, became one of the biggest acts in the world as a solo artist and one of the defining pop icons of the 1980s",
-            "url": "https://www.theguardian.com/music/2023/may/24/tina-turner-legendary-rocknroll-singer-dies-aged-83",
-            "urlToImage": "https://i.guim.co.uk/img/media/2ae0ea9f849c50e25f5ec347778c2253eee029af/625_4_1801_1080/master/1801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9218bdf905e0d87ecb9218daef48c450",
-            "publishedAt": "2023-05-24T20:14:00Z",
-            "content": "Tina Turner, the pioneering rocknroll star who became a pop behemoth in the 1980s, has died aged 83 after a long illness.\r\nShe had suffered ill health in recent years, being diagnosed with intestinal\u2026 [+7224 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Stephen Gandel, Christine Murray",
-            "title": "Citigroup abandons long-planned sale of Banamex to pursue IPO - Financial Times",
-            "description": "US lender drops previous effort to sell Mexican retail bank it bought in 2001",
-            "url": "https://www.ft.com/content/fcbf0737-acf8-470c-9e9c-d8eae4a8e996",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8fb44c1c-36fb-49c2-9513-47326b651449.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-05-24T20:07:16Z",
-            "content": "Citigroup has said it will spin off its Mexican retail bank through an initial public offering, abandoning a plan hatched early last year to sell the unit.\r\nThe US lender plans to completely separate\u2026 [+3621 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Megan Henney",
-            "title": "Fed officials divided over additional interest rate hikes, meeting minutes show - Fox Business",
-            "description": "Federal Reserve officials are split over whether to pause their aggressive interest-rate hike campaign at the June policy-setting meeting, minutes showed.",
-            "url": "https://www.foxbusiness.com/economy/fed-officials-divided-need-additional-interest-rate-hikes-meeting-minutes-show",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/federal-reserve-2.jpg?ve=1&tl=1",
-            "publishedAt": "2023-05-24T20:03:45Z",
-            "content": "Federal Reserve officials were split at their meeting earlier in May on whether additional interest rate hikes are needed to lower chronically high inflation, according to minutes released Wednesday.\u2026 [+2668 chars]"
+            "author": null,
+            "title": "Chinese hackers spying on US critical infrastructure, Western intelligence says - Reuters",
+            "description": "A state-sponsored Chinese hacking group has been spying on a wide range of U.S. critical infrastructure organizations, from telecommunications to transportation hubs, Western intelligence agencies and Microsoft <a href=\"https://www.reuters.com/companies/MSFT.\u2026",
+            "url": "https://www.reuters.com/technology/microsoft-says-china-backed-hacker-targeted-critical-us-infrastructure-2023-05-24/",
+            "urlToImage": "https://www.reuters.com/resizer/RWXz-yLIH6lBUrvbB5tM43EhF0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/47Q6EFTY7RICHN5Z3HDRCS4DQQ.jpg",
+            "publishedAt": "2023-05-25T07:59:00Z",
+            "content": "May 24 (Reuters) - A state-sponsored Chinese hacking group has been spying on a wide range of U.S. critical infrastructure organizations, from telecommunications to transportation hubs, Western intel\u2026 [+4878 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Eonline.com"
             },
-            "author": "Elyse Dupre",
-            "title": "Rita Wilson Addresses That Tense Cannes Film Festival Photo With Tom Hanks - E! NEWS",
-            "description": "After a less-than-picture-perfect snap of Tom Hanks and Rita Wilson at the Cannes Film Festival went viral, the singer set the record straight on what happened on the Asteroid City red carpet.",
-            "url": "https://www.eonline.com/news/1375365/rita-wilson-addresses-that-tense-cannes-film-festival-photo-with-tom-hanks",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023424/rs_1200x1200-230524080906-1200-Tom-Hanks-Rita-WIlson-Cannes.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-05-24T19:11:59Z",
-            "content": "Cannes\u00a0you believe\u00a0this drama?\u00a0\r\nWell,\u00a0Rita Wilson\u00a0is putting an end to it by addressing a recent picture of her and\u00a0Tom Hanks\u00a0at the 2023 Cannes Film Festival.\r\nThe snap in question showed the coupl\u2026 [+843 chars]"
+            "author": "Lindsay Weinberg, Ashley Joy Parker",
+            "title": "Khloe Kardashian and Tristan Thompson\u2019s Baby Boy\u2019s Name Finally Revealed 9 Months After Birth - E! NEWS",
+            "description": "Khloe Kardashian shared the name of her and Tristan Thompson's baby boy at long last. Find out their second child's name, which keeps with family tradition.",
+            "url": "https://www.eonline.com/news/1341081/khloe-kardashian-and-tristan-thompsons-baby-boys-name-finally-revealed-9-months-after-birth",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023424/rs_1200x1200-230524132353-1200-khloe-kardashian.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-05-25T07:34:18Z",
+            "content": "What else is there to know about Tatum?\u00a0Well, his nickname appears to be Tate,\u00a0as Khloe's bestie Malika Haqqteased in a recent Instagram comment. And according to\u00a0Kim Kardashian,\u00a0Tatum\u00a0looks \"just li\u2026 [+723 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Lisa Mascaro, Stephen Groves",
-            "title": "McCarthy sends Republican debt limit negotiators to White House, but sides are 'far apart' - The Associated Press",
-            "description": "WASHINGTON (AP) \u2014 House Speaker Kevin McCarthy said Wednesday he was sending Republican negotiators to the White House to finish out debt limit  talks, but warned that the two sides are \u201cstill far apart\u201d as they try to reach a budget deal with President Joe B\u2026",
-            "url": "https://apnews.com/article/debt-limit-congress-mccarthy-biden-budget-850273c73ed40f4ad002fa24e50f9b40",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/a2d8037fb2f34c24ad09158df33452b2/3000.webp",
-            "publishedAt": "2023-05-24T18:56:15Z",
-            "content": "WASHINGTON (AP) House Speaker Kevin McCarthy said Wednesday he was sending Republican negotiators to the White House to finish out debt limit talks, but warned that the two sides are still far apart \u2026 [+6608 chars]"
+            "author": "Rob Picheta,Mariya Knight",
+            "title": "Wagner chief warns Russians could revolt if invasion continues to struggle - CNN",
+            "description": "A new \u201crevolution\u201d could rock Russia if its stuttering war effort in Ukraine continues, the chief of private military group Wagner has said, in a scathing assessment of Moscow\u2019s military readiness that could further expose divisions in Russian President Vladi\u2026",
+            "url": "https://www.cnn.com/2023/05/24/europe/wagner-prigozhin-russia-manpower-ukraine-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230522063957-bakhmut-ukraine-fighting-file-051523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-25T06:51:00Z",
+            "content": "A new revolution could rock Russia if its stuttering war effort in Ukraine continues, the chief of private military group Wagner has said, in a scathing assessment of Moscows military readiness that \u2026 [+2608 chars]"
         },
         {
             "source": {
@@ -138,129 +99,168 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "SETI Live: A Sign in Space - Simulating First Contact - SETI Institute",
-            "description": "What would happen if we received a message from an extraterrestrial civilization? Daniela de Paulis, Artist in Residence at the SETI Institute and the Green ...",
-            "url": "https://www.youtube.com/watch?v=zgQq36IR-Lk",
-            "urlToImage": "https://i.ytimg.com/vi/zgQq36IR-Lk/maxresdefault_live.jpg",
-            "publishedAt": "2023-05-24T18:17:21Z",
+            "title": "Search underway for suspect accused of stabbing Metro bus driver - KTLA 5",
+            "description": "Police are searching for a suspect who stabbed a Metro bus driver multiple times Wednesday night in Woodland Hills before fleeing on foot. Rick Chambers repo...",
+            "url": "https://www.youtube.com/watch?v=t1REvvUERnE",
+            "urlToImage": "https://i.ytimg.com/vi/t1REvvUERnE/maxresdefault.jpg",
+            "publishedAt": "2023-05-25T06:27:17Z",
             "content": null
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Marlene Lenthang",
-            "title": "Rapper Fetty Wap sentenced to 6 years in prison for drug trafficking scheme - NBC News",
-            "description": "Rapper Fetty Wap was sentenced to six years in prison Wednesday for his role in a large-scale drug trafficking scheme that saw narcotics shipped from the West Coast and sold in New Jersey and Long Island.",
-            "url": "https://www.nbcnews.com/news/us-news/rapper-fetty-wap-sentenced-6-years-prison-drug-trafficking-scheme-rcna86050",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-05/230524-fetty-wap-se-123p-803a02.jpg",
-            "publishedAt": "2023-05-24T18:09:38Z",
-            "content": "Rapper Fetty Wap was sentenced to six years in prison Wednesday for his role in a large-scale drug trafficking scheme that saw narcotics shipped from the West Coast and sold in New Jersey and Long Is\u2026 [+2867 chars]"
+            "author": "Bevan Hurley",
+            "title": "Tina Turner death \u2013 latest: Tributes pour in after rock'n'roll 'legend' dies in Switzerland - The Independent",
+            "description": "Tina Turner dies aged 83",
+            "url": "https://www.independent.co.uk/arts-entertainment/music/news/tina-turner-death-switzerland-news-live-b2345478.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/24/21/28809c3a576a5c1f82c07a2411b581e0Y29udGVudHNlYXJjaGFwaSwxNjg1MDQ0Njgw-2.72335001.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-05-25T06:23:14Z",
+            "content": "Gasps and tears as stars of Tina Turner West End musical break news of her death\r\nThe stars of the West End stage show Tina: The Tina Turner Musical broke news of its namesakes death during an emotio\u2026 [+1653 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Vulture"
+                "name": "Hollywood Reporter"
             },
-            "author": "Justin Curto",
-            "title": "Taylor Swift, Ice Spice Remixed Karma for Midnights Til Dawn - Vulture",
-            "description": "Taylor Swift announced a remix of \u201cKarma\u201d with rapper Ice Spice as part of a \u2018Midnights (Til Dawn Edition)\u2019 out Friday, May 26. The new edition also features another take of \u201cSnow on the Beach\u201d with more Lana Del Rey vocals.",
-            "url": "http://www.vulture.com/2023/05/taylor-swift-ice-spice-karma-remix-midnights-til-dawn.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/8e9/296/e33859d888034bcde44e01f9e257ef1225-ice-spice-taylor-swift.1x.rsocial.w1200.jpg",
-            "publishedAt": "2023-05-24T18:02:37Z",
-            "content": "Swifties still have to wait over a month for Speak Now (Taylors Version), but Taylor Swift is giving her fans something else to munch on in the meantime. That is, a remix of Karma with up-and-coming \u2026 [+1461 chars]"
+            "author": "Patrick Brzeski",
+            "title": "Takeshi Kitano Weighs in on Sex Abuse Scandal Rocking Japan\u2019s Entertainment Industry: \u201cThese Stories Have Always Been Around\u201d (Exclusive) - Hollywood Reporter",
+            "description": "\"The time of being able to speak up about LGBTQ stuff and sexual harassment has finally come to Japan,\" says Kitano, as allegations of historical abuse by late talent manager Johnny Kitigawa continue to grow.",
+            "url": "https://www.hollywoodreporter.com/news/general-news/takeshi-kitano-sex-abuse-scandal-johnnys-japan-1235500522/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/Kitano.jpg?w=1024",
+            "publishedAt": "2023-05-25T06:10:29Z",
+            "content": "Takeshi Kitano, arguably Japan\u2019s most recognizable entertainer, has weighed in on the sexual abuse scandal that has shaken the country\u2019s multi-billion-dollar media landscape. \u00a0\r\nSince March, a long-d\u2026 [+7215 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Commercial Appeal"
+                "name": "Suntimes.com"
             },
-            "author": "Damichael Cole",
-            "title": "Ja Morant welfare check: Instagram posts prompt visit from police - Commercial Appeal",
-            "description": "A Shelby County Sherriff's Office spokesperson said police conducted a welfare check on Memphis Grizzlies star Ja Morant due to Instagram posts.",
-            "url": "https://www.commercialappeal.com/story/sports/nba/grizzlies/2023/05/24/ja-morant-welfare-check-police-memphis-grizzlies-instagram-nike-shoe-deal/70213524007/",
-            "urlToImage": "https://www.commercialappeal.com/gcdn/presto/2023/05/14/USAT/95ffdabd-6a86-4e28-a49a-32010975b65a-morant.jpg?crop=8000,4500,x1,y221&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2023-05-24T17:43:19Z",
-            "content": "A welfare check was conducted on Memphis Grizzlies star Ja Morant on Tuesday morning following a series of cryptic Instagram posts, and \"he is fine,\" a spokesperson from the Shelby County Sherriff's \u2026 [+2456 chars]"
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Thursday, May 25, 2023 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2023/5/25/23733535/horoscopes-today-thursday-may-25-2023",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/d22ec7a/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FwFsvrZbMgSSiEQcSfinfj0nsr6E%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24674785%2FGeorgia_mug.jpeg",
+            "publishedAt": "2023-05-25T05:02:17Z",
+            "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Leo.\r\nAries (March 21-April 19)\r\nThis can be a playful day if youre open to it. Its a good day to explore hobb\u2026 [+3785 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt Foster",
+            "title": "Florida Panthers advance to first Stanley Cup Final in 27 years after sweeping Carolina Hurricanes - CNN",
+            "description": "The Florida Panthers swept the Carolina Hurricanes on Wednesday to advance to their second Stanley Cup Final in franchise history and first since 1996.",
+            "url": "https://www.cnn.com/2023/05/25/sport/florida-panthers-advance-stanley-cup/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230525114908-01-florida-panthers-advance-stanley-cup.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-25T04:34:00Z",
+            "content": "The Florida Panthers swept the Carolina Hurricanes on Wednesday to advance to their second Stanley Cup Final in franchise history and first since 1996.\r\nThe No. 8 seeded Panthers beat the Hurricanes \u2026 [+1941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Karl Rasmussen",
+            "title": "Kwame Brown Eviscerates LeBron James in Bonkers Rant After Lakers\u2019 Playoff Exit - Sports Illustrated",
+            "description": "LeBron was the subject of a rather heated tirade from the former top draft pick.",
+            "url": "https://www.si.com/extra-mustard/2023/05/25/kwame-brown-eviscerates-lebron-james-in-bonkers-rant-after-lakers-playoff-exit",
+            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk4MTg2MzQ4MTM2Mzc1MzY4/lereaction.jpg",
+            "publishedAt": "2023-05-25T04:12:12Z",
+            "content": "Lakers\u00a0fans could only be disappointed after the team was dealt an unsavory exit from the playoffs in the form of a sweep by the\u00a0Nuggets\u00a0in the Western Conference finals.\r\nPerhaps no one was more let\u2026 [+1457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Sammy Barker",
+            "title": "Reaction: Sony Flubs First Proper PS5 Presentation in Over 18 Months - Push Square",
+            "description": "PlayStation falls at the first hurdle",
+            "url": "https://www.pushsquare.com/news/2023/05/reaction-sony-flubs-first-proper-ps5-presentation-in-over-18-months",
+            "urlToImage": "https://images.pushsquare.com/c390456121b60/1280x720.jpg",
+            "publishedAt": "2023-05-25T03:30:00Z",
+            "content": "Image: Push Square\r\nThe online response to the first PlayStation Showcase in well over 18 months is apoplectic, and while enthusiast gamers are notoriously unhinged, its not entirely unexpected after\u2026 [+4072 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "SA Transcripts",
+            "title": "NVIDIA Corp. (NVDA) Q1 2024 Earnings Call Transcript - Seeking Alpha",
+            "description": "NVIDIA Corp. (NASDAQ:NVDA) Q1 2024 Earnings Conference Call May 24, 2023 05:00 PM ET",
+            "url": "https://seekingalpha.com/article/4607199-nvidia-corp-nvda-q1-2024-earnings-call-transcript",
+            "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "publishedAt": "2023-05-25T02:33:03Z",
+            "content": "NVIDIA Corp. (NASDAQ:NVDA) Q1 2024 Earnings Conference Call May 24, 2023 5:00 PM ET\r\nCompany Participants\r\nSimona Jankowski - VP, IR\r\nColette Kress - EVP &amp; CFO\r\nJensen Huang - Co-Founder, CEO &am\u2026 [+54689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Michelle Starr",
+            "title": "We May've Detected A Rare 'Missing Link' Black Hole in Our Own Celestial Backyard - ScienceAlert",
+            "description": "At the heart of a glob of stars drifting through the Milky Way lurks a beast.",
+            "url": "https://www.sciencealert.com/we-mayve-detected-a-rare-missing-link-black-hole-in-our-own-celestial-backyard",
+            "urlToImage": "https://www.sciencealert.com/images/2023/05/messier-4.jpg",
+            "publishedAt": "2023-05-25T02:31:11Z",
+            "content": "At the heart of a glob of stars drifting through the Milky Way lurks a beast.\r\nLocated some 6,000 light-years away, a globular cluster known as Messier 4 appears to be clumped around a black hole som\u2026 [+5155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Patriots lose two OTA sessions after violating NFL offseason rules, per report - CBS Sports",
+            "description": "New England had previously announced that Thursday's OTA had been canceled",
+            "url": "https://www.cbssports.com/nfl/news/patriots-lose-two-ota-sessions-after-violating-nfl-offseason-rules-per-report/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/25/c216efb2-ae9e-41ad-8205-3ddab0e3e0fd/thumbnail/1200x675/03e725a683a5978e2f5dac64132bd880/patriots-helmet-g.jpg",
+            "publishedAt": "2023-05-25T02:25:25Z",
+            "content": "The New England Patriots have been docked two days of organized team activities after it was found the organization violated offseason rules, according to ESPN.\u00a0\r\nThe Patriots were scheduled to have \u2026 [+1422 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Isabel Keane",
-            "title": "Russia\u2019s Wagner boss says over 20K troops have died in Bakhmut, Ukraine - New York Post ",
-            "description": "Russia\u2019s Wagner mercenary group lost 20,000 fighters in the ongoing battle for the highly contested Ukrainian city of Bakhmut.",
-            "url": "https://nypost.com/2023/05/24/over-20000-of-russias-wagner-troops-have-died-in-bakhmut/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000011660892.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-05-24T17:42:00Z",
-            "content": "Russia\u2019s Wagner mercenary group has lost 20,000 fighters some of whom were Russian convicts recruited from prisons in the ongoing battle for the highly contested Ukrainian city of Bakhmut, the group\u2019\u2026 [+2898 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "AG Ken Paxton likely committed impeachable crimes, Texas House investigators say - Houston Chronicle ",
-            "description": null,
-            "url": "https://consent.google.com/m",
-            "urlToImage": null,
-            "publishedAt": "2023-05-24T17:13:42Z",
-            "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un\u2026 [+1139 chars]"
+            "author": "Michael Blinn",
+            "title": "Stephen A. Smith: Ja Morant's perplexing Instagram posts made NBA players 'uncomfortable' - New York Post ",
+            "description": "Ja Morant\u2019s cryptic Instagram posts on Wednesday raised plenty of concerns around the NBA.",
+            "url": "https://nypost.com/2023/05/24/stephen-a-smith-ja-morants-instagram-posts-left-nba-players-uncomfortable/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/newspress-collage-27199628-1684978246116.jpg?quality=75&strip=all&1684963951&w=1024",
+            "publishedAt": "2023-05-25T02:17:00Z",
+            "content": "Ja Morant\u2019s cryptic Instagram posts on Wednesday raised plenty of concerns around the NBA.\r\nOn Wednesday morning, the Memphis Grizzlies star posted pictures of himself with his family on his Instagra\u2026 [+2381 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Boston Globe"
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "HIV rates in the US are dropping. Here\u2019s why. - The Boston Globe",
-            "description": "Massachusetts has seen a recent 15.7 percent drop in new cases, though that progress has not been evenly spread across ethnic and racial groups.",
-            "url": "https://www.bostonglobe.com/2023/05/24/metro/hiv-rates-are-dropping-heres-why/",
-            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/PME2tWZ26bCt0OKhFU6Z6BkZFxg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/Q2WLCB7RVPLZPJ3HV4LSPFZIEI.jpg",
-            "publishedAt": "2023-05-24T16:42:43Z",
-            "content": "Its a good news, bad news situation, said Dr. Kenneth Mayer, medical research director and cochair of the Fenway Institute, which provides health services for the LGBTQ+ community and those affected \u2026 [+4024 chars]"
+            "title": "NASA: Saturn's Rings Are Young and Could Quickly Disappear - SciTechDaily",
+            "description": "NASA's Cassini mission data suggests that Saturn's rings are young, possibly only a few hundred million years old, and could disappear in a similar timescale. The rings' mass, purity, and debris accumulation rates indicate their relatively young age and short\u2026",
+            "url": "https://scitechdaily.com/?p=280612",
+            "urlToImage": "https://scitechdaily.com/images/Cassinis-View-From-Orbit-Around-Saturn-2010-scaled.jpg",
+            "publishedAt": "2023-05-25T02:16:22Z",
+            "content": "ByAbby Tabor and Aaron McKinnon, NASA's Ames Research CenterMay 24, 2023\r\nThis was Cassinis view from orbit around Saturn on January 2, 2010. In this image, the rings on the night side of the planet \u2026 [+9563 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "The Texas Tribune"
             },
-            "author": null,
-            "title": "Yellen Says It's Hard to Predict an X-Date - Bloomberg Television",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=WZdUtXHpjh0",
-            "urlToImage": null,
-            "publishedAt": "2023-05-24T16:34:16Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boing Boing"
-            },
-            "author": null,
-            "title": "Breathtaking image of Jupiter's swirly storms - Boing Boing",
-            "description": "NASA\u2019s Juno space probe orbiting Jupiter captured this breathtaking image of the swirly storms on the largest planet in our solar system. Jupiter\u2019s radius is 69,911 kilometers, 11 times\u2026",
-            "url": "https://boingboing.net/2023/05/24/breathtaking-image-of-jupiters-swirly-storms.html",
-            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/JNCE_2020101_26C00022_23_V01_-_Rendered_-_6.png?fit=1024%2C1024&ssl=1",
-            "publishedAt": "2023-05-24T16:31:21Z",
-            "content": "NASA's Juno space probe orbiting Jupiter captured this breathtaking image of the swirly storms on the largest planet in our solar system. Jupiter's radius is 69,911 kilometers, 11 times wider than Ea\u2026 [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NESN"
-            },
-            "author": "Sean T. McGuire",
-            "title": "Celtics\u2019 Joe Mazzulla Deserves Credit For Underrated Game 4 Decision - NESN",
-            "description": "Boston Celtics coach Joe Mazzulla might have had his best game of the year in Game 4 on Tuesday, highlighted by one third-quarter decision.",
-            "url": "https://nesn.com/2023/05/celtics-joe-mazzulla-deserves-credit-for-underrated-game-4-decision/",
-            "urlToImage": "https://nesn.com/wp-content/uploads/sites/5/2023/05/Joe-Mazzulla-2-1.jpg",
-            "publishedAt": "2023-05-24T16:07:07Z",
-            "content": null
+            "author": "Carla Astudillo, Alex Nguyen",
+            "title": "Review does not support Ken Paxton claim of partisan House investigators - The Texas Tribune",
+            "description": "A Texas Tribune review of the investigators\u2019 employment history, voting records and campaign donations found a lack of support for the attorney general\u2019s claim.",
+            "url": "https://www.texastribune.org/2023/05/24/ken-paxton-investigation-democrats-lawyers/",
+            "urlToImage": "https://thumbnails.texastribune.org/NKc6Arri2BkDzGzW7lFTJMLHn80=/1200x630/filters:quality(95)/static.texastribune.org/media/files/c27b79fa463ce41fe4e1348ec26eee4c/Ken%20Paxton%20File%20MF%20TT%2007.jpg",
+            "publishedAt": "2023-05-25T02:09:46Z",
+            "content": "Sign up for The Brief, The Texas Tribunes daily newsletter that keeps readers up to speed on the most essential Texas news.\r\nAfter investigators for a Texas House committee concluded Wednesday that A\u2026 [+4674 chars]"
         }
     ]
 }
