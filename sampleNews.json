@@ -1,201 +1,253 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Umar Shakir",
-            "title": "Ford EVs will use Tesla's charging plug starting next year - The Verge",
-            "description": "Ford and Tesla\u2019s deal for electric vehicle charging means upcoming Fords will use Tesla\u2019s NACS charging plug and that soon, Ford EVs will be able to fast-charge at Tesla\u2019s Superchargers.",
-            "url": "https://www.theverge.com/2023/5/25/23737896/ford-tesla-ev-fast-charging-elon-musk-twitter-space",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/LeRLp_4oEirkElmSoMVq0P2IggE=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/24683434/Ford_Tesla_Mustang_Mach_E.jpg",
-            "publishedAt": "2023-05-25T21:50:00Z",
-            "content": "Ford EVs will use Teslas charging plug starting next year\r\nFord EVs will use Teslas charging plug starting next year\r\n / And starting early next year, owners of Fords electric cars will be able to fa\u2026 [+4758 chars]"
+            "author": null,
+            "title": "Biden, McCarthy appear near two-year deal on US debt ceiling as default looms - Reuters",
+            "description": "U.S. President Joe Biden and top congressional Republican Kevin McCarthy are closing in on a deal that would raise the government's $31.4 trillion debt ceiling for two years while capping spending on most items, a U.S. official told Reuters.",
+            "url": "https://www.reuters.com/markets/us/white-house-republicans-seek-close-us-debt-ceiling-deal-deadline-nears-2023-05-25/",
+            "urlToImage": "https://www.reuters.com/resizer/pjsVj1KT60LJ4GGbLGJvMEMzvSk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2M6UZWAYHVJDZLUELMQ4OEUQEM.jpg",
+            "publishedAt": "2023-05-26T10:14:00Z",
+            "content": "WASHINGTON, May 25 (Reuters) - U.S. President Joe Biden and top congressional Republican Kevin McCarthy are closing in on a deal that would raise the government's $31.4 trillion debt ceiling for two \u2026 [+5907 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nicki Brown,Melissa Alonso",
+            "title": "Indiana medical board reprimands doctor who publicly discussed providing abortion services to 10-year-old Ohio rape victim - CNN",
+            "description": "An Indianapolis doctor who publicly revealed she provided abortion services to a 10-year-old Ohio rape victim last year has been reprimanded and fined by Indiana\u2019s medical licensing board after it determined the disclosure violated federal and state patient p\u2026",
+            "url": "https://www.cnn.com/2023/05/26/us/dr-caitlin-bernard-indiana-medical-board-hearing/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230526115232-02-dr-caitlin-bernard-hearing-0525.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-26T09:41:00Z",
+            "content": "An Indianapolis doctor who publicly revealed she provided abortion services to a 10-year-old Ohio rape victim last year has been reprimanded and fined by Indianas medical licensing board after it det\u2026 [+5041 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Yoonjung Seo,Brad Lendon",
+            "title": "Terrifying moments as plane door opens midair on Asiana Airlines flight - CNN",
+            "description": "The door of an Asiana Airlines jet opened as it was coming in to land in Daegu, South Korea, on Friday afternoon, leaving wind whipping through the plane\u2019s cabin as terrified passengers gripped their armrests, video of the incident shows.",
+            "url": "https://www.cnn.com/2023/05/26/asia/south-korea-plane-door-opens-midair-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230526041658-asiana-airlines-plane-door-052623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-26T09:21:00Z",
+            "content": "The door of an Asiana Airlines jet opened as it was coming in to land in Daegu, South Korea, on Friday afternoon, leaving wind whipping through the planes cabin as terrified passengers gripped their \u2026 [+1865 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "The Athletic"
             },
-            "author": "Dominic Patten",
-            "title": "\u2018Romeo & Juliet\u2019 $100M Sex Abuse Suit Is \u201cGross Mischaracterization\u201d & Will Be Dismissed, Judge Says - Deadline",
-            "description": "\u201cThus with a kiss I die,\u201d wrote William Shakespeare in Romeo & Juliet, and thus echoed a Los Angeles judge today over the alleged sexual abuse and negligence lawsuit from the stars of Franco Ze\u2026",
-            "url": "https://deadline.com/2023/05/sexual-abuse-romeo-juliet-lawsuit-dismissed-olivia-hussey-leonard-whiting-paramount-1235380066/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/romeo-juliet.jpg?w=1024",
-            "publishedAt": "2023-05-25T20:47:00Z",
-            "content": "\u201cThus with a kiss I die,\u201d wrote William Shakespeare in Romeo &amp; Juliet, and thus echoed a Los Angeles judge today over the alleged sexual abuse and negligence lawsuit from the stars of Franco Zeff\u2026 [+3717 chars]"
+            "author": "Jay King, Jared Weiss, Joe Vardon",
+            "title": "Celtics trounce Heat in Game 5 of Eastern Conference finals: How Boston\u2019s peak basketball forced Game 6 - The Athletic",
+            "description": "Derrick White, who opened the conference finals as a reserve, went off with 24 points on six 3s, with two steals.",
+            "url": "https://theathletic.com/4554029/2023/05/25/celtics-heat-game-5-score-results/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/05/25224928/USATSI_20754496-1024x683.jpg",
+            "publishedAt": "2023-05-26T09:15:33Z",
+            "content": "BOSTON From a series sweep to a serious series, the Boston Celtics are transforming the Eastern Conference finals.\r\nTheyre still in a big hole, but they won again easily Thursday, 110-97, in Game 5 o\u2026 [+6465 chars]"
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Eric Woodyard",
-            "title": "Lions' Jameson Williams 'wasn't aware' of NFL gambling policy - ESPN - ESPN",
-            "description": "Detroit Lions receiver Jameson Williams said he \"wasn't aware\" of the NFL's gambling policy that led to his six-game suspension.",
-            "url": "https://www.espn.com/nfl/story/_/id/37728879/lions-jameson-williams-aware-nfl-gambling-policy",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1211%2Fr1105316_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-05-25T20:27:00Z",
-            "content": "ALLEN PARK, Mich. -- Jameson Williams admitted to feeling \"sick\" and \"hurt\" on the night of April 20 when the Detroit Lions' second-year receiver learned of his six-game suspension for violating the \u2026 [+3576 chars]"
+            "author": null,
+            "title": "Insurers flee climate alliance after ESG backlash in the U.S. - Reuters",
+            "description": "A United Nations-convened climate alliance for insurers suffered at least three more departures on Thursday including the group's chair, as insurance companies take fright in the face of opposition from U.S. Republican politicians.",
+            "url": "https://www.reuters.com/business/allianz-decides-leave-net-zero-insurance-alliance-2023-05-25/",
+            "urlToImage": "https://www.reuters.com/resizer/kcZTO7GIRFnmTvbwgQAebGenOss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FXWLCYLDGNNQDOCNYRH64JJC54.jpg",
+            "publishedAt": "2023-05-26T09:02:00Z",
+            "content": "LONDON/FRANKFURT, May 25 (Reuters) - A United Nations-convened climate alliance for insurers suffered at least three more departures on Thursday including the group's chair, as insurance companies ta\u2026 [+3616 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Foran",
+            "title": "Debt limit negotiators under pressure to reach deal as risk of default grows - CNN",
+            "description": "There are signs that negotiations over raising the nation\u2019s debt limit are gaining momentum, but major differences remain and it\u2019s unclear how quickly an agreement could come together. Time is running short as the risk of a first-ever default grows.",
+            "url": "https://www.cnn.com/2023/05/26/politics/debt-limit-default-risk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230525122125-18-debt-ceiling.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-26T09:01:00Z",
+            "content": "There are signs that negotiations over raising the nations debt limit are gaining momentum, but major differences remain and its unclear how quickly an agreement could come together. Time is running \u2026 [+3226 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sophie Kiderlin",
+            "title": "Treasury yields fall as investors await key inflation data, debt ceiling talk updates - CNBC",
+            "description": "U.S. Treasury yields fell on Friday as investors awaited economic data that could affect Fed interest rate policy and as debt ceiling deal talks continued.",
+            "url": "https://www.cnbc.com/2023/05/26/us-treasury-yields-investors-await-key-inflation-data.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107244816-1684778781880-gettyimages-1257200054-AFP_33FV2LL.jpeg?v=1685090265&w=1920&h=1080",
+            "publishedAt": "2023-05-26T08:37:45Z",
+            "content": "U.S. Treasury yields fell on Friday as investors awaited economic data that could affect Federal Reserve interest rate policy and as debt ceiling deal talks continued.\r\nAt 5:51 a.m. ET, the yield on \u2026 [+1223 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Euronews"
+            },
+            "author": null,
+            "title": "Ukraine war: Russian missiles shot down, alliance for Ukraine's F-16s, Scholz to talk to Putin soon - Euronews",
+            "description": "All the latest developments from the war in Ukraine.",
+            "url": "https://www.euronews.com/2023/05/26/ukraine-war-drones-and-missiles-shot-down-alliance-for-ukraines-f-16s-wagner-mali-sanction",
+            "urlToImage": "https://static.euronews.com/articles/stories/07/63/13/80/1000x563_cmsv2_5562ea3d-2b0e-5f4b-989a-24c812b62889-7631380.jpg",
+            "publishedAt": "2023-05-26T08:16:51Z",
+            "content": "All the latest developments from the war in Ukraine. \r\n Ukraine claims shooting down Russian drones and missiles overnight\r\nUkraine shot down ten missiles and 25 drones launched by Russia overnight a\u2026 [+4026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pgatour.com"
+            },
+            "author": "Kevin Robbins",
+            "title": "Michael Block still grateful after opening-round 81 at Charles Schwab - PGA TOUR - PGA TOUR",
+            "description": "Day includes heroic par from bridge on par-4 10th hole at Colonial CC",
+            "url": "https://www.pgatour.com/article/news/latest/2023/05/25/michael-block-saves-par-from-bridge-at-charles-schwab-challenge-colonial",
+            "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto/pgatour/news/editorial/2023/05/25/block-1694.jpg",
+            "publishedAt": "2023-05-26T06:52:04Z",
+            "content": "Day includes heroic par from bridge on par-4 10th hole at Colonial CC\r\nFORT WORTH, Texas Michael Block took his first question Thursday after the opening day of the Charles Schwab Challenge.\r\nHow wou\u2026 [+2221 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Oliver O'Connell",
+            "title": "Ron DeSantis floats Trump and Jan 6 pardons after 'train wreck' Twitter launch - live - The Independent",
+            "description": "Ron DeSantis launches 2024 presidential bid on Twitter",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/ron-desantis-vp-florida-governor-campaign-twitter-b2346278.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/24/23/newFile.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-05-26T06:15:56Z",
+            "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nRon DeSantis suffered yet another technical glitch as he\u2026 [+8241 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Bevan Hurley",
+            "title": "Tina Turner death \u2013 latest: Legendary singer's cause of death revealed after she dies aged 83 - The Independent",
+            "description": "Tina Turner dies aged 83",
+            "url": "https://www.independent.co.uk/arts-entertainment/music/news/tina-turner-death-switzerland-hits-latest-news-b2346240.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/24/21/28809c3a576a5c1f82c07a2411b581e0Y29udGVudHNlYXJjaGFwaSwxNjg1MDQ0Njgw-2.72335001.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-05-26T06:02:17Z",
+            "content": "Sign up to Roisin OConnors free weekly newsletter Now Hear This for the inside track on all things music\r\nGet our Now Hear This email for free\r\nTina Turner died of natural causes on Wednesday (24 May\u2026 [+4364 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LAURAN NEERGAARD AP Medical Writer",
+            "title": "US study finds 1 in 10 get long COVID after omicron, starts identifying key symptoms - ABC News",
+            "description": "A U.S. study suggests 1 in 10 people are getting long COVID after an omicron infection, a lower estimate than earlier in the pandemic",
+            "url": "https://abcnews.go.com/Health/wireStory/us-study-finds-1-10-long-covid-after-99608525",
+            "urlToImage": "https://s.abcnews.com/images/Health/wirestory_cc9dcd473f0513e4e62aa7e24940577e_12x5_992.jpg",
+            "publishedAt": "2023-05-26T05:43:59Z",
+            "content": "WASHINGTON -- About 10% of people appear to suffer long COVID after an omicron infection, a lower estimate than earlier in the pandemic, according to a study of nearly 10,000 Americans that aims to h\u2026 [+2978 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "\u2018So happy\u2019: Man declared innocent after 33 years in US jail - Al Jazeera English",
+            "description": "Daniel Saldana was convicted in 1990 of attempted murder, but evidence emerged that he was not even at the scene.",
+            "url": "https://www.aljazeera.com/news/2023/5/26/so-happy-man-declared-innocent-after-33-years-in-us-jail",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/05/AP23145862409682-1685076798.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-05-26T05:14:16Z",
+            "content": "A California man who spent 33 years in prison for attempted murder has been declared innocent and freed after it emerged that he was not even at the scene of the attack.\r\nDaniel Saldana, now 55, was \u2026 [+2065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "Rocket Lab launches 2 tiny NASA hurricane-watching probes to orbit - Space.com",
+            "description": "The agency's TROPICS miniconstellation is complete.",
+            "url": "https://www.space.com/rocket-lab-second-tropics-hurricane-launch-may-2023",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TnqxEfUEbszVVDiFPyWvEf-1200-80.jpeg",
+            "publishedAt": "2023-05-26T05:12:12Z",
+            "content": "A Rocket Lab Electron rocket launches the second set of TROPICS hurricane-studying cubesats for NASA on May 25, 2023. (Image credit: Rocket Lab)\r\nThe second set of NASA's TROPICS cubesats launched on\u2026 [+5095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Jackie Strause",
+            "title": "\u2018Yellowjackets\u2019 Star Sophie Thatcher on Season 2\u2019s Tragic Finale: \u201cShe Already Let Herself Go\u201d - Hollywood Reporter",
+            "description": "The star who plays young Natalie on the hit Showtime series talks to The Hollywood Reporter about the gut punch viewers didn't see coming and the surprise reveal for her character.",
+            "url": "https://www.hollywoodreporter.com/tv/tv-features/yellowjackets-season-2-finale-death-sophie-thatcher-interview-1235497964/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/Yellowjackets_209_1265_R-H-2023.jpg?w=1024",
+            "publishedAt": "2023-05-26T05:00:59Z",
+            "content": "[This story contains major spoilers to the season two finale of Yellowjackets, \u201cStorytelling.\u201d]\r\nSophie Thatcher is relieved that the season two finale of Yellowjackets has landed. It\u2019s been buzzing \u2026 [+17219 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Jimmy Butler guarantees Heat victory over Celtics: 'We can and we will win this series' - CBS Sports",
+            "description": "Miami has lost two straight games after going up 3-0 on Boston",
+            "url": "https://www.cbssports.com/nba/news/jimmy-butler-guarantees-heat-victory-over-celtics-we-can-and-we-will-win-this-series/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/20/000a3970-5e93-4450-803a-48984b68ed4d/thumbnail/1200x675/3c0c82e3756da6f93624c9c1cc45de29/butler-3g.jpg",
+            "publishedAt": "2023-05-26T04:59:48Z",
+            "content": "The Miami Heat seemingly had the Eastern Conference finals won as recently as Sunday. When they won Game 3 against the Boston Celtics, they pushed their series lead up to 3-0. No NBA team has ever bl\u2026 [+2185 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "China could hack US \u2018critical infrastructure\u2019, State Dept warns - Al Jazeera English",
+            "description": "Department accused Chinese state-sponsored hacking group, Volt Typhoon, of carrying out cyber-espionage on US targets.",
+            "url": "https://www.aljazeera.com/news/2023/5/26/china-could-hack-us-critical-infrastructure-state-dept-warns",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/05/AP22067494068144-1685073614.jpg?resize=1200%2C675",
+            "publishedAt": "2023-05-26T04:32:54Z",
+            "content": "The US State Department has warned that China is capable of launching cyberattacks against critical United States infrastructure, including oil and gas pipelines as well as rail systems, after resear\u2026 [+3279 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Devlin Barrett, Josh Dawsey, Spencer S. Hsu, Perry Stein",
-            "title": "Trump workers moved Mar-a-Lago boxes a day before Justice Dept. came for documents - The Washington Post",
-            "description": "The events at Mar-a-Lago include an alleged \u201cdress rehearsal\u201d for moving sensitive papers and show a focus on Donald Trump\u2019s instructions and intent.",
-            "url": "https://www.washingtonpost.com/national-security/2023/05/25/trump-classified-documents-mar-a-lago/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HYHY6BZX465QWMHXWUUL3T35DI_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-05-25T20:22:35Z",
-            "content": "Comment on this story\r\nComment\r\nTwo of Donald Trumps employees moved boxes of papers the day before FBI agents and a prosecutor visited the former presidents Florida home to retrieve classified docum\u2026 [+10085 chars]"
+            "author": "Daniel Gilbert, Faiz Siddiqui",
+            "title": "Elon Musk's Neuralink says it has FDA approval for human trials: What to know - The Washington Post",
+            "description": "Neuralink said it has regulatory approval to conduct a clinical trial of its brain implants in people, a milestone for the company as it seeks to commercialize a device that will link human brains to computers.",
+            "url": "https://www.washingtonpost.com/business/2023/05/25/elon-musk-neuralink-fda-approval/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RWP755TNJBYHKS6JFGWJOBJKE.JPG&w=1440",
+            "publishedAt": "2023-05-26T03:59:10Z",
+            "content": "Comment on this story\r\nComment\r\nNeuralink, Elon Musks brain-implant company, said Thursday evening that it has regulatory approval to conduct the first clinical trial of its experimental device in hu\u2026 [+4781 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "The Texas Tribune"
             },
-            "author": null,
-            "title": "Upgraded LIGO Reactivated: Resumes Unraveling Universe's Secrets With Enhanced Gravitational Wave Detection - SciTechDaily",
-            "description": "Scientists have reactivated the upgraded Laser Interferometric Gravitational-Wave Observatory (LIGO) after a three-year break, improving its ability to measure gravitational waves. These waves offer new opportunities for multi-messenger astronomy and deepen o\u2026",
-            "url": "https://scitechdaily.com/?p=280417",
-            "urlToImage": "https://scitechdaily.com/images/Astrophysics-Gravitational-Waves-Concept.jpg",
-            "publishedAt": "2023-05-25T20:17:22Z",
-            "content": "ByChad Hanna, Penn StateMay 25, 2023\r\nWhen two massive objects like black holes or neutron stars merge, they warp space and time.\r\nScientists have reactivated the upgraded Laser Interferometric Gravi\u2026 [+12741 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Billboard"
-            },
-            "author": "Ed Christman",
-            "title": "How Much Money Do Tina Turner Recordings Make Each Year? \u2013 Billboard - Billboard",
-            "description": "The music icon\u2019s recordings earn around $3.7 million annually in streams and synchs, Billboard estimates.",
-            "url": "https://www.billboard.com/pro/how-much-money-tina-turner-recordings-each-year/",
-            "urlToImage": "https://www.billboard.com/wp-content/uploads/2023/05/tina-turner-1987-a-billboard-1548.jpg?w=1024",
-            "publishedAt": "2023-05-25T19:34:20Z",
-            "content": "The solo music catalog of legendary pop, rock and soul performer Tina Turner still brings in $3.7 million a year in synchs, sales and streaming activity, according to Billboard estimates. \r\nTurner, w\u2026 [+3030 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "247Sports"
-            },
-            "author": "Robbie Weinstein",
-            "title": "College football transfer portal: 5 QBs primed for a renaissance season at new schools in 2023 - 247Sports",
-            "description": "These players didn't shine last fall, but they could this year at their new programs",
-            "url": "https://247sports.com/longformarticle/college-football-transfer-portal-5-qbs-primed-for-a-renaissance--210691969/",
-            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/101/719/11719101.jpg",
-            "publishedAt": "2023-05-25T19:30:25Z",
-            "content": "Bryan Harsin's two-year tenure at Auburn came to an unceremonious end in October after the disappointment from a 6-7 finish in 2021 made 2022's 3-5 start tough to ignore. Harsin said his termination \u2026 [+2401 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Emi Jozuka,Junko Ogura,Xiaofei Xu",
-            "title": "Suspect barricaded in building after shooting and stabbing attack in Japan leaves three dead - CNN",
-            "description": "The suspect in a lethal shooting and stabbing attack in Japan remains barricaded inside a home in Nakano City, hours after the rare spate of violence left three dead on Thursday, according to local police.",
-            "url": "https://www.cnn.com/2023/05/25/asia/nakano-shooting-central-japan-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230525121549-01-japan-shooting-052523.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-25T18:50:00Z",
-            "content": "The suspect in a lethal shooting and stabbing attack in Japan remains barricaded inside a home in Nakano City, hours after the rare spate of violence left three dead on Thursday, according to local p\u2026 [+2735 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Karla Adam",
-            "title": "Despite Brexit pledges, net migration to U.K. hits record high - The Washington Post",
-            "description": "Attitudes about migration levels have changed dramatically since the 2016 Brexit vote. It is no longer the salient issue that it once was.",
-            "url": "https://www.washingtonpost.com/world/2023/05/25/uk-net-immigraton-surge/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/23K6YRWZMFEIEIRNJG4U7ORG3Y.jpg&w=1440",
-            "publishedAt": "2023-05-25T18:35:00Z",
-            "content": "Comment on this story\r\nComment\r\nLONDON Britain left the European Union with the goal of taking back control of its borders, and successive post-Brexit Prime Ministers have promised to slash immigrati\u2026 [+3111 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Brenda Goodman",
-            "title": "FDA approves Paxlovid to treat Covid-19 - CNN",
-            "description": "The US Food and Drug Administration on Thursday fully approved the antiviral medication Paxlovid to treat mild-to-moderate Covid-19 in adults at risk for severe infections.",
-            "url": "https://www.cnn.com/2023/05/25/health/paxlovid-fda-approved/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230315124327-paxlovid-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-25T18:34:00Z",
-            "content": "The US Food and Drug Administration on Thursday fully approved the antiviral medication Paxlovid to treat mild to moderate Covid-19 in adults at risk of severe infections.\r\nPaxlovid had been availabl\u2026 [+1933 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Gabby Petito's family release 'burn after reading' letter - BBC",
-            "description": "The parents of the suspect in a US blogger's strangling lose the legal fight to keep the note private.",
-            "url": "https://www.bbc.com/news/world-us-canada-65678974",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A56B/production/_121174324_petito-van-life.jpg",
-            "publishedAt": "2023-05-25T18:31:53Z",
-            "content": "The parents of a US blogger who authorities say was strangled by her boyfriend have released a letter from the alleged killer's mother in which she talks about burying a body.\r\nGabby Petito's family \u2026 [+2338 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SB Nation"
-            },
-            "author": "Ricky O'Donnell",
-            "title": "NBA finally, maybe cracking down on flopping with new rule - SB Nation",
-            "description": "The NBA\u2019s flopping crackdown might finally be happening, with a new rule possibly being tested in summer league.",
-            "url": "https://www.sbnation.com/nba/2023/5/25/23737620/nba-flopping-rules-penalty-technical-foul-rumor-report",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/kszfyX0ZUFp9PJmQj4Oiekgzpno=/0x0:3852x2017/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24682255/1492173503.jpg",
-            "publishedAt": "2023-05-25T18:28:02Z",
-            "content": "Flopping has been one of the most discussed on-court problems in the NBA over the last decade, but it hasnt been easy for the officials to enforce. The difference between a block (a defensive foul) a\u2026 [+2834 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nick Valencia,Devon M. Sayers",
-            "title": "Attorney for 11-year-old Mississippi boy shot by police officer calls for \u2018full and transparent investigation\u2019 - CNN",
-            "description": "An 11-year-old Mississippi boy who was shot by a police officer after he called 911 for help is recovering after being released from the hospital, according to his family.",
-            "url": "https://www.cnn.com/2023/05/25/us/mississippi-police-shooting-11-year-old-boy-investigation/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230524165251-aderrien-murry.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-25T18:00:00Z",
-            "content": "An attorney for an 11-year-old Mississippi boy who was shot by a police officer after he called 911 for help is asking for a full and transparent investigation of the shooting.\r\nAderrien Murry is rec\u2026 [+6875 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": null,
-            "title": "Google begins opening access to generative AI in search - Engadget",
-            "description": "Google\u2019s take on AI-powered search begins rolling out today.",
-            "url": "https://www.engadget.com/google-begins-opening-access-to-generative-ai-in-search-175550693.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/V64F0jmt6MQUHHjATwN_Eg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/8521ded0-fb23-11ed-baf3-e1ea2cc3bd47.cf.jpg",
-            "publishedAt": "2023-05-25T17:56:56Z",
-            "content": "Googles take on AI-powered search begins rolling out today. The company announced this morning that its opening access to Google Search Generative Experience (SGE) and other Search Labs in the US. If\u2026 [+2030 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KTRK-TV"
-            },
-            "author": null,
-            "title": "Who killed Takeoff? Grand jury makes ruling Patrick Clark, who has been suspect of rapper's murder - KTRK-TV",
-            "description": "Patrick Xavier Clark, 33, was arrested on Dec. 2, 2022, about a month after Takeoff, the Migos rapper, was shot and killed in downtown Houston.",
-            "url": "https://abc13.com/who-killed-takeoff-migos-murder-suspect-rapper/13298853/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/12664827_010623-ktrk-ewn-10pm-takeoff-suspect-bail-bw-vid.jpg?w=1600",
-            "publishedAt": "2023-05-25T17:50:52Z",
-            "content": "HOUSTON, Texas (KTRK) -- The man accused of killing Grammy-nominated rapper Takeoff late last year in Houston has been indicted by a grand jury on a murder charge.\r\nPatrick Xavier Clark, 33, was arre\u2026 [+2289 chars]"
+            "author": "James Barrag\u00e1n, Chuck Lindell",
+            "title": "Here are the 20 articles of impeachment filed against Ken Paxton - The Texas Tribune",
+            "description": "The Texas House will vote on accusations that include bribery, dereliction of duty, disregard of official duty and obstruction of justice.",
+            "url": "https://www.texastribune.org/2023/05/25/ken-paxton-20-articles-impeachment/",
+            "urlToImage": "https://thumbnails.texastribune.org/JYz9KNCjKI2mymW0YV-2TQcNb6A=/1200x630/filters:quality(95)/static.texastribune.org/media/files/c92f715cc5ef4301691fb262bb65e5dd/Paxton%20Watch%20Party%20ST%20TT%2014.jpg",
+            "publishedAt": "2023-05-26T03:28:26Z",
+            "content": "Sign up for The Brief, The Texas Tribunes daily newsletter that keeps readers up to speed on the most essential Texas news.\r\nThe 20 articles of impeachment against state Attorney General Ken Paxton, \u2026 [+7674 chars]"
         },
         {
             "source": {
@@ -203,64 +255,12 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "BREAKING: Oath Keepers founder sentenced to 18 years in prison for Jan. 6 attack - MSNBC",
-            "description": "A federal judge has sentenced Oath Keepers\u2019 founder Stewart Rhodes to 18 years in prison, the longest sentencing in relation to January 6 attack on the Capit...",
-            "url": "https://www.youtube.com/watch?v=s8VETDp4MtA",
-            "urlToImage": "https://i.ytimg.com/vi/s8VETDp4MtA/maxresdefault.jpg",
-            "publishedAt": "2023-05-25T17:46:03Z",
+            "title": "Golden Knights @ Stars; Game 4, 5/25 | NHL Playoffs 2023 | Stanley Cup Playoffs - NHL",
+            "description": "Extended highlights of the Dallas Stars at the Vegas Golden Knights",
+            "url": "https://www.youtube.com/watch?v=wk88Q1rh11w",
+            "urlToImage": "https://i.ytimg.com/vi/wk88Q1rh11w/maxresdefault.jpg",
+            "publishedAt": "2023-05-26T03:17:58Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Ashley Cullins",
-            "title": "Seth Rogen and Rose Byrne on Reviving R-Rated Comedy and Their Messy Friendship in \u2018Platonic\u2019 - Hollywood Reporter",
-            "description": "In the Apple TV+ comedy from 'Neighbors' director Nick Stoller and Francesca Delbanco, Rogen and Byrne play a pair of sometimes dysfunctional best friends reconnecting after a fall out.",
-            "url": "https://www.hollywoodreporter.com/tv/tv-features/seth-rogen-rose-byrne-platonic-r-rated-comedy-tv-1235499909/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/Platonic_Photo_010301.jpg?w=1024",
-            "publishedAt": "2023-05-25T17:34:03Z",
-            "content": "Seth Rogen and Rose Byrne are a different kind of duo in their Apple TV+ series Platonic, which sees the Neighbors stars go from on-screen married couple to a pair of friends reconnecting after a fal\u2026 [+6193 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Elizabeth Howell",
-            "title": "New supernova thrills astronomers and skywatchers around the world (photos) - Space.com",
-            "description": "The Pinwheel Galaxy has a new bright spot.",
-            "url": "https://www.space.com/pinwheel-galaxy-m101-new-supernova-astronomers-excited",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/y8gT3ZiAKcu5pbSp6VRJrS-1200-80.gif",
-            "publishedAt": "2023-05-25T17:16:01Z",
-            "content": "Astronomers and amateurs alike are excited about a new star explosion visible in small telescopes.\r\nThe new\u00a0supernova\u00a0popped into visibility on May 19\u00a0in the Pinwheel Galaxy, (also designated as Mess\u2026 [+5473 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ed Cara",
-            "title": "Is Ketamine as Good as ECT for Treatment-Resistant Depression? - Gizmodo",
-            "description": "In a head-to-head comparison with electroconvulsive therapy, people with treatment-resistant depression responded as well to ketamine infusions as the former.",
-            "url": "https://gizmodo.com/ketamine-study-treatment-resistant-depression-vs-ect-1850475045",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7e7efb426a12616a06fddfc3bc1e644e.jpg",
-            "publishedAt": "2023-05-25T16:46:47Z",
-            "content": "New research this week is the latest to find that ketamine can help people with difficult-to-treat depression. Thestudy has found that people with treatment-resistant depression responded as well to \u2026 [+3516 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Mark Gurman",
-            "title": "Apple plans to turn locked iPhones into smart displays with iOS 17 - The Seattle Times",
-            "description": "The view will appear when an iPhone is locked and positioned horizontally, operating similarly to dedicated displays offered by Google and Amazon.",
-            "url": "https://www.bloomberg.com/news/articles/2023-05-24/apple-aapl-plans-to-turn-locked-iphones-into-smart-displays-with-ios-17",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/05/tzr-ios17-052523.jpg?d=1200x630",
-            "publishedAt": "2023-05-25T16:36:57Z",
-            "content": "Apple is planning a new interface for iPhones that shows information such as calendar appointments, the weather and notifications in the style of a smart-home display, part of a flurry of new feature\u2026 [+3013 chars]"
         }
     ]
 }
