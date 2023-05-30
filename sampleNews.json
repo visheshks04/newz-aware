@@ -1,19 +1,201 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Adam Carlson",
+            "title": "Biden urges Congress to pass debt ceiling deal - ABC News",
+            "description": "The bill \"doesn't get everything everybody wanted,\" Speaker McCarthy said.",
+            "url": "https://abcnews.go.com/Politics/mccarthy-defends-debt-ceiling-deal-predicts-democrats-join/story?id=99660548",
+            "urlToImage": "https://s.abcnews.com/images/Politics/Biden-getty-sg-52_hpMain_20230527-223057_16x9_992.jpg",
+            "publishedAt": "2023-05-29T00:00:00Z",
+            "content": "In remarks Sunday night, President Joe Biden urged both chambers of Congress to pass the debt limit deal, while acknowledging key concessions made by both parties in order to finalize an agreement.\r\n\u2026 [+10959 chars]"
+        },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Homero De la Fuente,Issy Ronald",
-            "title": "Boston Celtics on verge of NBA history after dramatic buzzer-beating victory against Miami Heat forces Game 7 - CNN",
-            "description": "Boston Celtics guard Derrick White scored a miraculous putback to beat the buzzer and seal a dramatic 104-103 victory over the Miami Heat in Game 6 of the Eastern Conference Finals on Saturday.",
-            "url": "https://www.cnn.com/2023/05/28/sport/boston-celtics-miami-heat-game-6-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230528072500-05-boston-celtics-miami-heat-0527.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-28T11:32:00Z",
-            "content": "Boston Celtics guard Derrick White scored a miraculous putback to beat the buzzer and seal a dramatic 104-103 victory over the Miami Heat in Game 6 of the Eastern Conference Finals on Saturday.\r\nThe \u2026 [+1764 chars]"
+            "author": "Gul Tuysuz,Yusuf Gezer,Tamara Qiblawi",
+            "title": "Erdogan wins Turkish election, extending rule to third decade - CNN",
+            "description": "President Recep Tayyip Erdogan has won Turkey\u2019s presidential election, defeating opposition leader Kemal Kilicdaroglu in Sunday\u2019s runoff vote and stretching his rule into a third decade.",
+            "url": "https://www.cnn.com/2023/05/28/europe/turkey-president-runoff-polls-erdogan-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230528182338-18-turkey-runoff-election-0528.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-28T23:48:00Z",
+            "content": "President Recep Tayyip Erdogan has won Turkeys presidential election, defeating opposition leader Kemal Kilicdaroglu in Sundays runoff vote and stretching his rule into a third decade. \r\nWith 99.43% \u2026 [+6825 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee, Lim Hui Jie",
+            "title": "Asia markets set to mostly rise after U.S. reached tentative debt ceiling deal over weekend - CNBC",
+            "description": "U.S. President Joe Biden and congressional leaders reached a tentative deal on raising the debt ceiling.",
+            "url": "https://www.cnbc.com/2023/05/29/asia-markets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107247599-1685319324892-gettyimages-1175711976-cr029529_2019091921729279.jpeg?v=1685319421&w=1920&h=1080",
+            "publishedAt": "2023-05-28T23:36:00Z",
+            "content": "Singapore state-owned investor Temasek cut the compensation of senior management and its investment team responsible for the recommendation to invest in failed cryptocurrency exchange FTX.\r\n\"Although\u2026 [+679 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Karl Rasmussen",
+            "title": "NBA\u2019s Last Two-Minute Report Clears the Air Over Celtics-Heat Game 6 Confusion - Sports Illustrated",
+            "description": "The league reviewed the officiating in the final moments of Saturday\u2019s game.",
+            "url": "https://www.si.com/nba/2023/05/28/nba-last-two-minute-report-celtics-heat-game-6",
+            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk4Mjc0MTIxNjk4NjQ5NjQ2/jbutalho.jpg",
+            "publishedAt": "2023-05-28T23:02:13Z",
+            "content": "Plenty of NBA fans were confused by the ending of Game 6 between the\u00a0Heat\u00a0and\u00a0Celtics.\u00a0\r\nAfter a late foul from\u00a0Al Horford\u00a0during a\u00a0Jimmy Butler\u00a0three-point attempt, officials reviewed the play and a\u2026 [+1342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox News",
+            "title": "Jewel's national anthem at Indianapolis 500 panned as 'disrespectful' - New York Post ",
+            "description": "Pop and country music star Jewel performed\u00a0\u201cThe Star-Spangled Banner\u201d\u00a0before the Indianapolis 500 but her twist on the national anthem had fans scratching their heads.",
+            "url": "https://nypost.com/2023/05/28/jewels-national-anthem-at-indianapolis-500-panned-as-disrespectful/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/newspress-collage-27250346-1685311176791.jpg?quality=75&strip=all&1685296819&w=1024",
+            "publishedAt": "2023-05-28T22:09:15Z",
+            "content": "IndyCar fans were locked in to watch the Indianapolis 500 at Indianapolis Motor Speedway on Sunday with\u00a0Alex Palou\u00a0on the pole and drivers like Pato OWard and Felix Rosenqvist trying to take home the\u2026 [+1354 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Alex Sundby, Jordan Freiman",
+            "title": "Body of escaped Ohio prison inmate and convicted murderer Bradley Gillespie believed to be found in Ohio River - CBS News",
+            "description": "Bradley Gillespie escaped from an Ohio prison with another inmate, James Lee, who was previously captured.",
+            "url": "https://www.cbsnews.com/news/bradley-gillespie-dead-escaped-inmate-ohio-river-henderson-kentucky/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/24/928bed54-20bf-495a-8ebe-139fe30a1f50/thumbnail/1200x630g2/27191f4a5d6a39e84fb0e65c46ab3d09/bradley-gillespie.jpg",
+            "publishedAt": "2023-05-28T21:41:00Z",
+            "content": "Police believe they have found the body of a convicted murderer who escaped from an Ohio prison in the Ohio River near Henderson, Kentucky, officials said. Bradley Gillespie was reported missing Tues\u2026 [+1865 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Shiyin Chen",
+            "title": "Temasek Cuts Employee Compensation After Failed FTX Investment - Bloomberg",
+            "description": "Singapore investment firm Temasek Holdings Pte said it reduced compensation for senior management and the investment team responsible for investing in FTX.",
+            "url": "https://www.bloomberg.com/news/articles/2023-05-28/temasek-cuts-employee-compensation-after-failed-ftx-investment",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izhhmzMu2HD0/v0/1200x799.jpg",
+            "publishedAt": "2023-05-28T21:37:24Z",
+            "content": "Singapore investment firm \r\nTemasek Holdings Pte said it reduced compensation for senior management and the investment team responsible for investing in FTX.\r\nThe state-owned investor said that while\u2026 [+140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Top 5 Neuroscience News Stories of the Week - Neuroscience News",
+            "description": "Discoveries ranged from unraveling how Botox breaches neurons, to a study finding 'Superagers' with Alzheimer's-like pathology but superior cognition.",
+            "url": "https://neurosciencenews.com/neuroscience-news-weekly-23359/",
+            "urlToImage": "https://neurosciencenews.com/files/2023/05/articles-of-the-week-neuroscience.jpg",
+            "publishedAt": "2023-05-28T21:24:02Z",
+            "content": "Summary: This week, research teams from around the globe shared their remarkable findings from the field of neuroscience.\r\nDiscoveries ranged from unraveling how Botox breaches neurons, to a study fi\u2026 [+3403 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "'My fellow Republicans wanted me to lie,' Liz Cheney says in commencement speech - POLITICO",
+            "description": "She urged Colorado College's 2023 graduates to trust in the truth.",
+            "url": "https://www.politico.com/news/2023/05/28/liz-cheney-republicans-colorado-commencement-speech-00099132",
+            "urlToImage": "https://static.politico.com/6e/dc/4b28581d4faba685809288b1cd47/liz-cheney-commencement-speech-81921.jpg",
+            "publishedAt": "2023-05-28T21:10:48Z",
+            "content": "No party, no nation, no people can defend and perpetuate a constitutional republic if they accept leaders who have gone to war with the rule of law, with the democratic process, with the peaceful tra\u2026 [+1522 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Aaron Mamiit",
+            "title": "Sony WH-1000XM5 headphones at lowest-ever price for Memorial Day - Digital Trends",
+            "description": "The Sony WH-1000XM5 wireless headphones offer outstanding active noise cancellation and a 30-hour battery life for $348, following a $52 discount from Amazon.",
+            "url": "https://www.digitaltrends.com/home-theater/sony-wh-1000xm5-headphones-at-lowest-ever-price-for-memorial-day-deal/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/05/sony-wh-1000xm5-review-00013.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2023-05-28T20:40:27Z",
+            "content": "Simon Cohen / Digital Trends\r\nHeadphones have become an integral part of our lives. That\u2019s especially the case as we rely on things like Active Noise Cancellation (ANC) to block out the massive amoun\u2026 [+2725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Bruce Haring",
+            "title": "\u2018Succession\u2019 Star Peter Friedman Says Online Speculation On Finale Is On The Right Track - Deadline",
+            "description": "It\u2019s the question every fan wants answered: who will seize control of media giant Waystar Royco in tonight\u2019s finale of the hit HBO show? \u201cI\u2019m fascinated to find out,\u201d said P\u2026",
+            "url": "https://deadline.com/2023/05/succession-star-peter-friedman-says-online-speculation-on-finale-is-on-right-track-1235382044/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/GettyImages-1346278146-e1685305727909.jpg?w=1018",
+            "publishedAt": "2023-05-28T20:29:00Z",
+            "content": "It\u2019s the question every fan wants answered: who will seize control of media giant Waystar Royco in tonight\u2019s finale of the hit HBO show?\r\n\u201cI\u2019m fascinated to find out,\u201d said Peter Friedman, who plays \u2026 [+1815 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Miami Heat fall to Celtics 104-103 on buzzer-beater, forcing Game 7 in Boston - CBS Miami",
+            "description": "Derrick White scored on a putback with 0.1 seconds left and the Boston Celtics moved to the brink of the greatest comeback in NBA playoffs history",
+            "url": "https://www.cbsnews.com/miami/news/miami-heat-fall-to-celtics-104-103-forcing-game-7-in-boston/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/28/fab3b526-40c5-46fc-bd52-a52adaf35207/thumbnail/1200x630/f7b256e93fac4acc94b5df3f6e0054ef/ap23148105847914.jpg",
+            "publishedAt": "2023-05-28T20:25:00Z",
+            "content": "MIAMI (AP) -- Derrick White scored on a putback with 0.1 seconds left and the Boston Celtics moved to the brink of the greatest comeback in NBA playoffs history, holding off the Miami Heat 104-103 on\u2026 [+3849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Kyle Kirkwood upside down during Indy 500 after Felix Rosenqvist contact | Motorsports on NBC - Motorsports on NBC",
+            "description": "Felix Rosenqvist slides high and contacts the wall, causing him to spin out and clip Kyle Kirkwood, which sends Kirkwood sliding across the track upside down...",
+            "url": "https://www.youtube.com/watch?v=EVz8XdMOo6s",
+            "urlToImage": "https://i.ytimg.com/vi/EVz8XdMOo6s/maxresdefault.jpg",
+            "publishedAt": "2023-05-28T19:55:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samira Asma-Sadeque",
+            "title": "Three people killed and five injured in shooting at New Mexico biker rally - The Guardian US",
+            "description": "Mayor of Red River town says the shooting was gang-related, and that the shooters have all been taken into custody",
+            "url": "https://www.theguardian.com/us-news/2023/may/28/biker-rally-shooting-new-mexico",
+            "urlToImage": "https://i.guim.co.uk/img/media/125e195e01043f41c506e1f58b560f4da314a3c9/1_155_1931_1159/master/1931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7799c1e99b6120aa770a6d10236066d8",
+            "publishedAt": "2023-05-28T19:32:00Z",
+            "content": "Three people were killed and five injured in a shooting at a biker rally inRed River, New Mexico, on Saturday.\r\nNeither the victims nor the shooters were local residents and were among bikers who wer\u2026 [+1835 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Amanda Gorman defends poem after school restricts access. Updates - USA TODAY",
+            "description": "The Florida mom whose complaints prompted an acclaimed poem and multiple books to be restricted also apologized for an antisemitic post she shared.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/05/28/daily-salinas-amanda-gorman-poem/70265234007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/12/USAT/651590c6-bb59-437b-874f-40715cdd8541-AFP_1245550892.jpg?auto=webp&crop=4300,2419,x0,y265&format=pjpg&width=1200",
+            "publishedAt": "2023-05-28T19:30:59Z",
+            "content": "The Florida mom whose complaints about reading material prompted Amanda Gorman's acclaimed poem \"The Hill We Climb\" and other books to be restricted at a local elementary school admits she only read \u2026 [+2539 chars]"
         },
         {
             "source": {
@@ -21,246 +203,64 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Debt-ceiling deal's road to passage in Congress - Reuters.com",
-            "description": "Democratic President Joe Biden and top congressional Republican Kevin McCarthy struck a deal on Saturday to suspend the federal government's $31.4 trillion limit on U.S. government borrowing, in order to avert a catastrophic default as soon as June 5.",
-            "url": "https://www.reuters.com/markets/us/us-debt-ceiling-deals-winding-road-passage-congress-2023-05-28/",
-            "urlToImage": "https://www.reuters.com/resizer/P4hmE3t1crLNw_nttHgHGDDI6oQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3PPT2GTVABJSXP7HZWH6DGURGU.jpg",
-            "publishedAt": "2023-05-28T10:13:29Z",
-            "content": "WASHINGTON, May 28 (Reuters) - Democratic President Joe Biden and top congressional Republican Kevin McCarthy struck a deal on Saturday to suspend the federal government's $31.4 trillion limit on U.S\u2026 [+4144 chars]"
+            "title": "Belarus official: West left us no choice but to deploy nuclear arms - Reuters.com",
+            "description": "Western countries left Belarus no choice but to deploy Russian tactical nuclear weapons and had better take heed not to \"cross red lines\" on key strategic issues, a senior Belarusian official was quoted as saying on Sunday.",
+            "url": "https://www.reuters.com/world/europe/belarus-official-west-left-us-no-choice-deploy-nuclear-arms-2023-05-28/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=143",
+            "publishedAt": "2023-05-28T19:17:00Z",
+            "content": "May 28 (Reuters) - Western countries left Belarus no choice but to deploy Russian tactical nuclear weapons and had better take heed not to \"cross red lines\" on key strategic issues, a senior Belarusi\u2026 [+2158 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Fox Business"
+            },
+            "author": "Caroline Thayer",
+            "title": "Disney's 'The Little Mermaid' reels in highest Memorial Day box office numbers, with nearly $120 million - Fox Business",
+            "description": "\"The Little Mermaid\" is raking in big numbers this Memorial Day Weekend. It's expected to earn $118 million over the four-day holiday weekend, the movie is crushing box offices.",
+            "url": "https://www.foxbusiness.com/entertainment/disneys-little-mermaid-reels-highest-memorial-day-box-office-numbers-nearly-120-million",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/disneys-the-little-mermaid-halle-bailey.jpg?ve=1&tl=1",
+            "publishedAt": "2023-05-28T18:45:45Z",
+            "content": "\"The Little Mermaid\" is proving it can be a part of this modern world - with its successful live-action release this Memorial Day Weekend - 34 years after the animated Disney classic debuted in 1989.\u2026 [+2387 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Nate Saunders",
+            "title": "Christian Horner -- Aston Martin tyre call let Red Bull off the hook in Monaco - ESPN - ESPN",
+            "description": "Red Bull boss Christian Horner felt Aston Martin handed Max Verstappen victory amidst the chaos caused by rain at the Monaco Grand Prix.",
+            "url": "https://www.espn.com/racing/f1/story/_/id/37747706/christian-horner-aston-martin-tyre-call-let-red-bull-hook-monaco",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0528%2Fr1179317_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-05-28T17:43:00Z",
+            "content": "MONACO - Red Bull boss Christian Horner felt Aston Martin handed Max Verstappen victory amidst the chaos caused by rain at the Monaco Grand Prix.\r\nAston's Fernando Alonso pitted from second position \u2026 [+1543 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Formula 1 odds, picks, race time: Surprising 2023 Monaco Grand Prix predictions, F1 bets from proven computer - CBS Sports",
-            "description": "SportsLine's model analyzes Max Verstappen, Lewis Hamilton and the rest of the field's chances at the F1 Monaco GP 2023 race",
-            "url": "https://www.cbssports.com/motor-sports/news/formula-1-odds-picks-race-time-surprising-2023-monaco-grand-prix-predictions-f1-bets-from-proven-computer/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/27/27f6d0f5-1074-4046-a520-e240b3bd13b2/thumbnail/1200x675/20fe9550d890e3597d4dc90e12d5ad8c/lewis-hamilton-formula-one-getty-images.jpg",
-            "publishedAt": "2023-05-28T10:00:25Z",
-            "content": "Max Verstappen won the Monaco Grand Prix for the first time in 2021, but Sergio Perez picked up the win in Monaco last year. They are the top two 2023 Monaco Grand Prix contenders, with Verstappen at\u2026 [+4020 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "David Smith",
-            "title": "\u2018I\u2019m very proud it\u2019s there\u2019: how Tina Turner\u2019s one-room school became a museum - The Guardian",
-            "description": "In Tennessee, the late singer\u2019s tiny schoolhouse has become a museum containing memorabilia sent by the star herself",
-            "url": "https://www.theguardian.com/music/2023/may/28/tina-turner-school-museum-tennessee",
-            "urlToImage": "https://i.guim.co.uk/img/media/b90c5e523e1e759bb348f8431c0e6f17cc97a06e/0_142_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=876d336da0b4d4943665d97aa6897347",
-            "publishedAt": "2023-05-28T09:12:00Z",
-            "content": "When Tina Turner, resident in Switzerland, read in Bilanz magazine that her old school in Tennessee was being turned into a museum, she assumed it must be a local white school from the era of Jim Cro\u2026 [+7193 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Edward White",
-            "title": "China's first passenger jet completes maiden commercial flight - Financial Times",
-            "description": "Maker Comac set to rely heavily on domestic sales and will face difficult task taking on Boeing and Airbus in west",
-            "url": "https://www.ft.com/content/8aeff5f9-5a8d-4dec-b85b-a69a3dc19c18",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F10de4cf4-2391-421f-9ae6-241c74d6236a.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-05-28T09:10:05Z",
-            "content": "The first Chinese-made passenger jet has taken to the skies on its inaugural commercial flight, in a symbolic moment for Chinas technological independence after years of delays for the project.\r\nThe \u2026 [+2675 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Daniel Lawler",
-            "title": "Stephen Hawking's last collaborator on physicist's final theory - Phys.org",
-            "description": "When Thomas Hertog was first summoned to Stephen Hawking's office in the late 1990s, there was an instant connection between the young Belgian researcher and the legendary British theoretical physicist.",
-            "url": "https://phys.org/news/2023-05-stephen-hawking-collaborator-physicist-theory.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/stephen-hawking-in-his.jpg",
-            "publishedAt": "2023-05-28T09:01:21Z",
-            "content": "When Thomas Hertog was first summoned to Stephen Hawking's office in the late 1990s, there was an instant connection between the young Belgian researcher and the legendary British theoretical physici\u2026 [+4816 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Usf.edu"
-            },
-            "author": "Maria Godoy",
-            "title": "How to cut back on junk food in your child's diet \u2013 and when not to worry - WUSF Public Media",
-            "description": "Kids today live in an ultra-processed world: Nearly 70% of what they eat is packaged, processed and probably not great for them. Here are ways to cut back, without cooking every meal from scratch.",
-            "url": "https://wusfnews.wusf.usf.edu/2023-05-28/how-to-cut-back-on-junk-food-in-your-childs-diet-and-when-not-to-worry",
-            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/355fa68/2147483647/strip/true/crop/3249x1706+0+147/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F05%2F27%2Ffood-swaps-ultraprocessed-1_custom-fe7c9239f9c2d110e57a74653cd960cee41bc271.jpg",
-            "publishedAt": "2023-05-28T09:00:00Z",
-            "content": "Trust me, I know how exhausting it can be to figure out how to feed your kids a healthy diet while also living in the real world as a busy working parent with limited time and means.\r\nSometimes, popp\u2026 [+9821 chars]"
+            "title": "Russia unleashes largest drone attack on Ukrainian capital ahead of Kyiv Day - Reuters.com",
+            "description": "Russia unleashed waves of air strikes on Kyiv overnight in what officials said was the largest drone attack of the city but crowds poured into the streets later on Sunday to celebrate the anniversary of the Ukrainian capital's founding.",
+            "url": "https://www.reuters.com/world/europe/explosions-rock-kyiv-russias-night-raid-air-defence-downs-targets-mayor-says-2023-05-27/",
+            "urlToImage": "https://www.reuters.com/resizer/JKthowhzoH1_5HoHgele7L4Amv4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YRBAT37JNJMEDCBV5LOAEIS3OA.jpg",
+            "publishedAt": "2023-05-28T17:25:00Z",
+            "content": "KYIV, May 28 (Reuters) - Russia unleashed waves of air strikes on Kyiv overnight in what officials said was the largest drone attack of the city but crowds poured into the streets later on Sunday to \u2026 [+4619 chars]"
         },
         {
             "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Kevin Shalvey, Amanda M. Morris, Jessie DiMartino, Cristina Corujo",
-            "title": "3 dead, 5 injured in shooting at biker rally in Red River, New Mexico - ABC News",
-            "description": "\"The scene is secure,\" New Mexico State Police said.",
-            "url": "https://abcnews.go.com/US/police-investigate-shooting-red-river-new-mexico/story?id=99657876",
-            "urlToImage": "https://s.abcnews.com/images/US/red-river-koat-2_1685250786983_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-05-28T07:56:58Z",
-            "content": "Three people were killed and five others were injured in a shooting at an annual motorcycle rally in Red Rock, New Mexico, police said.\r\n\"The scene is secure, no ongoing threat to public safety,\" New\u2026 [+1231 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Katherine Donlevy",
-            "title": "'Twilight' star Rachelle Lefevre slams Target for removing Pride collection - New York Post ",
-            "description": "\u201cTwilight\u201d star Rachelle Lefevre accused Target of \u201ctrying to erase\u201d LGBTQ people after it removed its \u201cPRIDE\u201d collection from the front of its stores following \u2026",
-            "url": "https://nypost.com/2023/05/28/twilight-start-rachelle-lefevre-slams-target-for-removing-pride-collection/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/twilight.jpg?quality=75&strip=all&1685245708&w=1024",
-            "publishedAt": "2023-05-28T07:50:00Z",
-            "content": "\u201cTwilight\u201d star Rachelle Lefevre accused Target of \u201ctrying to erase\u201d LGBTQ people after it removed its \u201cPRIDE\u201d collection from the front of its stores following backlash from conservatives.\r\nThe actr\u2026 [+2017 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Louisa Loveluck, Kareem Fahim",
-            "title": "Erdogan favored as Turkey votes in presidential runoff election - The Washington Post",
-            "description": "Turkish voters head to the polls Sunday for a landmark presidential runoff, with President Recep Tayyip Erdogan favored to cement his rule after 20 years in power.",
-            "url": "https://www.washingtonpost.com/world/2023/05/28/turkey-election-runoff-erdogan-kilicdaroglu/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GB5KN7EZCUHYLLGPL4PCJZ7RPM_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-05-28T07:00:00Z",
-            "content": "Comment on this story\r\nComment\r\nANKARA, Turkey Turkish voters are heading to the polls Sunday for a landmark presidential runoff that will decide who leads the divided country through a critical peri\u2026 [+7567 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Suntimes.com"
-            },
-            "author": "Georgia Nicols",
-            "title": "Horoscope for Sunday, May 28, 2023 - Chicago Sun-Times",
-            "description": null,
-            "url": "https://chicago.suntimes.com/2023/5/28/23735298/horoscopes-today-sunday-may-28-2023",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/915326c/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FDTCv32580UtOjcVb8lxn8FOtmkE%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24677523%2FGeorgia_mug.jpeg",
-            "publishedAt": "2023-05-28T05:01:08Z",
-            "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Virgo.\r\nAries (March 21-April 19)\r\nYou might hear surprising news that can benefit your health. Keep your ears\u2026 [+3913 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Bibhudatta Pradhan",
-            "title": "Modi to Unveil New Parliament, Reshaping India's Power Center - Bloomberg",
-            "description": "India\u2019s corridors of power are getting a makeover \u2014 part of Prime Minister Narendra Modi\u2019s efforts to cement his legacy as he looks to a third term in office in national elections next year.",
-            "url": "https://www.bloomberg.com/news/articles/2023-05-28/modi-to-unveil-new-parliament-reshaping-india-s-power-center",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilg07oM9ES2M/v2/1200x800.jpg",
-            "publishedAt": "2023-05-28T04:33:00Z",
-            "content": "India\u2019s corridors of power are getting a makeover \u2014 part of Prime Minister Narendra Modi\u2019s efforts to cement his legacy as he looks to a third term in office in national elections next year.\r\nModi, w\u2026 [+348 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Full WWE Night of Champions Results and Highlights: WWE Now, May 27, 2023 - WWE",
-            "description": "Seth \u201cFreakin\u201d Rollins ushered in a new title era, Sami Zayn & Kevin Owens battled Roman Reigns & Solo Sikoa in a shocking clash, Cody Rhodes and Brock Lesna...",
-            "url": "https://www.youtube.com/watch?v=rjeeydjsAVw",
-            "urlToImage": "https://i.ytimg.com/vi/rjeeydjsAVw/maxresdefault.jpg",
-            "publishedAt": "2023-05-28T02:55:19Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Stars @ Golden Knights; Game 5, 5/27 | NHL Playoffs 2023 | Stanley Cup Playoffs - NHL",
-            "description": "Extended highlights of the Dallas Stars at the Vegas Golden Knights",
-            "url": "https://www.youtube.com/watch?v=NCWgZ6rUuQc",
-            "urlToImage": "https://i.ytimg.com/vi/NCWgZ6rUuQc/maxresdefault.jpg",
-            "publishedAt": "2023-05-28T02:52:48Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Simrin Singh",
-            "title": "State Farm to stop offering new home insurance policies in California due to \"growing catastrophe exposure\" - CBS News",
-            "description": "However, State Farm will continue to offer personal auto insurance policies in California, the company said.",
-            "url": "https://www.cbsnews.com/news/state-farm-stop-offering-new-home-insurance-policies-california-wildfires/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/27/6ba88abb-a13e-4c8f-aef6-fe70af48389c/thumbnail/1200x630/41ce2f4c5c3ff0b374ce085818f674cc/gettyimages-1242998167.jpg",
-            "publishedAt": "2023-05-28T02:46:12Z",
-            "content": "State Farm said it will no longer accept new applications for home and business insurance in California because of an increase in catastrophic events and construction costs, the company announced Fri\u2026 [+3072 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Times of Israel"
-            },
-            "author": null,
-            "title": "\u2018Anatomy of a Fall\u2019 wins top prize at Cannes as chilling Auschwitz film is runner-up - The Times of Israel",
-            "description": "With tense courtroom drama, Justine Triet becomes just 3rd woman to be victorious at festival; Jonathan Glazer's 'The Zone of Interest' takes second prize",
-            "url": "https://www.timesofisrael.com/anatomy-of-a-fall-wins-top-prize-at-cannes-as-chilling-auschwitz-film-is-runner-up/",
-            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/05/AP23147727711802-1024x640.jpg",
-            "publishedAt": "2023-05-28T01:07:05Z",
-            "content": "CANNES, France \u2014 A tense courtroom drama about a writer accused of her husband\u2019s murder took the Palme d\u2019Or at the Cannes Film Festival on Saturday, capping a strong year for women filmmakers, as a f\u2026 [+3935 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Kyiv under new massive Russian drone attack, Vitaliy Klitschko says - BBC",
-            "description": "The city's mayor says one man is killed in Ukraine's capital, and more than 20 drones are shot down.",
-            "url": "https://www.bbc.com/news/world-65736730",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/94DD/production/_129890183_kyiv.jpg",
-            "publishedAt": "2023-05-28T00:46:08Z",
-            "content": "Russia has launched a new massive overnight drone attack on Ukraine's capital Kyiv, killing at least one person, local officials have said.\r\nKyiv's mayor Vitaliy Klitschko said a man died when drone \u2026 [+1655 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Debora Patta",
-            "title": "Ukrainian military chief hints that counteroffensive could be coming soon - CBS News",
-            "description": "A slickly produced video showed troops preparing for battle with American-made armored vehicles, artillery and rocket launchers.",
-            "url": "https://www.cbsnews.com/news/ukrainian-military-chief-valerii-zaluzhnyi-hints-counteroffensive-could-be-soon/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/27/dd1d2f6e-e1ca-46c7-a9f4-de2a1125c00b/thumbnail/1200x630/48ba48e5cb3e5bc471cc65016886ffb2/gettyimages-1258194985.jpg",
-            "publishedAt": "2023-05-28T00:15:00Z",
-            "content": "Kharkiv, Ukraine \u2014 Ukraine increased speculation that a counteroffensive against Russian forces could be imminent with a video released Saturday brandishing its intention to destroy the enemy with an\u2026 [+2116 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Soonersports.com"
-            },
-            "author": null,
-            "title": "Sooner Magic Propels OU to WCWS - University of Oklahoma - Soonersports.com",
-            "description": "NORMAN  \u2013 Down to its final strike in the seventh inning, Oklahoma softball tied Clemson on a three-run home run off the bat of   Kinzie Hansen   and   Tiar...",
-            "url": "https://soonersports.com/news/2023/5/27/softball-sooner-magic-propels-ou-to-wcws",
-            "urlToImage": "https://soonersports.com/images/2023/5/27/k9-04.jpg",
-            "publishedAt": "2023-05-27T23:48:45Z",
-            "content": "NORMAN The Oklahoma softball team now owns the all-time Division I record for consecutive victories with 48 straight.\r\nAnd, fortunately for the Sooners, they're still counting.\r\nThe streak's toughest\u2026 [+6702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "nj.com"
-            },
-            "author": "Katherine Rodriguez | NJ Advance Media for NJ.com",
-            "title": "Memorial Day 2023 freebies: How to get free food and deals this weekend - NJ.com",
-            "description": "Here's how to get free food and deals for Memorial Day weekend 2023",
-            "url": "https://www.nj.com/food/2023/05/memorial-day-2023-freebies-how-to-get-free-food-and-deals-this-weekend.html",
-            "urlToImage": "https://www.nj.com/resizer/zi813iycbpJbIvXebIY7s8jXaWk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5CMWNSPLVFBJNBNNFUPOW3JDTM.jpg",
-            "publishedAt": "2023-05-27T19:05:00Z",
-            "content": "Memorial Day 2023 is on Monday, May 29.\r\nTo get into the holiday spirit, several chains and franchises are offering free food and deals on Monday, according to Offers.com, The Krazy Coupon Lady and P\u2026 [+4040 chars]"
+            "author": "Julia Jacobo",
+            "title": "State Farm will no longer accept applications for homeowners insurance in California, citing wildfire risk - ABC News",
+            "description": "\"Historic increases in construction costs\" led to the decision.",
+            "url": "https://abcnews.go.com/US/state-farm-longer-accept-applications-homeowners-insurance-california/story?id=99660740",
+            "urlToImage": "https://s.abcnews.com/images/US/creek-fire-house-gty-jt-230528_1685285653256_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-05-28T17:07:37Z",
+            "content": "One of the largest insurance agencies in the country will no longer accept applications for home and business insurance in California due to wildfire risks and the cost of rebuilding.\r\nState Farm has\u2026 [+2904 chars]"
         }
     ]
 }
