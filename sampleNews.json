@@ -1,149 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Adam Carlson",
-            "title": "Biden urges Congress to pass debt ceiling deal - ABC News",
-            "description": "The bill \"doesn't get everything everybody wanted,\" Speaker McCarthy said.",
-            "url": "https://abcnews.go.com/Politics/mccarthy-defends-debt-ceiling-deal-predicts-democrats-join/story?id=99660548",
-            "urlToImage": "https://s.abcnews.com/images/Politics/Biden-getty-sg-52_hpMain_20230527-223057_16x9_992.jpg",
-            "publishedAt": "2023-05-29T00:00:00Z",
-            "content": "In remarks Sunday night, President Joe Biden urged both chambers of Congress to pass the debt limit deal, while acknowledging key concessions made by both parties in order to finalize an agreement.\r\n\u2026 [+10959 chars]"
+            "author": null,
+            "title": "Uganda enacts harsh anti-LGBTQ law including death penalty - Reuters",
+            "description": "Uganda's President Yoweri Museveni has signed one of the world's toughest <a href=\"/world/africa/uganda-parliament-passes-mostly-unchanged-version-anti-lgbtq-bill-2023-05-02/\">anti-LGBTQ laws</a>, including the death penalty for \"aggravated homosexuality\", in\u2026",
+            "url": "https://www.reuters.com/world/africa/ugandas-museveni-approves-anti-gay-law-parliament-speaker-says-2023-05-29/",
+            "urlToImage": "https://www.reuters.com/resizer/kEPniXcIf_rNA2Qsq_j8hKcvfUs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ED2ISXUD55O23CCWO4CVDP66MU.jpg",
+            "publishedAt": "2023-05-29T11:35:00Z",
+            "content": "KAMPALA, May 29 (Reuters) - Uganda's President Yoweri Museveni has signed one of the world's toughest anti-LGBTQ laws, including the death penalty for \"aggravated homosexuality\", in defiance of Weste\u2026 [+4004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": null,
+            "title": "Heat vs. Celtics odds, prediction: 2023 NBA Eastern Conference finals picks, Game 7 bets by proven model - CBS Sports",
+            "description": "SportsLine's model simulated Game 7 of the Boston Celtics vs. Miami Heat Eastern Conference finals series in the 2023 NBA playoffs",
+            "url": "https://www.cbssports.com/nba/news/heat-vs-celtics-odds-prediction-2023-nba-eastern-conference-finals-picks-game-7-bets-by-proven-model/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/29/770d6fd7-06e7-41fc-8c65-ac8ef87d9da3/thumbnail/1200x675/cf7e76aee0c4f22b0ec81480f22c9ea5/jayson-tatum-boston-celtics-usatsi.jpg",
+            "publishedAt": "2023-05-29T11:33:23Z",
+            "content": "The 2023 NBA Eastern Conference finals conclude with a must-see showdown on Memorial Day. The Boston Celtics host the Miami Heat for Game 7 of the series at TD Garden in prime time on Monday. Boston \u2026 [+4006 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Michael Birnbaum",
+            "title": "A logjam as big as Manhattan is battling climate change -- for now. - The Washington Post",
+            "description": "A pileup of ancient logs nearly as big as Manhattan is trapping millions of tons of carbon in northern Canada \u2013 and the warming climate may lead to its releasing much of that stored material into the atmosphere.",
+            "url": "https://www.washingtonpost.com/climate-solutions/2023/05/29/logjam-canada-carbon-sink-climate/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7MMY5NHY7I5EFZOTH3SR6ZHCQA_size-normalized.JPG&w=1440",
+            "publishedAt": "2023-05-29T11:32:14Z",
+            "content": "Comment on this story\r\nComment\r\nA pileup of ancient logs nearly as big as Manhattan is trapping millions of tons of carbon in northern Canada and much of that stored material could be released into t\u2026 [+4550 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Trisha Pasricha, MD, MPH",
+            "title": "Is my immune system healthy? What to know about testing, boosting it. - The Washington Post",
+            "description": "Catching a few infections every year is perfectly normal. Here\u2019s when to ask your physician for further testing of your immune system.",
+            "url": "https://www.washingtonpost.com/wellness/2023/05/29/immune-system-test-boost/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JMCWH6ZTSJHFPGY345JHMIXCQU.gif&w=1440",
+            "publishedAt": "2023-05-29T11:31:14Z",
+            "content": "Comment on this story\r\nComment\r\nQ: How do I know the state of my immune system? Can I get it tested, and how do I support it?\r\nA: Its normal to catch a few run-of-the-mill infections every year. That\u2026 [+5950 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Gul Tuysuz,Yusuf Gezer,Tamara Qiblawi",
-            "title": "Erdogan wins Turkish election, extending rule to third decade - CNN",
-            "description": "President Recep Tayyip Erdogan has won Turkey\u2019s presidential election, defeating opposition leader Kemal Kilicdaroglu in Sunday\u2019s runoff vote and stretching his rule into a third decade.",
-            "url": "https://www.cnn.com/2023/05/28/europe/turkey-president-runoff-polls-erdogan-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230528182338-18-turkey-runoff-election-0528.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-28T23:48:00Z",
-            "content": "President Recep Tayyip Erdogan has won Turkeys presidential election, defeating opposition leader Kemal Kilicdaroglu in Sundays runoff vote and stretching his rule into a third decade. \r\nWith 99.43% \u2026 [+6825 chars]"
+            "author": "Kevin Liptak",
+            "title": "Biden and McCarthy lean on holdouts in both parties to pass debt ceiling deal - CNN",
+            "description": "Party leaders in Washington are waging an urgent campaign Monday to convince Democrats and Republicans to get behind compromise legislation that would avert a first-ever national default, with each side proclaiming victory following marathon talks.",
+            "url": "https://www.cnn.com/2023/05/29/politics/debt-limit-bill-monday-biden-mccarthy/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230420174349-capitol-dome-041723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-29T10:58:00Z",
+            "content": "Party leaders in Washington are waging an urgent campaign Monday to convince Democrats and Republicans to get behind compromise legislation that would avert a first-ever national default, with each s\u2026 [+4990 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Jihye Lee, Lim Hui Jie",
-            "title": "Asia markets set to mostly rise after U.S. reached tentative debt ceiling deal over weekend - CNBC",
-            "description": "U.S. President Joe Biden and congressional leaders reached a tentative deal on raising the debt ceiling.",
-            "url": "https://www.cnbc.com/2023/05/29/asia-markets.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107247599-1685319324892-gettyimages-1175711976-cr029529_2019091921729279.jpeg?v=1685319421&w=1920&h=1080",
-            "publishedAt": "2023-05-28T23:36:00Z",
-            "content": "Singapore state-owned investor Temasek cut the compensation of senior management and its investment team responsible for the recommendation to invest in failed cryptocurrency exchange FTX.\r\n\"Although\u2026 [+679 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Karl Rasmussen",
-            "title": "NBA\u2019s Last Two-Minute Report Clears the Air Over Celtics-Heat Game 6 Confusion - Sports Illustrated",
-            "description": "The league reviewed the officiating in the final moments of Saturday\u2019s game.",
-            "url": "https://www.si.com/nba/2023/05/28/nba-last-two-minute-report-celtics-heat-game-6",
-            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk4Mjc0MTIxNjk4NjQ5NjQ2/jbutalho.jpg",
-            "publishedAt": "2023-05-28T23:02:13Z",
-            "content": "Plenty of NBA fans were confused by the ending of Game 6 between the\u00a0Heat\u00a0and\u00a0Celtics.\u00a0\r\nAfter a late foul from\u00a0Al Horford\u00a0during a\u00a0Jimmy Butler\u00a0three-point attempt, officials reviewed the play and a\u2026 [+1342 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Fox News",
-            "title": "Jewel's national anthem at Indianapolis 500 panned as 'disrespectful' - New York Post ",
-            "description": "Pop and country music star Jewel performed\u00a0\u201cThe Star-Spangled Banner\u201d\u00a0before the Indianapolis 500 but her twist on the national anthem had fans scratching their heads.",
-            "url": "https://nypost.com/2023/05/28/jewels-national-anthem-at-indianapolis-500-panned-as-disrespectful/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/newspress-collage-27250346-1685311176791.jpg?quality=75&strip=all&1685296819&w=1024",
-            "publishedAt": "2023-05-28T22:09:15Z",
-            "content": "IndyCar fans were locked in to watch the Indianapolis 500 at Indianapolis Motor Speedway on Sunday with\u00a0Alex Palou\u00a0on the pole and drivers like Pato OWard and Felix Rosenqvist trying to take home the\u2026 [+1354 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Alex Sundby, Jordan Freiman",
-            "title": "Body of escaped Ohio prison inmate and convicted murderer Bradley Gillespie believed to be found in Ohio River - CBS News",
-            "description": "Bradley Gillespie escaped from an Ohio prison with another inmate, James Lee, who was previously captured.",
-            "url": "https://www.cbsnews.com/news/bradley-gillespie-dead-escaped-inmate-ohio-river-henderson-kentucky/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/24/928bed54-20bf-495a-8ebe-139fe30a1f50/thumbnail/1200x630g2/27191f4a5d6a39e84fb0e65c46ab3d09/bradley-gillespie.jpg",
-            "publishedAt": "2023-05-28T21:41:00Z",
-            "content": "Police believe they have found the body of a convicted murderer who escaped from an Ohio prison in the Ohio River near Henderson, Kentucky, officials said. Bradley Gillespie was reported missing Tues\u2026 [+1865 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Shiyin Chen",
-            "title": "Temasek Cuts Employee Compensation After Failed FTX Investment - Bloomberg",
-            "description": "Singapore investment firm Temasek Holdings Pte said it reduced compensation for senior management and the investment team responsible for investing in FTX.",
-            "url": "https://www.bloomberg.com/news/articles/2023-05-28/temasek-cuts-employee-compensation-after-failed-ftx-investment",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izhhmzMu2HD0/v0/1200x799.jpg",
-            "publishedAt": "2023-05-28T21:37:24Z",
-            "content": "Singapore investment firm \r\nTemasek Holdings Pte said it reduced compensation for senior management and the investment team responsible for investing in FTX.\r\nThe state-owned investor said that while\u2026 [+140 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Top 5 Neuroscience News Stories of the Week - Neuroscience News",
-            "description": "Discoveries ranged from unraveling how Botox breaches neurons, to a study finding 'Superagers' with Alzheimer's-like pathology but superior cognition.",
-            "url": "https://neurosciencenews.com/neuroscience-news-weekly-23359/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/05/articles-of-the-week-neuroscience.jpg",
-            "publishedAt": "2023-05-28T21:24:02Z",
-            "content": "Summary: This week, research teams from around the globe shared their remarkable findings from the field of neuroscience.\r\nDiscoveries ranged from unraveling how Botox breaches neurons, to a study fi\u2026 [+3403 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "'My fellow Republicans wanted me to lie,' Liz Cheney says in commencement speech - POLITICO",
-            "description": "She urged Colorado College's 2023 graduates to trust in the truth.",
-            "url": "https://www.politico.com/news/2023/05/28/liz-cheney-republicans-colorado-commencement-speech-00099132",
-            "urlToImage": "https://static.politico.com/6e/dc/4b28581d4faba685809288b1cd47/liz-cheney-commencement-speech-81921.jpg",
-            "publishedAt": "2023-05-28T21:10:48Z",
-            "content": "No party, no nation, no people can defend and perpetuate a constitutional republic if they accept leaders who have gone to war with the rule of law, with the democratic process, with the peaceful tra\u2026 [+1522 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digital Trends"
-            },
-            "author": "Aaron Mamiit",
-            "title": "Sony WH-1000XM5 headphones at lowest-ever price for Memorial Day - Digital Trends",
-            "description": "The Sony WH-1000XM5 wireless headphones offer outstanding active noise cancellation and a 30-hour battery life for $348, following a $52 discount from Amazon.",
-            "url": "https://www.digitaltrends.com/home-theater/sony-wh-1000xm5-headphones-at-lowest-ever-price-for-memorial-day-deal/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/05/sony-wh-1000xm5-review-00013.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2023-05-28T20:40:27Z",
-            "content": "Simon Cohen / Digital Trends\r\nHeadphones have become an integral part of our lives. That\u2019s especially the case as we rely on things like Active Noise Cancellation (ANC) to block out the massive amoun\u2026 [+2725 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Bruce Haring",
-            "title": "\u2018Succession\u2019 Star Peter Friedman Says Online Speculation On Finale Is On The Right Track - Deadline",
-            "description": "It\u2019s the question every fan wants answered: who will seize control of media giant Waystar Royco in tonight\u2019s finale of the hit HBO show? \u201cI\u2019m fascinated to find out,\u201d said P\u2026",
-            "url": "https://deadline.com/2023/05/succession-star-peter-friedman-says-online-speculation-on-finale-is-on-right-track-1235382044/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/GettyImages-1346278146-e1685305727909.jpg?w=1018",
-            "publishedAt": "2023-05-28T20:29:00Z",
-            "content": "It\u2019s the question every fan wants answered: who will seize control of media giant Waystar Royco in tonight\u2019s finale of the hit HBO show?\r\n\u201cI\u2019m fascinated to find out,\u201d said Peter Friedman, who plays \u2026 [+1815 chars]"
+            "author": "Ruxandra Iordache",
+            "title": "Ukraine war live updates: Russia bolsters attack on Kyiv; Putin congratulates 'dear friend' Erdogan on reelection - CNBC",
+            "description": "Explosions once again rattled the Ukrainian capital of Kyiv, following intense Russian air missile and drone attacks.",
+            "url": "https://www.cnbc.com/2023/05/29/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107247682-1685346107507-gettyimages-1258236786-AA_28052023_1212258.jpeg?v=1685347524&w=1920&h=1080",
+            "publishedAt": "2023-05-29T10:47:00Z",
+            "content": "Russian President Vladimir Putin congratulated the electoral victory of his \"dear friend\" Turkish President Recep Tayyip Erdogan, who secured reelection in a runoff vote against Kemal Kilicdaroglu on\u2026 [+997 chars]"
         },
         {
             "source": {
@@ -151,51 +86,155 @@
                 "name": "CBS News"
             },
             "author": null,
-            "title": "Miami Heat fall to Celtics 104-103 on buzzer-beater, forcing Game 7 in Boston - CBS Miami",
-            "description": "Derrick White scored on a putback with 0.1 seconds left and the Boston Celtics moved to the brink of the greatest comeback in NBA playoffs history",
-            "url": "https://www.cbsnews.com/miami/news/miami-heat-fall-to-celtics-104-103-forcing-game-7-in-boston/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/28/fab3b526-40c5-46fc-bd52-a52adaf35207/thumbnail/1200x630/f7b256e93fac4acc94b5df3f6e0054ef/ap23148105847914.jpg",
-            "publishedAt": "2023-05-28T20:25:00Z",
-            "content": "MIAMI (AP) -- Derrick White scored on a putback with 0.1 seconds left and the Boston Celtics moved to the brink of the greatest comeback in NBA playoffs history, holding off the Miami Heat 104-103 on\u2026 [+3849 chars]"
+            "title": "Raccoon in pet store for nail trim euthanized due to rabies risk after customers kiss it - CBS News",
+            "description": "Raccoons are one of the most common carriers of rabies in Maine and authorities feared humans handling the raccoon might have put themselves at risk. Animals have to be euthanized to be tested for rabies.",
+            "url": "https://www.cbsnews.com/news/raccoon-pet-store-nail-trim-euthanized-rabies-risk-customers-kiss-it/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2019/10/30/47b3cf92-406f-4f1e-9701-91ff76fd1bf8/thumbnail/1200x630/6158b368c4d59a09d509c2a192d4ef01/GettyImages-1024812400.jpg",
+            "publishedAt": "2023-05-29T10:22:37Z",
+            "content": "Auburn, Maine \u2014 A raccoon in Maine was euthanized and tested for rabies after a woman brought it into a pet store for a nail trim and some customers kissed it, state wildlife authorities said\r\nThe ra\u2026 [+1871 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
             "author": null,
-            "title": "Kyle Kirkwood upside down during Indy 500 after Felix Rosenqvist contact | Motorsports on NBC - Motorsports on NBC",
-            "description": "Felix Rosenqvist slides high and contacts the wall, causing him to spin out and clip Kyle Kirkwood, which sends Kirkwood sliding across the track upside down...",
-            "url": "https://www.youtube.com/watch?v=EVz8XdMOo6s",
-            "urlToImage": "https://i.ytimg.com/vi/EVz8XdMOo6s/maxresdefault.jpg",
-            "publishedAt": "2023-05-28T19:55:10Z",
-            "content": null
+            "title": "Russia issues arrest warrant for Lindsey Graham over Ukraine comments - The Associated Press",
+            "description": "MOSCOW (AP) \u2014 Russia's Interior Ministry on Monday issued an arrest warrant for U.S. Sen. Lindsey Graham following his comments related to the fighting in Ukraine. In an edited video of his meeting on Friday with Ukrainian President Volodymyr Zelenskyy that w\u2026",
+            "url": "https://apnews.com/article/russia-ukraine-lindsey-graham-arrest-warrant-52ea51c2f33145badbd0666c4e42da36",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cf5bff5069b344268e9574674b7e486e/3000.webp",
+            "publishedAt": "2023-05-29T10:16:07Z",
+            "content": "MOSCOW (AP) Russias Interior Ministry on Monday issued an arrest warrant for U.S. Sen. Lindsey Graham following his comments related to the fighting in Ukraine.\r\nIn an edited video of his meeting on \u2026 [+874 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stephanie Busari",
+            "title": "Nigeria\u2019s Bola Tinubu sworn in as new president - CNN",
+            "description": "Nigeria\u2019s President-elect Bola Ahmed Tinubu was sworn into office Monday, against the backdrop of a fractured nation, an ailing economy and spiraling insecurity.",
+            "url": "https://www.cnn.com/2023/05/29/africa/bola-tinubu-inauguration-nigeria-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230301112455-02-bola-ahmed-tinubu-030123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-29T10:13:00Z",
+            "content": "Nigerias President-elect Bola Ahmed Tinubu was sworn into office Monday, against the backdrop of a fractured nation, an ailing economy and spiraling insecurity.\r\nThe ceremony took place amid tight se\u2026 [+4596 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Samira Asma-Sadeque",
-            "title": "Three people killed and five injured in shooting at New Mexico biker rally - The Guardian US",
-            "description": "Mayor of Red River town says the shooting was gang-related, and that the shooters have all been taken into custody",
-            "url": "https://www.theguardian.com/us-news/2023/may/28/biker-rally-shooting-new-mexico",
-            "urlToImage": "https://i.guim.co.uk/img/media/125e195e01043f41c506e1f58b560f4da314a3c9/1_155_1931_1159/master/1931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7799c1e99b6120aa770a6d10236066d8",
-            "publishedAt": "2023-05-28T19:32:00Z",
-            "content": "Three people were killed and five injured in a shooting at a biker rally inRed River, New Mexico, on Saturday.\r\nNeither the victims nor the shooters were local residents and were among bikers who wer\u2026 [+1835 chars]"
+            "author": "Robert Brand",
+            "title": "Debt-Limit Deal Brings Relief Tinged by Caution: Markets Wrap - Yahoo Finance",
+            "description": "(Bloomberg) -- European stocks wavered in muted holiday-affected trading, while American equity futures posted modest gains amid cautious optimism the US...",
+            "url": "https://finance.yahoo.com/news/us-stock-futures-rise-dollar-231234882.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JTsAl4oy2LWeoyJfssCwXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/0a11ebb3afd222b7be1d0d4024e7edda",
+            "publishedAt": "2023-05-29T10:00:38Z",
+            "content": "(Bloomberg) -- European stocks wavered in muted holiday-affected trading, while American equity futures posted modest gains amid cautious optimism the US will avert a catastrophic default after the w\u2026 [+6043 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "NPR"
             },
-            "author": ", USA TODAY",
-            "title": "Amanda Gorman defends poem after school restricts access. Updates - USA TODAY",
-            "description": "The Florida mom whose complaints prompted an acclaimed poem and multiple books to be restricted also apologized for an antisemitic post she shared.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/05/28/daily-salinas-amanda-gorman-poem/70265234007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/12/USAT/651590c6-bb59-437b-874f-40715cdd8541-AFP_1245550892.jpg?auto=webp&crop=4300,2419,x0,y265&format=pjpg&width=1200",
-            "publishedAt": "2023-05-28T19:30:59Z",
-            "content": "The Florida mom whose complaints about reading material prompted Amanda Gorman's acclaimed poem \"The Hill We Climb\" and other books to be restricted at a local elementary school admits she only read \u2026 [+2539 chars]"
+            "author": "",
+            "title": "In a Venice canal, police investigate mysteriously green waters - NPR",
+            "description": "A shock of bright green appeared in waters near the Grand Canal's Rialto Bridge over the weekend. Authorities say they are working to identify the source of the unusually verdant color.",
+            "url": "https://www.npr.org/2023/05/29/1178676824/green-venice-canal-italy",
+            "urlToImage": "https://media.npr.org/assets/img/2023/05/28/ap23148475277429_wide-36a542a90395b0a1931a25477c69e31c85fe3a7a-s1400-c100.jpg",
+            "publishedAt": "2023-05-29T09:00:30Z",
+            "content": "Police in Venice, Italy, are investigating the source of a bright green liquid patch that appeared on Sunday in the city's Grand Canal.\r\nLuigi Costantini/AP\r\nSomething's in the water of Italy's famed\u2026 [+1673 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "How Taiwan used women's voices to send secret messages into China and woo defectors - NPR",
+            "description": "Decades ago, Taiwan set up propaganda broadcast stations on islands right off the coast of mainland China. One of its key tools: women's voices.",
+            "url": "https://www.npr.org/2023/05/29/1176802508/taiwan-china-propaganda-radio-teresa-teng",
+            "urlToImage": "https://media.npr.org/assets/img/2023/05/22/gettyimages-1480812616_wide-f4a5627bc5ce0a0de2a52f83977b0efc0b1c3cf2-s1400-c100.jpg",
+            "publishedAt": "2023-05-29T09:00:29Z",
+            "content": "Large loudspeakers stand at the Beishan Broadcasting Wall, built in 1967 to transmit propaganda from Taiwan to mainland China, in Kinmen, Taiwan.\r\nAn Rong Xu/Getty Images\r\nKINMEN, Taiwan Back in the \u2026 [+10568 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Laurel Hamers",
+            "title": "Why do animals keep evolving into crabs? - Livescience.com",
+            "description": "Crabby bodies are so evolutionarily favorable, they've evolved at least five different times. So why does this process, known as carcinization, keep happening?",
+            "url": "https://www.livescience.com/animals/crustaceans/why-do-animals-keep-evolving-into-crabs",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SRdGNTqjvjVoQ2XYrgEjLN-1200-80.jpg",
+            "publishedAt": "2023-05-29T09:00:00Z",
+            "content": "A flat, rounded shell. A tail that's folded under the body. This is what a crab looks like, and apparently what peak performance might look like \u2014 at least according to evolution\r\n. A crab-like body \u2026 [+4509 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jyoti Mann",
+            "title": "Frequent 'skiplagging' flyer says she has 'no remorse and no angst' - Business Insider",
+            "description": "Sophie Partlow said she's used a \"skiplagging\" website for many years to save money and has never been caught, even though airlines hate it.",
+            "url": "https://www.businessinsider.com/frequent-skiplagging-flyer-has-no-remorse-no-angst-airlines-2023-5",
+            "urlToImage": "https://i.insider.com/647354073be3b50019f7259e?width=1200&format=jpeg",
+            "publishedAt": "2023-05-29T08:30:00Z",
+            "content": "A frequent flyer who's been \"skiplagging\" for more than a decade said she doesn't feel guilty because airlines have a \"chokehold on prices.\"\u00a0\r\nSkiplagging or \"hidden-city\" ticketing is a practice whe\u2026 [+1799 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Medal of Honor recipient's remains to be buried in Georgia after being identified 73 years later - NBC News",
+            "description": "The remains of a Medal of Honor recipient killed in the Korean War have been returned to Georgia after being identified 73 years later.",
+            "url": "https://www.nbcnews.com/news/us-news/medal-honor-recipients-remains-buried-georgia-identified-73-years-late-rcna86636",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-05/230529-medal-of-honor-mb-0837-defe22.jpg",
+            "publishedAt": "2023-05-29T07:51:10Z",
+            "content": "SAVANNAH, Ga. Soldiers of the 9th Infantry Regiment made a desperate retreat as North Korean troops closed in around them. A wounded, 18-year-old\u00a0Army Pfc. Luther Herschel Story\u00a0feared his injuries w\u2026 [+5265 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu and Rita Liao",
+            "title": "All the Nvidia news announced by Jensen Huang at Computex - TechCrunch",
+            "description": "Jensen Huang wants to bring generative AI to every data center, the Nvidia co-founder and CEO said during Computex in Taipei today. During the speech, Huang\u2019s first public speech in almost four years he said, he made a slew of announcements, including super c\u2026",
+            "url": "https://techcrunch.com/2023/05/28/nvidia-computex-jensen-huang/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/T-15882236-L.jpg?w=1200",
+            "publishedAt": "2023-05-29T07:41:15Z",
+            "content": "Jensen Huang wants to bring generative AI to every data center, the Nvidia co-founder and CEO said during Computex in Taipei today. During the speech, Huangs first public speech in almost four years \u2026 [+5664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Monday, May 29, 2023 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2023/5/29/23735474/horoscopes-today-monday-may-29-2023",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/b9f6d7b/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FXSp-V6ENiKZvT5xjYQRisK5FgVo%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24677884%2FGeorgia_mug.jpeg",
+            "publishedAt": "2023-05-29T05:04:26Z",
+            "content": "Moon Alert\r\nAvoid shopping or making important decisions from 4:30 to 10 a.m. Chicago time. After that, the moon moves from Virgo into Libra.\r\nAries (March 21-April 19)\r\nCooperate with others because\u2026 [+3828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Bob Kravitz, Jeff Gluck, Jordan Bianchi",
+            "title": "Josef Newgarden wins first Indy 500 after dramatic finish: Why were there 3 red flags? - The Athletic",
+            "description": "Josef Newgarden won a dramatic 107th Indianapolis 500 on Sunday, which included three red flags in the final laps.",
+            "url": "https://theathletic.com/4559298/2023/05/28/indy-500-recap/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/05/28165822/GettyImages-1494092646-1024x683.jpg",
+            "publishedAt": "2023-05-29T04:55:16Z",
+            "content": "By Jeff Gluck, Bob Kravitz and Jordan Bianchi\r\nJosef Newgarden won a dramatic 107th running of the Indianapolis 500 on Sunday, which included three red flags in the final laps. Heres what you need to\u2026 [+4632 chars]"
         },
         {
             "source": {
@@ -203,38 +242,12 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Belarus official: West left us no choice but to deploy nuclear arms - Reuters.com",
-            "description": "Western countries left Belarus no choice but to deploy Russian tactical nuclear weapons and had better take heed not to \"cross red lines\" on key strategic issues, a senior Belarusian official was quoted as saying on Sunday.",
-            "url": "https://www.reuters.com/world/europe/belarus-official-west-left-us-no-choice-deploy-nuclear-arms-2023-05-28/",
-            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=143",
-            "publishedAt": "2023-05-28T19:17:00Z",
-            "content": "May 28 (Reuters) - Western countries left Belarus no choice but to deploy Russian tactical nuclear weapons and had better take heed not to \"cross red lines\" on key strategic issues, a senior Belarusi\u2026 [+2158 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Caroline Thayer",
-            "title": "Disney's 'The Little Mermaid' reels in highest Memorial Day box office numbers, with nearly $120 million - Fox Business",
-            "description": "\"The Little Mermaid\" is raking in big numbers this Memorial Day Weekend. It's expected to earn $118 million over the four-day holiday weekend, the movie is crushing box offices.",
-            "url": "https://www.foxbusiness.com/entertainment/disneys-little-mermaid-reels-highest-memorial-day-box-office-numbers-nearly-120-million",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/disneys-the-little-mermaid-halle-bailey.jpg?ve=1&tl=1",
-            "publishedAt": "2023-05-28T18:45:45Z",
-            "content": "\"The Little Mermaid\" is proving it can be a part of this modern world - with its successful live-action release this Memorial Day Weekend - 34 years after the animated Disney classic debuted in 1989.\u2026 [+2387 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Nate Saunders",
-            "title": "Christian Horner -- Aston Martin tyre call let Red Bull off the hook in Monaco - ESPN - ESPN",
-            "description": "Red Bull boss Christian Horner felt Aston Martin handed Max Verstappen victory amidst the chaos caused by rain at the Monaco Grand Prix.",
-            "url": "https://www.espn.com/racing/f1/story/_/id/37747706/christian-horner-aston-martin-tyre-call-let-red-bull-hook-monaco",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0528%2Fr1179317_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-05-28T17:43:00Z",
-            "content": "MONACO - Red Bull boss Christian Horner felt Aston Martin handed Max Verstappen victory amidst the chaos caused by rain at the Monaco Grand Prix.\r\nAston's Fernando Alonso pitted from second position \u2026 [+1543 chars]"
+            "title": "Eastern Canada's Halifax declares emergency over wildfire - Reuters Canada",
+            "description": "The eastern Canadian city of Halifax declared a state of local emergency late on Sunday after a wildfire caused evacuations and power outages, with authorities shutting several schools in the affected area.",
+            "url": "https://www.reuters.com/world/americas/eastern-canadas-halifax-declares-emergency-over-wildfire-2023-05-29/",
+            "urlToImage": "https://www.reuters.com/resizer/OZH_5rGlG9m40hTj5cDLyVvOU4Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GDFMR6F6A5KVJOD23BLKMWRCAU.jpg",
+            "publishedAt": "2023-05-29T04:54:00Z",
+            "content": "May 28 (Reuters) - The eastern Canadian city of Halifax declared a state of local emergency late on Sunday after a wildfire caused evacuations and power outages, with authorities shutting several sch\u2026 [+1906 chars]"
         },
         {
             "source": {
@@ -242,25 +255,12 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Russia unleashes largest drone attack on Ukrainian capital ahead of Kyiv Day - Reuters.com",
-            "description": "Russia unleashed waves of air strikes on Kyiv overnight in what officials said was the largest drone attack of the city but crowds poured into the streets later on Sunday to celebrate the anniversary of the Ukrainian capital's founding.",
-            "url": "https://www.reuters.com/world/europe/explosions-rock-kyiv-russias-night-raid-air-defence-downs-targets-mayor-says-2023-05-27/",
-            "urlToImage": "https://www.reuters.com/resizer/JKthowhzoH1_5HoHgele7L4Amv4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YRBAT37JNJMEDCBV5LOAEIS3OA.jpg",
-            "publishedAt": "2023-05-28T17:25:00Z",
-            "content": "KYIV, May 28 (Reuters) - Russia unleashed waves of air strikes on Kyiv overnight in what officials said was the largest drone attack of the city but crowds poured into the streets later on Sunday to \u2026 [+4619 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Julia Jacobo",
-            "title": "State Farm will no longer accept applications for homeowners insurance in California, citing wildfire risk - ABC News",
-            "description": "\"Historic increases in construction costs\" led to the decision.",
-            "url": "https://abcnews.go.com/US/state-farm-longer-accept-applications-homeowners-insurance-california/story?id=99660740",
-            "urlToImage": "https://s.abcnews.com/images/US/creek-fire-house-gty-jt-230528_1685285653256_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-05-28T17:07:37Z",
-            "content": "One of the largest insurance agencies in the country will no longer accept applications for home and business insurance in California due to wildfire risks and the cost of rebuilding.\r\nState Farm has\u2026 [+2904 chars]"
+            "title": "Japan aims to destroy any N.Korean missile after it warns of satellite launch - Reuters",
+            "description": "Japan on Monday put its ballistic missile defences on alert and warned that it would shoot down any projectile that threatened its territory after North Korea notified it of a satellite launch between May 31 and June 11.",
+            "url": "https://www.reuters.com/world/asia-pacific/north-korea-notified-japan-plan-launch-satellite-between-may-31-june-11-nhk-2023-05-28/",
+            "urlToImage": "https://www.reuters.com/resizer/CDKS32GxS-CaPFcpPipdNVEtNgA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7CUO6KIHERKJJLJD6T4FNDWVRY.jpg",
+            "publishedAt": "2023-05-29T04:23:00Z",
+            "content": "SEOUL/TOKYO, May 29 (Reuters) - Japan on Monday put its ballistic missile defences on alert and warned that it would shoot down any projectile that threatened its territory after North Korea notified\u2026 [+2405 chars]"
         }
     ]
 }
