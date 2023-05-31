@@ -1,84 +1,123 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Hunter Felt",
+            "title": "The Miami Heat brutally ended the Celtics' season of living dangerously - The Guardian",
+            "description": "Miami\u2019s undrafted Caleb Martin is emblematic of an eighth-seeded team who have continued to defy expectations on their way to the NBA finals",
+            "url": "https://www.theguardian.com/sport/2023/may/30/miami-heat-boston-celtics-eastern-conference-finals-nba-caleb-martin",
+            "urlToImage": "https://i.guim.co.uk/img/media/9be2879ed688a9c88905f522e32cf737bde08e3a/0_211_4682_2810/master/4682.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c235f34cd68367b47698404dde75299",
+            "publishedAt": "2023-05-30T12:17:00Z",
+            "content": "As it turns out, theres a simple reason that no NBA team has ever won a series after falling behind 0-3: the better-prepared unit is typically the one in front. So it went in the Eastern Conference f\u2026 [+5890 chars]"
+        },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Amy Simonson,Aaron Eggleston,Zoe Sottile",
-            "title": "A Maine state trooper shot at a truck approaching the US-Canada border with a sign indicating there was an explosive on board, police say - CNN",
-            "description": "A Maine state trooper shot at a man\u2019s truck as he drove toward the Canadian border and refused to stop after the trooper observed a sign on the vehicle indicating the driver had an explosive inside, police say.",
-            "url": "https://www.cnn.com/2023/05/29/us/state-trooper-shot-truck-border-maine-canada/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230529155411-maine-state-police-logo.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-30T00:09:00Z",
-            "content": "A Maine state trooper shot at a mans truck as he drove toward the Canadian border and refused to stop after the trooper observed a sign on the vehicle indicating the driver had an explosive inside, p\u2026 [+1550 chars]"
+            "author": "Catherine Thorbecke",
+            "title": "Elizabeth Holmes set to report to prison - CNN",
+            "description": "Elizabeth Holmes is set to report to prison on Tuesday, capping off a stunning downfall for the disgraced founder of failed blood testing startup Theranos.",
+            "url": "https://www.cnn.com/2023/05/30/tech/elizabeth-holmes-prison/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230525100153-06-elizabeth-holmes-0317-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-30T11:29:00Z",
+            "content": "Elizabeth Holmes is set to report to prison on Tuesday, capping off a stunning downfall for the disgraced founder of failed blood testing startup Theranos.\r\nHolmes was sentenced to more than 11 years\u2026 [+3127 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Debora Patta, Steve Berriman",
-            "title": "U.S. hardware helps Ukraine fend off increasingly heavy Russian missile and drone attacks - CBS News",
-            "description": "Russia's ramping up its air war on Ukraine with both low-tech drones and modern missiles. Thanks to its Western partners, Ukraine can shoot down both.",
-            "url": "https://www.cbsnews.com/news/ukraine-russia-war-us-patriot-missile-defense-hypersonic-missiles-kyiv/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/29/4e883559-b447-4bdc-a98d-47c1009e11a5/thumbnail/1200x630/27a2f84b3191f1be33f83be6586c95ea/kyiv-missile-debris-1258265070.jpg",
-            "publishedAt": "2023-05-30T00:09:00Z",
-            "content": "Kharkiv, Ukraine \u2014 Russia launched some of its heaviest air attacks to date targeting Ukraine's capital and other major cities overnight and into Monday morning. Videos posted online showed children \u2026 [+3382 chars]"
+            "author": "Susie Blann",
+            "title": "Russia says drones damage Moscow buildings in pre-dawn attack, blames Ukraine - The Associated Press",
+            "description": "Russian air defenses stopped eight drones converging on Moscow, officials said Tuesday, in an attack that authorities blamed on Ukraine, while Russia pursued its relentless bombardment of Kyiv with a third assault on the city in 24 hours.",
+            "url": "https://apnews.com/article/russia-ukraine-war-kyiv-6e50b9485a0608bbcf9420db7a6b6e3a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/db6c9f1c3b214dcd8ba09c9d4aaa5127/3000.webp",
+            "publishedAt": "2023-05-30T11:25:05Z",
+            "content": "KYIV, Ukraine (AP) A rare drone attack jolted Moscow early Tuesday, causing only light damage but forcing evacuations as residential buildings were struck in the Russian capital for the first time in\u2026 [+6645 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Timothy Puko",
-            "title": "Why the Biden-McCarthy debt ceiling deal angers climate activists - The Washington Post",
-            "description": "The deal does little for the clean energy transition, and expedites a natural gas pipeline. But it keeps intact spending in Biden\u2019s climate bill -- an early target for the GOP.",
-            "url": "https://www.washingtonpost.com/climate-environment/2023/05/29/debt-ceiling-deal-climate-pipeline/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TK6DQNBZFUI63AP4VMG63N5PDY.jpg&w=1440",
-            "publishedAt": "2023-05-29T23:55:47Z",
-            "content": "Comment on this story\r\nComment\r\nA long-disputed Appalachian natural gas pipeline could be on a fast track to completion as part of the new debt ceiling deal.\r\nPresident Biden and House Republicans ha\u2026 [+8400 chars]"
+            "author": "Amy Simonson,Elizabeth Wolfe",
+            "title": "1-year-old among 9 shot after altercation near beach in Hollywood, Florida, authorities say - CNN",
+            "description": "Nine people were shot, including a 1-year-old child, during an altercation Monday night between two groups near a busy area of the beach in Hollywood, Florida, officials said.",
+            "url": "https://www.cnn.com/2023/05/29/us/hollywood-florida-shooting-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230530124319-01-hollywood-florida-beach-shooting-052923.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-30T11:17:00Z",
+            "content": "Nine people were shot, including a 1-year-old child,during an altercation Monday night between two groups near a busy area of the beach in Hollywood, Florida, officials said.\r\nPolice have detained at\u2026 [+2388 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tara Subramaniam,Manveena Suri",
+            "title": "Teen girl in India stabbed to death in public, reigniting outrage over violence against women - CNN",
+            "description": "A 16 year-old girl was brutally stabbed and bludgeoned to death in a busy public alleyway in India\u2019s capital on Sunday, sparking renewed outrage over the safety of women in the country and violence perpetrated by men.",
+            "url": "https://www.cnn.com/2023/05/30/india/india-delhi-girl-murder-video-outrage-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230530112939-01-delhi-teenage-girl-murder.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-30T11:05:00Z",
+            "content": "A 16 year-old girl was brutally stabbed and bludgeoned to death in a busy public alleyway in Indias capital on Sunday, sparking renewed outrage over the safety of women in the country and violence pe\u2026 [+2823 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eonline.com"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Elyse Dupre",
-            "title": "Succession's Sarah Snook Gives Birth, Welcomes Baby With Husband Dave Lawson - E! NEWS",
-            "description": "You weren't the only one watching the Succession series finale. Sarah Snook revealed the birth of her baby by posting a picture of herself watching the show with her little one.",
-            "url": "https://www.eonline.com/news/1375753/successions-sarah-snook-gives-birth-welcomes-baby-with-husband-dave-lawson",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023220/rs_1200x1200-230320161220-1200-sarah-snook-pregnant-shutterstock_editorial_13834853l.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-05-29T23:07:00Z",
-            "content": "Logan Roy, media mogul and\u00a0father of four adult kids who are each unhappy in their own way,\u00a0is on his third marriage, with the occasional other woman popping in and out of his bedroom.\r\nCox, 76, is a\u2026 [+856 chars]"
+            "author": "Paul Richardson and Paul Vecchiatto",
+            "title": "S. Africa Grants BRICS-Meeting Immunity After Putin Invite - Yahoo News",
+            "description": "(Bloomberg) -- South Africa said it will provide diplomatic immunity to attendees of two meetings of officials from the BRICS group of countries \u2014 a practice...",
+            "url": "https://news.yahoo.com/south-africa-grants-immunity-brics-052413430.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Dv313ex31FsR3JJTb5A3bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/bloomberg_politics_602/bc82ca20434647d90bd79ba3f96f6808",
+            "publishedAt": "2023-05-30T10:37:10Z",
+            "content": "(Bloomberg) -- South Africa said it will provide diplomatic immunity to attendees of two meetings of officials from the BRICS group of countries a practice the government said is routine as it prepar\u2026 [+3545 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "Biden and McCarthy's bumpy journey to a debt ceiling deal - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL2JpZGVuLW1jY2FydGh5cy1idW1weS1qb3VybmV5LWRlYnQtY2VpbGluZy1kZWFsLTIwMjMtMDUtMjkv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-30T10:27:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "At least 30 NATO troops injured in clashes with Serbs in Kosovo - Al Jazeera English",
+            "description": "The peacekeeping force says 11 Italian and 19 Hungarian soldiers sustained injuries, including fractures and burns.",
+            "url": "https://www.aljazeera.com/news/2023/5/30/at-least-30-nato-troops-injured-in-clashes-with-serbs-in-kosovo",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/05/AP23150244320724-1685439737.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-05-30T10:26:31Z",
+            "content": "The NATO-led peacekeeping force in Kosovo, KFOR, has raised the number of its troops injured in fierce clashes with ethnic Serbs to 30.\r\nThe Serbs had tried to take over the offices of one of the mun\u2026 [+3283 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "The Athletic"
             },
-            "author": "Brian Evans",
-            "title": "Stock futures rise after GOP and White House reach tentative U.S. debt ceiling deal: Live updates - CNBC",
-            "description": "Stock futures were higher with Wall Street eyeing Congressional approval of a tentative deal to raise the debt ceiling.",
-            "url": "https://www.cnbc.com/2023/05/29/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107243376-1684421426426-gettyimages-1248460389-775954483.jpeg?v=1685397737&w=1920&h=1080",
-            "publishedAt": "2023-05-29T23:00:00Z",
-            "content": "Stock futures rose Monday night after the Biden administration and Republican lawmakers reached a tentative deal on raising the U.S. debt ceiling.\r\nFutures tied to the Dow Jones Industrial Average ad\u2026 [+1417 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Kelsey Vlamis",
-            "title": "Harness-wearing beluga whale and rumored Russian spy pops up in Sweden - Business Insider",
-            "description": "The beluga whale first appeared in Norway in 2019 wearing a harness that had the words \"Equipment St. Petersburg,\" leading to the Russian spy theory.",
-            "url": "https://www.businessinsider.com/beluga-whale-rumored-russian-spy-wears-harness-pops-up-sweden-2023-5",
-            "urlToImage": "https://i.insider.com/64751830085acb0018fed4da?width=1200&format=jpeg",
-            "publishedAt": "2023-05-29T22:42:00Z",
-            "content": "A friendly beluga whale that was first observed wearing a harness four years ago and is believed to be a Russian spy reappeared in Sweden this week, puzzling scientists.\r\nThe beluga first popped up o\u2026 [+2283 chars]"
+            "author": "The Athletic Staff, Dan Santaromita",
+            "title": "2023 NBA Finals odds: Nuggets open as favorites over Heat - The Athletic",
+            "description": "The Nuggets are -400 to win it all, according to BetMGM. Meanwhile, Miami is +300 to win the Larry O\u2019Brien Trophy.",
+            "url": "https://theathletic.com/4562690/2023/05/29/nba-finals-odds-nuggets-heat/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/05/29234450/gettyimages-1299025735-594x594-1.jpg",
+            "publishedAt": "2023-05-30T10:25:04Z",
+            "content": "The Miami Heat advanced to the NBA Finals with a Game 7 victory in Boston, but the Denver Nuggets will start the NBA Finals as favorites. Heres what you need to know:\r\n<ul><li>The Nuggets are -400 to\u2026 [+1225 chars]"
         },
         {
             "source": {
@@ -86,181 +125,142 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "AI means everyone can now be a programmer, Nvidia chief says - Reuters",
-            "description": "Artificial intelligence means everyone can now be a computer programmer as all they need to do is speak to the computer, Nvidia Corp <a href=\"https://www.reuters.com/companies/NVDA.O\" target=\"_blank\">(NVDA.O)</a> CEO Jensen Huang said on Monday, hailing the e\u2026",
-            "url": "https://www.reuters.com/technology/ai-means-everyone-can-now-be-programmer-nvidia-chief-says-2023-05-29/",
-            "urlToImage": "https://www.reuters.com/resizer/xxybijyK5CK2DgOZNOsF8fDbIVc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GGWQP5VEN5LI3MUXJJLZHNHI6Y.jpg",
-            "publishedAt": "2023-05-29T22:40:00Z",
-            "content": "TAIPEI, May 29 (Reuters) - Artificial intelligence means everyone can now be a computer programmer as all they need to do is speak to the computer, Nvidia Corp (NVDA.O) CEO Jensen Huang said on Monda\u2026 [+2145 chars]"
+            "title": "Morning Bid: Debt vote in sight, but further Fed squeeze - Reuters",
+            "description": "A look at the day ahead in U.S. and global markets from Mike Dolan",
+            "url": "https://www.reuters.com/markets/us/global-markets-view-usa-2023-05-30/",
+            "urlToImage": "https://www.reuters.com/resizer/njnkIxGxRTbGxtOAD6VeoRmWHfw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/54UEPKWGXFPG5BBRY6SXIEVDJY.jpg",
+            "publishedAt": "2023-05-30T10:18:00Z",
+            "content": "A look at the day ahead in U.S. and global markets from Mike Dolan\r\nOut of the frying pan, and into the fire?\r\nRelief over the likely lifting of the U.S. debt ceiling this week is being reined in by \u2026 [+3657 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "INSIDER"
+                "name": "Space.com"
             },
-            "author": "Rebecca Cohen",
-            "title": "Another respiratory virus spiked in spring as COVID and RSV rates fell - Insider",
-            "description": "Symptoms of human metapneumovirus, or HMPV, include cough, fever, nasal congestion, and shortness of breath.",
-            "url": "https://www.insider.com/another-respiratory-virus-spiked-spring-as-covid-rsv-rates-fell-2023-5",
-            "urlToImage": "https://i.insider.com/5fa58e181df1d5001821954e?width=1200&format=jpeg",
-            "publishedAt": "2023-05-29T22:38:00Z",
-            "content": "Cases of another type of respiratory virus have spiked this spring, just as COVID-19 and RSV rates were finally falling in the US.\u00a0\r\nAccording to the CDC, 19.6% of antigen tests and nearly 11% of PCR\u2026 [+1232 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Krystie Lee Yandoli",
-            "title": "Succession\u2019s Matthew Macfadyen Opened Up About the Series Finale - Rolling Stone",
-            "description": "The actor discusses the show\u2019s conclusion, his iconic car ride with Shiv, and what Tom Wambsgans was all about",
-            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/succession-finale-matthew-macfadyen-tom-wambsgans-1234743790/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/05/jo-hannes-haukur-jo-hannesson-eili-harboe-alexander-skarsga-rd-matthew-macfadyen-peter-friedman-david-rasche.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2023-05-29T22:18:04Z",
-            "content": "THIS POST CONTAINS SPOILERS for the Succession series finale.\r\nSuccession came to an end on Sunday, answering the longtime question from fans of the HBO series since its inception five years ago: Who\u2026 [+2767 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Aamer Madhani",
-            "title": "Biden on Memorial Day lauds generations of fallen US troops who 'dared all and gave all' - The Associated Press",
-            "description": "President Joe Biden says in a Memorial Day address Americans \u201cmust never forget\" the price paid by troops who \u201cdared all and gave all\u201d to protect their democracy. Biden marked Memorial Day with a wreath-laying ceremony at Arlington National Cemetery.",
-            "url": "https://apnews.com/article/biden-memorial-day-arlington-national-cemetery-e5ad1865901b7264c5029c68e25086ec",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/4492d66d4bf54a809244d5667b153a76/3000.jpeg",
-            "publishedAt": "2023-05-29T22:03:46Z",
-            "content": "WASHINGTON (AP) President Joe Biden lauded the sacrifice of generations of U.S. troops who dared all and gave all fighting for their country and called on Americans to ensure their sacrifice was not \u2026 [+4298 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Texas Tribune"
-            },
-            "author": "Renzo Downey, Patrick Svitek",
-            "title": "Texas House names representatives who will prosecute Ken Paxton case - The Texas Tribune",
-            "description": "Seven Republicans and five Democrats make up the board of managers who will handle the prosecution in the trial. In the Senate, a committee will recommend rules of procedure on June 20.",
-            "url": "https://www.texastribune.org/2023/05/29/ken-paxton-impeachment-managers/",
-            "urlToImage": "https://thumbnails.texastribune.org/QyLUhwAddNQi8uxYyfD_JFpEQGw=/1200x630/filters:quality(95):focal(0x0:3000x2000)/static.texastribune.org/media/files/91d8dabc4a6100328d9b5ed996631bd0/Articles%20of%20Impeachment%20BD%20TT%2001.jpg",
-            "publishedAt": "2023-05-29T21:53:27Z",
-            "content": "Sign up for The Brief, The Texas Tribunes daily newsletter that keeps readers up to speed on the most essential Texas news.\r\nThe Texas Senate agreed Monday to start its trial of impeached Attorney Ge\u2026 [+4649 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "\"The Little Mermaid\" makes a splash at Memorial Day weekend box office - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/05/29/the-little-mermaid-memorial-day-weekend-box-office-hit",
-            "urlToImage": null,
-            "publishedAt": "2023-05-29T21:47:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "Memory Boosting Power of Flavanols in Aging Adults - Neuroscience News",
-            "description": null,
-            "url": "https://neurosciencenews.com/memory-aging-flavanols-23362/",
-            "urlToImage": null,
-            "publishedAt": "2023-05-29T21:37:42Z",
-            "content": null
+            "author": "Mike Wall",
+            "title": "Watch private Ax-2's SpaceX Dragon depart space station today - Space.com",
+            "description": "Ax-2's SpaceX Dragon spacecraft is scheduled to undock at 11:05 a.m. ET.",
+            "url": "https://www.space.com/ax-2-spacex-dragon-undock-space-station",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zeXp2Y3EmGuf3n3MmmxGiS-1200-80.jpg",
+            "publishedAt": "2023-05-30T10:00:03Z",
+            "content": "The four astronauts of the private Ax-2 mission are scheduled to head home to Earth today (May 30), and you can watch the action live.\r\nThe hatches between Ax-2's SpaceX Dragon capsule, named Freedom\u2026 [+2809 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Manu Raju",
-            "title": "Republican tries to scuttle debt limit bill in House Rules Committee as pressure grows on key swing vote - CNN",
-            "description": "Rep. Chip Roy accused House Speaker Kevin McCarthy on Monday of cutting a deal that could complicate negotiators\u2019 efforts to pass a bill to raise the US debt ceiling this week.",
-            "url": "https://www.cnn.com/2023/05/29/politics/chip-roy-house-rules-committee/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230419110901-chip-roy-0417.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-29T21:11:00Z",
-            "content": "Rep. Chip Roy accused House Speaker Kevin McCarthy on Monday of cutting a deal that could complicate negotiators efforts to pass a bill to raise the US debt ceiling this week.\r\nBut McCarthys allies q\u2026 [+4223 chars]"
+            "author": "Tami Luhby",
+            "title": "Obama agreed to $2.1 trillion in spending cuts to end 2011 debt ceiling crisis. Here\u2019s what happened next. - CNN",
+            "description": "The nation is days away from defaulting on its obligations. The Republican House speaker, pushed by conservatives in his party, demands deep spending cuts. The president, a Democrat, works on negotiating a package to avert a fiscal calamity.",
+            "url": "https://www.cnn.com/2023/05/30/politics/debt-ceiling-obama-spending-cuts/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230526131745-split-obama-boehner.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-30T10:00:00Z",
+            "content": "The nation is days away from defaulting on its obligations. The Republican House speaker, pushed by conservatives in his party, demands deep spending cuts. The president, a Democrat, works on negotia\u2026 [+3876 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "Lindsey Graham: Russia issues arrest warrant for top Republican - BBC",
-            "description": null,
-            "url": "https://families.google.com/service-restricted",
-            "urlToImage": null,
-            "publishedAt": "2023-05-29T21:06:10Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Adrian Wojnarowski",
-            "title": "Sources - Philadelphia 76ers to hire Nick Nurse as head coach - ESPN - ESPN",
-            "description": "Nick Nurse's desire to coach MVP Joel Embiid and his history with Daryl Morey played a significant part in his decision to commit to a deal with the Sixers, sources said.",
-            "url": "https://www.espn.com/nba/story/_/id/37755448/sources-philadelphia-76ers-hire-nick-nurse-head-coach",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F1023%2Fr616910_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-05-29T20:54:00Z",
-            "content": "The Philadelphia 76ers are hiring Nick Nurse as coach, tasking him with helping to deliver the franchise its first title in 40 years, sources told ESPN on Monday.\r\nThe Sixers and Phoenix Suns were en\u2026 [+1601 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Emily Shapiro, Matt Foster",
-            "title": "2 inmates escape from Mississippi jail weeks after 4 others broke out from same facility - ABC News",
-            "description": "Michael Lewis and Joseph Spring were missing at Monday morning\u2019s headcount.",
-            "url": "https://abcnews.go.com/US/2-inmates-escape-mississippi-jail-weeks-after-4/story?id=99678616",
-            "urlToImage": "https://s.abcnews.com/images/US/hinds-county-sheriff-ht-lv-230529_1685385154714_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-05-29T19:33:28Z",
-            "content": "Two inmates allegedly escaped from a Mississippi jail on Monday, just weeks after four others broke out from the same facility.\r\nMichael Lewis and Joseph Spring were both found missing during Monday \u2026 [+542 chars]"
+            "author": "Chris Lau",
+            "title": "Snorkeler survives crocodile attack by pulling his head from its jaws - CNN",
+            "description": "An Australian man bitten on the head by a crocodile while snorkeling in the sea off far north Queensland escaped the unusual attack by prizing open the reptile\u2019s jaws.",
+            "url": "https://www.cnn.com/2023/05/30/australia/australia-snorkeler-escapes-crocodile-jaws-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230530162244-sir-charles-gardy-islands.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-30T09:49:00Z",
+            "content": "An Australian man bitten on the head by a crocodile while snorkeling in the sea off far north Queensland escaped the unusual attack by prizing open the reptiles jaws.\r\nMarcus McGowan, a keen surfer a\u2026 [+1639 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Phys.Org"
+                "name": "Usf.edu"
             },
-            "author": "Science X",
-            "title": "One-third of galaxy's most common planets could be in habitable zone - Phys.org",
-            "description": "Our familiar, warm, yellow sun is a relative rarity in the Milky Way. By far the most common stars are considerably smaller and cooler, sporting just half the mass of our sun at most. Billions of planets orbit these common dwarf stars in our galaxy.",
-            "url": "https://phys.org/news/2023-05-one-third-galaxy-common-planets-habitable.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/exoplanets.jpg",
-            "publishedAt": "2023-05-29T19:00:05Z",
-            "content": "Our familiar, warm, yellow sun is a relative rarity in the Milky Way. By far the most common stars are considerably smaller and cooler, sporting just half the mass of our sun at most. Billions of pla\u2026 [+3743 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "NICK EL HAJJ Associated Press",
-            "title": "UAE announces groundbreaking mission to asteroid belt, seeking clues to life's origins - ABC News",
-            "description": "The United Arab Emirates has unveiled plans to send a spaceship to explore the galaxy\u2019s main asteroid belt, the latest space project by the oil-rich nation after it launched the successful Hope spacecraft to Mars in 2020",
-            "url": "https://abcnews.go.com/Business/wireStory/uae-announces-groundbreaking-mission-asteroid-belt-seeking-clues-99679737",
-            "urlToImage": "https://s.abcnews.com/images/International/wirestory_77a5ff6a0948f36e216f2ae6e3b4f23c_12x5_992.jpg",
-            "publishedAt": "2023-05-29T18:49:33Z",
-            "content": "DUBAI, United Arab Emirates -- The United Arab Emirates unveiled plans Monday to send a spaceship to explore the solar system's main asteroid belt, the latest space project by the oil-rich nation aft\u2026 [+3912 chars]"
+            "author": "Associated Press",
+            "title": "DeSantis kicks off his presidential campaign in Iowa as he steps up criticism of Trump - WUSF Public Media",
+            "description": "His two-day trip to the leadoff caucus state starts Tuesday, followed by stops in early primary states New Hampshire and South Carolina later this week.",
+            "url": "https://wusfnews.wusf.usf.edu/politics-issues/2023-05-30/desantis-presidential-campaign-iowa-steps-up-criticism-trump",
+            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/7252c68/2147483647/strip/true/crop/1024x538+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F15%2Fa2562b764efdba2fdb4b48643b2f%2Frondesantis-iowa-ap-053023.jpg",
+            "publishedAt": "2023-05-30T09:29:00Z",
+            "content": "Ron DeSantis plans to kick off his presidential campaign in Iowa on Tuesday, the start of a busy week that will take him to 12 cities in three states as he tests his pitch as the most formidable Repu\u2026 [+5143 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Debby Wu and Vlad Savov",
+            "title": "Nvidia CEO Gets Rock Star Reception in Taiwan With AI Stock Surge - Yahoo Finance",
+            "description": "(Bloomberg) -- Jensen Huang, chief executive officer of chip phenom Nvidia Corp., is getting the kind of treatment usually reserved for celebrities and...",
+            "url": "https://finance.yahoo.com/news/nvidia-ceo-gets-rock-star-062444219.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Cqbgn1JIZB6AZxKytzLlzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDQ-/https://media.zenfs.com/en/bloomberg_markets_842/e913ccd924ea76e6d7469c766d6098b4",
+            "publishedAt": "2023-05-30T09:24:56Z",
+            "content": "(Bloomberg) -- Jensen Huang, chief executive officer of chip phenom Nvidia Corp., is getting the kind of treatment usually reserved for celebrities and sports stars during a trip to Taiwan.\r\nMost Rea\u2026 [+4295 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Joe Sommerlad",
+            "title": "Search of Iowa apartment wreckage is called off amid safety fears \u2013 live - The Independent",
+            "description": "Local residents say Branden Colvin and Ryan Hitchcock are still unaccounted for",
+            "url": "https://www.independent.co.uk/news/world/americas/davenport-apartment-building-collapse-iowa-b2348018.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/29/14/fd49eabdbb2548078c3b4c57b1a7f2e1.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-05-30T09:00:00Z",
+            "content": "The tenants told us the building was going to collapse'\r\nJennifer Smith, whose business is located in the building, said she first heard about the explosion from her husband, who works for Mid-Americ\u2026 [+934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "2023 NBA Eastern Conference finals odds, Game 7 start time: Heat vs. Celtics picks, predictions by top expert - CBS Sports",
-            "description": "Matt Severance locked in his picks and best bets for Game 7 of Boston Celtics vs. Miami Heat in the Eastern Conference finals of the 2023 NBA playoffs",
-            "url": "https://www.cbssports.com/nba/news/2023-nba-eastern-conference-finals-odds-game-7-start-time-heat-vs-celtics-picks-predictions-by-top-expert/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/29/3268c44e-6401-4cbe-9c1b-19e23af9c6ca/thumbnail/1200x675/0e87c455c1d6fde9c275c35f418973ef/bam-adebayo-miami-heat-getty-images.jpg",
-            "publishedAt": "2023-05-29T17:28:00Z",
-            "content": "The Boston Celtics and the Miami Heat duel off in a Game 7 affair with a trip to the 2023 NBA Finals on the line. The Celtics are red-hot right now, winners of three straight matchups in the 2023 Eas\u2026 [+3846 chars]"
+            "title": "Goldilocks Galore: Hundreds of Millions of Planets in the Milky Way Could Potentially Harbor Life - SciTechDaily",
+            "description": "University of Florida astronomers find that hundreds of millions of planets orbiting dwarf stars in the Milky Way could potentially harbor life, occupying a 'Goldilocks' orbit that allows them to withstand extreme tidal forces and retain liquid water, accordi\u2026",
+            "url": "https://scitechdaily.com/goldilocks-galore-hundreds-of-millions-of-planets-in-the-milky-way-could-potentially-harbor-life/",
+            "urlToImage": "https://scitechdaily.com/images/Render-Earth-Like-Exoplanet.jpg",
+            "publishedAt": "2023-05-30T08:43:37Z",
+            "content": "ByUniversity of FloridaMay 30, 2023\r\nA new study suggests that one-third of the planets orbiting common dwarf stars in the Milky Way could potentially harbor life. Dwarf stars are the most common typ\u2026 [+6262 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Apple's original cloud photo sync service shuts down this summer - The Verge",
+            "description": "My Photo Stream, the free cloud-based photo syncing feature Apple launched in 2011 is shutting down in a couple of months\u2019 time on July 26th, according to Apple.",
+            "url": "https://www.theverge.com/2023/5/30/23741976/apple-my-photo-stream-discontinued-july-2023",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ioXP09GeTx3QY0vxAYAfEsMgKUk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951262/VRG_Illo_N_Barclay_1_apple.jpg",
+            "publishedAt": "2023-05-30T08:23:37Z",
+            "content": "Apples original cloud photo sync service shuts down this summer\r\nApples original cloud photo sync service shuts down this summer\r\n / My Photo Stream is being officially discontinued on July 26th with\u2026 [+1905 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Toyota, Daimler in deal to combine Japan truck operations - CNBC",
+            "description": "The companies expect to sign a definitive agreement in the first quarter of next year.",
+            "url": "https://www.cnbc.com/2023/05/30/toyota-daimler-in-deal-to-combine-japan-truck-operations.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107247845-1685433680711-gettyimages-1248985103-DSC_1395-15.jpeg?v=1685433757&w=1920&h=1080",
+            "publishedAt": "2023-05-30T08:02:37Z",
+            "content": "Daimler Truck Holding and Toyota Motor Corp said on Tuesday they had entered a non-binding agreement to combine the businesses of their truck units in Japan.\r\nUnder the memorandum of understanding (M\u2026 [+938 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Aurich Lawson",
+            "title": "Street Fighter 6 is great fun for both casual and dedicated players - Ars Technica",
+            "description": "Capcom breathes new life into its classic fighting game franchise.",
+            "url": "https://arstechnica.com/gaming/2023/05/street-fighter-6-is-great-fun-for-both-casual-and-dedicated-players/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/street-fighter-6-intro-760x380.jpg",
+            "publishedAt": "2023-05-30T07:01:00Z",
+            "content": "3 with \r\nIve had an emotional connection with Street Fighter\u00a0since I was 13 years old.\r\nIt was early March 1991, and my friend and I were celebrating his 14th birthday in Santa Cruz, California, spen\u2026 [+3211 chars]"
         }
     ]
 }
