@@ -4,16 +4,250 @@
     "articles": [
         {
             "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Lisa Mascaro, Kevin Freking",
+            "title": "Ahead of debt ceiling vote, Biden shores up Democrats and McCarthy scrambles for GOP support - The Associated Press",
+            "description": "WASHINGTON (AP) \u2014 Hard-fought to the end, the debt ceiling and budget cuts package  is heading toward a crucial U.S.",
+            "url": "https://apnews.com/article/debt-limit-biden-mccarthy-house-votes-9375cce9b7526b2d0a5728f8d4a18a0a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/05196ab598a5492c81fe69f2bd93a089/3000.jpeg",
+            "publishedAt": "2023-05-31T10:10:28Z",
+            "content": "WASHINGTON (AP) Hard-fought to the end, the debt ceiling and budget cuts package is heading toward a crucial U.S. House vote as President Joe Biden and Speaker Kevin McCarthy assemble a coalition of \u2026 [+5867 chars]"
+        },
+        {
+            "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
             "author": null,
-            "title": "US House poised to vote on urgently needed debt ceiling suspension - Reuters.com",
-            "description": "Legislation brokered by President Joe Biden and House Speaker Kevin McCarthy to lift the $31.4 trillion U.S. debt ceiling and achieve new federal spending cuts passed an important hurdle late on Tuesday, advancing to the full House of Representatives for deba\u2026",
-            "url": "https://www.reuters.com/markets/us/us-debt-ceiling-deal-face-its-first-test-congress-2023-05-30/",
-            "urlToImage": "https://www.reuters.com/resizer/duA-Lwd8M0FiitTm2sjdGu7-0U0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HL7J4NEAE5PPZPTJLXB5UNQB5E.jpg",
-            "publishedAt": "2023-05-31T02:02:00Z",
-            "content": "WASHINGTON, May 30 (Reuters) - Legislation brokered by President Joe Biden and House Speaker Kevin McCarthy to lift the $31.4 trillion U.S. debt ceiling and achieve new federal spending cuts passed a\u2026 [+4837 chars]"
+            "title": "North Korea satellite plunges in sea in 'rushed' failure; more launches expected - Reuters",
+            "description": "A North Korean satellite launch on Wednesday ended in failure, sending the booster and payload plunging into the sea, North Korean state media said, and the South's military said it had recovered parts of the launch vehicle.",
+            "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-space-satellite-skorea-military-2023-05-30/",
+            "urlToImage": "https://www.reuters.com/resizer/xGlL3ZHZkoRN7pQ5UjVfa7h0tc8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6F5PPEG4LVPEJCS5TCZUQOATTI.jpg",
+            "publishedAt": "2023-05-31T09:47:00Z",
+            "content": "SEOUL/TOKYO, May 31 (Reuters) - A North Korean satellite launch on Wednesday ended in failure, sending the booster and payload plunging into the sea, North Korean state media said, and the South's mi\u2026 [+5155 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Bryan Pietsch, Annabelle Timsit",
+            "title": "Russia-Ukraine war news: Rising tensions after Moscow drone attack - The Washington Post",
+            "description": "Civilian homes in Moscow were attacked for the first time since the war began. Kyiv was also reeling from destruction and deadly debris from downed drones.",
+            "url": "https://www.washingtonpost.com/world/2023/05/31/russia-ukraine-war-news/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NMMHNRVBD6RHBVTLBI3KME2W7Q.JPG&w=1440",
+            "publishedAt": "2023-05-31T09:44:00Z",
+            "content": "Tensions remained high after a rare series of drone attacks in Moscow damaged buildings on Tuesday, the first strikes to hit civilian residences in the Russian capital since the invasion of Ukraine i\u2026 [+5982 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Radul Radovanovic",
+            "title": "Ethnic Serbs in Kosovo gather in northern town after clashes with NATO-led peacekeepers - The Associated Press",
+            "description": "ZVECAN, Kosovo (AP) \u2014 Hundreds of ethnic Serbs on Wednesday gathered in a town in northern Kosovo, days after clashes that injured 30 soldiers from a NATO-led peacekeeping force and over 50 Serbs, provoking fears of a renewal of the region's bloody conflicts \u2026",
+            "url": "https://apnews.com/article/kosovo-serbia-nato-confrontation-52f7462d31890879b2de0edb732be830",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0b06ea4a76f1475fa3bad40c98309bed/3000.webp",
+            "publishedAt": "2023-05-31T09:22:30Z",
+            "content": "ZVECAN, Kosovo (AP) Hundreds of ethnic Serbs on Wednesday gathered in a town in northern Kosovo, days after clashes that injured 30 soldiers from a NATO-led peacekeeping force and over 50 Serbs, prov\u2026 [+3492 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Shares drop ahead of US debt ceiling vote; China data rattles nerves - Reuters",
+            "description": "Global shares fell on Wednesday ahead of a crucial vote in Washington on the U.S. debt ceiling, while commodities and the Chinese yuan came under pressure after data highlighted faltering growth in the world\u2019s second-largest economy.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-05-31/",
+            "urlToImage": "https://www.reuters.com/resizer/5oAcH8eADZJR5XHRgYCfPx8ijGQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NACYHEY3JFNEDASRVUMXGCAOOQ.jpg",
+            "publishedAt": "2023-05-31T09:20:00Z",
+            "content": "LONDON, May 31 (Reuters) - Global shares fell on Wednesday ahead of a crucial vote in Washington on the U.S. debt ceiling, while commodities and the Chinese yuan came under pressure after data highli\u2026 [+3802 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee, Lim Hui Jie",
+            "title": "Hong Kong slides to new 2023 low; Asia markets mixed as China's factory activity contracts - CNBC",
+            "description": "Asian markets trade mixed as Republican opposition to the debt ceiling deal grows",
+            "url": "https://www.cnbc.com/2023/05/31/asia-markets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107227505-1681869615602-gettyimages-1172965063-pano0tty001-pano.jpeg?v=1685490158&w=1920&h=1080",
+            "publishedAt": "2023-05-31T08:27:00Z",
+            "content": "American chipmakers embroiled in the U.S.-China chip war are going to push back if Washington imposes more export controls on China, said Carol Schleif, chief investment officer at U.S.-based BMO Fam\u2026 [+1134 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Felicia Schwartz",
+            "title": "Pentagon accuses Chinese fighter jet of 'aggressive' action near US plane - Financial Times",
+            "description": "Defence department says incident took place in South China Sea on Friday",
+            "url": "https://www.ft.com/content/c8b9d754-a782-4f98-8944-881573c606a8",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43815b35-bc9b-4a1d-b6c5-febe1fe8c15e.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-05-31T07:39:25Z",
+            "content": "A Chinese fighter jet performed an unnecessarily aggressive manoeuvre near a US military aircraft that was flying over the South China Sea last week, the Pentagon said on Tuesday.\r\nThe US Indo-Pacifi\u2026 [+3270 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Venice's Grand Canal turns neon green due to fluorescein, officials say - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/05/30/venice-grand-canal-neon-green-fluorescein",
+            "urlToImage": null,
+            "publishedAt": "2023-05-31T07:17:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Rosy Cordero",
+            "title": "\u2018Ted Lasso\u2019 Neatly Wraps Story Of Jason Sudeikis\u2019 Character In Season 3 (And Series?) Finale - Deadline",
+            "description": "SPOILER ALERT: The following reveals major plot points from the Season 3 finale of Apple\u2019s Ted Lasso. The biggest question about the Season 3 finale of Apple TV+\u2019s hit Ted Lasso is whet\u2026",
+            "url": "https://deadline.com/2023/05/ted-lasso-season-3-finale-recap-spoilers-1235383274/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/Ted_Lasso_Photo_030904.jpg?w=1024",
+            "publishedAt": "2023-05-31T06:33:00Z",
+            "content": "SPOILER ALERT: The following reveals major plot points from the Season 3 finale of Apple\u2019s Ted Lasso.\r\nThe biggest question about the Season 3 finale of Apple TV+\u2019s hit Ted Lasso is whether or not it\u2026 [+9001 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Andrea Blanco",
+            "title": "Iowa building collapse \u2013 live: Davenport officials stall apartment demolition after admitting five missing - The Independent",
+            "description": "Local residents say Branden Colvin and Ryan Hitchcock are still unaccounted for",
+            "url": "https://www.independent.co.uk/news/world/americas/iowa-apartments-davenport-building-collapse-b2348648.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/29/14/fd49eabdbb2548078c3b4c57b1a7f2e1.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-05-31T06:30:01Z",
+            "content": "Demolition plans laid out as two tenants feared trapped under wreckage \r\nFire Marshall J Morris said on Tuesday that authorities faced a challenging decision, as experts recommend a demolition as soo\u2026 [+2700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX launches 52 Starlink satellites, lands rocket on ship at sea - Space.com",
+            "description": "Starlink satellites keep going up.",
+            "url": "https://www.space.com/spacex-starlink-launch-group-2-10",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/i7e82vWgsFm6KLUpzNxJqQ-1200-80.jpeg",
+            "publishedAt": "2023-05-31T06:28:41Z",
+            "content": "SpaceX launched 52 more of its Starlink broadband satellites early Wednesday morning (May 31) and landed the returning rocket on a ship at sea.\r\nA Falcon 9 rocket topped with the 52 Starlink spacecra\u2026 [+2198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "As 76ers' new coach, Nick Nurse is tasked with taking a theoretically top-tier team to the top ... again - CBS Sports",
+            "description": "The 2020 Coach of the Year is going to a new place, but he'll be in a familiar position",
+            "url": "https://www.cbssports.com/nba/news/as-76ers-new-coach-nick-nurse-is-tasked-with-taking-a-theoretically-top-tier-team-to-the-top-again/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/30/5b08014f-baf2-4702-9f88-5d6b4b0ffabe/thumbnail/1200x675/6b672d7e38d8a344ca096a10a5398d6c/nick-nurse-getty-1.png",
+            "publishedAt": "2023-05-31T05:48:00Z",
+            "content": "Nick Nurse understands he's not going to be judged by regular-season wins. He's taking over a team that is perennially near the top of the Eastern Conference standings, but has ended consecutive seas\u2026 [+8156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Wednesday, May 31, 2023 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2023/5/31/23736723/horoscopes-today-wednesday-may-31-2023",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/e5a86f5/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FeKCl0cijSN2Y3GtypzeJTmVbOn8%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24680557%2FGeorgia_mug.jpeg",
+            "publishedAt": "2023-05-31T05:02:41Z",
+            "content": "Moon Alert\r\nCaution! Avoid shopping or major decisions from 9:30 a.m. to 7 p.m. Chicago time. After that, the moon moves from Libra into Scorpio.\r\nAries (March 21-April 19)\r\nA tricky day! Most of thi\u2026 [+3839 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Carly Thomas",
+            "title": "Al Pacino Expecting Child With Girlfriend Noor Alfallah - Hollywood Reporter",
+            "description": "This marks the 83-year-old actor's fourth child, including a daughter he shares with ex-girlfriend Jan Tarrant and twins he shares with Beverly D'Angelo.",
+            "url": "https://www.hollywoodreporter.com/news/general-news/al-pacino-expecting-child-baby-girlfriend-noor-alfallah-1235504052/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/Al-Pacino-getty-1353704069-H-2023.jpg?w=1024",
+            "publishedAt": "2023-05-31T04:56:14Z",
+            "content": "Al Pacino and his girlfriend Noor Alfallah are expecting a child, his rep confirmed to The Hollywood Reporter.\r\nAlthough his rep didn\u2019t share details on their relationship, TMZ, who was the first to \u2026 [+1214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Elon Musk: Tesla boss on first China trip in over three years - BBC",
+            "description": "The multi-billionaire has not yet publicly commented on the visit, which comes amid US-China tensions.",
+            "url": "https://www.bbc.com/news/business-65762114",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/115A1/production/_129937017_1c35036499b393c0bd2a148142e9aa54864c63d8.jpg",
+            "publishedAt": "2023-05-31T04:38:39Z",
+            "content": "Tesla chief executive Elon Musk is in China, as he makes his first trip to the world's second largest economy in over three years.\r\nHe arrived in Beijing on Tuesday and is also expected to visit Tesl\u2026 [+4016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Katherine Donlevy, Marjorie Hernandez",
+            "title": "Nine teens arrested over brutal beating of three Marines on California beach - New York Post ",
+            "description": "Four males and one female were charged with assault with a deadly weapon and were admitted to the juvenile hall, Orange County Sheriff\u2019s Department announced.",
+            "url": "https://nypost.com/2023/05/31/nine-teens-arrested-over-brutal-beating-of-three-marines-on-california-beach/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/marines-beaten-fireworks-comp.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-05-31T04:24:00Z",
+            "content": "Nine teenagers were arrested Tuesday in connection with the brutal on-camera beatdown of three Marines on a California beach over the weekend, authorities said.\r\nFour males and one female were charge\u2026 [+2328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Vincent Goodwill",
+            "title": "NBA Finals matchup of Nuggets-Heat shows why the regular season \u2014 all 82 games \u2014 still matters - Yahoo Sports",
+            "description": "The race to finish the regular season, with the play-in tournament being featured so prominently should mean an end to the criticism of the 82-game schedule.",
+            "url": "https://sports.yahoo.com/nba-finals-matchup-of-nuggets-heat-shows-why-the-regular-season--all-82-games--still-matters-041152572.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zDLUgxcX9qiSBzHLkMY_UA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzI-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/18d0b0a0-f9ff-11ed-9791-8483d732fcc3",
+            "publishedAt": "2023-05-31T04:11:00Z",
+            "content": "That sound of silence is the first day in some time the NBA didnt have a high-stakes competition on the horizon, a much-needed exhale before the Finals begin in two days.\r\nIt hasnt just been the unpr\u2026 [+5797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Webb Space Telescope Detects 6000-Mile Water Plume Jetting From Saturn's Moon Enceladus - SciTechDaily",
+            "description": "Interaction between moon\u2019s plumes and Saturn\u2019s ring system explored with Webb Enceladus\u2014a tiny, icy moon of Saturn\u2014is one of the most intriguing objects in the search for signs of life beyond our own planet. Under a crust of ice lies a global ocean of salty w\u2026",
+            "url": "https://scitechdaily.com/webb-space-telescope-detects-6000-mile-water-plume-jetting-from-saturns-moon-enceladus/",
+            "urlToImage": "https://scitechdaily.com/images/Cassini-Flying-Through-Plumes-on-Enceladus.jpg",
+            "publishedAt": "2023-05-31T03:13:11Z",
+            "content": "BySpace Telescope Science InstituteMay 30, 2023\r\nArtists impression of the Cassini spacecraft flying through plumes erupting from the south pole of Saturns moon Enceladus. These plumes are much like \u2026 [+12425 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Contorno",
+            "title": "DeSantis says he\u2019ll \u2018counterpunch\u2019 against Trump attacks after kicking off 2024 campaign in Iowa - CNN",
+            "description": "Florida Gov. Ron DeSantis said he plans to \u201ccounterpunch\u201d against former President Donald Trump\u2019s attacks after kicking off his 2024 campaign in Iowa on Tuesday.",
+            "url": "https://www.cnn.com/2023/05/30/politics/desantis-iowa-2024/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230530135259-ron-desantis-230310-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-31T02:59:00Z",
+            "content": "Florida Gov. Ron DeSantis said he plans to counterpunch against former President Donald Trumps attacks after kicking off his 2024 campaign in Iowa on Tuesday.\r\nThe Florida governor implicitly poked f\u2026 [+8511 chars]"
         },
         {
             "source": {
@@ -27,240 +261,6 @@
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230529133803-man-chest-pain-stock.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2023-05-31T01:44:00Z",
             "content": "Having a heart attack may put you at risk of accelerated cognitive decline in later years, above and beyond what is considered appropriate for the aging mind, according to a new study.\r\nEveryones bra\u2026 [+3775 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": null,
-            "title": "As SEC schedule debate unfolds, most coaches noncommittal - ESPN - ESPN",
-            "description": "For more than a year, the SEC has been trying to figure out what to do with its schedule starting with the 2024 season when Texas and Oklahoma join to make it a 16-team league with no divisions.",
-            "url": "https://www.espn.com/college-football/story/_/id/37763351/as-sec-football-schedule-debate-unfolds-most-coaches-noncommittal",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0531%2Fr1180445_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-05-31T01:41:00Z",
-            "content": "May 30, 2023, 09:41 PM ET\r\nDESTIN, Fla. -- Kirby Smart sounded ready to be done with the Southeastern Conference's great schedule debate.\r\n\"The most overrated conversation in the world,\" the Georgia \u2026 [+4669 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "",
-            "title": "'Kendall Roy' reveals alternate take in final scene of 'Succession' - CNN",
-            "description": "Actor Jeremy Strong talks to CNN\u2019s Anderson Cooper about the last scene of the series finale of the Emmy Award-winning series \u201cSuccession.\u201d",
-            "url": "https://www.cnn.com/videos/entertainment/2023/05/30/jeremy-strong-kendall-roy-succession-ac360-vpx.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230530210354-kendall-roy.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-31T01:08:07Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Former first lady Rosalynn Carter diagnosed with dementia, family says - NBC News",
-            "description": "Former first lady Rosalynn Carter, wife of former President Jimmy Carter, has been diagnosed with dementia, according to an announcement released by the Cart...",
-            "url": "https://www.youtube.com/watch?v=K3nY6KWutvM",
-            "urlToImage": "https://i.ytimg.com/vi/K3nY6KWutvM/maxresdefault.jpg",
-            "publishedAt": "2023-05-31T01:00:07Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Search crews still looking for survivors after partial collapse of Iowa apartment building - KPIX | CBS NEWS BAY AREA",
-            "description": "Despite search crews previously saying there was nobody still inside, at least one additional survivor was rescued from a collapsed apartment building in Dav...",
-            "url": "https://www.youtube.com/watch?v=T3Nt4wG0dVU",
-            "urlToImage": "https://i.ytimg.com/vi/T3Nt4wG0dVU/maxresdefault.jpg",
-            "publishedAt": "2023-05-31T00:43:25Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Sherri Shepherd's Wig FALLS OFF on Live TV - Entertainment Tonight",
-            "description": "Sherri Shepherd's wig falls off as she films her talk show, 'Sherri.\u2019 The moment comes while the comedian praises Sarah Jakes Roberts, who endured a similar ...",
-            "url": "https://www.youtube.com/watch?v=NUMGA1jZLeM",
-            "urlToImage": "https://i.ytimg.com/vi/NUMGA1jZLeM/maxresdefault.jpg",
-            "publishedAt": "2023-05-31T00:30:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "North Korea says satellite launch suffered malfunction - Reuters.com",
-            "description": "A North Korean satellite launch on Wednesday ended in failure after the rocket's second stage malfunctioned, sending the booster and payload plunging into the sea, North Korean state media said.",
-            "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-space-satellite-skorea-military-2023-05-30/",
-            "urlToImage": "https://www.reuters.com/resizer/o45Z-KlTo0PPmPjqFiirbL5_tAE=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2RIUIUDU4FJADHGR4C4DUATMV4.jpg",
-            "publishedAt": "2023-05-31T00:20:00Z",
-            "content": "SEOUL/TOKYO, May 31 (Reuters) - A North Korean satellite launch on Wednesday ended in failure after the rocket's second stage malfunctioned, sending the booster and payload plunging into the sea, Nor\u2026 [+3199 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "Ukraine Russia war live updates: Moscow hit with drone attack - USA TODAY",
-            "description": "At least eight armed Ukrainian drones targeted the Moscow region early Tuesday, Russian authorities said, damaging several buildings. Updates.",
-            "url": "https://www.usatoday.com/story/news/world/2023/05/30/ukraine-russia-war-live-updates/70267805007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/30/USAT/8435e8ce-23e2-4163-b219-7899d3b34fda-AP_Russia_Ukraine_11.jpg?auto=webp&crop=5049,2841,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2023-05-31T00:10:09Z",
-            "content": "At least eight armed Ukrainian drones targeted the Moscow region early Tuesday, Russian authorities said, damaging several buildings and bringing the war home to Russia after 15 months of destruction\u2026 [+8032 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Dan Lamothe",
-            "title": "U.S. Air Force captures Chinese plane's \u2018aggressive maneuver' on video - The Washington Post",
-            "description": "The Pentagon released video appearing to show a Chinese military jet intercepting a U.S. surveillance plane over the South China Sea.",
-            "url": "https://www.washingtonpost.com/national-security/2023/05/30/air-force-china-plane-video-pentagon/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-30-2023/t_a4bc61249b3d4d4b9dc4edd4777a76d8_name_Sequence_04_00_25_51_13_Still013.jpg&w=1440",
-            "publishedAt": "2023-05-31T00:00:26Z",
-            "content": "Comment on this story\r\nComment\r\nU.S. military officials on Tuesday released video of what it said was a Chinese fighter jet conducting an unnecessarily aggressive maneuver near an American surveillan\u2026 [+1742 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Wes Davis, Richard Lawler",
-            "title": "Nvidia became a $1 trillion company thanks to the AI boom - The Verge",
-            "description": "Nvidia has joined other tech companies like Apple and Amazon as members of the $1 trillion valuation club as its stock price has risen sharply due to the boom in generative AI tools that rely on its chips for processing.",
-            "url": "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/d1xigC5rEky-irDkDsbNx63Qty0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002529/acastro_STK083_04.jpg",
-            "publishedAt": "2023-05-30T23:39:39Z",
-            "content": "Nvidia became a $1 trillion company thanks to the AI boom\r\nNvidia became a $1 trillion company thanks to the AI boom\r\n / Even as the market for crypto and gaming PC GPUs has cooled, the AI gold rush \u2026 [+2332 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Aimee Picchi",
-            "title": "AI could pose \"risk of extinction\" akin to nuclear war and pandemics, experts say - CBS News",
-            "description": "Leaders from OpenAI, Google and others involved in artificial intelligence are warning about its potential for societal harm.",
-            "url": "https://www.cbsnews.com/news/ai-risk-of-extinction-warning/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/30/b6bee73f-614d-4bf4-9c9c-236b40f793e1/thumbnail/1200x630/b67df9a2ab281f01fdb948a3e3cbd506/gettyimages-1257903926.jpg",
-            "publishedAt": "2023-05-30T23:38:00Z",
-            "content": "Artificial intelligence could pose a \"risk of extinction\" to humanity on the scale of nuclear war or pandemics, and mitigating that risk should be a \"global priority,\" according to an open letter sig\u2026 [+3107 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Elizabeth Napolitano",
-            "title": "Theranos CEO Elizabeth Holmes starts her 11-year prison sentence today - CBS News",
-            "description": "The disgraced biotech CEO, once compared to Steve Jobs, is now in custody at a Texas prison.",
-            "url": "https://www.cbsnews.com/news/theranos-ceo-elizabeth-holmes-prison-sentence-trial/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/30/cf1d6a23-04b0-463e-823c-83c6e4d103f5/thumbnail/1200x630g2/64e7e029e162392e17f2d1566e34462e/2023-05-30t174517z-2089215883-rc2491aidmot-rtrmadp-3-theranos-holmes.jpg",
-            "publishedAt": "2023-05-30T23:36:00Z",
-            "content": "Former Theranos CEO Elizabeth Holmes was taken into custody Tuesday to begin serving her\u00a011-year sentence\u00a0at a Texas prison for swindling investors of hundreds of millions of dollars and lying about \u2026 [+3644 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Michael Ruiz",
-            "title": "Tennessee woman found in California after violent cross-country road trip caught on cam - Fox News",
-            "description": "Torrance County, New Mexico deputies arrived to find a bloodied Steven Tyler Stratton sitting barefoot on the pavement after a witness allegedly saw him punch Nikki Alcaraz.",
-            "url": "https://www.foxnews.com/us/missing-tennessee-woman-seen-bloody-new-mexico-police-bodycam-cross-country-road-trip",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/Nikki-Alcaraz-and-Steven-Tyler-Stratton-Torrance-NM.jpg",
-            "publishedAt": "2023-05-30T23:15:08Z",
-            "content": "If you or someone you know is suffering from domestic violence, please contact the National Domestic Violence Hotline at 18007997233 (SAFE).\r\nFIRST ON FOX: Police in California on Tuesday said they f\u2026 [+6299 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jesse Pound",
-            "title": "Stock futures are little changed as traders await debt ceiling progress in Washington: Live updates - CNBC",
-            "description": "The move in futures comes after a muted day of trading on Tuesday that saw the Dow shed about 50 points while the Nasdaq Composite rose 0.3%.",
-            "url": "https://www.cnbc.com/2023/05/30/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107248085-1685462633321-Traders-OB-Photo-MW-20230530-0050-PRESS-2772.jpg?v=1685484183&w=1920&h=1080",
-            "publishedAt": "2023-05-30T22:42:00Z",
-            "content": "Stock futures were flat on Tuesday evening as investors kept an eye on the federal debt ceiling debate in Washington ahead of the final trading day of May.\r\nFutures tied to the Dow Jones Industrial A\u2026 [+1424 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Victoria Song",
-            "title": "The Pixel Watch 2 might kiss Samsung chips goodbye to improve battery - The Verge",
-            "description": "Rumor has it that the Pixel Watch 2 will use a Qualcomm Snapdragon W5 Plus chip and sport the Fitbit Sense 2\u2019s cEDA sensor for stress tracking.",
-            "url": "https://www.theverge.com/2023/5/30/23742793/pixel-watch-2-fitbit-sense-2-qualcomm-snapdragon-w5-plus",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/aePYYpzz4KyPMm3LfkUHYbAjgj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24100809/226336_Pixel_Watch_AKrales_0266.jpg",
-            "publishedAt": "2023-05-30T22:31:29Z",
-            "content": "The Pixel Watch 2 might kiss Samsung chips goodbye to improve battery\r\nThe Pixel Watch 2 might kiss Samsung chips goodbye to improve battery\r\n / Rumors say itll opt for Qualcomms new Snapdragon W5 Pl\u2026 [+4539 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Alexandra Bellusci",
-            "title": "Machine Gun Kelly and Megan Fox Are Invincible During London Date Night - E! NEWS",
-            "description": "Machine Gun Kelly and Megan Fox stepped out in London together two weeks after the couple celebrated the Jennifer's Body star's Sports Illustrated Swimsuit cover in New York City.",
-            "url": "https://www.eonline.com/news/1375874/machine-gun-kelly-and-megan-fox-are-invincible-during-london-date-night",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023430/rs_1200x1200-230530132311-1200-Megan-Fox-Machine-Gun-Kelly-LT-053023-BGUS_2652801_0053.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-05-30T22:19:00Z",
-            "content": "The twin flames are burning strong.\r\nWhile in London,\u00a0Machine Gun Kelly and Megan Fox\u00a0stepped out for a chic date night May 30.\u00a0Megan kept it causal in a white tank top, black pants with silver detai\u2026 [+829 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "National Hurricane Center Monitoring Tropical Disturbance In The Gulf - FOX Weather",
-            "description": "The FOX Forecast Center is tracking the potential for tropical development late this week as an area of disturbed weather moves through the Gulf of Mexico an...",
-            "url": "https://www.youtube.com/watch?v=VQPs2nCMwds",
-            "urlToImage": "https://i.ytimg.com/vi/VQPs2nCMwds/maxresdefault.jpg",
-            "publishedAt": "2023-05-30T22:15:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Warriors GM search: Bob Myers endorses Mike Dunleavy Jr. to take over role in Golden State - CBS Sports",
-            "description": "Myers stepped down as Golden State's president Tuesday afternoon",
-            "url": "https://www.cbssports.com/nba/news/warriors-gm-search-bob-myers-endorses-mike-dunleavy-jr-to-take-over-role-in-golden-state/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/30/1377dc38-4c82-4eed-ac0c-dabc389830b9/thumbnail/1200x675/0c5f0cc57456a13e36bdae979bf0500e/dunleavy-warriors-getty.png",
-            "publishedAt": "2023-05-30T21:52:04Z",
-            "content": "As the Golden State Warriors embark on a new era after team president and general manager Bob Myers announced he was stepping down Tuesday afternoon, there's already a potential name that could repla\u2026 [+2099 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Russia, Ukraine fail to embrace IAEA plan to protect nuclear plant - Reuters.com",
-            "description": "Neither Russia nor Ukraine committed to respect five principles laid out by International Atomic Energy Agency (IAEA) chief Rafael Grossi on Tuesday to try to safeguard Ukraine's Russian-occupied Zaporizhzhia nuclear power plant.",
-            "url": "https://www.reuters.com/world/europe/un-nuclear-watchdog-asks-russia-ukraine-protect-zaporizhzhia-plant-2023-05-30/",
-            "urlToImage": "https://www.reuters.com/resizer/QbUGt-OXuMImdYuxu82xgRJAVgM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUGCXC2VVZM33MD33CFXSME3GI.jpg",
-            "publishedAt": "2023-05-30T21:34:00Z",
-            "content": "WASHINGTON, May 30 (Reuters) - Neither Russia nor Ukraine committed to respect five principles laid out by International Atomic Energy Agency (IAEA) chief Rafael Grossi on Tuesday to try to safeguard\u2026 [+2886 chars]"
         }
     ]
 }
