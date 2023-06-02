@@ -1,162 +1,97 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Ed Komenda",
-            "title": "Hundreds of Amazon workers protest company's climate impact, return-to-office mandate - The Associated Press",
-            "description": "SEATTLE (AP) \u2014 Telling executives to \u201cstrive harder,\u201d hundreds of corporate Amazon workers protested what they decried as the company's lack of progress on climate goals and an inequitable return-to-office mandate during a lunchtime demonstration at its Seatt\u2026",
-            "url": "https://apnews.com/article/amazon-seattle-walkout-ebfade076bd529e39b83e2c9edcea9ae",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cc17747157a04594b4bb214d4ec39ea5/3000.webp",
-            "publishedAt": "2023-05-31T21:53:33Z",
-            "content": "SEATTLE (AP) Telling executives to strive harder, hundreds of corporate Amazon workers protested what they decried as the companys lack of progress on climate goals and an inequitable return-to-offic\u2026 [+4732 chars]"
-        },
-        {
-            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Katelyn Polantz,Paula Reid,Kaitlan Collins",
-            "title": "EXCLUSIVE: Trump captured on tape talking about classified document he kept after leaving the White House - CNN",
-            "description": "Federal prosecutors have obtained an audio recording of a summer 2021 meeting where Trump describes a Pentagon document about a potential attack on Iran.",
-            "url": "https://www.cnn.com/2023/05/31/politics/trump-tape-classified-document-iran-milley/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230530164017-01-donald-trump-230313-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-31T21:18:00Z",
-            "content": "Federal prosecutors have obtained an audio recording of a summer 2021 meeting in which former President Donald Trump acknowledges he held onto a classified Pentagon document about a potential attack \u2026 [+7162 chars]"
+            "author": "George Ramsay",
+            "title": "Novak Djokovic stands by Kosovo comments at the French Open - CNN",
+            "description": "Serbian tennis star Novak Djokovic has stood by his decision to send a political message about Kosovo at the French Open.",
+            "url": "https://www.cnn.com/2023/06/01/tennis/novak-djokovic-french-open-kosovo-serbia-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601051122-01-novak-djokovic-053123-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-01T11:34:00Z",
+            "content": "Serbian tennis star Novak Djokovic has stood by his decision to send a political message about Kosovo at the French Open.\r\nAfter his first-round victory on Monday, Djokovic wrote Kosovo is the [heart\u2026 [+2968 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Eamon Javers, Dan Mangan",
-            "title": "JPMorgan CEO Jamie Dimon says other bank exec could have booted Jeffrey Epstein as customer - CNBC",
-            "description": "JPMorgan Chase CEO Jamie Dimon answered questions for lawsuits accusing the bank of enabling and benefiting from sex trafficking by Jeffrey Epstein.",
-            "url": "https://www.cnbc.com/2023/05/31/jpmorgan-ceo-jamie-dimon-jeffrey-epstein-deposition.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106910005-1626175007423-gettyimages-1233713985-AFP_9DG7UF.jpeg?v=1685565965&w=1920&h=1080",
-            "publishedAt": "2023-05-31T20:46:05Z",
-            "content": "JPMorgan Chase CEO Jamie Dimon testified last week that Mary Erdoes, a top executive at the bank who had concerns about sex predator Jeffrey Epstein, had the power to boot him as a long-time customer\u2026 [+5783 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": "Bob Pockrass",
-            "title": "NASCAR levies huge penalty to Chase Briscoe, Stewart-Haas Racing - FOX Sports",
-            "description": "Stewart-Haas Racing was fined $250,000 and docked 120 regular-season points for a counterfeit part found on Chase Briscoe's car.",
-            "url": "https://www.foxsports.com/stories/nascar/nascar-levies-huge-penalty-to-chase-briscoe-stewart-haas-racing",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1408/814/Briscoe-car.jpg?ve=1&tl=1",
-            "publishedAt": "2023-05-31T20:45:31Z",
-            "content": "NASCAR hammered Stewart-Haas Racing with one of its biggest penalties ever including a $250,000 fine and 120 regular-season points after it says it found a counterfeit part in the underwing of the Ch\u2026 [+1686 chars]"
+            "author": "Melissa Repko",
+            "title": "Macy\u2019s slashes its full-year outlook even as earnings beat - CNBC",
+            "description": "Macy's gave a lower sales and earnings forecast for the year as it said discretionary spending slowed in March.",
+            "url": "https://www.cnbc.com/2023/06/01/macys-m-earnings-q1-2023.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107202454-1677782081856-gettyimages-1470785225-img_1254_1zdef6wo.jpeg?v=1685616968&w=1920&h=1080",
+            "publishedAt": "2023-06-01T10:56:08Z",
+            "content": "Macy's shares fell Thursday, as the retailer slashed its full-year outlook and said it saw sales significantly weaken in late March.\r\nThe company's stock dropped as much as 10% in premarket trading e\u2026 [+3840 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "CBS Sports"
             },
-            "author": "Ramin Setoodeh",
-            "title": "\u2018Sex and the City\u2019 Shocker: Kim Cattrall to Return as Samantha Jones With \u2018And Just Like That\u2026\u2019 Cameo (EXCLUSIVE) - Variety",
-            "description": "For one night only, the \u201cSex and the City\u201d universe will be whole again. Variety has learned that Kim Cattrall will reprise her iconic role as Samantha Jones in the Season 2 finale of \u201cAnd Just Lik\u2026",
-            "url": "https://variety.com/2023/tv/news/kim-cattrall-samantha-jones-and-just-like-that-season-2-1235629763/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/05/kimcattrall.png?w=1000&h=563&crop=1",
-            "publishedAt": "2023-05-31T20:45:00Z",
-            "content": "For one night only, the \u201cSex and the City\u201d universe will be whole again. Variety has learned that Kim Cattrall will reprise her iconic role as Samantha Jones in the Season 2 finale of \u201cAnd Just Like \u2026 [+2676 chars]"
+            "author": "",
+            "title": "NBA Finals predictions: Expert picks for Nuggets vs. Heat and 2023 Finals MVP as Denver enters as favorite - CBS Sports",
+            "description": "CBS Sports experts are siding with the Nuggets ahead of the 2023 NBA Finals",
+            "url": "https://www.cbssports.com/nba/news/nba-finals-predictions-expert-picks-for-nuggets-vs-heat-and-2023-finals-mvp-as-denver-enters-as-favorite/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/31/3c239777-864d-428a-8d83-abaa61eed4eb/thumbnail/1200x675/9d856748d14dfa40c1d679dc3c0f84c7/jokic-getty-10.png",
+            "publishedAt": "2023-06-01T10:30:00Z",
+            "content": "The 2023 NBA Finals matchup is set, and for just the second time in history it will include a No. 8 seed. That would be the Miami Heat, who avoided becoming the first team in history to blow a 3-0 se\u2026 [+5004 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Live Science"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Kiley Price",
-            "title": "New 'quasi-moon' discovered near Earth has been travelling alongside our planet since 100 BC - Livescience.com",
-            "description": "Astronomers recently identified asteroid 2023 FW13 as a quasi-moon, a space rock orbiting the sun nearly in tandem with Earth.",
-            "url": "https://www.livescience.com/space/the-moon/new-quasi-moon-discovered-near-earth-has-been-travelling-alongside-our-planet-since-100-bc",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CJN3wQQFVXTwZ37rUS7pM5-1200-80.jpg",
-            "publishedAt": "2023-05-31T20:41:06Z",
-            "content": "Scientists recently discovered an asteroid that tags along with Earth during its yearly journey around the sun.\u00a0\r\nDubbed 2023 FW13, the space rock is considered a \"quasi-moon\" or \"quasi-satellite,\" m\u2026 [+2265 chars]"
+            "author": null,
+            "title": "Body of Missouri ER doctor John Forsyth found in Arkansas lake by kayaker - CBS News",
+            "description": "John Forsyth had recently become engaged to be married, his brother said, and his fianc\u00e9e was the last known person to communicate with him.",
+            "url": "https://www.cbsnews.com/news/john-forsyth-missouri-er-doctor-found-dead-arkansas-lake-kayaker-family-foul-play/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/ae534c53-b021-4aa0-8c26-481b16f6d25c/thumbnail/1200x630/a9f121196d19d6e3715d14479c140d1e/forsyth-ap23150829404383.jpg",
+            "publishedAt": "2023-06-01T10:24:25Z",
+            "content": "A missing emergency room doctor from Missouri was\u00a0found dead\u00a0in Arkansas from an apparent gunshot wound, authorities confirmed Wednesday. But they are still investigating what happened in the week si\u2026 [+4385 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Jordan Novet",
-            "title": "Salesforce bumps up full-year forecast but reports higher capital expenses than expected - CNBC",
-            "description": "Salesforce raised its full-year guidance and reported an earnings and revenue beat, but capital costs were higher than expected.",
-            "url": "https://www.cnbc.com/2023/05/31/salesforce-crm-earnings-q1-earnings-report-2024.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107248855-1685562177189-gettyimages-1485563103-dk020141_cdq4ldmt.jpeg?v=1685564711&w=1920&h=1080",
-            "publishedAt": "2023-05-31T20:25:11Z",
-            "content": "Salesforce reported an earnings and revenue beat and lifted its full-year guidance, but the stock dropped in extended trading as capital costs were higher than analysts expected.\r\nHere's how the comp\u2026 [+2426 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jeff Zeleny,Kyung Lah,Veronica Stracqualursi",
-            "title": "Pence to announce 2024 presidential campaign on June 7 - CNN",
-            "description": "Former Vice President Mike Pence will launch his 2024 presidential campaign on June 7 with an announcement video and a speech in Iowa, two sources familiar with the plans tell CNN.",
-            "url": "https://www.cnn.com/2023/05/31/politics/mike-pence-announcement-2024/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230517105312-02-mike-pence-lead-image.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-05-31T20:18:00Z",
-            "content": "Former Vice President Mike Pence will launch his 2024 presidential campaign on June 7 with an announcement video and a speech in Iowa, two sources familiar with the plans tell CNN.\r\nThe announcement,\u2026 [+2594 chars]"
+            "author": "Al Jazeera",
+            "title": "Serbia\u2019s Vucic calls for withdrawal of mayors in north Kosovo - Al Jazeera English",
+            "description": "Serbia\u2019s leader suggests \u2018the most powerful move\u2019 to resolve the flare-up of the ethnic tensions in northern Kosovo.",
+            "url": "https://www.aljazeera.com/news/2023/6/1/serbias-vucic-calls-for-withdrawal-of-mayors-in-north-kosovo",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-01T063704Z_1482376872_RC25A1AVMAI7_RTRMADP_3_KOSOVO-SERBS-VIOLENCE-1685611156.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-06-01T10:00:54Z",
+            "content": "Serbian President Aleksandar Vucic has called on Kosovo authorities to withdraw what he termed alleged mayors in northern Kosovo to defuse a crisis that has sparked violence.\r\nSpeaking on arrival at \u2026 [+2812 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Space.com"
             },
-            "author": "Mike Wall",
-            "title": "SpaceX's Dragon reentry and splashdown with Ax-2 astronauts looks amazing in these nighttime photos and videos - Space.com",
-            "description": "Ax-2's SpaceX Dragon capsule put on a show during its homecoming late Tuesday night (May 30).",
-            "url": "https://www.space.com/spacex-dragon-ax-2-reentry-splashdown-photos-videos",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CpUcmcAgtyrSqwMfW94mVN-1200-80.jpeg",
-            "publishedAt": "2023-05-31T20:12:17Z",
-            "content": "SpaceX's Dragon capsule Freedom splashed down off the Florida coast late Tuesday night (May 30), wrapping up the Ax-2 private astronaut mission.\r\nFreedom's return to Earth was quite a sight, as foota\u2026 [+3534 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": "Adam Schein",
-            "title": "Bold predictions for 2023 NFL season: Sam Darnold's 49ers top Jets in Super Bowl! Bill Belichick era ends! - NFL.com",
-            "description": "With the 2023 season less than 100 days away, Adam Schein provides his nine boldest predictions. Who's prepared to watch Sam Darnold beat the Jets in Super Bowl LVIII? Is Bill Belichick entering his final season in New England?",
-            "url": "https://www.nfl.com/news/bold-predictions-for-2023-nfl-season-sam-darnold-s-49ers-top-jets-in-super-bowl-",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/ewld8rncqqadfod0baa3",
-            "publishedAt": "2023-05-31T19:45:00Z",
-            "content": "The dynamic dual-threat quarterback is locked in.\r\n\"I've seen a different Josh this offseason -- not that it was bad before, but he's got a new sense of focus and determination, which is good,\" Bills\u2026 [+1434 chars]"
+            "author": "Tereza Pultarova",
+            "title": "Saturn's moon Enceladus is blasting a plume of water 6000 miles high. Could life be lurking under its icy shell? - Space.com",
+            "description": "At 6,000 miles high, the plume is 20 times as wide as the tiny ice-covered moon.",
+            "url": "https://www.space.com/saturn-moon-enceladus-water-plume-james-webb-space-telescope",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hjsK8cjZvL72cShuSH8CFj-1200-80.jpg",
+            "publishedAt": "2023-06-01T10:00:00Z",
+            "content": "The James Webb Space Telescope has found a 6,000 mile-long plume of water squirting into space from Saturn's tiny, ice-covered moon Enceladus, creating a massive watery cloud in the ringed planet's o\u2026 [+3372 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Digital Trends"
+                "name": "CNBC"
             },
-            "author": "Caleb Denison",
-            "title": "Are TCL and Hisense the next LG and Samsung? - Digital Trends",
-            "description": "TCL and Hisense are on the offensive and challenging the status quo with awesomely specced TVs at competitive prices and major brand partnerships.",
-            "url": "https://www.digitaltrends.com/home-theater/are-tcl-and-hisense-the-next-lg-and-samsung/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/05/Hisense-U6K.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2023-05-31T19:00:56Z",
-            "content": "If you had told me 20 years ago or, heck, even 15 that Samsung and LG were going to be the top TV brands in the U.S., Id have laughed in your face. But I feel like Ive learned to see the writing on t\u2026 [+6734 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Mia Sato",
-            "title": "Here's how Instagram recommends the content you see - The Verge",
-            "description": "Instagram\u2019s ranking algorithm has long been scrutinized by users. In a blog post, the company lays out what kind of data it pulls in to decide what content to serve up.",
-            "url": "https://www.theverge.com/2023/5/31/23744125/instagram-algorithm-recommendation-posts-reels-stories-shadow-banning",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/rq6xprLeu3HJPyAx9rDe94jtcPo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932739/acastro_STK070__01.jpg",
-            "publishedAt": "2023-05-31T18:59:50Z",
-            "content": "Heres how Instagram recommends the content you see\r\nHeres how Instagram recommends the content you see\r\n / Instagrams ranking algorithm has long been scrutinized by users. The company lays out a few \u2026 [+2263 chars]"
+            "author": "Elliot Smith",
+            "title": "Moscow does not have a 'veto against NATO enlargement,' NATO's Stoltenberg says - CNBC",
+            "description": "NATO Secretary-General Jens Stoltenberg said Thursday that all NATO allies agree that Russia cannot prevent Ukraine's eventual membership of the military alliance.",
+            "url": "https://www.cnbc.com/2023/06/01/moscow-does-not-have-a-veto-against-nato-enlargement-natos-stoltenberg-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107219237-1680523754984-gettyimages-1250695850-AFP_33CK6CT.jpeg?v=1685611445&w=1920&h=1080",
+            "publishedAt": "2023-06-01T09:24:05Z",
+            "content": "NATO Secretary General Jens Stoltenberg speaks during a press conference to present the next North Atlantic Council (NAC) Ministers of Foreign Affairs meeting at the NATO headquarters in Brussels on \u2026 [+3791 chars]"
         },
         {
             "source": {
@@ -164,103 +99,168 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "UFOs: What we learned from Nasa's public meeting - BBC",
-            "description": "Some sightings turn out to be wayward Bart Simpson balloons. Others remain a mystery.",
-            "url": "https://www.bbc.com/news/world-us-canada-65729356",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CB9F/production/_129872125_gettyimages-72276225.jpg",
-            "publishedAt": "2023-05-31T18:49:47Z",
-            "content": "A Nasa panel investigating unidentified flying objects has collected around 800 mysterious reports - but only a small fraction are truly unexplained, researchers say.\r\nThe agency set up the panel las\u2026 [+3392 chars]"
+            "title": "Donald Trump recorded saying he kept classified file after leaving office - BBC",
+            "description": "Prosecutors investigating the former president's handling of classified files obtain an audio tape.",
+            "url": "https://www.bbc.com/news/world-us-canada-65775163",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA5F/production/_129951634_3bf18672d74cd073b9207d27d82fddbcaaa36e930_166_3605_20291000x563.jpg",
+            "publishedAt": "2023-06-01T09:19:30Z",
+            "content": "US prosecutors have obtained an audio recording of Donald Trump in which he acknowledges keeping a classified document after leaving the White House.\r\nCNN first reported that investigators had the ta\u2026 [+2657 chars]"
         },
         {
             "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Leila Abboud, Henry Foy, Raphael Minder",
-            "title": "Emmanuel Macron backs Nato membership 'path' for Ukraine - Financial Times",
-            "description": "President of France shifts position on Kyiv\u2019s aspirations to join military alliance",
-            "url": "https://www.ft.com/content/2cf5609d-3a2a-4177-8c3b-2336fc61cfa4",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F89bebf03-b872-41bc-b0c0-4c29ce2a158a.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-05-31T17:11:29Z",
-            "content": "Emmanuel Macron, president of France, has for the first time called for Ukraine to be granted a Nato membership path at a critical summit over the future of the alliance and how best to defend Europe\u2026 [+4192 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Marc Lallanilla",
-            "title": "What is HMPV? 'Most important virus you've never heard of' spikes 36%: CDC - New York Post ",
-            "description": "\u201cMany people even in health care are unfamiliar with this virus,\u201d experts warn \u2014 but the disease\u2019s serious complications can lead to hospitalization and, in severe cases, death.",
-            "url": "https://nypost.com/2023/05/31/what-is-hmpv-little-known-virus-cases-are-up-36-this-year/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000011987090.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-05-31T16:55:00Z",
-            "content": "A virus that virtually nobody has ever heard of has spread across the United States, causing a 36% spike in cases in 2023, according to new data from the Centers for Disease Control and Prevention.\r\n\u2026 [+2694 chars]"
+            "author": "Clare Foran,Nicky Robertson",
+            "title": "Senate races to avert default but vote timing unclear for debt limit bill - CNN",
+            "description": "Senators are racing the clock to pass a bill to suspend the nation\u2019s debt limit through January 1, 2025 \u2013 but it\u2019s not yet clear when a final vote will take place as the threat of default looms.",
+            "url": "https://www.cnn.com/2023/06/01/politics/senate-vote-debt-limit-latest/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221208093825-01-chuck-schumer-1207.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-01T09:00:00Z",
+            "content": "Senators are racing the clock to pass a bill to suspend the nations debt limit through January 1, 2025 but its not yet clear when a final vote will take place as the threat of default looms.\r\nOnce th\u2026 [+2152 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sports Illustrated"
+                "name": "BBC News"
             },
-            "author": "Chris Mannix",
-            "title": "Scouting Report: An NBA Coach Weighs In on Heat-Nuggets NBA Finals - Sports Illustrated",
-            "description": "What to expect when Denver and Miami meet with a title on the line.",
-            "url": "https://www.si.com/nba/2023/05/31/heat-nuggets-nba-finals-prediction-scouts-take",
-            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk4MzM4MDYxMTQ1MjIwOTQ5/nikola-jokic-jimmy-butler-nuggets-heat.jpg",
-            "publishedAt": "2023-05-31T16:54:42Z",
-            "content": "The\u00a0Nuggets\u00a0and\u00a0Heat\u00a0will meet for Game 1 of the NBA Finals in Denver on Thursday. The Nuggets, a 53-win team during the regular season, have mowed down the opposition en route to the first Finals ap\u2026 [+6083 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Armie Hammer: US actor will not be charged with sexual assault - BBC",
+            "description": "The US actor faced an accusation of rape an allegations he sent a string of explicit messages online.",
+            "url": "https://www.bbc.com/news/entertainment-arts-65775249",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1625B/production/_129951709_armiegettyimages-1089794850.jpg",
+            "publishedAt": "2023-06-01T08:41:31Z",
+            "content": "US actor Armie Hammer will not be charged over allegations of sexual assault, prosecutors have confirmed.\r\nThe Social Network star was accused two years ago of raping a woman in Los Angeles in 2017.\r\u2026 [+2934 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "Global equities, US yields fall ahead of debt ceiling vote - Reuters",
-            "description": "Global equities and U.S. Treasury yields were lower on Wednesday as risk-off sentiment dominated markets, with investors focused on a much-anticipated vote in Congress on raising the U.S. debt ceiling.",
-            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-05-31/",
-            "urlToImage": "https://www.reuters.com/resizer/5oAcH8eADZJR5XHRgYCfPx8ijGQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NACYHEY3JFNEDASRVUMXGCAOOQ.jpg",
-            "publishedAt": "2023-05-31T16:29:00Z",
-            "content": "NEW YORK, May 31 (Reuters) - Global equities and U.S. Treasury yields were lower on Wednesday as risk-off sentiment dominated markets, with investors focused on a much-anticipated vote in Congress on\u2026 [+2330 chars]"
+            "author": "Hilary Whiteman",
+            "title": "Australia\u2019s most decorated soldier loses multiple defamation claims against media who accused him of war crimes - CNN",
+            "description": "Australia\u2019s most decorated soldier lost a multi-million dollar defamation case against three newspapers who accused him of committing war crimes in Afghanistan \u2013 including the murder of unarmed prisoners \u2013 as a judge ruled their reports met the standards of t\u2026",
+            "url": "https://www.cnn.com/2023/06/01/australia/australia-ben-roberts-smith-verdict-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601085419-smith-with-lawyer-arthur-moses.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-01T08:29:00Z",
+            "content": "Australias most decorated soldier lost a multi-million dollar defamation case against three newspapers who accused him of committing war crimes in Afghanistan including the murder of unarmed prisoner\u2026 [+6508 chars]"
         },
         {
             "source": {
-                "id": "engadget",
-                "name": "Engadget"
+                "id": "axios",
+                "name": "Axios"
             },
-            "author": null,
-            "title": "Apple WWDC 2023: What to expect, from iOS 17 to new MacBooks - Engadget",
-            "description": "Apple's WWDC 2023 begins June 5th \u2014 here's what to expect, including a mixed reality headset..",
-            "url": "https://www.engadget.com/apple-wwdc-2023-what-to-expect-from-ios-17-to-new-macbooks-160033810.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/w5eokYEru719pqXSfleocA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/989f60f0-ce54-11ed-ae79-580cd063061e.cf.jpg",
-            "publishedAt": "2023-05-31T16:02:50Z",
-            "content": "Apples Worldwide Developers Conference regularly sets the tone for the companys future, and that may be truer than ever for 2023. Many expect the company to introduce its first mixed reality headset \u2026 [+7067 chars]"
+            "author": "Axios",
+            "title": "Amazon to pay over $30 million in FTC settlements over Ring, Alexa privacy violations - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/05/31/ftc-ring-employees-illegally-accessed-user-private-videos",
+            "urlToImage": null,
+            "publishedAt": "2023-06-01T07:39:51Z",
+            "content": null
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Chris Pandolfo",
-            "title": "Former Trump budget director says GOP lawmaker joined the 'dark side' by voting for Biden-McCarthy deal - Fox News",
-            "description": "Kentucky Republican Representative Thomas Massie has come under fire from conservatives for voting to advance the Biden-McCarthy debt limit deal.",
-            "url": "https://www.foxnews.com/politics/former-trump-budget-director-gop-lawmaker-joined-dark-side-voting-biden-mccarthy-deal",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/rep-thomas-massie-house-gop-debt-deal.jpg",
-            "publishedAt": "2023-05-31T16:02:00Z",
-            "content": "Conservatives are furious at Rep. Thomas Massie, R-Ky., for what they see as a betrayal after he voted for the debt limit agreement reached by President Biden and House Speaker Kevin McCarthy, R-Cali\u2026 [+4057 chars]"
+            "author": "Andrea Blanco",
+            "title": "Survivor lost leg in rescue as two others feared trapped in Davenport wreckage - The Independent",
+            "description": "Building owner Andrew Wold facing a fine as cause of collapse remains undetermined",
+            "url": "https://www.independent.co.uk/news/world/americas/iowa-building-collapse-cause-davenport-apartment-b2349386.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/29/14/fd49eabdbb2548078c3b4c57b1a7f2e1.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-06-01T05:30:28Z",
+            "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nA resident of the collapsed building in Davenport, Iowa, had her leg am\u2026 [+8844 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tampa Bay Times"
+            },
+            "author": "Associated  Press",
+            "title": "Watch: Florida woman drives of up ramp of tow truck, rockets 120 feet down highway - Tampa Bay Times",
+            "description": "The car she was driving launched 120 feet down the highway, police reported.",
+            "url": "https://www.tampabay.com/news/nation-world/2023/05/31/watch-florida-woman-drives-up-ramp-tow-truck-rockets-120-feet-down-highway/",
+            "urlToImage": "https://www.tampabay.com/resizer/VEeUmCl20SNK6_A2nJsZgypSaOw=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/TMKLFFRLIVFAHMQIBDOANJREKA.jpg",
+            "publishedAt": "2023-06-01T04:05:06Z",
+            "content": "VALDOSTA, Georgia It looks like a scene from a Hollywood blockbuster. A sedan rockets into the air after driving up the ramp of a flatbed tow truck on a Georgia highway. And the whole crash is caught\u2026 [+1199 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "Lisa Mascaro, Kevin Freking, Stephen Groves",
-            "title": "As House debt ceiling vote nears, Biden shores up Democrats and McCarthy scrambles for GOP support - The Associated Press",
-            "description": "WASHINGTON (AP) \u2014 Hard-fought to the end, the big debt ceiling and budget cuts package  headed toward a crucial House vote Wednesday as President Joe Biden and Speaker Kevin McCarthy assembled a coalition of centrist Democrats and Republicans for passage over\u2026",
-            "url": "https://apnews.com/article/debt-limit-biden-mccarthy-house-votes-9375cce9b7526b2d0a5728f8d4a18a0a",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/05196ab598a5492c81fe69f2bd93a089/3000.jpeg",
-            "publishedAt": "2023-05-31T15:43:05Z",
-            "content": "WASHINGTON (AP) Hard-fought to the end, the big debt ceiling and budget cuts package headed toward a crucial House vote Wednesday as President Joe Biden and Speaker Kevin McCarthy assembled a coaliti\u2026 [+5807 chars]"
+            "author": "Rob Gillies",
+            "title": "In Canada, each cigarette will get a warning label: 'poison in every puff' - The Associated Press",
+            "description": "TORONTO (AP) \u2014 Canada will soon become the first country in the world where warning labels must appear on individual cigarettes.  The move was first announced last year by Health Canada and is aimed at helping people quit the habit.",
+            "url": "https://apnews.com/article/canada-cigarette-warnings-62c34dadf615642d7655c2e8f5e5e635",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f430a50eaecb48eaab8ed63b3d28ed79/1049.webp",
+            "publishedAt": "2023-06-01T03:32:23Z",
+            "content": "TORONTO (AP) Canada will soon become the first country in the world where warning labels must appear on individual cigarettes. \r\nThe move was first announced last year by Health Canada and is aimed a\u2026 [+1653 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Huileng Tan",
+            "title": "JPMorgan CEO Jamie Dimon is considering getting into politics - Business Insider",
+            "description": "Just last Monday, he said at JPMorgan's investor day that he plans to stay at the bank for another three-and-a-half years, per Reuters.",
+            "url": "https://www.businessinsider.com/jpmorgan-ceo-jamie-dimon-considers-politics-bill-ackman-president-election-2023-6",
+            "urlToImage": "https://i.insider.com/640f81c5a3b2a10018b2bf22?width=1200&format=jpeg",
+            "publishedAt": "2023-06-01T03:32:00Z",
+            "content": "JPMorgan CEO Jamie Dimon has hinted that he may be getting into politics after retiring from his banking career.\r\n\"Obviously, it's crossed my mind because people mention things to you and stuff like \u2026 [+1601 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Jacob Stolworthy",
+            "title": "Ted Lasso finale: Jason Sudeikis sheds light on whether this is the end of the Apple TV+ series - The Independent",
+            "description": "Actor said he\u2019s \u2018flattered\u2019 by fan desire for more episodes",
+            "url": "https://www.independent.co.uk/arts-entertainment/tv/news/ted-lasso-finale-easter-eggs-season-3-ending-b2349354.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/31/08/newFile.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-06-01T03:29:14Z",
+            "content": "Sign up to our free IndyArts newsletter for all the latest entertainment news and reviews\r\nSign up to our free IndyArts newsletter\r\nJason Sudeikis has opened up about whether the Ted Lasso season thr\u2026 [+1775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "fox8.com"
+            },
+            "author": "Melissa Reid",
+            "title": "Extra bad allergies this season? Specialists explain why - WJW FOX 8 News Cleveland",
+            "description": "Allergy season is hitting hard for many people across Northeast Ohio right now.",
+            "url": "https://fox8.com/news/extra-bad-allergies-this-season-specialists-explain-why/",
+            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2023/05/GettyImages-482561024-1.jpg?w=1280",
+            "publishedAt": "2023-06-01T02:42:11Z",
+            "content": "CLEVELAND (WJW) \u2013 Allergy season is hitting hard for many people across Northeast Ohio right now.\r\nThe forecast is near perfect for Affordable Fencing in Parma, except for the workers with seasonal a\u2026 [+1396 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "BREAKING: Debt ceiling bill passes the House - NBC News",
+            "description": "The House has passed the bill to raise the debt ceiling after clenching the 218 majority vote needed for passage. The bill now heads to the Senate for a vote...",
+            "url": "https://www.youtube.com/watch?v=Rj4mfXU9UnI",
+            "urlToImage": "https://i.ytimg.com/vi/Rj4mfXU9UnI/maxresdefault.jpg",
+            "publishedAt": "2023-06-01T02:13:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Three reported killed in latest aerial attack on Ukraine\u2019s Kyiv - Al Jazeera English",
+            "description": "An 11-year-old girl, her mother, and another woman killed in latest Russian air attack on the Ukrainian capital.",
+            "url": "https://www.aljazeera.com/news/2023/6/1/three-reported-killed-in-latest-aerial-attack-on-ukraines-kyiv",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-01T032718Z_63149406_RC21A1AWOHL4_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1685592919.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-06-01T02:11:10Z",
+            "content": "A mother and her 11-year-old daughter were among three people reported killed and at least 10 injured in a Russian missile attack on Ukraines capital Kyiv, city officials say.\r\nThursdays attack, whic\u2026 [+2724 chars]"
         }
     ]
 }
