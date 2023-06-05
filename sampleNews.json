@@ -4,120 +4,16 @@
     "articles": [
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "The Associated Press",
-            "title": "Wegmans is closing one of its largest grocery stores. Its unusual location hurt business - ABC News",
-            "description": "The Wegmans supermarket chain is closing one of its largest and most unusual stores because it has not attracted enough business",
-            "url": "https://abcnews.go.com/US/wireStory/wegmans-close-natick-massachusetts-store-slow-business-99788960",
-            "urlToImage": "https://s.abcnews.com/images/US/wirestory_508bbf4866262825cac1d5fbdf04c391_16x9_992.jpg",
-            "publishedAt": "2023-06-03T11:43:03Z",
-            "content": "NATICK, Mass. -- The Wegmans supermarket chain is closing one of its largest and most unusual stores because it has not attracted enough business, the company said.\r\nThe Natick, Massachusetts store w\u2026 [+1013 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Mallika Soni",
-            "title": "Watch: \u2018Chop chop\u2019, Prince William tells Kate at Jordan royal wedding when\u2026 - Hindustan Times",
-            "description": "Jordan Royal Wedding: Prince William was seen waiting and looking at his wife for a brief moment. | World News",
-            "url": "https://www.hindustantimes.com/world-news/watch-chop-chop-prince-william-tells-kate-middleton-at-jordan-royal-wedding-when-101685790312773.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/06/03/1600x900/JORDAN-ROYALS-WEDDING-37_1685791551367_1685791588910.jpg",
-            "publishedAt": "2023-06-03T11:41:41Z",
-            "content": "Prince William was spotted telling his wife Kate Middleton to wrap up her conversation with the now-Princess of Jordan, Rajwa Al Saif, while attending the royal wedding. The couple made a surprise ap\u2026 [+1588 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Nick Robins-Early",
-            "title": "Amazon and Google fund anti-abortion lawmakers through complex shell game - The Guardian",
-            "description": "Blue-chip companies gave to Republican group funneling money to lawmakers who overturned abortion-ban veto in North Carolina",
-            "url": "https://www.theguardian.com/world/2023/jun/03/anti-abortion-lawmakers-donation-amazon-google-comcast",
-            "urlToImage": "https://i.guim.co.uk/img/media/1cd7ff3d8c6babe3ee1f0993082b5be9d3dca5c8/0_177_5311_3187/master/5311.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6c2b610dd80f731965803bfff7a7fc1",
-            "publishedAt": "2023-06-03T11:37:00Z",
-            "content": "As North Carolinas 12-week abortion ban is due to come into effect on 1 July, an analysis from the non-profit Center for Political Accountability (CPA) shows several major corporations donated large \u2026 [+10298 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Kari Paul",
-            "title": "Robot takeover? Not quite. Here\u2019s what AI doomsday would look like - The Guardian",
-            "description": "Experts say the fallout from powerful AI will be less a nuclear bomb and more a creeping deterioration of society",
-            "url": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
-            "urlToImage": "https://i.guim.co.uk/img/media/e5f4d936222873ba23161480fa267f6fb1ead285/0_380_5700_3420/master/5700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0652b99145113ec03ec74560409cb575",
-            "publishedAt": "2023-06-03T11:00:00Z",
-            "content": "Alarm over artificial intelligence has reached a fever pitch in recent months. Just this week, more than 300 industry leaders published a letter warning AI could lead to human extinction and should b\u2026 [+9827 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "They plugged GPT-4 into Minecraft\u2014and unearthed new potential for AI - Ars Technica",
-            "description": "The bot plays the video game by tapping the text generator to pick up new skills, suggesting that the tech behind ChatGPT could automate many workplace tasks.",
-            "url": "https://www.wired.com/story/fast-forward-gpt-4-minecraft-chatgpt/",
-            "urlToImage": "https://media.wired.com/photos/6477eb69f2de86183cf5b41e/191:100/w_1280,c_limit/Plugging-ChatGPT-Into-Minecraft-Business.jpg",
-            "publishedAt": "2023-06-03T10:54:06Z",
-            "content": "The technology that underpins ChatGPT has the potential to do much more than just talk.\u00a0Linxi Jim Fan, an AI researcher at the chipmaker\u00a0Nvidia, worked with some colleagues to devise a way to set the\u2026 [+3529 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Endpoints News"
-            },
-            "author": "Ryan Cross",
-            "title": "Grail's blood test charts path for diagnosing patients suspected of having cancer in large study: #ASCO23 - Endpoints News",
-            "description": "Grail\u2019s vision is simple but bold. The blood testing company has long held that people are often diagnosed with cancer too late. If seemingly healthy people were screened for early signs of the disease before symptoms appear, they may be able to get more effe\u2026",
-            "url": "https://endpts.com/grail-presents-results-of-blood-test-study-in-patients-suspected-of-cancer-asco23/",
-            "urlToImage": "https://endpts.com/wp-content/uploads/2023/06/Grail-tile-website1.jpg",
-            "publishedAt": "2023-06-03T09:56:15Z",
-            "content": "Illumina\u2019s board appointed two new members, including Hologic CEO Stephen MacMillan as the non-executive chair, a move that followed a proxy fight that saw shareholders oust the company\u2019s board chair\u2026 [+708 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Thomas Schlachter",
-            "title": "Stanley Cup Final: How to watch and all you need to know ahead of NHL\u2019s end of season showcase - CNN",
-            "description": "The 2023 Stanley Cup Final gets underway Saturday as the Vegas Golden Knights take on the Florida Panthers in the NHL\u2019s end of season showcase.",
-            "url": "https://www.cnn.com/2023/06/03/sport/nhl-stanley-cup-golden-knights-panthers-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230602133554-matthew-tkachuk-jonathan-marchessault-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-03T08:07:00Z",
-            "content": "The 2023 Stanley Cup Final gets underway Saturday as the Vegas Golden Knights take on the Florida Panthers in the NHLs end of season showcase.\r\nThe Knights go into the final as heavy favorites with m\u2026 [+3914 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Samantha Schmidt, Kostiantyn Khudov",
-            "title": "A night in Ukraine's sleepless capital, taking cover from Russian bombs - The Washington Post",
-            "description": "Kyiv has suffered 20 air attacks in the past month. Each time the air alarm echoes, families must instantly decide where to take cover, how quickly, and for how long.",
-            "url": "https://www.washingtonpost.com/world/2023/06/03/night-ukraines-sleepless-capital-taking-cover-russian-bombs/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZQPM3PGJHYBKIRXFIENN4CWQU.jpg&w=1440",
-            "publishedAt": "2023-06-03T08:00:00Z",
-            "content": "Comment on this story\r\nComment\r\nKYIV, Ukraine Each time the sirens wake Viktoriia Pysmenna, shefollows the same drill. Desperate for more sleep, the 35-year-old single mother rolls over, scrolls thro\u2026 [+8413 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Rhea Mogul,Sandi Sidhu,Teele Rebane,Manveena Suri",
-            "title": "Desperate search for survivors as death toll nears 300 in India train crash - CNN",
-            "description": "Rescuers in India are scrambling to find survivors after a crash involving three trains killed hundreds of people in one of the worst rail disasters the country has ever seen.",
-            "url": "https://www.cnn.com/2023/06/03/india/india-odisha-train-crash-saturday-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230602133537-02-balasore-odisha-india-train-crash-060223.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-03T07:10:00Z",
-            "content": "Rescuers in India are scrambling to find survivors after a crash involving three trainskilled hundreds of people in one of the worst rail disasters the country has ever seen.\r\nAt least 288 peoplehave\u2026 [+6137 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Li Shangfu: China's defence minister at Shangri-La Dialogue warns of 'cold war mentality' in digs at US - The Guardian",
+            "description": "After refusing to meet with his US counterpart, general says \u2018some countries\u2019 interfering in others\u2019 business but Beijing does not seek confrontation",
+            "url": "https://www.theguardian.com/world/2023/jun/04/li-shangfu-chinas-defence-minister-at-shangri-la-dialogue-warns-of-cold-war-mentality-in-digs-at-us",
+            "urlToImage": "https://i.guim.co.uk/img/media/31669a7954e77caa0d3de70918db748bef2e6715/0_0_5448_3269/master/5448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48f0628f97db3c07417134b8e0a77df3",
+            "publishedAt": "2023-06-04T02:11:00Z",
+            "content": "Chinas defence minister, Li Shangfu, has said a cold war mentality is resurgent in the Asia-Pacific region, but Beijing seeks dialogue over confrontation. The remarks came after Li refused to formall\u2026 [+2703 chars]"
         },
         {
             "source": {
@@ -125,103 +21,90 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Zelenskiy says Ukraine ready to launch counteroffensive - Reuters",
-            "description": "Ukraine is ready to launch its long-awaited counteroffensive to recapture Russian-occupied territory, President Volodymyr Zelenskiy said in an interview published on Saturday.",
-            "url": "https://www.reuters.com/world/europe/zelenskiy-says-ukraine-ready-launch-counteroffensive-2023-06-03/",
-            "urlToImage": "https://www.reuters.com/resizer/ZCDcVKLdwPglorqaMh-d8CU1LXs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GOAUOBJPTRJ2XPRQESPJWERF7U.jpg",
-            "publishedAt": "2023-06-03T07:07:02Z",
-            "content": "KYIV, June 3 (Reuters) - Ukraine is ready to launch its long-awaited counteroffensive to recapture Russian-occupied territory, President Volodymyr Zelenskiy said in an interview published on Saturday\u2026 [+1311 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Roman Reigns deals with The Bloodline dissension: SmackDown Highlights, June 2, 2023 - WWE",
-            "description": "Check out how Roman Reigns decides to deal with The Usos on the same day that he celebrates his historic 1,000-day reign as Undisputed WWE Universal Champion...",
-            "url": "https://www.youtube.com/watch?v=OjztuNgMAvw",
-            "urlToImage": "https://i.ytimg.com/vi/OjztuNgMAvw/maxresdefault.jpg",
-            "publishedAt": "2023-06-03T04:15:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Suspect captured in fatal shooting of West Virginia officer - CBS News",
-            "description": "The shooting happened in the same county where a sheriff was shot to death\u200b in 2013.",
-            "url": "https://www.cbsnews.com/news/cory-maynard-west-virginia-officer-fatal-shooting-suspect-arrested-beech-creek/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/04/14/e9e25cc1-f0fd-49db-bdb4-7ecd334dad07/thumbnail/1200x630/b63e4fa5be942405fd130f470967752f/gettyimages-1354821469.jpg",
-            "publishedAt": "2023-06-03T03:48:00Z",
-            "content": "A state police officer was fatally shot Friday in southern West Virginia, and a suspect was later arrested, authorities said. \r\nSgt. Cory Maynard was killed in the shooting, Gov. Jim Justice said in \u2026 [+2276 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Spaceflight Now"
-            },
-            "author": null,
-            "title": "Third set of upgraded solar arrays ready for ride to International Space Station \u2013 Spaceflight Now - Spaceflight Now",
-            "description": null,
-            "url": "https://spaceflightnow.com/2023/06/02/third-set-of-upgraded-solar-arrays-ready-for-ride-to-international-space-station/",
-            "urlToImage": null,
-            "publishedAt": "2023-06-03T03:17:15Z",
-            "content": "Update at 6:30 a.m. EDT (1030 UTC): SpaceX has announced the launch has been delayed until Sunday \u201cto allow more time for vehicle preparations and for weather conditions to improve\u201d. Launch time on S\u2026 [+10257 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Bruce Haring",
-            "title": "Churchill Downs, Home Of The Kentucky Derby, Shutting Down In Wake Of Horse Deaths - Deadline",
-            "description": "A string of race horse deaths has prompted fabled Churchill Downs in Louisville, Kentucky to suspend its racing operations beginning June 7. The suspension will continue throughout the Spring Meet \u2026",
-            "url": "https://deadline.com/2023/06/churchill-downs-home-of-kentucky-derby-shutting-down-in-wake-of-horse-deaths-1235399549/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/GettyImages-1255057237.jpg?w=1024",
-            "publishedAt": "2023-06-03T03:16:00Z",
-            "content": "A string of race horse deaths has prompted fabled Churchill Downs in Louisville, Kentucky to suspend its racing operations beginning June 7. \r\nThe suspension will continue throughout the Spring Meet \u2026 [+1295 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Haley Britzky,Brad Lendon",
-            "title": "Taiwan war would be \u2018devastating,\u2019 warns US Defense Secretary Lloyd Austin as he criticizes China at Shangri-La security summit - CNN",
-            "description": "A war over Taiwan would be \u201cdevastating\u201d and affect the global economy \u201cin ways we cannot imagine,\u201d US Defense Secretary Lloyd Austin has warned, as he underlined US support for the island democracy.",
-            "url": "https://www.cnn.com/2023/06/02/asia/austin-shangri-law-dialogue-speech-taiwan-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230602205631-austin-shangri-law-dialogue-speech-taiwan-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-03T02:55:00Z",
-            "content": "A war over Taiwan would be devastating and affect the global economy in ways we cannot imagine, US Defense Secretary Lloyd Austin has warned, as he underlined US support for the island democracy.\r\nCo\u2026 [+4586 chars]"
+            "title": "Biden signs debt limit bill, avoiding U.S. default - Reuters",
+            "description": "President Joe Biden on Saturday signed a bill that suspends the U.S. government's $31.4 trillion debt ceiling, averting what would have been a first-ever default with just two days to spare.",
+            "url": "https://www.reuters.com/world/us/biden-signs-bill-lifting-us-debt-limit-2023-06-03/",
+            "urlToImage": "https://www.reuters.com/resizer/KDz5kNsP69ckz6PDjO_R51B9Cf4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZI63N43IEJL7XG3HMXO2CPN4Z4.jpg",
+            "publishedAt": "2023-06-04T01:07:00Z",
+            "content": "WASHINGTON, June 3 (Reuters) - President Joe Biden on Saturday signed a bill that suspends the U.S. government's $31.4 trillion debt ceiling, averting what would have been a first-ever default with j\u2026 [+2023 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Andrew Crane",
-            "title": "Eagles tried to acquire Russell Wilson before Broncos disaster - New York Post ",
-            "description": "Maybe the Eagles really did consider trying to acquire Russell Wilson last offseason, before the Seahawks ultimately traded him to Denver.",
-            "url": "https://nypost.com/2023/06/02/eagles-tried-to-acquire-russell-wilson-before-broncos-disaster/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/newspress-collage-27329878-1685752744648.jpg?quality=75&strip=all&1685738404&w=1024",
-            "publishedAt": "2023-06-03T02:30:00Z",
-            "content": "Maybe the Eagles really did consider trying to acquire Russell Wilson last offseason.\r\nDuring a radio interview earlier this week, Sports Illustrateds Greg Bishop said the Eagles really wanted him fo\u2026 [+2145 chars]"
+            "author": "Reda Wigle",
+            "title": "How the June 2023 full strawberry moon in Sagittarius affects your life - New York Post ",
+            "description": "Arrows to the sky, caution to the wind and truth to the front of the line, a full Strawberry Moon in the shoot your shot, roll the dice sign of Sagittarius is upon us.",
+            "url": "https://nypost.com/2023/06/03/june-2023-full-moon-in-sagittarius-will-affect-all-zodiac-signs/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/full-moon-sagittarius.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-06-04T01:05:23Z",
+            "content": "Arrows to the sky, caution to the wind and truth to the front of the line, a full Strawberry moon in the sign of Sagittarius is upon us, reaching its peak on June 3 at 11:42 pm EST.\r\nThe full moon oc\u2026 [+5452 chars]"
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Al Jazeera",
-            "title": "CIA chief made secret trip to China amid tensions: US official - Al Jazeera English",
-            "description": "CIA Director William Burns emphasised the importance of keeping communication open between China and the US.",
-            "url": "https://www.aljazeera.com/news/2023/6/3/cia-chief-made-secret-trip-to-china-amid-tensions-us-official",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2021-01-11T000000Z_546392903_RC2P5L9WTLWL_RTRMADP_3_USA-BIDEN-CIA-1685756032.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-06-03T02:28:51Z",
-            "content": "In a bid to improve communication between Beijing and Washington, the director of the CIA, William Burns, visited China last month for talks with Chinese counterparts, a United States official said.\r\u2026 [+3837 chars]"
+            "author": "Elisabeth Buchwald",
+            "title": "From teachers to waiters: The industries that haven\u2019t bounced back from the pandemic - CNN",
+            "description": "Economists have been closely watching monthly job reports for signs of cracks in the labor market that offer clues on when a recession could start. But their predictions have been tested month after month with stronger-than-expected gains.",
+            "url": "https://www.cnn.com/2023/06/03/business/us-job-gains-may/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601141252-us-pandemic-job-losses-hospitality-waiters.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-04T00:56:00Z",
+            "content": "Economists have been closely watching monthly US job reports for signs of cracks in the labor market that could offer clues as to when a recession could start. But their predictions have been tested \u2026 [+3079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Armando Tinoco",
+            "title": "\u2018Lightyear\u2019 Director & Producer Among Disney Pixar Layoffs - Deadline",
+            "description": "Among the layoffs that took place at the Walt Disney Company were job cuts at Pixar that included the director and producer of Lightyear, Deadline has confirmed. Director Angus MacLane, a 26-year a\u2026",
+            "url": "https://deadline.com/2023/06/lightyear-director-producer-disney-pixar-layoffs-1235399708/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/buzz-lightyear-disney-pixar.jpg?w=1024",
+            "publishedAt": "2023-06-04T00:54:00Z",
+            "content": "Among the layoffs that took place at the Walt Disney Company were job cuts at Pixar that included the director and producer of Lightyear, Deadline has confirmed.\r\nDirector Angus MacLane, a 26-year an\u2026 [+1329 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Adam Sabes",
+            "title": "West Virginia police officer shot and killed, suspect in custody after intense manhunt - Fox News",
+            "description": "A West Virginia State Police officer died on Friday after he was shot while responding to a shooting complaint. The suspect is being charged with first-degree murder.",
+            "url": "https://www.foxnews.com/us/west-virginia-police-officer-shot-killed-suspect-custody-intense-manhunt",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/Police-officer-suspect.jpg",
+            "publishedAt": "2023-06-04T00:20:00Z",
+            "content": "A West Virginia State Police officer was killed while responding to a complaint of a shooting on Friday.\r\nSgt. Cory Maynard as well as two other officers initially responded to a complaint of a shoot\u2026 [+1840 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "China rebukes US, Canadian navies for Taiwan Strait transit - Reuters",
+            "description": "China's military rebuked the United States and Canada for \"deliberately provoking risk\" after the countries' navies staged a rare joint sailing through the sensitive Taiwan Strait.",
+            "url": "https://www.reuters.com/world/us-canadian-navies-stage-rare-joint-mission-through-taiwan-strait-2023-06-03/",
+            "urlToImage": "https://www.reuters.com/resizer/Wn8JTKmRNhEN5v3dZYKbYfICSNk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QCLR7OJMEFL2XI52TRQOCMGV74.jpg",
+            "publishedAt": "2023-06-04T00:14:00Z",
+            "content": "TAIPEI, June 3 (Reuters) - China's military rebuked the United States and Canada for \"deliberately provoking risk\" after the countries' navies staged a rare joint sailing through the sensitive Taiwan\u2026 [+2060 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Buffalo Rumblings"
+            },
+            "author": "Matt Byham",
+            "title": "Buffalo Bills sign DT Ed Oliver to four-year, $68 million extension - Buffalo Rumblings",
+            "description": "Oliver\u2019s deal comes with $45 million guaranteed \u2014 the sixth-most guaranteed money among active defensive tackles",
+            "url": "https://www.buffalorumblings.com/2023/6/3/23748166/buffalo-bills-sign-dt-ed-oliver-to-four-year-68-million-extension-nfl-news-rumors-sean-mcdermott",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/itEvdnp8VtYNwsjcWW14ZNKLz3w=/0x0:3821x2001/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24701076/1359013952.jpg",
+            "publishedAt": "2023-06-03T23:47:31Z",
+            "content": "In breaking news late Saturday afternoon, ESPN Senior NFL Insider Adam Schefter tweeted that the Buffalo Bills and defensive tackle Ed Oliver reached agreement on a four-year, $68 million extension, \u2026 [+2795 chars]"
         },
         {
             "source": {
@@ -229,38 +112,155 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "CA authorities detail how deadly crime spree unfolded, say suspect was on probation - ABC7 News Bay Area",
-            "description": "Authorities on Friday released more details about multiple carjackings and stabbings a day earlier that left three people dead and multiple others injured in...",
-            "url": "https://www.youtube.com/watch?v=AppCYlYXjUk",
-            "urlToImage": "https://i.ytimg.com/vi/AppCYlYXjUk/maxresdefault.jpg",
-            "publishedAt": "2023-06-03T01:50:24Z",
+            "title": "Measles case confirmed in Montgomery County; Officials urge residents to monitor possible symptoms - WUSA9",
+            "description": "Anyone who was exposed and develops a fever or other symptoms of measles should contact their health care provider.",
+            "url": "https://www.youtube.com/watch?v=BwZA5Gfi7Pw",
+            "urlToImage": "https://i.ytimg.com/vi/BwZA5Gfi7Pw/hqdefault.jpg",
+            "publishedAt": "2023-06-03T23:25:21Z",
             "content": null
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": null,
-            "title": "Trump lawyers told DOJ they couldn't find classified doc discussed in audio - CBS News",
-            "description": "The recording \u2014 from a July 2021 meeting at Trump's golf club in Bedminster, New Jersey \u2014 is a crucial piece of evidence that prosecutors obtained in recent months.",
-            "url": "https://www.cbsnews.com/news/trump-lawyers-pentagon-classified-documents-iran-recording/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/02/78f0b4ef-a2e6-4de6-b15c-f488d63d2999/thumbnail/1200x630/6c8b02dbc4b4211860dcfc6db3d93dff/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9pbwfnzs05zdyymjcwnwrhnzk4mmi0otm1mgnkzwu2n2zjztbima-l19wywdlcy9oxzeyowzlnjgzmdlhowywymzkntnknjqzndu1nzdhzjuw.jpg",
-            "publishedAt": "2023-06-03T01:31:00Z",
-            "content": "Attorneys for former President Donald Trump have informed the Justice Department that they have been unable to locate a classified document related to Iran sought by investigators that was discussed \u2026 [+2794 chars]"
+            "author": "Michelle L. Price, Hannah Fingerhut",
+            "title": "DeSantis signs Bible, Pence hops on motorcycle at 'Roast and Ride' event in Iowa - The Associated Press",
+            "description": "DES MOINES, Iowa (AP) \u2014 Amid plates of sliced pork, statement-making leather ensembles and piles of political T-shirts, eight Republican presidential hopefuls descended on Iowa to pitch themselves to voters and, in Mike Pence's  case, hop on a motorcycle.",
+            "url": "https://apnews.com/article/pence-desantis-republican-presidential-candidates-iowa-26a86acff94e204362586c45ab0bc00f",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/fa71daca45824f4599d4aae58bd86896/2539.webp",
+            "publishedAt": "2023-06-03T22:52:30Z",
+            "content": "DES MOINES, Iowa (AP) Amid plates of sliced pork, statement-making leather ensembles and piles of political T-shirts, eight Republican presidential hopefuls descended on Iowa to pitch themselves to v\u2026 [+6227 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Astrologyzone.com"
+                "name": "Forbes"
+            },
+            "author": "Ewan Spence",
+            "title": "New MacBook Air Leak Reveals Apple's Disappointing Decision - Forbes",
+            "description": "As Apple prepares to launch a new and larger MacBook Air at this month's WWDC, are customers about to be short-changed?",
+            "url": "https://www.forbes.com/sites/ewanspence/2023/06/03/apple-macbook-air-m2-15-inch-wwdc-specs-leak-launch/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62ccae018c4886ac7af09d7e/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-06-03T22:40:00Z",
+            "content": "Updated June 3rd; article originally posted June 3rd.\r\nApple has its new Mac hardware ready to launch at next weeks Worldwide Developer Conference. The M2 Max and M2 Ultra Apple Silicon chipsets buil\u2026 [+4306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
             },
             "author": null,
-            "title": "Aries Horoscope for June 2023 - Susan Miller Astrology Zone - Astrology Zone",
-            "description": "The latest in astrological trends by Susan Miller, comprehensive, complete, intelligent, and accurate. Your life in 3D: culture, style, romance, money, real estate, career advancement, travel, health, fitness, and more.",
-            "url": "https://www.astrologyzone.com/forecasts/aries-horoscope-for-june-2023/",
-            "urlToImage": "https://astrologyzone.com/wp-content/uploads/2017/03/02110949/astrologyzone-logo-1088x1088.png",
-            "publishedAt": "2023-06-03T00:05:44Z",
-            "content": "As June opens, you will be thinking a lot about money, concerned that you will need more soon to keep up with large expenses this month. Your chart, however, suggests that you have nothing to worry a\u2026 [+1417 chars]"
+            "title": "2023 Stanley Cup Final: Panthers vs. Golden Knights odds, NHL picks, Game 1 predictions from hockey simulation - CBS Sports",
+            "description": "SportsLine's NHL model has locked in its Stanley Cup Final 2023 picks for Game 1 of Vegas Golden Knights vs. Florida Panthers",
+            "url": "https://www.cbssports.com/nhl/news/2023-stanley-cup-final-panthers-vs-golden-knights-odds-nhl-picks-game-1-predictions-from-hockey-simulation/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/03/c594e7d3-0523-4812-ab59-054b0134bcac/thumbnail/1200x675/eb80d219c4a242b9de50632e384247d8/jack-eichel-las-vegas-golden-knights-getty-images.jpg",
+            "publishedAt": "2023-06-03T22:00:28Z",
+            "content": "The Vegas Golden Knights host the Florida Panthers in a quest to see who can raise their first Stanley Cup in Game 1 of the 2023 Stanley Cup Final on Saturday. Vegas, who only entered the league duri\u2026 [+4619 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Hannah Knowles, Colby Itkowitz, Dylan Wells",
+            "title": "DeSantis on the trail: Combative with critics, not yet cozy with voters - The Washington Post",
+            "description": "The Florida governor hit back at a heckler, highlighted his family and chatted up voters \u2014 but offered limited back-and-forth",
+            "url": "https://www.washingtonpost.com/elections/2023/06/03/ron-desantis-president-gop-campaign-trail/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EJTHQWV65BGPEHMVCDKF37AQY_size-normalized.JPG&w=1440",
+            "publishedAt": "2023-06-03T21:51:10Z",
+            "content": "Comment on this story\r\nComment\r\nGILBERT, S.C. Ron DeSantis shouted back when a woman interrupted his speech to call him a fascist, jabbing his finger and likening his heckler to the people we beat ev\u2026 [+11533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Alyssa Guzman",
+            "title": "Former Target exec says Pride collection's 'tuck-friendly' swimwear was the 'biggest mistake' - Daily Mail",
+            "description": "Former Target Vice Chairman Gerald Storch believes the company's 'tuck-friendly' swimwear set Target's Pride collection apart from others for the worst.",
+            "url": "https://www.dailymail.co.uk/news/article-12156183/Former-Target-exec-says-Pride-collections-tuck-friendly-swimwear-biggest-mistake.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/03/22/71734823-0-image-a-62_1685826002631.jpg",
+            "publishedAt": "2023-06-03T21:49:00Z",
+            "content": "Former Target executive said the retailer's biggest mistake was selling 'tuck-friendly' swimwear for Pride, which has led to a $12billion loss since mid-May.\u00a0\r\nFormer Target Vice Chairman Gerald Stor\u2026 [+3910 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jessica Orwig",
+            "title": "Stephen Hawking's theory could mean the entire universe will evaporate - Business Insider",
+            "description": "Hawking radiation predicts black holes lose energy and eventually evaporate. Now a new study predicts the same fate for the rest of the universe.",
+            "url": "https://www.businessinsider.com/stephen-hawking-theory-could-mean-entire-universe-will-evaporate-2023-6",
+            "urlToImage": "https://i.insider.com/647baad540bf000019fa20f7?width=1200&format=jpeg",
+            "publishedAt": "2023-06-03T21:35:00Z",
+            "content": "The ultimate fate of our universe is unknown. But that doesn't stop astronomers from trying to figure it out.\r\nThe most recent idea of how our universe might end is that it will simply evaporate. Tha\u2026 [+2200 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Marc Malkin",
+            "title": "\u2018Based on a True Story\u2019 Star Chris Messina Recalls When True Crime Collided Into His Own Life: \u2018We Found a Hand Washed Up on the Beach\u2019 - Variety",
+            "description": "Playing a man who gets entangled in a murder investigation because his wife (Kaley Cuoco) is obsessed with true crime, \u201cBased on a True Story\u201d kind of hits close to home for Chris Messina. Wh\u2026",
+            "url": "https://variety.com/2023/scene/news/based-on-a-true-story-chris-messina-true-crime-peacock-1235632224/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/06/CJP20675-1.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-06-03T20:49:00Z",
+            "content": "Playing a man who gets entangled in a murder investigation because his wife (Kaley Cuoco) is obsessed with true crime, \u201cBased on a True Story\u201d kind of hits close to home for Chris Messina. When he wa\u2026 [+1542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DailyFX"
+            },
+            "author": "Diego Colman",
+            "title": "Gold Price Forecast: Dreams of Fresh Record Shattered for Now as Bears Pounce - DailyFX",
+            "description": "The outlook for gold is starting to become more bearish from a fundamental standpoint, as the resilience of the U.S. economy could induce the Federal Reserve to continue raising rates later this year.",
+            "url": "https://www.dailyfx.com/news/xau-usd-gold-price-forecast-dreams-of-fresh-record-shattered-for-now-as-bears-pounce-20230603.html",
+            "urlToImage": "https://a.c-dn.net/b/3n83uf/gold_forecast.JPG",
+            "publishedAt": "2023-06-03T20:00:00Z",
+            "content": "<ul><li>Gold prices fail to mount recovery as bond yields resume their rebound</li><li>Strong U.S. economic data may nudge the Fed to continue hiking rates during the second half of the year, even if\u2026 [+3646 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ABC St. Louis"
+            },
+            "author": "GARY B. GRAVES | AP Sports Writer",
+            "title": "Churchill Downs to suspend racing operations following deaths of 12 horse - KATU",
+            "description": "Churchill Downs will suspend racing operations on Wednesday and move the remainder of its spring meet to Ellis Park in order to conduct a \"top-to-bottom\" review",
+            "url": "https://abcstlouis.com/news/nation-world/churchill-downs-moves-meet-to-ellis-park-to-examine-protocols-following-12-horse-deaths-ellis-park-kentucky-derby-protocols-safety",
+            "urlToImage": "https://abcstlouis.com/resources/media/5a7aabea-7520-409e-a48d-6700d01a5738-large16x9_AP23152672920383.jpg?1685816963166",
+            "publishedAt": "2023-06-03T18:34:02Z",
+            "content": "Churchill Downs will suspend racing operations on Wednesday and move the remainder of its spring meet to Ellis Park in order to conduct a \"top-to-bottom\" review of safety and surface protocols in the\u2026 [+3799 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "India train disaster updates: Hundreds dead; US train safety - USA TODAY",
+            "description": "Rescuers said they found no more survivors as the death toll rose to 280. What we know about the train derailment disaster in India.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/06/03/india-train-derailment-what-we-know-could-similar-happen-in-us/70284471007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/06/03/USAT/55a87bb5-032f-4c50-bbc6-8b317d10071d-AP_APTOPIX_India_Train_Derailment.jpg?auto=webp&crop=2251,1266,x6,y577&format=pjpg&width=1200",
+            "publishedAt": "2023-06-03T18:33:45Z",
+            "content": "The death toll had risen to over 280 Saturday as rescuers in eastern India continued to sift through the wreckage of one of the country's deadliest train derailments in decades.\r\nMore than 900 people\u2026 [+5541 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Lance Lambert",
+            "title": "This city dodged the 2008 housing market crash\u2014now it\u2019s the epicenter of the pandemic correction - Fortune",
+            "description": "Austin is arguably the epicenter of both the Pandemic Housing Boom and the Pandemic Housing Correction.",
+            "url": "https://fortune.com/2023/06/03/austin-missed-2008-housing-market-home-price-crash-but-not-this-time/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1370926886-e1685811072740.jpg?resize=1200,600",
+            "publishedAt": "2023-06-03T17:27:00Z",
+            "content": "As home prices started to boom in the early 2000s, housing speculators doubled down on fast-growing Sun Belt markets like Phoenix, Las Vegas, and Miami. Those speculators, who were often house flippe\u2026 [+5280 chars]"
         }
     ]
 }
