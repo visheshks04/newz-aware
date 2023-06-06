@@ -1,214 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": null,
-            "title": "OPEC+ holds 'difficult' talks on cuts and quotas - Reuters",
-            "description": "OPEC and its allies met on Sunday to try to agree further cuts in production, sources told Reuters, as the group faces flagging oil prices and a looming supply glut.",
-            "url": "https://www.reuters.com/business/energy/opec-meets-debate-production-quotas-new-cut-sources-2023-06-04/",
-            "urlToImage": "https://www.reuters.com/resizer/DnEPAbJOav4xjBM8unIlftBVQoE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FPYFJAEKNVKTZDAHPIRDYV5GOM.jpg",
-            "publishedAt": "2023-06-04T12:38:00Z",
-            "content": "VIENNA, June 4 (Reuters) - OPEC and its allies met on Sunday to try to agree further cuts in production, sources told Reuters, as the group faces flagging oil prices and a looming supply glut.\r\nThe g\u2026 [+3467 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Nate Saunders",
-            "title": "Charles Leclerc to start Spanish Grand Prix from pit-lane - ESPN - ESPN",
-            "description": "Charles Leclerc will start the Spanish Grand Prix from the pit-lane after Ferrari made changes to his car overnight.",
-            "url": "https://www.espn.com/f1/story/_/id/37793089/charles-leclerc-start-spanish-grand-prix-pit-lane",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0603%2Fr1182033_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-06-04T10:33:00Z",
-            "content": "Charles Leclerc will start the Spanish Grand Prix from the pit-lane after Ferrari made changes to his car overnight.\r\nLeclerc qualified 19th on Saturday and was convinced his car had an issue.\r\nFerra\u2026 [+1117 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Ukraine minister in 'disbelief' at closed Kyiv bomb shelters - Reuters",
-            "description": "A senior Ukrainian government official expressed \"disbelief\" on Sunday after learning that nearly half of Kyiv bomb shelters inspected during an initial audit were closed or unfit for use.",
-            "url": "https://www.reuters.com/world/europe/ukraine-minister-disbelief-closed-kyiv-bomb-shelters-2023-06-04/",
-            "urlToImage": "https://www.reuters.com/resizer/WpWQ0TUQI85-L38wzLBvKjHAQ0o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IZMFISJRXJKGBKCLOS2RGYOWCI.jpg",
-            "publishedAt": "2023-06-04T10:14:00Z",
-            "content": "KYIV, June 4 (Reuters) - A senior Ukrainian government official expressed \"disbelief\" on Sunday after learning that nearly half of Kyiv bomb shelters inspected during an initial audit were closed or \u2026 [+1558 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "India train disaster: Signal fault the likely cause, minister says - BBC",
-            "description": "India's Railway Board says there was \"some kind of signalling interference\".",
-            "url": "https://www.bbc.com/news/world-asia-india-65801807",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E086/production/_129987475_e29d333f12437d7f8b5435d2cce83d0840d0497c0_0_2589_17111000x661.jpg",
-            "publishedAt": "2023-06-04T10:05:39Z",
-            "content": "Media caption, The BBC's Archana Shukla in Cuttack: ''Distress and chaos'' at the hospital treating the train crash injured\r\nIndia's railway minister has suggested a signal fault led to the Odisha ra\u2026 [+3909 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Death toll mounts as unrest flares in Senegal - Al Jazeera English",
-            "description": "Authorities say the number of people killed in clashes between police and opposition supporters has now risen to 15.",
-            "url": "https://www.aljazeera.com/gallery/2023/6/4/death-toll-mounts-as-unrest-flares-in-senegal",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/AP23154757895204-1685860975.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-06-04T09:28:03Z",
-            "content": "The death toll in the Senegal violence has risen to 15 as supporters of convicted opposition leader Ousmane Sonko and police continued to clash, the government said on Saturday.\r\nWhile Dakar was calm\u2026 [+2630 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Samantha Murphy Kelly",
-            "title": "New VR/AR headset and MacBooks: What to expect from Apple\u2019s developer event - CNN",
-            "description": "Apple may be just one day away from unveiling its most ambitious new hardware product in years.",
-            "url": "https://www.cnn.com/2023/06/04/tech/wwdc-2023-apple-event-preview/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230602144313-file-apple-wwdc22-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-04T09:01:00Z",
-            "content": "Apple may be just one day away from unveiling its most ambitious new hardware product in years. \r\nAt its Worldwide Developers Conference, which kicks off Monday at its Cupertino, California, campus, \u2026 [+5373 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Pierre Meilhan,Richard Allen Greene,Salma Abdelaziz,Allegra Goodwin,Hadas Gold,Amir Tal",
-            "title": "Three Israeli soldiers and an Egyptian policeman killed in rare border crossing incident - CNN",
-            "description": "Three Israeli soldiers and an Egyptian policeman have been killed in a rare border crossing incident.",
-            "url": "https://www.cnn.com/2023/06/04/middleeast/israel-egypt-soldiers-policemen-shooting-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230604005040-02-egypt-israel-border-clash-060323.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-04T08:57:00Z",
-            "content": "Three Israeli soldiers and an Egyptian policeman have been killed in a rare border crossing incident.\r\nDetails of the incident the first of its kind in more than a decade remain disputed.\r\nEgypt clai\u2026 [+2760 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "David Robb",
-            "title": "DGA & Hollywood Studios Reach \u201cHistoric\u201d Tentative Deal On New Contract - Deadline",
-            "description": "The Directors Guild and the studios have reached a tentative agreement on a new three-year contract. The deal includes wage increases and \u201ca 76% increase in foreign residuals for the largest \u2026",
-            "url": "https://deadline.com/2023/06/directors-hollywood-studios-reach-deal-new-contract-1235399542/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/amptp.jpg?w=1024",
-            "publishedAt": "2023-06-04T07:07:00Z",
-            "content": "The Directors Guild and the studios have reached a tentative agreement on a new three-year contract. The deal includes wage increases and \u201ca 76% increase in foreign residuals for the largest platform\u2026 [+7524 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Ken Martin",
-            "title": "UBS may delay results after Credit Suisse rescue: report - Fox Business",
-            "description": "UBS is reportedly considering delaying its financial results from July 25 to late August due to the complex issues involved in the takeover of Credit Suisse.",
-            "url": "https://www.foxbusiness.com/markets/ubs-may-delay-results-after-credit-suisse-rescue-report",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/ubs-cropped-820p.jpg?ve=1&tl=1",
-            "publishedAt": "2023-06-04T07:02:51Z",
-            "content": "UBS may reportedly decide to push back its quarterly results as it works on the takeover of Credit Suisse.\r\nThe bank is due to report its results on July 25.\r\nDue to the financial and political compl\u2026 [+2417 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Ukraine war: Girl, 2, killed and 22 injured in Dnipro after Russian strike - BBC",
-            "description": "Rescuers found the child's body in the wreckage of a residential building in Ukrainian city Dnipro.",
-            "url": "https://www.bbc.com/news/world-europe-65800870",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/146CA/production/_129985638_7a64b57f942a826164d6ebe75b7fdc3f590b21ed0_122_2048_11521000x563.jpg",
-            "publishedAt": "2023-06-04T06:10:44Z",
-            "content": "Media caption, Watch: Video shared by President Zelensky shows rescuers searching through rubble\r\nA two-year-old girl has been killed and 22 injured after an alleged Russian air strike in a residenti\u2026 [+2836 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Melissa Alonso,Nouran Salahieh",
-            "title": "California is investigating after a private jet carrying migrants arrived in Sacramento, officials say - CNN",
-            "description": "An investigation is underway after over a dozen migrants arrived in Sacramento, California, by private jet \u201cwith no prior arrangement or care in place,\u201d Gov. Gavin Newsom and Attorney General Rob Bonta said Saturday.",
-            "url": "https://www.cnn.com/2023/06/04/us/california-migrants-private-plane/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230604000934-01-rob-bonta-ca-ag-062822-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-04T05:20:00Z",
-            "content": "An investigation is underway after over a dozen migrants arrived in Sacramento, California, by private jet with no prior arrangement or care in place, Gov. Gavin Newsom and Attorney General Rob Bonta\u2026 [+2152 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Suntimes.com"
-            },
-            "author": "Georgia Nicols",
-            "title": "Horoscope for Sunday, June 4, 2023 - Chicago Sun-Times",
-            "description": null,
-            "url": "https://chicago.suntimes.com/2023/6/4/23741812/horoscopes-today-sunday-june-4-2023",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/a246bcd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FEvfaImfLHBFoakOy35ansTR8fw0%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24690136%2FGeorgia_mug.jpeg",
-            "publishedAt": "2023-06-04T05:03:47Z",
-            "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Sagittarius.\r\nAries (March 21-April 19)\r\nThe good news is you might have innovative ideas about how to boost y\u2026 [+3855 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Associated Press",
-            "title": "West Virginia man arraigned in fatal shooting of state trooper - New York Post ",
-            "description": "Gov. Jim Justice announced Maynard\u2019s death in a statement Friday night and said he was \u201cabsolutely heartbroken.\u201d",
-            "url": "https://nypost.com/2023/06/04/west-virginia-man-timothy-kennedy-arraigned-in-fatal-shooting-of-state-trooper-cory-maynard/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/trooper.jpg?quality=75&strip=all&1685840339&w=1024",
-            "publishedAt": "2023-06-04T05:01:00Z",
-            "content": "A suspect in the fatal shooting of a West Virginia state police officer was arraigned Saturday on a first-degree murder charge.\r\nTimothy Kennedy, 29, was arraigned by video in Mingo County Magistrate\u2026 [+2564 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "Golden Knights beat Panthers in Game 1 of Stanley Cup Final - USA TODAY",
-            "description": "Adin Hill made a great save on Florida's Nick Cousins as the Vegas Golden Knights beat the Florida Panthers in Game 1 of the Stanley Cup Final.",
-            "url": "https://www.usatoday.com/story/sports/nhl/2023/06/03/golden-knights-beat-panthers-game-1-stanley-cup-final/70285598007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/06/04/USAT/d021bd05-ba9e-4b26-85b1-068ad382477d-scf_adin_hill_save.JPG?auto=webp&crop=4352,2448,x88,y483&format=pjpg&width=1200",
-            "publishedAt": "2023-06-04T04:52:30Z",
-            "content": "A question heading into the Stanley Cup Final was whether the Vegas Golden Knights Adin Hill could continue his strong play and keep pace with red-hot Florida Panthers goalie Sergei Bobrovsky.\r\nThe a\u2026 [+4033 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Rob Schaefer",
-            "title": "2023 NBA Finals odds and expert picks for Nuggets vs. Heat Game 2 - The Athletic",
-            "description": "The Nuggets won comfortably, and covered, in Game 1 of the NBA Finals. Will anything change for Game 2 on Sunday?",
-            "url": "https://theathletic.com/4575547/2023/06/04/nuggets-heat-odds-spread-picks-predictions/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/02120447/GettyImages-1495252222-1024x683.jpg",
-            "publishedAt": "2023-06-04T04:41:24Z",
-            "content": "Follow our Nuggets-Heat live Game 2 blog.\r\nWell, that went about as expected. At least for now. Game 1 of the 2023 NBA Finals saw the Nuggets handle business with a 104-93 win over the Heat. Save for\u2026 [+3200 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Espn.com.sg"
-            },
-            "author": null,
-            "title": "Aaron Judge lifts Yankees with 19th homer, highlight-reel catch - ESPN - ESPN",
-            "description": "Aaron Judge hit his 19th homer of the season and made a running catch that took him through Dodger Stadium's visiting bullpen door to help the Yankees top the Dodgers 6-3 on Saturday.",
-            "url": "https://www.espn.com.sg/mlb/story/_/id/37791405/aaron-judge-lifts-yankees-19th-homer-highlight-reel-catch",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0604%2Fr1182231_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-06-04T02:50:58Z",
-            "content": "LOS ANGELES -- Aaron Judge slugged his 19th home run of the season Saturday, but it was his spectacular running catch at the fence that had people talking after the New York Yankees' 6-3 victory over\u2026 [+3198 chars]"
+            "author": "David Bauder",
+            "title": "Chuck Todd leaving NBC political panel show 'Meet the Press' and being replaced by Kristen Welker - The Associated Press",
+            "description": "NEW YORK (AP) \u2014 Chuck Todd said on Sunday that he'll be leaving \u201cMeet the Press\u201d after a tumultuous near-decade of moderating the NBC political panel show , to be replaced in the coming months by Kristen Welker.",
+            "url": "https://apnews.com/article/chuck-todd-nbc-press-welker-88e21c5602b15b3ef298a8909f3601f2",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d642bcfaec2d4ffaa67fc65eeed9af35/2858.webp",
+            "publishedAt": "2023-06-04T23:23:51Z",
+            "content": "NEW YORK (AP) Chuck Todd said on Sunday that hell be leaving Meet the Press after a tumultuous near-decade of moderating the NBC political panel show, to be replaced in the coming months by Kristen W\u2026 [+3587 chars]"
         },
         {
             "source": {
@@ -216,12 +21,103 @@
                 "name": "The Guardian"
             },
             "author": "Guardian staff reporter",
-            "title": "Russia-Ukraine war at a glance: what we know on day 466 of the invasion - The Guardian",
-            "description": "Blast near Dnipro leaves 20 injured; Zelenskiy says Ukraine is ready to launch counteroffensive; Prigozhin says Kremlin factions are destroying Russia",
-            "url": "https://www.theguardian.com/world/2023/jun/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-466-of-the-invasion",
-            "urlToImage": "https://i.guim.co.uk/img/media/39a8ffa8650939c57c2e345dfbce6ee53e68c33f/0_85_1280_768/master/1280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10d57acc0330705eb527edc8661b37d3",
-            "publishedAt": "2023-06-04T01:26:00Z",
-            "content": "<li>Twenty people including five children were injured from an explosion that hit a two-storey residential building near the central Ukrainian city of Dnipro on Saturday, the regional governor said. \u2026 [+3902 chars]"
+            "title": "Russia-Ukraine war at a glance: what we know on day 467 of the invasion - The Guardian",
+            "description": "Russia\u2019s defence ministry claims Ukraine has started a large-scale military operation; young girl found dead in rubble of house in Dnipro attack",
+            "url": "https://www.theguardian.com/world/2023/jun/05/russia-ukraine-war-at-a-glance-what-we-know-on-day-467-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/cf2674cc0f9792fa48e5885eb2218a0873b76281/0_0_8192_4914/master/8192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc64944b9047edebdbe12d66795bc777",
+            "publishedAt": "2023-06-04T23:05:00Z",
+            "content": "<li>Russias defence ministry claimed on Monday that Ukraine had launched a major attack in the Donetsk region, the Russian state news agency Tass reported. The ministry said Ukraine had launched the \u2026 [+3548 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "On National Cancer Survivors Day, Hendriks notches first win - ESPN - ESPN",
+            "description": "Reliever Liam Hendriks worked a 1-2-3 ninth inning on Sunday, striking out two, en route to his first victory since returning from cancer, as the Chicago White Sox defeated the Detroit Tigers 6-2 to complete a three-game series sweep.",
+            "url": "https://www.espn.com/mlb/story/_/id/37796274/on-national-cancer-survivors-day-hendriks-notches-first-win",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0604%2Fr1182552_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-06-04T22:39:00Z",
+            "content": "CHICAGO -- Jake Burger's game-ending grand slam handed Liam Hendriks his first win since returning from cancer, and the Chicago White Sox defeated the Detroit Tigers6-2 on Sunday for a three-game ser\u2026 [+2708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Detroit Free Press staff",
+            "title": "Wildfire near Grayling 85% contained; source was campfire on private property - Detroit Free Press",
+            "description": "The Michigan DNR and others worked to battle a wildfire in Crawford County near Grayling that forced evacuations and closed I-75 at one point.",
+            "url": "https://www.freep.com/story/news/local/michigan/2023/06/03/grayling-wildfire-dnr-fights-1000-acre-wildfire-forcing-evacuations/70285535007/",
+            "urlToImage": "https://www.freep.com/gcdn/presto/2023/06/04/NPNR/4344ac67-5de1-4f49-aa92-971da421bd96-DSC_0245.JPG?crop=5999,3375,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-04T22:18:45Z",
+            "content": "Editor's note: This story has been updated to include the latest information from state officials.\r\nFirefighters worked through the night Saturday to battle a wildfire in Crawford County, near Grayli\u2026 [+3243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Danica Creahan",
+            "title": "2023 NBA Finals: How to watch Heat vs. Nuggets Game 2 tonight, schedule, TV channel and more - Yahoo Sports",
+            "description": "The Denver Nuggets will once again face the Miami Heat on Sunday in the 2023 NBA Finals. Here's how you can watch all the action on the court.",
+            "url": "https://sports.yahoo.com/nba-finals-watch-game-2-schedule-tonight-160420302.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hfrGLTq0M55cUC.6SOz7yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Njk-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/e4afb970-015a-11ee-9bff-cfd93de81656",
+            "publishedAt": "2023-06-04T22:12:38Z",
+            "content": "The Nuggets will face the Heat with a home-court advantage in the 2023 NBA Finals. (Photo by: Megan Briggs/Getty Images)\r\nThe Nuggets claimed their first-ever NBA finals win on their home court durin\u2026 [+2300 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gregory Krieg",
+            "title": "What to watch for in CNN\u2019s town hall with Nikki Haley - CNN",
+            "description": "Former South Carolina Gov. Nikki Haley entered the Republican primary in February with a call for \u201cgenerational change.\u201d But her message has largely been drowned out by former President Donald Trump and Florida Gov. Ron DeSantis, who are dueling for support f\u2026",
+            "url": "https://www.cnn.com/2023/06/04/politics/cnn-town-hall-nikki-haley/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230602145351-nikki-haley-file-060223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-04T22:03:00Z",
+            "content": "Former South Carolina Gov. Nikki Haley entered the Republican primary in February with a call for generational change. But her message has largely been drowned out by former President Donald Trump an\u2026 [+6915 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Christy Pi\u00f1a",
+            "title": "\u2018Sex and the City\u2019 Star Evan Handler Says Kim Cattrall\u2019s Cameo in \u2018And Just Like That\u2019 Is \u201cGreat\u201d - Hollywood Reporter",
+            "description": "Cattrall will reprise her role as Samantha Jones in season two of the sequel series after not appearing in the first season.",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/kim-cattrall-cameo-and-just-like-that-evan-handler-sex-and-the-city-1235507028/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/Kim-Cattrall-Evan-Handler-Split-Getty-H-2023.jpg?w=1024",
+            "publishedAt": "2023-06-04T21:08:32Z",
+            "content": "Evan Handler is teasing Kim Cattrall\u2019s return to the Sex and the Cityuniverse for season two of And Just Like That. \r\nThe actor, who plays Charlotte\u2019s (Kristin Davis) husband Harry Goldenblatt, spoke\u2026 [+1927 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Ewan Spence",
+            "title": "New MacBook Air Leak Reveals Apple's Disappointing Decision - Forbes",
+            "description": "As Apple prepares to launch a new and larger MacBook Air at this month's WWDC, are customers about to be short-changed?",
+            "url": "https://www.forbes.com/sites/ewanspence/2023/06/04/apple-macbook-air-m2-15-inch-wwdc-specs-leak-launch/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62ccae018c4886ac7af09d7e/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-06-04T20:45:40Z",
+            "content": "Updated June 4th; article originally posted June 3rd.\r\nApple has its new Mac hardware ready to launch at next weeks Worldwide Developer Conference. The M2 Max and M2 Ultra Apple Silicon chipsets buil\u2026 [+5963 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": null,
+            "title": "Latest Webb Telescope images gives a look at stars being born in the Virgo constellation | Engadget - Engadget",
+            "description": "The latest images released from the James Webb Space Telescope show off the barred spiral galaxy NGC 5068.",
+            "url": "https://www.engadget.com/latest-webb-telescope-images-gives-a-look-at-stars-being-born-in-the-virgo-constellation-120044569.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/5Zr4g1DlnjxvTXHZUUe1xA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/c5f82b60-0232-11ee-aef6-9aeae7531e41.cf.jpg",
+            "publishedAt": "2023-06-04T20:31:53Z",
+            "content": "It seems like every few weeks, NASA, the European Space Agency (ESA) and the Canadian Space Agency (CSA) drop an impressive image from the James Webb Space Telescope that is both stunning to behold a\u2026 [+2023 chars]"
         },
         {
             "source": {
@@ -229,38 +125,142 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Biden signs debt limit bill, avoiding U.S. default - Reuters",
-            "description": "President Joe Biden on Saturday signed a bill that suspends the U.S. government's $31.4 trillion debt ceiling, averting what would have been a first-ever default with just two days to spare.",
-            "url": "https://www.reuters.com/world/us/biden-signs-bill-lifting-us-debt-limit-2023-06-03/",
-            "urlToImage": "https://www.reuters.com/resizer/KDz5kNsP69ckz6PDjO_R51B9Cf4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZI63N43IEJL7XG3HMXO2CPN4Z4.jpg",
-            "publishedAt": "2023-06-04T01:07:00Z",
-            "content": "WASHINGTON, June 3 (Reuters) - President Joe Biden on Saturday signed a bill that suspends the U.S. government's $31.4 trillion debt ceiling, averting what would have been a first-ever default with j\u2026 [+2023 chars]"
+            "title": "Sonic boom heard in Washington D.C. was from authorized Pentagon flight, officials say - Reuters.com",
+            "description": "U.S. authorities scrambled jet fighters to pursue a light aircraft that violated airspace in the Washington D.C. area and later crashed into mountainous terrain in southwest Virginia, U.S. officials said.",
+            "url": "https://www.reuters.com/world/us/loud-boom-shakes-washington-dc-fire-department-reports-no-incidents-2023-06-04/",
+            "urlToImage": "https://www.reuters.com/resizer/OrpEJfQ8u6w6aCcHf14gY1PBTG4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VIPFH3HN4JLODLWV2QA6ATS6CQ.jpg",
+            "publishedAt": "2023-06-04T20:20:00Z",
+            "content": "WASHINGTON, June 4 (Reuters) - U.S. authorities scrambled jet fighters to pursue a light aircraft that violated airspace in the Washington D.C. area and later crashed into mountainous terrain in sout\u2026 [+1015 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "McCarthy lauds U.S. debt ceiling deal, House conservatives divided - Reuters.com",
+            "description": "U.S. House of Representatives Speaker Kevin McCarthy on Sunday lauded the debt ceiling deal he negotiated with Democratic President Joe Biden, but a prominent House conservative warned that McCarthy has \"credibility issues\" that may prompt some Republicans to\u2026",
+            "url": "https://www.reuters.com/world/us/mccarthy-lauds-debt-us-ceiling-deal-house-conservatives-divided-2023-06-04/",
+            "urlToImage": "https://www.reuters.com/resizer/J9sHsC0oRlkNYGH_cZgoBKW-0YQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4J3TPB7RLFIPDBRWSAS5IEAVFI.jpg",
+            "publishedAt": "2023-06-04T20:12:00Z",
+            "content": "WASHINGTON, June 4 (Reuters) - U.S. House of Representatives Speaker Kevin McCarthy on Sunday lauded the debt ceiling deal he negotiated with Democratic President Joe Biden, but a prominent House con\u2026 [+3949 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "CBS Sports"
             },
-            "author": null,
-            "title": "Video shows Chinese warship coming near U.S. missile destroyer in Taiwan Strait - CBS Evening News",
-            "description": "New video showed a Chinese warship on Saturday coming within 150 yards of hitting the USS Chung-Hoon in the Taiwan Strait. \"CBS Weekend News\" and \"CBS Evenin...",
-            "url": "https://www.youtube.com/watch?v=_qPvTDxy1F0",
-            "urlToImage": "https://i.ytimg.com/vi/_qPvTDxy1F0/maxresdefault.jpg",
-            "publishedAt": "2023-06-04T00:35:17Z",
-            "content": null
+            "author": "Kyle Porter",
+            "title": "2023 Memorial Tournament leaderboard: Live updates, full coverage, golf scores in Round 4 on Sunday - CBS Sports",
+            "description": "Live scores, updates and highlights from Sunday's final-round action at the Memorial Tournament",
+            "url": "https://www.cbssports.com/golf/news/2023-memorial-tournament-leaderboard-live-updates-full-coverage-golf-scores-in-round-4-on-sunday/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/04/72e729a0-d72c-4b74-b6ad-dd33009f4a39/thumbnail/1200x675/3355c58c90bfd5ea270a8da4c2fb708f/gettyimages-1495723293-1.jpg",
+            "publishedAt": "2023-06-04T20:02:28Z",
+            "content": "Sunday's final round at the Memorial at Muirfield Village has the potential to be epic. Rory McIlroy is part of a three-way tie for the lead with horses all around him. There are 41 total golfers at \u2026 [+1007 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Eonline.com"
+            },
+            "author": "Corinne Heller",
+            "title": "Megan Fox Shares Steamy Bikini Photo Weeks After Body Image Comments - E! NEWS",
+            "description": "Megan Fox posted a photo of herself posing in a bikini on her Instagram weeks after revealing in an interview that she has body dysmorphia.",
+            "url": "https://www.eonline.com/news/1376315/megan-fox-shares-steamy-bikini-photo-weeks-after-body-image-comments",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202354/rs_1200x1200-230604122952-1200-megan-fox-instagram-cjh-060423.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-06-04T19:55:00Z",
+            "content": "Megan Fox\u00a0is ready for her hot girl summer.\r\nOn June 4, the\u00a0Transformers actress shared a photo of herself lying down while wearing a strapless, black cut-out bikini on Instagram. She also included a\u2026 [+732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Michael Lee",
+            "title": "Oil prices could soar higher as Russia, others shrug off criticism from Biden administration - Fox Business",
+            "description": "OPEC and allies led by Russia are considering further cuts to oil production on top of multiple earlier cuts, threatening to send the price for oil surging higher.",
+            "url": "https://www.foxbusiness.com/energy/oil-prices-could-soar-higher-russia-others-shrug-off-criticism-from-biden-administration",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/07/0/0/oil-cropped-106a.jpg?ve=1&tl=1",
+            "publishedAt": "2023-06-04T19:53:17Z",
+            "content": "Member countries of OPEC and their allies are considering further cuts to oil production that could send oil prices soaring.\r\nThe group, known as OPEC+ to include allies such as Russia, will meet Sun\u2026 [+2133 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "Diablo 4 Received Its First Big Patch and It's All About Class Balance - IGN",
+            "description": "Diablo 4 has received its first big patch and it's mostly about balancing the five starting classes that players can choose to take down Lilith and save Sanctuary with.",
+            "url": "https://www.ign.com/articles/diablo-4-received-its-first-big-patch-and-its-all-about-class-balance",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/06/04/diablo-1684596615143-1685906367761.png?width=1280",
+            "publishedAt": "2023-06-04T19:24:19Z",
+            "content": "Diablo 4 has received its first big patch and it's mostly about balancing the five starting classes that players can choose to take down Lilith and save Sanctuary with.\r\nBlizzard shared the patch not\u2026 [+7760 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
             },
             "author": null,
-            "title": "Measles case confirmed in Montgomery County; Officials urge residents to monitor possible symptoms - WUSA9",
-            "description": "Anyone who was exposed and develops a fever or other symptoms of measles should contact their health care provider.",
-            "url": "https://www.youtube.com/watch?v=BwZA5Gfi7Pw",
-            "urlToImage": "https://i.ytimg.com/vi/BwZA5Gfi7Pw/hqdefault.jpg",
-            "publishedAt": "2023-06-03T23:25:21Z",
-            "content": null
+            "title": "Enjoy Illinois 300 live updates: Stage 2 underway at WWT Raceway - FOX Sports",
+            "description": "The NASCAR Cup Series' June schedule continues with the Enjoy Illinois 300, and we've got you covered with all the action!",
+            "url": "https://www.foxsports.com/stories/nascar/enjoy-illinois-300-live-updates-top-moments-from-world-wide-technology-raceway",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/06/1408/814/06.03.23_NASCAR-Top-Moments_Enjoy-Illinois-300_Horizontal.jpg?ve=1&tl=1",
+            "publishedAt": "2023-06-04T19:08:18Z",
+            "content": "The NASCAR Cup Series\r\n' June schedule continues Sunday with the Enjoy Illinois 300 at World Wide Technology Raceway at Gateway, and we've got you covered with all the action from start to finish, ex\u2026 [+5735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chicago Tribune"
+            },
+            "author": "Jake Sheridan, Olivia Alexander",
+            "title": "7 shot, 1 fatally, in mass shooting in Austin neighborhood - Chicago Tribune",
+            "description": "Austin residents say they called to report a rowdy gathering before the shooting, but police did not break it up.",
+            "url": "https://www.chicagotribune.com/news/breaking/ct-austin-seven-people-shot-20230604-yejvy6wzprhrrlnvcjpcybzjqm-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/4Gc_6vEH3P9TlFwD7hgCq06ix_o=/1200x630/filters:format(jpg):quality(70):focal(2020x1358:2030x1368)/cloudfront-us-east-1.images.arcpublishing.com/tronc/3NR5T3MGXZFWZENIMDEXT2TJXE.JPG",
+            "publishedAt": "2023-06-04T18:52:08Z",
+            "content": "After a mass shooting in Chicagos Austin neighborhood left seven people shot, one fatally, early Sunday morning, neighbors expressedfrustration thattheir calls to break up a large gathering before th\u2026 [+6039 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "Spider-Man: Across the Spider-Verse Swings to a $120.5 Million Domestic Weekend Box Office Victory - IGN",
+            "description": "Spider-Man: Across the Spider-Verse has swung to an amazing $120.5 million domestic weekend box office victory. In addition, Miles' latest multiversal adventure has reached $208.6 million worldwide and set the record for Sony Pictures' biggest animated openin\u2026",
+            "url": "https://www.ign.com/articles/spider-man-across-the-spider-verse-swings-to-a-1205-million-domestic-weekend-box-office-victory",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/06/04/acrossthespiderverse-1680598798509-1685903476755.jpg?width=1280",
+            "publishedAt": "2023-06-04T18:39:55Z",
+            "content": "Spider-Man: Across the Spider-Verse has swung to an amazing $120.5 million domestic weekend box office victory. In addition, Miles' latest multiversal adventure has reached $208.6 million worldwide a\u2026 [+2548 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Jessica Chasmar",
+            "title": "Biden admin slammed as granting \u2018major coup\u2019 to China after top officials visit on Tiananmen massacre date - Fox News",
+            "description": "Two senior Biden administration officials made a controversial trip to China on Sunday, 34 years after the Chinese military slaughtered hundreds of pro-democracy protesters.",
+            "url": "https://www.foxnews.com/politics/biden-admin-slammed-granting-major-coup-china-top-officials-visit-tiananmen-massacre-date",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/issa-tianamen-square-blinken.jpg",
+            "publishedAt": "2023-06-04T18:04:00Z",
+            "content": "EXCLUSIVE: The Biden administration is getting slammed as handing a \"major coup\" to Chinese President Xi Jinping after two senior officials made a trip to China on Sunday in an attempt to ease tensio\u2026 [+4285 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Emily Mae Czachor",
+            "title": "Branden Colvin, Davenport building collapse resident, found dead - CBS News",
+            "description": "The body of Branden Colvin, a 42-year-old resident of the building that partially collapsed last weekend in Davenport, Iowa, has been found.",
+            "url": "https://www.cbsnews.com/news/branden-colvin-davenport-building-collapse-dead/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/1df95902-0425-407a-b961-f1237c3391b0/thumbnail/1200x630/dd6ea994deacbd90578f953c13bc7125/gettyimages-1494375243.jpg",
+            "publishedAt": "2023-06-04T17:47:29Z",
+            "content": "A resident of the Iowa apartment building that partially collapsed last weekend was found dead, officials confirmed on Sunday. A spokesperson for the city of Davenport, where the building is located,\u2026 [+3619 chars]"
         }
     ]
 }
