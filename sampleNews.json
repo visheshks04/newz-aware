@@ -1,32 +1,201 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 34,
     "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Andrew Jeong, Victoria Bisset",
+            "title": "Canadian wildfires cause poor air quality in NYC, across U.S.: Live updates - The Washington Post",
+            "description": "Toxic haze from wildfires ravaging Canada has blown into major urban areas. New York, Detroit and Toronto were among the 10 cities with the world's worst air quality.",
+            "url": "https://www.washingtonpost.com/weather/2023/06/07/canada-wildfires-smoke-air-quality-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-07-2023/t_4c4834f1952a4320b8b35e809127a698_name_nyc_haze.png&w=1440",
+            "publishedAt": "2023-06-07T10:17:47Z",
+            "content": "Smoke and haze from the wildfires ravaging swaths of Canadian forest have reached the eastern United States. Hazardous fine particles have degraded air quality in regions as far away as South Carolin\u2026 [+342 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "John Allen",
+            "title": "Pope Francis to have abdominal surgery and to stay in hospital for several days - CNN",
+            "description": "Pope Francis will have surgery on his abdomen and remain in a Rome hospital for several days, the Vatican said Wednesday, sparking renewed fears over the 86-year-old\u2019s fragile health.",
+            "url": "https://www.cnn.com/2023/06/07/europe/pope-hospital-surgery-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230607095739-pope-francis-053123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-07T10:02:00Z",
+            "content": "Pope Francis will have surgery on his abdomen and remain in a Rome hospital for several days, the Vatican said Wednesday, sparking renewed fears over the 86-year-olds fragile health.\r\nThe pope was fo\u2026 [+2719 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "David Brennan",
+            "title": "Ukraine Offensive Has 'Broken Through' Russian Lines: Prigozhin - Newsweek",
+            "description": "The Wagner Group chief called on President Vladimir Putin to raise 200,000 more troops to stop the Ukrainian operation.",
+            "url": "https://www.newsweek.com/ukraine-offensive-broken-through-russian-lines-prigozhin-bakhmut-donetsk-zaporizhzhia-1804946",
+            "urlToImage": "https://d.newsweek.com/en/full/2243513/ukraine-tank-move-donetsk-front.jpg",
+            "publishedAt": "2023-06-07T09:29:41Z",
+            "content": "The mercenary Wagner Group chief Yevgeny Prigozhin has called on Moscow to provide him with 200,000 troops in order to halt the long-promised Ukrainian counteroffensive, as assaults by Kyiv troops re\u2026 [+3813 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Vasco Cotovio,Frederik Pleitgen,William Bonnett,Daria Markina Tarasova",
+            "title": "\u2018Everything is drowning.\u2019 Nova Kakhovka dam collapse brings added danger to frontline city of Kherson - CNN",
+            "description": "Nadejda Chernishova breathes a sigh of relief as she steps off a rubber dinghy, moments after being rescued from her flooded home in Kherson.",
+            "url": "https://www.cnn.com/2023/06/06/europe/ukraine-kherson-nova-kakhovka-flood-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230606145516-01-nova-kakhovka-dam-cnn.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-07T09:24:00Z",
+            "content": "Nadejda Chernishova breathes a sigh of relief as she steps off a rubber dinghy, moments after being rescued from her flooded home in Kherson. \r\nIm not afraid now, but it was scary in my home, the 65-\u2026 [+3606 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "AI Demonstrates Superior Performance in Predicting Breast Cancer - SciTechDaily",
+            "description": "AI algorithms outperformed traditional clinical risk models in a large-scale study, predicting five-year breast cancer risk more accurately. These models use mammograms as the single data source, offering potential advantages in individualizing patient care a\u2026",
+            "url": "https://scitechdaily.com/ai-demonstrates-superior-performance-in-predicting-breast-cancer/",
+            "urlToImage": "https://scitechdaily.com/images/Artificial-Intelligence-AI-Success-Art.jpg",
+            "publishedAt": "2023-06-07T08:22:40Z",
+            "content": "In a comprehensive study published in the journal Radiology, artificial intelligence (AI) algorithms demonstrated superior performance to the standard clinical risk model in predicting the five-year \u2026 [+6132 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris",
+            "title": "It\u2019s been 4 days since Ajike \u2018AJ\u2019 Owens was fatally shot after knocking on a neighbor\u2019s door. Here\u2019s what we know - CNN",
+            "description": "It\u2019s been four days since 35-year-old Ajike \u201cAJ\u201d Owens was shot and killed in central Florida after knocking on a neighbor\u2019s door.",
+            "url": "https://www.cnn.com/2023/06/06/us/ajike-aj-owens-florida-shot-what-we-know/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605173535-aj-owens.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-07T07:07:00Z",
+            "content": "Its been four days since 35-year-old Ajike AJ Owens was shot and killed in central Florida after knocking on a neighbors door.\r\nOwens family says the shooter, identified by police reports only as a 5\u2026 [+5228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Senegal, one of Africa's bastions of stability, faces its gravest threat of unrest in decades - CNBC",
+            "description": "The sentencing of a populist opposition leader in Senegal has triggered widespread unrest that threatens the West African country's long-established political stability.",
+            "url": "https://www.cnbc.com/2023/06/07/senegal-one-of-africas-bastions-of-stability-faces-its-gravest-threat-of-unrest-in-decades.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107251535-1686039444457-GettyImages-1258388175.jpg?v=1686121037&w=1920&h=1080",
+            "publishedAt": "2023-06-07T06:57:17Z",
+            "content": "DAKAR, Senegal - June 2, 2023: Supporters of jailed opposition leader Ousmane Sonko protest in the Senegalese capital following his two-year sentencing for \"corrupting the youth.\"\r\nThe criminal convi\u2026 [+8284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "LIVE: Prince Harry expected to arrive at court - Reuters",
+            "description": "Prince Harry is expected to arrive at court in London as he testifies in his lawsuit against a newspaper group he accuses of extensive unlawful behavior.Harr...",
+            "url": "https://www.youtube.com/watch?v=TpTF6Yzao0Q",
+            "urlToImage": "https://i.ytimg.com/vi/TpTF6Yzao0Q/maxresdefault_live.jpg",
+            "publishedAt": "2023-06-07T06:39:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "'Public nuisance': New York sues Hyundai and Kia, alleging their cars are easy to steal - CNBC",
+            "description": "A viral TikTok challenge started in 2021 and spurred a rise in thefts of Hyundai and Kia cars.",
+            "url": "https://www.cnbc.com/2023/06/07/public-nuisance-hyundai-kia.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107252344-1686113549201-gettyimages-1229229394-SKOREA_HYUNDAI_MOTOR.jpeg?v=1686119937&w=1920&h=1080",
+            "publishedAt": "2023-06-07T06:38:57Z",
+            "content": "South Korean automakers Hyundai\u00a0and\u00a0Kia\u00a0are being sued for causing a \"public nuisance,\" according to a complaint\u00a0filed\u00a0in Manhattan federal court.\r\nNew York City is accusing the two firms of failing \u2026 [+3142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Air India to send plane to Russia to rescue US-bound passengers - BBC",
+            "description": "A Delhi-San Francisco Air India flight was diverted to Russia after its engine developed a snag.",
+            "url": "https://www.bbc.com/news/world-asia-india-65830129",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F59/production/_130014049__128633949_gettyimages-1246146196-594x594.jpg",
+            "publishedAt": "2023-06-07T06:32:46Z",
+            "content": "Air India is set to send a replacement plane to ferry stranded passengers from a US-bound flight after its plane made an emergency landing in Russia.\r\nThe Delhi-San Francisco flight had 216 passenger\u2026 [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "PGA Tour and LIV announce shock merger to end bitter split - Reuters",
+            "description": "The world of golf was left stunned on Tuesday as the PGA Tour, DP World Tour and rival Saudi-backed LIV circuit, who have been involved in a bitter fight that has split the sport, announced a shock agreement to merge and form one unified commercial entity.",
+            "url": "https://www.reuters.com/sports/golf/pga-tour-european-tour-liv-golf-announce-merger-2023-06-06/",
+            "urlToImage": "https://www.reuters.com/resizer/Q_ajo-fkVHSrAG6xLK-Bo4rtCnM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PFY2AIZUYRB7LK3SNVZSUOUFZI.JPG",
+            "publishedAt": "2023-06-07T06:16:00Z",
+            "content": "June 6 (Reuters) - The world of golf was left stunned on Tuesday as the PGA Tour, DP World Tour and rival Saudi-backed LIV circuit, who have been involved in a bitter fight that has split the sport, \u2026 [+8122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Masks Strong Market Breadth; This Cathie Wood Stock Soars As Another Plunges | Investor's Business Daily - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-masks-strong-market-breadth-this-cathie-wood-stock-soars-as-another-plunges/",
+            "urlToImage": null,
+            "publishedAt": "2023-06-07T04:32:00Z",
+            "content": null
+        },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "Doug Ferguson",
-            "title": "PGA Tour and European tour agree to merge with Saudis and end LIV Golf feud - The Associated Press",
-            "description": "The PGA Tour abruptly dropped its expensive fight with Saudi Arabia\u2019s LIV Golf venture on Tuesday and instead announced a stunning merger that creates a global operation featuring the world\u2019s top players backed by the Saudis' massive wealth.",
-            "url": "https://apnews.com/article/liv-golf-pga-europeann-tour-saudi-arabia-a316315863e88d3f69b763fbdc82ebe0",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/19d3122c34514964ac207ab30191e252/3000.webp",
-            "publishedAt": "2023-06-07T00:05:39Z",
-            "content": "The PGA Tour abruptly dropped its expensive fight with Saudi Arabias LIV Golf venture on Tuesday and instead announced a stunning merger that creates a global operation featuring the worlds top playe\u2026 [+7845 chars]"
+            "author": "Sarah Rankin",
+            "title": "2 dead in shooting after high school graduation ceremony in Virginia capital - The Associated Press",
+            "description": "RICHMOND, Va. (AP) \u2014 Seven people were shot, two fatally, when gunfire rang out Tuesday outside a downtown theater where a high school graduation ceremony had just ended, causing hundreds of attendees to flee in panic, weep and clutch their children, authorit\u2026",
+            "url": "https://apnews.com/article/vcu-shooting-richmond-monroe-park-af3d46f8ece90c574731354a4e4157ab",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/436e6e82b3c24c088258604700b369c8/3000.webp",
+            "publishedAt": "2023-06-07T02:02:31Z",
+            "content": "RICHMOND, Va. (AP) Seven people were shot, two fatally, when gunfire rang out Tuesday outside a downtown theater where a high school graduation ceremony had just ended, causing hundreds of attendees \u2026 [+4646 chars]"
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Meredith Deliso, Beatrice Peterson",
-            "title": "7 people shot following high school graduation at Virginia Commonwealth University: Police - ABC News",
-            "description": "Six people were also injured in the aftermath of the shooting, police said.",
-            "url": "https://abcnews.go.com/US/shooting-virginia-commonwealth-university/story?id=99883538",
-            "urlToImage": "https://s.abcnews.com/images/US/shooter-1-ht-er-230606_1686090169489_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-06-06T23:48:45Z",
-            "content": "Seven people were shot following a high school graduation in Richmond, Virginia, on Tuesday, police said.\r\nTwo people are in custody, and there is no ongoing threat to the community following the inc\u2026 [+1631 chars]"
+            "author": "Ellis Kim, Scott MacFarlane",
+            "title": "House GOP rules vote on gas stoves goes up in flames - CBS News",
+            "description": "House Freedom Caucus (HFC) members, the farthest right lawmakers in Congress, joined Democrats in opposing the rule that would allow the bill to be considered by the House.",
+            "url": "https://www.cbsnews.com/news/gas-stoves-house-rules-vote-goes-up-in-flames/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2018/08/29/fc806a16-1894-4e1f-bed3-f160f22808a4/thumbnail/1200x630/2c2e19d27b3651da17c44b878286cb69/istock-92287654.jpg",
+            "publishedAt": "2023-06-07T01:38:51Z",
+            "content": "House Republican leaders hoping to pass a rule Monday to set up floor votes on a bill to constrain the government's ability to regulate gas stoves saw their efforts go up in flames after House Freedo\u2026 [+3860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "AI's bizarre prediction for World Test Championship final - cricket.com.au",
+            "description": "What happens if you ask artificial intelligence to predict the result of the 2023 World Test Championship final between Australia and India?Download our app:...",
+            "url": "https://www.youtube.com/watch?v=x5rL5TjskTk",
+            "urlToImage": "https://i.ytimg.com/vi/x5rL5TjskTk/maxresdefault.jpg",
+            "publishedAt": "2023-06-07T00:25:11Z",
+            "content": null
         },
         {
             "source": {
@@ -43,29 +212,16 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Vasilisa Stepanenko",
-            "title": "Live updates: Collapse of Kakhovka dam in Ukraine triggers emergency - The Associated Press",
-            "description": "The wall of a major dam in a part of southern Ukraine that Moscow controls collapsed Tuesday after a reported explosion, sending water gushing downriver and prompting dire warnings of ecological disaster as both sides in the war ordered residents to evacuate.",
-            "url": "https://apnews.com/article/russia-ukraine-war-kakhovka-dam-flood-evacuation-eecc9952c2d9f500c38b0a873f69438c",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d367ec6411444665a27828ba2f291842/3000.jpeg",
-            "publishedAt": "2023-06-06T23:30:36Z",
-            "content": "KHERSON, Ukraine (AP) A major dam in southern Ukraine collapsed Tuesday, flooding villages, endangering crops and threatening drinking water supplies as both sides in the war scrambled to evacuate re\u2026 [+7513 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "MLB.com"
+                "name": "Hollywood Reporter"
             },
-            "author": "Mark Sheldon",
-            "title": "Elly De La Cruz called up to Reds - MLB.com",
-            "description": "CINCINNATI -- Shortstop Elly De La Cruz is one of the most hotly anticipated prospects in all of baseball, and Reds fans' wait to see him play in the big leagues is now over.\nDe La Cruz has arrived.\nCincinnati's No. 1 prospect and the No. 4 overall prospect, \u2026",
-            "url": "https://www.mlb.com/news/elly-de-la-cruz-called-up",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/x2hryby7fqxcxzmqxyeu.jpg",
-            "publishedAt": "2023-06-06T23:22:12Z",
-            "content": "CINCINNATI -- Shortstop Elly De La Cruz is one of the most hotly anticipated prospects in all of baseball, and Reds fans' wait to see him play in the big leagues is now over.\r\nCincinnati's No. 1 pros\u2026 [+4287 chars]"
+            "author": "Carly Thomas",
+            "title": "Sarah Jessica Parker, Cynthia Nixon, Kristin Davis Celebrate \u2018Sex and the City\u2019 25th Anniversary: \u201cMemories Will Always Be Gold\u201d - Hollywood Reporter",
+            "description": "The hit HBO show initially premiered on June 6, 1998.",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/sex-and-the-city-castmembers-celebrate-25th-anniversary-1235508682/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2015/09/sex_and_the_city_ok_-_h_2015_0.jpg?w=1024",
+            "publishedAt": "2023-06-06T23:18:51Z",
+            "content": "Sarah Jessica Parker, Cynthia Nixon and Kristin Davis took to social media Tuesday to celebrate the 25th anniversary of Sex and the City.\r\nOn June 6, 1998, the world was introduced to four women \u2014 Ca\u2026 [+2133 chars]"
         },
         {
             "source": {
@@ -82,185 +238,29 @@
         },
         {
             "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": null,
-            "title": "Apple's developer betas are now free to download and install | Engadget - Engadget",
-            "description": "Apple has updated its developer program to allow users to install the developer beta without needing to pay the annual $99 fee..",
-            "url": "https://www.engadget.com/apples-developer-betas-are-now-free-to-download-and-install-213626729.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/BCO2DDJ7gfPJBzpotIboug--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/96220070-04b0-11ee-bdfe-7f8fc2d638c6.cf.jpg",
-            "publishedAt": "2023-06-06T21:37:22Z",
-            "content": "Today, Apple updated its developer program to allow anyone access to the beta operating systems. Pointed out by user iSoftware Updates on Twitter and confirmed by Apples developer program comparison \u2026 [+2160 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Seattle Times"
-            },
-            "author": "Dominic Gates",
-            "title": "Boeing finds another quality problem on 787, delaying deliveries again - The Seattle Times",
-            "description": "Boeing has found another manufacturing flaw on the 787 Dreamliner \u2014 this time on the horizontal tail. Here's what that means for in-service planes and deliveries.",
-            "url": "https://www.seattletimes.com/business/boeing-aerospace/boeing-discovers-another-quality-flaw-on-787-delaying-deliveries-again/",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/06/06062023_TZR_Boeing_787_South_Carolina_tzr_134847.jpg?d=1200x630",
-            "publishedAt": "2023-06-06T21:30:16Z",
-            "content": "Boeing said Tuesday it has discovered yet another manufacturing quality flaw on the 787 Dreamliner this time in an attachment fitting on the horizontal tail, referred to as the stabilizer that will d\u2026 [+3077 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Vincent Goodwill",
-            "title": "NBA Finals: Nuggets' 4th-quarter woes open door for Heat's opportunistic offense - Yahoo Sports",
-            "description": "Something\u2019s amiss, especially in the fourth quarters of these games. It\u2019s a critical time where Nikola Joki\u0107 is sitting for his usual rest, and an inflection...",
-            "url": "https://sports.yahoo.com/nba-finals-nuggets-4th-quarter-woes-open-door-for-heats-opportunistic-offense-211036590.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RzNaIT.Jv8d88Lk6fOCGuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/b44a0560-04ac-11ee-aeaf-6d811987219a",
-            "publishedAt": "2023-06-06T21:10:36Z",
-            "content": "MIAMI The Nuggets insist theyre not shook, even though their post-Game 2 body language and comments suggested a level of shock they actually blew a game on their home floor.\r\nPerhaps its the stakes, \u2026 [+6264 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "France's last surviving D-Day commando joins beach landing anniversary - Reuters",
-            "description": "Leon Gautier, the last surviving member of the French commandos who stormed the Normandy beaches defended by Hitler's troops in 1944, on Tuesday joined President Emmanuel Macron at a seafront ceremony marking the 79th anniversary of the D-Day landings.",
-            "url": "https://www.reuters.com/world/europe/frances-last-surviving-d-day-commando-joins-beach-landing-anniversary-2023-06-06/",
-            "urlToImage": "https://www.reuters.com/resizer/Poxrwtk_iFrVd5YGtwMO4hbHAtw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L7M3JPPTEZI6JLQWBYUZSUH5AE.jpg",
-            "publishedAt": "2023-06-06T20:51:00Z",
-            "content": "COLLEVILLE-MONTGOMERY, France, June 6 (Reuters) - Leon Gautier, the last surviving member of the French commandos who stormed the Normandy beaches defended by Hitler's troops in 1944, on Tuesday join\u2026 [+1600 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "YouTube"
             },
             "author": null,
-            "title": "QUICKCAST: California points finger at Florida for latest migrant flight arrival. - CBS Miami",
-            "description": "Protesters call for the dismissal of #Miami commissioner Joe Carollo.#HollywoodFL good Samaritan reunites with mass shooting victim.Catch the Quickcast with ...",
-            "url": "https://www.youtube.com/watch?v=2bvvguQaEJ4",
-            "urlToImage": "https://i.ytimg.com/vi/2bvvguQaEJ4/hqdefault.jpg",
-            "publishedAt": "2023-06-06T20:41:09Z",
+            "title": "SpaceX Dragon craft carrying food, supplies and equipment arrives at International Space Station - The Sun",
+            "description": "SpaceX's Dragon Cargo craft carrying food, supplies, and equipment arrived at the International Space Station on Tuesday (June 6).The craft completed docking...",
+            "url": "https://www.youtube.com/watch?v=Jvpt-3VaIH0",
+            "urlToImage": "https://i.ytimg.com/vi/Jvpt-3VaIH0/maxresdefault.jpg",
+            "publishedAt": "2023-06-06T22:15:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "CBS Sports"
             },
-            "author": null,
-            "title": "Prince Harry: How did he handle his day in court? - BBC News - BBC News",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=-Wq4l6kA8DY",
-            "urlToImage": null,
-            "publishedAt": "2023-06-06T20:38:37Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GMA"
-            },
-            "author": "Yi-Jin Yu",
-            "title": "Parents warned to stop using recalled Boppy loungers - GMA",
-            "description": "",
-            "url": "https://www.goodmorningamerica.com/family/story/parents-warned-stop-recalled-boppy-loungers-linked-10-99872620",
-            "urlToImage": "https://s.abcnews.com/images/GMA/boppy-ht-gmh-230606_1686070721710_hpMain_16x9_608.jpg",
-            "publishedAt": "2023-06-06T20:26:15Z",
-            "content": "Parents were advised Tuesday to stop using recalled newborn loungers from The Boppy Company that have been linked to at least 10 infant deaths.\r\nAccording to The Boppy Company and the \r\n Consumer Pro\u2026 [+2264 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Herb Scribner",
-            "title": "Cuba Gooding Jr. settles civil sex abuse case - The Washington Post",
-            "description": "The settlement allows Cuba Gooding Jr. to avoid trial over a rape allegation - among the most serious of many accusations made against the Oscar-winning actor.",
-            "url": "https://www.washingtonpost.com/lifestyle/2023/06/06/cuba-gooding-jr-civil-case/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WX2OK2R5GEI6VL7CBEHLG63AWE.jpg&w=1440",
-            "publishedAt": "2023-06-06T20:21:00Z",
-            "content": "Comment on this story\r\nComment\r\nActor Cuba Gooding Jr. has reached a settlement over accusations that he raped a woman in a New York hotel, according to court records reported by the Associated Press\u2026 [+1938 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Tumaini Carayol",
-            "title": "Sabalenka reaches French Open semis and says she does not back Lukashenko - The Guardian",
-            "description": "Aryna Sabalenka beat Elina Svitolina 6-4, 6-4 but the Ukrainian ignored Sabalenka, who was waiting at the net after their match",
-            "url": "https://www.theguardian.com/sport/2023/jun/06/aryna-sabalenka-reaches-semis-and-says-she-does-not-support-belarus-dictator",
-            "urlToImage": "https://i.guim.co.uk/img/media/5ac82edaae75debba28c0c417d2f3353be76118b/0_50_4128_2477/master/4128.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86844f7545723ad21a92844d4a4f652b",
-            "publishedAt": "2023-06-06T20:21:00Z",
-            "content": "Aryna Sabalenka has said she does not support the Belarus dictator Alexander Lukashenko, as she returned to conduct her mandatory press duties following her French Open quarter-final win against Ukra\u2026 [+10076 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Rebecca Keegan",
-            "title": "An \u201cExistential Fight\u201d Looms If Actors Join the Writers Strike - Hollywood Reporter",
-            "description": "As SAG-AFTRA starts negotiations with the AMPTP, the threat of a wider work stoppage is already having a chilling effect on film and TV production.",
-            "url": "https://www.hollywoodreporter.com/business/business-news/writers-strike-sag-aftra-actors-1235508507/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-1253366721-H-2023.jpg?w=1024",
-            "publishedAt": "2023-06-06T20:13:34Z",
-            "content": "Not since 1980 \u2014 when they shut down production over residuals from now-quaint tech like videotapes and cable TV \u2014 have Hollywood\u2019s actors gone on strike against the major film and TV studios. But wi\u2026 [+5043 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Matthew Cappucci",
-            "title": "Canadian wildfires cause air quality alerts as smoke hits U.S. - The Washington Post",
-            "description": "The smoke, emanating from Canada, is causing gray skies and poor air quality.",
-            "url": "https://www.washingtonpost.com/weather/2023/06/06/northeast-wildfire-smoke-canada-pollution/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-06-2023/t_d1123086ad4c403d8e7a5b3b56e2fa18_name_Sequence_06_00_04_05_05_Still004.jpg&w=1440",
-            "publishedAt": "2023-06-06T20:10:00Z",
-            "content": "Comment on this story\r\nComment\r\nThe smoky scenes and threat of fast-moving fires so common in California during recent summers are now paying the eastern United States an unwelcome, improbable and to\u2026 [+7575 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Alexandra Canal",
-            "title": "'Spider-Man,' 'Super Mario Bros' signal 'new era' of competition for Disney - Yahoo Finance",
-            "description": "The animation rebound is here as competitors take aim at Disney.",
-            "url": "https://finance.yahoo.com/news/spider-man-super-mario-bros-signal-new-era-of-competition-for-disney-194220682.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/neGyTqo.Smp7tGQiWYelDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MTY-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/c62919c0-03cf-11ee-a3bf-d35ec71ac0d9",
-            "publishedAt": "2023-06-06T19:42:20Z",
-            "content": "Animation has been viewed as a laggard in Hollywood's recovery from COVID. Two recent movie releases show that isn't the case anymore.\r\nLast weekend, Sony's \"Spider-Man: Across the Spider-Verse\" (SON\u2026 [+5462 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Michael Tobin",
-            "title": "Apollo CEO Marc Rowan Sees 'Non-Recession Recession' as Rate Hikes Bite - Bloomberg",
-            "description": "Apollo Global Management Inc. Chief Executive Officer Marc Rowan sees the US having a \u201cnon-recession recession,\u201d as financial markets feel some pain while the underlying economy remains strong.",
-            "url": "https://www.bloomberg.com/news/articles/2023-06-06/apollo-s-rowan-sees-non-recession-recession-as-rate-hikes-bite",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBEidV.RSOJU/v1/1200x800.jpg",
-            "publishedAt": "2023-06-06T19:19:38Z",
-            "content": "Apollo Global Management Inc. Chief Executive Officer Marc Rowan sees the US having a \u201cnon-recession recession,\u201d as financial markets feel some pain while the underlying economy remains strong.\u00a0\r\nFix\u2026 [+225 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Gregory Krieg,Shania Shelton",
-            "title": "Chris Christie files to run for 2024 Republican presidential nomination - CNN",
-            "description": "Former New Jersey Gov. Chris Christie announced that he\u2019s running for president in New Hampshire on Tuesday, launching his second bid for the White House and kicking off another clash with former President Donald Trump, the GOP frontrunner and a former Christ\u2026",
-            "url": "https://www.cnn.com/2023/06/06/politics/chris-christie-2024-announcement/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605133951-chris-christie-230420.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-06T19:17:00Z",
-            "content": "Former New Jersey Gov. Chris Christie announced that hes running for president in New Hampshire on Tuesday, launching his second bid for the White House and kicking off another clash with former Pres\u2026 [+4458 chars]"
+            "author": "",
+            "title": "LeBron James, Kyrie Irving selfishly disrupting NBA Finals with preposterous Mavericks team-up rumors - CBS Sports",
+            "description": "There is almost no way for James and Irving to reunite in Dallas, but they're still making it about themselves during the Finals",
+            "url": "https://www.cbssports.com/nba/news/lebron-james-kyrie-irving-selfishly-disrupting-nba-finals-with-preposterous-mavericks-team-up-rumors/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/06/b9ea301c-22df-4be7-a7e1-13b0f713b7b3/thumbnail/1200x675/a46f096e80a525bfae2769b5ea883592/lebron-kyrie-getty.png",
+            "publishedAt": "2023-06-06T21:40:00Z",
+            "content": "MIAMI Leave it to Kyrie Iriving. Ruining basketball teams is no longer enough. Now, along with his buddy LeBron James, he's doing his best to diminish this year's NBA Finals, too.\r\nOn Wednesday, thos\u2026 [+6084 chars]"
         }
     ]
 }
