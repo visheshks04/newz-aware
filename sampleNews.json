@@ -1,19 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Rohan Goswami",
-            "title": "SEC sues Coinbase over exchange and staking programs, stock drops 15% premarket - CNBC",
-            "description": "The U.S. securities regulator alleged that the exchange was offering 13 different assets that were considered securities and operating as a broker and exchange.",
-            "url": "https://www.cnbc.com/2023/06/06/sec-sues-coinbase-over-exchange-and-staking-programs-stock-drops-14percent.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107101290-1660067806742-gettyimages-1240408247-AFP_329D4LC.jpeg?v=1686054329&w=1920&h=1080",
-            "publishedAt": "2023-06-06T12:22:50Z",
-            "content": "The Securities and Exchange Commission sued crypto exchange Coinbase in New York federal court on Tuesday morning, alleging that the company was acting as an unregistered broker and exchange and dema\u2026 [+3115 chars]"
+            "author": "Doug Ferguson",
+            "title": "PGA Tour and European tour agree to merge with Saudis and end LIV Golf feud - The Associated Press",
+            "description": "The PGA Tour abruptly dropped its expensive fight with Saudi Arabia\u2019s LIV Golf venture on Tuesday and instead announced a stunning merger that creates a global operation featuring the world\u2019s top players backed by the Saudis' massive wealth.",
+            "url": "https://apnews.com/article/liv-golf-pga-europeann-tour-saudi-arabia-a316315863e88d3f69b763fbdc82ebe0",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/19d3122c34514964ac207ab30191e252/3000.webp",
+            "publishedAt": "2023-06-07T00:05:39Z",
+            "content": "The PGA Tour abruptly dropped its expensive fight with Saudi Arabias LIV Golf venture on Tuesday and instead announced a stunning merger that creates a global operation featuring the worlds top playe\u2026 [+7845 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Meredith Deliso, Beatrice Peterson",
+            "title": "7 people shot following high school graduation at Virginia Commonwealth University: Police - ABC News",
+            "description": "Six people were also injured in the aftermath of the shooting, police said.",
+            "url": "https://abcnews.go.com/US/shooting-virginia-commonwealth-university/story?id=99883538",
+            "urlToImage": "https://s.abcnews.com/images/US/shooter-1-ht-er-230606_1686090169489_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-06-06T23:48:45Z",
+            "content": "Seven people were shot following a high school graduation in Richmond, Virginia, on Tuesday, police said.\r\nTwo people are in custody, and there is no ongoing threat to the community following the inc\u2026 [+1631 chars]"
         },
         {
             "source": {
@@ -21,246 +34,233 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "French pension plan protesters briefly occupy Summer Olympics HQ - Reuters",
-            "description": "Members of the hard-left CGT trade union briefly occupied the headquarters of the Paris Summer 2024 Olympics on Tuesday on the 14th day of protests against government plans to raise the retirement age to 64.",
-            "url": "https://www.reuters.com/world/europe/protesters-prepare-last-ditch-bid-stop-french-pension-overhaul-2023-06-06/",
-            "urlToImage": "https://www.reuters.com/resizer/P93I4ncIE0Gyqyd7qfvGO2Ijpwk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WQ5YE6ZF45IWBDHRGG33OIOGJQ.jpg",
-            "publishedAt": "2023-06-06T11:37:00Z",
-            "content": "PARIS, June 6 (Reuters) - Members of the hard-left CGT trade union briefly occupied the headquarters of the Paris Summer 2024 Olympics on Tuesday on the 14th day of protests against government plans \u2026 [+3685 chars]"
+            "title": "US steps up crackdown on crypto with lawsuits against Coinbase, Binance - Reuters",
+            "description": "The top U.S. securities regulator sued cryptocurrency platform Coinbase on Tuesday, the second lawsuit in two days against a major crypto exchange, in a dramatic escalation of a crackdown on the industry and one that could dramatically transform a market that\u2026",
+            "url": "https://www.reuters.com/legal/us-sec-sues-coinbase-over-failure-register-2023-06-06/",
+            "urlToImage": "https://www.reuters.com/resizer/YcOAAufKNMw_0TSsgNpHbLl9FFs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IM4JQOPDAFNTNAHJXNIRAQCJUQ.jpg",
+            "publishedAt": "2023-06-06T23:33:00Z",
+            "content": "NEW YORK, June 6 (Reuters) - The top U.S. securities regulator sued cryptocurrency platform Coinbase on Tuesday, the second lawsuit in two days against a major crypto exchange, in a dramatic escalati\u2026 [+4855 chars]"
         },
         {
             "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Manish Singh and Rita Liao",
-            "title": "Sequoia splits China and India arms from US mothership - TechCrunch",
-            "description": "Sequoia is splitting into three entities -- Sequoia Capital in US and Europe, Peak XY Partners in India and SEA, and HongShan in China",
-            "url": "https://techcrunch.com/2023/06/06/sequoia-rebrands-china-india-and-southeast-asia-units/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-563374603-1.jpg?resize=1200,602",
-            "publishedAt": "2023-06-06T11:15:00Z",
-            "content": "Sequoia is splitting into three entities \u2014 Sequoia Capital in U.S. and Europe, Peak XV Partners in India and Southeast Asia, and HongShan in China \u2014 as the storied venture firm scrambles to assess th\u2026 [+3239 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Jimmy LaRoue, Adrienne Mayfield, Brian Reese",
-            "title": "Federal gun charges filed against mother of 6-year-old who shot Virginia teacher - The Hill",
-            "description": "The mother of the Richneck Elementary School student who police say shot his teacher in January is now facing federal gun charges.",
-            "url": "https://thehill.com/homenews/4035655-federal-gun-charges-filed-against-mother-of-6-year-old-who-shot-virginia-teacher/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/06/Deja-Taylor-MUG.jpg?w=1280",
-            "publishedAt": "2023-06-06T10:46:00Z",
-            "content": "Skip to content\r\nNEWPORT NEWS, Va. (WAVY) \u2013 The mother of the Virginia elementary student who police say shot his teacher in January is now facing federal gun charges. \r\nCourt documents indicate that\u2026 [+2618 chars]"
+            "author": "Vasilisa Stepanenko",
+            "title": "Live updates: Collapse of Kakhovka dam in Ukraine triggers emergency - The Associated Press",
+            "description": "The wall of a major dam in a part of southern Ukraine that Moscow controls collapsed Tuesday after a reported explosion, sending water gushing downriver and prompting dire warnings of ecological disaster as both sides in the war ordered residents to evacuate.",
+            "url": "https://apnews.com/article/russia-ukraine-war-kakhovka-dam-flood-evacuation-eecc9952c2d9f500c38b0a873f69438c",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d367ec6411444665a27828ba2f291842/3000.jpeg",
+            "publishedAt": "2023-06-06T23:30:36Z",
+            "content": "KHERSON, Ukraine (AP) A major dam in southern Ukraine collapsed Tuesday, flooding villages, endangering crops and threatening drinking water supplies as both sides in the war scrambled to evacuate re\u2026 [+7513 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "MLB.com"
             },
-            "author": "Mike Calia",
-            "title": "5 things to know before the stock market opens Tuesday - CNBC",
-            "description": "Here are the most important news items that investors need to start their trading day.",
-            "url": "https://www.cnbc.com/2023/06/06/5-things-to-know-before-the-stock-market-opens-tuesday-june-6.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107251281-1685991400569-NYSE_Traders-OB-20230605-CC-PRESS-1.jpg?v=1686047961&w=1920&h=1080",
-            "publishedAt": "2023-06-06T10:39:21Z",
-            "content": "Traders work on the floor of the New York Stock Exchange.\u00a0\r\nHere are the most important news items that investors need to start their trading day:\r\n1. Back in neutral\r\nU.S. equities markets took a st\u2026 [+4029 chars]"
+            "author": "Mark Sheldon",
+            "title": "Elly De La Cruz called up to Reds - MLB.com",
+            "description": "CINCINNATI -- Shortstop Elly De La Cruz is one of the most hotly anticipated prospects in all of baseball, and Reds fans' wait to see him play in the big leagues is now over.\nDe La Cruz has arrived.\nCincinnati's No. 1 prospect and the No. 4 overall prospect, \u2026",
+            "url": "https://www.mlb.com/news/elly-de-la-cruz-called-up",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/x2hryby7fqxcxzmqxyeu.jpg",
+            "publishedAt": "2023-06-06T23:22:12Z",
+            "content": "CINCINNATI -- Shortstop Elly De La Cruz is one of the most hotly anticipated prospects in all of baseball, and Reds fans' wait to see him play in the big leagues is now over.\r\nCincinnati's No. 1 pros\u2026 [+4287 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "The Guardian"
             },
-            "author": "Ben Morse",
-            "title": "Patrick Mahomes draws laughter at White House as he steers Travis Kelce away from microphone - CNN",
-            "description": "Some people look unnatural behind a microphone. You can definitely not say that about Kansas City Chiefs tight end Travis Kelce.",
-            "url": "https://www.cnn.com/2023/06/06/sport/kelce-mahomes-chiefs-white-house-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230606095026-01-travis-kelce-patrick-mahomes-white-house-060523.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-06T10:31:00Z",
-            "content": "Some people look unnatural behind a microphone. You can definitely not say that about Kansas City Chiefs tight end Travis Kelce. \r\nWhen presented with an opportunity, he usually revels in the attenti\u2026 [+2503 chars]"
+            "author": "Ian Sample",
+            "title": "Origins of masturbation traced back to primates 40m years ago - The Guardian",
+            "description": "Behaviour predates humans by tens of millions of years but evolutionary purpose is less clear, scientists say",
+            "url": "https://www.theguardian.com/science/2023/jun/07/origins-masturbation-traced-back-primates-40m-years-ago",
+            "urlToImage": "https://i.guim.co.uk/img/media/2eacd157c9a66311de25e19b2b3865932869e25d/0_52_2250_1350/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77aeb931ba7675fcbf29a7c262bf725e",
+            "publishedAt": "2023-06-06T23:01:00Z",
+            "content": "Evolutionary biologists have traced the origins of masturbation to ancient primates that predate the first humans by tens of millions of years.\r\nThe findings emerged from what scientists believe is t\u2026 [+2756 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": null,
+            "title": "Apple's developer betas are now free to download and install | Engadget - Engadget",
+            "description": "Apple has updated its developer program to allow users to install the developer beta without needing to pay the annual $99 fee..",
+            "url": "https://www.engadget.com/apples-developer-betas-are-now-free-to-download-and-install-213626729.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/BCO2DDJ7gfPJBzpotIboug--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/96220070-04b0-11ee-bdfe-7f8fc2d638c6.cf.jpg",
+            "publishedAt": "2023-06-06T21:37:22Z",
+            "content": "Today, Apple updated its developer program to allow anyone access to the beta operating systems. Pointed out by user iSoftware Updates on Twitter and confirmed by Apples developer program comparison \u2026 [+2160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Seattle Times"
+            },
+            "author": "Dominic Gates",
+            "title": "Boeing finds another quality problem on 787, delaying deliveries again - The Seattle Times",
+            "description": "Boeing has found another manufacturing flaw on the 787 Dreamliner \u2014 this time on the horizontal tail. Here's what that means for in-service planes and deliveries.",
+            "url": "https://www.seattletimes.com/business/boeing-aerospace/boeing-discovers-another-quality-flaw-on-787-delaying-deliveries-again/",
+            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/06/06062023_TZR_Boeing_787_South_Carolina_tzr_134847.jpg?d=1200x630",
+            "publishedAt": "2023-06-06T21:30:16Z",
+            "content": "Boeing said Tuesday it has discovered yet another manufacturing quality flaw on the 787 Dreamliner this time in an attachment fitting on the horizontal tail, referred to as the stabilizer that will d\u2026 [+3077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Vincent Goodwill",
+            "title": "NBA Finals: Nuggets' 4th-quarter woes open door for Heat's opportunistic offense - Yahoo Sports",
+            "description": "Something\u2019s amiss, especially in the fourth quarters of these games. It\u2019s a critical time where Nikola Joki\u0107 is sitting for his usual rest, and an inflection...",
+            "url": "https://sports.yahoo.com/nba-finals-nuggets-4th-quarter-woes-open-door-for-heats-opportunistic-offense-211036590.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RzNaIT.Jv8d88Lk6fOCGuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/b44a0560-04ac-11ee-aeaf-6d811987219a",
+            "publishedAt": "2023-06-06T21:10:36Z",
+            "content": "MIAMI The Nuggets insist theyre not shook, even though their post-Game 2 body language and comments suggested a level of shock they actually blew a game on their home floor.\r\nPerhaps its the stakes, \u2026 [+6264 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "France's last surviving D-Day commando joins beach landing anniversary - Reuters",
+            "description": "Leon Gautier, the last surviving member of the French commandos who stormed the Normandy beaches defended by Hitler's troops in 1944, on Tuesday joined President Emmanuel Macron at a seafront ceremony marking the 79th anniversary of the D-Day landings.",
+            "url": "https://www.reuters.com/world/europe/frances-last-surviving-d-day-commando-joins-beach-landing-anniversary-2023-06-06/",
+            "urlToImage": "https://www.reuters.com/resizer/Poxrwtk_iFrVd5YGtwMO4hbHAtw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L7M3JPPTEZI6JLQWBYUZSUH5AE.jpg",
+            "publishedAt": "2023-06-06T20:51:00Z",
+            "content": "COLLEVILLE-MONTGOMERY, France, June 6 (Reuters) - Leon Gautier, the last surviving member of the French commandos who stormed the Normandy beaches defended by Hitler's troops in 1944, on Tuesday join\u2026 [+1600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "QUICKCAST: California points finger at Florida for latest migrant flight arrival. - CBS Miami",
+            "description": "Protesters call for the dismissal of #Miami commissioner Joe Carollo.#HollywoodFL good Samaritan reunites with mass shooting victim.Catch the Quickcast with ...",
+            "url": "https://www.youtube.com/watch?v=2bvvguQaEJ4",
+            "urlToImage": "https://i.ytimg.com/vi/2bvvguQaEJ4/hqdefault.jpg",
+            "publishedAt": "2023-06-06T20:41:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Prince Harry: How did he handle his day in court? - BBC News - BBC News",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=-Wq4l6kA8DY",
+            "urlToImage": null,
+            "publishedAt": "2023-06-06T20:38:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA"
+            },
+            "author": "Yi-Jin Yu",
+            "title": "Parents warned to stop using recalled Boppy loungers - GMA",
+            "description": "",
+            "url": "https://www.goodmorningamerica.com/family/story/parents-warned-stop-recalled-boppy-loungers-linked-10-99872620",
+            "urlToImage": "https://s.abcnews.com/images/GMA/boppy-ht-gmh-230606_1686070721710_hpMain_16x9_608.jpg",
+            "publishedAt": "2023-06-06T20:26:15Z",
+            "content": "Parents were advised Tuesday to stop using recalled newborn loungers from The Boppy Company that have been linked to at least 10 infant deaths.\r\nAccording to The Boppy Company and the \r\n Consumer Pro\u2026 [+2264 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Ellen Francis, Adela Suliman, Rachel Pannett",
-            "title": "Nova Kakhovka dam live updates: Ukraine blames Russia as flooding prompts evacuations - The Washington Post",
-            "description": "Ukrainian President Volodymyr Zelensky blamed Russia after the Nova Kakhovka dam on the Dnieper river, not far from Kherson, was significantly damaged.",
-            "url": "https://www.washingtonpost.com/world/2023/06/06/russia-ukraine-war-news-dam/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FXOGE7VCDNPNJ3WVOPPD5W2B24.jpg&w=1440",
-            "publishedAt": "2023-06-06T10:19:26Z",
-            "content": "A major dam and hydroelectric power plant in southern Ukraine have been destroyed, unleashing flooding near the front lines on Tuesday. As water gushed from the facility on the Dnieper River, which s\u2026 [+458 chars]"
+            "author": "Herb Scribner",
+            "title": "Cuba Gooding Jr. settles civil sex abuse case - The Washington Post",
+            "description": "The settlement allows Cuba Gooding Jr. to avoid trial over a rape allegation - among the most serious of many accusations made against the Oscar-winning actor.",
+            "url": "https://www.washingtonpost.com/lifestyle/2023/06/06/cuba-gooding-jr-civil-case/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WX2OK2R5GEI6VL7CBEHLG63AWE.jpg&w=1440",
+            "publishedAt": "2023-06-06T20:21:00Z",
+            "content": "Comment on this story\r\nComment\r\nActor Cuba Gooding Jr. has reached a settlement over accusations that he raped a woman in a New York hotel, according to court records reported by the Associated Press\u2026 [+1938 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "The Guardian"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Pilot of plane that crashed in Virginia was slumped over in cockpit - reports - BBC",
-            "description": "The wayward aircraft entered restricted airspace over the US capital before crashing in Virginia.",
-            "url": "https://www.bbc.com/news/world-us-canada-65814758",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DA5C/production/_130000955_a0c3eedf-f816-4fce-ac7d-9e752c18ea73.jpg",
-            "publishedAt": "2023-06-06T09:50:58Z",
-            "content": "Media caption, Watch: CCTV captures sonic boom from US fighter jets\r\nThe pilot of a private plane that was chased by fighter jets before crashing in Virginia was seen slumped over in the cockpit, US \u2026 [+3239 chars]"
+            "author": "Tumaini Carayol",
+            "title": "Sabalenka reaches French Open semis and says she does not back Lukashenko - The Guardian",
+            "description": "Aryna Sabalenka beat Elina Svitolina 6-4, 6-4 but the Ukrainian ignored Sabalenka, who was waiting at the net after their match",
+            "url": "https://www.theguardian.com/sport/2023/jun/06/aryna-sabalenka-reaches-semis-and-says-she-does-not-support-belarus-dictator",
+            "urlToImage": "https://i.guim.co.uk/img/media/5ac82edaae75debba28c0c417d2f3353be76118b/0_50_4128_2477/master/4128.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86844f7545723ad21a92844d4a4f652b",
+            "publishedAt": "2023-06-06T20:21:00Z",
+            "content": "Aryna Sabalenka has said she does not support the Belarus dictator Alexander Lukashenko, as she returned to conduct her mandatory press duties following her French Open quarter-final win against Ukra\u2026 [+10076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Rebecca Keegan",
+            "title": "An \u201cExistential Fight\u201d Looms If Actors Join the Writers Strike - Hollywood Reporter",
+            "description": "As SAG-AFTRA starts negotiations with the AMPTP, the threat of a wider work stoppage is already having a chilling effect on film and TV production.",
+            "url": "https://www.hollywoodreporter.com/business/business-news/writers-strike-sag-aftra-actors-1235508507/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-1253366721-H-2023.jpg?w=1024",
+            "publishedAt": "2023-06-06T20:13:34Z",
+            "content": "Not since 1980 \u2014 when they shut down production over residuals from now-quaint tech like videotapes and cable TV \u2014 have Hollywood\u2019s actors gone on strike against the major film and TV studios. But wi\u2026 [+5043 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matthew Cappucci",
+            "title": "Canadian wildfires cause air quality alerts as smoke hits U.S. - The Washington Post",
+            "description": "The smoke, emanating from Canada, is causing gray skies and poor air quality.",
+            "url": "https://www.washingtonpost.com/weather/2023/06/06/northeast-wildfire-smoke-canada-pollution/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-06-2023/t_d1123086ad4c403d8e7a5b3b56e2fa18_name_Sequence_06_00_04_05_05_Still004.jpg&w=1440",
+            "publishedAt": "2023-06-06T20:10:00Z",
+            "content": "Comment on this story\r\nComment\r\nThe smoky scenes and threat of fast-moving fires so common in California during recent summers are now paying the eastern United States an unwelcome, improbable and to\u2026 [+7575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexandra Canal",
+            "title": "'Spider-Man,' 'Super Mario Bros' signal 'new era' of competition for Disney - Yahoo Finance",
+            "description": "The animation rebound is here as competitors take aim at Disney.",
+            "url": "https://finance.yahoo.com/news/spider-man-super-mario-bros-signal-new-era-of-competition-for-disney-194220682.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/neGyTqo.Smp7tGQiWYelDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MTY-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/c62919c0-03cf-11ee-a3bf-d35ec71ac0d9",
+            "publishedAt": "2023-06-06T19:42:20Z",
+            "content": "Animation has been viewed as a laggard in Hollywood's recovery from COVID. Two recent movie releases show that isn't the case anymore.\r\nLast weekend, Sony's \"Spider-Man: Across the Spider-Verse\" (SON\u2026 [+5462 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Michael Tobin",
+            "title": "Apollo CEO Marc Rowan Sees 'Non-Recession Recession' as Rate Hikes Bite - Bloomberg",
+            "description": "Apollo Global Management Inc. Chief Executive Officer Marc Rowan sees the US having a \u201cnon-recession recession,\u201d as financial markets feel some pain while the underlying economy remains strong.",
+            "url": "https://www.bloomberg.com/news/articles/2023-06-06/apollo-s-rowan-sees-non-recession-recession-as-rate-hikes-bite",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBEidV.RSOJU/v1/1200x800.jpg",
+            "publishedAt": "2023-06-06T19:19:38Z",
+            "content": "Apollo Global Management Inc. Chief Executive Officer Marc Rowan sees the US having a \u201cnon-recession recession,\u201d as financial markets feel some pain while the underlying economy remains strong.\u00a0\r\nFix\u2026 [+225 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Rob Picheta",
-            "title": "Here\u2019s what you need to know about Prince Harry\u2019s phone hacking trial - CNN",
-            "description": "Prince Harry is taking to the witness stand Tuesday as his years-long battle against Britain\u2019s tabloid media reaches its most dramatic stage so far.",
-            "url": "https://www.cnn.com/2023/06/06/uk/prince-harry-phone-hacking-trial-tuesday-gbr-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601095137-prince-harry-court-file-032723.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-06T09:22:00Z",
-            "content": "Prince Harry is taking to the witness stand Tuesday as his years-long battle against Britains tabloid media reaches its most dramatic stage so far.\r\nFollow live updates from the courtroom here.\r\nThe \u2026 [+5966 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Karen Weintraub",
-            "title": "DNA sequencing improves cancer treatment but remains underused. Why? - USA TODAY",
-            "description": "Despite guidelines and the common use of genetic sequencing for cancer patients at major medical centers, experts say many patients are missing out.",
-            "url": "https://www.usatoday.com/story/news/health/2023/06/06/dna-sequencing-cancer-treatment-underused-explained/70272960007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/media/2021/02/04/USATODAY/usatsports/247WallSt.com-247WS-836413-imageforentry5-daq.jpg?crop=1365,768,x0,y0&width=1365&height=768&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-06T09:12:21Z",
-            "content": "Unlike many oncologists, the tears Dr. Thomas Roberts often saw in his office were those of joy.\r\nHis patients had been told they had less than six months to live. But Roberts, then a fellow speciali\u2026 [+11339 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Aaron Katersky",
-            "title": "Trump opposes Michael Cohen's attempt to dismiss lawsuit alleging breach of fiduciary duty - ABC News",
-            "description": "Cohen cast it as an attempt to silence \"an important government witness.\"",
-            "url": "https://abcnews.go.com/US/trump-michael-cohen-dismiss-lawsuit-breach-fiduciary-duty/story?id=99861686",
-            "urlToImage": "https://s.abcnews.com/images/US/michael-cohen-abc-mz-03-230317_1679055893587_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-06-06T08:31:42Z",
-            "content": "Former President Trump on Monday opposed an attempt by his former fixer Michael Cohen to dismiss a lawsuit that accused Cohen of breaching his fiduciary duty to Trump \"by spreading falsehoods\" about \u2026 [+1081 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Cosmic Smoke Signals: James Webb Telescope Discovers Organic Molecules in Distant Galaxy - SciTechDaily",
-            "description": "Astronomers have found complex organic molecules in a galaxy more than 12 billion light-years away from Earth. Using NASA\u2019s James Webb Space Telescope, an international team of astronomers detected complex organic molecules, akin to Earth's smoke, soot, and s\u2026",
-            "url": "https://scitechdaily.com/cosmic-smoke-signals-james-webb-telescope-discovers-organic-molecules-in-distant-galaxy/",
-            "urlToImage": "https://scitechdaily.com/images/Complex-Organic-Molecules-Galaxy.jpg",
-            "publishedAt": "2023-06-06T08:21:37Z",
-            "content": "ByTexas A&amp;M UniversityJune 6, 2023\r\nAstronomers using the Webb telescope discovered evidence of complex organic molecules similar to smoke or smog in the distant galaxy shown here. The galaxy, mo\u2026 [+9306 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Christine Hall",
-            "title": "Apple WWDC 2023: Everything announced from the Apple Vision Pro headset to iOS 17, MacBook Air and more - TechCrunch",
-            "description": "Sit back and relax while the team runs down all of the biggest Apple WWDC 2023 keynote news in an easy-to-skim digest.",
-            "url": "https://techcrunch.com/2023/06/05/apple-wwdc-2023-everything-announced-so-far-including-ios-17-macbook-air-and-more/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/wwdc-2023-cook-rainbow-1.jpg?resize=1200,675",
-            "publishedAt": "2023-06-06T07:30:00Z",
-            "content": "Its WWDC 2023 keynote time! Each year Apple kicks off its Worldwide Developer Conference with a few hours of just straight announcements, generally covering things from OS to watchOS to new and updat\u2026 [+9287 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Sylvie Corbet",
-            "title": "Normandy marks D-Day's 79th anniversary, honors WWII veterans - The Associated Press",
-            "description": "ON OMAHA BEACH, France (AP) \u2014 An overwhelming sound of gunfire and men\u2019s screams. That\u2019s how World War II veteran Marie Scott described D-Day, as Tuesday's ceremonies got underway in honor of those who fought  for freedom in the largest naval, air and land op\u2026",
-            "url": "https://apnews.com/article/dday-anniversary-war-veterans-normandy-a4477f8d51bef99c11ed33d47947c76d",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/87ede8c304d44333a11cb83bbdc91988/3000.webp",
-            "publishedAt": "2023-06-06T06:12:46Z",
-            "content": "ON OMAHA BEACH, France (AP) An overwhelming sound of gunfire and mens screams. Thats how World War II veteran Marie Scott described D-Day, as Tuesdays ceremonies got underway in honor of those who fo\u2026 [+4555 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Matthew Loh",
-            "title": "Wagner boss says Kremlin's victory claims are 'science fiction' - Business Insider",
-            "description": "Prigozhin, who spent months with his troops in war-torn Bakhmut, said Russia would have destroyed the Earth \"five times over\" by the Kremlin's logic.",
-            "url": "https://www.businessinsider.com/wagner-boss-says-kremlins-victory-claims-are-science-fiction-2023-6",
-            "urlToImage": "https://i.insider.com/647eba3140bf000019fa4a46?width=1200&format=jpeg",
-            "publishedAt": "2023-06-06T05:58:00Z",
-            "content": "Yevgeny Prigozhin, the leader of the Russian mercenary company that fought in Bakhmut, says he's not buying Moscow's claims that it inflicted heavy losses on Ukrainian troops in Donetsk.\r\nRussia's de\u2026 [+2062 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Mavericks hope to re-sign Kyrie Irving and build trade package around No. 10 pick, per report - CBS Sports",
-            "description": "Despite rumors, the chances of Irving luring LeBron James to Dallas are slim",
-            "url": "https://www.cbssports.com/nba/news/mavericks-hope-to-re-sign-kyrie-irving-and-build-trade-package-around-no-10-pick-per-report/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/06/ad5cf245-c871-42b7-913d-ffc9f8b0b7dc/thumbnail/1200x675/c2a688d885f7a1bb8dd9c03b7a0b36a2/kyrie-getty.png",
-            "publishedAt": "2023-06-06T05:25:00Z",
-            "content": "On Monday afternoon, Shams Charania reported that Kyrie Irving has reached out to LeBron James to see if the Lakers' star would be interested in joining him on the Dallas Mavericks.\u00a0\r\nFor myriad reas\u2026 [+2361 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Tr\u00e2n Nguy\u1ec5n",
-            "title": "California investigating whether DeSantis involved in flying asylum-seekers from Texas to Sacramento - The Associated Press",
-            "description": "SACRAMENTO, Calif. (AP) \u2014 Officials were investigating Tuesday whether Florida's Gov. Ron DeSantis was behind a flight that picked up asylum-seekers  on the Texas border and flew them \u2014 apparently without their knowledge \u2014 to California's capital, even as fai\u2026",
-            "url": "https://apnews.com/article/migrants-dropped-off-california-texas-florida-f385800064d2acec8c94f65f1242d4e0",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/43387f80e4b645bcb8d90b2f5e7294cd/2592.webp",
-            "publishedAt": "2023-06-06T05:02:18Z",
-            "content": "SACRAMENTO, Calif. (AP) Officials were investigating Tuesday whether Floridas Gov. Ron DeSantis was behind a flight that picked up asylum-seekers on the Texas border and flew them apparently without \u2026 [+5685 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Victor Nava",
-            "title": "Rep. Anna Paulina Luna says FBI \u2018afraid\u2019 informant in Biden bribery allegation \u2018will be killed if unmasked\u2019 - New York Post ",
-            "description": "A member of the House Oversight Committee on Monday claimed the FBI is fearful that the informant who provided information alleging a $5 million bribery scheme involving President Biden \u201cwill be ki\u2026",
-            "url": "https://nypost.com/2023/06/06/rep-anna-paulina-luna-says-fbi-afraid-biden-informant-will-be-killed-if-unmasked/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012248939.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-06-06T04:43:00Z",
-            "content": "A member of the House Oversight Committee on Monday claimed the FBI is fearful that the informant who provided information alleging a $5 million bribery scheme involving President Biden will be kille\u2026 [+4462 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mike Brehm",
-            "title": "Golden Knights rout Panthers, Sergei Bobrovsky in Game 2 - USA TODAY",
-            "description": "The Vegas Golden Knights took a 2-0 lead in the Stanley Cup Final by routing the Florida Panthers and chasing Sergei Bobrovsky from the net.",
-            "url": "https://www.usatoday.com/story/sports/nhl/cup/2023/06/05/golden-knights-rout-panthers-sergei-bobrovsky-in-game-2/70291373007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/06/USAT/61c8d538-3452-4443-991e-47f4b44b4d0a-martinez_goal.jpg?crop=4882,2746,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-06T04:41:15Z",
-            "content": "The Vegas Golden Knights chased Sergei Bobrovsky from the net, kept top scorer Matthew Tkachuk mostly in check and knocked the playoffs' leading hitter out of the game.\r\nThat's why they lead the Flor\u2026 [+4166 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Marnie Hunter, Forrest Brown",
-            "title": "These chefs and restaurants are the 2023 James Beard Award winners - CNN",
-            "description": "The US restaurant industry\u2019s highest honors were awarded Monday night in Chicago.",
-            "url": "https://www.cnn.com/travel/article/james-beard-award-winners-2023/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605215919-03-james-beard-awards-outstanding-chef-rob-rubba.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-06T03:24:00Z",
-            "content": "A Philadelphia restaurant with an eight-course tasting menu, a Haitian restaurant in the Pacific Northwest and a chef who focuses on a sustainable menu of oysters and wild vegetables in Washington, D\u2026 [+9835 chars]"
+            "author": "Gregory Krieg,Shania Shelton",
+            "title": "Chris Christie files to run for 2024 Republican presidential nomination - CNN",
+            "description": "Former New Jersey Gov. Chris Christie announced that he\u2019s running for president in New Hampshire on Tuesday, launching his second bid for the White House and kicking off another clash with former President Donald Trump, the GOP frontrunner and a former Christ\u2026",
+            "url": "https://www.cnn.com/2023/06/06/politics/chris-christie-2024-announcement/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605133951-chris-christie-230420.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-06T19:17:00Z",
+            "content": "Former New Jersey Gov. Chris Christie announced that hes running for president in New Hampshire on Tuesday, launching his second bid for the White House and kicking off another clash with former Pres\u2026 [+4458 chars]"
         }
     ]
 }
