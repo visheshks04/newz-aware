@@ -1,84 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Amanda Macias, Holly Ellyatt",
-            "title": "Ukraine war live updates: Heavy fighting underway in eastern Ukraine; Kyiv calls for help as first flood deaths reported - CNBC",
-            "description": "Ukraine called for more international assistance as it contends with the humanitarian and ecological disaster caused by mass flooding in the Kherson region.",
-            "url": "https://www.cnbc.com/2023/06/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107253243-1686224709914-gettyimages-1493481884-9j6a4622_zavhorodnii_230523_donetskoblast_av.jpeg?v=1686224858&w=1920&h=1080",
-            "publishedAt": "2023-06-08T21:44:00Z",
-            "content": "Mines uprooted and dispersed by floodwaters surging downstream from the breached Kakhovka dam across swathes of southern Ukraine could pose a grave danger to civilians for decades to come, the Red Cr\u2026 [+1634 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "France stabbing: Children attacked in Annecy park in stable condition - BBC",
-            "description": "All four children are in hospital and officials have told the BBC they are in a stable condition.",
-            "url": "https://www.bbc.com/news/world-europe-65841666",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2745/production/_130035001_mediaitem130034999.jpg",
-            "publishedAt": "2023-06-08T21:33:20Z",
-            "content": "Media caption, Watch: Video appears to show Annecy park knifeman in playground\r\nFour young children who were stabbed in a park in Annecy, in France's south-east, are now in a stable condition, offici\u2026 [+4769 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Ash Parrish",
-            "title": "Summer Game Fest featured no women onstage - The Verge",
-            "description": "For an industry that struggles with diversity, it\u2019s a failure to not be inclusive of the women who also make games.",
-            "url": "https://www.theverge.com/2023/6/8/23754562/summer-game-fest-women-diversity-geoff-keighley",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/jmlIhJhpKq3PnYie2aORwqmOlAQ=/0x0:1758x1000/1200x628/filters:focal(879x500:880x501)/cdn.vox-cdn.com/uploads/chorus_asset/file/24712626/Screen_Shot_2023_06_08_at_5.26.20_PM.png",
-            "publishedAt": "2023-06-08T21:33:19Z",
-            "content": "Summer Game Fest featured no women onstage\r\nSummer Game Fest featured no women onstage\r\n / For an industry that struggles with diversity, its a failure to not be inclusive of the women who also make \u2026 [+2419 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Dalvin Cook rumors: RB's cryptic Instagram post another sign Miami native has eyes on joining Dolphins - CBS Sports",
-            "description": "With his release forthcoming on Friday, the pending free agent RB is now hinting at a homecoming",
-            "url": "https://www.cbssports.com/nfl/news/dalvin-cook-rumors-rbs-cryptic-instagram-post-another-sign-miami-native-has-eyes-on-joining-dolphins/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/04/e68c7ad2-eba1-4d44-bf61-a861df91b700/thumbnail/1200x675/c97d7079c117df64e675335d46fd7547/dalvin-cook-1-1400.jpg",
-            "publishedAt": "2023-06-08T21:26:00Z",
-            "content": "The Minnesota Vikings\u00a0are moving on from four-time Pro Bowl running back Dalvin Cook\u00a0as expected, despite each of his four Pro Bowl appearances coming in the past four seasons. The Vikings plan to re\u2026 [+1493 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "The Associated Press",
-            "title": "Elevated walkway collapses in Texas beach city, injuring dozens - ABC News",
-            "description": "Nearly two dozen teenagers from a summer camp were injured when an elevated walkway collapsed Thursday in a beachside city in Texas, with five flown to the hospital by helicopter",
-            "url": "https://abcnews.go.com/US/wireStory/5-flown-hospital-after-portion-elevated-walkway-collapses-99944002",
-            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-            "publishedAt": "2023-06-08T20:54:53Z",
-            "content": "SURFSIDE BEACH, Texas -- Nearly two dozen teenagers from a summer camp were injured when an elevated walkway collapsed Thursday in a beachside city in Texas, with five flown to the hospital by helico\u2026 [+1069 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Joe Toppe",
-            "title": "Coinbase needs new CEO after SEC fail: Kevin O'Leary - Fox Business",
-            "description": "Investor and Shark Tank star Kevin O\u2019Leary says he\u2019d get rid of Coinbase CEO Brian Armstrong and find someone willing to work with the Securities and Exchange Commission.",
-            "url": "https://www.foxbusiness.com/markets/coinbase-new-ceo-sec-fail-kevin-oleary",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/KEVIN-OLEARY-HEARING-GETTY.jpg?ve=1&tl=1",
-            "publishedAt": "2023-06-08T20:48:45Z",
-            "content": "Investor and Shark Tank star Kevin O\u2019Leary says he would fire Coinbase CEO Brian Armstrong and find someone who is willing to make a deal with the Securities and Exchange Commission (SEC).\r\nSEC SUES \u2026 [+2170 chars]"
+            "author": "By Sophie Tanno, <a href=\"/profiles/helen-regan\">Helen Regan</a> and Hannah Strange, CNN",
+            "title": "Russia's war in Ukraine: Live updates - CNN",
+            "description": "Ukrainian President Volodymyr Zelensky said Russian forces continue shelling flooded areas in Kherson, including evacuation points, as thousands flee following the collapse of a major dam this week. Follow here for live updates.",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-09-23/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230608155334-30-week-in-photos-060823-super-tease.jpg",
+            "publishedAt": "2023-06-09T10:17:00Z",
+            "content": "Since the start of the week, even as attention has focused on the aftermath of the collapse of the Nova Kakhovka dam, it is clear that Ukrainian forces have stepped up activities along the frontline \u2026 [+2935 chars]"
         },
         {
             "source": {
@@ -86,38 +21,155 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Behold Wall Street's new bull market, maybe - Reuters",
-            "description": "S&P 500 <a href=\"https://www.reuters.com/quote/.SPX/\"target=\"_blank\">(.SPX)</a> advanced on Thursday, putting the benchmark index up 20% from its Oct. 12 closing low and heralding the start of a new bull market, at least by the definition of some market parti\u2026",
-            "url": "https://www.reuters.com/markets/us/behold-wall-streets-new-bull-market-maybe-2023-06-08/",
-            "urlToImage": "https://www.reuters.com/resizer/3VwRHm5oxjPrZJ1afcIk68zNxoQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OKUDCIPXZJPQLLAJPS53ZYRB34.jpg",
-            "publishedAt": "2023-06-08T20:35:00Z",
-            "content": "NEW YORK, June 8 (Reuters) - S&amp;P 500 (.SPX) advanced on Thursday, putting the benchmark index up 20% from its Oct. 12 closing low and heralding the start of a new bull market, at least by the def\u2026 [+3578 chars]"
+            "title": "FBI arrests Texas man at center of suspended attorney general Paxton's impeachment - Reuters",
+            "description": "FBI agents on Thursday arrested a real estate developer at the center of allegations that have led to the impeachment of Texas Attorney General Ken Paxton, according to jail records.",
+            "url": "https://www.reuters.com/world/us/fbi-arrests-texas-man-center-suspended-attorney-general-paxtons-impeachment-2023-06-09/",
+            "urlToImage": "https://www.reuters.com/resizer/cKakgOlCrUDox_WbgVEjv4d2YMo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EUUBVZA27ZKX3JH7MIA3MIM3AA.jpg",
+            "publishedAt": "2023-06-09T09:25:00Z",
+            "content": "June 8 (Reuters) - FBI agents on Thursday arrested a real estate developer at the center of allegations that have led to the impeachment of Texas Attorney General Ken Paxton, according to jail record\u2026 [+1732 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia reports heavy fighting in southern Ukraine, Kyiv silent on counterattack - Reuters",
+            "description": "Russia reported heavy fighting along the front in southern and eastern Ukraine on Friday, while Kyiv maintained a strict silence about its long-anticipated counterattack.",
+            "url": "https://www.reuters.com/world/europe/russia-reports-heavy-fighting-southern-ukraine-kyiv-silent-counterattack-2023-06-09/",
+            "urlToImage": "https://www.reuters.com/resizer/iNh7LTKh9qFq9S4vmgnlXVMgDiM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ROAJQ7Q4Q5PHBDU55DHKVRB7MA.jpg",
+            "publishedAt": "2023-06-09T08:55:00Z",
+            "content": "KYIV, June 9 (Reuters) - Russia reported heavy fighting along the front in southern and eastern Ukraine on Friday, while Kyiv maintained a strict silence about its long-anticipated counterattack.\r\nWi\u2026 [+3800 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Shaurya Malwa",
+            "title": "Cardano Developer Rejects SEC Claim Its ADA Token Is a Security - CoinDesk",
+            "description": "\u201cUnder no circumstances is ADA a security under U.S. securities laws,\u201d IOG said in a release.",
+            "url": "https://www.coindesk.com/policy/2023/06/09/cardano-developer-rejects-sec-claim-its-ada-token-is-a-security/",
+            "urlToImage": "https://www.coindesk.com/resizer/czj0IaNCVS8IKHjSHsZy8fiQXlE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/36VE2YYH4ZHF7C4JOMMWCFTEXY.jpg",
+            "publishedAt": "2023-06-09T08:51:00Z",
+            "content": "Cardano development company IOG dismissed U.S. Securities and Exchange Commission (SEC) claims that ada (ADA), the blockchain's native token, can be viewed as a security.\r\nIOG said SEC lawsuits filed\u2026 [+1098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New Statesman"
+            },
+            "author": "David Bromwich",
+            "title": "The chaos and confusion of Donald Trump on trial - The New Statesman",
+            "description": "Editor\u2019s note: Donald Trump has been charged over his retention of national security documents, and will appear in court next week in Miami. This is his second indictment and the first ever federal in",
+            "url": "https://www.newstatesman.com/the-weekend-essay/2023/06/chaos-confusion-donald-trump-on-trial",
+            "urlToImage": "https://dl6pgk4f88hky.cloudfront.net/2023/05/12/Trump-800x418.jpg?1686307177",
+            "publishedAt": "2023-06-09T08:48:52Z",
+            "content": "Editors note: Donald Trump has been charged over his retention of national security documents, and will appear in court next week in Miami. This is his second indictment and the first ever federal in\u2026 [+15564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Flash of Light Brighter Than a Trillion Stars Leads to Supermassive Black Hole Breakthrough - SciTechDaily",
+            "description": "First Detection of Secondary Black Hole in OJ 287 Binary System An international team of astronomers observed the second one of the two supermassive black holes circling each other in an active galaxy OJ 287. Researchers have discovered two supermassive black\u2026",
+            "url": "https://scitechdaily.com/?p=284368",
+            "urlToImage": "https://scitechdaily.com/images/Binary-Black-Hole-System-OJ-287-scaled.jpg",
+            "publishedAt": "2023-06-09T08:15:35Z",
+            "content": "ByUniversity of TurkuJune 9, 2023\r\nArtistic illustration of OJ287 as a binary black hole system. The secondary black hole of 150 million solar masses moves around the primary black hole of 18 billion\u2026 [+9774 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Caitlin Gibson",
-            "title": "How parents can protect children amid hazardous air quality, wildfire smoke - The Washington Post",
-            "description": "Whether to let kids outside, what symptoms to look for and more answers as we contend with the haze.",
-            "url": "https://www.washingtonpost.com/parenting/2023/06/08/children-wildfire-air-quality-asthma-protect/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ONQCRUGRR7SLCJNTUMVK7ABDEY_size-normalized.JPG&w=1440",
-            "publishedAt": "2023-06-08T20:33:12Z",
-            "content": "Comment on this story\r\nComment\r\nAn amber haze of smoke from Canadian wildfires has blanketed the Northeast United States in recent days, with hazardous air alerts issued all along the East Coast. The\u2026 [+7972 chars]"
+            "author": "Hannah Knowles",
+            "title": "Trump defiant, some 2024 presidential candidates silent after DOJ charges - The Washington Post",
+            "description": "\u201cIt\u2019s election interference at the highest level,\u201d Trump said without evidence on Thursday night, echoing his response to his first indictment earlier this year in New York.",
+            "url": "https://www.washingtonpost.com/politics/2023/06/08/trump-charges-reaction-2024/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IAMBHCNWKVH5HBKSLZ2KJXQNPA.jpg&w=1440",
+            "publishedAt": "2023-06-09T05:55:00Z",
+            "content": "Comment on this story\r\nComment\r\nDonald Trump and his allies were defiant Thursday night in response to the Justice Departments decision to charge him in connection with classified documents found at \u2026 [+6872 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Tennessean"
             },
-            "author": "Jonathan Vanian",
-            "title": "Meta CEO Mark Zuckerberg touts to employees 'incredible breakthroughs' the company has seen in A.I. - CNBC",
-            "description": "In a meeting Thursday, Meta CEO Mark Zuckerberg told employees about the company's artificial intelligence efforts and their relation to the metaverse.",
-            "url": "https://www.cnbc.com/2023/06/08/meta-ceo-mark-zuckerberg-talks-companys-ai-efforts-to-employees.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107131933-1665418142088-gettyimages-1327685522-kd1_0333_20210708121128478.jpeg?v=1686261966&w=1920&h=1080",
-            "publishedAt": "2023-06-08T20:32:48Z",
-            "content": "Meta CEO Mark Zuckerberg wants his workforce to know the company is in the middle of the artificial intelligence race.\r\nDuring a meeting with employees Thursday in the Hacker Square pavilion at Meta'\u2026 [+2797 chars]"
+            "author": "Kirsten Fiscus, Craig Shoup, Marcus K. Dowling, Angele Latham, Vivian Jones",
+            "title": "CMA Fest 2023 updates: The party rolls on to Nissan Stadium - Tennessean",
+            "description": "The four-day country music festival returns to downtown Nashville with six official stages and over 100 artists scheduled to play them.",
+            "url": "https://www.tennessean.com/story/entertainment/music/cma-music-festival/2023/06/08/cma-fest-live-updates-2023/70300926007/",
+            "urlToImage": "https://www.tennessean.com/gcdn/presto/2023/06/09/PNAS/385fa1ec-6caa-4ee4-a9bc-9abadfb96ae0-cma_fest_day_one_3120.jpg?crop=3599,2025,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-09T05:15:00Z",
+            "content": "CMA Fest is back and the streets of downtown Nashville will be filled with thousands of fans and country music for the next four days.\r\nFor the locals who want to be reminded where all the road closu\u2026 [+13197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Belmont Stakes 2023: Odds, post positions, horses, draw for the 155th running of the Triple Crown finale - CBS Sports",
+            "description": "Forte opened as the favorite among a field with contenders such as Preakness winner National Treasure and Tapit Trice",
+            "url": "https://www.cbssports.com/general/news/belmont-stakes-2023-odds-post-positions-horses-draw-for-the-155th-running-of-the-triple-crown-finale/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/08/7c0169f0-75a5-4772-99d5-3e9a3941db7c/thumbnail/1200x675/d13057ca4e434f63a9c73f84dcef3e06/gettyimages-1402341090-1.jpg",
+            "publishedAt": "2023-06-09T05:00:00Z",
+            "content": "Despite concerns over air quality in New York, the 2023 Triple Crown is set to conclude Saturday with the 155th running of the Belmont Stakes. Forte, the Kentucky Derby favorite before being scratche\u2026 [+1779 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Exclusive: Credit Suisse puts up China brokerage venture for sale - Reuters",
+            "description": "Credit Suisse <a href=\"https://www.reuters.com/companies/CSGN.S/\"target=\"_blank\">(CSGN.S)</a> and a joint venture partner are seeking buyers for their China securities brokerage business due to the Swiss bank's takeover by rival UBS <a href=\"https://www.reute\u2026",
+            "url": "https://www.reuters.com/markets/deals/credit-suisse-puts-up-china-brokerage-venture-sale-sources-2023-06-09/",
+            "urlToImage": "https://www.reuters.com/resizer/uhbcwkQf7cwDmWxsI6G4gnqNFuQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ISI7PL2NSZNOZDTAL5UPXIPXMY.jpg",
+            "publishedAt": "2023-06-09T04:42:00Z",
+            "content": "HONG KONG/SHANGHAI, June 9 (Reuters) - Credit Suisse (CSGN.S) and a joint venture partner are seeking buyers for their China securities brokerage business due to the Swiss bank's takeover by rival UB\u2026 [+2244 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Greg Wyshynski",
+            "title": "Panthers rally in Stanley Cup Final Game 3, top Golden Knights in OT - ESPN - ESPN",
+            "description": "Carter Verhaeghe scored 4:27 into overtime and the Panthers beat the Golden Knights 3-2 in Game 3 of the Stanley Cup Final.",
+            "url": "https://www.espn.com/nhl/story/_/id/37823105/panthers-rally-stanley-cup-final-game-3-top-golden-knights-ot",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0609%2Fr1184406_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-06-09T03:46:00Z",
+            "content": "SUNRISE, Fla. -- The Cardiac Cats are back.\r\nThe Florida Panthers' 3-2 overtime win in Game 3 of the Stanley Cup Final on Thursday night cut the Vegas Golden Knights' series lead to 2-1. Matthew Tkac\u2026 [+4845 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Julia Mueller",
+            "title": "Abbott announces \u2018floating barriers\u2019 to deter migrants along the Rio Grande - The Hill",
+            "description": "Texas Gov. Greg Abbott (R) on Thursday announced the state will deploy \u201cmarine floating barriers\u201d aimed at deterring migrants along the Rio Grande River. \u201cThis is a new water-based barrier, buoys \u2026 we can put mile after mile after mile of these buoys,\u201d Abbott\u2026",
+            "url": "https://thehill.com/homenews/state-watch/4041878-abbott-announces-floating-barriers-to-deter-migrants-along-the-rio-grande/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/06/AP23157758675412-e1686280089341.jpg?w=1280",
+            "publishedAt": "2023-06-09T03:09:00Z",
+            "content": "Skip to content\r\nTexas Gov. Greg Abbott (R) on Thursday announced the state will deploy \u201cmarine floating barriers\u201d aimed at deterring migrants along the Rio Grande River.\r\n\u201cThis is a new water-based \u2026 [+2015 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paula Reid,Kristen Holmes,Jeremy Herb,Evan Perez",
+            "title": "Donald Trump indicted on 7 counts in classified documents probe - CNN",
+            "description": "Former President Donald Trump has been indicted on seven counts in the special counsel\u2019s classified documents probe, a stunning development that marks the first time a former president has faced federal charges.",
+            "url": "https://www.cnn.com/2023/06/08/politics/trump-indictment-truth-social-classified-documents/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320113312-06-donald-trump-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-09T02:58:00Z",
+            "content": "Former President Donald Trump has been indicted on seven counts in the special counsels classified documents probe, a stunning development that marks the first time a former president has faced feder\u2026 [+8944 chars]"
         },
         {
             "source": {
@@ -125,142 +177,90 @@
                 "name": "Al Jazeera English"
             },
             "author": "Al Jazeera",
-            "title": "Russian man killed in shark attack off Egypt\u2019s Red Sea resort - Al Jazeera English",
-            "description": "Coastline to remain off limits with a ban on swimming, snorkelling and other water sports activities until Sunday.",
-            "url": "https://www.aljazeera.com/news/2023/6/8/russian-man-killed-in-shark-attack-off-egypts-red-sea-resort",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/03/AP_16302048344434.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-06-08T20:18:58Z",
-            "content": "A Russian man has died after being attacked by a shark off the coast of Egypts Red Sea resort city of Hurghada, officials have said.\r\nThe Environment Ministry said that the man was killed after being\u2026 [+2050 chars]"
+            "title": "Ukraine counteroffensive against Russia under way: think tank - Al Jazeera English",
+            "description": "US-based Institute for the Study of War says Ukraine counteroffensive unlikely to unfold as \u2018single grand operation\u2019.",
+            "url": "https://www.aljazeera.com/news/2023/6/9/ukraine-counteroffensive-against-russia-under-way-think-tank",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-07T091202Z_1303865173_RC29E1ACH1X5_RTRMADP_3_UKRAINE-CRISIS-1686274697.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-06-09T02:25:41Z",
+            "content": "Kyivs counteroffensive against Russian forces has started, a Washington, DC-based think tank monitoring the war in Ukraine has said, though Ukrainian officials continue to deny or decline confirmatio\u2026 [+4670 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Heat.com"
+                "name": "Teslarati"
             },
-            "author": "John Schuhmann",
-            "title": "Finals Film Study: Nikola Jokic's rare skillset on full display in Game 3 - NBA.com",
-            "description": "The 2-time Kia MVP did it all during his 32-point, 21-rebound, 10-assist triple-double performance in Miami.",
-            "url": "https://www.nba.com/news/finals-film-study-nuggets-heat-game-3",
-            "urlToImage": "https://cdn.nba.com/manage/2023/06/USATSI_20847378-scaled-e1686254341670.jpg",
-            "publishedAt": "2023-06-08T20:08:35Z",
-            "content": "Nikola Jokic and Denver won Game 3 on Wednesday to take a 2-1 series lead over Miami.\r\nIt\u2019s an understatement to say that Nikola Jokic is a special player. With his 32 points, 21 rebounds and 10 assi\u2026 [+5208 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KWQC-TV6"
-            },
-            "author": null,
-            "title": "MidAmerican releases info on crews who worked on \u201cThe Davenport\u201d building night of the collapse - KWQC",
-            "description": "MidAmerican releases info on crews who worked on \u201cThe Davenport\u201d building night of the collapse.",
-            "url": "https://www.kwqc.com/2023/06/08/midamerican-releases-info-crews-who-worked-davenport-building-night-collapse/",
-            "urlToImage": "https://gray-kwqc-prod.cdn.arcpublishing.com/resizer/0ochXZkUk2b4Tl-iyKaLLJUfhxQ=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/Q7VZQ6XMX5HNBJN6XM6JRSQS6E.jpg",
-            "publishedAt": "2023-06-08T19:58:00Z",
-            "content": "DAVENPORT, Iowa (KWQC) - As TV6 continues coverage on the partially collapsed apartment building, The Davenport, MidAmerican has released information regarding crews on-scene, responding the night of\u2026 [+2024 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Adam Rittenberg",
-            "title": "Big Ten to introduce 'Flex Protect Plus' football schedule model in 2024 - ESPN - ESPN",
-            "description": "The Big Ten will introduce a football schedule model in 2024 that includes 11 protected matchups across the conference, eliminates divisions and targets a rotation as the league expands to 16 members with USC and UCLA.",
-            "url": "https://www.espn.com/college-football/story/_/id/37820350/big-ten-introduce-flex-protect-plus-football-schedule-model-2024",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0917%2Fr747086_2_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-06-08T19:58:00Z",
-            "content": "The Big Ten in 2024 will introduce a football schedule model that includes 11 protected matchups across the conference, eliminates divisions and targets a robust overall rotation as the league expand\u2026 [+6119 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Mark Sherman",
-            "title": "Supreme Court rules in favor of Black Alabama voters in unexpected defense of Voting Rights Act - The Associated Press",
-            "description": "The Supreme Court has issued a surprising ruling in favor of Black voters in a congressional redistricting case, ordering the creation of a second district with a large Black population.",
-            "url": "https://apnews.com/article/supreme-court-redistricting-race-voting-rights-alabama-af0d789ec7498625d344c0a4327367fe",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1ba42ab39e994e2d8839fbcca7a33057/3000.webp",
-            "publishedAt": "2023-06-08T19:55:58Z",
-            "content": "WASHINGTON (AP) The Supreme Court on Thursday issued a surprising 5-4 ruling in favor of Black voters in a congressional redistricting case from Alabama, with two conservative justices joining libera\u2026 [+6439 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Sonic Superstars - Reveal Trailer | Summer Game Fest 2023 - IGN",
-            "description": "Sonic fans rejoice! Sonic Superstars is a brand-new side scrolling platformer starring everyone's favorite blue hedgehog. Sonic Superstars launches Fall 2023...",
-            "url": "https://www.youtube.com/watch?v=IO_I0A2cbMU",
-            "urlToImage": "https://i.ytimg.com/vi/IO_I0A2cbMU/maxresdefault.jpg",
-            "publishedAt": "2023-06-08T19:38:47Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Joe Rossignol",
-            "title": "Mark Zuckerberg Says Apple Vision Pro Has No 'Magical Solutions' - MacRumors",
-            "description": "In a companywide meeting with employees today, Meta CEO Mark Zuckerberg responded to Apple's announcement of the Vision Pro, according to The...",
-            "url": "https://www.macrumors.com/2023/06/08/zuckerberg-responds-to-apple-vision-pro/",
-            "urlToImage": "https://images.macrumors.com/t/DAlQZ9bRqWJDEkWu3UpbY_Cbcyc=/1600x/article-new/2023/06/Zuckerberg-Vision-Pro.jpeg",
-            "publishedAt": "2023-06-08T19:36:43Z",
-            "content": "In a companywide meeting with employees today, Meta CEO Mark Zuckerberg responded to Apple's announcement of the Vision Pro, according to The Verge's Alex Heath. Zuckerberg said the Vision Pro has no\u2026 [+3139 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Biden classified documents probe shows few signs of wrapping up soon - MSNBC",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=66gGXQQuLgM",
-            "urlToImage": null,
-            "publishedAt": "2023-06-08T19:30:00Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Sandee LaMotte",
-            "title": "Is taurine the \u2018elixir of life\u2019? Maybe, if you\u2019re a worm, mouse or monkey - CNN",
-            "description": "Taurine shows promise as a potential anti-aging molecule by slowing aging in monkeys and other species, according to a new study. Critics say it\u2019s not ready for prime time in people.",
-            "url": "https://www.cnn.com/2023/06/08/health/taurine-longevity-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230608122745-taurine-longevity-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-08T18:36:00Z",
-            "content": "Taurine, an amino acid often used by body builders and added to energy or sports drinks, may be an elixir of life, according to the author of a new study at least when it comes to extending the healt\u2026 [+9128 chars]"
+            "author": "Richard Angle",
+            "title": "United Launch Alliance successfully test fires new Vulcan rocket - TESLARATI",
+            "description": "United Launch Alliance successfully test-fires new Vulcan rocket Following a successful Flight Tanking Test (FTT), United Launch Alliance fired up the Vulcan rocket for the first time last night. The two Blue Origin-built BE-4 rocket engines ignited for 6 sec\u2026",
+            "url": "https://www.teslarati.com/united-launch-alliance-successfully-test-fires-new-vulcan-rocket/",
+            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2023/06/52960005796_df04371504_k.jpg",
+            "publishedAt": "2023-06-09T02:07:35Z",
+            "content": "United Launch Alliance successfully test-fires new Vulcan rocket\r\nFollowing a successful Flight Tanking Test (FTT), United Launch Alliance fired up the Vulcan rocket for the first time last night. Th\u2026 [+3707 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Daily Mail"
             },
-            "author": "Sarah Sotoodeh",
-            "title": "Jenna Jameson is married! Former adult film star, 49, weds girlfriend Jessi Lawless, 40 - Daily Mail",
-            "description": "Jenna Jameson married girlfriend Jessi Lawless on May 23 in a Las Vegas ceremony.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-12175147/Jenna-Jameson-married-Former-adult-film-star-49-weds-girlfriend-Jessi-Lawless-40.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/08/20/71925809-0-image-a-123_1686251903534.jpg",
-            "publishedAt": "2023-06-08T18:26:35Z",
-            "content": "Jenna Jameson married girlfriend Jessi Lawless on May 23 in a Las Vegas ceremony.\r\nThe 49-year-old former adult film star and Jessi, 40, said their I do's at the Little Church of the West in Las Vega\u2026 [+4262 chars]"
+            "author": "Adam S. Levy, Eve Buckland",
+            "title": "Elliot Page arrives at LAX with his dog Mo amid a number of revelations in new memoir Pageboy - Daily Mail",
+            "description": "The Canadian star, 36, was pictured arriving at LAX airport on Thursday holding his dog Mo, as he continues to make headlines for his new memoir Pageboy.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-12176217/Elliot-Page-arrives-LAX-dog-Mo-amid-number-revelations-new-memoir-Pageboy.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/09/02/71938115-0-image-a-29_1686272764606.jpg",
+            "publishedAt": "2023-06-09T01:37:19Z",
+            "content": "It's been a busy few weeks for Elliot Page, but he keeps moving forward.\r\nThe Canadian star, 36, was pictured arriving at LAX airport on Thursday holding his dog Mo, as he continues to make headlines\u2026 [+11246 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro",
+            "title": "How A Hollywood Actors Strike Would Impact Blockbuster And Awards-Season Movies, Comic-Con & More - Deadline",
+            "description": "Six weeks into the writers strike, the early returns on summer studio films have been some of the best since Covid brought the exhibition business to a screeching halt. But if SAG-AFTRA members tra\u2026",
+            "url": "https://deadline.com/2023/06/actors-strike-hollywood-movie-industry-impact-release-dates-comic-con-1235412068/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/Sag-wga.jpg?w=1024",
+            "publishedAt": "2023-06-09T00:28:00Z",
+            "content": "Six weeks into the writers strike, the early returns on summer studio films have been some of the best since Covid brought the exhibition business to a screeching halt. But if SAG-AFTRA members trade\u2026 [+7818 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
             },
             "author": null,
-            "title": "Cuba enters the US-China power tussle | WION - WION",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=FMNmnrsXJN8",
-            "urlToImage": null,
-            "publishedAt": "2023-06-08T18:24:51Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "title": "GM EV owners will gain access to Tesla Superchargers in 2024 | Engadget - Engadget",
+            "description": "General Motors EVs will adopt the NACS standard in 2025.",
+            "url": "https://www.engadget.com/gm-ev-owners-will-gain-access-to-tesla-superchargers-in-2024-002123436.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/7mYFH9rMsoYD1rjN4wabyA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/083972b0-065a-11ee-b5fe-f517b7bd8ad3.cf.jpg",
+            "publishedAt": "2023-06-09T00:22:25Z",
+            "content": "Ford isn't the only electric automaker switching to Tesla's North American Charging Standard General Motors says it's making the change, too. CEO Mary Barra announced the move during a Twitter Spaces\u2026 [+1260 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "John Timmer",
+            "title": "A telescope happened to be pointing at the brightest supernova yet observed - Ars Technica",
+            "description": "The BOAT\u2014brightest of all time\u2014reveals the mechanics of gamma-ray bursts.",
+            "url": "https://arstechnica.com/science/2023/06/a-telescope-happened-to-be-pointing-at-the-brightest-supernova-yet-observed/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image-1-760x380.jpeg",
+            "publishedAt": "2023-06-09T00:04:35Z",
+            "content": "Enlarge/ Artist's conception of a gamma-ray burst.\r\n18 with \r\nSupernovae are some of the most energetic events in the Universe. And a subset of those involves gamma-ray bursts, where a lot of the ene\u2026 [+5173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Stephanie Pagones",
+            "title": "Accused Florida shooter Susan Lorincz called child 'black slave' before shooting mom: cops - New York Post ",
+            "description": "Sheriff\u00a0pokes holes in Lorincz\u2019s claims of fearing for her life, which he reportedly called \u201cB.S..\u201d",
+            "url": "https://nypost.com/2023/06/08/accused-florida-shooter-susan-lorincz-appears-in-court/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012377478.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-06-08T23:09:00Z",
+            "content": "The Florida woman accused of gunning down a young mom of four through her front door claimed the victims kids had previously threatened to kill her despite her own history of violence towards the chi\u2026 [+4732 chars]"
         }
     ]
 }
