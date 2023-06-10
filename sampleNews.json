@@ -1,240 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Radina Gigova,Xiaofei Xu,Oliver Briscoe",
-            "title": "Children among eight injured in knife attack in southeast France, officials say - CNN",
-            "description": "Children were among six people injured Thursday in a knife attack in Annecy, in southeast France, local officials said.",
-            "url": "https://www.cnn.com/2023/06/08/europe/annecy-france-stabbing-attack-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230608104032-20230608-annecy-france.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-08T09:44:00Z",
-            "content": "Children were among six people injured Thursday in a knife attack in Annecy, in southeast France, local officials said.\r\nFour children sustained wounds following the incident, according to the prefec\u2026 [+1293 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Samantha Schmidt, Adela Suliman, Leo Sands, Rachel Pannett",
-            "title": "Ukraine live briefing: Zelensky calls for international aid as flood evacuations continue - The Washington Post",
-            "description": "Ukraine's military advanced on Russian positions in the country's southeast, kicking off a long-anticipated counterattack to reclaim occupied territory from Russia.",
-            "url": "https://www.washingtonpost.com/world/2023/06/08/russia-ukraine-war-news-counteroffensive/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWCGCK4FFQKISMEY3LEERHOO3U.JPG&w=1440",
-            "publishedAt": "2023-06-08T09:34:00Z",
-            "content": "KYIV, Ukraine The Ukrainian military has launched a long-anticipated counterattack against occupying Russian forces, opening a crucial phase in the war aimed at restoring Ukraines territorial soverei\u2026 [+63 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "US East Coast blanketed in veil of smoke from Canadian fires - Reuters",
-            "description": "Schools across the U.S. East Coast canceled outdoor activities, airline traffic slowed and millions of Americans were urged to stay indoors on Wednesday as smoke from <a href=\"/business/environment/raging-canada-wildfires-threaten-critical-infrastructure-forc\u2026",
-            "url": "https://www.reuters.com/business/environment/us-states-under-air-quality-alerts-canadian-smoke-drifts-south-2023-06-07/",
-            "urlToImage": "https://www.reuters.com/resizer/dRBfo2zDanIFYjJNdhFHTK2ZmFw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JR4KM66AWFKJVEVGQ5MG5DJVJA.jpg",
-            "publishedAt": "2023-06-08T09:26:00Z",
-            "content": "NEW YORK, June 7 (Reuters) - Schools across the U.S. East Coast canceled outdoor activities, airline traffic slowed and millions of Americans were urged to stay indoors on Wednesday as smoke from Can\u2026 [+5839 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "NASA's Parker Solar Probe Plunges Into Fast Solar Wind and Discovers Its Mysterious Source - SciTechDaily",
-            "description": "NASA's Parker Solar Probe probe got close enough to sun's surface to see hidden granular features. NASA's Parker Solar Probe (PSP) has flown close enough to the sun to detect the fine structure of the solar wind close to where it is generated at the sun's sur\u2026",
-            "url": "https://scitechdaily.com/?p=284640",
-            "urlToImage": "https://scitechdaily.com/images/Parker-Solar-Probe-Touches-Sun.gif",
-            "publishedAt": "2023-06-08T08:38:44Z",
-            "content": "ByUniversity of California - BerkeleyJune 8, 2023\r\nNASAs Parker Solar Probe (PSP) has detected the origin and structure of the solar wind close to the suns surface, observing high-energy particles al\u2026 [+9730 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Rajesh Pandey",
-            "title": "Google scraps Android TV 13, releases Android TV 14 beta - Android Police",
-            "description": "Android TV 14 could let you receive call notifications from compatible apps on your TV",
-            "url": "https://www.androidpolice.com/google-scraps-android-tv-13-releases-android-tv-14-beta/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/tcl-6-series-1.jpg",
-            "publishedAt": "2023-06-08T07:45:00Z",
-            "content": "Android runs on a vast majority of devices with varying form factors. Besides smartphones, tablets, cars, and watches, the OS also powers the best Android TV boxes and televisions. In May 2022, Googl\u2026 [+1714 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Phoebe Natanson, Kevin Shalvey",
-            "title": "Pope's night 'passed well' after intestinal surgery in Rome - ABC News",
-            "description": "The pontiff is expected to be in the hospital recovering for several days.",
-            "url": "https://abcnews.go.com/International/pope-francis-intestinal-surgery-rome-wednesday/story?id=99893051",
-            "urlToImage": "https://s.abcnews.com/images/International/francis-vati_hpMain_20230607-045948_16x9_992.jpg",
-            "publishedAt": "2023-06-08T07:30:21Z",
-            "content": "ROME and LONDON -- Pope Francis' night \"passed well\" after he underwent intestinal surgery on Wednesday, Vatican officials said Thursday morning.\r\nThe Holy See Press Office had said Wednesday evening\u2026 [+1363 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Times of Israel"
-            },
-            "author": null,
-            "title": "IDF razes Ramallah home of terrorist accused of deadly Jerusalem bus stop bombings - The Times of Israel",
-            "description": "Six Palestinians wounded in clashes with army near home of Eslam Froukh, 26, charged with planting explosives that killed 2 in attack last November",
-            "url": "https://www.timesofisrael.com/idf-enters-ramallah-to-raze-home-of-terrorist-behind-jerusalem-bus-stop-bombings/",
-            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/06/vlcsnap-2023-06-08-09h47m26s020-1024x640.png",
-            "publishedAt": "2023-06-08T07:09:14Z",
-            "content": "The Israel Defense Forces on Thursday demolished the Ramallah home of a Palestinian terrorist charged with carrying out a deadly twin bombing attack in Jerusalem last year, the military said.\r\nThe mi\u2026 [+3631 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Ramona Shelburne",
-            "title": "NBA Finals 2023 -- Jokic and Murray's chemistry was on full display in Game 3 - ESPN",
-            "description": "The Nikola Jokic-Jamal Murray two-man game is as devastating as it is beautiful. And it's because they started perfecting it long before they ever teamed up in Denver.",
-            "url": "https://www.espn.com/nba/story/_/id/37816458/nba-finals-2023-jokic-murray-chemistry-was-full-display-game-3",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0608%2Fr1184001_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-06-08T06:15:00Z",
-            "content": "MIAMI -- This time of year, lots of old basketball videos circulate around social media. Interviews from years ago suddenly sound prescient based off of what's happening game to game in the NBA Final\u2026 [+4347 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Inter Miami with Lionel Messi: How the MLS side stacks up after landing the legendary Argentine superstar - CBS Sports",
-            "description": "Miami instantly goes from last place to a possible title contender by adding the world's greatest player",
-            "url": "https://www.cbssports.com/soccer/news/inter-miami-with-lionel-messi-how-the-mls-side-stacks-up-after-landing-the-legendary-argentine-superstar/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/07/7e03bf7c-3f8e-4564-b797-e7f1162782ce/thumbnail/1200x675/418876f26c8f88e4353035c44cd9c3ac/untitled-design-2023-06-07t160723-232.png",
-            "publishedAt": "2023-06-08T06:10:00Z",
-            "content": "In a seismic move for Major League Soccer,\u00a0Lionel Messi is moving to Inter Miami after his contract expires at Paris Saint-Germain. While Messi won't be able to play for the club until after the summ\u2026 [+7853 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "20 MLB players whose Hall of Fame careers were derailed by injury, as Jacob deGrom faces another setback - CBS Sports",
-            "description": "Will Jacob deGrom join the likes of Don Mattingly, Dale Murphy, Johan Santana and the rest of this list?",
-            "url": "https://www.cbssports.com/mlb/news/20-mlb-players-whose-hall-of-fame-careers-were-derailed-by-injury-as-jacob-degrom-faces-another-setback/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/07/e32fce7d-92bf-4bbb-bda8-45193449a12f/thumbnail/1200x675/8ea197d6ef3ce1ad20282b738a0231f7/johanmattinglynomar-usatsi.png",
-            "publishedAt": "2023-06-08T06:08:00Z",
-            "content": "The season-ending injury to Rangers ace Jacob deGrom already sent us down the path of examining how this impacts his Hall of Fame chances. The overarching fear is he ends up on the same list of so ma\u2026 [+9069 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "In Russia, the talk is of 'war' - even from Putin - Reuters",
-            "description": "For more than 15 months Russia has been fighting a war in Ukraine that the Kremlin refused to call a war - but that is changing: President Vladimir Putin is using the word \"war\" more often.",
-            "url": "https://www.reuters.com/world/europe/russia-talk-is-war-even-putin-2023-06-08/",
-            "urlToImage": "https://www.reuters.com/resizer/jxNbpWrQUZLsLMJAS97fWAlfLoo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5MIAQITII5PARPILCKQKCKRPH4.jpg",
-            "publishedAt": "2023-06-08T06:03:00Z",
-            "content": "MOSCOW, June 8 (Reuters) - For more than 15 months Russia has been fighting a war in Ukraine that the Kremlin refused to call a war - but that is changing: President Vladimir Putin is using the word \u2026 [+5404 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Lauran Neergaard",
-            "title": "Newer heart transplant method could allow more patients a chance at lifesaving surgery - The Associated Press",
-            "description": "WASHINGTON (AP) \u2014 Most transplanted hearts are from donors who are brain dead, but new research shows a different approach can be just as successful and boost the number of available organs. It's called donation after circulatory death, a method long used to \u2026",
-            "url": "https://apnews.com/article/heart-transplant-donation-shortage-047da7c0bc9935e98421ad64ec6506bd",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/903745a5d4494d6398a6249ee7f6dbce/3000.webp",
-            "publishedAt": "2023-06-08T05:01:11Z",
-            "content": "WASHINGTON (AP) Most transplanted hearts are from donors who are brain dead, but new research shows a different approach can be just as successful and boost the number of available organs.\r\nIts calle\u2026 [+3827 chars]"
-        },
-        {
-            "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "Leyla Mohammed",
-            "title": "Khlo\u00e9 Kardashian Felt \u201cGuilty\u201d Over Lack Of Bond With Son - BuzzFeed",
-            "description": "\u201cWith True, it took me a couple of days to be like, \u2018OK, this is my daughter,\u2019 and I was super into it... With him, it\u2019s taking me months.\u201d",
-            "url": "https://www.buzzfeed.com/leylamohammed/khloe-kardashian-felt-guilty-over-lack-of-bond-with-son",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-06/7/11/enhanced/0488db57db49/original-2489-1686138711-2.jpg?crop=1581:830;0,0%26downsize=1250:*",
-            "publishedAt": "2023-06-08T04:16:02Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jack Baer",
-            "title": "Women's College World Series: Oklahoma extends record win streak to 52 games, 1 win from 3rd straight title - Yahoo Sports",
-            "description": "The Sooners are going for the second three-peat in NCAA softball history.",
-            "url": "https://sports.yahoo.com/womens-college-world-series-oklahoma-extends-record-win-streak-to-52-games-1-win-from-3rd-straight-title-041443985.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/L6rsmLhCnLmgX_.HJ_XY2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/52d47670-05b1-11ee-bbca-684c58a9a471",
-            "publishedAt": "2023-06-08T04:14:00Z",
-            "content": "Oklahoma softball is one win away from completing one of the greatest seasons in NCAA history.\r\nThe Sooners extended their NCAA record win streak to 52 games with a 5-0 victory over Florida State in \u2026 [+2239 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Scientists find \u2018lost world\u2019 in billion-year-old Australian rock - Al Jazeera English",
-            "description": "Study says discovery of microscopic creatures could be the \u2018oldest remnants\u2019 of human lineage.",
-            "url": "https://www.aljazeera.com/news/2023/6/8/scientists-find-lost-world-in-billion-year-old-australian-rock",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/ANU_RSES_-eukaryote_20230605P1010487-1686124803.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-06-08T04:08:35Z",
-            "content": "Scientists have discovered a lost world of ancient organisms in billion-year-old rocks from northern Australia that they say could change the worlds understanding of humans earliest ancestors.\r\nThe m\u2026 [+3107 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Charles Trepany",
-            "title": "'Vanderpump Rules': Raquel Leviss reveals shocking Tom Sandoval lie - USA TODAY",
-            "description": "Here are all the shocking revelations from the final installment of the \"Vanderpump Rules\" finale, including a \"dementor\" insult.",
-            "url": "https://www.usatoday.com/story/entertainment/tv/2023/06/07/vanderpump-rules-reunion-raquel-leviss-reveals-tom-sandoval-affair-timeline/70300235007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/08/USAT/cf5e9bb6-c573-4286-a75e-3a573cd9d201-NUP_201062_01225.JPG?crop=999,562,x1,y24&width=999&height=562&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-08T03:58:43Z",
-            "content": "Wait, did he really just say that?\r\nThat was the question that seemed to be on the \"Vanderpump Rules\" casts' minds during the highly anticipated third and final installment of the Season 10 reunion, \u2026 [+4811 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Biden vetoes bill to cancel student debt relief program | What to know - 11Alive",
-            "description": "President Joe Biden on Wednesday vetoed legislation that would have canceled his plan to forgive student debt. The measure had been pushed by Republicans, bu...",
-            "url": "https://www.youtube.com/watch?v=KgDEX0BwN3I",
-            "urlToImage": "https://i.ytimg.com/vi/KgDEX0BwN3I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYihUMA8=&rs=AOn4CLDtkFiJpSerauHRyI5NKK3tTxxsEQ",
-            "publishedAt": "2023-06-08T03:22:09Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Taylor Telford, Gerrit De Vynck",
-            "title": "Google, Salesforce try bribes and punishments to get workers back in offices - The Washington Post",
-            "description": "Google is cracking down on remote work, while Salesforce is donating to charity for every day workers come in from June 12 to 23.",
-            "url": "https://www.washingtonpost.com/business/2023/06/08/google-salesforce-return-to-office/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WRMNXDVAPESQON64BTFUKVTXGA.JPG&w=1440",
-            "publishedAt": "2023-06-08T03:08:00Z",
-            "content": "Comment on this story\r\nComment\r\nThe executives of corporate America are stepping up efforts to get workers back into the office, using a combination of threats and incentives to get employees to give\u2026 [+8275 chars]"
+            "author": "Amanda Macias, Holly Ellyatt",
+            "title": "Ukraine war live updates: Heavy fighting underway in eastern Ukraine; Kyiv calls for help as first flood deaths reported - CNBC",
+            "description": "Ukraine called for more international assistance as it contends with the humanitarian and ecological disaster caused by mass flooding in the Kherson region.",
+            "url": "https://www.cnbc.com/2023/06/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107253243-1686224709914-gettyimages-1493481884-9j6a4622_zavhorodnii_230523_donetskoblast_av.jpeg?v=1686224858&w=1920&h=1080",
+            "publishedAt": "2023-06-08T21:44:00Z",
+            "content": "Mines uprooted and dispersed by floodwaters surging downstream from the breached Kakhovka dam across swathes of southern Ukraine could pose a grave danger to civilians for decades to come, the Red Cr\u2026 [+1634 chars]"
         },
         {
             "source": {
@@ -242,25 +21,246 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Mike Pence tears into Donald Trump at 2024 campaign launch - BBC",
-            "description": "Donald Trump's two-time running mate offers his most forceful repudiation of his ex-boss to date.",
-            "url": "https://www.bbc.com/news/world-us-canada-65839793",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/864E/production/_130028343_gettyimages-1258511111.jpg",
-            "publishedAt": "2023-06-08T02:51:51Z",
-            "content": "Media caption, Watch: Mike Pence digs at Trump in 2024 campaign launch\r\nFormer US vice-president Mike Pence has offered his most forceful repudiation of Donald Trump to date during a speech launching\u2026 [+4769 chars]"
+            "title": "France stabbing: Children attacked in Annecy park in stable condition - BBC",
+            "description": "All four children are in hospital and officials have told the BBC they are in a stable condition.",
+            "url": "https://www.bbc.com/news/world-europe-65841666",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2745/production/_130035001_mediaitem130034999.jpg",
+            "publishedAt": "2023-06-08T21:33:20Z",
+            "content": "Media caption, Watch: Video appears to show Annecy park knifeman in playground\r\nFour young children who were stabbed in a park in Annecy, in France's south-east, are now in a stable condition, offici\u2026 [+4769 chars]"
         },
         {
             "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Gary Jones, Steff Ch\u00e1vez, Oliver Ralph, Donato Paolo Mancini, Alexandra White",
-            "title": "Live news: Singapore's CIX clears 12000 tonnes of carbon credits on first trading day - Financial Times",
-            "description": "",
-            "url": "https://www.ft.com/content/b593c9b9-abff-46c6-ac18-8676913860ef",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4b150cef-a6d3-411b-aab1-b17a18f59dec.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-06-08T02:11:15Z",
-            "content": "Four children and two adults have been injured in a knife attack in the south eastern French city of Annecy, authorities said on Thursday.\r\nEmmanuel Macron, Frances president, called the attack absol\u2026 [+812 chars]"
+            "author": "Ash Parrish",
+            "title": "Summer Game Fest featured no women onstage - The Verge",
+            "description": "For an industry that struggles with diversity, it\u2019s a failure to not be inclusive of the women who also make games.",
+            "url": "https://www.theverge.com/2023/6/8/23754562/summer-game-fest-women-diversity-geoff-keighley",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/jmlIhJhpKq3PnYie2aORwqmOlAQ=/0x0:1758x1000/1200x628/filters:focal(879x500:880x501)/cdn.vox-cdn.com/uploads/chorus_asset/file/24712626/Screen_Shot_2023_06_08_at_5.26.20_PM.png",
+            "publishedAt": "2023-06-08T21:33:19Z",
+            "content": "Summer Game Fest featured no women onstage\r\nSummer Game Fest featured no women onstage\r\n / For an industry that struggles with diversity, its a failure to not be inclusive of the women who also make \u2026 [+2419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Dalvin Cook rumors: RB's cryptic Instagram post another sign Miami native has eyes on joining Dolphins - CBS Sports",
+            "description": "With his release forthcoming on Friday, the pending free agent RB is now hinting at a homecoming",
+            "url": "https://www.cbssports.com/nfl/news/dalvin-cook-rumors-rbs-cryptic-instagram-post-another-sign-miami-native-has-eyes-on-joining-dolphins/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/04/e68c7ad2-eba1-4d44-bf61-a861df91b700/thumbnail/1200x675/c97d7079c117df64e675335d46fd7547/dalvin-cook-1-1400.jpg",
+            "publishedAt": "2023-06-08T21:26:00Z",
+            "content": "The Minnesota Vikings\u00a0are moving on from four-time Pro Bowl running back Dalvin Cook\u00a0as expected, despite each of his four Pro Bowl appearances coming in the past four seasons. The Vikings plan to re\u2026 [+1493 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Elevated walkway collapses in Texas beach city, injuring dozens - ABC News",
+            "description": "Nearly two dozen teenagers from a summer camp were injured when an elevated walkway collapsed Thursday in a beachside city in Texas, with five flown to the hospital by helicopter",
+            "url": "https://abcnews.go.com/US/wireStory/5-flown-hospital-after-portion-elevated-walkway-collapses-99944002",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2023-06-08T20:54:53Z",
+            "content": "SURFSIDE BEACH, Texas -- Nearly two dozen teenagers from a summer camp were injured when an elevated walkway collapsed Thursday in a beachside city in Texas, with five flown to the hospital by helico\u2026 [+1069 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Joe Toppe",
+            "title": "Coinbase needs new CEO after SEC fail: Kevin O'Leary - Fox Business",
+            "description": "Investor and Shark Tank star Kevin O\u2019Leary says he\u2019d get rid of Coinbase CEO Brian Armstrong and find someone willing to work with the Securities and Exchange Commission.",
+            "url": "https://www.foxbusiness.com/markets/coinbase-new-ceo-sec-fail-kevin-oleary",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/KEVIN-OLEARY-HEARING-GETTY.jpg?ve=1&tl=1",
+            "publishedAt": "2023-06-08T20:48:45Z",
+            "content": "Investor and Shark Tank star Kevin O\u2019Leary says he would fire Coinbase CEO Brian Armstrong and find someone who is willing to make a deal with the Securities and Exchange Commission (SEC).\r\nSEC SUES \u2026 [+2170 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Behold Wall Street's new bull market, maybe - Reuters",
+            "description": "S&P 500 <a href=\"https://www.reuters.com/quote/.SPX/\"target=\"_blank\">(.SPX)</a> advanced on Thursday, putting the benchmark index up 20% from its Oct. 12 closing low and heralding the start of a new bull market, at least by the definition of some market parti\u2026",
+            "url": "https://www.reuters.com/markets/us/behold-wall-streets-new-bull-market-maybe-2023-06-08/",
+            "urlToImage": "https://www.reuters.com/resizer/3VwRHm5oxjPrZJ1afcIk68zNxoQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OKUDCIPXZJPQLLAJPS53ZYRB34.jpg",
+            "publishedAt": "2023-06-08T20:35:00Z",
+            "content": "NEW YORK, June 8 (Reuters) - S&amp;P 500 (.SPX) advanced on Thursday, putting the benchmark index up 20% from its Oct. 12 closing low and heralding the start of a new bull market, at least by the def\u2026 [+3578 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Caitlin Gibson",
+            "title": "How parents can protect children amid hazardous air quality, wildfire smoke - The Washington Post",
+            "description": "Whether to let kids outside, what symptoms to look for and more answers as we contend with the haze.",
+            "url": "https://www.washingtonpost.com/parenting/2023/06/08/children-wildfire-air-quality-asthma-protect/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ONQCRUGRR7SLCJNTUMVK7ABDEY_size-normalized.JPG&w=1440",
+            "publishedAt": "2023-06-08T20:33:12Z",
+            "content": "Comment on this story\r\nComment\r\nAn amber haze of smoke from Canadian wildfires has blanketed the Northeast United States in recent days, with hazardous air alerts issued all along the East Coast. The\u2026 [+7972 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jonathan Vanian",
+            "title": "Meta CEO Mark Zuckerberg touts to employees 'incredible breakthroughs' the company has seen in A.I. - CNBC",
+            "description": "In a meeting Thursday, Meta CEO Mark Zuckerberg told employees about the company's artificial intelligence efforts and their relation to the metaverse.",
+            "url": "https://www.cnbc.com/2023/06/08/meta-ceo-mark-zuckerberg-talks-companys-ai-efforts-to-employees.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107131933-1665418142088-gettyimages-1327685522-kd1_0333_20210708121128478.jpeg?v=1686261966&w=1920&h=1080",
+            "publishedAt": "2023-06-08T20:32:48Z",
+            "content": "Meta CEO Mark Zuckerberg wants his workforce to know the company is in the middle of the artificial intelligence race.\r\nDuring a meeting with employees Thursday in the Hacker Square pavilion at Meta'\u2026 [+2797 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Russian man killed in shark attack off Egypt\u2019s Red Sea resort - Al Jazeera English",
+            "description": "Coastline to remain off limits with a ban on swimming, snorkelling and other water sports activities until Sunday.",
+            "url": "https://www.aljazeera.com/news/2023/6/8/russian-man-killed-in-shark-attack-off-egypts-red-sea-resort",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/03/AP_16302048344434.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-06-08T20:18:58Z",
+            "content": "A Russian man has died after being attacked by a shark off the coast of Egypts Red Sea resort city of Hurghada, officials have said.\r\nThe Environment Ministry said that the man was killed after being\u2026 [+2050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heat.com"
+            },
+            "author": "John Schuhmann",
+            "title": "Finals Film Study: Nikola Jokic's rare skillset on full display in Game 3 - NBA.com",
+            "description": "The 2-time Kia MVP did it all during his 32-point, 21-rebound, 10-assist triple-double performance in Miami.",
+            "url": "https://www.nba.com/news/finals-film-study-nuggets-heat-game-3",
+            "urlToImage": "https://cdn.nba.com/manage/2023/06/USATSI_20847378-scaled-e1686254341670.jpg",
+            "publishedAt": "2023-06-08T20:08:35Z",
+            "content": "Nikola Jokic and Denver won Game 3 on Wednesday to take a 2-1 series lead over Miami.\r\nIt\u2019s an understatement to say that Nikola Jokic is a special player. With his 32 points, 21 rebounds and 10 assi\u2026 [+5208 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KWQC-TV6"
+            },
+            "author": null,
+            "title": "MidAmerican releases info on crews who worked on \u201cThe Davenport\u201d building night of the collapse - KWQC",
+            "description": "MidAmerican releases info on crews who worked on \u201cThe Davenport\u201d building night of the collapse.",
+            "url": "https://www.kwqc.com/2023/06/08/midamerican-releases-info-crews-who-worked-davenport-building-night-collapse/",
+            "urlToImage": "https://gray-kwqc-prod.cdn.arcpublishing.com/resizer/0ochXZkUk2b4Tl-iyKaLLJUfhxQ=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/Q7VZQ6XMX5HNBJN6XM6JRSQS6E.jpg",
+            "publishedAt": "2023-06-08T19:58:00Z",
+            "content": "DAVENPORT, Iowa (KWQC) - As TV6 continues coverage on the partially collapsed apartment building, The Davenport, MidAmerican has released information regarding crews on-scene, responding the night of\u2026 [+2024 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Adam Rittenberg",
+            "title": "Big Ten to introduce 'Flex Protect Plus' football schedule model in 2024 - ESPN - ESPN",
+            "description": "The Big Ten will introduce a football schedule model in 2024 that includes 11 protected matchups across the conference, eliminates divisions and targets a rotation as the league expands to 16 members with USC and UCLA.",
+            "url": "https://www.espn.com/college-football/story/_/id/37820350/big-ten-introduce-flex-protect-plus-football-schedule-model-2024",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0917%2Fr747086_2_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-06-08T19:58:00Z",
+            "content": "The Big Ten in 2024 will introduce a football schedule model that includes 11 protected matchups across the conference, eliminates divisions and targets a robust overall rotation as the league expand\u2026 [+6119 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mark Sherman",
+            "title": "Supreme Court rules in favor of Black Alabama voters in unexpected defense of Voting Rights Act - The Associated Press",
+            "description": "The Supreme Court has issued a surprising ruling in favor of Black voters in a congressional redistricting case, ordering the creation of a second district with a large Black population.",
+            "url": "https://apnews.com/article/supreme-court-redistricting-race-voting-rights-alabama-af0d789ec7498625d344c0a4327367fe",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1ba42ab39e994e2d8839fbcca7a33057/3000.webp",
+            "publishedAt": "2023-06-08T19:55:58Z",
+            "content": "WASHINGTON (AP) The Supreme Court on Thursday issued a surprising 5-4 ruling in favor of Black voters in a congressional redistricting case from Alabama, with two conservative justices joining libera\u2026 [+6439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Sonic Superstars - Reveal Trailer | Summer Game Fest 2023 - IGN",
+            "description": "Sonic fans rejoice! Sonic Superstars is a brand-new side scrolling platformer starring everyone's favorite blue hedgehog. Sonic Superstars launches Fall 2023...",
+            "url": "https://www.youtube.com/watch?v=IO_I0A2cbMU",
+            "urlToImage": "https://i.ytimg.com/vi/IO_I0A2cbMU/maxresdefault.jpg",
+            "publishedAt": "2023-06-08T19:38:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Mark Zuckerberg Says Apple Vision Pro Has No 'Magical Solutions' - MacRumors",
+            "description": "In a companywide meeting with employees today, Meta CEO Mark Zuckerberg responded to Apple's announcement of the Vision Pro, according to The...",
+            "url": "https://www.macrumors.com/2023/06/08/zuckerberg-responds-to-apple-vision-pro/",
+            "urlToImage": "https://images.macrumors.com/t/DAlQZ9bRqWJDEkWu3UpbY_Cbcyc=/1600x/article-new/2023/06/Zuckerberg-Vision-Pro.jpeg",
+            "publishedAt": "2023-06-08T19:36:43Z",
+            "content": "In a companywide meeting with employees today, Meta CEO Mark Zuckerberg responded to Apple's announcement of the Vision Pro, according to The Verge's Alex Heath. Zuckerberg said the Vision Pro has no\u2026 [+3139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Biden classified documents probe shows few signs of wrapping up soon - MSNBC",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=66gGXQQuLgM",
+            "urlToImage": null,
+            "publishedAt": "2023-06-08T19:30:00Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte",
+            "title": "Is taurine the \u2018elixir of life\u2019? Maybe, if you\u2019re a worm, mouse or monkey - CNN",
+            "description": "Taurine shows promise as a potential anti-aging molecule by slowing aging in monkeys and other species, according to a new study. Critics say it\u2019s not ready for prime time in people.",
+            "url": "https://www.cnn.com/2023/06/08/health/taurine-longevity-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230608122745-taurine-longevity-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-08T18:36:00Z",
+            "content": "Taurine, an amino acid often used by body builders and added to energy or sports drinks, may be an elixir of life, according to the author of a new study at least when it comes to extending the healt\u2026 [+9128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Sarah Sotoodeh",
+            "title": "Jenna Jameson is married! Former adult film star, 49, weds girlfriend Jessi Lawless, 40 - Daily Mail",
+            "description": "Jenna Jameson married girlfriend Jessi Lawless on May 23 in a Las Vegas ceremony.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-12175147/Jenna-Jameson-married-Former-adult-film-star-49-weds-girlfriend-Jessi-Lawless-40.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/06/08/20/71925809-0-image-a-123_1686251903534.jpg",
+            "publishedAt": "2023-06-08T18:26:35Z",
+            "content": "Jenna Jameson married girlfriend Jessi Lawless on May 23 in a Las Vegas ceremony.\r\nThe 49-year-old former adult film star and Jessi, 40, said their I do's at the Little Church of the West in Las Vega\u2026 [+4262 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Cuba enters the US-China power tussle | WION - WION",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=FMNmnrsXJN8",
+            "urlToImage": null,
+            "publishedAt": "2023-06-08T18:24:51Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
         }
     ]
 }
