@@ -4,172 +4,42 @@
     "articles": [
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Cydney Henderson, Anthony Gharib, Safid Deen, Jeff Zillgitt",
-            "title": "NBA Finals live updates: When is Nuggets-Heat Game 4, how to watch - USA TODAY",
-            "description": "Jimmy Butler and the Miami Heat host two-time MVP Nikola Jokic and the Denver Nuggets for Game 4 of the 2023 NBA Finals on Friday night.",
-            "url": "https://www.usatoday.com/story/sports/nba/playoffs/2023/06/09/nba-finals-game-4-live-updates/70305832007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/08/USAT/9c4ab704-3331-4805-ba62-9f6ea9436dea-nba3_jokic.jpg?crop=3425,1927,x0,y174&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-10T00:00:00Z",
-            "content": "Jimmy Butler and the\u00a0Miami Heat\u00a0host two-time MVP Nikola Jokic and the Denver Nuggets\u00a0for Game 4\u00a0of the 2023 NBA Finals on Friday night. The Nuggets have a 2-1 series lead after they picked up a Game\u2026 [+9672 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Alex Sundby",
-            "title": "Mike Batayeh, \"Breaking Bad\" actor and comedian, dies at age 52 - CBS News",
-            "description": "\"Breaking Bad\" fans knew Mike Batayeh as Dennis Markowski, the manager of an industrial laundromat that served as the front for a meth lab on the award-winning show.",
-            "url": "https://www.cbsnews.com/news/mike-batayeh-dies-age-52-breaking-bad-actor-comedian/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/09/4a238f24-7296-46c7-b37d-93c21f97ae47/thumbnail/1200x630g2/2e3a157dd476338c5d975ad8f1874a17/gettyimages-487799053.jpg",
-            "publishedAt": "2023-06-09T22:53:24Z",
-            "content": "Mike Batayeh, a comedian and actor who appeared on several television shows, including the acclaimed hit \"Breaking Bad,\" has died, his family announced. He was 52.\r\nBatayeh died of a \"massive heart a\u2026 [+1255 chars]"
+            "author": "Andrew Jeong, Isobel Koshiw, Helier Cheung",
+            "title": "Russia-Ukraine war news: Ukraine inches forward on the front line - The Washington Post",
+            "description": "Ukrainian officials said their forces had advanced slightly near Bakhmut, while military analysts said Ukrainian forces inched forward near a southeastern town.",
+            "url": "https://www.washingtonpost.com/world/2023/06/10/russia-ukraine-war-news-counteroffensive/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/66HZNVPJV5SORFQGFVLXHC6IPM.JPG&w=1440",
+            "publishedAt": "2023-06-10T10:10:00Z",
+            "content": "Ukraine made marginal gains on the front lines, advancing nearly a mile near Bakhmut and forcing several dozen Russian troopsin the eastern village of Arapivka to flee their positions, according to U\u2026 [+7187 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
+                "name": "The Athletic"
             },
-            "author": "Juli Clover",
-            "title": "Netflix Password Sharing Crackdown Works, U.S. Subscriber Numbers Soar - MacRumors",
-            "description": "Netflix in May started cracking down on password sharing in the United States, and the decision has worked in the company's favor, according to...",
-            "url": "https://www.macrumors.com/2023/06/09/netflix-password-crackdown-subscriber-increase/",
-            "urlToImage": "https://images.macrumors.com/t/Yb7Dv7Bh8DTDY3q7vvz3YvEUWPU=/2250x/article-new/2023/02/Netflix-Smaller-2.jpg",
-            "publishedAt": "2023-06-09T22:52:00Z",
-            "content": "Netflix in May started cracking down on password sharing in the United States, and the decision has worked in the company's favor, according to subscriber data shared today by analytics company Anten\u2026 [+2765 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Brent Lang",
-            "title": "\u2018Gladiator 2\u2019 Stunt Accident Leaves Several Crew Members Injured (EXCLUSIVE) - Variety",
-            "description": "Several crew members were injured on the Morocco set of the sequel to \u201cGladiator\u201d on June 7 while filming a stunt sequence for the action film. \u201cWhile filming a planned stunt sequence o\u2026",
-            "url": "https://variety.com/2023/film/news/gladiator-2-stunt-accident-crew-members-injured-1235639302/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2022/03/Gladiator.jpg?w=1000&h=562&crop=1",
-            "publishedAt": "2023-06-09T22:20:00Z",
-            "content": "Several crew members were injured on the Morocco set of the sequel to \u201cGladiator\u201d on June 7 while filming a stunt sequence for the action film. \r\n\u201cWhile filming a planned stunt sequence on the set of\u2026 [+1537 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "French Open semifinals: Novak Djokovic edges Carlos Alcaraz to advance to final | NBC Sports - NBC Sports",
-            "description": "Novak Djokovic defeats Carlos Alcaraz 6-3, 5-7, 6-1, 6-1 to advance to his fourth French Open final at Roland-Garros. #NBCSports #FrenchOpen #NovakDjokovic #...",
-            "url": "https://www.youtube.com/watch?v=K6VuFCwUMnQ",
-            "urlToImage": "https://i.ytimg.com/vi/K6VuFCwUMnQ/maxresdefault.jpg",
-            "publishedAt": "2023-06-09T22:06:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Evan Perez,Sara Murray,Tierney Sneed,Jeremy Herb",
-            "title": "Trump aide Walt Nauta indicted in classified documents case - CNN",
-            "description": "Walt Nauta, an aide to former President Donald Trump, was indicted in special counsel Jack Smith\u2019s investigation into the mishandling of classified documents from the Trump White House, according to a source familiar.",
-            "url": "https://www.cnn.com/2023/06/09/politics/walt-nauta-trump-indicted/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230609114118-walt-nauta-0313-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-09T21:17:00Z",
-            "content": "An aide to former President Donald Trump has been indicted in special counsel Jack Smiths investigation into the mishandling of classified documents from the Trump White House.\r\nWalt Nautas indictmen\u2026 [+3210 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Amanda Macias, Natasha Turak",
-            "title": "Ukraine war live updates: Putin says Ukrainian counteroffensive has begun; Kyiv says it has proof Russia blew up Kakhovka dam - CNBC",
-            "description": "The dam has been in Russian-occupied territory since shortly after the full-scale invasion of Ukraine began.",
-            "url": "https://www.cnbc.com/2023/06/09/russia-ukraine-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107253530-1686242372261-gettyimages-1258537604-AFP_33HP7KP.jpeg?v=1686328849&w=1920&h=1080",
-            "publishedAt": "2023-06-09T21:10:00Z",
-            "content": "Ukraine's domestic security service said it intercepted a phone call proving a Russian \"sabotage group\" blew up the Kakhovka hydroelectric station and dam in southern Ukraine.\r\nIt posted a recording \u2026 [+2061 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Christina Falso",
-            "title": "Tesla stock pops on partnership with General Motors. Here's what the experts have to say - CNBC",
-            "description": "Pros on CNBC discussed what they think about Tesla as the stock jumps after the company announced a partnership with GM Thursday.",
-            "url": "https://www.cnbc.com/2023/06/09/tesla-stock-pops-on-partnership-with-gm-heres-what-the-experts-have-to-say.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107254436-tesla_movers_6_9.png?v=1686344702&w=1920&h=1080",
-            "publishedAt": "2023-06-09T21:05:02Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "David Axe",
-            "title": "The Ukrainian Army Lost Bradley Fighting Vehicles And A Leopard 2 Tank Trying And Failing To Breach Russian Defenses In Southern Ukraine - Forbes",
-            "description": "The 33rd and 47th Brigades' debacle near Mala Tokmachka might be Kyiv\u2019s first big defeat of the counteroffensive. But losses don\u2019t necessarily mean strategic defeat.",
-            "url": "https://www.forbes.com/sites/davidaxe/2023/06/09/the-ukrainian-army-lost-a-leopard-2-tank-and-bradley-fighting-vehicles-trying-and-failing-to-breach-russian-defenses-in-southern-ukraine/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64838e8388e3f16bbb750fc7/0x0.jpg?format=jpg&crop=1582,741,x0,y119,safe&width=1200",
-            "publishedAt": "2023-06-09T20:49:54Z",
-            "content": "The aftermath of the failed Ukrainian assault on Malaya Tokmachka.\r\nVia social media\r\nThe Ukrainian armys 33rd Mechanized Brigade and 47th Assault Brigade massed their Leopard tanks and Bradley fight\u2026 [+3976 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Boris Johnson: Former UK prime minister quits as MP over Partygate report - BBC News - BBC News",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=-m7_s7J4OPw",
-            "urlToImage": null,
-            "publishedAt": "2023-06-09T20:45:00Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "author": "Joe Vardon",
+            "title": "Aaron Gordon leads Nuggets to Game 4 win, 3-1 series lead over Heat in NBA Finals - The Athletic",
+            "description": "Denver can win the first title in franchise history Monday at home. Game 5 is at 8:30 p.m. ET.",
+            "url": "https://theathletic.com/4598576/2023/06/09/nuggets-heat-game-4-results/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/09232550/GettyImages-1258573530-1024x683.jpg",
+            "publishedAt": "2023-06-10T10:01:42Z",
+            "content": "MIAMI The Denver Nuggets needed someone other than Nikola Joki or Jamal Murray to carry them in Game 4, and because Aaron Gordon obliged they are now on the brink of their first NBA championship.\r\nGo\u2026 [+3484 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Josh Schafer",
-            "title": "S&P 500 finishes week at highest level since August, as Nasdaq logs 7th-straight winning week: Stock market news today - Yahoo Finance",
-            "description": "Stocks popped on Friday after the S&P 500 officially entered a bull market to end Thursday's trading session.",
-            "url": "https://finance.yahoo.com/news/sp-500-finishes-week-at-highest-level-since-august-as-nasdaq-logs-7th-straight-winning-week-stock-market-news-today-200258753.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1DDaSCwVW0jkwi0wVY_xOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/af0036c0-06b8-11ee-bfda-5ba642c17c61",
-            "publishedAt": "2023-06-09T20:02:58Z",
-            "content": "Stocks rose on Friday as investors digested a pairing between two of the largest American automakers and prepared for the Federal Reserve's next decision on rate hikes.\r\nThe S&amp;P 500 (^GSPC) rose \u2026 [+3372 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PBS"
-            },
-            "author": null,
-            "title": "WATCH: Special Counsel Jack Smith speaks after Justice Department unseals Trump indictment - PBS NewsHour",
-            "description": "\u201cAdherence to the rule of law is a bedrock principle of the Department of Justice and our nation\u2019s commitment to the rule of law sets an example for the world,\u201d Smith said.",
-            "url": "https://www.pbs.org/newshour/politics/watch-justice-department-releases-trump-indictment",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2023-06-09T194149Z_1282679062_RC2VF1A6NM68_RTRMADP_3_USA-TRUMP-DOCUMENTS-1024x630.jpg",
-            "publishedAt": "2023-06-09T20:00:15Z",
-            "content": "READ FULL: Trump indictment on mishandling of classified documents\r\nThe Justice Department special counsel who filed charges against Trump says in his first public statement that the country has one \u2026 [+570 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": null,
-            "title": "Belmont Stakes 2023 odds, top expert picks, post positions: Forte, National Treasure, Tapit Trice predictions - CBS Sports",
-            "description": "Horse racing expert reveals picks for Tapit Trice, Angel of Empire, Forte, other 2023 Belmont Stakes horses",
-            "url": "https://www.cbssports.com/general/news/belmont-stakes-2023-odds-top-expert-picks-post-positions-forte-national-treasure-tapit-trice-predictions/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/20/177974cf-1938-4737-9331-3348f5bc551c/thumbnail/1200x675/023d6cbbcfcb91ae956b599dba435155/usatsi-20714285.jpg",
-            "publishedAt": "2023-06-09T19:55:27Z",
-            "content": "Preakness Stakes winner National Treasure may set the pace again in the 2023 Belmont Stakes on Saturday, but he will have to overcome a stronger field and longer distance. National Treasure, trained \u2026 [+5068 chars]"
+            "author": "Sunil Jagtiani",
+            "title": "Crypto Markets Slump as SEC Regulatory Crackdown Spooks Investors - Yahoo Finance",
+            "description": "(Bloomberg) -- Smaller coins sank in a sharp crypto market selloff as a Securities and Exchange Commission crackdown on key digital-asset exchanges unnerved ...",
+            "url": "https://finance.yahoo.com/news/crypto-markets-slump-us-regulatory-063747098.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Y3TRYlD7VbPIm7tKpJuW3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/b052ba7446c0ad982800b1c05cd9f5a2",
+            "publishedAt": "2023-06-10T09:24:57Z",
+            "content": "(Bloomberg) -- Smaller coins sank in a sharp crypto market selloff as a Securities and Exchange Commission crackdown on key digital-asset exchanges unnerved investors.\r\nMost Read from Bloomberg\r\nCard\u2026 [+2067 chars]"
         },
         {
             "source": {
@@ -177,11 +47,11 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "'Serious questions' over Trump appointed judge said to be overseeing indictment case - MSNBC",
-            "description": "Former President Donald Trump will face a judge he appointed in federal charges alleging he mishandled classified documents. Former FBI Assistant Director fo...",
-            "url": "https://www.youtube.com/watch?v=DNy3RolbQNo",
-            "urlToImage": "https://i.ytimg.com/vi/DNy3RolbQNo/maxresdefault.jpg",
-            "publishedAt": "2023-06-09T19:30:01Z",
+            "title": "Alan Wake 2's 30-Minute Behind-Closed-Doors Gameplay Demo Was Outstanding - IGN",
+            "description": "We saw a live 30-minute gameplay demo of Alan Wake 2 running on a PS5 and came away extremely impressed. We share our impressions as well as what we learned ...",
+            "url": "https://www.youtube.com/watch?v=zI2gJGVjRMA",
+            "urlToImage": "https://i.ytimg.com/vi/zI2gJGVjRMA/maxresdefault.jpg",
+            "publishedAt": "2023-06-10T06:24:39Z",
             "content": null
         },
         {
@@ -189,78 +59,208 @@
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Emily Crane, Josh Christenson",
-            "title": "Donald Trump's legal team gets shakeup as two top attorneys resign after indictment - New York Post ",
-            "description": "The lawyers, Jim Trusty and John Rowley, issued a joint statement saying they had tendered their resignations first thing Friday.",
-            "url": "https://nypost.com/2023/06/09/trumps-attorneys-jim-trusty-john-rowley-resign-after-indictment/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012417180-1.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-06-09T19:06:00Z",
-            "content": "Donald Trump\u2019s legal team got reshuffled Friday after two of his top attorneys resigned \u2014 less than 24 hours after one of them went on a media blitz about the former president\u2019s classified documents \u2026 [+4010 chars]"
+            "author": "Nicholas McEntyre",
+            "title": "Nine people injured during shooting in San Francisco: police - New York Post ",
+            "description": "Multiple people were injured when gunfire erupted in San Francisco\u2019s Mission District on Friday evening, according to police.",
+            "url": "https://nypost.com/2023/06/10/san-francisco-mission-district-shooting-leaves-multiple-injured/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/san-francisco.jpg?quality=75&strip=all&1686362301&w=1024",
+            "publishedAt": "2023-06-10T06:12:00Z",
+            "content": "Nine people were hospitalized when gunfire erupted in San Francisco\u2019s Mission District neighborhood on Friday night, according to police.\r\nSan Francisco police revealed all of the victims are expecte\u2026 [+793 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WXYZ"
+                "name": "NBC Southern California"
+            },
+            "author": "Rudy Chinchilla",
+            "title": "Driver tops 100 mph while leading police chase through LA County - NBC Southern California",
+            "description": "The driver of a stolen car had several near-misses with other drivers while leading a high-speed chase through several cities in Los Angeles County Friday\u2026",
+            "url": "https://www.nbclosangeles.com/news/local/police-chase-a-vehicle-near-downtown-la-area/3168051/",
+            "urlToImage": "https://media.nbclosangeles.com/2023/06/pursuit-june-9.png?resize=1200%2C675&quality=85&strip=all",
+            "publishedAt": "2023-06-10T05:53:47Z",
+            "content": "The driver of a stolen car had several near-misses with other drivers while leading a high-speed chase through several cities in Los Angeles County Friday night.\r\nThe chase started on surface streets\u2026 [+562 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Bojan Pancevski, Drew Hinshaw, Joe Parkinson",
+            "title": "Nord Stream Sabotage Probe Turns to Clues Inside Poland - WSJ - The Wall Street Journal",
+            "description": "German investigation examines whether ally\u2019s territory was a springboard for pipeline attack",
+            "url": "https://www.wsj.com/articles/nord-stream-sabotage-probe-turns-to-clues-inside-poland-4ed20422",
+            "urlToImage": "https://images.wsj.net/im-795900/social",
+            "publishedAt": "2023-06-10T04:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "Russia claims it blew up advanced Ukrainian tank, but video shows its helicopter attacked a tractor - New York Post ",
+            "description": "A grainy black-and-white gunsight video Russia released this week to bolster a claim its military blew up some of Ukraine\u2019s most fearsome tanks actually documented the destruction of a tractor.",
+            "url": "https://nypost.com/2023/06/09/russia-claims-to-blow-up-ukrainian-tank-turns-out-to-be-tractor-video/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/newspress-collage-ugq0h1d9t-1686368009889.jpg?quality=75&strip=all&1686353717&w=1024",
+            "publishedAt": "2023-06-10T03:44:00Z",
+            "content": "A grainy black-and-white gunsight video Russia released this week to bolster a claim its military blew up some of Ukraines most fearsome tanks actually documented the destruction of a tractor, accord\u2026 [+5028 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Florida woman who fatally shot neighbor granted $154,000 bond - WXYZ 7 Action News Detroit",
-            "description": "A judge granted a $154,000 bond Friday for a white Florida woman charged with fatally shooting a Black neighbor through her front door.",
-            "url": "https://www.wxyz.com/news/florida-woman-who-fatally-shot-neighbor-granted-154-000-bond",
-            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/404a0e3/2147483647/strip/true/crop/4500x2363+0+1819/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F0f%2F71%2F5067ff7e4722a6fedb8099cbd2d7%2Fap23157684102750.jpg",
-            "publishedAt": "2023-06-09T18:23:00Z",
-            "content": "OCALA, Fla. (AP) A judge granted a $154,000 bond Friday for a white Florida woman charged with fatally shooting a Black neighbor through her front door.\r\nSusan Louise Lorincz, 58, of Ocala returned t\u2026 [+2371 chars]"
+            "title": "Jey Uso's whirlwind of a night: SmackDown Highlights, June 9, 2023 - WWE",
+            "description": "Check out the tumultuous evening Jey Uso had as he delivered an ultimatum to Paul Heyman, competed for the U.S. Title and much more. Catch WWE action on Peac...",
+            "url": "https://www.youtube.com/watch?v=LjWs82SmzLs",
+            "urlToImage": "https://i.ytimg.com/vi/LjWs82SmzLs/maxresdefault.jpg",
+            "publishedAt": "2023-06-10T03:40:37Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "CBS Sports"
             },
-            "author": "Mark Hulbert",
-            "title": "What the S&P 500\u2019s new bull market tells us about what\u2019s to come - MarketWatch",
-            "description": "The S&P 500 has now closed more than 20% its October low",
-            "url": "https://www.marketwatch.com/story/what-the-s-p-500s-new-bull-market-tells-us-about-whats-to-come-232c8fe4",
-            "urlToImage": "https://images.mktw.net/im-797734/social",
-            "publishedAt": "2023-06-09T18:15:00Z",
-            "content": "Was that the all-clear signal? Should you now reinvest in equities the cash youve built up in your retirement portfolio over the last 18 months?I ask because on Thursday of this week the S&amp;P 500 \u2026 [+3558 chars]"
+            "author": null,
+            "title": "Belmont Stakes 2023 predictions, odds, bets: Expert picks for win, place, exacta, trifecta, superfecta - CBS Sports",
+            "description": "Forte, Tapit Trice and Angel of Empire are the 2023 Belmont Stakes favorites, but does our expert think they can win?",
+            "url": "https://www.cbssports.com/general/news/belmont-stakes-2023-predictions-odds-bets-expert-picks-for-win-place-exacta-trifecta-superfecta/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/16/cc62629a-1e8b-4602-8c71-eea870a18b46/thumbnail/1200x675/be7e2003b75abe6f67ce6045c6774588/preakness-3-usatsi.jpg",
+            "publishedAt": "2023-06-10T03:24:02Z",
+            "content": "Favorites have fared well over the years at the Belmont Stakes. In fact, the betting favorite has won the Belmont Stakes 42.9% of the time over 154 races. Four of the last five Belmont Stakes winners\u2026 [+3452 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Dallas Morning News"
+                "name": "New York Post"
             },
-            "author": "Allie Morris, Lauren McGaughy",
-            "title": "Texas businessman central to AG Ken Paxton impeachment indicted for financial crimes - The Dallas Morning News",
-            "description": "Nate Paul, the real estate developer at the center of Texas AG Ken Paxton's impeachment, was arrested by the FBI and charged with felony offenses.",
-            "url": "https://www.dallasnews.com/news/politics/2023/06/09/texas-man-central-to-ag-ken-paxton-impeachment-charged-with-financial-crimes/",
-            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/EEp1BWgo6_4zMh5aU0y3PB6kjXM=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/XH6S2ANWCAYL52MFC5OU6SUQTE.jpg",
-            "publishedAt": "2023-06-09T18:00:00Z",
-            "content": "AUSTIN The real estate developer at the center of impeachment allegations against Attorney General Ken Paxton has been charged with multiple federal felonies related to alleged financial crimes.\r\nNat\u2026 [+4454 chars]"
+            "author": "Fox News",
+            "title": "Elon Musk says DOJ has 'far higher interest in pursuing Trump' than others - New York Post ",
+            "description": "\u201cThere does seem to be far higher interest in pursuing Trump compared to other people in politics,\u201d Musk tweeted Thursday night. He added, \u201cVery important that the justice system \u2026",
+            "url": "https://nypost.com/2023/06/09/elon-musk-says-doj-has-far-higher-interest-in-pursuing-trump-than-others/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/MUSK-TRUMP-comp-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-06-10T02:16:00Z",
+            "content": "Twitter owner and billionaire Elon Musk argued that former President\u00a0Donald Trumps indictment\u00a0by the Department of Justice risks losing the trust of the American public.\u00a0\r\nTrump is the current front-\u2026 [+2146 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Samantha Murphy Kelly",
-            "title": "Mark Zuckerberg has thoughts on Apple\u2019s new mixed reality headset - CNN",
-            "description": "Days after Apple unveiled its $3,499 mixed reality headset, Meta CEO Mark Zuckerberg appeared to take a jab at the company\u2019s pricing and vision for the product.",
-            "url": "https://www.cnn.com/2023/06/09/tech/mark-zuckerberg-apple-vision-pro/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230609121242-mark-zuckerberg-file-102519.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-09T18:00:00Z",
-            "content": "Days after Apple unveiled its $3,499 mixed reality headset, Meta CEO Mark Zuckerberg appeared to take a jab at the companys pricing and vision for the product. \r\nOur device is also about being active\u2026 [+3767 chars]"
+            "author": "Robert Costa",
+            "title": "Anger toward Gen. Milley may have led Trump to discuss documents, adding to indictment evidence - CBS News",
+            "description": "Trump loathed Milley's positive coverage in the press and that led him to be cavalier about what he said about the general, veering close to classified material in conversations, sources said.",
+            "url": "https://www.cbsnews.com/news/donald-trump-indictment-documents-mark-milley-mar-a-lago/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2019/09/30/388c5182-ef17-4da5-8790-f952fe2d27f7/thumbnail/1200x630/44472d63e111d3d5687bb081c2d12cec/GettyImages-1172545332.jpg",
+            "publishedAt": "2023-06-10T02:08:00Z",
+            "content": "Former President Donald Trump's anger toward a single person appears to have played a key role in evidence leading to his indictment this week.\u00a0\r\nIt all comes down to one person, Gen. Mark A. Milley,\u2026 [+5698 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Detroit Free Press"
             },
-            "author": "Ashley Strickland",
-            "title": "A new supernova has appeared in the night sky - CNN",
-            "description": "A Japanese astronomer discovered a bright new supernova in May in the Pinwheel Galaxy, making it the closest supernova seen in five years.",
-            "url": "https://www.cnn.com/2023/06/09/world/pinwheel-galaxy-new-supernova-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230609130032-wonders-of-the-universe-pinwheel-galaxy-supernova.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-09T17:42:00Z",
-            "content": "Editors note:Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA sparkling new supernova has appeared in\u2026 [+2082 chars]"
+            "author": ", Detroit Free Press",
+            "title": "Taylor Swift hits the Ford Field stage in opening night of Detroit concert stand - Detroit Free Press",
+            "description": "Pop star Taylor Swift launched the first of two sold-out shows at the Detroit stadium as her Eras Tour hit town.",
+            "url": "https://www.freep.com/story/entertainment/music/brian-mccollum/2023/06/09/taylor-swift-detroit-ford-field-friday-night-one-review-photos/70306370007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/06/10/PDTF/8ed99d50-492b-45e9-b076-ebd2bb6d19cd-06092023_Taylor_Swift_Concert_002.JPG?auto=webp&crop=3199,1800,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2023-06-10T01:58:06Z",
+            "content": "After months of buildup, Detroit's big moment with Taylor Swift has arrived.\r\nSwift hit the Ford Field stage at 7:58 p.m. Friday, kicking off the first of two sold-out nights at the downtown stadium \u2026 [+610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Colombia plane crash: Four children found alive in Amazon after 40 days - BBC",
+            "description": "It is a \"magical day\", says the president, as the four siblings are found after 40 days missing.",
+            "url": "https://www.bbc.com/news/world-latin-america-65864158",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2409/production/_130052290_4a94e355e06c9c99bb2f0c658192f6bbae2deb5a.jpg",
+            "publishedAt": "2023-06-10T01:38:29Z",
+            "content": "Four children have been found alive more than a month after their plane crashed in Colombia's Amazon jungle, the country's president has said.\r\nThe siblings, aged 13, nine, four and a one-year-old ba\u2026 [+2443 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Russia-Ukraine war: List of key events, day 472 - Al Jazeera English",
+            "description": "As the war enters its 472nd day, these are the main developments.",
+            "url": "https://www.aljazeera.com/news/2023/6/10/russia-ukraine-war-list-of-key-events-day-472",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/33HP7KP-highres-1686358708.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-06-10T01:30:58Z",
+            "content": "This is the situation as it stands on Saturday, June 10, 2023\r\nNova Kakhovka dam collapse\r\n<ul><li>European Union foreign policy chief Josep Borrell said everything indicates that Russia was responsi\u2026 [+6788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Mortal Kombat 1 Character Changes And Story Explained By Ed Boon | Summer Game Fest 2023 - GameSpot",
+            "description": "Ed Boon sat down with GameSpot to talk about the upcoming Mortal Kombat 1 and some of the games major changes.#mortalkombat1 #mk1 #mortalkombat Ed Boon talke...",
+            "url": "https://www.youtube.com/watch?v=Mav9Syfva7Q",
+            "urlToImage": "https://i.ytimg.com/vi/Mav9Syfva7Q/maxresdefault.jpg",
+            "publishedAt": "2023-06-10T00:31:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "GM and Ford agree to allow electric vehicle drivers to use Tesla chargers - NBC News",
+            "description": "Electric vehicle charging is about to get a lot easier for drivers after an agreement from GM and Ford to use Tesla chargers. NBC News\u2019 Jacob Ward reports on...",
+            "url": "https://www.youtube.com/watch?v=ok1U7_SIzv8",
+            "urlToImage": "https://i.ytimg.com/vi/ok1U7_SIzv8/maxresdefault.jpg",
+            "publishedAt": "2023-06-10T00:30:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures: Bullish Market Trend, But Fed Meeting Looms; Watch Tesla, Nvidia, Biogen | Investor's Business Daily - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-bullish-market-trend-but-fed-meeting-looms-tesla-nvidia-lead-stocks-to-watch/",
+            "urlToImage": null,
+            "publishedAt": "2023-06-09T23:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Gravitas: NASA says 1500-feet-wide asteroid about to pass by Earth - WION",
+            "description": "NASA says that a 1500-feet-wide asteroid will pass by earth on June 12. Should people be concerned? How fast is this asteroid? Molly Gambhir tells you more. ...",
+            "url": "https://www.youtube.com/watch?v=Z2oL4PILrr4",
+            "urlToImage": "https://i.ytimg.com/vi/Z2oL4PILrr4/maxresdefault.jpg",
+            "publishedAt": "2023-06-09T23:30:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Houston Chronicle"
+            },
+            "author": "Jasper Scherer, Taylor Goldenstein",
+            "title": "Key figure in Ken Paxton impeachment charged with lying to lenders - Houston Chronicle ",
+            "description": "Nate Paul, 36, is charged with overstating and understating his assets and liabilities to several lending institutions between 2017 and 2018.",
+            "url": "https://www.houstonchronicle.com/politics/texas/article/key-figure-ken-paxton-impeachment-charged-lying-18144122.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/33/17/40/23918593/3/rawImage.jpg",
+            "publishedAt": "2023-06-09T23:03:45Z",
+            "content": "The Justice Department\u00a0on Friday charged Nate Paul, who is separately accused of bribing Texas Attorney General Ken\u00a0Paxton, with eight felony counts of making false statements to mortgage lending bus\u2026 [+5840 chars]"
         }
     ]
 }
