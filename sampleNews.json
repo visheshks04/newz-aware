@@ -1,162 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 33,
     "articles": [
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Jason Horowitz",
-            "title": "Silvio Berlusconi dies at 86 - The Washington Post",
-            "description": "He dominated and divided his country for decades through a combination of showman charm, scofflaw bombast and ruthless application of financial and political power.",
-            "url": "https://www.washingtonpost.com/obituaries/2023/06/12/silvio-berlusconi-italian-prime-minister-dead/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-12-2023/t_0d0bc65ceedf46fa8d80fa080ac715ff_name_20230606_IAEAChief_00_01_03_20_Still038.jpg&w=1440",
-            "publishedAt": "2023-06-12T12:24:00Z",
-            "content": "Former prime minister Silvio Berlusconi of Italy, a media mogul who dominated and divided his country for decades through a combination of showman charm, scofflaw bombast and ruthless application of \u2026 [+15953 chars]"
+            "author": "Jeff Zillgitt, Victoria Hernandez, Tyler Dragon",
+            "title": "NBA Finals live updates: Nuggets-Heat Game 5 time, TV; Herro available - USA TODAY",
+            "description": "Two-time MVP Nikola Jokic and the Denver Nuggets host Jimmy Butler and the Miami Heat host for Game 5 of the 2023 NBA Finals on Monday night.",
+            "url": "https://www.usatoday.com/story/sports/nba/2023/06/12/nba-finals-game-5-live-updates/70313188007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/08/NPPP/813a35a7-f5a3-4d51-9659-e1f072e60993-USATSI_20846946.jpg?crop=3985,2242,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-12T23:48:45Z",
+            "content": "Two-time MVP Nikola Jokic and the Denver Nuggets host Jimmy Butler and the Miami Heat host for Game 5\u00a0of the 2023 NBA Finals on Monday night. The Nuggets have a 3-1 series lead after picking up a Gam\u2026 [+11952 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Chris Isidore",
-            "title": "Wall Street Journal: George Soros has handed control of his charitable and political activities to his son Alex - CNN",
-            "description": "Billionaire George Soros, a leading philanthropist and contributor to liberal political causes, has tapped his 37-year old son Alexander Soros to lead his charitable foundation and political action committee, according to the Wall Street Journal.",
-            "url": "https://www.cnn.com/2023/06/12/investing/george-soros-taps-son-alexander/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230612115445-alexander-soros-george-soros.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-12T12:01:00Z",
-            "content": "Billionaire George Soros, a leading philanthropist and contributor to liberal political causes, has tapped his 37-year old son Alexander Soros to lead his charitable foundation and political action c\u2026 [+1607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Scientific American"
-            },
-            "author": "Allison Parshall",
-            "title": "Space Farmers of the Future May Grow Fungi, Flies and Microgreens - Scientific American",
-            "description": "Here&rsquo;s how the winners of NASA&rsquo;s Deep Space Food Challenge are making food out of thin air",
-            "url": "https://www.scientificamerican.com/article/space-farmers-of-the-future-may-grow-fungi-flies-and-microgreens1/",
-            "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/B3CD00E2-CEC1-4E31-924109FA9EFA5948.jpg",
-            "publishedAt": "2023-06-12T12:00:10Z",
-            "content": "A few weeks ago, I arrived hungry to the Brooklyn Navy Yard in New York City, ready for a unique culinary experience. Finalists of NASA and the Canadian Space Agency\u2019s Deep Space Food Challenge had c\u2026 [+10005 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Holly Ellyatt",
-            "title": "Ukraine war live updates: Kyiv says it has liberated front-line villages in counteroffensive; Putin appeals to Russians' patriotism - CNBC",
-            "description": "All eyes are on Ukraine's counteroffensive after its armed forces claimed to have liberated four front-line villages in the eastern Donetsk region.",
-            "url": "https://www.cnbc.com/2023/06/12/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107254870-1686567260601-gettyimages-1258632908-AA_12062023_1234097.jpeg?v=1686567430&w=1920&h=1080",
-            "publishedAt": "2023-06-12T11:44:00Z",
-            "content": "Russia's Defense Ministry said on Monday it has signed a contract with the Akhmat group of Chechen special forces, a day after Russia's powerful mercenary chief Yevgeny Prigozhin refused to do so.\r\nT\u2026 [+1798 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WKMG News 6 & ClickOrlando"
-            },
-            "author": "Jacob Langston",
-            "title": "WATCH AGAIN: SpaceX launches Falcon 9 rocket from Cape Canaveral - WKMG News 6 & ClickOrlando",
-            "description": "cvfgb",
-            "url": "https://www.clickorlando.com/news/space-news/2023/06/11/spacex-to-launch-falcon-9-rocket-with-starlink-satellites-from-cape-canaveral/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/06-12-2023/t_ecc2a7728f8940d2819de8338d8a4762_name_image.jpg?_a=ATCqVhC0",
-            "publishedAt": "2023-06-12T11:39:06Z",
-            "content": "CAPE CANAVERAL, Fla. SpaceX launched another batch of Starlink satellites into low-Earth orbit early Monday with a Falcon 9 rocket from Cape Canaveral Space Force Station.\r\nThe launch of the 52 Starl\u2026 [+671 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Dan Duggan",
-            "title": "Giants RB Saquon Barkley frustrated by \u2018misleading\u2019 reports on contract stalemate - The Athletic",
-            "description": "Barkley had remained quiet while taking a public relations beating from fans in disbelief that he turned down the reported offers.",
-            "url": "https://theathletic.com/4602040/2023/06/11/saquon-barkley-misleading-reports-contract-stalemate/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/11221403/USATSI_19588073-1024x683.jpg",
-            "publishedAt": "2023-06-12T10:56:17Z",
-            "content": "JERSEY CITY, N.J. Saquon Barkley reiterated Sunday that he wants to be a Giant for life. The issue is Barkley isnt a Giant at all right now.\r\nBarkley still hasnt signed the franchise tag that was app\u2026 [+5044 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Chechen forces sign contract with Russia after Wagner\u2019s refusal - Al Jazeera English",
-            "description": "The move comes as the Kremlin attempts to control private armies fighting on its behalf in Ukraine.",
-            "url": "https://www.aljazeera.com/news/2023/6/12/chechen-forces-sign-contract-with-russia-after-wagners-refusal",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/03/AP22056532409324.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-06-12T10:50:26Z",
-            "content": "Russias defence ministry has signed a contract with the Akhmat group of Chechen special forces, a paramilitary group waging the Kremlins offensive near the town of Mariinka in the Donetsk region of e\u2026 [+2005 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Barbara Kollmeyer",
-            "title": "Goldman pushes back against bears like Morgan Stanley with 4,500 S&P 500 target - MarketWatch",
-            "description": "Critical information for the U.S. trading day",
-            "url": "https://www.marketwatch.com/story/goldman-pushes-back-against-bearish-morgan-stanleys-mike-wilson-with-new-4-500-s-p-500-target-e69059a8",
-            "urlToImage": "https://images.mktw.net/im-798494/social",
-            "publishedAt": "2023-06-12T10:47:00Z",
-            "content": "A baby bull market is poised to keep toddling along, with equity futures indicating the S&amp;P 500 \r\n SPX,\r\n +0.11%\r\ncould push beyond 4,300 on Monday. But then much depends on the pivotal Fed meeti\u2026 [+6956 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jenni Reid, Holly Ellyatt",
-            "title": "European markets live updates: stocks, news, central banks - CNBC",
-            "description": "European markets opened higher Monday as investors prepare for a week of key central bank meetings in the United States, Asia and Europe.",
-            "url": "https://www.cnbc.com/2023/06/12/european-markets-live-updates-stocks-news-central-banks.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107251282-1685991400573-NYSE_Traders-OB-20230605-CC-PRESS-4.jpg?v=1686544281&w=1920&h=1080",
-            "publishedAt": "2023-06-12T10:39:00Z",
-            "content": "European markets moved higher Monday, as investors prepare for a week of key central bank meetings in the U.S., Asia and Europe.\r\nThe pan-European Stoxx 600 index was up 0.23% at 11:30 a.m. London ti\u2026 [+1377 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Morgan Winsor",
-            "title": "Interstate 95 collapse repairs to take 'months' in Philadelphia, officials say - ABC News",
-            "description": "Pennsylvania Gov. Josh Shapiro said repairs will \"take some number of months.\"",
-            "url": "https://abcnews.go.com/US/repairs-collapsed-section-interstate-95-philadelphia-months/story?id=100004580",
-            "urlToImage": "https://s.abcnews.com/images/US/i-95-collapse-philadelphia-ap-230_hpMain_20230612-053510_16x9_992.jpg",
-            "publishedAt": "2023-06-12T10:06:31Z",
-            "content": "Repairs on Interstate 95 are expected to take \"months\" after an elevated section collapsed in Philadelphia on Sunday morning when a tanker truck carrying flammable cargo caught fire beneath the overp\u2026 [+3304 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Detroit Free Press"
-            },
-            "author": "Frank Witsil",
-            "title": "Unabomber Ted Kaczynski began violent tilt at University of Michigan - Detroit Free Press",
-            "description": "Kaczynski described his time at U-M as among the worst in his life.",
-            "url": "https://www.freep.com/story/news/local/michigan/2023/06/12/unabomber-ted-kaczynski-university-michigan/70310446007/",
-            "urlToImage": "https://www.freep.com/gcdn/-mm-/0c4761bb296534b7c9d4b56e44c300fa4e07a847/c=0-174-633-532/local/-/media/2017/09/29/Westchester/Westchester/636422935830930581-PHOTOS-OF-TK-OVER-THE-YEARS.jpg?width=633&height=358&fit=crop&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-12T10:05:50Z",
-            "content": "Theodore Kaczynski, the man the media dubbed the Unabomber, died Saturday in a federal prison at 81 after terrorizing the nation for nearly two decades by sending victims homemade bombs until he was \u2026 [+5981 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Driver charged after Australia's worst bus accident in decades kills 10 wedding guests - Reuters",
-            "description": "A man was charged with dangerous driving on Monday after at least 10 wedding guests were killed when the bus they were travelling in crashed at a roundabout in Australia's worst bus accident in almost 30 years, police said.",
-            "url": "https://www.reuters.com/world/asia-pacific/least-10-people-killed-bus-accident-australia-2023-06-11/",
-            "urlToImage": "https://www.reuters.com/resizer/G2zIiafJi55an-wFMzk8XhaeG8U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IU57UTKJHVBJRIWXXADT5AXO4E.JPG",
-            "publishedAt": "2023-06-12T09:19:00Z",
-            "content": "SYDNEY, June 12 (Reuters) - A man was charged with dangerous driving on Monday after at least 10 wedding guests were killed when the bus they were travelling in crashed at a roundabout in Australia's\u2026 [+2327 chars]"
+            "author": "Carolyn Thompson",
+            "title": "1 dead after tour boat capsizes inside Erie Canal water tunnel cave in western New York - The Associated Press",
+            "description": "A boat carrying hospitality workers capsized Monday during a tour of a historic underground cavern system built to carry water from the Erie Canal beneath the western New York city of Lockport, killing one person who became trapped beneath the overturned vess\u2026",
+            "url": "https://apnews.com/article/boat-capsizes-lockport-cave-4f7cf60f33ed04f9dbdd512cac18b00a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/50a49548a3a54b76980fd3bc22bee690/2048.webp",
+            "publishedAt": "2023-06-12T23:41:37Z",
+            "content": "A boat carrying hospitality workers capsized Monday during a tour of a historic underground cavern system built to carry water from the Erie Canal beneath the western New York city of Lockport, killi\u2026 [+2678 chars]"
         },
         {
             "source": {
@@ -164,38 +34,155 @@
                 "name": "CBS News"
             },
             "author": null,
-            "title": "Three dead, three wounded in mass shooting in Annapolis: \"Senseless violence\" - CBS News",
-            "description": "The mayor of Maryland's capital said, \"People trying to resolve issues with guns ... is the most ridiculous thing we can do as a society.\"",
-            "url": "https://www.cbsnews.com/news/anapolis-shooting-three-dead-three-wounded/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/12/71414881-eca3-4cdb-a7cf-8f9052cf2142/thumbnail/1200x630/e0c0cf61e29576dabf6662a41e55d56d/annapolis-shooting-061123.jpg",
-            "publishedAt": "2023-06-12T08:40:56Z",
-            "content": "Annapolis shooting leaves three dead, three more injured; person of interest in custody \r\nAnnapolis shooting leaves three dead, three more injured; person of interest in custody03:00\r\nAnnapolis \u2014 Thr\u2026 [+1941 chars]"
+            "title": "Woman declared dead knocks on coffin during her own wake in Ecuador: \"It gave us all a fright\" - CBS News",
+            "description": "Media reported the unusual incident, with headlines celebrating the woman's \"resurrection,\" but doctors said her condition remains dire.",
+            "url": "https://www.cbsnews.com/news/woman-declared-dead-knocks-on-coffin-wake-ecuador/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2016/10/09/c6dba69a-1e67-4ae3-aab7-8d97472b2861/thumbnail/1200x630/a6b5373a945793610632522a5f5fb2bf/gettyimages-183158395.jpg",
+            "publishedAt": "2023-06-12T23:29:01Z",
+            "content": "A 76-year-old woman who was declared dead at a hospital in Ecuador astonished her relatives by knocking on her coffin during her wake, and the incident has prompted a government investigation into th\u2026 [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tracy Wright",
+            "title": "Pat Sajak leaving 'Wheel of Fortune' - Fox News",
+            "description": "Pat Sajak will end his reign as the \"Wheel of Fortune\" host following the 2023-24 season. Sajak hosted the popular game show for 40 years.",
+            "url": "https://www.foxnews.com/entertainment/pat-sajak-leaving-wheel-fortune",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/pat-sajak-wheel-of-fortune.jpg",
+            "publishedAt": "2023-06-12T23:27:00Z",
+            "content": "Pat Sajak announced his retirement from \"Wheel of Fortune\" after 40 years.\r\nSajak, 76, tweeted that while \"it's been a wonderful ride,\" his 41st season would be his last with the show.\r\n\"Well, the ti\u2026 [+2715 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Matt Petrillo, Alicia Roberts, Joe Holden",
+            "title": "What we know about the I-95 tanker truck driver - CBS Philly",
+            "description": "A cousin of the truck driver identified him as Nathan Moody.",
+            "url": "https://www.cbsnews.com/philadelphia/news/nathan-moody-i-95-collapse-in-philadelphia-what-we-know-about-the-tanker-truck-driver/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/06/12/d93b22c8-1786-4e8e-996f-af6e9abf7b8a/thumbnail/1200x630/59a3c05193d29e74fd7a89a2653bc766/snapshot-21.jpg",
+            "publishedAt": "2023-06-12T22:52:00Z",
+            "content": "PHILADELPHIA (CBS) -- Steel and concrete rubble are most of what remains after a tanker truck caught fire Sunday underneath an Interstate 95 overpass, compromising the structure and causing the north\u2026 [+3101 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "The Athletic"
             },
-            "author": "Ananya Bhattacharya",
-            "title": "The White House is trying to persuade Tesla to keep the US's EV charging standard alive - Yahoo Finance",
-            "description": "The Biden administration is opening up federal subsidies to Tesla charging stations\u2014but only if they carry US\u2019s own fast-charging standard for electric...",
-            "url": "https://finance.yahoo.com/news/white-house-trying-persuade-tesla-083900548.html",
-            "urlToImage": "https://media.zenfs.com/en/quartz.com/522a5c1986f524747492f093099e0c04",
-            "publishedAt": "2023-06-12T08:39:00Z",
-            "content": "The Biden administration is opening up federal subsidies to Tesla charging stationsbut only if they carry USs own fast-charging standard for electric vehicles.\r\nOn Friday (June 9), the White House sa\u2026 [+4656 chars]"
+            "author": "The Athletic Staff, William Guillory, Shams Charania",
+            "title": "Pelicans considering trading up in 2023 NBA Draft, targeting Scoot Henderson: Sources - The Athletic",
+            "description": "In his second and final season with Ignite, Henderson averaged 16.5 points, 6.5 assists, 5.4 rebounds and 1.1 steals per game.",
+            "url": "https://theathletic.com/4604371/2023/06/12/pelicans-scoot-henderson-nba-draft/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/12173559/GettyImages-1258470292-1024x683.jpg",
+            "publishedAt": "2023-06-12T22:26:31Z",
+            "content": "The New Orleans Pelicans are expected to aggressively pursue a top pick, potentially second or third, in the 2023 NBA Draft to target G League Ignite guard Scoot Henderson, league sources confirmed t\u2026 [+3201 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Gematsu"
             },
-            "author": "Stefano Pozzebon,Sahar Akbarzai,Heather Chen",
-            "title": "Children found after 40 days in Amazon survived by eating \u2018cassava flour\u2019 - CNN",
-            "description": "Eating cassava flour helped save the lives of four children found alive in the Amazon jungle more than a month after their plane crashed, according to a Colombian military special forces official.",
-            "url": "https://www.cnn.com/2023/06/11/world/colombia-missing-children-how-they-survived-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601222210-01-colombia-plane-crash-search.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-12T08:37:00Z",
-            "content": "Eating cassava flour helped save the lives of four children found alive in the Amazon jungle more than a month after their plane crashed, according to a Colombian military special forces official. \r\n\u2026 [+2690 chars]"
+            "author": "Sal Romano",
+            "title": "Ghost Trick: Phantom Detective demo now available - Gematsu",
+            "description": "A demo for Ghost Trick: Phantom Detective is now available across all platforms, Capcom announced.",
+            "url": "https://www.gematsu.com/2023/06/ghost-trick-phantom-detective-demo-now-available",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/06/Ghost-Trick-Demo-Release_06-12-23.jpg",
+            "publishedAt": "2023-06-12T22:16:02Z",
+            "content": "This demo allows you to play up to Chapter 2 of Ghost Trick: Phantom Detective. Save data from the demo version can be transferred to the full version, allowing you to continue your progress after pu\u2026 [+1695 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Christina Wilkie",
+            "title": "Trump arrives in Miami for arraignment on first-ever federal charges against an ex-president - CNBC",
+            "description": "Former President Donald Trump arrived in Miami, where he is expected to surrender to authorities in a federal criminal probe Tuesday.",
+            "url": "https://www.cnbc.com/2023/06/12/donald-trump-indictment-trump-arrives-in-miami-for-arraignment.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107255262-1686598949276-gettyimages-1497958785-wm_10109_gjdirege.jpeg?v=1686607520&w=1920&h=1080",
+            "publishedAt": "2023-06-12T21:49:44Z",
+            "content": "WASHINGTON Former President Donald Trump touched down in Miami on Monday afternoon, a day before he is expected to make his first appearance in court to face federal charges that he willfully retaine\u2026 [+4932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSBY San Luis Obispo News"
+            },
+            "author": null,
+            "title": "SpaceX launches Falcon 9 rocket from Vandenberg Space Force Base - KSBY News",
+            "description": "SpaceX launched a Falcon 9 rocket from Vandenberg Space Force Base Monday afternoon. The first-stage booster successfully landed on the landing pad.",
+            "url": "https://www.ksby.com/news/local-news/watch-spacex-to-launch-falcon-9-rocket-from-vandenberg-space-force-base",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/7596d0b/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F42%2F7d%2Fecddec4c4898b4cb2c803632b0ab%2Fspacex-logo.jpeg",
+            "publishedAt": "2023-06-12T21:49:35Z",
+            "content": "UPDATE: The rocket lifted off at 2:35 p.m. SpaceX says the booster successfully returned to land. \r\nUPDATE 2:01 p.m.: SpaceX said in a tweet that the launch window has been pushed back to 2:35 p.m.\r\n\u2026 [+933 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Mike Reiss",
+            "title": "Patriots release James Robinson, thinning backfield depth - ESPN - ESPN",
+            "description": "Running back James Robinson, who agreed to a two-year deal with a base value of $4 million on March 15, was released by the Patriots on Monday, thinning New England's depth behind starter Rhamondre Stevenson.",
+            "url": "https://www.espn.com/nfl/story/_/id/37842993/patriots-release-james-robinson-thinning-backfield-depth",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0612%2Fr1185756_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-06-12T21:42:00Z",
+            "content": "FOXBOROUGH, Mass. -- The New England Patriots released running back James Robinson on Monday, thinning their depth behind starter Rhamondre Stevenson.\r\nRobinson, 24, had agreed to a two-year deal wit\u2026 [+1231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Asteroid the size of a bridge expected to pass by Earth, NASA says - KABC-TV",
+            "description": "NASA says an asteroid that spans 1,500 feet -- the size of a bridge -- is expected to pass by Earth Monday.",
+            "url": "https://abc7.com/asteroid-size-of-bridge-pass-by-earth-nasa/13372992/",
+            "urlToImage": "https://s.abcnews.com/images/Technology/asteroid-path-ht-ps-230612_1686578806091_hpMain_16x9_608.jpg?w=1600",
+            "publishedAt": "2023-06-12T21:41:17Z",
+            "content": "A \"potentially dangerous\" asteroid the size of a bridge is expected to pass by Earth Monday, NASA said.\r\nThe asteroid -- called 1994 XD -- has a span of 1,500 feet, comparable to that of the Brooklyn\u2026 [+2129 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Herb Scribner, Zoe Glasser",
+            "title": "Golden Globes: What's next after Hollywood Foreign Press change - The Washington Post",
+            "description": "Dick Clark Productions and Eldridge announced that they will acquire the rights to the Golden Globes.",
+            "url": "https://www.washingtonpost.com/lifestyle/2023/06/12/golden-globes-hfpa/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/52HZ54EOUYI63ODKFY5HOM3LRY.jpg&w=1440",
+            "publishedAt": "2023-06-12T21:39:53Z",
+            "content": "Comment on this story\r\nComment\r\nThe Golden Globe Awards will shift into a new era as Dick Clark Productions and investor Todd Boehlys Eldridge company purchased the rights, assets and properties of t\u2026 [+1808 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amanda Macias, Holly Ellyatt",
+            "title": "Ukraine war live updates: Kyiv says it has liberated front-line villages in counteroffensive; Putin appeals to Russians' patriotism - CNBC",
+            "description": "All eyes are on Ukraine's counteroffensive after its armed forces claimed to have liberated four front-line villages in the eastern Donetsk region.",
+            "url": "https://www.cnbc.com/2023/06/12/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107254870-1686567260601-gettyimages-1258632908-AA_12062023_1234097.jpeg?v=1686567430&w=1920&h=1080",
+            "publishedAt": "2023-06-12T21:32:00Z",
+            "content": "Ukrainian intelligence claimed Monday that Russian engineering units are mining the workshops of the \"Crimean Titan\" enterprise in occupied Crimea.\r\nThe plant, in Armiansk in northern Crimea, is the \u2026 [+1314 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "FTC files to block Microsoft from buying Activision Blizzard - The Verge",
+            "description": "The Federal Trade Commission has filed to try and get a temporary temporary restraining order and injunction to prevent Microsoft from closing its Activision Blizzard acquisition. A judge will now need to decide whether to grant the request.",
+            "url": "https://www.theverge.com/2023/6/12/23758194/ftc-microsoft-activision-blizzard-complaint-block-acquisition-call-of-duty",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/n2SnFRk93CgmoGa7JQVfCM4V5v8=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926024/acastro_STK048_03.jpg",
+            "publishedAt": "2023-06-12T21:14:26Z",
+            "content": "FTC files to block Microsoft from buying Activision Blizzard\r\nFTC files to block Microsoft from buying Activision Blizzard\r\n / The Federal Trade Commission is seeking a temporary restraining order an\u2026 [+2744 chars]"
         },
         {
             "source": {
@@ -203,64 +190,77 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Ukraine says it recaptured fourth village in modest counteroffensive gains - Reuters",
-            "description": "Ukraine said on Monday its troops had recaptured a fourth village in a cluster of settlements in the southeast, a day after reporting the first small gains of a counteroffensive against Russian forces.",
-            "url": "https://www.reuters.com/world/europe/ukraine-says-heavy-battles-going-after-first-counteroffensive-gains-2023-06-12/",
-            "urlToImage": "https://www.reuters.com/resizer/BuC1gJbs7h3UKHcUOywy9p-PrlU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7I57OQTTDFLVHPQZSJ556YVFGQ.jpg",
-            "publishedAt": "2023-06-12T08:16:00Z",
-            "content": "KYIV, June 12 (Reuters) - Ukraine said on Monday its troops had recaptured a fourth village in a cluster of settlements in the southeast, a day after reporting the first small gains of a counteroffen\u2026 [+2574 chars]"
+            "title": "Fans celebrate K-Pop supergroup BTS' 10-year anniversary - Reuters",
+            "description": "Fans of K-Pop supergroup BTS gathered in the heart of the South Korean capital Seoul on Monday to celebrate the 10-year anniversary of the boy band's debut.",
+            "url": "https://www.reuters.com/lifestyle/fans-celebrate-k-pop-supergroup-bts-10-year-anniversary-2023-06-12/",
+            "urlToImage": "https://www.reuters.com/resizer/WeeYq4CAh6wgj_BTr-_r6HTtTQ8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MQ3SDGPCN5KNBEES4R2WGFCXAM.jpg",
+            "publishedAt": "2023-06-12T20:52:00Z",
+            "content": "SEOUL, June 12 (Reuters) - Fans of K-Pop supergroup BTS gathered in the heart of the South Korean capital Seoul on Monday to celebrate the 10-year anniversary of the boy band's debut.\r\nAlthough the g\u2026 [+1670 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TMZ"
+                "name": "Salt Lake Tribune"
             },
-            "author": "TMZ Staff",
-            "title": "Khloe Kardashian and Tristan's Son Had Kardashian Last Name at Birth, Later Changed - TMZ",
-            "description": "Khloe Kardashian wasn't messing around when her son was born, giving him the Kardashian last name instead of Tristan Thompson's ... but later had a change of heart.",
-            "url": "https://www.tmz.com/2023/06/12/khloe-kardashian-tristan-thompson-son-kardashian-last-name-birth/",
-            "urlToImage": "https://imagez.tmz.com/image/ac/16by9/2023/06/09/ace32eaf7170400ea514d74323360f64_xl.jpg",
-            "publishedAt": "2023-06-12T08:00:00Z",
-            "content": "Khloe Kardashian wasn't messing around when her son was born, giving him the Kardashian last name instead of Tristan Thompson's ... but later had a change of heart.\r\nSources with direct knowledge tel\u2026 [+1626 chars]"
+            "author": null,
+            "title": "Utah author and murder suspect Kouri Richins denied bail, poses 'substantial danger,' judge rules - Salt Lake Tribune",
+            "description": "\u201cI never knew evil like this existed,\u201d Amy Richins, sister of Eric Richins, said of her sister-in-law Kouri Richins during a Monday detention hearing in Park City.",
+            "url": "https://www.sltrib.com/news/2023/06/12/utah-author-murder-suspect-kouri/",
+            "urlToImage": "https://www.sltrib.com/resizer/-Bn0Q3h9TRiMRfZQ-BqvrtLoFoM=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/sltrib/BWUKE22YNFBZHHDKQLLSEQE5MY.jpg",
+            "publishedAt": "2023-06-12T20:51:14Z",
+            "content": "Park City A Utah author accused of fatally drugging her husband with fentanyl last year was denied bail Monday after a judge ruled that she poses a substantial danger to herself, family members and t\u2026 [+4325 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MLB.com"
+                "name": "WDIV ClickOnDetroit"
             },
-            "author": "Bryan Hoch",
-            "title": "What a trouper! Sterling back in booth after being hit by foul - MLB.com",
-            "description": "NEW YORK -- One night after being struck by a foul ball, John Sterling was back behind the Yankees\u2019 radio microphone on Sunday evening, with a bandage covering his left eyebrow but otherwise seemingly no worse for wear.\nSterling said that he has been touched \u2026",
-            "url": "https://www.mlb.com/news/john-sterling-back-in-booth-after-being-struck-by-foul-ball",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/etdf1s2ddvibsx88432w.jpg",
-            "publishedAt": "2023-06-12T06:13:45Z",
-            "content": "NEW YORK -- One night after being struck by a foul ball, John Sterling was back behind the Yankees radio microphone on Sunday evening, with a bandage covering his left eyebrow but otherwise seemingly\u2026 [+2846 chars]"
+            "author": "Brandon Carr",
+            "title": "Michiganders urged to take precautions against mosquito bites as they've tested positive for virus - WDIV ClickOnDetroit",
+            "description": "Michiganders are being urged to take precautions against mosquitos bites as the recently collected mosquitos in Saginaw County have tested positive for Jamestown Canyon virus (JCV) at the Michigan Department of Health and Human Services Bureau of Laboratories\u2026",
+            "url": "https://www.clickondetroit.com/news/local/2023/06/12/michiganders-urged-to-take-precautions-against-mosquito-bites-as-theyve-tested-positive-for-virus/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/06-12-2023/t_dec8a63ba274428bbed7061b88f5526f_name_image.jpg?_a=ATCqVhC0",
+            "publishedAt": "2023-06-12T20:06:07Z",
+            "content": "Michiganders are being urged to take precautions against mosquitos bites as the recently collected mosquitos in Saginaw County have tested positive for Jamestown Canyon virus (JCV) at the Michigan De\u2026 [+3304 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Suntimes.com"
+                "name": "WSAZ-TV"
             },
-            "author": "Georgia Nicols",
-            "title": "Horoscope for Monday, June 12, 2023 - Chicago Sun-Times",
-            "description": null,
-            "url": "https://chicago.suntimes.com/2023/6/12/23747437/horoscopes-today-monday-june-12-2023",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/3d3d2f0/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FVoYdH77SMCc7rQO7d2b7878dE7I%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24699857%2FGeorgia_mug.jpeg",
-            "publishedAt": "2023-06-12T05:02:13Z",
-            "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Aries.\r\nAries (March 21-April 19)\r\nThis is a great way for you to begin your week! The moon is in your sign da\u2026 [+3773 chars]"
+            "author": null,
+            "title": "Police officer shot in eastern Ky.; KSP issues shelter-in-place - WSAZ",
+            "description": "Police say the shot came from a wooded area, and the suspect was not seen.",
+            "url": "https://www.wsaz.com/2023/06/12/police-officer-shot-eastern-ky/",
+            "urlToImage": "https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/4l3sC3xeHmalAytCxjU0wwaHyLA=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/YOXXTKEOQFC73LEQYGKITQATJQ.jpg",
+            "publishedAt": "2023-06-12T20:00:00Z",
+            "content": "OLIVE HILL, Ky. (WSAZ) - A police officer has been shot Monday afternoon in Olive Hill, according to Olive Hill Police.\r\nThe incident, reported around 3:15 p.m., happened on Scott Street.\r\nPolice say\u2026 [+1350 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "JPMorgan settles with Jeffrey Epstein victims for $290 million - Reuters",
+            "description": "JPMorgan Chase <a href=\"https://www.reuters.com/companies/JPM.N/\"target=\"_blank\">(JPM.N)</a> agreed to pay about $290 million to settle a class action lawsuit by Jeffrey Epstein's victims, resolving a large part of litigation over the bank's relationship with\u2026",
+            "url": "https://www.reuters.com/legal/jpmorgan-agrees-settle-with-epstein-victim-class-action-suit-2023-06-12/",
+            "urlToImage": "https://www.reuters.com/resizer/AzL6ojdT1uQu-TGB7aIL7bKGYnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JIDXI7QD2JJKDEOWLXCHAKPHWQ.jpg",
+            "publishedAt": "2023-06-12T19:41:00Z",
+            "content": "NEW YORK, June 12 (Reuters) - JPMorgan Chase (JPM.N) agreed to pay about $290 million to settle a class action lawsuit by Jeffrey Epstein's victims, resolving a large part of litigation over the bank\u2026 [+5378 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Eonline.com"
             },
-            "author": "",
-            "title": "NBA Finals MVP odds: Nikola Jokic a near-lock to win Bill Russell trophy as Nuggets near victory over Heat - CBS Sports",
-            "description": "Jokic is a huge favorite to win Finals MVP",
-            "url": "https://www.cbssports.com/nba/news/nba-finals-mvp-odds-nikola-jokic-a-near-lock-to-win-bill-russell-trophy-as-nuggets-near-victory-over-heat/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/11/769d4af2-2344-4592-84ed-b6ed6620a43f/thumbnail/1200x675/9c5df0e38be9caca7439ee7c25f79029/jokic-getty-12.png",
-            "publishedAt": "2023-06-12T04:58:00Z",
-            "content": "Nikola Jokic entered the NBA Finals as a heavy favorite to win the Finals MVP award, and you'll be stunned to hear that after building a nearly-insurmountable 3-1 lead, the two-time regular-season MV\u2026 [+1649 chars]"
+            "author": "Brett Malec",
+            "title": "See the Shocking Fight That Caused Teresa Giudice to Walk Out of the RHONJ Reunion - E! NEWS",
+            "description": "After Teresa Giudice's daughter Gia gets involved in her ongoing feud with brother Joe Gorga, The Real Housewives of New Jersey star storms out of the season 13 reunion in an explosive preview.",
+            "url": "https://www.eonline.com/news/1376953/see-the-shocking-fight-that-caused-teresa-giudice-to-walk-out-of-the-rhonj-reunion",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023423/rs_1200x1200-230523145439-1200-Teresa-Giudice-Melissa-Gorga-Real-Housewives-of-New-Jersey-Reunion.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-06-12T19:00:00Z",
+            "content": "On the Dec. 22 episode of her On Display podcast, Melissa revealed how her daughter Antonia, 17, has been handling all the family chaos. And much to the star's surprise, she said her daughter is simp\u2026 [+793 chars]"
         }
     ]
 }
