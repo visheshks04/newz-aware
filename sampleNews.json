@@ -1,149 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Tina Burnside",
-            "title": "At least 9 injured in a mass shooting in downtown Denver, police say, soon after Nuggets\u2019 NBA title win - CNN",
-            "description": "At least nine people were injured in a mass shooting in downtown Denver, police said, as crowds gathered to celebrate the Nuggets\u2019 first NBA championship.",
-            "url": "https://www.cnn.com/2023/06/13/us/denver-shooting-market-street/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230613081548-01-denver-shooting-market-street-061323.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-13T12:28:00Z",
-            "content": "At least nine people were injured in a mass shooting in downtown Denver, police said, as crowds gathered to celebrate the Nuggets first NBA championship.\r\nShots were fired during an altercation invol\u2026 [+782 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nouran Salahieh,Celina Tebor",
-            "title": "Officials work to identify remains recovered from the wreckage of the I-95 collapse in Philadelphia as demolition work begins - CNN",
-            "description": "Authorities are working to identify a body recovered from the wreckage of the Interstate 95 collapse in Philadelphia, where crews have started around-the-clock efforts to demolish the crumbled East Coast artery that could take months to rebuild.",
-            "url": "https://www.cnn.com/2023/06/13/us/philadelphia-i95-collapse-fire-tuesday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230613063544-i95-collapse-debris-pa-file-061223.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-13T11:28:00Z",
-            "content": "Authorities are working to identify a body recovered from the wreckage of the Interstate 95 collapse in Philadelphia, where crews have started around-the-clock efforts to demolish the crumbled East C\u2026 [+6917 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Tennessean"
             },
-            "author": "Andrew Pulver",
-            "title": "Treat Williams, prolific character actor, dies in motorcycle crash aged 71 - The Guardian",
-            "description": "Golden Globe-nominated actor starred in a string of films including Hair, as well as taking a lead role in TV series Everwood",
-            "url": "https://www.theguardian.com/film/2023/jun/13/treat-williams-prolific-character-actor-dies-in-motorcycle-crash-aged-71",
-            "urlToImage": "https://i.guim.co.uk/img/media/fe0ae08c2c56f3bd8c537ef1c7519d256dbc6bcf/0_59_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=080ec03cbfd48b700b71fdbec4bccbd0",
-            "publishedAt": "2023-06-13T11:20:00Z",
-            "content": "Treat Williams, whose 50-year acting career saw him appear in a string of films including Hair, Prince of the City, Things to Do in Denver When Youre Dead and Deep Rising, has died aged 71 after a mo\u2026 [+2194 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Steve Almasy,Homero De la Fuente",
-            "title": "Denver Nuggets win first NBA championship title in Game 5 victory over Miami Heat - CNN",
-            "description": "The Denver Nuggets won their first NBA championship Monday night, downing the Miami Heat 94-89 at Ball Arena in Denver to take Game 5 of the NBA Finals.",
-            "url": "https://www.cnn.com/2023/06/12/sport/denver-nuggets-nba-championship-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230613110845-nuggets-nba-finals-team-photo.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-13T10:36:00Z",
-            "content": "The Denver Nuggets won their first NBA championship Monday night, downing the Miami Heat 94-89 at Ball Arena in Denver to take Game 5 of the NBA Finals.\r\nTwo-time MVP Nikola Joki led the way for the \u2026 [+2866 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Moscow Times"
-            },
-            "author": "AFP",
-            "title": "Russia Says German Leopard Tanks, U.S. Bradleys Captured in Ukraine - The Moscow Times",
-            "description": "Moscow said Tuesday that it had captured several German Leopard tanks and U.S.",
-            "url": "https://www.themoscowtimes.com/2023/06/13/russia-says-german-leopard-tanks-us-bradleys-captured-in-ukraine-a81492",
-            "urlToImage": "https://static.themoscowtimes.com/image/og/26/81492__26be735080c109e08f5081b9adef306f.jpg",
-            "publishedAt": "2023-06-13T10:23:07Z",
-            "content": "Moscow said Tuesday that it had captured several German Leopard tanks and U.S. Bradley infantry fighting vehicles, releasing footage showing Russian troops surveying the equipment supplied to Ukraine\u2026 [+726 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Reuters",
-            "title": "Bunge to merge with Viterra to form $18 billion agriculture trader - Yahoo Finance",
-            "description": "U.S. grains merchant Bunge and Glencore-backed Viterra on Tuesday announced an $18 billion deal to merge, creating one of the world's largest agriculture...",
-            "url": "https://finance.yahoo.com/news/bunge-merge-viterra-form-18-102005884.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WX_sjCo9NkKpz_cblwr5Ag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/79af3c10-09d7-11ee-9f9c-1885ad8d117d",
-            "publishedAt": "2023-06-13T10:20:05Z",
-            "content": "(Corrects headline to say combined entity will be worth $34 bln, not $18 bln)\r\nCHICAGO, June 13 (Reuters) - U.S. grains merchant Bunge and Glencore-backed Viterra on Tuesday announced an $18 billion \u2026 [+2273 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Catherine Nicholls,Niamh Kennedy,Sana Noor Haq",
-            "title": "Three people found dead in major incident in Nottingham, UK police say - CNN",
-            "description": "Three people were found dead in the central English city of Nottingham on Tuesday, in what police described as a major incident.",
-            "url": "https://www.cnn.com/2023/06/13/uk/nottingham-deaths-intl-gbr/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230613100307-01-nottingham-incident-061323.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-13T09:44:00Z",
-            "content": "Three people were found dead in the central English city of Nottingham on Tuesday, in what police described as a major incident. \r\nA 31-year-old man has been arrested on suspicion of murder, Nottingh\u2026 [+1728 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GMA"
-            },
-            "author": "Angeline Jane Bernabe",
-            "title": "Pat Sajak says upcoming season of 'Wheel of Fortune' will be his last - GMA",
-            "description": "",
-            "url": "https://www.goodmorningamerica.com/culture/story/pat-sajak-upcoming-wheel-fortune-season-wonderful-ride-100025869",
-            "urlToImage": "https://s.abcnews.com/images/US/pat-sajak-abc-gty-lv-230612_1686613105798_hpMain_16x9_608.jpg",
-            "publishedAt": "2023-06-13T08:59:22Z",
-            "content": "Pat Sajak's time as the host of \"Wheel of Fortune\" is coming to an end.\r\nIn a \r\n tweet he shared on Monday, the game show host, 76, said the upcoming 41st season will be his last.\r\n\"Well, the time ha\u2026 [+1404 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Obesity May Permanently Change the Brain \u2013 Yale Study Finds Severely Impaired Response to Nutrients - SciTechDaily",
-            "description": "A new research study reveals a diminished response to nutrients among people with obesity \u2014 and that this brain response is not recovered after weight loss. After a person eats, the gut dispatches a series of signals to the brain conveying the presence of nut\u2026",
-            "url": "https://scitechdaily.com/?p=285761",
-            "urlToImage": "https://scitechdaily.com/images/Brain-Signals-Improvement-Concept.jpg",
-            "publishedAt": "2023-06-13T08:34:50Z",
-            "content": "ByMallory Locklear, Yale UniversityJune 13, 2023\r\nResearchers from Yale found that obesity is associated with diminished brain response to nutrient intake, which doesnt recover even after weight loss\u2026 [+6056 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Science X",
-            "title": "Webb Telescope proves galaxies transformed the early universe - Phys.org",
-            "description": "In the early universe, the gas between stars and galaxies was opaque\u2014energetic starlight could not penetrate it. But 1 billion years after the big bang, the gas had become completely transparent. Why? New data from NASA's James Webb Space Telescope has pinpoi\u2026",
-            "url": "https://phys.org/news/2023-06-webb-telescope-galaxies-early-universe.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/nasas-webb-proves-gala.jpg",
-            "publishedAt": "2023-06-13T08:31:14Z",
-            "content": "By analyzing new observations from NASA's James Webb Space Telescope, a team led by Simon Lilly of ETH Z\u00fcrich in Switzerland found evidence that galaxies that existed 900 million years after the big \u2026 [+8320 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Rachel Sharp",
-            "title": "New York boat capsized \u2013 live: One person dead after tour boat accident during cave tour along the Erie Canal - The Independent",
-            "description": "One person died and eleven others were injured when the boat capsized during Lockport Cave tour",
-            "url": "https://www.independent.co.uk/news/world/americas/new-york-lockport-boat-capsized-erie-canal-b2356433.html",
-            "urlToImage": "https://static.independent.co.uk/2023/06/12/18/Screen%20Shot%202023-06-12%20at%201.24.11%20PM.png?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-06-13T08:11:18Z",
-            "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nA tour boat capsized inside a cave 20 miles from Niagara Falls on Monda\u2026 [+5038 chars]"
+            "author": "Liam Adams, Katherine Burgess",
+            "title": "Southern Baptist Convention news: Live updates from 2023 annual meeting - Tennessean",
+            "description": "Thirteen thousand voting delegates expected to vote on women pastors, abuse reform at 2023 Southern Baptist Convention annual meeting in New Orleans.",
+            "url": "https://www.tennessean.com/story/news/religion/2023/06/13/southern-baptist-convention-new-updates-from-2023-annual-meeting-tuesday/70274688007/",
+            "urlToImage": "https://www.tennessean.com/gcdn/presto/2023/06/13/PLAL/f36d9d55-4e80-4efe-aa53-b43ed58b3f1e-Southern_Baptist_Convention_v2-4124.jpg?crop=1999,1125,x0,y100&width=1999&height=1125&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-13T21:56:15Z",
+            "content": "NEW ORLEANS Thirteen thousand Southern Baptist Convention voting delegates are expected in New Orleans to vote on the status of women pastors and continuing abuse reform, decisions that will affect w\u2026 [+11830 chars]"
         },
         {
             "source": {
@@ -151,12 +21,38 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Twitter boss Linda Yaccarino pledges to change social media firm - BBC",
-            "description": "Chief executive Linda Yaccarino says the company aims to \"drive civilisation forward\".",
-            "url": "https://www.bbc.com/news/business-65886509",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0917/production/_130072320_gettyimages-1387365339.jpg",
-            "publishedAt": "2023-06-13T07:48:46Z",
-            "content": "The new boss of social media firm Twitter, Linda Yaccarino, has outlined her plans for \"Twitter 2.0.\", after taking over from Elon Musk a week ago.\r\nShe says the company is \"on a mission to become th\u2026 [+3185 chars]"
+            "title": "Nottingham: Students among three killed in Nottingham attacks - BBC",
+            "description": "Two 19-year-old university students and a man in his 50s were killed in van and knife attacks in the city on Tuesday morning.",
+            "url": "https://www.bbc.com/news/uk-england-nottinghamshire-65893694",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6CB4/production/_130082872_2e227706f5ddd33b2f8b7946403c5c2ff6868686.jpg",
+            "publishedAt": "2023-06-13T21:26:45Z",
+            "content": "Two 19-year-old students and a man in his 50s were stabbed to death in attacks in Nottingham that also left three people injured, police have said.\r\nPolice believe the older victim's van was stolen a\u2026 [+7219 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": null,
+            "title": "2023 U.S. Open picks, odds, field, date: Surprising PGA predictions from the golf model that nailed 9 majors - CBS Sports",
+            "description": "SportsLine's proven model simulated the U.S. Open 2023 10,000 times and revealed its surprising golf picks",
+            "url": "https://www.cbssports.com/golf/news/2023-u-s-open-picks-odds-field-date-surprising-pga-predictions-from-the-golf-model-that-nailed-9-majors/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/02/6d66408a-1872-4576-ba76-88c4bf717f48/thumbnail/1200x675/487624a3a52cdcfe6b761535a5498866/justin-thomas-usatsi.jpg",
+            "publishedAt": "2023-06-13T21:18:13Z",
+            "content": "The third major championship of the year will be contested this week when Los Angeles Country Club hosts the 2023 U.S. Open beginning on Thursday. The national championship has generally been the tou\u2026 [+5658 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Richard Lawler",
+            "title": "Amazon's server outage is breaking fast food apps like McDonald's and Taco Bell - The Verge",
+            "description": "An Amazon Web Services (AWS) cloud server outage took down services including The Verge home page, as well as ordering apps for McDonald\u2019s, Burger King, and Taco Bell before service was restored.",
+            "url": "https://www.theverge.com/2023/6/13/23759857/amazon-aws-down-outage-taco-bell-mcdonalds-burger-king",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/gkI9G8zE9bgYl-ZrNFXfTVb9hus=/0x0:3235x1672/1200x628/filters:focal(1618x836:1619x837)/cdn.vox-cdn.com/uploads/chorus_asset/file/24725330/aws_fast_food.jpg",
+            "publishedAt": "2023-06-13T21:13:27Z",
+            "content": "Amazons server outage broke fast food apps like McDonalds and Taco Bell\r\nAmazons server outage broke fast food apps like McDonalds and Taco Bell\r\n / Amazon US-East-1 regions bad day caused problems i\u2026 [+2259 chars]"
         },
         {
             "source": {
@@ -164,25 +60,129 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Russian missile attack kills six in Ukrainian president's hometown - Reuters.com",
-            "description": "At least 10 people were killed in a <a href=\"/world/europe/ceding-ground-ukraine-russia-kills-civilians-apartment-block-strike-2023-06-13/\">Russian missile attack</a> that hit an apartment building and a warehouse in Ukrainian President Volodymyr Zelenskiy's \u2026",
-            "url": "https://www.reuters.com/world/europe/russia-launches-massive-missile-attack-kryvyi-rih-central-ukraine-officials-2023-06-13/",
-            "urlToImage": "https://www.reuters.com/resizer/_LQaq5EB-tVz34osIIiksCIFmGI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AW7UR6DDFJMGXCLZO5Z4J2GONI.jpg",
-            "publishedAt": "2023-06-13T07:23:00Z",
-            "content": "KRYVYI RIH, Ukraine, June 13 (Reuters) - At least 10 people were killed in a Russian missile attack that hit an apartment building and a warehouse in Ukrainian President Volodymyr Zelenskiy's hometow\u2026 [+2241 chars]"
+            "title": "US consumer price increases slow; underlying inflation sticky - Reuters",
+            "description": "U.S. consumer prices barely rose in May and the annual increase in inflation was the smallest in more than two years, though underlying price pressures remained strong, supporting the view that the Federal Reserve would keep interest rates unchanged on Wednes\u2026",
+            "url": "https://www.reuters.com/markets/us/us-consumer-prices-slow-may-core-inflation-sticky-2023-06-13/",
+            "urlToImage": "https://www.reuters.com/resizer/rbDoTFyMu-McdGi7l8cO1Y_8U0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VFKNEYGH6FMGFERTBTCGU63UGE.jpg",
+            "publishedAt": "2023-06-13T20:55:00Z",
+            "content": "WASHINGTON, June 13 (Reuters) - U.S. consumer prices barely rose in May and the annual increase in inflation was the smallest in more than two years, though underlying price pressures remained strong\u2026 [+5549 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "BBC News"
             },
-            "author": "Breck Dumas",
-            "title": "Using AI for SEO marketing? You could be doing more harm than good - Fox Business",
-            "description": "Companies are jumping on the bandwagon to use new generative artificial intelligence tools to shake up their SEO marketing strategies, but doing so could be a mistake.",
-            "url": "https://www.foxbusiness.com/technology/using-ai-seo-marketing-could-be-more-harm-good",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/0/0/AI-marketing.jpg?ve=1&tl=1",
-            "publishedAt": "2023-06-13T06:03:18Z",
-            "content": "The use of generative artificial intelligence tools has become all the rage for companies and consumers alike as early adopters hail their capabilities for saving time and assisting with tasks. But d\u2026 [+4232 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Donald Trump pleads not guilty in arraignment over classified documents - BBC",
+            "description": "The ex-president's lawyer says he \"most certainly\" denies all charges of mishandling sensitive files.",
+            "url": "https://www.bbc.com/news/world-us-canada-65877764",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E766/production/_130083295_trumpcourtsketch.jpg",
+            "publishedAt": "2023-06-13T20:36:42Z",
+            "content": "Media caption, Watch: Trump's court appearance explained in 90 seconds\r\nDonald Trump is returning to New Jersey after pleading not guilty to historic charges of mishandling sensitive files at a feder\u2026 [+4876 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Brooke Steinberg",
+            "title": "A drink a day could keep heart attacks away: American College of Cardiology - New York Post ",
+            "description": "Researchers looked at data from more than 50,000 patients to understand why previous studies have shown that light and moderate drinkers experience fewer cardiac events.",
+            "url": "https://nypost.com/2023/06/13/light-drinkers-suffer-fewer-heart-attacks-american-college-of-cardiology/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012631745.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-06-13T19:27:00Z",
+            "content": "Here\u2019s to heart health and a much-deserved moment to unwind.\r\nA new study published in the Journal of the American College of Cardiology revealed that light to moderate alcohol consumption can lead t\u2026 [+3156 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Betsy Klein",
+            "title": "Biden\u2019s press secretary violated Hatch Act, watchdog says - CNN",
+            "description": "White House press secretary Karine Jean-Pierre violated the Hatch Act for using the term \u201cmega MAGA\u201d from the briefing room podium, the US Office of the Special Counsel has determined, and has received a warning letter.",
+            "url": "https://www.cnn.com/2023/06/13/politics/karine-jean-pierre-hatch-act/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220516153435-01-karine-jean-pierre-051622.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-13T18:51:00Z",
+            "content": "White House press secretary Karine Jean-Pierre violated the Hatch Act for using the term mega MAGA from the briefing room podium, the US Office of the Special Counsel has determined, and has received\u2026 [+4289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPTZ"
+            },
+            "author": "Alice Kang",
+            "title": "Actor Treat Williams dead after motorcycle crash in Vermont - WPTZ",
+            "description": "The crash happened Monday night on Vermont Route 30 in Dorset.",
+            "url": "https://www.mynbc5.com/article/actor-treat-williams-dead-vermont-everwood-hair-dorset/44180495",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-image-54-64886fec11399.jpg?crop=0.750xw:0.751xh;0.113xw,0&resize=1200:*",
+            "publishedAt": "2023-06-13T18:38:00Z",
+            "content": "DORSET, Vt. \u2014Actor Treat Williams died Monday in a motor vehicle crash in Dorset, Vermont. \r\nThe crash happened just before 5 p.m. Monday on Vermont Route 30 just north of Morse Hill Road.\r\nPolice sa\u2026 [+3110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Winston Cho",
+            "title": "Lisa Marie Presley\u2019s Daughter Riley Keough to be Named Sole Trustee in Settlement With Priscilla Presley - Hollywood Reporter",
+            "description": "Priscilla Presley will be paid an undisclosed sum out of the trust. The deal, if approved, will end wrangling over control of the lucrative estate.",
+            "url": "https://www.hollywoodreporter.com/news/general-news/lisa-marie-presley-daughter-riley-keough-settlement-with-priscilla-presley-1235514430/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/Priscilla-Presley-Lisa-Marie-Presley-and-Riley-Keough-Handprints-GettyImages-1404262891-H-2023.jpg?w=1024",
+            "publishedAt": "2023-06-13T18:28:26Z",
+            "content": "Priscilla Presley is surrendering control of her daughter\u2019s estate to her granddaughter, according to a proposed settlement filed in Los Angeles Superior Court.\r\nRiley Keough moved to approve a deal \u2026 [+3873 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": null,
+            "title": "OpenAI reportedly warned Microsoft about rushing GPT-4 integration into Bing | Engadget - Engadget",
+            "description": "OpenAI warned Microsoft early this year about rushing the integration of GPT-4 into Bing without further training, according to The Wall Street Journal.",
+            "url": "https://www.engadget.com/openai-reportedly-warned-microsoft-about-rushing-gpt-4-integration-into-bing-182044458.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/LydmRMbU9a7e.hUHFZM7vw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/7a9a4110-0a13-11ee-8fc7-ef54793c8a60.cf.jpg",
+            "publishedAt": "2023-06-13T18:22:24Z",
+            "content": "OpenAI warned Microsoft early this year about rushing the integration of GPT-4 into Bing without further training, according to The Wall Street Journal. Although Microsoft forged ahead anyway, the al\u2026 [+3025 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Vision Pro keeping camera access under lock and key compared to iPhone and iPad - 9to5Mac",
+            "description": "When Vision Pro launches next year, it will be able to run iPhone and iPad apps out of the box....",
+            "url": "https://9to5mac.com/2023/06/13/vision-pro-camera-apps/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/vision-pro-dad.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-06-13T17:56:00Z",
+            "content": "When Vision Pro launches next year, it will be able to run iPhone and iPad apps out of the box. Despite being loaded with cameras, Apple explains that Vision Pro wont actually expose these cameras to\u2026 [+2537 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Denversports.com"
+            },
+            "author": ", Will Petersen",
+            "title": "Even after Nuggets title, national media still doing ridiculous things - Denver Sports",
+            "description": "You'd think after the Nuggets won their first NBA championship, the nonsense would stop, but it didn't on Tuesday morning",
+            "url": "https://denversports.com/2105739/even-after-nuggets-title-national-media-still-doing-ridiculous-things/",
+            "urlToImage": "https://denversports.com/wp-content/uploads/2023/06/GettyImages-524806198-e1686677270563.jpg",
+            "publishedAt": "2023-06-13T17:50:52Z",
+            "content": "The Denver Nuggets were disrespected by the national media all year.\r\nWe covered it with Mark Jackson, Chris Mannix,Lisa Salters, Brian Windhorst and plenty of others.\r\nYou\u2019d think after winning thei\u2026 [+1765 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Samantha Schmidt, Serhii Korolchuk",
+            "title": "Ukraine says counteroffensive has liberated seven villages in southeast - The Washington Post",
+            "description": "One battalion\u2019s losses foreshadow the terrible cost that Ukraine\u2019s leaders are prepared to pay to oust Russian invaders and reclaim their lost territory.",
+            "url": "https://www.washingtonpost.com/world/2023/06/13/ukraine-counteroffensive-kryvyi-rih-donetsk/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XCRSGXBVCBGDRZOOP3Q5VYUCDM.JPG&w=1440",
+            "publishedAt": "2023-06-13T17:50:00Z",
+            "content": "Comment on this story\r\nComment\r\nANDRIIVKA, Ukraine The men of Ukraines 37th brigade were freshly trained and armed with Western-supplied weapons, tasked with an initial push through Russian-occupied \u2026 [+8762 chars]"
         },
         {
             "source": {
@@ -190,25 +190,64 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Jamal Murray Reflects on His Road to Becoming an NBA Champion | 2023 NBA Finals - Bleacher Report",
-            "description": "Jamal Murray joined the NBA TV Gametime crew and was emotional talking about his journey from his ACL injury to winning the NBA Finals.Subscribe: https://www...",
-            "url": "https://www.youtube.com/watch?v=jUjrivIwDac",
-            "urlToImage": "https://i.ytimg.com/vi/jUjrivIwDac/maxresdefault.jpg",
-            "publishedAt": "2023-06-13T05:55:50Z",
+            "title": "Hi-Fi Rush: Arcade Challenge - Official Reveal Trailer | Xbox Extended Showcase 2023 - IGN",
+            "description": "Return to the Vandelay Technologies campus in this new update for Hi-Fi Rush including new modes and much much more.#IGN #Xbox #SummerofGaming",
+            "url": "https://www.youtube.com/watch?v=FVGT_u9PPUA",
+            "urlToImage": "https://i.ytimg.com/vi/FVGT_u9PPUA/maxresdefault.jpg",
+            "publishedAt": "2023-06-13T17:45:00Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "PhoneArena"
+                "id": "the-hill",
+                "name": "The Hill"
             },
-            "author": null,
-            "title": "Samsung employees apparently unhappy with Fold 5, say \u201cit can't even be called the Galaxy Z Fold4s\u201d - PhoneArena",
-            "description": "PhoneArena is the premium website for new phone information such as full specifications, in-depth reviews, latest news, carrier available and upcoming phones. It features advanced phone filter, visual size comparison and 360 degree views of all hot phones.",
-            "url": "https://www.phonearena.com/",
-            "urlToImage": "https://s-cdn.phonearena.com/images/logo/phonearena-logo-light-blue-on-dark-blue.png",
-            "publishedAt": "2023-06-13T04:24:52Z",
-            "content": null
+            "author": "Lauren Sforza",
+            "title": "Thousands of dead fish wash ashore on Texas beach; visitors warned away - The Hill",
+            "description": "Thousands of dead fish washed ashore on a beach along the Gulf Coast of Texas starting Friday after warm waters led to low levels of oxygen. Quintana Beach County Park officials advised members of the public to avoid the beach until the fish are removed. Offi\u2026",
+            "url": "https://thehill.com/homenews/state-watch/4047798-thousands-of-dead-fish-wash-ashore-on-texas-beach-visitors-warned-away/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/CA_texasflag_10212022istock-e1676675443855.jpg?w=1280",
+            "publishedAt": "2023-06-13T17:41:00Z",
+            "content": "Skip to content\r\nThousands of dead fish washed ashore on a beach along the Gulf Coast of Texas starting Friday after warm waters led to low levels of oxygen.\r\nQuintana Beach County Park officials adv\u2026 [+2228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Decca Muldowney",
+            "title": "Starbucks Denies Telling Baristas to Remove Pride Flags From Stores - The Daily Beast",
+            "description": "In a statement the company said the claims were \u201cfalse information.\u201d However, union officials say stores in twenty-one states have been told to remove Pride decorations.",
+            "url": "https://www.thedailybeast.com/starbucks-tells-baristas-to-remove-pride-flags-from-stores",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2813,w_5000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1686673289/GettyImages-1241270751_lkk61n",
+            "publishedAt": "2023-06-13T17:36:50Z",
+            "content": "Starbucks has denied instructing workers in at least twenty-one states to remove Pride flags and decorations from stores. The claims were first made in a Twitter thread by the union Starbucks Workers\u2026 [+897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Jimmy Traina",
+            "title": "Five Sports Figures We\u2019d Like to See Replace Pat Sajak As \u2018Wheel of Fortune\u2019 Host - Sports Illustrated",
+            "description": "Pat Sajak announced he\u2019s leaving \u2018Wheel of Fortune\u2019 after 41 years as host.",
+            "url": "https://www.si.com/extra-mustard/2023/06/13/pat-sajak-wheel-of-fortune-sports-figures-host",
+            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk4NjM5NTEyODIwMTMxNTkx/pat-sajak.jpg",
+            "publishedAt": "2023-06-13T17:27:42Z",
+            "content": "1.\u00a0Longtime Wheel of Fortune host Pat Sajak announced Monday that the upcoming season of the show, his 41st at the helm, will be his last.\r\nGiven that Wheel of Fortune is a piece of Americana, the jo\u2026 [+3391 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Gabriel Gavin",
+            "title": "Putin admits Russia doesn\u2019t have enough weapons and drones - POLITICO Europe",
+            "description": "Moscow\u2019s forces have been plagued by shortages, while Kyiv is taking delivery of advanced Western hardware.",
+            "url": "https://www.politico.eu/article/vladimir-putin-ukraine-war-russia-doesnt-have-enough-weapons-and-drones-putin-admits/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/13/GettyImages-1258663206-scaled.jpg",
+            "publishedAt": "2023-06-13T17:25:00Z",
+            "content": "Russian President Vladimir Putin has warned that his armed forces lack the military hardware they need to win the war in Ukraine, while insisting Moscow is ramping up weapons production to fill the g\u2026 [+1573 chars]"
         },
         {
             "source": {
@@ -216,51 +255,12 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "US FTC asks court to block Microsoft acquisition of Activision - Reuters",
-            "description": "The Federal Trade Commission asked a court to temporarily block Microsoft Corp's <a href=\"https://www.reuters.com/companies/MSFT.O/\"target=\"_blank\">(MSFT.O)</a> acquisition of Activision Blizzard <a href=\"https://www.reuters.com/companies/ATVI.O/\"target=\"_bla\u2026",
-            "url": "https://www.reuters.com/markets/deals/us-ftc-seeks-block-microsofts-acquisition-activision-cnbc-2023-06-12/",
-            "urlToImage": "https://www.reuters.com/resizer/FHbTyWUpIEEHjF6Q4Bj3Wr_sfUI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RPHLJPTHABKZ5KSPOCFJD6KN3Q.jpg",
-            "publishedAt": "2023-06-13T04:21:00Z",
-            "content": "June 12 (Reuters) - The Federal Trade Commission asked a court to temporarily block Microsoft Corp's (MSFT.O) acquisition of Activision Blizzard (ATVI.O) on Monday, seeking to halt the deal from clos\u2026 [+2811 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Adam Beam",
-            "title": "California Gov. Newsom spars with Fox News host Hannity over Biden, immigration and the economy - The Associated Press",
-            "description": "SACRAMENTO, Calif. (AP) \u2014 California Gov. Gavin Newsom sparred with Fox News host Sean Hannity on Monday night, insisting President Joe Biden is physically fit for a second term as president while refusing to say whether supporters have urged him to run again\u2026",
-            "url": "https://apnews.com/article/california-gavin-newsom-sean-hannity-fox-news-4b2dcfe3f13cf8ff8295740aaf544afb",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/64a1085ab2f84a309334cb00951a90ab/3000.webp",
-            "publishedAt": "2023-06-13T03:44:25Z",
-            "content": "SACRAMENTO, Calif. (AP) California Gov. Gavin Newsom sparred with Fox News host Sean Hannity on Monday night, insisting President Joe Biden is physically fit for a second term as president while refu\u2026 [+4306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SpaceNews"
-            },
-            "author": "Jeff Foust",
-            "title": "SpaceX launches eighth dedicated smallsat rideshare mission - SpaceNews",
-            "description": "A SpaceX Falcon 9 launched several dozen smallsats on a dedicated rideshare mission June 12, with a wide range of customers.",
-            "url": "https://spacenews.com/spacex-launches-eighth-dedicated-smallsat-rideshare-mission/",
-            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/06/transporter8-launch.jpg",
-            "publishedAt": "2023-06-13T03:43:30Z",
-            "content": "NEW YORK A SpaceX Falcon 9 launched several dozen smallsats on a dedicated rideshare mission June 12, with customers ranging from the U.S. Space Force to startups deploying their first satellites.\r\nT\u2026 [+3913 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Spencer S. Hsu, David Ovalle, Jacqueline Alemany, Josh Dawsey",
-            "title": "Trump scrambles to find lawyer on eve of first federal court appearance - The Washington Post",
-            "description": "Former president Donald Trump will be joined in court Tuesday by lawyer who had previously reduced his role in the case but hunt for permanent counsel goes on.",
-            "url": "https://www.washingtonpost.com/national-security/2023/06/12/trump-documents-lawyer/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6XDUI7WAVFEE7KCI2EYQYVCEIE.jpg&w=1440",
-            "publishedAt": "2023-06-13T03:19:00Z",
-            "content": "Comment on this story\r\nComment\r\nDonald Trump spent the day before his historic appearance in federal court scrambling to find a qualified Florida lawyer willing to join his defense team as he faces t\u2026 [+8803 chars]"
+            "title": "Death toll from Kenyan doomsday cult crosses 300 - Reuters",
+            "description": "The death toll from a Kenyan starvation cult crossed 300 on Tuesday after authorities exhumed more bodies in a forest, in one of the worst cult-related tragedies in recent history.",
+            "url": "https://www.reuters.com/world/africa/death-toll-kenyan-doomsday-cult-crosses-300-2023-06-13/",
+            "urlToImage": "https://www.reuters.com/resizer/pqZpz8ZEYTQcA9YLMlwuciyvdGk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7UA3JJGTQRP5RMSHAKHGU5W5AQ.jpg",
+            "publishedAt": "2023-06-13T17:25:00Z",
+            "content": "NAIROBI, June 13 (Reuters) - The death toll from a Kenyan starvation cult crossed 300 on Tuesday after authorities exhumed more bodies in a forest, in one of the worst cult-related tragedies in recen\u2026 [+1519 chars]"
         }
     ]
 }
