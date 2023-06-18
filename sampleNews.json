@@ -1,214 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": null,
-            "title": "African peace mission visits Ukrainian capital to sounds of air raid - Reuters",
-            "description": "At least two explosions rocked Kyiv on Friday and air raid sirens blared as African leaders began a peace mission, hoping to mediate between Ukraine and Russia.",
-            "url": "https://www.reuters.com/world/south-african-president-arrives-ukraine-peace-mission-2023-06-16/",
-            "urlToImage": "https://www.reuters.com/resizer/TnQryybHk-iBuQhdK7e-Uz6erN0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7JWI3PXAUJNEXH3KVCV6TRQYVA.jpg",
-            "publishedAt": "2023-06-16T10:27:00Z",
-            "content": "KYIV, June 16 (Reuters) - At least two explosions rocked Kyiv on Friday and air raid sirens blared as African leaders began a peace mission, hoping to mediate between Ukraine and Russia.\r\nThe peace d\u2026 [+3169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Tribune India"
-            },
-            "author": "The Tribune India",
-            "title": "15 die in Canada highway crash as truck hits bus - The Tribune India",
-            "description": null,
-            "url": "https://www.tribuneindia.com/news/world/15-dead-in-canada-highway-crash-after-truck-hits-bus-in-manitoba-517600",
-            "urlToImage": null,
-            "publishedAt": "2023-06-16T09:25:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Hannah Ward-Glenton",
-            "title": "European markets higher as traders digest ECB rate hike - CNBC",
-            "description": "European stock markets were higher on Friday as traders digest the ECB's decision to raise interest rates.",
-            "url": "https://www.cnbc.com/2023/06/16/european-markets-open-to-close-earnings-data-and-news.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107258026-1686893404637-gettyimages-1258709924-20090101230615-99-67588.jpeg?v=1686893776&w=1920&h=1080",
-            "publishedAt": "2023-06-16T08:38:00Z",
-            "content": "More countries are reducing their reliance on China, and India could be the next best bet for nations looking to move their manufacturing operations, said Matthew Culley, portfolio manager at Janus H\u2026 [+758 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "\"She's Challenging To Work For, I Think She Was Fired!\" Kinsey Schofield On Meghan Markle Podcast - TalkTV",
-            "description": "Meghan Markle's Spotify podcast 'Archetypes' has been cancelled after only one season.Royal commentator Kinsey Schofield joins Jeremy Kyle in the studio to d...",
-            "url": "https://www.youtube.com/watch?v=yYUvf06EorE",
-            "urlToImage": "https://i.ytimg.com/vi/yYUvf06EorE/maxresdefault.jpg",
-            "publishedAt": "2023-06-16T08:30:51Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nadine Schmidt,Niamh Kennedy",
-            "title": "An American tourist has died following an attack near Germany\u2019s Neuschwanstein Castle - CNN",
-            "description": "A 21-year-old American woman died after being assaulted and pushed down a slope by an American man near one of Germany\u2019s most popular tourist sights, Neuschwanstein Castle, in Bavaria, according to local police.",
-            "url": "https://www.cnn.com/2023/06/15/europe/american-dead-attack-germany-neuschwanstein-castle/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230615135046-neuschwanstein-castle-germany-0615-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-16T06:20:00Z",
-            "content": "A 21-year-old American woman died after being assaulted and pushed down a slope by an American man near one of Germanys most popular tourist sights, Neuschwanstein Castle, in Bavaria, according to lo\u2026 [+1930 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "2023 U.S. Open takeaways: Rory McIlroy begins latest thrill ride, Los Angeles Country Club playing just right - CBS Sports",
-            "description": "This may not be a typicall low-scoring U.S. Open, but here's why that's A-OK",
-            "url": "https://www.cbssports.com/golf/news/2023-u-s-open-takeaways-rory-mcilroy-begins-latest-thrill-ride-los-angeles-country-club-playing-just-right/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/16/a90509f1-cf93-4ef8-91d4-a91d5b094df2/thumbnail/1200x675/bdc714aac62fa69a8d0413727565c150/rory-mcilroy-us-open-2023-r1-g.png",
-            "publishedAt": "2023-06-16T05:52:00Z",
-            "content": "LOS ANGELES -- The story of this U.S. Open coming into the week was how well Los Angeles Country Club, which has never hosted a tournament of this stature, was going to perform. The story after Round\u2026 [+9121 chars]"
+            "author": "Robert Legare, Melissa Quinn",
+            "title": "DOJ report finds Minneapolis police use \"dangerous\" excessive force and discriminatory conduct - CBS News",
+            "description": "The Justice Department conducted a civil investigation into the Minneapolis Police Department's policing practices after Derek Chauvin's conviction in George Floyd's killing.",
+            "url": "https://www.cbsnews.com/news/garland-concludes-civil-investigation-into-minneapolis-pd/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/06/16/f8e9c3e2-428d-4459-add2-8d258c7de6da/thumbnail/1200x630/567494f5887d12e7c4d8693d2004a52a/gettyimages-1498472771.jpg?v=23da2bed74e9783333cf303fba619e89",
+            "publishedAt": "2023-06-16T23:56:00Z",
+            "content": "Washington \u2014 The Minneapolis Police Department disproportionately targets Black and Native American people in law enforcement activity and is using unjustified force in many instances across the city\u2026 [+7948 chars]"
         },
         {
             "source": {
                 "id": "espn",
                 "name": "ESPN"
             },
-            "author": "Cesar Hernandez",
-            "title": "Referee ends USMNT rout over Mexico early amid anti-gay chants - ESPN",
-            "description": "The United States men's national team's 3-0 win over Mexico in the Concacaf Nations League semifinal Thursday was halted before the completion of second-half stoppage time due to the referee's discretion.",
-            "url": "https://www.espn.com/soccer/story/_/id/37861934/usmnt-rout-mexico-ends-early-referee-discretion",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0616%2Fr1187140_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-06-16T05:46:00Z",
-            "content": "The\u00a0United States\u00a0men's national team's 3-0 win over Mexico\u00a0in the Concacaf Nations League semifinal on Thursday was halted before the completion of second-half stoppage time by the referee amid anti\u2026 [+2802 chars]"
+            "author": "Mark Schlabach",
+            "title": "U.S. Open 2023 - Best moments from the second round - ESPN - ESPN",
+            "description": "The 123rd U.S. Open continues this week at Los Angeles Country Club. Here's a live look at what's happening in the second round.",
+            "url": "https://www.espn.com/golf/story/_/id/37861075/us-open-2023-live-best-moments-second-round",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0616%2Fr1187465_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-06-16T23:03:00Z",
+            "content": "LOS ANGELES -- After a record-setting scoring day in the first round of the 123rd U.S. Open at Los Angeles Country Club, the world's best golfers are back on the North Course on Friday.\r\nWith a marin\u2026 [+360 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "MLB.com"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Jalyn Smoot",
-            "title": "Shohei Ohtani ties home run lead, earns win vs. Rangers - MLB.com",
-            "description": "ARLINGTON -- Shohei Ohtani could do no wrong on Thursday night, as the MVP frontrunner silenced the Rangers' lineup on the mound and fueled the Halos' offense at the plate with an opposite-field two-run home run in a 5-3 Angels victory at Globe Life Field.\nWi\u2026",
-            "url": "https://www.mlb.com/news/shohei-ohtani-ties-home-run-lead-earns-win-vs-rangers",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1686883178/mlb/hed3ymu7z4xixaumchrg.jpg",
-            "publishedAt": "2023-06-16T05:35:11Z",
-            "content": "ARLINGTON -- Shohei Ohtani could do no wrong on Thursday night, as the MVP frontrunner silenced the Rangers' lineup on the mound and fueled the Halos' offense at the plate with an opposite-field two-\u2026 [+3852 chars]"
+            "author": "Harrison Smith, Patricia Sullivan",
+            "title": "Daniel Ellsberg, who leaked the Pentagon Papers, dies at 92 - The Washington Post",
+            "description": "Disillusioned by the Vietnam War, Daniel Ellsberg leaked a top-secret history of the conflict, the Pentagon Papers. It led to a landmark Supreme Court case.",
+            "url": "https://www.washingtonpost.com/obituaries/2023/06/16/daniel-ellsberg-pentagon-papers-dead/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W7ZBMOUV3AI6BDKJIYR3L5WSV4&w=1440",
+            "publishedAt": "2023-06-16T21:10:00Z",
+            "content": "Daniel Ellsberg, who leaked the voluminous, top-secret history of the Vietnam War known as the Pentagon Papers, a disclosure that led to a landmark Supreme Court ruling on press freedoms and enraged \u2026 [+16241 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": null,
-            "title": "Reddit CEO seeks to end site protest by allowing users to vote out moderators - NBC News",
-            "description": "Reddit CEO Steve Huffman said he wants to end user-led protest by instituting a rule that would allow users to vote out moderators who have overseen the prot...",
-            "url": "https://www.youtube.com/watch?v=0csUacUpDrc",
-            "urlToImage": "https://i.ytimg.com/vi/0csUacUpDrc/maxresdefault.jpg",
-            "publishedAt": "2023-06-16T04:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Nishant Kumar, Shelley Robinson",
-            "title": "Crispin Odey's One-Week Downfall Was Decades in the Making - Bloomberg",
-            "description": "Allegations of sexual abuse and harassment against its founder have\u00a0triggered a spectacular break up of Odey Asset Management.",
-            "url": "https://www.bloomberg.com/news/articles/2023-06-16/crispin-odey-s-one-week-downfall-was-decades-in-the-making",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiJVh5S3fO_A/v0/1200x660.jpg",
-            "publishedAt": "2023-06-16T04:01:00Z",
-            "content": "\u201cI have the ability to remain in an uncomfortable place for an uncomfortable amount of time,\u201d Crispin Odey\u00a0told Bloomberg last year. It was a reference to his investing style and stunning comeback fr\u2026 [+480 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "NASA Power Play: Astronauts Finish Installing Roll-Out Solar Array in Record-Tying Spacewalk - SciTechDaily",
-            "description": "NASA astronauts, Woody Hoburg and Steve Bowen, successfully installed a new solar array on the International Space Station during a 5-hour spacewalk, boosting power production. This marked Bowen's tenth spacewalk, tying the record for most U.S. spacewalks. Ex\u2026",
-            "url": "https://scitechdaily.com/nasa-power-play-astronauts-finish-installing-roll-out-solar-array-in-record-tying-spacewalk/",
-            "urlToImage": "https://scitechdaily.com/images/Spacewalker-Woody-Hoburg-Rides-the-Canadarm2-Robotic-Arm-scaled.jpg",
-            "publishedAt": "2023-06-16T03:58:41Z",
-            "content": "ByNASAJune 15, 2023\r\nA view of the new roll-out solar array unfolding after NASA astronauts Steve Bowen and Woody Hoburg successfully installed it to the 1B power channel on June 15, 2023. Credit: NA\u2026 [+4419 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Indian Express"
-            },
-            "author": "The Indian Express",
-            "title": "Adipurush movie release and review Live Updates: Fans say Prabhas film is a must-watch but VFX \u2018still half-baked\u2019 - The Indian Express",
-            "description": null,
-            "url": "https://indianexpress.com/article/entertainment/bollywood/adipurush-movie-release-review-live-updates-prabhas-saif-ali-khan-box-office-collection-8664451/",
-            "urlToImage": null,
-            "publishedAt": "2023-06-16T03:57:19Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Jack Teixeira, airman arrested in Pentagon leak, indicted on mishandling classified intelligence - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/06/15/jack-teixeira-pentagon-leak-indicted-mishandling-classified-intelligence",
-            "urlToImage": null,
-            "publishedAt": "2023-06-16T03:53:22Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Abe Asher",
-            "title": "Trump declared 'food for all' at Miami cafe \u2013 but skipped the bill - The Independent",
-            "description": "The former president visited the restaurant after being arraigned on federal charges",
-            "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-food-for-everyone-miami-versailles-b2358666.html",
-            "urlToImage": "https://static.independent.co.uk/2023/06/14/02/Trump_Classified_Documents_25524.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-06-16T03:48:02Z",
-            "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nWhen former President Donald Trump visited the iconic Ve\u2026 [+2349 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Jacob Stolworthy",
-            "title": "Glenda Jackson gave her two Oscars to her mother, who found another use for them - The Independent",
-            "description": "Two-time Academy Award winner didn\u2019t attend either ceremony, where she was nominated for Best Actress",
-            "url": "https://www.independent.co.uk/arts-entertainment/films/news/glenda-jackson-died-oscars-mother-b2358659.html",
-            "urlToImage": "https://static.independent.co.uk/2023/06/15/13/newFile-2.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-06-16T03:30:57Z",
-            "content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nGlenda Jackson is one of just a relatively small number \u2026 [+1696 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "US military chief says Ukraine offensive a \u2018very difficult fight\u2019 - Al Jazeera English",
-            "description": "US General Mark Milley says Ukraine making \u2018steady progress\u2019 in counteroffensive that is \u2018very violent\u2019 and costly.",
-            "url": "https://www.aljazeera.com/news/2023/6/16/us-military-chief-says-ukraine-offensive-a-very-difficult-fight",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-14T143108Z_1224410523_RC2BI1AB3ATQ_RTRMADP_3_UKRAINE-CRISIS-OFFENSIVE-1-1686884129.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-06-16T03:24:05Z",
-            "content": "Senior US military officials said Ukraine faces a tough fight in the ongoing counteroffensive against Russian forces and the campaign to take back territory will likely come at a high cost.\r\nThe US a\u2026 [+4613 chars]"
+            "author": "Steven Goff",
+            "title": "USMNT Coach Gregg Berhalter returns to program after Reyna feud - The Washington Post",
+            "description": "Berhalter, 49, agreed to a contract through the 2026 World Cup.",
+            "url": "https://www.washingtonpost.com/sports/2023/06/16/gregg-berhalter-usmnt-coach-return-gio-reyna/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IKJLNQM3R7JHS4DXUEKT233Y2Y_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-06-16T21:09:00Z",
+            "content": "Comment on this story\r\nComment\r\nLAS VEGAS The U.S. Soccer Federations search for a mens national team coach ended where it began Friday with the reappointment of Gregg Berhalter.\r\nThe decision came a\u2026 [+6299 chars]"
         },
         {
             "source": {
@@ -216,51 +60,207 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Suarez backs 15-week federal abortion ban, says he has 'credibility' on immigration - CBS Miami",
-            "description": "Miami Mayor Francis Suarez, the newest candidate in the Republican presidential field, drew some distinctions between himself and his rivals Thursday",
-            "url": "https://www.youtube.com/watch?v=4AMyTAURReA",
-            "urlToImage": "https://i.ytimg.com/vi/4AMyTAURReA/maxresdefault.jpg",
-            "publishedAt": "2023-06-16T03:13:05Z",
+            "title": "Deadly bear attack Arizona: man mauled to death in 'unprovoked attack' | LiveNOW from FOX - LiveNOW from FOX",
+            "description": "A man is dead after being mauled by a large, adult, male black bear in a community south of Prescott, Arizona. Officials said the 66-year-old man who was kil...",
+            "url": "https://www.youtube.com/watch?v=z7z9EVwsDWU",
+            "urlToImage": "https://i.ytimg.com/vi/z7z9EVwsDWU/maxresdefault.jpg",
+            "publishedAt": "2023-06-16T20:30:09Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Simrin Singh",
-            "title": "Conor McGregor accused of \"violently sexually assaulting\" a woman in a bathroom at NBA Finals game - CBS News",
-            "description": "A letter from the victim's attorney describes a graphic incident of sexual assault in which the victim was allegedly trapped in a bathroom with the UFC fighter.",
-            "url": "https://www.cbsnews.com/news/conor-mcgregor-sexual-assault-allegation/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/06/16/6bfbe9ce-9bb1-41f7-82db-b98e3e048173/thumbnail/1200x630/96e7fbaa407066ca989b67312ac6da7b/gettyimages-1497303962.jpg?v=23da2bed74e9783333cf303fba619e89",
-            "publishedAt": "2023-06-16T03:12:07Z",
-            "content": "Woman accuses Conor McGregor of raping her at NBA Finals \r\nWoman accuses Conor McGregor of raping her at NBA Finals00:33\r\nUFC fighter Conor McGregor has been accused of \"violently sexually assaulting\u2026 [+2137 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Rhea Mogul,Sophia Saifi,Manveena Suri",
-            "title": "Cyclone Biparjoy makes landfall, bringing heavy rainfall to India and Pakistan - CNN",
-            "description": "Tropical Cyclone Biparjoy has made landfall in India\u2019s western Gujarat state, close to the Pakistan border, unleashing powerful gusts of wind that ripped up trees and toppled electricity poles.",
-            "url": "https://www.cnn.com/2023/06/15/asia/india-pakistan-cyclone-biparjoy-landfall-updates-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230613235112-03-india-and-pakistan-brace-for-cyclone-biparjoy-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-16T02:38:00Z",
-            "content": "Islamabad and New DelhiCNN\r\n \u00a0\u2014\u00a0\r\nTropical Cyclone Biparjoy has made landfall in Indias western Gujarat state, close to the Pakistan border, unleashing powerful gusts of wind that ripped up trees and\u2026 [+2978 chars]"
+            "author": "Priscilla Alvarez,Sam Fossum,Donald Judd",
+            "title": "Biden says the gun safety movement has reached a \u2018tipping point\u2019 as he marks one year since passage of major legislation - CNN",
+            "description": "President Joe Biden on Friday marked one year since the passage of the first major gun safety legislation in a generation during a summit in Connecticut, as gun violence reaches record levels in the United States and additional congressional action remains st\u2026",
+            "url": "https://www.cnn.com/2023/06/16/politics/joe-biden-guns-connecticut/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230615133519-02-joe-biden-230614.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-16T20:25:00Z",
+            "content": "President Joe Biden on Friday marked one year since the passage of the first major gun safety legislation in a generation during a summit in Connecticut, as gun violence reaches record levels in the \u2026 [+8220 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Paul Davidson",
+            "title": "Will the Fed cut rates? An interest rate decision forecast for 2023 - USA TODAY",
+            "description": "When will the Fed start lowering interest rates? Its recent forecast for two more rate hikes this year has pushed out estimates for rate cuts.",
+            "url": "https://www.usatoday.com/story/money/2023/06/16/when-will-the-fed-cut-interest-rates-2023/70330336007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/03/19/USAT/17d73330-fb2f-44cb-8f60-4af6ac3c9eec-AP_Bank_Collapse_Federal_Reserve.jpg?crop=1023,576,x0,y52&width=1023&height=576&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-16T20:19:27Z",
+            "content": "The Federal Reserve paused its aggressive rate hiking campaign Wednesday for the first time in 18 months but signaled emphatically that its battle against inflation isnt over.\r\nThe central bank forec\u2026 [+3426 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "XDA Developers"
+                "name": "Deadline"
             },
-            "author": "Timi Cantisano",
-            "title": "Samsung Galaxy Z Fold 5 alleged press render surfaces, shedding light on phone's new look - XDA Developers",
-            "description": "The Galaxy Z Fold 5 looks good, but more importantly, it looks like Samsung is finally going to use a new hinge mechanism.",
-            "url": "https://www.xda-developers.com/samsung-galaxy-z-fold-5-leaked-press-render/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/06/xda-3-1.png",
-            "publishedAt": "2023-06-16T01:30:00Z",
-            "content": "A couple of months back, we got unofficial renders for the Galaxy Z Fold 5, but now it looks like we're getting an official press render that has leaked, potentially giving us our first real look at \u2026 [+2421 chars]"
+            "author": "Dade Hayes",
+            "title": "Prince Harry & Meghan Markle Called \u201cF\u2013king Grifters\u201d By Spotify Exec And Podcaster Bill Simmons After Their Split With Company - Deadline",
+            "description": "Bill Simmons, who sold The Ringer to Spotify in 2020 and has risen through the tech company\u2019s executive ranks, derided Prince Harry and Meghan Markle on his podcast Friday as \u201cf\u2013k\u2026",
+            "url": "https://deadline.com/2023/06/prince-harry-meghan-markle-called-grifters-by-spotify-exec-bill-simmons-the-ringer-1235419171/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/Bill-Simmons.jpg?w=1024",
+            "publishedAt": "2023-06-16T19:58:00Z",
+            "content": "Bill Simmons, who sold The Ringer to Spotify in 2020 and has risen through the tech company\u2019s executive ranks, derided Prince Harry and Meghan Markle on his podcast Friday as \u201cf\u2013king grifters.\u201d\r\nThe \u2026 [+2115 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dan Heching",
+            "title": "Pete Davidson charged with reckless driving after Beverly Hills car crash - CNN",
+            "description": "Actor and comedian Pete Davidson has been charged with reckless driving in connection to a car crash in Beverly Hills earlier this year, CNN has learned.",
+            "url": "https://www.cnn.com/2023/06/16/entertainment/pete-davidson-reckless-driving/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230616153915-pete-davidson-0427.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-16T19:58:00Z",
+            "content": "Actor and comedian Pete Davidson has been charged with reckless driving in connection to a car crash in Beverly Hills earlier this year, CNN has learned.\r\nGreg Risling, assistant chief of media relat\u2026 [+964 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi,Dave Alsup,Melissa Alonso,Mallika Kallingal",
+            "title": "50 million under severe storm threat today as one Texas town digs out after a deadly tornado - CNN",
+            "description": "More than 50 million people across a large swath of the United States are under a severe weather threat Friday, one day after storms cut a deadly path across Texas and Florida.",
+            "url": "https://www.cnn.com/2023/06/16/weather/perryton-texas-tornado-friday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230616042228-07-prerytotn-texas-tornado-0615.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-16T19:29:00Z",
+            "content": "More than 50 million people across a large swath of the United States are under a severe weather threat Friday, one day after storms cut a deadly path across Texas and Florida. \r\nThree people, includ\u2026 [+7546 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sean Lyngaas",
+            "title": "Millions of Americans\u2019 personal data exposed in global hack - CNN",
+            "description": "Millions of people in Louisiana and Oregon have had their data  compromised in the sprawling cyberattack  that has also hit the US federal government, state agencies said late Thursday.",
+            "url": "https://www.cnn.com/2023/06/16/politics/cyberattack-us-government/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230616094327-drivers-license-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-16T19:28:00Z",
+            "content": "Millions of people in Louisiana and Oregon have had their data compromised in the sprawling cyberattack that has also hit the US federal government, state agencies said late Thursday.\r\nThe breach has\u2026 [+5370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Universe Today"
+            },
+            "author": "Evan Gough",
+            "title": "Earth Might Have Formed in Just a Few Million Years - Universe Today",
+            "description": "There's a growing body of evidence showing that Earth formed more quickly than thought. And it didn't wait for asteroids to bring its water.",
+            "url": "https://www.universetoday.com/161953/earth-might-have-formed-in-just-a-few-million-years/",
+            "urlToImage": "https://www.universetoday.com/wp-content/uploads/2010/10/srvrbig.jpeg",
+            "publishedAt": "2023-06-16T19:11:15Z",
+            "content": "Earth formed about 4.6 billion years ago. That simplistic statement is common, and it\u2019s a good starting point for understanding our planet and our Solar System. But, obviously, Earth didn\u2019t form all \u2026 [+10524 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Des Moines Register"
+            },
+            "author": "William Morris, Katie Akin, Stephen Gruber-Miller",
+            "title": "Iowa Supreme Court deadlocks 3-3 on 'fetal heartbeat' abortion ban. It won't go into effect. - Des Moines Register",
+            "description": "The Iowa Supreme Court's ruling means abortion remains legal in Iowa up to 20 weeks of pregnancy. The basis for ruling on future cases wasn't decided.",
+            "url": "https://www.desmoinesregister.com/story/news/crime-and-courts/2023/06/16/timeline-on-iowa-supreme-court-abortion-law-ruling-pregnancy-kim-reynolds/70325858007/",
+            "urlToImage": "https://www.desmoinesregister.com/gcdn/presto/2020/07/02/PDEM/a0e72d1e-2e86-4020-b8f2-59e075ea4f0b-mifepristone.jpg?crop=539,304,x0,y40&width=539&height=304&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-16T19:00:42Z",
+            "content": "Iowa's long-blocked six-week abortion ban will remain permanently unenforceable after the state Supreme Court deadlocked on whether it should be revived.\r\nGov. Kim Reynolds had asked the court to rei\u2026 [+11829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Maria Diaz",
+            "title": "Even Google is warning its employees about AI chatbot use - ZDNet",
+            "description": "Think before you chat with ChatGPT, Google Bard, Bing Chat, or any other AI chatbot.",
+            "url": "https://www.zdnet.com/article/even-google-is-warning-its-employees-about-ai-chatbot-use/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/47f8a653d4451eeaa8efcdfd9c0d0a206f283542/2023/06/16/4def22c7-a14a-4e65-9b27-9b7f73fcac49/shh.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-06-16T18:57:51Z",
+            "content": "iLexx via iStock/Getty Images Plus\r\nGoogle's parent company, Alphabet, has been all in on artificial intelligence for years, from buying (and then selling) Boston Dynamics to making scientific achiev\u2026 [+2023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "Gabe Fernandez",
+            "title": "'F\u2014king pathetic': Former Oakland A's pitcher blasts MLB commissioner - SFGATE",
+            "description": "Former Oakland A's pitcher Brandon McCarthy called MLB Commissioner Rob Manfred 'f\u2014king pathetic' on Twitter after Manfred's comments about the A's.",
+            "url": "https://www.sfgate.com/athletics/article/oakland-as-brandon-mccarthy-blasts-rob-manfred-mlb-18156679.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/33/26/17/23946224/3/rawImage.jpg",
+            "publishedAt": "2023-06-16T18:57:39Z",
+            "content": "MLB\u00a0Commissioner Rob Manfreds callous comments about Tuesdays reverse boycott organized by\u00a0Oakland As fans provoked furious anger on social media from longtime supporters of the team, including forme\u2026 [+2536 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Betsy McKay",
+            "title": "Testosterone Therapy and Your Heart: New Research Finds No Increased Risk - The Wall Street Journal",
+            "description": "New study finds therapy doesn\u2019t raise heart attack, stroke risks when administered properly",
+            "url": "https://www.wsj.com/articles/testosterone-therapy-can-be-safe-but-there-are-heart-risks-a544b8b5",
+            "urlToImage": "https://images.wsj.net/im-801884/social",
+            "publishedAt": "2023-06-16T18:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Adam Barnes",
+            "title": "Most homeowners already have mortgage rates below 6 percent, prompting them to stay put - The Hill",
+            "description": "Most homeowners\u00a0across the county have a mortgage rate well below the current average for a 30-year fixed rate mortgage, according to a new report. \u00a0 Close to 90 percent of owners have a mortgage rate below 6 percent, the report from real estate brokerage Red\u2026",
+            "url": "https://thehill.com/business/4053795-most-homeowners-already-have-mortgage-rates-below-6-prompting-them-to-stay-put/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/06/648b14b2983fd0.67613169.jpeg?w=1280",
+            "publishedAt": "2023-06-16T17:38:00Z",
+            "content": "Skip to content\r\nMost homeowners\u00a0across the county have a mortgage rate well below the current average for a 30-year fixed rate mortgage, according to a new report. \u00a0\r\nClose to 90 percent of owners h\u2026 [+2338 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Max Seddon",
+            "title": "Russia has sent nuclear warheads to Belarus, says Putin - Financial Times",
+            "description": "Russia has not deployed nuclear weapons outside its borders since the collapse of the Soviet Union",
+            "url": "https://www.ft.com/content/2353be6d-7573-4b24-bf76-e77f4039f957",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F83b52a9c-7747-4fcc-be5f-461b63181571.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-06-16T17:22:55Z",
+            "content": "Vladimir Putin on Friday said Russia has delivered tactical nuclear warheads to neighbouring Belarus and warned his country could use similar weapons in Ukraine, though he said there was no need to d\u2026 [+4145 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "John Psaropoulos",
+            "title": "Search for loved ones, truth in Greece after migrant boat tragedy - Al Jazeera English",
+            "description": "Hundreds of people are missing after a refugee-filled vessel capsizes off Greece\u2019s west coast, killing dozens.",
+            "url": "https://www.aljazeera.com/features/2023/6/16/search-for-loved-ones-truth-in-greece-after-migrant-boat-tragedy",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-16T094558Z_1560135945_RC26K1AA0PJZ_RTRMADP_3_EUROPE-MIGRANTS-GREECE-SHIPWRECK-1686934050.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-06-16T17:22:08Z",
+            "content": "Kalamata,\u00a0Greece A day after a refugee-filled vessel capsized off Greeces west coast, the first relatives of those on board began to trickle into the southern Greek town of Kalamata to find their lov\u2026 [+6634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Study Finds"
+            },
+            "author": "Study Finds",
+            "title": "More than 1 in 3 Americans are now living with fatty liver disease - Study Finds",
+            "description": "The condition primarily results from excessive consumption of unhealthy meals -- such as fast food and sugary drinks.",
+            "url": "https://studyfinds.org/americans-fatty-liver-disease/",
+            "urlToImage": "https://studyfinds.org/wp-content/uploads/2022/08/AdobeStock_141425507-scaled.jpeg",
+            "publishedAt": "2023-06-16T17:01:39Z",
+            "content": "CHICAGO \u2014\u00a0More than one in three U.S. adults are now living with a severe liver disorder that can lead to fatal complications, new recent reveals. This so-called \u201csilent killer\u201d often goes undiagnose\u2026 [+3667 chars]"
         }
     ]
 }
