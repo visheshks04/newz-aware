@@ -1,162 +1,201 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 35,
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "The Times of Israel"
-            },
-            "author": null,
-            "title": "4 Palestinians dead, 7 IDF troops hurt in Jenin battle; Apache carries out airstrikes - The Times of Israel",
-            "description": "Israeli military vehicle hit by roadside bomb, gunfire; helicopter gunship fires missiles at gunmen to allow evacuation of wounded troops; 62 Palestinians said hurt",
-            "url": "https://www.timesofisrael.com/palestinian-killed-as-heavy-clashes-erupt-during-idf-raid-in-jenin/",
-            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/06/Jenin5-1024x640.jpg",
-            "publishedAt": "2023-06-19T09:11:15Z",
-            "content": "Four Palestinians were killed as heavy clashes broke out between gunmen and Israeli troops in the city of Jenin on Monday morning. An Israeli helicopter gunship carried out rare strikes, the first in\u2026 [+4438 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "Huntington's and Alzheimer's spread like fire in the brain. What sparks them? : Shots - Health News - NPR",
-            "description": "Diseases like Alzheimer's and Parkinson's spread through the brain like a forest fire. A new study suggests how the fire starts.",
-            "url": "https://www.npr.org/sections/health-shots/2023/06/19/1182881226/huntingtons-spreads-like-fire-in-the-brain-alzheimers-parkinsons",
-            "urlToImage": "https://media.npr.org/assets/img/2023/06/16/polyq_image1_wide-476eeb999527e4c55dad04adcf761cbbc83d1ec4-s1400-c100.png",
-            "publishedAt": "2023-06-19T09:01:38Z",
-            "content": "In Huntington's disease, proteins form toxic clumps that kill brain cells.\r\nStowers Institute for Medical Research\r\nDiseases like Alzheimer's, Parkinson's, and Huntington's are caused by toxic clumps\u2026 [+4156 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Exclusive: Japan regulator sounded out top domestic banks about China risks, sources say - Reuters.com",
-            "description": "Japan's financial regulator has sounded out top domestic banks about China risks and whether they have plans in place if Sino-Western tensions escalate, according to multiple sources with direct knowledge of the matter.",
-            "url": "https://www.reuters.com/business/finance/japan-regulator-sounded-out-top-domestic-banks-about-china-risks-sources-say-2023-06-19/",
-            "urlToImage": "https://www.reuters.com/resizer/CUqFgyyWaMMQRQbKMrbBBhAAVcY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/22PHZZRGUBNDZEXBHHUVGFYRNY.jpg",
-            "publishedAt": "2023-06-19T08:22:00Z",
-            "content": "TOKYO, June 19 (Reuters) - Japan's financial regulator has sounded out top domestic banks about China risks and whether they have plans in place if Sino-Western tensions escalate, according to multip\u2026 [+4173 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "NPR",
-            "title": "Multiple mass shootings across the U.S. leave at least 6 dead on holiday weekend - NPR",
-            "description": "The shootings stretching from coast to coast follow a surge in homicides and other violence over the past several years that experts say accelerated during the coronavirus pandemic.",
-            "url": "https://www.npr.org/2023/06/19/1183041211/deadly-mass-shootings-across-the-u-s",
-            "urlToImage": "https://media.npr.org/assets/img/2023/06/19/ap23169503566624_wide-a101076cadff766edd07b3cfa565c7fe81f19126-s1400-c100.jpg",
-            "publishedAt": "2023-06-19T08:03:06Z",
-            "content": "A police officer works the scene of an overnight mass shooting at a strip mall in Willowbrook, Ill., Sunday, June 18, 2023.\r\nMatt Marton/AP\r\nA spate of weekend mass shootings and violence across the \u2026 [+6347 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "China seen cutting key lending benchmarks as economy slows - Reuters",
-            "description": "China is widely expected to cut key lending benchmarks on Tuesday in the first such easing in 10 months, a Reuters survey showed, as authorities seek to shore up a slowing recovery in the world's second-largest economy.",
-            "url": "https://www.reuters.com/world/china/china-seen-cutting-key-lending-benchmarks-economy-slows-2023-06-19/",
-            "urlToImage": "https://www.reuters.com/resizer/Xb-eR4wdZwx7pw85USmsC1Hi8wM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JVRW2WSG6ZKIHCDXZ42CCSQOCY.jpg",
-            "publishedAt": "2023-06-19T07:19:00Z",
-            "content": "SHANGHAI/SINGAPORE, June 19 (Reuters) - China is widely expected to cut key lending benchmarks on Tuesday in the first such easing in 10 months, a Reuters survey showed, as authorities seek to shore \u2026 [+2890 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "San Francisco Chronicle"
-            },
-            "author": "San Francisco Chronicle",
-            "title": "4 bystanders among 6 wounded as moving gunfight rips Fisherman's Wharf - San Francisco Chronicle",
-            "description": null,
-            "url": "https://www.sfchronicle.com/bayarea/article/pier-39-shooting-san-francisco-18159021.php",
-            "urlToImage": null,
-            "publishedAt": "2023-06-19T07:07:30Z",
-            "content": null
-        },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Silvia Amaro",
-            "title": "Rate cuts, hikes and pauses: The world's central banks just made very different decisions - CNBC",
-            "description": "Major central banks are taking very different approaches to monetary policy, as the global economy \"is no longer synchronized,\" an expert said.",
-            "url": "https://www.cnbc.com/2023/06/19/fed-ecb-boj-pboc-central-banks-monetary-policy-decision-are-diverging.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107258817-1687154306568-gettyimages-883202480-14339170.jpeg?v=1687156788&w=1920&h=1080",
-            "publishedAt": "2023-06-19T06:39:48Z",
-            "content": "From hawkish pauses to rate hikes and dovish tones, the world's biggest central banks last week struck very different tones on monetary policy.\r\nThe European Central Bank on Thursday hiked rates and \u2026 [+3428 chars]"
+            "author": "Clement Tan",
+            "title": "China cuts two more key lending rates as economy sputters - CNBC",
+            "description": "The People's Bank of China cut two lending rates on Tuesday for the first time in 10 months, as the world's second largest economy shows signs of stalling.",
+            "url": "https://www.cnbc.com/2023/06/20/china-cuts-two-more-key-lending-rates-as-economy-sputters.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107258047-1686900402044-gettyimages-1234867071-peoples_bank_of_china.jpeg?v=1687223878&w=1920&h=1080",
+            "publishedAt": "2023-06-20T01:17:00Z",
+            "content": "The People's Bank of China cut two more key lending rates on Tuesday for the first time in 10 months to prop up growth in the world's second largest economy.\r\nThe Chinese central bank cut the one-yea\u2026 [+2511 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Russia-Ukraine war: List of key events, day 482 - Al Jazeera English",
+            "description": "As the war enters its 482nd day, these are the main developments.",
+            "url": "https://www.aljazeera.com/news/2023/6/20/russia-ukraine-war-list-of-key-events-day-482",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-19T161059Z_1376058812_RC29M1AMT9LS_RTRMADP_3_UKRAINE-CRISIS-EAST-ARTILLERY-1687221218.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-06-20T01:09:30Z",
+            "content": "This is the situation as it stands on Tuesday, June 20, 2023.\r\nFighting\r\n<ul><li>Ukrainian Deputy Defence Minister Hanna Maliar said the countrys armed forces had liberated eight settlements in the p\u2026 [+3736 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "Nbcsportsbayarea.com"
             },
-            "author": "David Propper",
-            "title": "Fishing crew denied $3.5M in prize money after 600-pound marlin DQ\u2019d in tournament - New York Post ",
-            "description": "\u201cIt\u2019s the final hour, the final day and we fought with him for six hours,\u201d McCoy told the Washington Post. \u201cIt\u2019s a tough pill to swallow.\u201d",
-            "url": "https://nypost.com/2023/06/19/massive-marlin-dqd-in-big-rock-blue-marlin-tournament-over-mutilation/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/newspress-collage-jilqvvzk5-1687155758176.jpg?quality=75&strip=all&1687141404&w=1024",
-            "publishedAt": "2023-06-19T06:33:00Z",
-            "content": "A shark took a bite out of one crews dream of winning a high-stakes fishing competition when the massive marlin they reeled in was disqualified by tournament officials for being mutilated. \r\nThe Big \u2026 [+2124 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kstp.com"
-            },
-            "author": "Kyle Brown",
-            "title": "Minneapolis prepares to spend millions to carry out federal consent decree - KSTP",
-            "description": "If other major cities' consent decrees with the U.S. Department of Justice are any indication, Minneapolis will be spending millions each year to reform its police force.",
-            "url": "https://kstp.com/kstp-news/top-news/minneapolis-prepares-to-spend-millions-to-carry-out-federal-consent-decree/",
-            "urlToImage": "https://kstp.com/wp-content/uploads/2023/04/minneapolis-homicide-park-avenue-04-03-23.jpg",
-            "publishedAt": "2023-06-19T06:31:51Z",
-            "content": "The Minneapolis City Council directed staff members to research the potential costs of implementing the recent consent decree agreement between the city and the U.S. Department of Justice.\r\nResults o\u2026 [+1492 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Africanews English"
-            },
-            "author": null,
-            "title": "President Ramaphosa tells 'adamant' Putin 'the war must end' in Ukraine - Africanews English",
-            "description": "Putin reiterated his position that Ukraine and its Western allies had started the conflict long before Russia sent its armed forces over the border in February last year, something they deny.",
-            "url": "http://www.africanews.com/2023/06/18/president-ramaphosa-tells-adamant-putin-the-war-must-end-in-ukraine/",
-            "urlToImage": "https://static.euronews.com/articles/stories/07/68/47/30/1024x538_cmsv2_9ef5b595-5d7b-5d60-987d-bd0b3d4adace-7684730.jpg",
-            "publishedAt": "2023-06-19T06:17:19Z",
-            "content": "South African President Cyril Ramaphosa, who is in Russia as part of a peace-seeking delegation, on Saturday, told his Russian counterpart Vladimir Putin that the conflict in Ukraine had to stop.\r\n\"T\u2026 [+4105 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Gabriela Galindo",
-            "title": "Apple Is Taking On Apples in a Truly Weird Trademark Battle - WIRED",
-            "description": "Apple, the company, wants rights to the image of apples, the fruit, in Switzerland\u2014one of dozens of countries where it\u2019s flexing its legal muscles.",
-            "url": "https://www.wired.com/story/apple-vs-apples-trademark-battle/",
-            "urlToImage": "https://media.wired.com/photos/648ccd0b57ff6ec62db8a7dc/191:100/w_1280,c_limit/whiteapple_redbackground_biz_GettyImages-740523449.jpg",
-            "publishedAt": "2023-06-19T06:00:00Z",
-            "content": "Over the past few years, Apple has pursued a meal-prepping app with a pear logo, a singer-songwriter named Frankie Pineapple, a German cycling route, a pair of stationery makers, and a school distric\u2026 [+3483 chars]"
+            "author": "Tom Dierberger",
+            "title": "Report: Kings unwilling to include Murray in Beal trade offer - Yahoo Sports",
+            "description": "There was one line the Kings wouldn't cross in trade discussions for Wizards star Bradley Beal.",
+            "url": "https://www.nbcsportsbayarea.com/nba/sacramento-kings/kings-rumors/report-kings-unwilling-to-include-murray-in-beal-trade-offer/1634738/",
+            "urlToImage": "https://media.nbcsportsbayarea.com/2023/06/keegan-murray-bradley-beal-wizards-kings.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-06-20T00:46:00Z",
+            "content": "The Kings reportedly were in the mix to land Washington Wizards star guard Bradley Beal in a trade before the Phoenix Suns took a big swing Sunday night.\r\nThere was one line Sacramento wouldn't cross\u2026 [+1648 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "Doug Ferguson",
-            "title": "Wyndham Clark plays big and becomes a major champion at the US Open - The Associated Press",
-            "description": "LOS ANGELES (AP) \u2014 In the city of stars, Wyndham Clark had his own script in mind in the U.S. Open. In front of him was Rory McIlroy, one of golf's biggest talents who looked ready to end his perplexing nine-year drought in the majors.",
-            "url": "https://apnews.com/article/us-open-wyndham-clark-rory-scheffler-los-angeles-a75cb078537a1c0c2ed1a2adacb0323b",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/abb14ca6a91f4865b315ef930f3ff535/1964.webp",
-            "publishedAt": "2023-06-19T05:50:18Z",
-            "content": "LOS ANGELES (AP) In the city of stars, Wyndham Clark had his own script in mind in the U.S. Open.\r\nIn front of him was Rory McIlroy, one of golfs biggest talents who looked ready to end his perplexin\u2026 [+6250 chars]"
+            "author": "Michael Goldberg",
+            "title": "1 dead, nearly 2 dozen injured after multiple tornadoes sweep through Mississippi - The Associated Press",
+            "description": "LOUIN, Miss. (AP) \u2014 Multiple tornadoes swept through Mississippi overnight, killing one and injuring nearly two dozen, officials said Monday.  State emergency workers were still working with counties to assess the damage from storms in which high temperatures\u2026",
+            "url": "https://apnews.com/article/mississippi-tornadoes-severe-weather-958f289417c05d82b8fca4855e1570bf",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/12f58f0c08984bb3a10cdfe5d563bc91/3000.jpeg",
+            "publishedAt": "2023-06-20T00:04:09Z",
+            "content": "LOUIN, Miss. (AP) Multiple tornadoes swept through Mississippi overnight, killing one and injuring nearly two dozen, officials said Monday. \r\nState emergency workers were still working with counties \u2026 [+4329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Milwaukee Journal Sentinel"
+            },
+            "author": "Hannah Kirby, Sophie Carson, Drake Bentley, Bill Glauber",
+            "title": "At least 5 people shot near where Milwaukee's Juneteenth celebration had just wrapped up Monday - Milwaukee Journal Sentinel",
+            "description": "The shooting occurred on North King Drive between West Locust and West Chambers streets.",
+            "url": "https://www.jsonline.com/story/news/crime/2023/06/19/multiple-people-shot-near-milwaukee-juneteenth-celebration-location/70336159007/",
+            "urlToImage": "https://www.jsonline.com/gcdn/presto/2023/06/19/PMJS/dbdbf1ec-35ac-4455-88a0-d0e71e82f96b-IMG_7610.jpg?crop=4031,2268,x0,y604&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-19T23:15:00Z",
+            "content": "At least five people were shot Monday afternoon around where Milwaukee's Juneteenth celebration had just wrapped up, according to Milwaukee police and fire officials.\r\nThe shooting happened directly \u2026 [+3661 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WTVD-TV"
+            },
+            "author": null,
+            "title": "Big Rock Blue Marlin Tournament: Fishing crew disqualified, misses out on $3M prize due to 'mutilation,' likely shark bite - WTVD-TV",
+            "description": "A fishing crew lost out on over $3 million in tournament prize money after the 619.4-pound blue marlin they caught was disqualified due to a likely shark bite injury.",
+            "url": "https://abc11.com/marlin-disqualified-big-rock-blue-tournament-2023-shark-bite/13403402/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13403529_061923-wtvd-big-rock-drama-530pm-vid.jpg?w=1600",
+            "publishedAt": "2023-06-19T21:28:35Z",
+            "content": "MOREHEAD CITY, N.C. -- A fishing crew lost out on over $3 million in tournament prize money after the 619.4-pound blue marlin they caught was disqualified due to \"mutilation\" caused by a shark or oth\u2026 [+2707 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "John Fanta",
+            "title": "2023 NBA Mock Draft 3.0: Who snags Scoot Henderson, Brandon Miller or Thompson twins? - FOX Sports",
+            "description": "Victor Wembanyama appears to be a lock at No. 1, but what will Charlotte do with the No. 2 selection? John Fanta offers up his 2023 NBA Mock Draft 3.0.",
+            "url": "https://www.foxsports.com/stories/nba/2023-nba-mock-draft-3-0-who-snags-scoot-henderson-brandon-miller-or-thompson-twins",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/06/1408/814/6.19.23_NBA-Mock-Draft-3.0_16x9-2.jpg?ve=1&tl=1",
+            "publishedAt": "2023-06-19T21:13:02Z",
+            "content": "While there is a sense of sadness with the NBA Finals being in the books and the four-month break from games beginning, theres a totally separate season during the summer.\r\nThe 2023 NBA Draft is upon\u2026 [+33184 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Ireland is paying up to $92,000 to people who buy homes on remote islands. Here's how it works. - CBS News",
+            "description": "Republic of Ireland wants to encourage people to move to islands in the Atlantic Ocean that have suffered from population loss.",
+            "url": "https://www.cbsnews.com/news/ireland-92000-to-move-to-remote-islands-heres-how-it-works/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/19/4baeb1d5-87e9-4291-86b9-2c2497a44ec3/thumbnail/1200x630/ea500c7f5f16ad7fbd22b2a3b98de815/gettyimages-171208583.jpg?v=23da2bed74e9783333cf303fba619e89",
+            "publishedAt": "2023-06-19T21:03:42Z",
+            "content": "The Irish government has a plan to boost the population of more than two dozen remote islands in the Atlantic Ocean: Dangle grants of up to $92,000 to homebuyers who are willing to move there.\r\nThe i\u2026 [+3890 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Eerie lightning on Jupiter spied by Juno spacecraft - CNN",
+            "description": "NASA\u2019s Juno spacecraft spied an eerie bolt of lightning glowing inside a vortex near Jupiter\u2019s north pole.",
+            "url": "https://www.cnn.com/2023/06/19/world/juno-jupiter-lightning-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230619142654-nasa-juno-mission-lightning.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-19T21:03:00Z",
+            "content": "Editors Note:Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA NASA spacecraft captured the eerie glow\u2026 [+2766 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "US judge orders Trump lawyers not to release evidence in documents probe - Reuters.com",
+            "description": "A U.S. judge in Florida on Monday ordered defense lawyers for former President Donald Trump not to release evidence in the classified documents case to the media or the public, according to a court filing.",
+            "url": "https://www.reuters.com/world/us/us-judge-orders-trump-lawyers-not-share-evidence-ahead-trial-2023-06-19/",
+            "urlToImage": "https://www.reuters.com/resizer/UTteRKZ7A5rQb3RDdvZoBQQmDdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DRSNFHHNJFMJPELKLK7JVDVBXM.jpg",
+            "publishedAt": "2023-06-19T21:02:00Z",
+            "content": "June 19 (Reuters) - A U.S. judge in Florida on Monday ordered defense lawyers for former President Donald Trump not to release evidence in the classified documents case to the media or the public, ac\u2026 [+2176 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brenda Goodman",
+            "title": "A daily aspirin may lead to anemia in older adults, study says - Yahoo! Voices",
+            "description": "Aspirin is one of the most commonly used medications in the US. Studies show that more than 40% of adults ages 60 or older take an aspirin every day to prevent dangerous blood clots that could lead to a heart attack or stroke.",
+            "url": "https://www.cnn.com/2023/06/19/health/daily-aspirin-anemia/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/181004110459-01-ovarian-cancer-aspirin-study-100418.jpg?q=x_3,y_356,h_1819,w_3233,c_crop/w_800",
+            "publishedAt": "2023-06-19T21:00:21Z",
+            "content": "Aspirin is one of the most commonly used medications in the US. Studies show that more than 40% of adults ages 60 or older take an aspirin every day to prevent dangerous blood clots that could lead t\u2026 [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Nick Vivarelli",
+            "title": "\u2018Mission: Impossible 7\u2019 First Reactions: Tom Cruise Conquers Critics With \u2018Impeccably Made,\u2019 \u2018Exhilarating\u2019 Action Film - Variety",
+            "description": "\u201cMission:\u00a0Impossible\u00a0\u2013\u00a0Dead Reckoning Part One\u201d was finally unveiled at a starry world premiere in Rome on Monday evening, drawing a packed gala screening in the Auditorium della Concil\u2026",
+            "url": "https://variety.com/2023/film/news/mission-impossible-7-first-reactions-tom-cruise-1235647961/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/05/Mission-Impossible-Dead-Reckoning.png?w=1000&h=563&crop=1",
+            "publishedAt": "2023-06-19T20:46:00Z",
+            "content": "\u201cMission:\u00a0Impossible\u00a0\u2013\u00a0Dead Reckoning Part One\u201d was finally unveiled at a starry world premiere in Rome on Monday evening, drawing a packed gala screening in the Auditorium della Conciliazione, a sto\u2026 [+5727 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Chris Paul surprised by trade to Wizards, hints Isiah Thomas had role - ESPN - ESPN",
+            "description": "Chris Paul said he was \"surprised\" by the trade that will send the point guard to Washington and hinted that Isiah Thomas had a role in the deal.",
+            "url": "https://www.espn.com/nba/story/_/id/37880678/chris-paul-surprised-trade-wizards-hints-isiah-thomas-had-role",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0407%2Fr1155512_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-06-19T20:01:40Z",
+            "content": "Jun 19, 2023, 03:58 PM ET\r\nChris Paul said he was \"surprised\" by the reported trade that sent the future Hall of Fame point guard from the Phoenix Suns to the Washington Wizards, telling The New York\u2026 [+1641 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Robyn Dixon",
+            "title": "Navalny's new trial on 'extremism' is held in secret, in a prison - The Washington Post",
+            "description": "Russia's leading opposition figure, already imprisoned on charges viewed as political retribution, is now being accused of running an extremist group: his foundation that long fought public corruption.",
+            "url": "https://www.washingtonpost.com/world/2023/06/19/navalny-extremism-russia-trialprison/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TARIHJFHR2HYISNRBPETFKETLM_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-06-19T19:54:00Z",
+            "content": "Comment on this story\r\nComment\r\nRIGA, Latvia Russias most prominent opposition leader, Alexei Navalny, was put on trial Monday on extremism charges that could result in his existing prison sentences \u2026 [+4239 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kristen Rogers",
+            "title": "Loneliness and social isolation linked with a higher risk of early death, study finds - CNN",
+            "description": "Feeling lonely or socially isolated is associated with increased risk of premature death, new research has found.",
+            "url": "https://www.cnn.com/2023/06/19/health/loneliness-social-isolation-early-death-risk-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230619105208-loneliness-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-19T19:35:00Z",
+            "content": "Editors Note:Get inspired by a weekly roundup on living well, made simple.\u00a0Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nIf youre lonely\u2026 [+6042 chars]"
         },
         {
             "source": {
@@ -164,103 +203,64 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "In acquiring Bradley Beal, Phoenix Suns are doubling down on their win-now mentality - CBS Sports",
-            "description": "Adding Beal to a roster with Booker and Durant doesn't address the depth issue",
-            "url": "https://www.cbssports.com/nba/news/in-acquiring-bradley-beal-phoenix-suns-are-doubling-down-on-their-win-now-mentality/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/18/5ff801bc-ba57-4f21-b0ed-c128073d55e7/thumbnail/1200x675/da61c4ef4133cb71f6d480b4705b5abc/untitled-design-2023-06-18t172050-058.png",
-            "publishedAt": "2023-06-19T05:26:00Z",
-            "content": "The Phoenix Suns are all in. \r\nUnder new owner Mat Ishbia, the Suns have set up the framework for a deal that will bring in Bradley Beal to pair with Kevin Durant and Devin Booker, sources confirmed \u2026 [+3704 chars]"
-        },
-        {
-            "source": {
-                "id": "marca",
-                "name": "Marca"
-            },
-            "author": "LW",
-            "title": "Travis Barker's playmate ex-wife reveals the truth about Kourtney Kardashian's pregnancy - Marca English",
-            "description": "Kourtney Kardashian announced her pregnancy to husband Travis Barker during a concert on Friday and although she made it look like it was a surprise for her husband, it turns out f",
-            "url": "https://www.marca.com/en/lifestyle/celebrities/2023/06/19/648fb72ee2704e30108b45e8.html",
-            "urlToImage": "https://phantom-marca.unidadeditorial.es/c74862a06771c832197e378c0deb6844/resize/1200/f/jpg/assets/multimedia/imagenes/2023/06/19/16871398598681.jpg",
-            "publishedAt": "2023-06-19T04:54:00Z",
-            "content": "Kourtney Kardashian announced her pregnancy to husband Travis Barker during a concert on Friday and although she made it look like it was a surprise for her husband, it turns out fans did not buy it,\u2026 [+1459 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Kylie Atwood,Simone McCarthy",
-            "title": "Blinken meets China\u2019s top diplomat in final day of high stakes visit to Beijing - CNN",
-            "description": "US Secretary of State Antony Blinken sat down with China\u2019s top diplomat Monday on the final day of a high stakes visit to Beijing aimed at stabilizing relations, which cratered in the wake of a dispute over a Chinese surveillance balloon.",
-            "url": "https://www.cnn.com/2023/06/18/china/blinken-china-visit-wang-yi-meeting-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230619035211-blinken-china-0619.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-19T04:53:00Z",
-            "content": "US Secretary of State Antony Blinken sat down with Chinas top diplomat Monday on the final day of a high stakes visit to Beijing aimed at stabilizing relations, which cratered in the wake of a disput\u2026 [+5388 chars]"
+            "title": "Golf legend Tom Watson pens letter to PGA Tour as eight-time major winner questions deal with Saudi-backed PIF - CBS Sports",
+            "description": "Watson is one of many PGA Tour members past and present searching for answers amid the controversial agreement",
+            "url": "https://www.cbssports.com/golf/news/golf-legend-tom-watson-pens-letter-to-pga-tour-as-eight-time-major-winner-questions-deal-with-saudi-backed-pif/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/19/1427386d-a4a0-41d6-8a0c-837fac1e5a50/thumbnail/1200x675/25707c924c1defcdb2fe91290ee65397/tom-watson-2023-g.jpg",
+            "publishedAt": "2023-06-19T19:13:07Z",
+            "content": "Many prominent names in golf continue searching for details in regards to the PGA Tour's deal with the Saudi Arabian Public Investment Fund where commercial operations across the sport would be house\u2026 [+2844 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Chicago Tribune"
+                "name": "YouTube"
             },
-            "author": "Jake Sheridan",
-            "title": "5 shot in Roseland at Father's Day barbecue, police say - Chicago Tribune",
-            "description": "Families had been gathering at the park when a car drove up and opened fire, police said.",
-            "url": "https://www.chicagotribune.com/news/breaking/ct-roseland-shooting-fathers-day-bbq-20230619-hz6h63i6qbdrlip65c377cvzaq-story.html",
-            "urlToImage": "https://www.chicagotribune.com/resizer/7jlNAu4CfcRQYGPwxtdiV1eavgA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/X3G7A3HWEZBXJNGLLCT2LHWB7A.JPG",
-            "publishedAt": "2023-06-19T04:40:24Z",
-            "content": "Five people were shot Sunday night during a Fathers Day barbecue in Roseland, police said.\r\nPolice taped off the 9900 block of South Princeton Avenue around Wendell Smith Park.\r\nFamilies had been gat\u2026 [+1817 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLSsoccer.com"
-            },
-            "author": "mlssoccer",
-            "title": "USMNT Player Ratings: Gio Reyna dismantles Canada in Nations League final | MLSSoccer.com - MLSsoccer.com",
-            "description": "Canada came out with a bold game plan in the 2023 Concacaf Nations League final, one that showed the burgeoning regional power's confidence against the US men's national team: Mark the midfield tight, dominate possession and dare the Yanks to take advantage o\u2026",
-            "url": "https://www.mlssoccer.com/news/usmnt-player-ratings-gio-reyna-dismantles-canada-in-nations-league-final",
-            "urlToImage": "https://images.mlssoccer.com/image/private/t_q-best/prd-league/z4aglmyxexsbqvvq09ep.png",
-            "publishedAt": "2023-06-19T04:04:17Z",
+            "author": null,
+            "title": "Tropical depression likely to become hurricane - FOX 13 Tampa Bay",
+            "description": "Fox 13 Meteorologist Jim Weber says a tropical depression working its way across the Atlantic is likely to become a hurricane. Weber says that over the next ...",
+            "url": "https://www.youtube.com/watch?v=vBtcWc145b0",
+            "urlToImage": "https://i.ytimg.com/vi/vBtcWc145b0/maxresdefault.jpg",
+            "publishedAt": "2023-06-19T18:34:11Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "KTRK-TV"
+                "name": "9to5Mac"
             },
-            "author": null,
-            "title": "Big Pokey death: Houston rapper Milton Powell dies after collapsing in Beaumont, officials say - KTRK-TV",
-            "description": "Milton Powell, known as 'Big Pokey,' was considered a pillar in the Houston hip-hop community and was \"larger than life\", Houston Mayor Sylvester Turner said in a tweet.",
-            "url": "https://abc13.com/big-pokey-died-what-happened-to-houston-rapper-passed-out/13398232/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13398419_061823-ktrk-big-pokey-death-desi-Sunimg.jpg?w=1600",
-            "publishedAt": "2023-06-19T03:56:15Z",
-            "content": "HOUSTON, Texas (KTRK) -- The city's rap community is mourning Sunday after officials announced the death of rap legend \"Big Pokey.\"\r\nEyewitness News confirmed with Justice of The Peace Tom Gillam III\u2026 [+2007 chars]"
+            "author": "Chance Miller",
+            "title": "Apple might have to make iPhone batteries easier for users to replace, EU rules - 9to5Mac",
+            "description": "The European Union is pressing ahead with new regulation that would require Apple to make iPhone batteries \u201ceasily\u201d replaceable by...",
+            "url": "https://9to5mac.com/2023/06/19/iphone-user-replaceable-batteries-law/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/how-to-see-iphone-battery-health-and-replacement.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-06-19T18:31:00Z",
+            "content": "The European Union is pressing ahead with new regulation that would require Apple to make iPhone batteries easily replaceable by users. We first reported on this proposed legislation back in December\u2026 [+4197 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Emmet Lyons, Tucker Reals",
+            "title": "Submarine on expedition to Titanic wreck goes missing, \"search and rescue operation\" underway - CBS News",
+            "description": "A U.S. Coast Guard official said personnel were \"currently undergoing a search and rescue operation\" off the coast of Newfoundland, where the Titanic sank in 1912.",
+            "url": "https://www.cbsnews.com/news/titanic-submarine-missing-rescue-mission-underway-newfoundland-canada/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/15/9a067bb3-b6f5-459b-b05a-e2f2480d2f2f/thumbnail/1200x630/90c0b77b9b2ff5d2877bf55f778f72e4/titanic-bow.jpg?v=23da2bed74e9783333cf303fba619e89",
+            "publishedAt": "2023-06-19T18:18:00Z",
+            "content": "A search and rescue mission was underway Monday for a submarine that went missing in the North Atlantic on an expedition to explore the wreckage of the Titanic. Lt. Jordan Hart of the U.S. Coast Guar\u2026 [+4522 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "FOX 9"
+                "name": "Neurosciencenews.com"
             },
-            "author": "Rose Schmidt",
-            "title": "Minneapolis PD investigating leak of video showing deadly crash - FOX 9 Minneapolis-St. Paul",
-            "description": "Video circulating on social media Sunday showed the tragic moment five young women died in a car crash. Law enforcement officials are responding to criticism from the community about the footage being leaked.",
-            "url": "https://www.fox9.com/news/minneapolis-pd-investigating-leak-of-video-showing-deadly-crash",
-            "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2023/06/1280/720/lake-street-deadly-crash.jpg?ve=1&tl=1",
-            "publishedAt": "2023-06-19T03:54:35Z",
-            "content": "MINNEAPOLIS (FOX 9) - Video circulating on social media Sunday showed the tragic moment five young women died in a car crash. Law enforcement officials are responding to criticism from the community \u2026 [+2940 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Formula 1"
-            },
-            "author": "F1",
-            "title": "WATCH: Enjoy the race start at the 2023 Canadian Grand Prix as Hamilton claims P2 behind Verstappen - Formula 1",
-            "description": "Max Verstappen enjoyed a textbook getaway as the five lights went out at the 2023 Canadian Grand Prix to maintain his lead from pole position on Lap 1 of 70.",
-            "url": "https://www.formula1.com/en/latest/article.watch-enjoy-the-race-start-at-the-2023-canadian-grand-prix-as-hamilton.wm4Gy0WcnBJryqEnW62oi.html",
-            "urlToImage": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/a49f6835-eaea-49aa-852b-028cac1c494c/00e212eb-31cd-4427-983d-8cb847dfca87/640x360/match/image.jpg",
-            "publishedAt": "2023-06-19T03:39:02Z",
-            "content": "Max Verstappen enjoyed a textbook getaway as the five lights went out at the 2023 Canadian Grand Prix to maintain his lead from pole position on Lap 1 of 70.\r\nVerstappens old sparring partner Lewis H\u2026 [+525 chars]"
+            "author": "Neuroscience News",
+            "title": "Alcohol Use Disorder: More Alcohol, More Impairment, Regardless of Drinking Habits - Neuroscience News",
+            "description": "While individuals with alcohol use disorder (AUD) display less impairment after consuming a standard intoxicating dose, they exhibit significantly more impairment when the consumption aligns with their usual heavier drinking habits.",
+            "url": "https://neurosciencenews.com/aud-intoxication-cognition-23498/",
+            "urlToImage": "https://neurosciencenews.com/files/2023/06/aud-impairment-neurosciences.jpg",
+            "publishedAt": "2023-06-19T18:14:00Z",
+            "content": "Summary: Researchers reveal the idea of \u201cholding one\u2019s liquor\u201d is complex, particularly among heavy drinkers.\r\nThe study shows that while individuals with alcohol use disorder (AUD) display less impa\u2026 [+10581 chars]"
         }
     ]
 }
