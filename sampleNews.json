@@ -1,123 +1,162 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Clement Tan",
-            "title": "China cuts two more key lending rates as economy sputters - CNBC",
-            "description": "The People's Bank of China cut two lending rates on Tuesday for the first time in 10 months, as the world's second largest economy shows signs of stalling.",
-            "url": "https://www.cnbc.com/2023/06/20/china-cuts-two-more-key-lending-rates-as-economy-sputters.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107258047-1686900402044-gettyimages-1234867071-peoples_bank_of_china.jpeg?v=1687223878&w=1920&h=1080",
-            "publishedAt": "2023-06-20T01:17:00Z",
-            "content": "The People's Bank of China cut two more key lending rates on Tuesday for the first time in 10 months to prop up growth in the world's second largest economy.\r\nThe Chinese central bank cut the one-yea\u2026 [+2511 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Russia-Ukraine war: List of key events, day 482 - Al Jazeera English",
-            "description": "As the war enters its 482nd day, these are the main developments.",
-            "url": "https://www.aljazeera.com/news/2023/6/20/russia-ukraine-war-list-of-key-events-day-482",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2023-06-19T161059Z_1376058812_RC29M1AMT9LS_RTRMADP_3_UKRAINE-CRISIS-EAST-ARTILLERY-1687221218.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-06-20T01:09:30Z",
-            "content": "This is the situation as it stands on Tuesday, June 20, 2023.\r\nFighting\r\n<ul><li>Ukrainian Deputy Defence Minister Hanna Maliar said the countrys armed forces had liberated eight settlements in the p\u2026 [+3736 chars]"
+            "author": "Marlene Cimons",
+            "title": "New therapies are making multiple myeloma more survivable - The Washington Post",
+            "description": "New drugs have made it possible to live much longer with the disease, and some scientists even see a possible cure down the road.",
+            "url": "https://www.washingtonpost.com/health/2023/06/20/multiple-myeloma-cancer-treatments/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QU3C6ZUOC5NZG6YQNBZNPZXFCE.jpg&w=1440",
+            "publishedAt": "2023-06-20T12:37:50Z",
+            "content": "Comment on this story\r\nComment\r\nAudrey Greene, a retired sales agent from Long Neck, Del., celebrated her 80th birthday in March. Diagnosed in 2010 at age 68 with multiple myeloma, a cancer that atta\u2026 [+10511 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Nbcsportsbayarea.com"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Tom Dierberger",
-            "title": "Report: Kings unwilling to include Murray in Beal trade offer - Yahoo Sports",
-            "description": "There was one line the Kings wouldn't cross in trade discussions for Wizards star Bradley Beal.",
-            "url": "https://www.nbcsportsbayarea.com/nba/sacramento-kings/kings-rumors/report-kings-unwilling-to-include-murray-in-beal-trade-offer/1634738/",
-            "urlToImage": "https://media.nbcsportsbayarea.com/2023/06/keegan-murray-bradley-beal-wizards-kings.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2023-06-20T00:46:00Z",
-            "content": "The Kings reportedly were in the mix to land Washington Wizards star guard Bradley Beal in a trade before the Phoenix Suns took a big swing Sunday night.\r\nThere was one line Sacramento wouldn't cross\u2026 [+1648 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Michael Goldberg",
-            "title": "1 dead, nearly 2 dozen injured after multiple tornadoes sweep through Mississippi - The Associated Press",
-            "description": "LOUIN, Miss. (AP) \u2014 Multiple tornadoes swept through Mississippi overnight, killing one and injuring nearly two dozen, officials said Monday.  State emergency workers were still working with counties to assess the damage from storms in which high temperatures\u2026",
-            "url": "https://apnews.com/article/mississippi-tornadoes-severe-weather-958f289417c05d82b8fca4855e1570bf",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/12f58f0c08984bb3a10cdfe5d563bc91/3000.jpeg",
-            "publishedAt": "2023-06-20T00:04:09Z",
-            "content": "LOUIN, Miss. (AP) Multiple tornadoes swept through Mississippi overnight, killing one and injuring nearly two dozen, officials said Monday. \r\nState emergency workers were still working with counties \u2026 [+4329 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Milwaukee Journal Sentinel"
-            },
-            "author": "Hannah Kirby, Sophie Carson, Drake Bentley, Bill Glauber",
-            "title": "At least 5 people shot near where Milwaukee's Juneteenth celebration had just wrapped up Monday - Milwaukee Journal Sentinel",
-            "description": "The shooting occurred on North King Drive between West Locust and West Chambers streets.",
-            "url": "https://www.jsonline.com/story/news/crime/2023/06/19/multiple-people-shot-near-milwaukee-juneteenth-celebration-location/70336159007/",
-            "urlToImage": "https://www.jsonline.com/gcdn/presto/2023/06/19/PMJS/dbdbf1ec-35ac-4455-88a0-d0e71e82f96b-IMG_7610.jpg?crop=4031,2268,x0,y604&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-19T23:15:00Z",
-            "content": "At least five people were shot Monday afternoon around where Milwaukee's Juneteenth celebration had just wrapped up, according to Milwaukee police and fire officials.\r\nThe shooting happened directly \u2026 [+3661 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WTVD-TV"
-            },
-            "author": null,
-            "title": "Big Rock Blue Marlin Tournament: Fishing crew disqualified, misses out on $3M prize due to 'mutilation,' likely shark bite - WTVD-TV",
-            "description": "A fishing crew lost out on over $3 million in tournament prize money after the 619.4-pound blue marlin they caught was disqualified due to a likely shark bite injury.",
-            "url": "https://abc11.com/marlin-disqualified-big-rock-blue-tournament-2023-shark-bite/13403402/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13403529_061923-wtvd-big-rock-drama-530pm-vid.jpg?w=1600",
-            "publishedAt": "2023-06-19T21:28:35Z",
-            "content": "MOREHEAD CITY, N.C. -- A fishing crew lost out on over $3 million in tournament prize money after the 619.4-pound blue marlin they caught was disqualified due to \"mutilation\" caused by a shark or oth\u2026 [+2707 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": "John Fanta",
-            "title": "2023 NBA Mock Draft 3.0: Who snags Scoot Henderson, Brandon Miller or Thompson twins? - FOX Sports",
-            "description": "Victor Wembanyama appears to be a lock at No. 1, but what will Charlotte do with the No. 2 selection? John Fanta offers up his 2023 NBA Mock Draft 3.0.",
-            "url": "https://www.foxsports.com/stories/nba/2023-nba-mock-draft-3-0-who-snags-scoot-henderson-brandon-miller-or-thompson-twins",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/06/1408/814/6.19.23_NBA-Mock-Draft-3.0_16x9-2.jpg?ve=1&tl=1",
-            "publishedAt": "2023-06-19T21:13:02Z",
-            "content": "While there is a sense of sadness with the NBA Finals being in the books and the four-month break from games beginning, theres a totally separate season during the summer.\r\nThe 2023 NBA Draft is upon\u2026 [+33184 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Aimee Picchi",
-            "title": "Ireland is paying up to $92,000 to people who buy homes on remote islands. Here's how it works. - CBS News",
-            "description": "Republic of Ireland wants to encourage people to move to islands in the Atlantic Ocean that have suffered from population loss.",
-            "url": "https://www.cbsnews.com/news/ireland-92000-to-move-to-remote-islands-heres-how-it-works/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/19/4baeb1d5-87e9-4291-86b9-2c2497a44ec3/thumbnail/1200x630/ea500c7f5f16ad7fbd22b2a3b98de815/gettyimages-171208583.jpg?v=23da2bed74e9783333cf303fba619e89",
-            "publishedAt": "2023-06-19T21:03:42Z",
-            "content": "The Irish government has a plan to boost the population of more than two dozen remote islands in the Atlantic Ocean: Dangle grants of up to $92,000 to homebuyers who are willing to move there.\r\nThe i\u2026 [+3890 chars]"
+            "author": "Karen Friar",
+            "title": "Stock futures fall as caution saps momentum: Stock market news today - Yahoo Finance",
+            "description": "Stock futures slipped on Tuesday as wary investors eyed potential headwinds for the recent rally with markets set to resume after a holiday break.",
+            "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-today-june-20-2023-104226173.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/n9ATBLDCCv6SMOgnsLZh_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/c85c0c30-0c1b-11ee-bf6e-5cb00641b95d",
+            "publishedAt": "2023-06-20T12:11:35Z",
+            "content": "Stock futures slipped on Tuesday as wary investors eyed potential headwinds for the recent rally with markets set to resume after a holiday break.\r\nWorries about the health of China's economy, the se\u2026 [+2683 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Ashley Strickland",
-            "title": "Eerie lightning on Jupiter spied by Juno spacecraft - CNN",
-            "description": "NASA\u2019s Juno spacecraft spied an eerie bolt of lightning glowing inside a vortex near Jupiter\u2019s north pole.",
-            "url": "https://www.cnn.com/2023/06/19/world/juno-jupiter-lightning-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230619142654-nasa-juno-mission-lightning.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-19T21:03:00Z",
-            "content": "Editors Note:Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA NASA spacecraft captured the eerie glow\u2026 [+2766 chars]"
+            "author": "Nouran Salahieh",
+            "title": "Rescuers are racing the clock in search for a manned submersible lost while touring Titanic wreckage - CNN",
+            "description": "Crews searching for a missing submersible that lost contact while touring the wreckage of the Titanic with five people aboard are keeping a nervous eye on the craft\u2019s dwindling oxygen supply as they navigate choppy, remote waters in low visibility.",
+            "url": "https://www.cnn.com/2023/06/20/us/titanic-shipwreck-vessel-missing-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230619160119-hp-card-04-oceangate-titan-sub-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-20T11:58:00Z",
+            "content": "Crews searching for a missing submersible that lost contact while touring the wreckage of the Titanic with five people aboard are keeping a nervous eye on the crafts dwindling oxygen supply as they n\u2026 [+9434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Andrew Tate charged with rape and human trafficking - BBC",
+            "description": "Andrew Tate and his brother charged in Romania over human trafficking and sexual exploitation.",
+            "url": "https://www.bbc.com/news/world-europe-65959097",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16DA5/production/_130150639_andrewtate-index-reuters.jpg",
+            "publishedAt": "2023-06-20T11:17:51Z",
+            "content": "Controversial influencer Andrew Tate has been charged in Romania with rape, human trafficking and forming an organised crime group to sexually exploit women. \r\nHis brother Tristan and two associates \u2026 [+2413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Tuesday, June 20, 2023 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2023/6/20/23758557/horoscopes-today-tuesday-june-20-2023",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/413bd66/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FPwlzmUKGXXloynkpQjbvr050di4%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24722319%2FGeorgia_mug.jpeg",
+            "publishedAt": "2023-06-20T11:10:00Z",
+            "content": "Moon Alert\r\nAvoid shopping or important decisions from 4:30 to 5:30 p.m. Chicago time. After that, the moon moves from Cancer into Leo.\r\nAries (March 21-April 19)\r\nFor the next four weeks, your focus\u2026 [+3624 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Why India PM Modi's state visit to US is 'strategically important' - USA TODAY",
+            "description": "Indian PM Narendra Modi's state visit to the White House and Congress comes at a \"strategically important\" time in U.S.-China relations. Here's why.",
+            "url": "https://www.usatoday.com/story/news/politics/2023/06/20/india-modi-visit-united-states/70325476007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/06/27/USAT/524179fa-f445-41f0-8bca-c3bb9e058422-GTY_1405394229.jpg?auto=webp&crop=7799,4387,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2023-06-20T09:11:27Z",
+            "content": "WASHINGTON President Joe Biden and congressional leaders will roll out the red carpet for Indian Prime Minister Narendra Modi on Thursday, as the right-wing Hindu nationalist leader arrives for an of\u2026 [+5220 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Miami Herald"
+            },
+            "author": "Jeff Kleinman",
+            "title": "Tropical Storm Bret expected to intensify as hurricane center puts Caribbean on alert - Miami Herald",
+            "description": "Florida, Haiti, Cuba watching Tropical Storm Bret, which could become a hurricane as it heads to Caribbean. Forecast: Wind shear may weaken storm.",
+            "url": "https://www.miamiherald.com/news/weather/hurricane/article276562106.html",
+            "urlToImage": "https://www.miamiherald.com/latest-news/h5vov6/picture276562411/alternates/LANDSCAPE_1140/bret5am.jpg",
+            "publishedAt": "2023-06-20T09:06:00Z",
+            "content": "Tropical Storm Bret is expected to intensify, possibly into a hurricane, and approach the Lesser Antilles later this week, according to the National Hurricane Center. \r\nHere are the details:\r\nWhere i\u2026 [+1870 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile, Asif Iqbal Shaik",
+            "title": "Galaxy Enhance-X image editing app now available for Galaxy Z Fold 4 - SamMobile - Samsung news",
+            "description": "Two months ago, Samsung announced that it will bring the Galaxy Enhance-X image editing app to older high-end Galaxy phones. ...",
+            "url": "https://www.sammobile.com/news/galaxy-enhance-x-image-editing-app-galaxy-z-fold-4/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/04/Samsung-Galaxy-Enhance-X-App-720x405.jpg",
+            "publishedAt": "2023-06-20T08:56:00Z",
+            "content": "Two months ago, Samsung announced that it will bring the Galaxy Enhance-X image editing app to older high-end Galaxy phones. Now, the company has released the app to four more Galaxy phones, includin\u2026 [+1146 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He",
+            "title": "Alibaba names new chairman and CEO in major shakeup - CNN",
+            "description": "Alibaba is replacing Daniel Zhang as chairman and CEO as the Chinese tech giant undergoes the biggest shakeup in its history.",
+            "url": "https://www.cnn.com/2023/06/20/tech/alibaba-chairman-ceo-succession-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230620063152-alibaba-group-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-20T08:55:00Z",
+            "content": "Alibaba is replacing Daniel Zhang as chairman and CEO as the Chinese tech giant undergoes the biggest shakeup in its history. \r\nJoseph Tsai, executive vice chairman and a co-founder of Alibaba\r\n(BABA\u2026 [+3284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Omkar Godbole",
+            "title": "Bitcoin Holds Steady as China Rate Cut Fails to Encourage Risk Taking - CoinDesk",
+            "description": "The risk-off mood is probably the market's way of telling China that rate cuts of 10 basis points are not enough to spur the slowing economy.",
+            "url": "https://www.coindesk.com/markets/2023/06/20/bitcoin-tentative-as-china-rate-cut-fails-to-spur-risk-on/",
+            "urlToImage": "https://www.coindesk.com/resizer/MJcpQT3CWP1vtQnRtqFhRx60Zc8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/R5RVSNBT2BFF5FYVB3E2QCG2PQ.jpg",
+            "publishedAt": "2023-06-20T07:42:00Z",
+            "content": "Bitcoin (BTC) traded little changed on Tuesday as China's first cut in benchmark lending rates in 10 months failed to lift the mood in traditional markets.\r\nThe People's Bank of China (PBOC) lowered \u2026 [+2239 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": null,
+            "title": "The Pixel Tablet's new Google Weather app is gorgeous - Android Authority",
+            "description": "A new Google Weather app is debuting on the Pixel Tablet. It has a fresh design, beautiful animations, and all the information you need.",
+            "url": "https://www.androidauthority.com/new-google-weather-app-3333944/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/06/google-pixel-tablet-weather-2-scaled.jpg",
+            "publishedAt": "2023-06-20T07:33:03Z",
+            "content": "When I tapped to check the weather on the new Pixel Tablet, I did not expect to be greeted by a completely revamped and gorgeous interface, but that was the case. Turns out theres a new Google Weathe\u2026 [+5071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Kyle Schnitzer, Allie Griffin",
+            "title": "Why a fan says he threw a phone at Bebe Rexha during NYC concert - New York Post ",
+            "description": "The suspect was arrested and charged with assault, aggravated harassment, attempted assault and harassment.",
+            "url": "https://nypost.com/2023/06/20/fan-who-threw-phone-at-bebe-rexha-during-nyc-concert-reveals-reason/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/Untitled-1-5-2.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-06-20T05:48:00Z",
+            "content": "The fan charged with chucking a cell phone at Bebe Rexha\u2019s face as she performed at a Manhattan concert Sunday allegedly committed the assault for his own amusement. \r\n\u201cI was trying to see if I could\u2026 [+2269 chars]"
         },
         {
             "source": {
@@ -125,90 +164,12 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "US judge orders Trump lawyers not to release evidence in documents probe - Reuters.com",
-            "description": "A U.S. judge in Florida on Monday ordered defense lawyers for former President Donald Trump not to release evidence in the classified documents case to the media or the public, according to a court filing.",
-            "url": "https://www.reuters.com/world/us/us-judge-orders-trump-lawyers-not-share-evidence-ahead-trial-2023-06-19/",
-            "urlToImage": "https://www.reuters.com/resizer/UTteRKZ7A5rQb3RDdvZoBQQmDdk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DRSNFHHNJFMJPELKLK7JVDVBXM.jpg",
-            "publishedAt": "2023-06-19T21:02:00Z",
-            "content": "June 19 (Reuters) - A U.S. judge in Florida on Monday ordered defense lawyers for former President Donald Trump not to release evidence in the classified documents case to the media or the public, ac\u2026 [+2176 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Brenda Goodman",
-            "title": "A daily aspirin may lead to anemia in older adults, study says - Yahoo! Voices",
-            "description": "Aspirin is one of the most commonly used medications in the US. Studies show that more than 40% of adults ages 60 or older take an aspirin every day to prevent dangerous blood clots that could lead to a heart attack or stroke.",
-            "url": "https://www.cnn.com/2023/06/19/health/daily-aspirin-anemia/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/181004110459-01-ovarian-cancer-aspirin-study-100418.jpg?q=x_3,y_356,h_1819,w_3233,c_crop/w_800",
-            "publishedAt": "2023-06-19T21:00:21Z",
-            "content": "Aspirin is one of the most commonly used medications in the US. Studies show that more than 40% of adults ages 60 or older take an aspirin every day to prevent dangerous blood clots that could lead t\u2026 [+3031 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Nick Vivarelli",
-            "title": "\u2018Mission: Impossible 7\u2019 First Reactions: Tom Cruise Conquers Critics With \u2018Impeccably Made,\u2019 \u2018Exhilarating\u2019 Action Film - Variety",
-            "description": "\u201cMission:\u00a0Impossible\u00a0\u2013\u00a0Dead Reckoning Part One\u201d was finally unveiled at a starry world premiere in Rome on Monday evening, drawing a packed gala screening in the Auditorium della Concil\u2026",
-            "url": "https://variety.com/2023/film/news/mission-impossible-7-first-reactions-tom-cruise-1235647961/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2022/05/Mission-Impossible-Dead-Reckoning.png?w=1000&h=563&crop=1",
-            "publishedAt": "2023-06-19T20:46:00Z",
-            "content": "\u201cMission:\u00a0Impossible\u00a0\u2013\u00a0Dead Reckoning Part One\u201d was finally unveiled at a starry world premiere in Rome on Monday evening, drawing a packed gala screening in the Auditorium della Conciliazione, a sto\u2026 [+5727 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": null,
-            "title": "Chris Paul surprised by trade to Wizards, hints Isiah Thomas had role - ESPN - ESPN",
-            "description": "Chris Paul said he was \"surprised\" by the trade that will send the point guard to Washington and hinted that Isiah Thomas had a role in the deal.",
-            "url": "https://www.espn.com/nba/story/_/id/37880678/chris-paul-surprised-trade-wizards-hints-isiah-thomas-had-role",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0407%2Fr1155512_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-06-19T20:01:40Z",
-            "content": "Jun 19, 2023, 03:58 PM ET\r\nChris Paul said he was \"surprised\" by the reported trade that sent the future Hall of Fame point guard from the Phoenix Suns to the Washington Wizards, telling The New York\u2026 [+1641 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Robyn Dixon",
-            "title": "Navalny's new trial on 'extremism' is held in secret, in a prison - The Washington Post",
-            "description": "Russia's leading opposition figure, already imprisoned on charges viewed as political retribution, is now being accused of running an extremist group: his foundation that long fought public corruption.",
-            "url": "https://www.washingtonpost.com/world/2023/06/19/navalny-extremism-russia-trialprison/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TARIHJFHR2HYISNRBPETFKETLM_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-06-19T19:54:00Z",
-            "content": "Comment on this story\r\nComment\r\nRIGA, Latvia Russias most prominent opposition leader, Alexei Navalny, was put on trial Monday on extremism charges that could result in his existing prison sentences \u2026 [+4239 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Kristen Rogers",
-            "title": "Loneliness and social isolation linked with a higher risk of early death, study finds - CNN",
-            "description": "Feeling lonely or socially isolated is associated with increased risk of premature death, new research has found.",
-            "url": "https://www.cnn.com/2023/06/19/health/loneliness-social-isolation-early-death-risk-wellness/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230619105208-loneliness-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-19T19:35:00Z",
-            "content": "Editors Note:Get inspired by a weekly roundup on living well, made simple.\u00a0Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nIf youre lonely\u2026 [+6042 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Golf legend Tom Watson pens letter to PGA Tour as eight-time major winner questions deal with Saudi-backed PIF - CBS Sports",
-            "description": "Watson is one of many PGA Tour members past and present searching for answers amid the controversial agreement",
-            "url": "https://www.cbssports.com/golf/news/golf-legend-tom-watson-pens-letter-to-pga-tour-as-eight-time-major-winner-questions-deal-with-saudi-backed-pif/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/19/1427386d-a4a0-41d6-8a0c-837fac1e5a50/thumbnail/1200x675/25707c924c1defcdb2fe91290ee65397/tom-watson-2023-g.jpg",
-            "publishedAt": "2023-06-19T19:13:07Z",
-            "content": "Many prominent names in golf continue searching for details in regards to the PGA Tour's deal with the Saudi Arabian Public Investment Fund where commercial operations across the sport would be house\u2026 [+2844 chars]"
+            "title": "Russia launches overnight air attack on Ukraine from east to west - Reuters.com",
+            "description": "Russia launched a widespread overnight air attack on Ukraine on Tuesday, targeting military and infrastructure facilities in Kyiv and other cities, officials said on Tuesday.",
+            "url": "https://www.reuters.com/world/europe/russia-launches-overnight-air-attack-ukraine-east-west-2023-06-20/",
+            "urlToImage": "https://www.reuters.com/resizer/-fb2JEhLUg-0snKtOtIQZ-tg9Is=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SPLGAFD6RFOFJPWLFVFIVDWY3A.jpg",
+            "publishedAt": "2023-06-20T05:42:00Z",
+            "content": "KYIV, June 20 (Reuters) - Russia launched a widespread overnight air attack on Ukraine on Tuesday, targeting military and infrastructure facilities in Kyiv and other cities, officials said on Tuesday\u2026 [+1763 chars]"
         },
         {
             "source": {
@@ -216,51 +177,90 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Tropical depression likely to become hurricane - FOX 13 Tampa Bay",
-            "description": "Fox 13 Meteorologist Jim Weber says a tropical depression working its way across the Atlantic is likely to become a hurricane. Weber says that over the next ...",
-            "url": "https://www.youtube.com/watch?v=vBtcWc145b0",
-            "urlToImage": "https://i.ytimg.com/vi/vBtcWc145b0/maxresdefault.jpg",
-            "publishedAt": "2023-06-19T18:34:11Z",
+            "title": "President Biden in Bay Area for re-election campaign - KRON 4",
+            "description": "KRON4's Charles Clifford reports.",
+            "url": "https://www.youtube.com/watch?v=62tO8suefas",
+            "urlToImage": "https://i.ytimg.com/vi/62tO8suefas/maxresdefault.jpg",
+            "publishedAt": "2023-06-20T03:00:31Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "9to5Mac"
+                "name": "CBS Sports"
             },
-            "author": "Chance Miller",
-            "title": "Apple might have to make iPhone batteries easier for users to replace, EU rules - 9to5Mac",
-            "description": "The European Union is pressing ahead with new regulation that would require Apple to make iPhone batteries \u201ceasily\u201d replaceable by...",
-            "url": "https://9to5mac.com/2023/06/19/iphone-user-replaceable-batteries-law/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/how-to-see-iphone-battery-health-and-replacement.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-06-19T18:31:00Z",
-            "content": "The European Union is pressing ahead with new regulation that would require Apple to make iPhone batteries easily replaceable by users. We first reported on this proposed legislation back in December\u2026 [+4197 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Emmet Lyons, Tucker Reals",
-            "title": "Submarine on expedition to Titanic wreck goes missing, \"search and rescue operation\" underway - CBS News",
-            "description": "A U.S. Coast Guard official said personnel were \"currently undergoing a search and rescue operation\" off the coast of Newfoundland, where the Titanic sank in 1912.",
-            "url": "https://www.cbsnews.com/news/titanic-submarine-missing-rescue-mission-underway-newfoundland-canada/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/15/9a067bb3-b6f5-459b-b05a-e2f2480d2f2f/thumbnail/1200x630/90c0b77b9b2ff5d2877bf55f778f72e4/titanic-bow.jpg?v=23da2bed74e9783333cf303fba619e89",
-            "publishedAt": "2023-06-19T18:18:00Z",
-            "content": "A search and rescue mission was underway Monday for a submarine that went missing in the North Atlantic on an expedition to explore the wreckage of the Titanic. Lt. Jordan Hart of the U.S. Coast Guar\u2026 [+4522 chars]"
+            "author": "",
+            "title": "Joey Votto homers in return from shoulder surgery, Reds extend winning streak to nine games - CBS Sports",
+            "description": "Votto made his 2023 debut Monday",
+            "url": "https://www.cbssports.com/mlb/news/joey-votto-homers-in-return-from-shoulder-surgery-reds-extend-winning-streak-to-nine-games/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/20/2869550c-1bef-4c23-9eb4-a7d7bd2226c2/thumbnail/1200x675/e3bfac935171bd5aade84ed92d228869/gettyimages-14998708881.jpg",
+            "publishedAt": "2023-06-20T02:40:00Z",
+            "content": "The good times continue for the Cincinnati Reds. Monday night, the Reds beat the Colorado Rockies (CIN 5, COL 4) to extend their winning streak to nine games, and they also welcomed Joey Votto back t\u2026 [+2173 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Neurosciencenews.com"
+                "name": "YouTube"
             },
-            "author": "Neuroscience News",
-            "title": "Alcohol Use Disorder: More Alcohol, More Impairment, Regardless of Drinking Habits - Neuroscience News",
-            "description": "While individuals with alcohol use disorder (AUD) display less impairment after consuming a standard intoxicating dose, they exhibit significantly more impairment when the consumption aligns with their usual heavier drinking habits.",
-            "url": "https://neurosciencenews.com/aud-intoxication-cognition-23498/",
-            "urlToImage": "https://neurosciencenews.com/files/2023/06/aud-impairment-neurosciences.jpg",
-            "publishedAt": "2023-06-19T18:14:00Z",
-            "content": "Summary: Researchers reveal the idea of \u201cholding one\u2019s liquor\u201d is complex, particularly among heavy drinkers.\r\nThe study shows that while individuals with alcohol use disorder (AUD) display less impa\u2026 [+10581 chars]"
+            "author": null,
+            "title": "Kourtney Kardashian Is PREGNANT! See Her Baby Bump Reveal - Entertainment Tonight",
+            "description": "Kourtney Kardashian and Travis Barker announce they're expecting their first child together! The reality star shared the big news during Friday's Blink-182 c...",
+            "url": "https://www.youtube.com/watch?v=DGuM0CfIxEY",
+            "urlToImage": "https://i.ytimg.com/vi/DGuM0CfIxEY/maxresdefault.jpg",
+            "publishedAt": "2023-06-20T02:22:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden says threat of Putin using tactical nuclear weapons is 'real' - Reuters",
+            "description": "President Joe Biden said on Monday the threat of Russian President Vladimir Putin using tactical nuclear weapons is \"real\", days after denouncing Russia's deployment of such weapons in Belarus.",
+            "url": "https://www.reuters.com/world/biden-says-threat-putin-using-tactical-nuclear-weapons-is-real-2023-06-20/",
+            "urlToImage": "https://www.reuters.com/resizer/ywTxQN6c-wBHzmHKgArK8VBi-UM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KDQMS2TJDBI7BHPVUYHKVXU3KU.jpg",
+            "publishedAt": "2023-06-20T02:17:00Z",
+            "content": "June 19 (Reuters) - President Joe Biden said on Monday the threat of Russian President Vladimir Putin using tactical nuclear weapons is \"real\", days after denouncing Russia's deployment of such weapo\u2026 [+1665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroitbadboys.com"
+            },
+            "author": "Sean Corp",
+            "title": "2023 NBA Draft: Fill out the DBB Community Big Board - Detroit Bad Boys",
+            "description": "The NBA Draft is loaded with talent, but there isn\u2019t much that separates pick three for pick 13. Take our short survey to help us build a DBB NBA Draft Big Board",
+            "url": "https://www.detroitbadboys.com/2023/6/19/23766622/2023-nba-draft-big-board-survey-detroit-pistons-fans",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/q1rNnCuIYHGA0erAIqCaqccZsmA=/0x0:4608x2413/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24737763/1473765076.jpg",
+            "publishedAt": "2023-06-20T01:59:23Z",
+            "content": "The NBA Draft is Thursday, and very little about how the first 10 picks will play out is settled. We dont know who is going No. 2. We dont know who the first Thompson Twin selected will be, and we ce\u2026 [+1239 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "At least 6 teens shot after Milwaukee Juneteenth celebration ends - ABC News",
+            "description": "Milwaukee police and fire officials say at least teenagers were shot Monday afternoon around where the city's Juneteenth celebration had just wrapped up",
+            "url": "https://abcnews.go.com/US/wireStory/6-teens-shot-after-milwaukee-juneteenth-celebration-ends-100217378",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2023-06-20T01:50:32Z",
+            "content": "MILWAUKEE -- At least six teenagers were shot Monday afternoon around where Milwaukees Juneteenth celebration had just wrapped up, according to police and fire officials.\r\nThe shooting happened about\u2026 [+3452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Christian Arnold",
+            "title": "Ja Morant appears to refute report his camp thinks NBA, media is 'out to get them' - New York Post ",
+            "description": "Ja Morant appeared to break his social media silence to refute a report that his camp felt the league and media were out to get them.",
+            "url": "https://nypost.com/2023/06/19/ja-morant-camp-thinks-nba-media-out-to-get-them/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/newspress-collage-8g21ciri4-1687220907710.jpg?quality=75&strip=all&1687206722&w=1024",
+            "publishedAt": "2023-06-20T01:31:00Z",
+            "content": "Ja Morant appeared to break his social media silence to refute a report that his camp felt the league and media were out to get them.\r\nIt all started after media outlets picked up on a comment made b\u2026 [+2327 chars]"
         }
     ]
 }
