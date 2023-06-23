@@ -4,159 +4,146 @@
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/tara-subramaniam\">Tara Subramaniam</a> and Christian Edwards, CNN",
+            "title": "Russia's war in Ukraine: Live updates - CNN",
+            "description": "Russian President Vladimir Putin has pledged to boost the mass production of drones and increase their deployment to the battlefield. Follow here for live updates.",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-22-23/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230621171121-ukraine-troops-062023-super-tease.jpg",
+            "publishedAt": "2023-06-22T10:04:00Z",
+            "content": "Four missiles were fired at the Chonhar road bridge Thursday morning, with one hitting the structure, a representative of Russias Investigative Committee said in comments reported by Russian state ne\u2026 [+1970 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "The Times of Israel"
+                "name": "The Athletic"
+            },
+            "author": "Zach Harper",
+            "title": "Celtics-Grizzlies-Wizards trade grades: Instant reaction with Smart, Porzi\u0146\u0123is on the move - The Athletic",
+            "description": "How did Boston add two first-rounders in this deal? And how did Washington get none?",
+            "url": "https://theathletic.com/4629520/2023/06/22/nba-trade-grades-smart-porzingis-celtics-wizards-grizzlies/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/22011833/GettyImages-1437777410-1024x683.jpg",
+            "publishedAt": "2023-06-22T09:58:14Z",
+            "content": "A few hours after one three-team deal fell apart and the Washington Wizards were up against Kristaps Porziis player option deadline, the Boston Celticsfinally managed to get their big man upgrade and\u2026 [+5978 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Charles Trepany",
+            "title": "Pharrell Williams' first Louis Vuitton show: Beyonce, more attend - USA TODAY",
+            "description": "The Louis Vuitton Menswear Spring-Summer 2024 show kicked off in Paris Tuesday. See all the best A-list fashion moments here.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2023/06/20/pharrell-williams-louis-vuitton-fashion-show-photos-beyonce-zendaya/70340303007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/20/USAT/27d04e09-6590-4b60-93da-608173aed4be-AFP_AFP_33KJ99X.jpg?crop=8255,4644,x0,y419&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-22T09:48:54Z",
+            "content": "Pharrell Williams' debut collection at Louis Vuitton attracted tons of attention as well as a flock of celebrity guests to the brand's Menswear Spring-Summer 2024 show in Paris Tuesday.\r\nThe breathta\u2026 [+3914 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ZEN SOO Associated Press",
+            "title": "Cooking gas explosion kills 31 people at a barbecue restaurant in northwestern China - ABC News",
+            "description": "Authorities in northwestern China say 31 people have been killed and seven injured in a cooking gas explosion at a barbecue restaurant in the city of Yinchuan",
+            "url": "https://abcnews.go.com/Business/wireStory/gas-explosion-kills-31-people-barbecue-restaurant-northwestern-100294030",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_52d6075722677d339e2acb033ca2a754_16x9_992.jpg",
+            "publishedAt": "2023-06-22T09:25:34Z",
+            "content": "HONG KONG -- Cooking gas caused a massive explosion at a barbecue restaurant in northwestern China, killing 31 people and injuring seven others during national celebrations on the eve of a long holid\u2026 [+3967 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Missing Titanic submersible: The factors that could affect crew's oxygen supply - BBC",
+            "description": "Conditions aboard could be experienced differently person-to-person, experts say.",
+            "url": "https://www.bbc.com/news/world-us-canada-65981277",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/120BD/production/_130171937_titanpa.jpg",
+            "publishedAt": "2023-06-22T08:13:38Z",
+            "content": "Media caption, Watch: What happens if the oxygen runs out\r\nIt is a claustrophobic, terrifying prospect - being trapped in a 22ft submersible, potentially thousands of feet underwater, with oxygen run\u2026 [+4305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
             },
             "author": null,
-            "title": "Israeli drone strike kills 3 Palestinian gunmen in their car in northern West Bank - The Times of Israel",
-            "description": "IDF and Shin Bet say cell was responsible for recent attacks in area, and had targeted checkpoint moments before being killed",
-            "url": "https://www.timesofisrael.com/israeli-drone-strikes-car-carrying-alleged-palestinian-gunmen-in-northern-west-bank/",
-            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/06/FzKrjnMWYAA9VGm-e1687374324674-1024x640.jpg",
-            "publishedAt": "2023-06-21T21:56:15Z",
-            "content": "An Israeli drone struck a car carrying three Palestinian gunmen who had just opened fire at a checkpoint in the northern West Bank on Wednesday night, the military and Shin Bet security agency said.\r\u2026 [+4032 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Tim Bontemps",
-            "title": "Celtics working to acquire Wizards' Kristaps Porzingis, sources say - ESPN - ESPN",
-            "description": "The Boston Celtics are working on a trade to acquire Washington Wizards center Kristaps Porzingis in a three-team deal that would send Malcolm Brogdon to the LA Clippers, sources told ESPN's Adrian Wojnarowski on Wednesday.",
-            "url": "https://www.espn.com/nba/story/_/id/37894749/celtics-working-acquire-wizards-kristaps-porzingis-sources-say",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1219%2Fr1108893_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-06-21T21:11:00Z",
-            "content": "The Boston Celtics, LA Clippers and Washington Wizards are working on a three-team trade that would see the Celtics acquire Kristaps Porzingis and the Clippers land Malcolm Brogdon, sources told ESPN\u2026 [+2361 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Rachel Tashjian",
-            "title": "At Louis Vuitton, Pharrell Williams rewrites fashion for the celebrity age - The Washington Post",
-            "description": "His star-studded runway debut set the tone for the next generation of menswear.",
-            "url": "https://www.washingtonpost.com/lifestyle/2023/06/21/pharrell-williams-louis-vuitton-paris/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JBOZ6NDJ2WJVTRZZHBYSX3KS3U.jpg&w=1440",
-            "publishedAt": "2023-06-21T21:03:00Z",
-            "content": "Comment on this story\r\nComment\r\nPARIS Pharrell Williams didnt get here by chance. Becoming the creative director of Louis Vuitton menswear, he said, was an act of divine intervention. When God comes \u2026 [+11543 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "U.S. Republican hardliners try to force Biden impeachment vote - Reuters",
-            "description": "At least two hardline Republicans plan to try to force the U.S. House to vote on whether to impeach Democratic President Joe Biden and members of his administration, over the objections of Speaker Kevin McCarthy, who fears that such moves risk undermining con\u2026",
-            "url": "https://www.reuters.com/world/us/us-republican-hardliners-try-force-biden-impeachment-vote-2023-06-21/",
-            "urlToImage": "https://www.reuters.com/resizer/8lzAG5awSwYoEnXe90r7QiAsZKg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P53OPFDDXROPTHQC3J2M2FYPTA.jpg",
-            "publishedAt": "2023-06-21T21:02:00Z",
-            "content": "WASHINGTON, June 21 (Reuters) - At least two hardline Republicans plan to try to force the U.S. House to vote on whether to impeach Democratic President Joe Biden and members of his administration, o\u2026 [+3441 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": null,
-            "title": "Get a Ring Video Doorbell with an Echo Pop for $40 as an early Prime Day deal - Engadget",
-            "description": "Amazon just revealed a deeply-discounted bundle that includes a Ring Video Doorbell and an Echo Pop speaker for just $40, though this deal is exclusive to Prime members.",
-            "url": "https://www.engadget.com/get-a-ring-video-doorbell-with-an-echo-pop-for-40-as-an-early-prime-day-deal-164553569.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/wiOCloJ7sr_PPWn20_MVtg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/c136e2f0-104d-11ee-b77f-e8c3d984180d.cf.jpg",
-            "publishedAt": "2023-06-21T20:43:35Z",
-            "content": "Amazon just revealed a deeply-discounted bundle that includes a Ring Video Doorbell and an Echo Pop speaker for just $40, though this deal is exclusive to Prime members. All told, thats $65 off the r\u2026 [+1506 chars]"
+            "title": "Live coverage: Delta 4-Heavy to try again early Thursday \u2013 Spaceflight Now - Spaceflight Now",
+            "description": null,
+            "url": "https://spaceflightnow.com/2023/06/22/delta-4-heavy-nrol-68-coverage/",
+            "urlToImage": null,
+            "publishedAt": "2023-06-22T06:31:08Z",
+            "content": "Watch a replay of our live coverage of the countdown and launch of a United Launch Alliance Delta 4-Heavy rocket with a classified spy satellite for the National Reconnaissance Office from Space Laun\u2026 [+12425 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Kotaku"
+                "name": "MLB.com"
             },
-            "author": "Ashley Bardhan",
-            "title": "Final Fantasy XVI: Everything You Should Know Before You Buy - Kotaku",
-            "description": "Square Enix\u2019s nearly 40-year-old series is having an epic midlife crisis, and it\u2019s ok to be confused",
-            "url": "https://kotaku.com/final-fantasy-xvi-release-ffxvi-reviews-ps5-pc-clive-1850562523",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6fe6e14352c49ab960233507cbc20d2e.jpg",
-            "publishedAt": "2023-06-21T20:36:00Z",
-            "content": "You could think of Final Fantasy XVI as just the latest in a line of many games developer Square Enix made to re-energize its now almost 40-year-old series. But unlike many of those other titles, whi\u2026 [+5428 chars]"
+            "author": "Juan Toribio",
+            "title": "Dodgers' 'pen outduels Ohtani: 'Something for us to build on' - MLB.com",
+            "description": "ANAHEIM -- Over the last month, the Dodgers struggled more than they\u2019ve grown accustomed to, and the bullpen wore most of the blame as the team fell to third place in the National League West.\nThe Dodgers\u2019 bullpen came into the two-game series against the Ang\u2026",
+            "url": "https://www.mlb.com/news/dodgers-bullpen-outduels-shohei-ohtani-shuts-out-angels",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/ygvnzio83srqy9umufym.jpg",
+            "publishedAt": "2023-06-22T06:19:01Z",
+            "content": "ANAHEIM -- Over the last month, the Dodgers struggled more than theyve grown accustomed to, and the bullpen wore most of the blame as the team fell to third place in the National League West.\u00a0\r\nThe D\u2026 [+4199 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Texas' Ken Paxton impeachment trial date set: Wife, Angela, blocked from voting - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/06/22/texas-ken-paxton-impeachment-trial-date-set-wife-blocked-voting",
+            "urlToImage": null,
+            "publishedAt": "2023-06-22T05:33:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Marlon Gonz\u00e1lez",
+            "title": "Hondurans see little hope for nation's prisons as details of cold-blooded massacre emerge - The Associated Press",
+            "description": "TEGUCIGALPA, Honduras (AP) \u2014 Authorities in Honduras began to hand over to relatives the hacked, burned corpses of 46 women killed in the worst riot at a women\u2019s prison in recent memory. Some of the bodies were so badly burned they need genetic testing or den\u2026",
+            "url": "https://apnews.com/article/honduras-prison-riot-499aed3a71fcaaf07476ed8ca579099c",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/dd85bc301f4a447cbf250f7ee3e75e8a/3000.webp",
+            "publishedAt": "2023-06-22T05:28:49Z",
+            "content": "TEGUCIGALPA, Honduras (AP) Authorities in Honduras began to hand over to relatives the hacked, burned corpses of 46 women killed in the worst riot at a womens prison in recent memory.\r\nSome of the bo\u2026 [+4611 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Lisa Mascaro",
+            "title": "GOP's Boebert wanted to impeach Biden, but House Speaker McCarthy had other plans - The Associated Press",
+            "description": "WASHINGTON (AP) \u2014 A surprise effort by hard-right House Republicans to impeach President Joe Biden  has been sidelined for now, but the ability of GOP Rep.",
+            "url": "https://apnews.com/article/biden-impeachment-boebert-mccarthy-republicans-69fec0cefecfdf0fdaabd5ba430730f2",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/2a7abd5a8dec4b1f8f0792b8f6f451a1/3000.webp",
+            "publishedAt": "2023-06-22T04:07:27Z",
+            "content": "WASHINGTON (AP) A surprise effort by hard-right House Republicans to impeach President Joe Biden has been sidelined for now, but the ability of GOP Rep. Lauren Boebert to force the issue to a House v\u2026 [+5342 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "LubbockOnline.com"
             },
-            "author": "Jake Fischer",
-            "title": "2023 NBA Draft: After Victor Wembanyama and pair of elite prospects, rest of draft picture remains murky - Yahoo Sports",
-            "description": "With each draft selection starting with the No. 3 pick being discussed in trade conversations, few players beyond presumptive top choice Victor Wembanyama...",
-            "url": "https://sports.yahoo.com/2023-nba-draft-after-victor-wembanyama-and-pair-of-elite-prospects-rest-of-draft-picture-remains-murky-202622993.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RfWFTQTs_safO_8dp0zyyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/0e690f70-106d-11ee-bf67-d3b6ac5ce5c6",
-            "publishedAt": "2023-06-21T20:26:22Z",
-            "content": "NEW YORK The midtown ballroom looked familiar, a series of daises and microphones for each prospect invited to the annual NBA Draft green room to meet with the media before Thursday nights proceeding\u2026 [+7590 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Lynette Rice",
-            "title": "Taylor Sheridan Weighs In On WGA Staffing Demands: \u201cFor Me, Writers Rooms Haven\u2019t Worked\u201d - Deadline",
-            "description": "Taylor Sheridan has revealed where he stands on the WGA\u2019s minimum staffing demands on episode TV: It\u2019s a non-starter for the former-actor-turned prolific scribe, who wrote all the episodes fo\u2026",
-            "url": "https://deadline.com/2023/06/taylor-sheridan-wga-staffing-demands-kevin-costner-yellowstone-1235422063/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/10/GettyImages-1358664122.jpg?w=1024",
-            "publishedAt": "2023-06-21T20:22:00Z",
-            "content": "Taylor Sheridan has revealed where he stands on the WGA\u2019s minimum staffing demands on episode TV: It\u2019s a non-starter for the former-actor-turned prolific scribe, who wrote all the episodes for Yellow\u2026 [+3208 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "Anya Leon, Angela Andaloro",
-            "title": "Peta Murgatroyd and Maks Chmerkovskiy Reveal Their Baby Boy's Name and Share First Photo (Exclusive) - Yahoo Entertainment",
-            "description": "Peta Murgatroyd and Maks Chmerkovskiy welcomed a baby boy on June 18",
-            "url": "https://people.com/peta-murgatroyd-maks-chmerkovskiy-share-baby-name-first-photo-exclusive-7551155",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Vue6XP2iwE8RHeA136gTSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/people_218/79c4d50868ae52b74c98a1692e5ba20d",
-            "publishedAt": "2023-06-21T20:01:33Z",
-            "content": "Peta Murgatroyd and Maks Chmerkovskiy welcomed a baby boy on June 18\r\n courtesy Peta Murgatroyd and Maks Chmerkovskiy\r\n Maks Chmerkovskiy and Peta Murgatroyd, newborn son Rio John\r\nPeta Murgatroyd\u00a0an\u2026 [+2494 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Benj Edwards",
-            "title": "AI-generated Secret Invasion intro angers Marvel artists and fans alike - Ars Technica",
-            "description": "Marvel artist: \"Unethical, dangerous, and designed solely to eliminate artists' careers.\"",
-            "url": "https://arstechnica.com/information-technology/2023/06/marvel-angers-artists-and-fans-with-ai-generated-secret-invasion-tv-intro/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/secretinvasion_hero_1-760x380.jpg",
-            "publishedAt": "2023-06-21T20:00:52Z",
-            "content": "Enlarge/ A still image taken from the AI-generated Secret Invasion TV show intro on Disney+.\r\n107 with \r\nOn Wednesday, Marvel's latest comic book TV show, Secret Invasion, premiered on Disney+ to con\u2026 [+4411 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "MARY CLARE JALONICK",
-            "title": "In rowdy scene, House censures Rep. Adam Schiff over Trump-Russia investigations - Yahoo News",
-            "description": "The House voted Wednesday to censure California Rep. Adam Schiff for comments he made several years ago about investigations into Donald Trump's ties to...",
-            "url": "https://news.yahoo.com/house-poised-censure-rep-adam-195841131.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4GUGQfJvHIXxZFvJMkp8hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/b94769a9557e355f1331bc31b146a23b",
-            "publishedAt": "2023-06-21T19:58:41Z",
-            "content": "WASHINGTON (AP) The House voted Wednesday to censure California Rep. Adam Schiff for comments he made several years ago about investigations into Donald Trump's ties to Russia, rebuking the Democrat \u2026 [+7206 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "BepiColombo's Space Odyssey: Third Mercury Flyby Reveals Geological Wonders - SciTechDaily",
-            "description": "The ESA/JAXA BepiColombo mission has made its third of six gravity assist flybys at Mercury, snapping images of a newly named impact crater as well as tectonic and volcanic curiosities as it adjusts its trajectory for entering Mercury orbit in 2025. The close\u2026",
-            "url": "https://scitechdaily.com/bepicolombos-space-odyssey-third-mercury-flyby-reveals-geological-wonders/",
-            "urlToImage": "https://scitechdaily.com/images/BepiColombo-First-Mercury-Flyby-3-scaled.jpg",
-            "publishedAt": "2023-06-21T19:49:38Z",
-            "content": "ByEuropean Space Agency (ESA)June 21, 2023\r\nESA/JAXAs BepiColombo mission successfully completed its third flyby of Mercury, capturing valuable images of geological features including the newly named\u2026 [+8734 chars]"
+            "author": ", Lubbock Avalanche-Journal",
+            "title": "Matador direct hit from tornado, potent storms move through West Texas - LubbockOnline.com",
+            "description": "The community of Matador in the Texas Rolling Plains took a direct hit from a tornado as a potent line of storms moved through the region",
+            "url": "https://www.lubbockonline.com/story/weather/severe/2023/06/21/matador-direct-him-from-tornado-potent-storms-move-through-west-texas/70344871007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/10/26/NLAJ/1fc6eae0-3669-4c0d-927d-db126a16b9fb-cops.jpg?auto=webp&crop=756,426,x0,y37&format=pjpg&width=1200",
+            "publishedAt": "2023-06-22T03:33:45Z",
+            "content": "A line of severe storms produced multiple tornadoes Wednesday evening on the Rolling Plains of West Texas, including one that caused significant damage around the Matador community.\r\nThe storms also \u2026 [+3022 chars]"
         },
         {
             "source": {
@@ -164,103 +151,116 @@
                 "name": "CNN"
             },
             "author": "Joseph Ataman,Niamh Kennedy,Xiaofei Xu",
-            "title": "Fire erupts in central Paris after gas explosion - CNN",
-            "description": "A fiery gas explosion in central Paris resulted in injuries to at least 29 people and drew hundreds of firefighters to the scene on Wednesday afternoon.",
+            "title": "Dozens injured in central Paris after gas explosion - CNN",
+            "description": "A fiery gas explosion in central Paris resulted in injuries to at least 37 people and drew hundreds of firefighters to the scene on Wednesday afternoon.",
             "url": "https://www.cnn.com/2023/06/21/europe/paris-explosion-intl/index.html",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230621121913-paris-fire-smoke-5th-arrondissement-0621.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-21T19:25:00Z",
-            "content": "A fiery gas explosion in central Paris resulted in injuries to at least 29 people and drew hundreds of firefighters to the scene on Wednesday afternoon.\r\nSome 270 firefighters were deployed to the sc\u2026 [+2182 chars]"
+            "publishedAt": "2023-06-22T03:29:00Z",
+            "content": "A fiery gas explosion in central Paris resulted in injuries to at least 37 people and drew hundreds of firefighters to the scene on Wednesday afternoon.\r\nSome 270 firefighters were deployed to the sc\u2026 [+2267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Roll Call"
+            },
+            "author": null,
+            "title": "Schiff censured as GOP could be lining up impeachment votes next - Roll Call ",
+            "description": "California Rep. Adam Schiff was censured over the Democrat's statements about President Donald Trump and Russia.",
+            "url": "https://www.rollcall.com/2023/06/21/revised-schiff-censure-advances-impeachment-votes-could-be-next/",
+            "urlToImage": "https://content.rollcall.com/wp-content/uploads/2023/06/luna692_051823.jpg",
+            "publishedAt": "2023-06-22T02:32:10Z",
+            "content": "As Chair of the House Intelligence Committee, Adam Schiff launched an all-out political campaign built on baseless distortions against a sitting U.S. president at the expense of every single citizen \u2026 [+1292 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Emily Heil",
+            "title": "Bidens\u2019 India state dinner menu is a vegetarian feast - The Washington Post",
+            "description": "Diplomacy is always on the menu when the White House hosts a black-tie affair, and this state dinner with India is no different.",
+            "url": "https://www.washingtonpost.com/food/2023/06/21/biden-india-state-dinner-menu/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-22-2023/t_ad4811cfc5954b47a4a60b823f9045da_name_dinner.png&w=1440",
+            "publishedAt": "2023-06-22T02:25:00Z",
+            "content": "Comment on this story\r\nComment\r\nWhen guests sit down for the state dinner Thursday that President Biden and first lady Jill Biden are hosting for Indian Prime Minister Narendra Modi, they will encoun\u2026 [+3944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Philip Lewis",
+            "title": "Rare Leonardo da Vinci Drawings Make Debut In The United States - HuffPost",
+            "description": "The artwork must be placed in total darkness for three years when the \"Imagining the Future - Leonardo da Vinci: In the Mind of an Italian Genius\" exhibition ends.",
+            "url": "https://www.huffpost.com/entry/leonardo-da-vinci-rarely-seen-artwork-debut_n_64939343e4b007604cf6a132",
+            "urlToImage": "https://img.huffingtonpost.com/asset/64939ddf200000300043ed3d.jpeg?cache=LzHnuiphoY&ops=1200_630",
+            "publishedAt": "2023-06-22T01:51:12Z",
+            "content": "The \"Imagining the Future - Leonardo da Vinci: In the Mind of an Italian Genius\" exhibition at the Martin Luther King Jr. Memorial Library in Washington, D.C.\r\nThe Codex Atlanticus, a massive collect\u2026 [+2723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "https://www.facebook.com/kslcom/",
+            "title": "US approves chicken made from cultivated cells, the nation's first 'lab-grown' meat - KSL.com",
+            "description": "Chicken grown from animal cells, not from slaughtered birds, can now be sold in the U.S. The Agriculture Department issued approvals Wednesday to California firms Upside Foods and Good Meat to sell the products, known as",
+            "url": "https://www.ksl.com/article/50671202/us-approves-chicken-made-from-cultivated-cells-the-nations-first-lab-grown-meat",
+            "urlToImage": "https://img.ksl.com/slc/2935/293550/29355039.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2023-06-22T01:34:23Z",
+            "content": "Estimated read time: 6-7\r\n minutes\r\nWASHINGTON For the first time, U.S. regulators on Wednesday approved the sale of chicken made from animal cells, allowing two California companies to offer \"lab-gr\u2026 [+8017 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Amazon duped millions of consumers into enrolling in Prime, US FTC says - Reuters",
+            "description": "The U.S. Federal Trade Commission on Wednesday accused Amazon.com <a href=\"https://www.reuters.com/companies/AMZN.O/\"target=\"_blank\">(AMZN.O)</a> of enrolling millions of consumers into its paid subscription Amazon Prime service without their consent and maki\u2026",
+            "url": "https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/",
+            "urlToImage": "https://www.reuters.com/resizer/hEJnn6FdMdIbxwRgLFJi4NxXJC0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JLMCTV3FP5PKNDMLOOW7THBILI.jpg",
+            "publishedAt": "2023-06-22T01:28:00Z",
+            "content": "WASHINGTON, June 21 (Reuters) - The U.S. Federal Trade Commission on Wednesday accused Amazon.com (AMZN.O) of enrolling millions of consumers into its paid subscription Amazon Prime service without t\u2026 [+4544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Vision Pro 'Visual Search' Feature Can Identify Items, Copy Printed Text, Translate and More - MacRumors",
+            "description": "The Apple Vision Pro headset's visionOS operating system includes a feature called \"Visual Search,\" which sounds like it is similar to...",
+            "url": "https://www.macrumors.com/2023/06/21/vision-pro-visual-search-feature/",
+            "urlToImage": "https://images.macrumors.com/t/_3ZdexFpOCvS8zchAikSJtoScBg=/2698x/article-new/2023/06/vision-pro-headset-1.jpg",
+            "publishedAt": "2023-06-22T00:39:15Z",
+            "content": "The Apple Vision Pro headset's visionOS operating system includes a feature called \"Visual Search,\" which sounds like it is similar to the Visual Lookup feature on the iPhone and the iPad.\r\nWith Visu\u2026 [+1181 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Israeli drone hits Palestinian militants as West Bank violence surges - Reuters",
+            "description": "An Israeli drone killed three militant gunmen in the West Bank on Wednesday, in a rare strike that came hours after settlers attacked Palestinian towns, torching cars and buildings in retaliation for an attack by Hamas gunmen a day earlier.",
+            "url": "https://www.reuters.com/world/middle-east/israeli-settlers-attack-palestinian-village-after-deadly-hamas-strike-2023-06-21/",
+            "urlToImage": "https://www.reuters.com/resizer/Gd61Jf7JKkmuN1C9ppKHaW3yVr8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YK4HKFRXQNN6XKZNZGTPYW2VRY.jpg",
+            "publishedAt": "2023-06-22T00:38:00Z",
+            "content": "RAMALLAH, West Bank, June 21 (Reuters) - An Israeli drone killed three militant gunmen in the West Bank on Wednesday, in a rare strike that came hours after settlers attacked Palestinian towns, torch\u2026 [+5671 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Alexis Keenan",
-            "title": "FTC: Amazon tricked Prime customers and slowed efforts to unsubscribe - Yahoo Finance",
-            "description": "The new lawsuit from the FTC is the latest US crackdown on an American tech giant.",
-            "url": "https://finance.yahoo.com/news/ftc-amazon-tricked-its-prime-customers-and-slowed-their-efforts-to-unsubscribe-190017297.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SfTjwwoUgUeEFPTFWZErgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/7bd90450-1042-11ee-a5f3-33c8120f335d",
-            "publishedAt": "2023-06-21T19:00:17Z",
-            "content": "The Federal Trade Commission alleged in a new lawsuit against Amazon (AMZN) that the retail giant duped consumers into joining as Prime subscription members and frustrated their attempts to cancel, t\u2026 [+4930 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vox"
-            },
-            "author": "Li Zhou",
-            "title": "Justice Alito\u2019s luxury fishing trip underscores the Supreme Court\u2019s ethics problem - Vox.com",
-            "description": "A new ProPublica report renews questions about Supreme Court Justice Samuel Alito\u2019s disclosure of gifts. It could pose a conflict of interest.",
-            "url": "https://www.vox.com/scotus/2023/6/21/23768710/supreme-court-samuel-alito-luxury-fishing-trip-propublica-wsj-ethics-problem",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/TdWY9rWqQoeCZrlznEMk6BhKEac=/0x271:3776x2248/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24741180/1232480944.jpg",
-            "publishedAt": "2023-06-21T18:30:00Z",
-            "content": "Justice Samuel Alito is the latest Supreme Court judge to face scrutiny over his acceptance of luxury travel and gifts, raising new questions about the Courts impartiality and legitimacy. \r\nA ProPubl\u2026 [+6019 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WLS-TV"
-            },
-            "author": null,
-            "title": "More DNA links suspect Bryan Kohberger to University of Idaho murders: FBI - WLS-TV",
-            "description": "More DNA evidence now links Bryan Kohberger to the scene where four University of Idaho students were found stabbed to death near campus in November.",
-            "url": "https://abc7chicago.com/new-dna-evidence-bryan-kohberger-idaho-college-murders-students-murdered/13410697/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13410794_062123-wpvi-dna-kohberger-1230-video-vid.jpg?w=1600",
-            "publishedAt": "2023-06-21T16:59:29Z",
-            "content": "PHILADELPHIA -- The DNA of Bryan Kohberger, the suspect in the stabbing deaths of four University of Idaho students at an off-campus home in Moscow last fall, is a \"statistical match\" to DNA collecte\u2026 [+2599 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Adam Bankhurst",
-            "title": "Nintendo Direct June 2023: Everything Announced - IGN",
-            "description": "From Super Mario Bros. Wonder to the remake of Super Mario RPG to Detective Pikachu 2's release date to the Metal Gear Solid Collection Vol. 1 arriving on Switch, here is everything announced during June 2023's Nintendo Direct.",
-            "url": "https://www.ign.com/articles/nintendo-direct-june-2023-everything-announced",
-            "urlToImage": "https://assets-prd.ignimgs.com/2023/06/21/mario-1687364066174.png?width=1280",
-            "publishedAt": "2023-06-21T16:15:57Z",
-            "content": "Today is a special day for Nintendo fans around the world as a brand-new Nintendo Direct has arrived. The show lasted a bit over 40 minutes and was filled with exciting announcements, including a bra\u2026 [+11413 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "",
-            "title": "Video: How deep is 13000 ft? CNN anchor explains - CNN",
-            "description": "Search efforts continue for missing crew on board the Titan sub that may be 13,000 ft below the surface. CNN\u2019s Victor Blackwell breaks down how deep that would be.",
-            "url": "https://www.cnn.com/videos/us/2023/06/21/submersible-titan-depth-underwater-blackwell-vpx.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230621120231-sub-depth.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-21T16:12:41Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FOX 2 Detroit"
-            },
-            "author": "FOX 2 Detroit",
-            "title": "Detroit Lions unveil new football helmet with vintage logo - FOX 2 Detroit",
-            "description": "According to the team, it played around with two approaches to the design: a classic/throwback option or a new-age modern look. It decided to mold both.",
-            "url": "https://www.fox2detroit.com/news/detroit-lions-unveil-new-new-football-helmet-logo",
-            "urlToImage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2023/06/1280/720/New-Detroit-Lions-helmet.jpg?ve=1&tl=1",
-            "publishedAt": "2023-06-21T16:01:43Z",
-            "content": "DETROIT (FOX 2) - The Detroit Lions are embracing more than just a newly-revamped team this upcoming season. They also have a new football helmet.\r\nIt's the same Honolulu Blue, but with a blue and wh\u2026 [+878 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Caitlin Murray",
-            "title": "Analysis of the USWNT's 2023 Women's World Cup roster - ESPN - ESPN",
-            "description": "It's finally here! Vlatko Andonovski has announced his 2023 World Cup roster, and it's got plenty of gambles, surprises and new faces. Here's what you need to know about his selections.",
-            "url": "https://www.espn.com/soccer/story/_/id/37889342/uswnt-2023-fifa-womens-world-cup-roster-analysis-reaction",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0424%2Fr1163568_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-06-21T15:57:00Z",
-            "content": "The roster that will lead the U.S. women's national team through the Women's World Cup this July has been decided, and it certainly is not without gambles and surprises.\r\n- Ertz, Morgan, Rapinoe lead\u2026 [+16191 chars]"
+            "author": "Vincent Goodwill",
+            "title": "2023 NBA Draft: Victor Wembanyama embraces spotlight and expectations that come with No. 1 pick - Yahoo Sports",
+            "description": "It\u2019s hard to be 7-4 and feel comfortable, but Wembanyama seems to understand his pedigree and the expectations \u2014 displaying both a seriousness and lightness ...",
+            "url": "https://sports.yahoo.com/2023-nba-draft-victor-wembanyama-embraces-spotlight-and-expectations-that-come-with-no-1-pick-235336539.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/foFAywAqhTLCCEksYNvzRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/ec099c30-108d-11ee-9fef-1fe5b51fabba",
+            "publishedAt": "2023-06-21T23:53:36Z",
+            "content": "NEW YORK Victor Wembanyama said hello, but it felt like, Hello, world as in the moment another sport changed when an athlete who looked nothing like his predecessors or peers signaled a seismic shift\u2026 [+6528 chars]"
         }
     ]
 }
