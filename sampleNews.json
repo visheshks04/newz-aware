@@ -4,68 +4,42 @@
     "articles": [
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Axios",
-            "title": "Why Marjorie Taylor Greene faces an uncertain future with right-wing allies - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/06/26/marjorie-taylor-greene-freedom-caucus-house-republicans",
-            "urlToImage": null,
-            "publishedAt": "2023-06-26T23:50:33Z",
-            "content": null
+            "author": "Amarachi Orie",
+            "title": "Tourist filmed carving his girlfriend\u2019s name into Rome\u2019s Colosseum - CNN",
+            "description": "Italy\u2019s culture minister is calling for a man to be \u201cidentified and sanctioned\u201d after he was filmed allegedly carving his and his fianc\u00e9e\u2019s names into the Colosseum in Rome.",
+            "url": "https://www.cnn.com/travel/article/tourist-inscribes-name-colosseum-rome-intl-scli/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230626103914-rome-colosseum-carving-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-27T09:45:00Z",
+            "content": "Italys culture minister is calling for a man to be identified and sanctioned after he was filmed allegedly carving his and his fianc\u00e9es names into the Colosseum in Rome.\r\nGennaro Sangiuliano tweeted \u2026 [+1158 chars]"
         },
         {
             "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Riley Hoffman",
-            "title": "5 malaria cases reported in US, health officials say - ABC News",
-            "description": "Four in Florida and one in Texas reported cases of the mosquito-borne illness.",
-            "url": "https://abcnews.go.com/Health/malaria-cases-us-texas-florida-health-officials/story?id=100394505",
-            "urlToImage": "https://s.abcnews.com/images/US/mosquito-rf-gty-ml-190109_hpMain_4_16x9_992.jpg",
-            "publishedAt": "2023-06-26T23:22:23Z",
-            "content": "Five people caught malaria locally in the U.S. for the first time since 2003, according to health officials.\r\nFour people in Sarasota County, Florida, and one person in Cameron County, Texas, reporte\u2026 [+2569 chars]"
+            "author": "Kayna Whitworth, Josh Margolin, Sasha Pezenik",
+            "title": "Idaho college killings suspect was first arrested in 2014, records show - ABC News",
+            "description": "Kohberger's father reported the incident to police, records show.",
+            "url": "https://abcnews.go.com/US/idaho-college-killings-suspect-first-arrested-2014-records-show/story?id=100394285",
+            "urlToImage": "https://s.abcnews.com/images/US/Kohberger-AP-SG-61_hpMain_20230610-212646_2_16x9_992.jpg",
+            "publishedAt": "2023-06-27T09:12:32Z",
+            "content": "Nine years before he was accused of killing four college students in Idaho, Bryan Kohberger was arrested in his native Pennsylvania and charged with misdemeanor theft for allegedly stealing his siste\u2026 [+7625 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "menshealth.com"
+                "name": "WABC-TV"
             },
-            "author": "Evan Romano",
-            "title": "Who Is Claire on The Bear Season 2? Molly Gordon Character Explained - Men's Health",
-            "description": "She's been all over your screen the last few years\u2014and will continue to be.",
-            "url": "https://www.menshealth.com/entertainment/a44347343/the-bear-season-2-claire-molly-gordon/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2023-06-26-at-1-55-49-pm-6499d6f699136.png?crop=1xw:0.9290322580645162xh;center,top&resize=1200:*",
-            "publishedAt": "2023-06-26T22:40:21Z",
-            "content": "I'LL ADMIT it: after Season 1 of The Bear, despite many of the internet's finest posters thirsting over the tattooed and emotionally unavailable Carmy (Jeremy Allen White), I didn't really think that\u2026 [+4872 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WKMG News 6 & ClickOrlando"
-            },
-            "author": "Brenda Argueta, Emily McLeod",
-            "title": "Orlando man, stepson die on hike at Big Bend National Park in Texas, officials say - WKMG News 6 & ClickOrlando",
-            "description": "A man and his stepson who died while visiting Big Bend National Park in Texas were from Orlando, according to park rangers.",
-            "url": "https://www.clickorlando.com/news/local/2023/06/26/orlando-man-stepson-die-on-hike-at-big-bend-national-park-in-texas-officials-say/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/06-26-2023/t_b46cae73766c44088b328bc5fec44091_name_image.jpg?_a=ATAPphC0",
-            "publishedAt": "2023-06-26T22:35:30Z",
-            "content": "ORLANDO, Fla. A man and his stepson who died while visiting Big Bend National Park in West Texas were from Orlando, park rangers confirmed on Monday.\r\nA spokesperson with Big Bend National Park confi\u2026 [+1840 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Zach Harper",
-            "title": "John Collins trade grades: High mark for Jazz; not so much for Hawks - The Athletic",
-            "description": "After years of trade rumors involving Collins, the big man is finally on the move.",
-            "url": "https://theathletic.com/4641887/2023/06/26/john-collins-trade-grades-jazz-hawks/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/26142945/GettyImages-1246775787-1024x683.jpg",
-            "publishedAt": "2023-06-26T22:26:23Z",
-            "content": "Its finally happening.\r\nIn recent years, one of the staples of NBA trade talks around the deadline and the opening of free agency has been John Collins rumors. Finally, after years of wondering if th\u2026 [+4543 chars]"
+            "author": null,
+            "title": "Delays, cancellations worsen at LaGuardia, JFK, Newark airports amid lingering storms - WABC-TV",
+            "description": "Officials report United Airlines stands at around 300 flights canceled, which makes up 10 percent of the airline's schedule.",
+            "url": "https://abc7ny.com/flight-status-lga-laguardia-airport-delays/13431922/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13431958_062723-wabc-delays-img.jpg?w=1600",
+            "publishedAt": "2023-06-27T09:00:00Z",
+            "content": "EAST ELMHURST, Queens (WABC) -- Tuesday is set to be another tough day for New York City area travelers amid lingering storms in the area.\r\nAs of Tuesday morning, here's a count of delays and cancell\u2026 [+2954 chars]"
         },
         {
             "source": {
@@ -73,12 +47,207 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Vladimir Putin says Wagner mutiny leaders will be 'brought to justice' - BBC",
-            "description": "The Russian president says the organisers of the march on Moscow will be \"brought to justice\".",
-            "url": "https://www.bbc.com/news/world-europe-66024526",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6415/production/_130212652_vladimirputin.png",
-            "publishedAt": "2023-06-26T22:13:48Z",
-            "content": "Russian President Vladimir Putin has accused the leaders of last weekend's Wagner mutiny of wanting \"to see Russia choked in bloody strife\". \r\nIn a short speech full of vitriol, Mr Putin vowed to bri\u2026 [+5286 chars]"
+            "title": "Trump heard on tape discussing 'highly confidential, secret' documents - BBC",
+            "description": "It appears to be the same recording cited by prosecutors in their indictment of the former president.",
+            "url": "https://www.bbc.com/news/world-us-canada-66027036",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7F77/production/_130213623_gettyimages-1259028498.jpg",
+            "publishedAt": "2023-06-27T08:40:17Z",
+            "content": "Media caption, Listen: Trump discusses secret documents in an audio recording first obtained by CNN\r\nAn audio recording in which Donald Trump appears to acknowledge keeping a classified document afte\u2026 [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Foundation of All Known Life: Webb Telescope Makes First Detection of Crucial Carbon Molecule - SciTechDaily",
+            "description": "This molecule, never before seen in space, is believed to be a cornerstone of interstellar organic chemistry. Carbon compounds form the foundations of all known life, and as such are of particular interest to scientists working to understand both how life dev\u2026",
+            "url": "https://scitechdaily.com/foundation-of-all-known-life-webb-telescope-makes-first-detection-of-crucial-carbon-molecule/",
+            "urlToImage": "https://scitechdaily.com/images/Webb-Space-Telescope-Organic-Molecule-Discovery-Concept-Art.jpg",
+            "publishedAt": "2023-06-27T08:33:57Z",
+            "content": "BySpace Telescope Science InstituteJune 27, 2023\r\nScientists have detected a new carbon compound, methyl cation, in space for the first time using NASAs James Webb Space Telescope. This compound, cru\u2026 [+9248 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lily Kuo",
+            "title": "China's premier, trying to boost economy, says west is sowing division - The Washington Post",
+            "description": "China's economy is slowing and unemployment rising as the country struggles to emerge from zero covid policies. Talk of \u00ab de-risking \u00bb isn't helping either.",
+            "url": "https://www.washingtonpost.com/world/2023/06/27/china-economy-li-qiang-west/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFVF46DBFUDEC5MBAOVHUNHGGQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-06-27T08:17:00Z",
+            "content": "Comment on this story\r\nComment\r\nTIANJIN, China Chinese Premier Li Qiang on Tuesday accused Western nations of sowing division and confrontation, in thinly veiled criticisms of Washington, as he sough\u2026 [+5109 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Russian authorities drop charges against mercenary chief Prigozhin and others involved in the armed rebellion - The Associated Press",
+            "description": "Russian authorities drop charges against mercenary chief Prigozhin and others involved in the armed rebellion.",
+            "url": "https://apnews.com/world-news/russia-government-general-news-32eb81b604ebd4ab6a49381ed99ede2f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c3db278/2147483647/strip/true/crop/6000x3375+0+313/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2F7e%2F3cc80ab4980e15ff4e0b2fafc999%2Fba602934bf4240b8a65c872784471bb9",
+            "publishedAt": "2023-06-27T08:13:00Z",
+            "content": "FILE - Yevgeny Prigozhin, the owner of the Wagner Group military company, arrives during a funeral ceremony at the Troyekurovskoye cemetery in Moscow, Russia, on April 8, 2023. On Friday, June 23, Pr\u2026 [+216 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": null,
+            "title": "Smartphones could soon have 24GB of RAM, because reasons (Update: Confirmed?) - Android Authority",
+            "description": "We've already seen phones with 12GB, 16GB, and even 18GB of RAM, but it seems like 24GB of RAM could be next.",
+            "url": "https://www.androidauthority.com/24gb-ram-smartphones-3338968/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/04/OPPO-Find-X6-Pro-bloatware-removed-appdrawer.jpg",
+            "publishedAt": "2023-06-27T06:50:00Z",
+            "content": "<ul><li>A trusted leaker has claimed that phones with up to 24GB of RAM are on the way.</li><li>It seems like OPPO or OnePlus could offer this phone.</li><li>REDMAGIC has since announced that it will\u2026 [+1927 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Thao Nguyen",
+            "title": "Malaria cases in Texas and Florida are the first US spread in 20 years, CDC says - USA TODAY",
+            "description": "The CDC issued a public health alert Monday warning the public about acquired cases of malaria reported in the United States, the first in 20 years.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/06/27/malaria-cases-united-states-cdc-warning/70359435007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2019/12/03/USAT/e11991d3-6de8-43b6-af79-da01b51d21cb-GettyImages-1073160004.jpg?crop=2120,1193,x0,y107&width=2120&height=1193&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-27T05:39:06Z",
+            "content": "The United States has seen five cases of malaria spread by mosquitos in the last two months, the first time theres been local spread in 20 years prompting officials to issue a public health alert war\u2026 [+5185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "Jake Rill",
+            "title": "Jordan Westburg collects first MLB hit and RBI in debut - MLB.com",
+            "description": "BALTIMORE -- The dark, overcast sky broke open and a torrential downpour fell to the ground. The crowd of orange-clad fans toughed through it, producing chants of \u201cWes-ty! Wes-ty!\u201d that stormed down as equally hard as the rain.\nJordan Westburg almost couldn\u2019t\u2026",
+            "url": "https://www.mlb.com/news/jordan-westburg-collects-first-mlb-hit-and-rbi-in-debut",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/sk3bn59ctzf1qhnpt7tb.jpg",
+            "publishedAt": "2023-06-27T04:18:32Z",
+            "content": "BALTIMORE -- The dark, overcast sky broke open and a torrential downpour fell to the ground. The crowd of orange-clad fans toughed through it, producing chants of Wes-ty! Wes-ty! that stormed down as\u2026 [+4872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "nj.com"
+            },
+            "author": "Holiday Mathis",
+            "title": "Today\u2019s daily horoscope for June 27, 2023 - NJ.com",
+            "description": "Zodiac signs and horoscopes on 6/27/23 for Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn.",
+            "url": "https://www.nj.com/advice/2023/06/todays-daily-horoscope-for-june-27-2023.html",
+            "urlToImage": "https://www.nj.com/resizer/y0GkxcEcKp6NoyUc0LAtx7APmMY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SAGJVB5QCZCNFBN2U2NE2O4GTE.png",
+            "publishedAt": "2023-06-27T04:01:00Z",
+            "content": "Lovers Moon\r\nA service announcement from the Libra moon: Healthy relationships are built on mutual understanding, support and a genuine desire for each others well-being. Dysfunctional relationships \u2026 [+4217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WVIR"
+            },
+            "author": null,
+            "title": "Texas medical examiner says airline worker pulled into jet engine died by suicide - NBC 29",
+            "description": "The Federal Aviation Administration indicated that it would investigate.",
+            "url": "https://www.nbc29.com/2023/06/27/texas-medical-examiner-says-airline-worker-pulled-into-jet-engine-died-by-suicide/",
+            "urlToImage": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/XCL-wq4_IvLP1ovxbbjkT4hqnZE=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/ONOIB2EM65HMNDHS4WX2ZOEJL4.jpg",
+            "publishedAt": "2023-06-27T03:35:00Z",
+            "content": "SAN ANTONIO (AP) - A ground worker died Friday night when he was sucked into an engine of a jet that had just landed at San Antonio International Airport, and the local medical examiner is ruling it \u2026 [+2265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WESH Orlando"
+            },
+            "author": "Daren Stoltzfus",
+            "title": "LSU wins 1st College World Series title since 2009, beating Florida 18-4 one day after 20-run loss - WESH 2 Orlando",
+            "description": "A day after it gave up the most runs ever in a College World Series game, LSU cranked up its offense and won its first national title since 2009.",
+            "url": "https://www.wesh.com/article/florida-college-world-series/44347572",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/untitled-design-9-649a3e2bb5e21.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-06-27T03:32:00Z",
+            "content": "OMAHA, Neb. \u2014WESH 2 Sports Director Daren Stoltzfus will have a live pre-game report from Omaha on WESH 2 News at 5 p.m., plus highlights at 11 p.m.\r\nThe Tigers beat Florida 18 to 4. It is their seve\u2026 [+5751 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Club Q shooter gets life in prion over Colorado LGBTQ nightclub attack - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/06/27/colorado-club-q-shooting-colorado-shooter-sentenced",
+            "urlToImage": null,
+            "publishedAt": "2023-06-27T02:38:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Max Seddon, Polina Ivanova, Lucy Fisher",
+            "title": "Vladimir Putin accuses Wagner Group leaders of betraying Russia - Financial Times",
+            "description": "President insists insurrection was doomed from outset in first public comments since shortlived mutiny",
+            "url": "https://www.ft.com/content/3bc853e9-30c4-47a8-9d0a-9f9f5b384447",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff811165a-8d94-47f7-a68c-808629ec4412.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-06-27T01:30:00Z",
+            "content": "Russian president Vladimir Putin has condemned the organisers of last weekends shortlived mutiny, saying they had betrayed their country and the fighters in their command.\r\nIn his first public commen\u2026 [+4489 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Emily Mae Czachor",
+            "title": "Billionaire James Crown dies in crash at Colorado racetrack - Yahoo News",
+            "description": "The 70-year-old's official cause of death is still under investigation, but the coroner said \"blunt force trauma is evident\" from the crash.",
+            "url": "https://www.cbsnews.com/news/james-crown-dies-car-crash-colorado-racetrack-chicago-billionaire/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/26/adbea946-ea51-4eba-8b67-18d9f617c87e/thumbnail/1200x630/d4b3f5495169a49aa2c6bf24472ce36e/james-crown.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
+            "publishedAt": "2023-06-27T01:17:00Z",
+            "content": "Billionaire James Crown dies in car accident \r\nBillionaire James Crown dies in car accident00:46\r\nA prominent Chicago billionaire died in a car crash Sunday at a racetrack in Colorado, officials said\u2026 [+2422 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WABC-TV"
+            },
+            "author": null,
+            "title": "Congestion pricing: MTA receives final approval from the Federal Highway Administration - WABC-TV",
+            "description": "The green light comes from the Federal Highway Administration, which issued a Finding of No Significant Impact from congestion pricing.",
+            "url": "https://abc7ny.com/mta-congestion-pricing-final-approval-nyc/13431892/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13429772_062623-congestion-pricing.jpg?w=1600",
+            "publishedAt": "2023-06-27T01:07:30Z",
+            "content": "NEW YORK CITY (WABC) -- New York Governor Hochul is expected to make that major announcement that the federal government has given its approval of the MTA's congestion pricing plan. However, the figh\u2026 [+4410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsportsbayarea.com"
+            },
+            "author": "Tristi Rodriguez",
+            "title": "Wembanyama includes Steph in starting five to save planet - Yahoo Sports",
+            "description": "If the planet was in danger, Victor Wembanyama knows just who to call.",
+            "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/victor-wembanyama-steph-curry/1636523/",
+            "urlToImage": "https://media.nbcsportsbayarea.com/2023/06/steph-curry-victor-wembanyama-USATSI.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-06-27T00:59:00Z",
+            "content": "If the planet were in danger, Victor Wembanyama knows just who to call. \r\nThe 7-foot-5 No. 1 overall pick in the 2023 NBA Draft was asked by For The Win to put together a starting five of former and \u2026 [+902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Armando Tinoco",
+            "title": "\u2018Vanderpump Rules\u2019 Season 11 Sets Filming Start Date; Lala Kent Says It\u2019s Giving Her \u201cAnxiety\u201d - Deadline",
+            "description": "Lala Kent is experiencing \u201canxiety\u201d as Vanderpump Rules Season 11 starts filming. The fallout of \u201cScandoval\u201d continues and the Bravo cameras are set to start capturing the d\u2026",
+            "url": "https://deadline.com/2023/06/vanderpump-rules-season-11-sets-filming-start-date-lala-kent-1235425042/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/01/vanderpump-rules-season-10.jpg?w=1000",
+            "publishedAt": "2023-06-27T00:57:00Z",
+            "content": "Lala Kent is experiencing \u201canxiety\u201d as Vanderpump Rules Season 11 starts filming. The fallout of \u201cScandoval\u201d continues and the Bravo cameras are set to start capturing the drama this week according t\u2026 [+1343 chars]"
         },
         {
             "source": {
@@ -90,177 +259,8 @@
             "description": "The armed insurrection has shattered the carefully crafted myth that was the cornerstone of Putin\u2019s presidency \u2013 that he represented stability and strength.",
             "url": "https://www.washingtonpost.com/world/2023/06/26/russia-elites-putin-strength/",
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PDEWRBLRCN6INMAKLPCVIYXQQI.JPG&w=1440",
-            "publishedAt": "2023-06-26T22:08:44Z",
-            "content": "Comment on this story\r\nComment\r\nLONDON The impact of the fiercest ever challenge to Vladimir Putins 23-year presidency was still reverberating among Moscows elites Monday as questions swirled over wh\u2026 [+7220 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Hannah Sampson",
-            "title": "Airport worker sucked into Delta jet engine dies in San Antonio - The Washington Post",
-            "description": "A Delta flight from Los Angeles was taxiing to the gate in San Antonio on Friday when the ramp worker was \u00ab ingested \u00bb in the engine.",
-            "url": "https://www.washingtonpost.com/travel/2023/06/26/airport-worker-engine-san-antonio/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DBOY4BM5XB33S4CI2JHG6IPMKE_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-06-26T21:53:00Z",
-            "content": "Comment on this story\r\nComment\r\nA 27-year-old ramp worker at San Antonio International Airport was killed Friday night when he was pulled into the engine of a Delta Air Lines jet that had just landed\u2026 [+2805 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "John Timmer",
-            "title": "World\u2019s largest predatory shark had elevated body temperature - Ars Technica",
-            "description": "A warmer body would have made for a faster shark.",
-            "url": "https://arstechnica.com/science/2023/06/worlds-largest-predatory-shark-had-elevated-body-temperature/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image-6-590x380.jpeg",
-            "publishedAt": "2023-06-26T21:44:38Z",
-            "content": "4 with \r\nThe largest shark alive today, reaching up to 20 meters long, is the whale shark, a sedate filter feeder. As recently as 4 million years ago, however, sharks of that scale likely included th\u2026 [+5150 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Sasha Pezenik, Emily Shapiro",
-            "title": "University of Idaho murders: State seeks death penalty against Bryan Kohberger - ABC News",
-            "description": "The four college students were slain in an off-campus house on Nov. 13, 2022.",
-            "url": "https://abcnews.go.com/US/university-idaho-murders-state-seeks-death-penalty-bryan-kohberger/story?id=100392305",
-            "urlToImage": "https://s.abcnews.com/images/US/Kohberger-AP-SG-61_hpMain_20230610-212646_2_16x9_992.jpg",
-            "publishedAt": "2023-06-26T21:22:30Z",
-            "content": "Prosecutors will seek the death penalty against Bryan Kohberger, the suspect in the gruesome University of Idaho murders, according to a new court filing.\r\nThe filing said, \"The State gives this noti\u2026 [+1610 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Civil rights notable James Meredith turns 90, urges people to press onward - POLITICO",
-            "description": "In October 1962, federal marshals escorted him as he enrolled as the first Black student at the University of Mississippi, while white people rioted.",
-            "url": "https://www.politico.com/news/2023/06/26/civil-rights-notable-james-meredith-turns-90-00103718",
-            "urlToImage": "https://static.politico.com/63/90/ba437eaf4184bbc4feed274959c8/mississippi-legislature-80585.jpg",
-            "publishedAt": "2023-06-26T21:19:24Z",
-            "content": "Meredith is a civil rights icon who has long resisted that label because he believes it sets issues such as voting rights and equal access to education apart from other human rights.\r\nDuring the even\u2026 [+4060 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "nejm.org"
-            },
-            "author": "nejm.org",
-            "title": "Triple\u2013Hormone-Receptor Agonist Retatrutide for Obesity \u2014 A Phase 2 Trial | NEJM - nejm.org",
-            "description": null,
-            "url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2301972",
-            "urlToImage": null,
-            "publishedAt": "2023-06-26T21:07:38Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Can't Take Statin Side Effects? Bempedoic Acid Lowers LDL Cholesterol and Reduces Cardiovascular Risks - SciTechDaily",
-            "description": "Drug lowers LDL cholesterol and reduces the risk of serious cardiovascular outcomes in a large trial. The cholesterol-lowering drug bempedoic acid reduced the combined rate of major adverse cardiovascular events by 13%, meeting its primary endpoint in a large\u2026",
-            "url": "https://scitechdaily.com/cant-take-statin-side-effects-bempedoic-acid-lowers-ldl-cholesterol-and-reduces-cardiovascular-risks/",
-            "urlToImage": "https://scitechdaily.com/images/Heart-Health-Boost-Concept-Art.jpg",
-            "publishedAt": "2023-06-26T20:55:19Z",
-            "content": "ByAmerican College of CardiologyJune 26, 2023\r\nBempedoic acid, a cholesterol-lowering drug, has shown positive results in a large trial, reducing major adverse cardiovascular events by 13% in patient\u2026 [+6383 chars]"
-        },
-        {
-            "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "Natasha Jokic",
-            "title": "Noah Cyrus Engaged To Pinkus - BuzzFeed",
-            "description": "\"This past month of being your fianc\u00e9 and being in our own little world of just us two has been so perfect and I wish I could never leave this time.\"",
-            "url": "https://www.buzzfeed.com/natashajokic1/noah-cyrus-engaged",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-06/26/20/enhanced/3d10691d8730/original-460-1687810947-2.jpg?crop=1245:651;0,179%26downsize=1250:*",
-            "publishedAt": "2023-06-26T20:34:34Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Tom Tapp",
-            "title": "Real Life, Hot-Pink Barbie Dream House Spotted In Malibu - Deadline",
-            "description": "Barbie\u2019s Dreamhouse has enjoyed a wave of media attention of late, with Margot Robbie giving Architectural Digest an in-character tour of the set from Greta Gerwig\u2019s upcoming movie, Nic\u2026",
-            "url": "https://deadline.com/2023/06/real-life-hot-pink-barbie-dream-house-spotted-in-malibu-1235424773/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/margot-robbie-barbie-dreamhouse.jpg?w=1024",
-            "publishedAt": "2023-06-26T20:20:00Z",
-            "content": "Barbie\u2019s Dreamhouse has enjoyed a wave of media attention of late, with Margot Robbie giving Architectural Digestan in-character tour of the set from Greta Gerwig\u2019s upcoming movie, Nicki Minaj and Ic\u2026 [+1473 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Brian Paget",
-            "title": "'Hard Knocks' is reportedly zeroing in on the New York Jets, whether they like it or not - Yahoo Sports",
-            "description": "Even more cameras will soon be headed to the New York Jets' facility.",
-            "url": "https://sports.yahoo.com/hard-knocks-is-reportedly-zeroing-in-on-the-new-york-jets-whether-they-like-it-or-not-201846813.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W3y3qgWbKAP1JV6JIvCDeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/2c7788e0-144e-11ee-ac5f-70f17e5c4ae7",
-            "publishedAt": "2023-06-26T20:18:46Z",
-            "content": "Despite their best efforts, the 2023 New York Jets just can't escape the spotlight.\r\nAlready slated for six prime time games, the Jets are now \"bracing\" to be featured on \"Hard Knocks\"\u00a0this summer ac\u2026 [+1459 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vox"
-            },
-            "author": "Li Zhou",
-            "title": "The Greek election points to a resurgence of the far right - Vox.com",
-            "description": "Several right-wing parties walked away with some surprising \u2014 and troubling \u2014 wins.",
-            "url": "https://www.vox.com/politics/2023/6/26/23774334/greek-elections-new-democracy-spartans",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/1MDH7aIUIIpvcV7XNFKslawpKq4=/0x294:4000x2388/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24753647/1259076082.jpg",
-            "publishedAt": "2023-06-26T20:00:00Z",
-            "content": "Conservative and far-right politicians saw significant wins in the Greek election this past weekend, victories that could mean the continuation of harsh immigration policies and a renewed focus on ec\u2026 [+6106 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "C Mandler",
-            "title": "Tourist filmed carving his fianc\u00e9e's name onto the Colosseum: \"A sign of great incivility\" - CBS News",
-            "description": "\"I consider it very serious, unworthy and a sign of great incivility that a tourist defaces one of the most famous places in the world,\" said Italy's Minister of Culture Gennaro Sangiuliano.",
-            "url": "https://www.cbsnews.com/news/tourist-carving-fiancees-name-onto-colosseum-vandalism/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/26/6d92a6da-0b38-45f6-9033-ae56affb236e/thumbnail/1200x630/4589fa9a1af4b40861013d19d97adc79/gettyimages-1258958327.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
-            "publishedAt": "2023-06-26T19:43:06Z",
-            "content": "A man\u00a0was filmed carving his fianc\u00e9e's name onto the Colosseum in Rome, Italy, on Friday. The freestanding amphitheater is nearly 2,000 years old, and considered a UNESCO World Heritage Site.\u00a0\r\n\"I co\u2026 [+1280 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boston 25 News"
-            },
-            "author": "Julianne Lima",
-            "title": "\u2018Senseless act of violence\u2019: Three people slain in Newton home identified by relatives, church - Boston 25 News",
-            "description": "\u201cIt is with a heavy heart that we share that the terrible tragedy that happened yesterday in Newton hit very close to home,\u201d said relatives in a letter to their church community.",
-            "url": "https://www.boston25news.com/news/local/senseless-act-violence-three-victims-murder-newton-identified-by-relatives/LNMSBP5SJVDY5P7NWXOYONHEGE/",
-            "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/YFXZyuh8QwSaraHEVkxB0mUdF1o=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/WAW2AUVX5VEATAQONFUYEE7CAI.png",
-            "publishedAt": "2023-06-26T19:01:36Z",
-            "content": "NEWTON, Mass. \u2014 The pastor and community at Our Lady Help of Christians Church are remembering the three Newton residents found stabbed and bludgeoned to death in their Broadway Street home over the \u2026 [+3952 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "Putin has 'no excuse': Biden pushes back on suggestion West had role in Russia turmoil - USA TODAY",
-            "description": "President Joe Biden said that neither the U.S. nor its NATO allies were involved in the Wagner Group rebellion against Russia's Vladimir Putin",
-            "url": "https://www.usatoday.com/story/news/politics/2023/06/26/biden-russia-mutiny-putin-excuse/70357385007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/06/26/USAT/712a562e-a85d-424c-ba53-c24c0c8be0c9-biden_logo.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
-            "publishedAt": "2023-06-26T18:54:10Z",
-            "content": "WASHINGTON President Joe Biden said Monday that neither the U.S. nor its military allies had any role in the aborted mutiny in Russia, adding that Russian President Vladimir Putin has 'no excuse' to \u2026 [+1843 chars]"
+            "publishedAt": "2023-06-27T00:50:00Z",
+            "content": "Comment on this story\r\nComment\r\nLONDON The impact of the fiercest-ever challenge to Vladimir Putins 23-year presidency was still reverberating among Moscows elites Monday as questions swirled over wh\u2026 [+7219 chars]"
         }
     ]
 }
