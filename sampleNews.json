@@ -1,32 +1,227 @@
 {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 36,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Hajj: Price rises making pilgrimage increasingly unaffordable - BBC",
+            "description": "The pilgrimage to Mecca is becoming increasingly unaffordable for many Muslims across the world.",
+            "url": "https://www.bbc.com/news/world-middle-east-66040873",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1321A/production/_130226387_mediaitem130226386.jpg",
+            "publishedAt": "2023-06-28T09:32:39Z",
+            "content": "Some 1.8 million Muslims from across the world made it to Mount Arafat in Saudi Arabia on Tuesday to mark the most important day of the Hajj. But due to global price rises, the pilgrimage is becoming\u2026 [+4512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WABC-TV"
+            },
+            "author": null,
+            "title": "Travel woes worsen for passengers stranded at NYC-area airports due to cancelled flights - WABC-TV",
+            "description": "Hundreds of flights are already canceled as of early Wednesday morning.",
+            "url": "https://abc7ny.com/flight-cancellations-lga-newark-airport-jfk/13435476/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13435536_062823-wabc-flight-img.jpg?w=1600",
+            "publishedAt": "2023-06-28T09:11:15Z",
+            "content": "EAST ELMHURST, Queens (WABC) -- Hundreds of flights have already been cancelled as of early Wednesday morning, leaving thousands of travelers stranded and frustrated at local airports.\r\nNewark Airpor\u2026 [+3228 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Watch: Violence breaks out after video shows Paris traffic stop turning fatal - CNN",
+            "description": "French authorities are investigating the fatal police shooting of a 17-year-old teenager during a traffic stop near Paris. Videos of the incident have since emerged online. One of the two police officers involved in the incident is in custody on suspicion of \u2026",
+            "url": "https://www.cnn.com/videos/world/2023/06/28/teenager-shot-paris-police-traffic-stop-intl-ldn-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230628094527-paris-teen-demo-vpx.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-28T09:00:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kayla Jimenez",
+            "title": "Florida Gov. Ron DeSantis' feud with Disney World, explained - USA TODAY",
+            "description": "Gov. DeSantis's attorneys wrote that the federal court should dismiss a lawsuit in part because \"all of Disney\u2019s claims fail as a matter of law.\"",
+            "url": "https://www.usatoday.com/story/news/nation/2023/06/28/florida-gov-ron-desantis-legal-feud-with-disney-world-explained/70361872007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/21/USAT/d48e1fef-c716-47f9-b674-23d1f42a14db-AP_Election_2024_DeSantis_2.jpg?crop=5567,3132,x0,y283&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-28T08:56:45Z",
+            "content": "Florida Gov. Ron DeSantis wants out of his legal battle with Disney, according to court records filed by his attorneys this week.\r\nThe mass media company in April slapped the Republican presidential \u2026 [+5051 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jamie Chisholm",
+            "title": "Stock futures fall as report of fresh chips-to-China-ban hits Nvidia, others. - MarketWatch",
+            "description": "Nasdaq futures were leading early declines following a report that the Biden administration is considering a new ban on sales of AI chips to China.",
+            "url": "https://www.marketwatch.com/story/u-s-stock-futures-fall-after-report-of-fresh-chips-to-china-ban-hits-nvidia-and-other-ai-players-5940863d",
+            "urlToImage": "https://images.mktw.net/im-808323/social",
+            "publishedAt": "2023-06-28T08:39:00Z",
+            "content": "U.S. stock futures dipped on Wednesday, led by technology, as chip stocks retreated on reports Washington will issue a new ban on exports to China. On Tuesday, the Dow Jones Industrial Average \r\n DJI\u2026 [+2698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Intermittent Fasting vs. Calorie Counting: What Is Best for Weight Loss According to Science - SciTechDaily",
+            "description": "A study by the University of Illinois Chicago found that time-restricted eating (intermittent fasting) led to similar weight loss and improved insulin sensitivity as traditional calorie restriction among adults with obesity. Participants in the time-restricte\u2026",
+            "url": "https://scitechdaily.com/?p=288129",
+            "urlToImage": "https://scitechdaily.com/images/Diet-Weight-Loss-Failure-Success.jpg",
+            "publishedAt": "2023-06-28T08:33:24Z",
+            "content": "ByAmerican College of PhysiciansJune 28, 2023\r\nA randomized controlled trial conducted by researchers at the University of Illinois Chicago revealed that time-restricted eating (intermittent fasting)\u2026 [+4889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sujata Rao and Denitsa Tsekova",
+            "title": "Europe Shares Extend Rebound From Losing Streak: Markets Wrap - Yahoo Finance",
+            "description": "European stocks opened firmer, while US equity futures were pressured by report of new curbs on artificial intelligence chip sales to China.",
+            "url": "https://finance.yahoo.com/news/asian-shares-primed-gains-yields-223812576.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fBdYPSrrH8PFF05KzL0fYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/949f0dc5828f0b6fa071361c56a968f7",
+            "publishedAt": "2023-06-28T07:52:00Z",
+            "content": "(Bloomberg) European stocks opened firmer, while US equity futures were pressured by report of new curbs on artificial intelligence chip sales to China.\r\nMost Read from Bloomberg\r\nThe Stoxx Europe 60\u2026 [+4193 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2023 MLB Mock Draft: LSU teammates, College World Series champions Dylan Crews, Paul Skenes go No. 1 and 2 - CBS Sports",
+            "description": "The 2023 draft begins Sunday, July 9",
+            "url": "https://www.cbssports.com/mlb/news/2023-mlb-mock-draft-lsu-teammates-college-world-series-champions-dylan-crews-paul-skenes-go-no-1-and-2/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/27/3bbfc81d-7b1d-4394-a3c5-073be517bba2/thumbnail/1200x675/b263c82d805b9902afcb2597ab452c55/crews-getty.png",
+            "publishedAt": "2023-06-28T06:32:00Z",
+            "content": "The 2023 MLB Draft is a little more than two weeks away. Two years ago, MLB pushed the draft back from the first week of June to the All-Star break in an effort to better market the event, and it wil\u2026 [+1618 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "Rhett Bollinger",
+            "title": "Shohei Ohtani homers twice, strikes out 10 vs. White Sox - MLB.com",
+            "description": "ANAHEIM -- It could go down as one of the best months by a player in Major League history.\nTwo-way superstar Shohei Ohtani\u00a0continued his scorching hot June with yet another incredible showing, as he struck out 10 over 6 1/3 strong innings and also went 3-for-\u2026",
+            "url": "https://www.mlb.com/news/shohei-ohtani-homers-twice-strikes-out-10-vs-white-sox",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/h01woytjijaesfaxdrid.jpg",
+            "publishedAt": "2023-06-28T06:11:15Z",
+            "content": "ANAHEIM -- It could go down as one of the best months by a player in Major League history.\r\nTwo-way superstar Shohei Ohtani\u00a0continued his scorching hot June with yet another incredible showing, as he\u2026 [+4276 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Nicole Auerbach, Bruce Feldman, Jeff Zrebiec",
+            "title": "Ryan Mallett, former Arkansas star and NFL QB, dies at 35 - The Athletic",
+            "description": "A Michigan source confirmed to The Athletic that Mallett had drowned in Florida.",
+            "url": "https://theathletic.com/4646091/2023/06/27/ryan-mallett-dead-arkansas/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/27193112/GettyImages-104429014-1024x683.jpg",
+            "publishedAt": "2023-06-28T05:31:31Z",
+            "content": "By Nicole Auerbach, Bruce Feldman and Jeff Zrebiec\r\nFormer NFL quarterback Ryan Mallett died on Tuesday in Florida, according to the school district where he coached high school football. He was 35 y\u2026 [+5785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Kramatorsk: Russian missile strike hits restaurants in Ukrainian city - BBC",
+            "description": "A further 56 are injured in the Russian missile strike on Kramatorsk, Ukrainian officials say.",
+            "url": "https://www.bbc.com/news/world-europe-66031342",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA8E/production/_130224146_82bdd3a4698f8538374b203a6ae533619623763f.jpg",
+            "publishedAt": "2023-06-28T04:36:33Z",
+            "content": "Media caption, Watch: Shock and destruction after Russian missiles hit restaurants\r\nEight people have been killed, including three children, by Russian missiles that hit the centre of Kramatorsk in e\u2026 [+2876 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Euronews"
+            },
+            "author": "Tokunbo Salako",
+            "title": "Actor Julian Sands confirmed dead five months after California mountain hike - Euronews",
+            "description": "US authorities have confirmed the death of British actor Julian Sands five months after he went missing while hiking in California mountains.",
+            "url": "https://www.euronews.com/culture/2023/06/28/human-remains-found-in-search-for-missing-british-actor-julian-sands",
+            "urlToImage": "https://static.euronews.com/articles/stories/07/70/63/22/1000x563_cmsv2_93b3eaa4-50d8-574a-ae58-8a13aac7ac39-7706322.jpg",
+            "publishedAt": "2023-06-28T04:18:45Z",
+            "content": "US authorities have confirmed the death of British actor Julian Sands five months after he went missing while hiking in California mountains.\r\n The death of British actor Julian Sands has been confir\u2026 [+2770 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "NICHOLAS RICCARDI, DAVID A. LIEB",
+            "title": "Supreme Court rejects novel legislative theory but leaves a door open for 2024 election challenges - The Associated Press",
+            "description": "The U.S. Supreme Court has shot down a legal theory that could've changed the way elections are run across the country. But the court has left the door open to more limited challenges that could increase its role in deciding voting disputes during the 2024 pr\u2026",
+            "url": "https://apnews.com/article/supreme-court-state-legislatures-elections-voting-2024-eceb157b3e4f6628beec26a70d9aeaed",
+            "urlToImage": "https://dims.apnews.com/dims4/default/fee186a/2147483647/strip/true/crop/5876x3305+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F02%2Fe83cc168ac98b4688cd7abb3ced8%2Fd7a17fe4965a40f29d3b4e96e22d0330",
+            "publishedAt": "2023-06-28T04:13:00Z",
+            "content": "The U.S. Supreme Court shot down a controversial legal theory that could have changed the way elections are run across the country but left the door open to more limited challenges that could increas\u2026 [+6242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foreign Affairs"
+            },
+            "author": "Vladislav Zubok",
+            "title": "Russia's New Time of Troubles - Foreign Affairs Magazine",
+            "description": "It\u2019s not 1917 in Moscow\u2014it\u2019s 1604.",
+            "url": "https://www.foreignaffairs.com/russian-federation/russias-new-time-troubles",
+            "urlToImage": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/27/RTSKR2OG.JPG?itok=_I-K-BpF",
+            "publishedAt": "2023-06-28T04:00:00Z",
+            "content": "In the midst of the mercenary chief Yevgeny Prigozhins brief rebellion on June 24, Russian President Vladimir Putin compared the treason of the Wagner paramilitary leader with the revolutionary turmo\u2026 [+12269 chars]"
+        },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Elizabeth Napolitano",
-            "title": "United Airlines CEO blasts FAA call to cancel, delay flights amid bad weather - CBS News",
-            "description": "The FAA cancelled and delayed thousands of flights over the weekend amid stormy conditions in the Northeast.",
-            "url": "https://www.cbsnews.com/news/flight-delays-northeast-united-airlines-ceo-faa-newark-airport/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/05/fb2a8c7b-f00c-4679-bacb-14d4afb5e961/thumbnail/1200x630/2f208332a05d6ce9c2780ae040bc5ded/gettyimages-1246684316.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
-            "publishedAt": "2023-06-27T23:38:00Z",
-            "content": "Travelers aren't the only ones frustrated over a wave of flight cancellations that have snarled travel plans across the Northeast. One airline executive is also grumbling about the disruptions.\r\nUnit\u2026 [+3830 chars]"
+            "author": "Faris Tanyos",
+            "title": "NASCAR champion Jimmie Johnson's in-laws and their grandson found dead in Oklahoma home - CBS News",
+            "description": "Officers found the three dead after responding to a 911 call about a disturbance involving a gun.",
+            "url": "https://www.cbsnews.com/news/jimmie-johnson-in-laws-grandson-dead-muskogee-oklahoma-chandra-janway/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/28/d4200d19-513c-40a7-a451-6f55d48343eb/thumbnail/1200x630/d31dc76d077e82dd204676cdae8f7cd2/gettyimages-1496182941.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
+            "publishedAt": "2023-06-28T02:54:17Z",
+            "content": "Three relatives of NASCAR champion Jimmie Johnson were found dead Monday at a home in Muskogee, Oklahoma, after authorities were called to a disturbance involving a firearm. \u00a0\u00a0\r\nThe three were identi\u2026 [+1972 chars]"
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
             },
-            "author": null,
-            "title": "Former Arkansas, NFL QB Ryan Mallett dies in apparent drowning - ESPN - ESPN",
-            "description": "Former Arkansas QB Ryan Mallett, who went on to have a seven-year career in the NFL, died Tuesday in an apparent drowning at a Florida beach, according to the Okaloosa County Sheriff's Office. He was 35.",
-            "url": "https://www.espn.com/college-football/story/_/id/37924883/former-arkansas-nfl-qb-ryan-mallett-dies-35",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0627%2Fr1191374_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-06-27T23:19:00Z",
-            "content": "Jun 27, 2023, 07:19 PM ET\r\nFormer Arkansas quarterback Ryan Mallett, who went on to have a seven-year career in the NFL, died Tuesday in an apparent drowning at a Florida beach, according to the Okal\u2026 [+4362 chars]"
+            "author": "Maureen Lee Lenker",
+            "title": "Meet David Corenswet, the new Superman in James Gunn's DC Universe - Entertainment Weekly News",
+            "description": "Get to know Hollywood's next Man of Steel.",
+            "url": "https://ew.com/movies/superman-david-corenswet-everything-to-know/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C7%2C2000%2C1007&poi=%5B480%2C479%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F06%2F27%2FDavid-Corenswet-All-Star-Superman-Cast-01-062723.jpg",
+            "publishedAt": "2023-06-28T00:54:00Z",
+            "content": "Is it a bird, a plane? No, it's David Corenswet.\r\nThe star of Ryan Murphy'sHollywood and key supporting player in The Politicianis poised to don Superman's red cape (and Clark Kent's glasses) in Jame\u2026 [+5306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Marina Johnson, Nour Rahal",
+            "title": "Detroit air quality ranks second worst in world due to Canadian wildfires - Detroit Free Press",
+            "description": "On Tuesday, Detroit\u2019s air quality ranked second worst in the world again due to wildfires in Canada. The air quality alert remains in effect.",
+            "url": "https://www.freep.com/story/news/local/michigan/2023/06/27/detroit-air-quality-2nd-worst-canadian-wildfires/70362967007/",
+            "urlToImage": "https://www.freep.com/gcdn/presto/2023/06/27/PDTF/9c723c5d-d63e-4f01-83c1-490a39818f30-RG106413.jpg?crop=2399,1350,x0,y244&width=2399&height=1350&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-28T00:02:53Z",
+            "content": "As wildfires continue to destroy forests across Quebec and Ontario, parts of Michigan remain under an air quality alert until Wednesday night, according to the Michigan Department of Environment, Gre\u2026 [+1966 chars]"
         },
         {
             "source": {
@@ -43,224 +238,29 @@
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
             },
-            "author": "Mike Snider",
-            "title": "Colachup? Coachup? Pepsi cola ketchup combo latest odd pairing - USA TODAY",
-            "description": "Pepsi worked with the Culinary Institute of America to make a Pepsi-infused ketchup. You can try it at four Major League Baseball parks on July 4.",
-            "url": "https://www.usatoday.com/story/money/food/2023/06/27/pepsi-cola-ketchup-combo-mlb-parks-july-4/70361752007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/27/USAT/1b41eb1c-cb27-4c6d-b1b3-aa40347373e4-Pepsi_BWP_Hot_Dogs_1.jpg?crop=797,448,x1,y0&width=797&height=448&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-27T22:36:02Z",
-            "content": "Baseball, hot dogs and ketchup made with cola? That's what's coming to the plate at four Major League Baseball parks on July 4, courtesy of Pepsi.\r\nWe know Pepsi is not shy when it comes to mashing u\u2026 [+2165 chars]"
+            "author": "Joseph Longo",
+            "title": "Check Out Airbnb's Malibu Barbie DreamHouse - BuzzFeed",
+            "description": "Get your Kenergy on at Airbnb's Malibu Barbie DreamHouse.",
+            "url": "https://www.buzzfeed.com/josephlongo/malibu-barbie-dreamhouse-airbnb",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-06/27/22/enhanced/ddc50791723a/original-1218-1687904089-2.jpg?crop=1581:830;0,0%26downsize=1250:*",
+            "publishedAt": "2023-06-27T22:37:04Z",
+            "content": "Another important detail: The stays are free. \"All stays will be free of charge because Ken couldnt figure out how to put a price on Barbies Malibu DreamHouse after all, Kens thing is beach, not math\u2026 [+92 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Wallace Witkowski",
-            "title": "Nvidia, AMD stocks fall on report of new AI chip bans from Biden administration - MarketWatch",
-            "description": "AI has driven 187% stock gain for Nvidia in 2023, 70% rise in AMD shares",
-            "url": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
-            "urlToImage": "https://images.mktw.net/im-790609/social",
-            "publishedAt": "2023-06-27T22:30:00Z",
-            "content": "Shares of Nvidia Corp. and Advanced Micro Devices Inc. slumped in the extended session Tuesday following a report that the Biden administration is considering a new ban on sales of AI chips to China.\u2026 [+2128 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Lauren del Valle, Kara Scannell, Piper Hudspeth Blackburn",
-            "title": "Judge skeptical of Trump\u2019s plea to move NY criminal case to federal court - CNN",
-            "description": "A judge appears poised to reject former President Donald Trump\u2019s attempt to move the New York criminal case that accuses him of falsifying business records tied to a hush money payment to federal court.",
-            "url": "https://www.cnn.com/2023/06/27/politics/trump-new-york-federal-court/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230404165019-trump-bragg-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-27T22:29:00Z",
-            "content": "A judge appears poised to reject former President Donald Trumps attempt to move the New York criminal case that accuses him of falsifying business records tied to a hush money payment to federal cour\u2026 [+4055 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Kyle Wiggers",
-            "title": "OpenAI\u2019s ChatGPT app can now search the web \u2014 but only via Bing - TechCrunch",
-            "description": "ChatGPT on mobile can now surf the web. But only via Bing -- there's no way to change the default search engine.",
-            "url": "https://techcrunch.com/2023/06/27/openais-chatgpt-app-can-now-search-the-web-but-only-via-bing/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1256069284.jpg?resize=1200,900",
-            "publishedAt": "2023-06-27T22:04:58Z",
-            "content": "ChatGPT on mobile can now surf the web. But only via Bing.\r\nToday, OpenAI announced that subscribers to ChatGPT Plus, the premium version of the company\u2019s AI-powered chatbot, can use a new feature on\u2026 [+1893 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Ryan Seacrest to replace Pat Sajak on Wheel of Fortune - BBC",
-            "description": "The US TV personality will begin hosting the iconic game show in 2024 alongside co-host Vanna White.",
-            "url": "https://www.bbc.com/news/world-us-canada-66038095",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17658/production/_130223859_gettyimages-1357053233.jpg",
-            "publishedAt": "2023-06-27T21:47:19Z",
-            "content": "US TV personality Ryan Seacrest will take the helm of the iconic Wheel of Fortune game show in 2024. \r\nHe will replace Pat Sajak, who recently announced he would retire after more than 40 years hosti\u2026 [+1513 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jennifer Hansler",
-            "title": "US imposes new sanctions related to gold dealing to fund Wagner Group - CNN",
-            "description": "The US Treasury Department on Tuesday imposed sanctions on four companies involved in \u201cgold dealing\u201d and one person they say made \u201cweapons deals\u201d tied to the Wagner Group.",
-            "url": "https://www.cnn.com/2023/06/27/politics/us-wagner-group-sanctions/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130155115-file-wagner-center-2022.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-27T21:10:00Z",
-            "content": "The US Treasury Department on Tuesday imposed sanctions on four companies involved in gold dealing and one person they say made weapons deals tied to the Wagner Group.\r\nThe announcement of the sancti\u2026 [+2445 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "Four Volunteers Locked in Simulated Martian Habitat for a Year - Gizmodo",
-            "description": "NASA's Mars habitat was created to prepare crews for the physical and mental challenges of living on another planet.",
-            "url": "https://gizmodo.com/four-volunteers-locked-simulated-martian-habitat-year-1850582490",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/69b3c34a8f322636eb3aea00ef9b8510.jpg",
-            "publishedAt": "2023-06-27T20:50:00Z",
-            "content": "On Sunday, four researchers donned black jumpsuits and entered into a red world where they will spend a year living and working in a simulated Martian environment. \r\nNASAs CHAPEA habitat, or Crew Hea\u2026 [+2912 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Tom Tapp",
-            "title": "Julian Sands Dead At 65: \u2018Smallville\u2019 & \u2018Leaving Las Vegas\u2019 Actor\u2019s Body Found Near Mount Baldy, Sheriff Confirms - Deadline",
-            "description": "After six months of searching, the San Bernardino County Sheriff\u2019s office confirmed today that the human remains found earlier this week by hikers were, indeed, those of actor Julian Sands. H\u2026",
-            "url": "https://deadline.com/2023/06/julian-sands-dead-body-found-confirmed-1235425568/comment-page-1/#comments",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/02/julian-sands.jpg?w=1024",
-            "publishedAt": "2023-06-27T20:23:00Z",
-            "content": "After six months of searching, the San Bernardino County Sheriff\u2019s office confirmed today that the human remains found earlier this week by hikers were, indeed, those of actor Julian Sands. He had be\u2026 [+4594 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "name": "PBS"
             },
             "author": null,
-            "title": "Jimmie Johnson won't take part in NASCAR Chicago Street Race - WGN News",
-            "description": "Larry Hawley has more on why here: https://tinyurl.com/2ats96nw",
-            "url": "https://www.youtube.com/watch?v=ZVRVQZ2YlJM",
-            "urlToImage": "https://i.ytimg.com/vi/ZVRVQZ2YlJM/maxresdefault.jpg",
-            "publishedAt": "2023-06-27T20:12:05Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Mike Wall",
-            "title": "Perseverance rover spots donut-shaped rock on Mars (photo) - Space.com",
-            "description": "It might be a large meteorite.",
-            "url": "https://www.space.com/mars-rover-perseverance-donut-rock-photo",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QgRBXsef3t95b35fXse23V-1200-80.jpg",
-            "publishedAt": "2023-06-27T20:00:46Z",
-            "content": "NASA's Mars rover Perserverance snapped this photo of a possible meteorite on the Red Planet on June 23, 2023. (Image credit: Future)\r\nNASA's Perseverance Mars rover has rolled up on a rocky donut th\u2026 [+2171 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Justin Kroll",
-            "title": "\u2018Superman: Legacy\u2019: James Gunn Taps David Corenswet And Rachel Brosnahan To Play Clark Kent And Lois Lane In DC Studios Film - Deadline",
-            "description": "Following months of audition tapes and in-person screen tests, Warner Bros and DC Studios have their new Clark Kent and Lois Lane. David Corenswet has been set to play Superman while Rachel Brosnah\u2026",
-            "url": "https://deadline.com/2023/06/superman-legacy-david-corenswet-rachel-brosnahan-cast-1235420180/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/David-Corenswet-Rachel-Brosnahan-2.jpg?w=1000",
-            "publishedAt": "2023-06-27T19:59:00Z",
-            "content": "Following months of audition tapes and in-person screen tests, Warner Bros and DC Studios have their new Clark Kent and Lois Lane. David Corenswet has been set to play Superman while Rachel Brosnahan\u2026 [+2800 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Belarus leader welcomes Wagner boss Prigozhin into exile - BBC",
-            "description": "Yevgeny Prigozhin, who led a Russian mutiny, arrives in Belarus and his men are offered a military base.",
-            "url": "https://www.bbc.com/news/world-europe-66029636",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34DC/production/_130223531_69988bfebd0db826098c05187a707f63479c26f20_229_4437_24961000x563.jpg",
-            "publishedAt": "2023-06-27T19:47:22Z",
-            "content": "The leader of Russia's 24-hour mutiny, Yevgeny Prigozhin, has arrived in Belarus, three days after his Wagner mercenary group's mutiny came to an end 200km (125 miles) south of Moscow.\r\n\"Yes, indeed,\u2026 [+5862 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Salon"
-            },
-            "author": "David Clayton",
-            "title": "Intermittent fasting and calorie counting about equal for weight loss, according to new study - Salon",
-            "description": "The importance of counseling and support, regardless of the method of weight loss",
-            "url": "https://www.salon.com/2023/06/27/intermittent-fasting-and-calorie-counting-about-equal-for-weight-loss-according-to-new-study_partner/",
-            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/12/scale_tape_measure_weight_1156947930.jpg",
-            "publishedAt": "2023-06-27T19:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "John Fritze",
-            "title": "Supreme Court rejects theory that could have transformed elections - USA TODAY",
-            "description": "In a win for voting rights groups, the court rejected the North Carolina GOP argument that state lawmakers should have wide power over election rules.",
-            "url": "https://www.usatoday.com/story/news/politics/2023/06/27/supreme-court-decision-independent-state-legisltaure-doctrine/11514835002/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/03/21/USAT/91965fc1-fb2e-46b8-ae3b-7df6baaf2b53-AP_Washington_Spring.jpg?crop=8421,4737,x0,y428&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-27T18:56:08Z",
-            "content": "WASHINGTON\u00a0 The Supreme Court on Tuesday shot down a conservative theory that could have given state lawmakers extraordinary power to set election rules in their states with little oversight from cou\u2026 [+4874 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jason Owens",
-            "title": "Alcohol sales will be banned at Paris Olympics except for VIPs - Yahoo Sports",
-            "description": "If you want a drink at the Paris Olympics, be prepared to shell out.",
-            "url": "https://sports.yahoo.com/alcohol-sales-will-be-banned-at-paris-olympics-except-for-vips-183952045.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AnxOacSN.Dk514kJeVrhKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTI-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/31d51d40-1519-11ee-ade9-3600f4696e80",
-            "publishedAt": "2023-06-27T18:39:52Z",
-            "content": "A country world-renowned for its alcohol exports will limit public consumption during the 2024 Olympics. (Reuters/Regis Duvignau)\r\nIf you want a drink at the Paris Olympics, be prepared to shell out.\u2026 [+2031 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Allison Quinn",
-            "title": "'Putin's Fucked': Russian Soldier Cheers on Prigozhin's Uprising With Wagner Group - The Daily Beast",
-            "description": "\u201cLet them make it to the f*cking Kremlin and get rid of that jackass Putin.\u201d",
-            "url": "https://www.thedailybeast.com/putins-fucked-russian-soldier-cheers-on-prigozhins-uprising-with-wagner-group",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1275,w_2266,x_0,y_75/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1687888606/2023-06-27T135505Z_228123553_RC2PR1A0W5M1_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-PUTIN_jnuf34",
-            "publishedAt": "2023-06-27T18:22:39Z",
-            "content": "While Russian President Vladimir Putin insists that his nation is more united than ever before following the Wagner Groups armed uprising over the weekend, a Russian soldier has apparently been caugh\u2026 [+2600 chars]"
-        },
-        {
-            "source": {
-                "id": "entertainment-weekly",
-                "name": "Entertainment Weekly"
-            },
-            "author": "Jessica Wang",
-            "title": "Margot Robbie reveals the change that made her say yes to the 'Barbie' movie - Entertainment Weekly News",
-            "description": "\"I don't think you should say, 'This is the one version of what Barbie is, and that's what women should aspire to be and look like and act like.'\"",
-            "url": "https://ew.com/movies/margot-robbie-barbie-plot-change-made-her-say-yes-to-movie/",
-            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C70%2C2000%2C1070&poi=%5B920%2C39%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F06%2F27%2FBarbie-062723.jpg",
-            "publishedAt": "2023-06-27T18:05:00Z",
-            "content": "Margot Robbie wouldn't have stepped into Barbie's dream house if she were the only one playing a version of the beloved Mattel doll in the upcoming Barbie movie.\r\nIn a new Time cover story, the star \u2026 [+2032 chars]"
+            "title": "Mississippi sheriff fires deputies accused of sexually assaulting Black men and shooting one in mouth - PBS NewsHour",
+            "description": "Mississippi deputies accused of beating and sexually assaulting two Black men before shooting one of them in the mouth have been fired.",
+            "url": "https://www.pbs.org/newshour/nation/mississippi-sheriff-fires-deputies-accused-of-sexually-assaulting-black-men-and-shooting-one-in-mouth",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2022/05/GettyImages-1291135403-1024x683.jpg",
+            "publishedAt": "2023-06-27T22:18:22Z",
+            "content": "JACKSON, Miss. (AP) Deputies accused of beating and sexually assaulting two Black men before shooting one of them in the mouth, prompting a federal civil rights investigation, have been fired, a Miss\u2026 [+2898 chars]"
         }
     ]
 }
