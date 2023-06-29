@@ -1,175 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 31,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Amarachi Orie",
-            "title": "Tourist filmed carving his girlfriend\u2019s name into Rome\u2019s Colosseum - CNN",
-            "description": "Italy\u2019s culture minister is calling for a man to be \u201cidentified and sanctioned\u201d after he was filmed allegedly carving his and his fianc\u00e9e\u2019s names into the Colosseum in Rome.",
-            "url": "https://www.cnn.com/travel/article/tourist-inscribes-name-colosseum-rome-intl-scli/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230626103914-rome-colosseum-carving-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-27T09:45:00Z",
-            "content": "Italys culture minister is calling for a man to be identified and sanctioned after he was filmed allegedly carving his and his fianc\u00e9es names into the Colosseum in Rome.\r\nGennaro Sangiuliano tweeted \u2026 [+1158 chars]"
+            "author": "Elizabeth Napolitano",
+            "title": "United Airlines CEO blasts FAA call to cancel, delay flights amid bad weather - CBS News",
+            "description": "The FAA cancelled and delayed thousands of flights over the weekend amid stormy conditions in the Northeast.",
+            "url": "https://www.cbsnews.com/news/flight-delays-northeast-united-airlines-ceo-faa-newark-airport/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/05/fb2a8c7b-f00c-4679-bacb-14d4afb5e961/thumbnail/1200x630/2f208332a05d6ce9c2780ae040bc5ded/gettyimages-1246684316.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
+            "publishedAt": "2023-06-27T23:38:00Z",
+            "content": "Travelers aren't the only ones frustrated over a wave of flight cancellations that have snarled travel plans across the Northeast. One airline executive is also grumbling about the disruptions.\r\nUnit\u2026 [+3830 chars]"
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Kayna Whitworth, Josh Margolin, Sasha Pezenik",
-            "title": "Idaho college killings suspect was first arrested in 2014, records show - ABC News",
-            "description": "Kohberger's father reported the incident to police, records show.",
-            "url": "https://abcnews.go.com/US/idaho-college-killings-suspect-first-arrested-2014-records-show/story?id=100394285",
-            "urlToImage": "https://s.abcnews.com/images/US/Kohberger-AP-SG-61_hpMain_20230610-212646_2_16x9_992.jpg",
-            "publishedAt": "2023-06-27T09:12:32Z",
-            "content": "Nine years before he was accused of killing four college students in Idaho, Bryan Kohberger was arrested in his native Pennsylvania and charged with misdemeanor theft for allegedly stealing his siste\u2026 [+7625 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WABC-TV"
+                "id": "espn",
+                "name": "ESPN"
             },
             "author": null,
-            "title": "Delays, cancellations worsen at LaGuardia, JFK, Newark airports amid lingering storms - WABC-TV",
-            "description": "Officials report United Airlines stands at around 300 flights canceled, which makes up 10 percent of the airline's schedule.",
-            "url": "https://abc7ny.com/flight-status-lga-laguardia-airport-delays/13431922/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13431958_062723-wabc-delays-img.jpg?w=1600",
-            "publishedAt": "2023-06-27T09:00:00Z",
-            "content": "EAST ELMHURST, Queens (WABC) -- Tuesday is set to be another tough day for New York City area travelers amid lingering storms in the area.\r\nAs of Tuesday morning, here's a count of delays and cancell\u2026 [+2954 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Trump heard on tape discussing 'highly confidential, secret' documents - BBC",
-            "description": "It appears to be the same recording cited by prosecutors in their indictment of the former president.",
-            "url": "https://www.bbc.com/news/world-us-canada-66027036",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7F77/production/_130213623_gettyimages-1259028498.jpg",
-            "publishedAt": "2023-06-27T08:40:17Z",
-            "content": "Media caption, Listen: Trump discusses secret documents in an audio recording first obtained by CNN\r\nAn audio recording in which Donald Trump appears to acknowledge keeping a classified document afte\u2026 [+2451 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Foundation of All Known Life: Webb Telescope Makes First Detection of Crucial Carbon Molecule - SciTechDaily",
-            "description": "This molecule, never before seen in space, is believed to be a cornerstone of interstellar organic chemistry. Carbon compounds form the foundations of all known life, and as such are of particular interest to scientists working to understand both how life dev\u2026",
-            "url": "https://scitechdaily.com/foundation-of-all-known-life-webb-telescope-makes-first-detection-of-crucial-carbon-molecule/",
-            "urlToImage": "https://scitechdaily.com/images/Webb-Space-Telescope-Organic-Molecule-Discovery-Concept-Art.jpg",
-            "publishedAt": "2023-06-27T08:33:57Z",
-            "content": "BySpace Telescope Science InstituteJune 27, 2023\r\nScientists have detected a new carbon compound, methyl cation, in space for the first time using NASAs James Webb Space Telescope. This compound, cru\u2026 [+9248 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Lily Kuo",
-            "title": "China's premier, trying to boost economy, says west is sowing division - The Washington Post",
-            "description": "China's economy is slowing and unemployment rising as the country struggles to emerge from zero covid policies. Talk of \u00ab de-risking \u00bb isn't helping either.",
-            "url": "https://www.washingtonpost.com/world/2023/06/27/china-economy-li-qiang-west/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFVF46DBFUDEC5MBAOVHUNHGGQ_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-06-27T08:17:00Z",
-            "content": "Comment on this story\r\nComment\r\nTIANJIN, China Chinese Premier Li Qiang on Tuesday accused Western nations of sowing division and confrontation, in thinly veiled criticisms of Washington, as he sough\u2026 [+5109 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": null,
-            "title": "Russian authorities drop charges against mercenary chief Prigozhin and others involved in the armed rebellion - The Associated Press",
-            "description": "Russian authorities drop charges against mercenary chief Prigozhin and others involved in the armed rebellion.",
-            "url": "https://apnews.com/world-news/russia-government-general-news-32eb81b604ebd4ab6a49381ed99ede2f",
-            "urlToImage": "https://dims.apnews.com/dims4/default/c3db278/2147483647/strip/true/crop/6000x3375+0+313/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2F7e%2F3cc80ab4980e15ff4e0b2fafc999%2Fba602934bf4240b8a65c872784471bb9",
-            "publishedAt": "2023-06-27T08:13:00Z",
-            "content": "FILE - Yevgeny Prigozhin, the owner of the Wagner Group military company, arrives during a funeral ceremony at the Troyekurovskoye cemetery in Moscow, Russia, on April 8, 2023. On Friday, June 23, Pr\u2026 [+216 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": null,
-            "title": "Smartphones could soon have 24GB of RAM, because reasons (Update: Confirmed?) - Android Authority",
-            "description": "We've already seen phones with 12GB, 16GB, and even 18GB of RAM, but it seems like 24GB of RAM could be next.",
-            "url": "https://www.androidauthority.com/24gb-ram-smartphones-3338968/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/04/OPPO-Find-X6-Pro-bloatware-removed-appdrawer.jpg",
-            "publishedAt": "2023-06-27T06:50:00Z",
-            "content": "<ul><li>A trusted leaker has claimed that phones with up to 24GB of RAM are on the way.</li><li>It seems like OPPO or OnePlus could offer this phone.</li><li>REDMAGIC has since announced that it will\u2026 [+1927 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Thao Nguyen",
-            "title": "Malaria cases in Texas and Florida are the first US spread in 20 years, CDC says - USA TODAY",
-            "description": "The CDC issued a public health alert Monday warning the public about acquired cases of malaria reported in the United States, the first in 20 years.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/06/27/malaria-cases-united-states-cdc-warning/70359435007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2019/12/03/USAT/e11991d3-6de8-43b6-af79-da01b51d21cb-GettyImages-1073160004.jpg?crop=2120,1193,x0,y107&width=2120&height=1193&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-27T05:39:06Z",
-            "content": "The United States has seen five cases of malaria spread by mosquitos in the last two months, the first time theres been local spread in 20 years prompting officials to issue a public health alert war\u2026 [+5185 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "Jake Rill",
-            "title": "Jordan Westburg collects first MLB hit and RBI in debut - MLB.com",
-            "description": "BALTIMORE -- The dark, overcast sky broke open and a torrential downpour fell to the ground. The crowd of orange-clad fans toughed through it, producing chants of \u201cWes-ty! Wes-ty!\u201d that stormed down as equally hard as the rain.\nJordan Westburg almost couldn\u2019t\u2026",
-            "url": "https://www.mlb.com/news/jordan-westburg-collects-first-mlb-hit-and-rbi-in-debut",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/sk3bn59ctzf1qhnpt7tb.jpg",
-            "publishedAt": "2023-06-27T04:18:32Z",
-            "content": "BALTIMORE -- The dark, overcast sky broke open and a torrential downpour fell to the ground. The crowd of orange-clad fans toughed through it, producing chants of Wes-ty! Wes-ty! that stormed down as\u2026 [+4872 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "nj.com"
-            },
-            "author": "Holiday Mathis",
-            "title": "Today\u2019s daily horoscope for June 27, 2023 - NJ.com",
-            "description": "Zodiac signs and horoscopes on 6/27/23 for Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn.",
-            "url": "https://www.nj.com/advice/2023/06/todays-daily-horoscope-for-june-27-2023.html",
-            "urlToImage": "https://www.nj.com/resizer/y0GkxcEcKp6NoyUc0LAtx7APmMY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SAGJVB5QCZCNFBN2U2NE2O4GTE.png",
-            "publishedAt": "2023-06-27T04:01:00Z",
-            "content": "Lovers Moon\r\nA service announcement from the Libra moon: Healthy relationships are built on mutual understanding, support and a genuine desire for each others well-being. Dysfunctional relationships \u2026 [+4217 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WVIR"
-            },
-            "author": null,
-            "title": "Texas medical examiner says airline worker pulled into jet engine died by suicide - NBC 29",
-            "description": "The Federal Aviation Administration indicated that it would investigate.",
-            "url": "https://www.nbc29.com/2023/06/27/texas-medical-examiner-says-airline-worker-pulled-into-jet-engine-died-by-suicide/",
-            "urlToImage": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/XCL-wq4_IvLP1ovxbbjkT4hqnZE=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/ONOIB2EM65HMNDHS4WX2ZOEJL4.jpg",
-            "publishedAt": "2023-06-27T03:35:00Z",
-            "content": "SAN ANTONIO (AP) - A ground worker died Friday night when he was sucked into an engine of a jet that had just landed at San Antonio International Airport, and the local medical examiner is ruling it \u2026 [+2265 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WESH Orlando"
-            },
-            "author": "Daren Stoltzfus",
-            "title": "LSU wins 1st College World Series title since 2009, beating Florida 18-4 one day after 20-run loss - WESH 2 Orlando",
-            "description": "A day after it gave up the most runs ever in a College World Series game, LSU cranked up its offense and won its first national title since 2009.",
-            "url": "https://www.wesh.com/article/florida-college-world-series/44347572",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/untitled-design-9-649a3e2bb5e21.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-            "publishedAt": "2023-06-27T03:32:00Z",
-            "content": "OMAHA, Neb. \u2014WESH 2 Sports Director Daren Stoltzfus will have a live pre-game report from Omaha on WESH 2 News at 5 p.m., plus highlights at 11 p.m.\r\nThe Tigers beat Florida 18 to 4. It is their seve\u2026 [+5751 chars]"
+            "title": "Former Arkansas, NFL QB Ryan Mallett dies in apparent drowning - ESPN - ESPN",
+            "description": "Former Arkansas QB Ryan Mallett, who went on to have a seven-year career in the NFL, died Tuesday in an apparent drowning at a Florida beach, according to the Okaloosa County Sheriff's Office. He was 35.",
+            "url": "https://www.espn.com/college-football/story/_/id/37924883/former-arkansas-nfl-qb-ryan-mallett-dies-35",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0627%2Fr1191374_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-06-27T23:19:00Z",
+            "content": "Jun 27, 2023, 07:19 PM ET\r\nFormer Arkansas quarterback Ryan Mallett, who went on to have a seven-year career in the NFL, died Tuesday in an apparent drowning at a Florida beach, according to the Okal\u2026 [+4362 chars]"
         },
         {
             "source": {
@@ -177,90 +34,233 @@
                 "name": "Axios"
             },
             "author": "Axios",
-            "title": "Club Q shooter gets life in prion over Colorado LGBTQ nightclub attack - Axios",
+            "title": "Costco cracking down on membership card sharing at self-checkout - Axios",
             "description": null,
-            "url": "https://www.axios.com/2023/06/27/colorado-club-q-shooting-colorado-shooter-sentenced",
+            "url": "https://www.axios.com/2023/06/27/costco-membership-sharing-crackdown-self-checkout",
             "urlToImage": null,
-            "publishedAt": "2023-06-27T02:38:36Z",
+            "publishedAt": "2023-06-27T22:43:43Z",
             "content": null
         },
         {
             "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Max Seddon, Polina Ivanova, Lucy Fisher",
-            "title": "Vladimir Putin accuses Wagner Group leaders of betraying Russia - Financial Times",
-            "description": "President insists insurrection was doomed from outset in first public comments since shortlived mutiny",
-            "url": "https://www.ft.com/content/3bc853e9-30c4-47a8-9d0a-9f9f5b384447",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff811165a-8d94-47f7-a68c-808629ec4412.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-06-27T01:30:00Z",
-            "content": "Russian president Vladimir Putin has condemned the organisers of last weekends shortlived mutiny, saying they had betrayed their country and the fighters in their command.\r\nIn his first public commen\u2026 [+4489 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Emily Mae Czachor",
-            "title": "Billionaire James Crown dies in crash at Colorado racetrack - Yahoo News",
-            "description": "The 70-year-old's official cause of death is still under investigation, but the coroner said \"blunt force trauma is evident\" from the crash.",
-            "url": "https://www.cbsnews.com/news/james-crown-dies-car-crash-colorado-racetrack-chicago-billionaire/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/26/adbea946-ea51-4eba-8b67-18d9f617c87e/thumbnail/1200x630/d4b3f5495169a49aa2c6bf24472ce36e/james-crown.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
-            "publishedAt": "2023-06-27T01:17:00Z",
-            "content": "Billionaire James Crown dies in car accident \r\nBillionaire James Crown dies in car accident00:46\r\nA prominent Chicago billionaire died in a car crash Sunday at a racetrack in Colorado, officials said\u2026 [+2422 chars]"
+            "author": "Mike Snider",
+            "title": "Colachup? Coachup? Pepsi cola ketchup combo latest odd pairing - USA TODAY",
+            "description": "Pepsi worked with the Culinary Institute of America to make a Pepsi-infused ketchup. You can try it at four Major League Baseball parks on July 4.",
+            "url": "https://www.usatoday.com/story/money/food/2023/06/27/pepsi-cola-ketchup-combo-mlb-parks-july-4/70361752007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/27/USAT/1b41eb1c-cb27-4c6d-b1b3-aa40347373e4-Pepsi_BWP_Hot_Dogs_1.jpg?crop=797,448,x1,y0&width=797&height=448&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-27T22:36:02Z",
+            "content": "Baseball, hot dogs and ketchup made with cola? That's what's coming to the plate at four Major League Baseball parks on July 4, courtesy of Pepsi.\r\nWe know Pepsi is not shy when it comes to mashing u\u2026 [+2165 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WABC-TV"
+                "name": "MarketWatch"
             },
-            "author": null,
-            "title": "Congestion pricing: MTA receives final approval from the Federal Highway Administration - WABC-TV",
-            "description": "The green light comes from the Federal Highway Administration, which issued a Finding of No Significant Impact from congestion pricing.",
-            "url": "https://abc7ny.com/mta-congestion-pricing-final-approval-nyc/13431892/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13429772_062623-congestion-pricing.jpg?w=1600",
-            "publishedAt": "2023-06-27T01:07:30Z",
-            "content": "NEW YORK CITY (WABC) -- New York Governor Hochul is expected to make that major announcement that the federal government has given its approval of the MTA's congestion pricing plan. However, the figh\u2026 [+4410 chars]"
+            "author": "Wallace Witkowski",
+            "title": "Nvidia, AMD stocks fall on report of new AI chip bans from Biden administration - MarketWatch",
+            "description": "AI has driven 187% stock gain for Nvidia in 2023, 70% rise in AMD shares",
+            "url": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
+            "urlToImage": "https://images.mktw.net/im-790609/social",
+            "publishedAt": "2023-06-27T22:30:00Z",
+            "content": "Shares of Nvidia Corp. and Advanced Micro Devices Inc. slumped in the extended session Tuesday following a report that the Biden administration is considering a new ban on sales of AI chips to China.\u2026 [+2128 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren del Valle, Kara Scannell, Piper Hudspeth Blackburn",
+            "title": "Judge skeptical of Trump\u2019s plea to move NY criminal case to federal court - CNN",
+            "description": "A judge appears poised to reject former President Donald Trump\u2019s attempt to move the New York criminal case that accuses him of falsifying business records tied to a hush money payment to federal court.",
+            "url": "https://www.cnn.com/2023/06/27/politics/trump-new-york-federal-court/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230404165019-trump-bragg-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-27T22:29:00Z",
+            "content": "A judge appears poised to reject former President Donald Trumps attempt to move the New York criminal case that accuses him of falsifying business records tied to a hush money payment to federal cour\u2026 [+4055 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "OpenAI\u2019s ChatGPT app can now search the web \u2014 but only via Bing - TechCrunch",
+            "description": "ChatGPT on mobile can now surf the web. But only via Bing -- there's no way to change the default search engine.",
+            "url": "https://techcrunch.com/2023/06/27/openais-chatgpt-app-can-now-search-the-web-but-only-via-bing/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1256069284.jpg?resize=1200,900",
+            "publishedAt": "2023-06-27T22:04:58Z",
+            "content": "ChatGPT on mobile can now surf the web. But only via Bing.\r\nToday, OpenAI announced that subscribers to ChatGPT Plus, the premium version of the company\u2019s AI-powered chatbot, can use a new feature on\u2026 [+1893 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Nbcsportsbayarea.com"
+                "name": "BBC News"
             },
-            "author": "Tristi Rodriguez",
-            "title": "Wembanyama includes Steph in starting five to save planet - Yahoo Sports",
-            "description": "If the planet was in danger, Victor Wembanyama knows just who to call.",
-            "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/victor-wembanyama-steph-curry/1636523/",
-            "urlToImage": "https://media.nbcsportsbayarea.com/2023/06/steph-curry-victor-wembanyama-USATSI.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2023-06-27T00:59:00Z",
-            "content": "If the planet were in danger, Victor Wembanyama knows just who to call. \r\nThe 7-foot-5 No. 1 overall pick in the 2023 NBA Draft was asked by For The Win to put together a starting five of former and \u2026 [+902 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ryan Seacrest to replace Pat Sajak on Wheel of Fortune - BBC",
+            "description": "The US TV personality will begin hosting the iconic game show in 2024 alongside co-host Vanna White.",
+            "url": "https://www.bbc.com/news/world-us-canada-66038095",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17658/production/_130223859_gettyimages-1357053233.jpg",
+            "publishedAt": "2023-06-27T21:47:19Z",
+            "content": "US TV personality Ryan Seacrest will take the helm of the iconic Wheel of Fortune game show in 2024. \r\nHe will replace Pat Sajak, who recently announced he would retire after more than 40 years hosti\u2026 [+1513 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Hansler",
+            "title": "US imposes new sanctions related to gold dealing to fund Wagner Group - CNN",
+            "description": "The US Treasury Department on Tuesday imposed sanctions on four companies involved in \u201cgold dealing\u201d and one person they say made \u201cweapons deals\u201d tied to the Wagner Group.",
+            "url": "https://www.cnn.com/2023/06/27/politics/us-wagner-group-sanctions/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130155115-file-wagner-center-2022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-27T21:10:00Z",
+            "content": "The US Treasury Department on Tuesday imposed sanctions on four companies involved in gold dealing and one person they say made weapons deals tied to the Wagner Group.\r\nThe announcement of the sancti\u2026 [+2445 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Four Volunteers Locked in Simulated Martian Habitat for a Year - Gizmodo",
+            "description": "NASA's Mars habitat was created to prepare crews for the physical and mental challenges of living on another planet.",
+            "url": "https://gizmodo.com/four-volunteers-locked-simulated-martian-habitat-year-1850582490",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/69b3c34a8f322636eb3aea00ef9b8510.jpg",
+            "publishedAt": "2023-06-27T20:50:00Z",
+            "content": "On Sunday, four researchers donned black jumpsuits and entered into a red world where they will spend a year living and working in a simulated Martian environment. \r\nNASAs CHAPEA habitat, or Crew Hea\u2026 [+2912 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Deadline"
             },
-            "author": "Armando Tinoco",
-            "title": "\u2018Vanderpump Rules\u2019 Season 11 Sets Filming Start Date; Lala Kent Says It\u2019s Giving Her \u201cAnxiety\u201d - Deadline",
-            "description": "Lala Kent is experiencing \u201canxiety\u201d as Vanderpump Rules Season 11 starts filming. The fallout of \u201cScandoval\u201d continues and the Bravo cameras are set to start capturing the d\u2026",
-            "url": "https://deadline.com/2023/06/vanderpump-rules-season-11-sets-filming-start-date-lala-kent-1235425042/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/01/vanderpump-rules-season-10.jpg?w=1000",
-            "publishedAt": "2023-06-27T00:57:00Z",
-            "content": "Lala Kent is experiencing \u201canxiety\u201d as Vanderpump Rules Season 11 starts filming. The fallout of \u201cScandoval\u201d continues and the Bravo cameras are set to start capturing the drama this week according t\u2026 [+1343 chars]"
+            "author": "Tom Tapp",
+            "title": "Julian Sands Dead At 65: \u2018Smallville\u2019 & \u2018Leaving Las Vegas\u2019 Actor\u2019s Body Found Near Mount Baldy, Sheriff Confirms - Deadline",
+            "description": "After six months of searching, the San Bernardino County Sheriff\u2019s office confirmed today that the human remains found earlier this week by hikers were, indeed, those of actor Julian Sands. H\u2026",
+            "url": "https://deadline.com/2023/06/julian-sands-dead-body-found-confirmed-1235425568/comment-page-1/#comments",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/02/julian-sands.jpg?w=1024",
+            "publishedAt": "2023-06-27T20:23:00Z",
+            "content": "After six months of searching, the San Bernardino County Sheriff\u2019s office confirmed today that the human remains found earlier this week by hikers were, indeed, those of actor Julian Sands. He had be\u2026 [+4594 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Catherine Belton",
-            "title": "Rebellion shakes Russian elite's faith in Putin's strength - The Washington Post",
-            "description": "The armed insurrection has shattered the carefully crafted myth that was the cornerstone of Putin\u2019s presidency \u2013 that he represented stability and strength.",
-            "url": "https://www.washingtonpost.com/world/2023/06/26/russia-elites-putin-strength/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PDEWRBLRCN6INMAKLPCVIYXQQI.JPG&w=1440",
-            "publishedAt": "2023-06-27T00:50:00Z",
-            "content": "Comment on this story\r\nComment\r\nLONDON The impact of the fiercest-ever challenge to Vladimir Putins 23-year presidency was still reverberating among Moscows elites Monday as questions swirled over wh\u2026 [+7219 chars]"
+            "author": null,
+            "title": "Jimmie Johnson won't take part in NASCAR Chicago Street Race - WGN News",
+            "description": "Larry Hawley has more on why here: https://tinyurl.com/2ats96nw",
+            "url": "https://www.youtube.com/watch?v=ZVRVQZ2YlJM",
+            "urlToImage": "https://i.ytimg.com/vi/ZVRVQZ2YlJM/maxresdefault.jpg",
+            "publishedAt": "2023-06-27T20:12:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "Perseverance rover spots donut-shaped rock on Mars (photo) - Space.com",
+            "description": "It might be a large meteorite.",
+            "url": "https://www.space.com/mars-rover-perseverance-donut-rock-photo",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QgRBXsef3t95b35fXse23V-1200-80.jpg",
+            "publishedAt": "2023-06-27T20:00:46Z",
+            "content": "NASA's Mars rover Perserverance snapped this photo of a possible meteorite on the Red Planet on June 23, 2023. (Image credit: Future)\r\nNASA's Perseverance Mars rover has rolled up on a rocky donut th\u2026 [+2171 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Justin Kroll",
+            "title": "\u2018Superman: Legacy\u2019: James Gunn Taps David Corenswet And Rachel Brosnahan To Play Clark Kent And Lois Lane In DC Studios Film - Deadline",
+            "description": "Following months of audition tapes and in-person screen tests, Warner Bros and DC Studios have their new Clark Kent and Lois Lane. David Corenswet has been set to play Superman while Rachel Brosnah\u2026",
+            "url": "https://deadline.com/2023/06/superman-legacy-david-corenswet-rachel-brosnahan-cast-1235420180/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/David-Corenswet-Rachel-Brosnahan-2.jpg?w=1000",
+            "publishedAt": "2023-06-27T19:59:00Z",
+            "content": "Following months of audition tapes and in-person screen tests, Warner Bros and DC Studios have their new Clark Kent and Lois Lane. David Corenswet has been set to play Superman while Rachel Brosnahan\u2026 [+2800 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Belarus leader welcomes Wagner boss Prigozhin into exile - BBC",
+            "description": "Yevgeny Prigozhin, who led a Russian mutiny, arrives in Belarus and his men are offered a military base.",
+            "url": "https://www.bbc.com/news/world-europe-66029636",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34DC/production/_130223531_69988bfebd0db826098c05187a707f63479c26f20_229_4437_24961000x563.jpg",
+            "publishedAt": "2023-06-27T19:47:22Z",
+            "content": "The leader of Russia's 24-hour mutiny, Yevgeny Prigozhin, has arrived in Belarus, three days after his Wagner mercenary group's mutiny came to an end 200km (125 miles) south of Moscow.\r\n\"Yes, indeed,\u2026 [+5862 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "David Clayton",
+            "title": "Intermittent fasting and calorie counting about equal for weight loss, according to new study - Salon",
+            "description": "The importance of counseling and support, regardless of the method of weight loss",
+            "url": "https://www.salon.com/2023/06/27/intermittent-fasting-and-calorie-counting-about-equal-for-weight-loss-according-to-new-study_partner/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/12/scale_tape_measure_weight_1156947930.jpg",
+            "publishedAt": "2023-06-27T19:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Fritze",
+            "title": "Supreme Court rejects theory that could have transformed elections - USA TODAY",
+            "description": "In a win for voting rights groups, the court rejected the North Carolina GOP argument that state lawmakers should have wide power over election rules.",
+            "url": "https://www.usatoday.com/story/news/politics/2023/06/27/supreme-court-decision-independent-state-legisltaure-doctrine/11514835002/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/03/21/USAT/91965fc1-fb2e-46b8-ae3b-7df6baaf2b53-AP_Washington_Spring.jpg?crop=8421,4737,x0,y428&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-27T18:56:08Z",
+            "content": "WASHINGTON\u00a0 The Supreme Court on Tuesday shot down a conservative theory that could have given state lawmakers extraordinary power to set election rules in their states with little oversight from cou\u2026 [+4874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jason Owens",
+            "title": "Alcohol sales will be banned at Paris Olympics except for VIPs - Yahoo Sports",
+            "description": "If you want a drink at the Paris Olympics, be prepared to shell out.",
+            "url": "https://sports.yahoo.com/alcohol-sales-will-be-banned-at-paris-olympics-except-for-vips-183952045.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AnxOacSN.Dk514kJeVrhKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTI-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/31d51d40-1519-11ee-ade9-3600f4696e80",
+            "publishedAt": "2023-06-27T18:39:52Z",
+            "content": "A country world-renowned for its alcohol exports will limit public consumption during the 2024 Olympics. (Reuters/Regis Duvignau)\r\nIf you want a drink at the Paris Olympics, be prepared to shell out.\u2026 [+2031 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Allison Quinn",
+            "title": "'Putin's Fucked': Russian Soldier Cheers on Prigozhin's Uprising With Wagner Group - The Daily Beast",
+            "description": "\u201cLet them make it to the f*cking Kremlin and get rid of that jackass Putin.\u201d",
+            "url": "https://www.thedailybeast.com/putins-fucked-russian-soldier-cheers-on-prigozhins-uprising-with-wagner-group",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1275,w_2266,x_0,y_75/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1687888606/2023-06-27T135505Z_228123553_RC2PR1A0W5M1_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-PUTIN_jnuf34",
+            "publishedAt": "2023-06-27T18:22:39Z",
+            "content": "While Russian President Vladimir Putin insists that his nation is more united than ever before following the Wagner Groups armed uprising over the weekend, a Russian soldier has apparently been caugh\u2026 [+2600 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Jessica Wang",
+            "title": "Margot Robbie reveals the change that made her say yes to the 'Barbie' movie - Entertainment Weekly News",
+            "description": "\"I don't think you should say, 'This is the one version of what Barbie is, and that's what women should aspire to be and look like and act like.'\"",
+            "url": "https://ew.com/movies/margot-robbie-barbie-plot-change-made-her-say-yes-to-movie/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C70%2C2000%2C1070&poi=%5B920%2C39%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F06%2F27%2FBarbie-062723.jpg",
+            "publishedAt": "2023-06-27T18:05:00Z",
+            "content": "Margot Robbie wouldn't have stepped into Barbie's dream house if she were the only one playing a version of the beloved Mattel doll in the upcoming Barbie movie.\r\nIn a new Time cover story, the star \u2026 [+2032 chars]"
         }
     ]
 }
