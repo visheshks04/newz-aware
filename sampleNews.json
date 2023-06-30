@@ -1,266 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "id": "espn",
+                "name": "ESPN"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Hajj: Price rises making pilgrimage increasingly unaffordable - BBC",
-            "description": "The pilgrimage to Mecca is becoming increasingly unaffordable for many Muslims across the world.",
-            "url": "https://www.bbc.com/news/world-middle-east-66040873",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1321A/production/_130226387_mediaitem130226386.jpg",
-            "publishedAt": "2023-06-28T09:32:39Z",
-            "content": "Some 1.8 million Muslims from across the world made it to Mount Arafat in Saudi Arabia on Tuesday to mark the most important day of the Hajj. But due to global price rises, the pilgrimage is becoming\u2026 [+4512 chars]"
+            "author": "ESPN staff",
+            "title": "2023 NHL draft live updates: 7 round, 32 team pick tracker - ESPN",
+            "description": "Follow along as all 224 picks are made, including scouting notes and team fits for all first-round picks.",
+            "url": "https://www.espn.com/nhl/story/_/id/37928239/2023-nhl-draft-pick-tracker-analysis-32-teams-7-rounds",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0628%2Fr1191750_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-06-28T23:48:00Z",
+            "content": "Welcome to the 2023 NHL draft. From the first round all the way to pick No. 224, this page will be your home for tracking every selection, including notes on team fit for the 32 players taken in the \u2026 [+11994 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WABC-TV"
+                "name": "Fox Business"
             },
-            "author": null,
-            "title": "Travel woes worsen for passengers stranded at NYC-area airports due to cancelled flights - WABC-TV",
-            "description": "Hundreds of flights are already canceled as of early Wednesday morning.",
-            "url": "https://abc7ny.com/flight-cancellations-lga-newark-airport-jfk/13435476/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13435536_062823-wabc-flight-img.jpg?w=1600",
-            "publishedAt": "2023-06-28T09:11:15Z",
-            "content": "EAST ELMHURST, Queens (WABC) -- Hundreds of flights have already been cancelled as of early Wednesday morning, leaving thousands of travelers stranded and frustrated at local airports.\r\nNewark Airpor\u2026 [+3228 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "",
-            "title": "Watch: Violence breaks out after video shows Paris traffic stop turning fatal - CNN",
-            "description": "French authorities are investigating the fatal police shooting of a 17-year-old teenager during a traffic stop near Paris. Videos of the incident have since emerged online. One of the two police officers involved in the incident is in custody on suspicion of \u2026",
-            "url": "https://www.cnn.com/videos/world/2023/06/28/teenager-shot-paris-police-traffic-stop-intl-ldn-vpx.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230628094527-paris-teen-demo-vpx.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-06-28T09:00:09Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Kayla Jimenez",
-            "title": "Florida Gov. Ron DeSantis' feud with Disney World, explained - USA TODAY",
-            "description": "Gov. DeSantis's attorneys wrote that the federal court should dismiss a lawsuit in part because \"all of Disney\u2019s claims fail as a matter of law.\"",
-            "url": "https://www.usatoday.com/story/news/nation/2023/06/28/florida-gov-ron-desantis-legal-feud-with-disney-world-explained/70361872007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/21/USAT/d48e1fef-c716-47f9-b674-23d1f42a14db-AP_Election_2024_DeSantis_2.jpg?crop=5567,3132,x0,y283&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-28T08:56:45Z",
-            "content": "Florida Gov. Ron DeSantis wants out of his legal battle with Disney, according to court records filed by his attorneys this week.\r\nThe mass media company in April slapped the Republican presidential \u2026 [+5051 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Jamie Chisholm",
-            "title": "Stock futures fall as report of fresh chips-to-China-ban hits Nvidia, others. - MarketWatch",
-            "description": "Nasdaq futures were leading early declines following a report that the Biden administration is considering a new ban on sales of AI chips to China.",
-            "url": "https://www.marketwatch.com/story/u-s-stock-futures-fall-after-report-of-fresh-chips-to-china-ban-hits-nvidia-and-other-ai-players-5940863d",
-            "urlToImage": "https://images.mktw.net/im-808323/social",
-            "publishedAt": "2023-06-28T08:39:00Z",
-            "content": "U.S. stock futures dipped on Wednesday, led by technology, as chip stocks retreated on reports Washington will issue a new ban on exports to China. On Tuesday, the Dow Jones Industrial Average \r\n DJI\u2026 [+2698 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Intermittent Fasting vs. Calorie Counting: What Is Best for Weight Loss According to Science - SciTechDaily",
-            "description": "A study by the University of Illinois Chicago found that time-restricted eating (intermittent fasting) led to similar weight loss and improved insulin sensitivity as traditional calorie restriction among adults with obesity. Participants in the time-restricte\u2026",
-            "url": "https://scitechdaily.com/?p=288129",
-            "urlToImage": "https://scitechdaily.com/images/Diet-Weight-Loss-Failure-Success.jpg",
-            "publishedAt": "2023-06-28T08:33:24Z",
-            "content": "ByAmerican College of PhysiciansJune 28, 2023\r\nA randomized controlled trial conducted by researchers at the University of Illinois Chicago revealed that time-restricted eating (intermittent fasting)\u2026 [+4889 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Sujata Rao and Denitsa Tsekova",
-            "title": "Europe Shares Extend Rebound From Losing Streak: Markets Wrap - Yahoo Finance",
-            "description": "European stocks opened firmer, while US equity futures were pressured by report of new curbs on artificial intelligence chip sales to China.",
-            "url": "https://finance.yahoo.com/news/asian-shares-primed-gains-yields-223812576.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fBdYPSrrH8PFF05KzL0fYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/949f0dc5828f0b6fa071361c56a968f7",
-            "publishedAt": "2023-06-28T07:52:00Z",
-            "content": "(Bloomberg) European stocks opened firmer, while US equity futures were pressured by report of new curbs on artificial intelligence chip sales to China.\r\nMost Read from Bloomberg\r\nThe Stoxx Europe 60\u2026 [+4193 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "2023 MLB Mock Draft: LSU teammates, College World Series champions Dylan Crews, Paul Skenes go No. 1 and 2 - CBS Sports",
-            "description": "The 2023 draft begins Sunday, July 9",
-            "url": "https://www.cbssports.com/mlb/news/2023-mlb-mock-draft-lsu-teammates-college-world-series-champions-dylan-crews-paul-skenes-go-no-1-and-2/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/27/3bbfc81d-7b1d-4394-a3c5-073be517bba2/thumbnail/1200x675/b263c82d805b9902afcb2597ab452c55/crews-getty.png",
-            "publishedAt": "2023-06-28T06:32:00Z",
-            "content": "The 2023 MLB Draft is a little more than two weeks away. Two years ago, MLB pushed the draft back from the first week of June to the All-Star break in an effort to better market the event, and it wil\u2026 [+1618 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "Rhett Bollinger",
-            "title": "Shohei Ohtani homers twice, strikes out 10 vs. White Sox - MLB.com",
-            "description": "ANAHEIM -- It could go down as one of the best months by a player in Major League history.\nTwo-way superstar Shohei Ohtani\u00a0continued his scorching hot June with yet another incredible showing, as he struck out 10 over 6 1/3 strong innings and also went 3-for-\u2026",
-            "url": "https://www.mlb.com/news/shohei-ohtani-homers-twice-strikes-out-10-vs-white-sox",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/h01woytjijaesfaxdrid.jpg",
-            "publishedAt": "2023-06-28T06:11:15Z",
-            "content": "ANAHEIM -- It could go down as one of the best months by a player in Major League history.\r\nTwo-way superstar Shohei Ohtani\u00a0continued his scorching hot June with yet another incredible showing, as he\u2026 [+4276 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Nicole Auerbach, Bruce Feldman, Jeff Zrebiec",
-            "title": "Ryan Mallett, former Arkansas star and NFL QB, dies at 35 - The Athletic",
-            "description": "A Michigan source confirmed to The Athletic that Mallett had drowned in Florida.",
-            "url": "https://theathletic.com/4646091/2023/06/27/ryan-mallett-dead-arkansas/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/27193112/GettyImages-104429014-1024x683.jpg",
-            "publishedAt": "2023-06-28T05:31:31Z",
-            "content": "By Nicole Auerbach, Bruce Feldman and Jeff Zrebiec\r\nFormer NFL quarterback Ryan Mallett died on Tuesday in Florida, according to the school district where he coached high school football. He was 35 y\u2026 [+5785 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Kramatorsk: Russian missile strike hits restaurants in Ukrainian city - BBC",
-            "description": "A further 56 are injured in the Russian missile strike on Kramatorsk, Ukrainian officials say.",
-            "url": "https://www.bbc.com/news/world-europe-66031342",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA8E/production/_130224146_82bdd3a4698f8538374b203a6ae533619623763f.jpg",
-            "publishedAt": "2023-06-28T04:36:33Z",
-            "content": "Media caption, Watch: Shock and destruction after Russian missiles hit restaurants\r\nEight people have been killed, including three children, by Russian missiles that hit the centre of Kramatorsk in e\u2026 [+2876 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Euronews"
-            },
-            "author": "Tokunbo Salako",
-            "title": "Actor Julian Sands confirmed dead five months after California mountain hike - Euronews",
-            "description": "US authorities have confirmed the death of British actor Julian Sands five months after he went missing while hiking in California mountains.",
-            "url": "https://www.euronews.com/culture/2023/06/28/human-remains-found-in-search-for-missing-british-actor-julian-sands",
-            "urlToImage": "https://static.euronews.com/articles/stories/07/70/63/22/1000x563_cmsv2_93b3eaa4-50d8-574a-ae58-8a13aac7ac39-7706322.jpg",
-            "publishedAt": "2023-06-28T04:18:45Z",
-            "content": "US authorities have confirmed the death of British actor Julian Sands five months after he went missing while hiking in California mountains.\r\n The death of British actor Julian Sands has been confir\u2026 [+2770 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "NICHOLAS RICCARDI, DAVID A. LIEB",
-            "title": "Supreme Court rejects novel legislative theory but leaves a door open for 2024 election challenges - The Associated Press",
-            "description": "The U.S. Supreme Court has shot down a legal theory that could've changed the way elections are run across the country. But the court has left the door open to more limited challenges that could increase its role in deciding voting disputes during the 2024 pr\u2026",
-            "url": "https://apnews.com/article/supreme-court-state-legislatures-elections-voting-2024-eceb157b3e4f6628beec26a70d9aeaed",
-            "urlToImage": "https://dims.apnews.com/dims4/default/fee186a/2147483647/strip/true/crop/5876x3305+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6b%2F02%2Fe83cc168ac98b4688cd7abb3ced8%2Fd7a17fe4965a40f29d3b4e96e22d0330",
-            "publishedAt": "2023-06-28T04:13:00Z",
-            "content": "The U.S. Supreme Court shot down a controversial legal theory that could have changed the way elections are run across the country but left the door open to more limited challenges that could increas\u2026 [+6242 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foreign Affairs"
-            },
-            "author": "Vladislav Zubok",
-            "title": "Russia's New Time of Troubles - Foreign Affairs Magazine",
-            "description": "It\u2019s not 1917 in Moscow\u2014it\u2019s 1604.",
-            "url": "https://www.foreignaffairs.com/russian-federation/russias-new-time-troubles",
-            "urlToImage": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/27/RTSKR2OG.JPG?itok=_I-K-BpF",
-            "publishedAt": "2023-06-28T04:00:00Z",
-            "content": "In the midst of the mercenary chief Yevgeny Prigozhins brief rebellion on June 24, Russian President Vladimir Putin compared the treason of the Wagner paramilitary leader with the revolutionary turmo\u2026 [+12269 chars]"
+            "author": "Greg Wehner",
+            "title": "Teamsters give UPS ultimatum, demanding best contract offer by Friday or risk 'imminent' strike - Fox Business",
+            "description": "The Teamsters, which represents UPS workers, demanded UPS officials return its best contract offering for its employees by Friday or risk 'imminent' strike.",
+            "url": "https://www.foxbusiness.com/politics/teamsters-ups-ultimatum-demanding-best-contract-offer-friday-risk-imminent-strike",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/0/0/ups-teamsters.jpg?ve=1&tl=1",
+            "publishedAt": "2023-06-28T23:39:28Z",
+            "content": "The International Brotherhood of Teamsters said Wednesday that a nationwide UPS strike \"is imminent,\" after walking away from the national bargaining table and demanding the package delivery service \u2026 [+3675 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Faris Tanyos",
-            "title": "NASCAR champion Jimmie Johnson's in-laws and their grandson found dead in Oklahoma home - CBS News",
-            "description": "Officers found the three dead after responding to a 911 call about a disturbance involving a gun.",
-            "url": "https://www.cbsnews.com/news/jimmie-johnson-in-laws-grandson-dead-muskogee-oklahoma-chandra-janway/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/28/d4200d19-513c-40a7-a451-6f55d48343eb/thumbnail/1200x630/d31dc76d077e82dd204676cdae8f7cd2/gettyimages-1496182941.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
-            "publishedAt": "2023-06-28T02:54:17Z",
-            "content": "Three relatives of NASCAR champion Jimmie Johnson were found dead Monday at a home in Muskogee, Oklahoma, after authorities were called to a disturbance involving a firearm. \u00a0\u00a0\r\nThe three were identi\u2026 [+1972 chars]"
-        },
-        {
-            "source": {
-                "id": "entertainment-weekly",
-                "name": "Entertainment Weekly"
-            },
-            "author": "Maureen Lee Lenker",
-            "title": "Meet David Corenswet, the new Superman in James Gunn's DC Universe - Entertainment Weekly News",
-            "description": "Get to know Hollywood's next Man of Steel.",
-            "url": "https://ew.com/movies/superman-david-corenswet-everything-to-know/",
-            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C7%2C2000%2C1007&poi=%5B480%2C479%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F06%2F27%2FDavid-Corenswet-All-Star-Superman-Cast-01-062723.jpg",
-            "publishedAt": "2023-06-28T00:54:00Z",
-            "content": "Is it a bird, a plane? No, it's David Corenswet.\r\nThe star of Ryan Murphy'sHollywood and key supporting player in The Politicianis poised to don Superman's red cape (and Clark Kent's glasses) in Jame\u2026 [+5306 chars]"
+            "author": null,
+            "title": "Live Updates: Canadian wildfire smoke creates unhealthy air quality across Pittsburgh area - CBS Pittsburgh",
+            "description": "The skies in Pittsburgh became consumed by the smoke early Wednesday morning.",
+            "url": "https://www.cbsnews.com/pittsburgh/live-updates/live-updates-canadian-wildfire-smoke-clouds-pittsburgh-skies-air-quality-alerts-issued-for-western-pa/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/28/b75b61c3-2ea6-4cd0-9feb-c019fe5fa405/thumbnail/1200x630/652efd309619369e99ac8fd064ffab6b/fzs4jsjxgaihvhw.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4",
+            "publishedAt": "2023-06-28T22:59:00Z",
+            "content": "It's a different world from 24 hours ago. Crystal clear air over Beaver on Tuesday turned into a blanket of haze on Wednesday. \u00a0\r\nTravis Griffith from Beaver Falls described it as \"a burning in your \u2026 [+1789 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Detroit Free Press"
+                "name": "BBC News"
             },
-            "author": "Marina Johnson, Nour Rahal",
-            "title": "Detroit air quality ranks second worst in world due to Canadian wildfires - Detroit Free Press",
-            "description": "On Tuesday, Detroit\u2019s air quality ranked second worst in the world again due to wildfires in Canada. The air quality alert remains in effect.",
-            "url": "https://www.freep.com/story/news/local/michigan/2023/06/27/detroit-air-quality-2nd-worst-canadian-wildfires/70362967007/",
-            "urlToImage": "https://www.freep.com/gcdn/presto/2023/06/27/PDTF/9c723c5d-d63e-4f01-83c1-490a39818f30-RG106413.jpg?crop=2399,1350,x0,y244&width=2399&height=1350&format=pjpg&auto=webp",
-            "publishedAt": "2023-06-28T00:02:53Z",
-            "content": "As wildfires continue to destroy forests across Quebec and Ontario, parts of Michigan remain under an air quality alert until Wednesday night, according to the Michigan Department of Environment, Gre\u2026 [+1966 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Kramatorsk: Alleged Russian spy to be charged over deadly strike - BBC",
+            "description": "The man allegedly sent footage of the restaurant to Russia's military before it was destroyed.",
+            "url": "https://www.bbc.com/news/world-europe-66045197",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80AF/production/_130234923_gettyimages-1259137481.jpg",
+            "publishedAt": "2023-06-28T22:56:01Z",
+            "content": "Ukrainian President Volodymyr Zelensky says an alleged Russian agent involved in the attack on the city of Kramatorsk will be charged with treason.\r\nThose helping Russia destroy lives deserve the \"ma\u2026 [+3390 chars]"
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
-            "author": "Axios",
-            "title": "Costco cracking down on membership card sharing at self-checkout - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/06/27/costco-membership-sharing-crackdown-self-checkout",
-            "urlToImage": null,
-            "publishedAt": "2023-06-27T22:43:43Z",
+            "author": "Taryn Ryder",
+            "title": "Pete Davidson seeks treatment amid ongoing mental health issues - Yahoo Entertainment",
+            "description": "Pete Davidson is in rehab as he reportedly deals with PTSD and borderline personality disorder.",
+            "url": "https://www.yahoo.com/entertainment/pete-davidson-rhab-treatment-mental-health-issues-222725387.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1GcMOlsduoX71pUTYey28w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/babb1d20-1600-11ee-9fde-837359c8c516",
+            "publishedAt": "2023-06-28T22:27:25Z",
+            "content": "Pete Davidson attends the premiere of \"Transformers: Rise of the Beasts\" at the Kings Theater on June 5, 2023 in New York. (Photo by Evan Agostini/Invision/AP)\r\nPete Davidson is in rehab, Yahoo Enter\u2026 [+3016 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Grant Gordon",
+            "title": "Patriots, WR DeVante Parker agree to new three-year deal worth up to $33M - NFL.com",
+            "description": "DeVante Parker and the Patriots have agreed to terms on a three-year deal worth up to $33 million with $14 million in guarantees and per-game roster bonuses, NFL Network Insider Ian Rapoport reported Wednesday.",
+            "url": "https://www.nfl.com/news/patriots-wr-devante-parker-agree-to-new-three-year-deal-worth-up-to-33m",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/tdhp4s9yketgzez1tjpv",
+            "publishedAt": "2023-06-28T22:22:00Z",
+            "content": "Acquired via trade with the Miami Dolphins, Parker played his first season for New England in 2022, posting 31 receptions for 539 yards and three touchdowns in 13 games for a sputtering Patriots offe\u2026 [+1295 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul P. Murphy, Kristina Sgueglia, Paula Newton",
+            "title": "\u2018Presumed human remains\u2019 found near debris field of doomed Titan submersible, US Coast Guard says - CNN",
+            "description": "Huge pieces of the doomed submersible Titan were hoisted onto a Canadian pier Wednesday nearly a week after authorities announced a \u201ccatastrophic implosion\u201d had killed all five men onboard the minivan-sized vessel, according to the company leading the effort \u2026",
+            "url": "https://www.cnn.com/2023/06/28/americas/titan-submersible-debris-st-johns/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230628102326-02-titan-debris-0628.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-28T22:14:00Z",
+            "content": "Presumed human remains have been recovered from the seafloor in the area of the doomed Titan submersible debris field, the US Coast Guard said Wednesday.\r\nThe remains were recovered within the wrecka\u2026 [+2425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WEAR"
+            },
+            "author": "Sha'de Ray",
+            "title": "Destin beach officials say rip currents weren't involved in death of Ryan Mallett - WEAR",
+            "description": "DESTIN, Fla. -- Destin Beach offical says rip currents weren't a factor in the drowning of former arkansas and n-f-l player ryan mallet.Mallet drowned yesterday",
+            "url": "https://weartv.com/news/local/destin-beach-officials-say-rip-currents-werent-involved-in-death-of-ryan-mallett",
+            "urlToImage": "https://weartv.com/resources/media/c0682566-ad99-42d0-8a4f-caa7df2f9981-large16x9_download.jpg",
+            "publishedAt": "2023-06-28T22:06:38Z",
             "content": null
         },
         {
             "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Joseph Longo",
-            "title": "Check Out Airbnb's Malibu Barbie DreamHouse - BuzzFeed",
-            "description": "Get your Kenergy on at Airbnb's Malibu Barbie DreamHouse.",
-            "url": "https://www.buzzfeed.com/josephlongo/malibu-barbie-dreamhouse-airbnb",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-06/27/22/enhanced/ddc50791723a/original-1218-1687904089-2.jpg?crop=1581:830;0,0%26downsize=1250:*",
-            "publishedAt": "2023-06-27T22:37:04Z",
-            "content": "Another important detail: The stays are free. \"All stays will be free of charge because Ken couldnt figure out how to put a price on Barbies Malibu DreamHouse after all, Kens thing is beach, not math\u2026 [+92 chars]"
+            "author": "Tom Warren",
+            "title": "Microsoft CEO says he wants to end Xbox exclusives but blames Sony - The Verge",
+            "description": "Microsoft CEO Satya Nadella says, in an ideal world, he\u2019d love to get rid of Xbox console exclusives. He blames Sony for exclusives.",
+            "url": "https://www.theverge.com/2023/6/28/23777585/microsoft-ceo-satya-nadella-console-exclusives-sony-xbox-competition",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/VPVoBabpznRsT4F7cCwDQXBg7yA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24759466/nadella.jpg",
+            "publishedAt": "2023-06-28T21:48:59Z",
+            "content": "Microsoft CEO says he wants to end Xbox exclusives but blames Sony\r\nMicrosoft CEO says he wants to end Xbox exclusives but blames Sony\r\n / In an ideal world, there would be no console exclusives, but\u2026 [+2610 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "PBS"
+                "name": "Deadline"
+            },
+            "author": "Peter White",
+            "title": "\u2018The Other Two\u2019 To End With Season 3 At Max; Creators Say \u201cThis Was Where We Wanted To End Their Stories\u201d - Deadline",
+            "description": "The Other Two, the comedy series starring Hel\u00e9ne Yorke, Drew Tarver and Molly Shannon, is coming to a close with its third season on Max. However, rather than being canceled, the decision was made \u2026",
+            "url": "https://deadline.com/2023/06/the-other-two-to-end-with-season-3-at-max-1235425905/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/helene-yorke-drew-tarver.jpg?w=980",
+            "publishedAt": "2023-06-28T21:00:00Z",
+            "content": "The Other Two, the comedy series starring Hel\u00e9ne Yorke, Drew Tarver and Molly Shannon, is coming to a close with its third season on Max.\r\nHowever, rather than being canceled, the decision was made b\u2026 [+3286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Federalreserve.gov"
             },
             "author": null,
-            "title": "Mississippi sheriff fires deputies accused of sexually assaulting Black men and shooting one in mouth - PBS NewsHour",
-            "description": "Mississippi deputies accused of beating and sexually assaulting two Black men before shooting one of them in the mouth have been fired.",
-            "url": "https://www.pbs.org/newshour/nation/mississippi-sheriff-fires-deputies-accused-of-sexually-assaulting-black-men-and-shooting-one-in-mouth",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2022/05/GettyImages-1291135403-1024x683.jpg",
-            "publishedAt": "2023-06-27T22:18:22Z",
-            "content": "JACKSON, Miss. (AP) Deputies accused of beating and sexually assaulting two Black men before shooting one of them in the mouth, prompting a federal civil rights investigation, have been fired, a Miss\u2026 [+2898 chars]"
+            "title": "Federal Reserve Board releases results of annual bank stress test, which demonstrates that large banks are well positioned to weather a severe recession and continue to lend to households and businesses even during a severe recession - Federal Reserve",
+            "description": "The Federal Reserve Board on Wednesday released the results of its annual bank stress test, which demonstrates that large banks are well positioned to weather",
+            "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20230628a.htm",
+            "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+            "publishedAt": "2023-06-28T20:30:33Z",
+            "content": "The Federal Reserve Board on Wednesday released the results of its annual bank stress test, which demonstrates that large banks are well positioned to weather a severe recession and continue to lend \u2026 [+3551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Abbey White",
+            "title": "Madonna Postpones Tour After Being Hospitalized for \u201cSerious Bacterial Infection,\u201d Manager Says \u201cFull Recovery Expected\u201d - Hollywood Reporter",
+            "description": "The singer's Celebration World Tour, commemorating the 40-year anniversary of her career, was set to kick off in July.",
+            "url": "https://www.hollywoodreporter.com/news/music-news/madonna-hospitalized-bacterial-infection-recovery-tour-postponed-1235525627/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-1463282474-copy.jpg?w=1024",
+            "publishedAt": "2023-06-28T20:16:35Z",
+            "content": "Madonna is currently expected to recover from a bacterial infection that resulted in a multi-day hospital stay. \r\nGuy Oseary, the singer\u2019s talent manager and producer, confirmed that she had been adm\u2026 [+1185 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Allison Johnson",
+            "title": "People got the Pixel Fold yesterday and they\u2019re already breaking - The Verge",
+            "description": "The Google Pixel Fold was released just yesterday, but a few owners are already reporting damage to the 7.6-inch inner screens. Foldables aren\u2019t as durable as standard phones, but that\u2019s still awfully concerning.",
+            "url": "https://www.theverge.com/2023/6/28/23777211/google-pixel-fold-screen-breaking-reports",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/1XXrLn8w6MSpje7hUhAsN-y7VXY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24752673/DSCF2065.jpg",
+            "publishedAt": "2023-06-28T19:19:31Z",
+            "content": "Its taken one day for customers to report broken Pixel Fold screens\r\nIts taken one day for customers to report broken Pixel Fold screens\r\n / Googles first foldable has officially launched, and were a\u2026 [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Pompeii pizza painting: See early depiction of the food favorite - USA TODAY",
+            "description": "Researchers discovered the 2,000-year-old painting at the Pompeii archaeological site. But it's probably not pizza, which was invented later.",
+            "url": "https://www.usatoday.com/story/news/world/2023/06/28/pompeii-pizza-painting-precursor-discovery/70365593007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/06/28/USAT/1ae86d68-7784-451b-b6a2-aa8558ba0e97-AP23178343313246.jpg?auto=webp&crop=2080,1170,x0,y372&format=pjpg&width=1200",
+            "publishedAt": "2023-06-28T18:54:00Z",
+            "content": "Bad news, pineapple pizza haters a painting recently discovered at the Pompeii archeological site indicates the first pizza precursors were likely topped with fruit. \u00a0\r\nThe newly uncovered fresco pai\u2026 [+3139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Play of the Day: Shohei Ohtani Hits 2 HRs In A 4-2 Win Over The White Sox | 06/28/23 - Dan Patrick Show",
+            "description": "",
+            "url": "https://www.youtube.com/watch?v=VnJd3ulJo58",
+            "urlToImage": "https://i.ytimg.com/vi/VnJd3ulJo58/maxresdefault.jpg",
+            "publishedAt": "2023-06-28T18:14:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Honolulu Star-Advertiser"
+            },
+            "author": "David Koenig / AP Airlines Writer",
+            "title": "Airline delays, cancellations worsen ahead of holiday weekend - Honolulu Star-Advertiser",
+            "description": "Travelers are getting hit with delays at U.S. airports again today, an ominous sign heading into the long July 4 holiday weekend, which is shaping up as the biggest test yet for airlines that are struggling to keep up with surging numbers of passengers.",
+            "url": "https://www.staradvertiser.com/2023/06/28/breaking-news/airline-delays-cancellations-worsen-ahead-of-holiday-weekend/",
+            "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2023/06/web1_13947046-cfc263d1e4ee4ed79fd10ad9204aac25.jpg",
+            "publishedAt": "2023-06-28T17:59:46Z",
+            "content": "Travelers are getting hit with delays at U.S. airports again today, an ominous sign heading into the long July 4 holiday weekend, which is shaping up as the biggest test yet for airlines that are str\u2026 [+5434 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Matthew Dalton",
+            "title": "Paris Suburbs Erupt in Violent Protests After Police Kill Teenager - The Wall Street Journal",
+            "description": "Video of fatal shooting sparks unrest that leaves cars, government building burned",
+            "url": "https://www.wsj.com/articles/riots-erupt-in-paris-suburbs-after-police-kill-teenager-acf46a38",
+            "urlToImage": "https://images.wsj.net/im-808325/social",
+            "publishedAt": "2023-06-28T17:44:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "'Forbidden planet' narrowly escaped becoming a snack for a dying star (video) - Space.com",
+            "description": "The discovery of the giant planet Halla suggests that planets close to their stars can survive the rapid expansion seen as they enter their end-of-life red giant phase.",
+            "url": "https://www.space.com/forbidden-planet-escapes-dying-star",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FTP4TRm9PAYMuREzfgz9JV-1200-80.jpg",
+            "publishedAt": "2023-06-28T17:30:02Z",
+            "content": "Astronomers have discovered a \"forbidden planet\" orbiting so close to a red giant star it should have been destroyed.\u00a0\r\nThe giant exoplanet, which has 1.7 times the mass of Jupiter, was discovered wh\u2026 [+6935 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sara Moniuszko",
+            "title": "What is malaria? What to know as Florida, Texas see first locally acquired infections in 20 years - CBS News",
+            "description": "Locally acquired cases of malaria have been confirmed in Florida and Texas\u200b, according to the CDC. Here's what to know about the potentially fatal mosquito-borne disease.",
+            "url": "https://www.cbsnews.com/news/what-is-malaria-symptoms-florida-texas/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/06/28/8fad2510-8865-48ae-a086-7c5172149593/thumbnail/1200x630/719aea7cee687c8c7147b4952a81f581/gettyimages-1247505599.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4",
+            "publishedAt": "2023-06-28T17:16:00Z",
+            "content": "Within the last two months, four locally acquired cases of malaria were confirmed in Florida and one in Texas, according to the Centers for Disease Control and Prevention, marking the first time in 2\u2026 [+4698 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Francesca Chambers",
+            "title": "He's a 'pariah': Biden says Russia's Putin weakened by armed rebellion - USA TODAY",
+            "description": "The aborted mutiny in Russia weakened Vladimir Putin, U.S. President Joe Biden said, and demonstrated he's losing the war against Ukraine.",
+            "url": "https://www.usatoday.com/story/news/politics/2023/06/28/hes-a-pariah-biden-says-russias-putin-weakened-by-armed-rebellion/70364598007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/28/USAT/90e7c5b8-f444-4329-81c2-ba53b41ea95f-AP_Biden_gaggle_Russia.jpg?crop=4953,2787,x0,y252&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-28T17:04:07Z",
+            "content": "WASHINGTON The armed rebellion in Russia weakened Vladimir Putin and cemented his position as a global \"pariah,\" U.S. President Joe Biden said on Wednesday.\r\nIt's difficult to tell how much Putin has\u2026 [+1025 chars]"
         }
     ]
 }
