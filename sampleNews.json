@@ -1,19 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 30,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Navalnews.com"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Tomasz Grotnik",
-            "title": "Polish coastal defence system with NSM missiles for Ukraine? - Naval News",
-            "description": "Talks are underway between Poland and Ukraine regarding the transfer of NSM missile coastal defence system (CDS) belonging to the Polish Navy",
-            "url": "https://www.navalnews.com/naval-news/2023/06/polish-coastal-defence-system-with-nsm-missiles-for-ukraine/",
-            "urlToImage": "https://www.navalnews.com/wp-content/uploads/2023/06/Polish-NSM.jpg",
-            "publishedAt": "2023-06-30T08:33:53Z",
-            "content": "Polish defence media Defence24 broke the story, For now, it is not known which elements of the system are expected to go to Ukraine. Unofficially, it is said that it could be one battery (three self-\u2026 [+3439 chars]"
+            "author": "Kerry Breen",
+            "title": "Alan Arkin, Oscar-winning actor and \"Little Miss Sunshine\" star, dies at 89 - CBS News",
+            "description": "Arkin, the longtime screen and stage actor, had memorable roles in \"Edward Scissorhands,\" \"Argo,\" Netflix's \"The Kominsky Method\" and more.",
+            "url": "https://www.cbsnews.com/news/alan-arkin-dies-little-miss-sunshine-actor-dead-age-89/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/30/d87c2fac-09b8-4ff0-8357-68f0ccc16ae8/thumbnail/1200x630g2/53175ed5e9f5c80702e0febbd701eac4/gettyimages-529337796.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4",
+            "publishedAt": "2023-07-01T00:20:00Z",
+            "content": "Alan Arkin, the longtime screen and stage actor who won an Academy Award for his role in the 2006 film \"Little Miss Sunshine,\" has died. He was 89.\u00a0\r\nArkin's representative, Melody Korenbrot, confime\u2026 [+2010 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ruby Mellen",
+            "title": "France is rioting over police brutality. It's not the first time. - The Washington Post",
+            "description": "The shooting of Nahel M., a 17-year-old boy this week, is the latest example of violence by French police, which has stoked anger and calls for accountability.",
+            "url": "https://www.washingtonpost.com/world/2023/06/30/police-brutality-history-france/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-30-2023/t_2ca299add7ed4811a6eec4fcd67552a0_name_TB___2023.jpg&w=1440",
+            "publishedAt": "2023-07-01T00:16:23Z",
+            "content": "Return to menuIn November 2020, Michel Zecler, a Black music producer, was beaten in an incident involving four police officers in Paris. The occurrence was captured on video that went viral. The off\u2026 [+846 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Trisha Thadani",
+            "title": "Apple hits $3 trillion valuation, making it the most valuable company - The Washington Post",
+            "description": "Apple hits $3 million market cap for the first time Friday, suggesting that investors are still confident in the company.",
+            "url": "https://www.washingtonpost.com/technology/2023/06/30/apple-valued-3-trillion-most-valuable-company/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TF7YC33BV7QGFONQV7EXZSLPXY.jpg&w=1440",
+            "publishedAt": "2023-07-01T00:14:00Z",
+            "content": "Comment on this story\r\nComment\r\nSAN FRANCISCO When markets closed Friday, Apples market capitalization was more than $3 trillion, making it the most valuable company ever.\r\nIts a massive milestone fo\u2026 [+1739 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Jeff Zillgitt, Anthony Gharib, Cydney Henderson, Tyler Dragon",
+            "title": "NBA free agency live updates: Latest signings, rumors, trades and more - USA TODAY",
+            "description": "NBA free agency opens at 6 p.m. ET Friday, beginning one of the most unpredictable times on the sports calendar. Here's everything you need to know.",
+            "url": "https://www.usatoday.com/story/sports/nba/2023/06/30/nba-free-agency-live-updates-2023/70370508007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/01/USAT/bc4511a4-0543-4531-b4a2-f87c7b605b26-2vanvleet.jpg?crop=2146,1207,x0,y19&width=2146&height=1207&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-30T23:27:29Z",
+            "content": "Editor's note: NBA free agency opens Friday at 6 p.m. ET. See what trades and moves were made before the deadline in our Thursday tracker.\r\nThe Houston Rockets had salary cap space and wanted to spen\u2026 [+15051 chars]"
         },
         {
             "source": {
@@ -21,11 +60,141 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Russia repels attacks in various directions, Ukraine claims progress in Bakhmut | WION LIVE - WION",
-            "description": "Russia had repelled various attacks from Ukrainian forces in various directions and strike ammunition warehouses of Ukraine. In a daily briefing, the Russian...",
-            "url": "https://www.youtube.com/watch?v=pW4i6QQruJ8",
-            "urlToImage": "https://i.ytimg.com/vi/pW4i6QQruJ8/maxresdefault_live.jpg",
-            "publishedAt": "2023-06-30T08:04:39Z",
+            "title": "Reaction to Kyrie Irving staying with Dallas Mavericks on 3-year deal | NBA Today - ESPN",
+            "description": "NBA Today\u2019s Malika Andrews, Tim MacMahon, Zach Lowe, Kendrick Perkins and Richard Jefferson react to Kyrie Irving agreeing to a 3-year deal with the Dallas M...",
+            "url": "https://www.youtube.com/watch?v=hE9joVQcv_E",
+            "urlToImage": "https://i.ytimg.com/vi/hE9joVQcv_E/maxresdefault.jpg",
+            "publishedAt": "2023-06-30T23:19:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "Saturn\u2019s rings steal the show in new image from Webb telescope - Ars Technica",
+            "description": "Webb turned its gold-coated mirror toward Saturn this week.",
+            "url": "https://arstechnica.com/space/2023/06/saturns-rings-steal-the-show-in-new-image-from-webb-telescope/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/webbsaturn-760x380.jpg",
+            "publishedAt": "2023-06-30T22:55:44Z",
+            "content": "Enlarge/ Saturn stars in this near-infrared image taken June 25 by the James Webb Space Telescope.\r\n15 with \r\nThe James Webb Space Telescope has observed Saturn for the first time, completing a famil\u2026 [+3378 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "https://www.facebook.com/kslcom/",
+            "title": "Fourth of July gas prices take an almost unprecedented plunge across parts of US - KSL.com",
+            "description": "The roads will be crowded this Fourth of July weekend, but many travelers have at least one thing going for them: much cheaper gas prices than last year.",
+            "url": "https://www.ksl.com/article/50677481/fourth-of-july-gas-prices-take-an-almost-unprecedented-plunge-across-parts-of-us",
+            "urlToImage": "https://img.ksl.com/slc/2936/293690/29369073.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2023-06-30T22:39:09Z",
+            "content": "Estimated read time: 3-4\r\n minutes\r\nNEW YORK The roads will be crowded this Fourth of July weekend, but many travelers have at least one thing going for them: much cheaper gas prices than last year.\r\u2026 [+3923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ben Rohrbach",
+            "title": "NBA free agency 2023: Draymond Green will re-sign with Golden State Warriors - Yahoo Sports",
+            "description": "The 33-year-old veteran averaged 8.5 points (53/31/71 shooting splits), 7.2 rebounds and 6.8 assists in 31.5 minutes over 73 games for the Warriors this past...",
+            "url": "https://sports.yahoo.com/nba-free-agency-2023-draymond-green-will-re-sign-with-golden-state-warriors-220345715.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9.HzYvUwXhN8chRK1MDT.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/2f4bb140-152f-11ee-b7e7-57b5a801aa6b",
+            "publishedAt": "2023-06-30T22:03:45Z",
+            "content": "Four-time NBA champion and 2017 Defensive Player of the Year Draymond Green has agreed to return to the Golden State Warriors on a four-year, $100 million contract, Yahoo Sports' Jake Fischer reports\u2026 [+3632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WDIV ClickOnDetroit"
+            },
+            "author": "Kim Adams",
+            "title": "Air Quality Alert extended as smoke from Canada wildfires spread across Southeast Lower Michigan - WDIV ClickOnDetroit",
+            "description": "Another extension of our air quality alert as smoke from the wildfires in Canada continues to be a problem across Southeast Lower Michigan.",
+            "url": "https://www.clickondetroit.com/weather/2023/06/30/air-quality-alert-extended-as-smoke-from-canada-wildfires-spread-across-southeast-lower-michigan/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PVWKO6I4DRAPBKSAYEWDYQJ47Y.jpg?_a=ATAPphC0",
+            "publishedAt": "2023-06-30T21:04:04Z",
+            "content": "4Warn Weather Another extension of our air quality alert as smoke from the wildfires in Canada continues to be a problem across Southeast Lower Michigan.\r\nThere is a slight risk of a shower later ton\u2026 [+778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gold Derby"
+            },
+            "author": "Daniel Montgomery",
+            "title": "Olivia Rodrigo (\u2018Vampire\u2019): Fans say \u2018that girl has some balls\u2019 as they react to her bold new single and video [WATCH] - Gold Derby",
+            "description": "\u201c\u2018Bloodsucker, fame f*cker\u2019 is an incredibly bold hook for a pop album lead single, especially from a young star on Olivia\u2019s level. My biggest worry about the \u2018Guts\u2019 e\u2026",
+            "url": "https://www.goldderby.com/article/2023/olivia-rodrigo-vampire-video-single/",
+            "urlToImage": "https://www.goldderby.com/wp-content/uploads/2023/06/olivia-rodrigo.jpg",
+            "publishedAt": "2023-06-30T21:00:27Z",
+            "content": "\u201c\u2018Bloodsucker, fame f*cker\u2019 is an incredibly bold hook for a pop album lead single, especially from a young star on Olivia\u2019s level. My biggest worry about the \u2018Guts\u2019 era was that she\u2019d be playing it \u2026 [+2231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "Mars helicopter Ingenuity phones home, breaking 63-day silence - Space.com",
+            "description": "Rugged terrain had kept Ingenuity from communicating with its robotic partner, the Perseverance rover.",
+            "url": "https://www.space.com/mars-helicopter-ingenuity-breaks-63-day-silence",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MH6qk8RtfvvxBemYqNCthd-1200-80.jpg",
+            "publishedAt": "2023-06-30T21:00:07Z",
+            "content": "The Ingenuity Mars helicopter's two-month silent stretch is over.\r\nIngenuity got in touch with its handlers on June 28 via its robotic parter, the Perseverance rover, NASA officials announced today (\u2026 [+2226 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Lauren Huff",
+            "title": "Karen Allen on saying goodbye to Indy and Marion in 'Dial of Destiny' - Entertainment Weekly News",
+            "description": "Plus, how her working relationship with Harrison Ford has changed over the years.",
+            "url": "https://ew.com/movies/karen-allen-on-saying-goodbye-indiana-jones-marion-ravenwood/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B960%2C93%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F06%2F28%2FKaren-Allen-062923-2.jpg",
+            "publishedAt": "2023-06-30T21:00:00Z",
+            "content": "Warning: This article contains spoilers for\u00a0Indiana Jones and the Dial of Destiny.\r\n\"It's not the years, honey. It's the mileage.\"\r\nThat may have been true when Harrison Ford's Indiana Jones first ut\u2026 [+10895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whitehouse.gov"
+            },
+            "author": "The White House",
+            "title": "FACT SHEET: President Biden Announces New Actions to Provide Debt Relief and Support for Student Loan Borrowers - The White House",
+            "description": "No President has fought harder for student debt relief than President Biden, and he\u2019s not done yet. President Biden and Vice President Harris will not let Republican elected officials succeed in denying hardworking Americans the relief they need. In light of \u2026",
+            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/30/fact-sheet-president-biden-announces-new-actions-to-provide-debt-relief-and-support-for-student-loan-borrowers/",
+            "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+            "publishedAt": "2023-06-30T20:17:48Z",
+            "content": "No President has fought harder for student debt relief than President Biden, and hes not done yet. President Biden and Vice President Harris will not let Republican elected officials succeed in denyi\u2026 [+6241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "CAROLYN THOMPSON and PATRICK WHITTLE",
+            "title": "Recovering Titan with the Odysseus underwater robot was complex, dangerous, emotional - Yahoo News",
+            "description": "When Edward Cassano and his colleagues arrived in the remote stretch of ocean where the Titan submersible had gone missing, they quickly learned that they...",
+            "url": "https://news.yahoo.com/recovering-titan-odysseus-underwater-robot-201413925.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fuDMPPG_xP8likOlTdwBwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/4cac51e6e5898c20e843c49ce0ca2b9f",
+            "publishedAt": "2023-06-30T20:14:13Z",
+            "content": "EAST AURORA, N.Y. (AP) When Edward Cassano and his colleagues arrived in the remote stretch of ocean where the Titan submersible had gone missing, they quickly learned that they would have to do what\u2026 [+4960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "James Harden opts in as 76ers explore trade options, Damian Lillard & Bruce Brown | NBA | THE HERD - The Herd with Colin Cowherd",
+            "description": "Chris Broussard joins Colin Cowherd on The Herd to discuss the latest news in sports. Broussard reacts to James Harden opting into his $35.6M deal but is exp...",
+            "url": "https://www.youtube.com/watch?v=8nQo0-d03aE",
+            "urlToImage": "https://i.ytimg.com/vi/8nQo0-d03aE/maxresdefault.jpg",
+            "publishedAt": "2023-06-30T19:15:56Z",
             "content": null
         },
         {
@@ -34,232 +203,63 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "France shooting: Policeman charged over teen's traffic stop death - BBC",
-            "description": "France sees a third night of mass unrest, triggered by Tuesday's police shooting of a teenager.",
-            "url": "https://www.bbc.com/news/world-europe-66061138",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67C4/production/_130246562_567983cbbb3490546ba1fad32e47d767fcfae45a.jpg",
-            "publishedAt": "2023-06-30T07:27:05Z",
-            "content": "A French policeman has been charged with homicide and is now in custody over the killing of a teenager during a traffic stop near Paris on Tuesday. \r\nThe 17-year-old, named as Nahel M, was shot at po\u2026 [+2941 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Andrea Blanco",
-            "title": "Titanic submarine latest: OceanGate still advertising Titan trips after human remains recovered from wreckage - The Independent",
-            "description": "Titanic submarine implosion wreckage found - latest updates",
-            "url": "https://www.independent.co.uk/news/world/americas/titanic-sub-human-remains-found-oceangate-b2366961.html",
-            "urlToImage": "https://static.independent.co.uk/2023/06/28/20/oceangate%20titan%20wreck%20victims.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-06-30T05:46:41Z",
-            "content": "OceanGate sub pilot job opening sparks backlash on TikTok\r\nA job advert posted by the company that operated the doomed Titanic submersible that imploded last week in the Atlantic Ocean has sparked ba\u2026 [+1319 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Daniel Wu",
-            "title": "Dylan Mulvaney addresses Bud Light backlash in new video - The Washington Post",
-            "description": "Transgender influencer Dylan Mulvaney spoke out for the first time about enduring hate after her sponsored video kicked off a conservative boycott of Bud Light.",
-            "url": "https://www.washingtonpost.com/nation/2023/06/29/mulvaney-speaks-out-bud-light/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EEB2YQLZQH3GSG6MCJBJRPY54_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-06-30T05:08:59Z",
-            "content": "Dylan Mulvaney feared leaving her home and felt unsupported by Bud Light as the transgender social media influencer endured a torrent of right-wing backlash over an Instagram video in which she promo\u2026 [+3025 chars]"
+            "title": "US Supreme Court rules website designer can refuse to serve same-sex couples - BBC",
+            "description": "The decision means states cannot compel artists to express messages against their religious beliefs.",
+            "url": "https://www.bbc.com/news/world-us-canada-66070534",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FEA5/production/_127898156_gettyimages-1245373644.jpg",
+            "publishedAt": "2023-06-30T18:38:13Z",
+            "content": "The US Supreme Court has ruled in favour of a graphic designer who has refused to create wedding websites for same-sex couples.\r\nLorie Smith, from Colorado, argued she could not serve same-sex couple\u2026 [+3897 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "cleveland.com"
             },
-            "author": "Lawrence Richard",
-            "title": "Biden says he's 'not the essential man' during 2024 campaign fundraiser with Wall Street execs - Fox Business",
-            "description": "President Biden held a pair of fundraisers in Manhattan with Wall Street executives on Thursday ahead of a reporting deadline to the Federal Election Commission.",
-            "url": "https://www.foxbusiness.com/politics/biden-says-not-essential-man-2024-campaign-fundraiser-wall-street-execs",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/0/0/AP23180630294123.jpg?ve=1&tl=1",
-            "publishedAt": "2023-06-30T04:50:09Z",
-            "content": "President Biden concluded an end-of-quarter campaign blitz Thursday with a pair of fundraisers in Manhattan, where he told Wall Street power brokers that he was \"not the essential man\" going into his\u2026 [+4859 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Chairwoman of the California Reparations Task Force discusses historic report - KCAL News",
-            "description": "The chairwoman of the California Reparations Task Force said she hopes people read the over 1,000-page report with an open heart and mind. Tom Wait reports.",
-            "url": "https://www.youtube.com/watch?v=pbm28SRd-Zw",
-            "urlToImage": "https://i.ytimg.com/vi/pbm28SRd-Zw/maxresdefault.jpg",
-            "publishedAt": "2023-06-30T04:38:45Z",
+            "author": "Adam Ferrise, cleveland.com",
+            "title": "Republican lobbyist Matt Borges sentenced to 5 years in prison for role in bribery scandal - cleveland.com",
+            "description": "Matt Borges, the former Ohio Republican Party chairman, was sentenced Friday in federal court in Cincinnati for his role in the largest political corruption scheme in state history.",
+            "url": "https://www.cleveland.com/politics/2023/06/republican-lobbyist-matt-borges-sentenced-to-5-years-prison-for-role-in-bribery-scandal.html",
+            "urlToImage": "https://www.cleveland.com/resizer/0SS_pGjD1RnFgWrP1wOd2U35tzs=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7NHPTAFBZ5HW7ODOLGGFHXGRXA.JPG",
+            "publishedAt": "2023-06-30T18:22:00Z",
             "content": null
         },
         {
             "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Florida mosquitoes test positive for malaria as officials spray area - Ars Technica",
+            "description": "Officials have ramped up ground and aerial spraying.",
+            "url": "https://arstechnica.com/health/2023/06/malaria-found-in-florida-mosquitoes-amid-cluster-of-local-cases/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1504347371-760x380.jpeg",
+            "publishedAt": "2023-06-30T17:52:25Z",
+            "content": "Enlarge/ A Miami-Dade mosquito control inspector sprays a pesticide to kill adult mosquitos on June 29, 2023, in Miami. The Miami-Dade mosquito control department continues its regular spraying and i\u2026 [+2779 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "Harvard Crimson"
+                "name": "Variety"
+            },
+            "author": "Gene Maddaus",
+            "title": "SAG-AFTRA and Studios Still Far Apart But Talks May Go Into Weekend - Variety",
+            "description": "SAG-AFTRA negotiators are meeting again Friday with the Alliance of Motion Picture and Television Producers, as the industry waits in nervous anticipation of a potential \u201cdouble strike.&#8221\u2026",
+            "url": "https://variety.com/2023/biz/news/sag-aftra-deadline-actors-strike-midnight-negotiations-1235659189/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2021/02/HollywoodLandmarks243864Finals.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-06-30T17:23:00Z",
+            "content": "SAG-AFTRA negotiators are meeting again Friday with the Alliance of Motion Picture and Television Producers, as the industry waits in nervous anticipation of a potential \u201cdouble strike.\u201d\r\nSources tol\u2026 [+2459 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
             },
             "author": null,
-            "title": "Supreme Court, President Biden Take Aim at Legacy Admissions | News - Harvard Crimson",
-            "description": "Legacy admissions are under renewed scrutiny following the Supreme Court\u2019s Thursday decision to dramatically curtail the use of race in college admissions.",
-            "url": "https://www.thecrimson.com/article/2023/6/30/legacy-scrutiny-sffa-harvard/",
-            "urlToImage": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2022/10/31/202351_1359066.jpg.2000x1333_q95_crop-smart_upscale.jpg",
-            "publishedAt": "2023-06-30T03:31:42Z",
-            "content": "Legacy admissions are under renewed scrutiny following the Supreme Courts Thursday decision to dramatically curtail the use of race in college admissions.\r\nThough the Supreme Court is divided along i\u2026 [+3703 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Faris Tanyos",
-            "title": "Virginia sheriff gave out deputy badges in exchange for cash bribes, feds say - CBS News",
-            "description": "The longtime Culpeper County sheriff accepted more than $72,000 in bribes from at least eight people, including two undercover FBI agents, authorities said.",
-            "url": "https://www.cbsnews.com/news/virginia-sheriff-culpeper-county-scott-jenkins-deputy-badges-cash-bribes-feds/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/30/211c63f6-cc09-499c-bdf1-4847e4604393/thumbnail/1200x630/4897d29035952c45612e338c7fcc70e2/gettyimages-1194254277.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4",
-            "publishedAt": "2023-06-30T03:30:00Z",
-            "content": "A Virginia sheriff is facing federal charges after being accused of accepting tens of thousands of dollars in cash bribes in exchange for giving out deputy badges, authorities announced Thursday. Thr\u2026 [+2134 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "Investor's Business Daily",
-            "title": "Dow Jones Futures: Inflation Report Due As Fed Rate Hike Odds Rise; Citi Sees 27% Apple Upside | Investor's Business Daily - Investor's Business Daily",
-            "description": null,
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-as-fed-rate-hike-odds-rise-with-inflation-report-due-apple-nears-3-trillion/",
-            "urlToImage": null,
-            "publishedAt": "2023-06-30T02:47:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FOX19"
-            },
-            "author": null,
-            "title": "Taylor Swift concertgoers in Cincinnati have reserved parking spots canceled at the last minute - FOX19",
-            "description": "Users of an app called ParkWhiz received cancellation notices days before the shows.",
-            "url": "https://www.fox19.com/2023/06/30/taylor-swift-concertgoers-cincinnati-have-reserved-parking-spots-canceled-last-minute/",
-            "urlToImage": "https://gray-wxix-prod.cdn.arcpublishing.com/resizer/6Q9DM2XlW0qqUbyL9EJ3wpyT3pA=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QLTSPFZQSRCGZPVPIZL4VM555M.jpg",
-            "publishedAt": "2023-06-30T02:25:00Z",
-            "content": "CINCINNATI (WXIX) - Some Swifties coming to Downtown Cincinnati for the Taylor Swift concerts this weekend had their reserved parking spots taken away just dayseven hoursbefore the shows.\r\nParking is\u2026 [+1439 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "United Airlines travelers out of SFO face delays and cancellations - NBC Bay Area",
-            "description": "Thousands of United Airlines flights have been delayed or canceled this week as the airline struggled with bad weather and staffing problems. Robert Handa re...",
-            "url": "https://www.youtube.com/watch?v=qWBRQZm4_Q4",
-            "urlToImage": "https://i.ytimg.com/vi/qWBRQZm4_Q4/maxresdefault.jpg",
-            "publishedAt": "2023-06-30T01:51:59Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "entertainment-weekly",
-                "name": "Entertainment Weekly"
-            },
-            "author": "Lauren Huff",
-            "title": "Debi Mazar shares Madonna health update after hospitalization - Entertainment Weekly News",
-            "description": "The Queen of Pop recently spent several days in the ICU with a bacterial infection.",
-            "url": "https://ew.com/celebrity/debi-mazar-gives-madonna-health-update/",
-            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C104%2C2000%2C1104&poi=%5B1000%2C639%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F06%2F30%2FDebi-Mazar-and-Madonna-01-062923.jpg",
-            "publishedAt": "2023-06-30T01:30:00Z",
-            "content": "Debi Mazar is a true-blue friend to Madonna.\r\nThe Younger actress is sharing some public well wishes and providing an update on the health of her longtime pal, who recently spent several days hospita\u2026 [+1481 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Sports Staff",
-            "title": "NBA free agency 2023 tracker: James Harden, 76ers will explore trade scenarios; latest news, rumors, trades - Yahoo Sports",
-            "description": "Follow Yahoo Sports for the latest NBA free agency news ahead of the period opening at 6 p.m. ET Friday.",
-            "url": "https://sports.yahoo.com/nba-free-agency-2023-tracker-james-harden-76ers-will-explore-trade-scenarios-latest-news-rumors-trades-204939902.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pm0by0vbzzUpE71cpkW5Eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/d7e1aae0-15ec-11ee-b2b3-aa2ca88a657d",
-            "publishedAt": "2023-06-30T01:30:00Z",
-            "content": "NBA free agency begins at 6 p.m. ET Friday as teams can start negotiating deals with free-agent players. Those deals can become official July 6. Between Friday and July 6, all deals can be agreed upo\u2026 [+1814 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Suzy Byrne",
-            "title": "Kevin Costner claims estranged wife Christine spent $188K a month on plastic surgery last year - Yahoo Entertainment",
-            "description": "Kevin Costner does not want his child support payments to cover his soon-to-be ex-wife's cosmetic surgery procedures. He also sets the record straight on her...",
-            "url": "https://www.yahoo.com/entertainment/kevin-costner-claims-estranged-wife-012732914.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7ZeKZYJR6booGr3UyrDqMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/e61c62b0-16ac-11ee-b9fe-ef038d36279e",
-            "publishedAt": "2023-06-30T01:27:00Z",
-            "content": "Kevin Costner's divorce from wife Christine continues to be ugly. He claims she spent over $2 million on plastic surgery last year. He rips her for making public that he broke the news about their di\u2026 [+10331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Arizona Sports"
-            },
-            "author": ", Kellan Olson",
-            "title": "Bradley Beal will unlock new dimension for himself, Booker, Durant - Arizona Sports",
-            "description": "Bradley Beal is antsy to see what the Phoenix Suns will look like on the court and the challenges they will present defenses. Us too.",
-            "url": "https://arizonasports.com/story/3527012/bradley-beal-will-unlock-new-dimension-for-himself-booker-durant/",
-            "urlToImage": "http://arizonasports.com/wp-content/uploads/2023/06/GettyImages-1481807501-e1688079846983.jpg",
-            "publishedAt": "2023-06-30T01:27:00Z",
-            "content": "PHOENIX \u2014 We will see it on a court in three months time. But for the sake of the present, let\u2019s picture it.\r\nNew Phoenix Suns guard Bradley Beal takes the ball up. With a spaced-out set, Beal is at \u2026 [+7785 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HuffPost"
-            },
-            "author": "Nick Visser",
-            "title": "Judge Says Trump Can\u2019t Claim Presidential Immunity To Dismiss Defamation Suit - Yahoo News",
-            "description": "Writer E. Jean Carroll is suing the ex-president for at least $10 million in damages.",
-            "url": "https://www.huffpost.com/entry/trump-e-jean-carroll-defamation_n_649e072fe4b065a315b7e200",
-            "urlToImage": "https://media.zenfs.com/en/the_huffington_post_584/734451453ee78b0c97b047871a3f5e35",
-            "publishedAt": "2023-06-30T01:02:00Z",
-            "content": "A federal judge rejected former President Donald Trumps effort to dismiss writer E. Jean Carrolls defamation suit against him on Thursday, saying his claims of absolute presidential immunity were not\u2026 [+3100 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Virgin Galactic successfully completes its first commercial spaceflight - CBS News",
-            "description": "The commercial space race is heating up. Virgin Galactic successfully completed its first flight with paying customers Thursday. Danya Bacchus has more.#news...",
-            "url": "https://www.youtube.com/watch?v=OcIMu8DYShc",
-            "urlToImage": "https://i.ytimg.com/vi/OcIMu8DYShc/maxresdefault.jpg",
-            "publishedAt": "2023-06-30T00:58:51Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Chicago Tribune"
-            },
-            "author": "Phil Thompson",
-            "title": "2023 NHL draft: Chicago Blackhawks select 11 players - Chicago Tribune",
-            "description": "Day 2 of the NHL draft seemed like it flew by, and let\u2019s just say the Blackhawks went with that theme. They used their nine Day 2 draft picks to add speed and more speed.",
-            "url": "https://www.chicagotribune.com/sports/blackhawks/ct-chicago-blackhawks-nhl-draft-20230629-267uritcq5fmznvdzu6quweutu-story.html",
-            "urlToImage": "https://www.chicagotribune.com/resizer/4dxWceP5gaMj6tlVJGAFOTITJ9A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AQETYUIJE4QEPEWP3IH5E4CYWI.jpg",
-            "publishedAt": "2023-06-30T00:49:56Z",
-            "content": "NASHVILLE \u2014 Day 2 of the NHL draft seemed like it flew by, and lets just say the Blackhawks went with that theme.\r\nThey ended up with nine draft picks in their arsenal Thursday including three second\u2026 [+14971 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "The Summer I Turned Pretty Season 2 - Official Trailer | Prime Video - Prime Video",
-            "description": "Belly used to count down the days until she could return to Cousins Beach, but with Conrad and Jeremiah fighting over her heart and the return of Susannah's ...",
-            "url": "https://www.youtube.com/watch?v=AOPE3mvYjRk",
-            "urlToImage": "https://i.ytimg.com/vi/AOPE3mvYjRk/maxresdefault.jpg",
-            "publishedAt": "2023-06-30T00:34:02Z",
+            "title": "Giant gravitational waves: why scientists are so excited - Nature.com",
+            "description": "Astrophysicists describe what galaxy-wide gravitational waves could mean for our understanding of black holes and the history of the cosmos.",
+            "url": "https://www.nature.com/articles/d41586-023-02203-6",
+            "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-02203-6/d41586-023-02203-6_25559010.jpg",
+            "publishedAt": "2023-06-30T17:08:49Z",
             "content": null
         }
     ]
