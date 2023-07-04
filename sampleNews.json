@@ -1,97 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 32,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Motorsport.com"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Filip Cleeren",
-            "title": "Magnussen and de Vries to start F1 Austrian GP from pitlane - Motorsport.com",
-            "description": "Haas driver Kevin Magnussen and AlphaTauri's Nyck de Vries are set to start Formula 1's Austrian Grand Prix from the pitlane after making car changes in parc ferme.",
-            "url": "https://www.motorsport.com/f1/news/magnussen-and-de-vries-to-start-austrian-gp-f1-from-pitlane/10490473/",
-            "urlToImage": "https://cdn-3.motorsport.com/images/amp/63vGXNgY/s6/kevin-magnussen-haas-vf-23-in-.jpg",
-            "publishedAt": "2023-07-02T10:38:12Z",
-            "content": "Magnussen and de Vries were set to start 19th and 20th on the grid respectively, so both their teams elected to breach parc ferme rules and make changes to the cars with a minimal penalty.\r\nIn Magnus\u2026 [+1546 chars]"
+            "author": "David J. Lynch",
+            "title": "Yellen makes first trip to China, seeking stronger ties while supply chains move away - The Washington Post",
+            "description": "Janet L. Yellen jets to Beijing this week in a test of the administration\u2019s ability to improve relations with China while seeking to cut U.S. companies\u2019 reliance on Chinese factories.",
+            "url": "https://www.washingtonpost.com/business/2023/07/02/china-yellen-economy/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3NPX6AHGREI6ZJBCCG53SHNTBM_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-07-03T02:32:52Z",
+            "content": "Comment on this story\r\nComment\r\nTreasury Secretary Janet L. Yellen jets to Beijing this week in a test of the Biden administrations ability to improve relations with China while pursuing an economic \u2026 [+9618 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jake Kwon, Heather Chen, Xiaofei Xu, Martin Goillandeau, Alex Hardie, Alex Stambaugh, Sophie Tanno",
+            "title": "Grandmother of teen killed in police stop calls for calm, as France prepares for sixth night of violence - CNN",
+            "description": "The grandmother of the 17-year-old boy who was fatally shot by a police officer in a Paris suburb has called for an end to the violence that erupted in the aftermath of his death, as French authorities gear up for a sixth night of rioting.",
+            "url": "https://www.cnn.com/2023/07/02/world/france-protests-violence-mayors-house-attack-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230701223649-01-france-protests-070223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-03T01:44:00Z",
+            "content": "The grandmother of the 17-year-old boy who was fatally shot by a police officer in a Paris suburb has called for an end to the violence that erupted in the aftermath of his death, as French authoriti\u2026 [+5200 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Videocardz.com"
+                "name": "Suntimes.com"
             },
-            "author": null,
-            "title": "AMD to bundle Starfield with Ryzen 7000 CPU series - VideoCardz.com",
-            "description": "Newegg website reveals potential Launch of AMD Game Bundle featuring Starfield AMD is set to announce a new game bundle featuring Bethesda\u2019s Starfield.\u00a0 In a recent discovery made by one of our diligent readers, a new game bundle page has emerged on the Neweg\u2026",
-            "url": "https://videocardz.com/newz/amd-to-bundle-starfield-with-ryzen-7000-cpu-series",
-            "urlToImage": "https://cdn.videocardz.com/1/2023/07/STARFIELD-RYZEN-HERO.jpg",
-            "publishedAt": "2023-07-02T10:27:00Z",
-            "content": "AMD is set to announce a new game bundle featuring Bethesdas Starfield.\u00a0\r\nIn a recent discovery made by one of our diligent readers, a new game bundle page has emerged on the Newegg website. This dev\u2026 [+1914 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Detroit Free Press"
-            },
-            "author": "Marlowe Alter",
-            "title": "Rocket Mortgage Classic leaderboard, tee times for final round in Detroit: Live updates - Detroit Free Press",
-            "description": "PGA Tour fan favorite Rickie Fowler is atop the leaderboard entering Rocket Mortgage Classic 2023 final round at Detroit Golf Club.",
-            "url": "https://www.freep.com/story/sports/golf/2023/07/02/rocket-mortgage-classic-2023-tv-channel-info-streaming-leaderboard-updates/70376068007/",
-            "urlToImage": "https://www.freep.com/gcdn/presto/2023/07/01/PDTF/3c5a2c70-788e-47c4-a17a-62a02d3d109a-07012023_rmcd3-17.jpg?crop=2399,1350,x0,y122&width=2399&height=1350&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-02T10:05:45Z",
-            "content": "It's an early start for the\u00a0Rocket Mortgage Classic\u00a02023\u00a0final round Sunday at\u00a0Detroit Golf Club.\r\nThe players will tee off in threesomes from both the Nos. 1 and 10 tees, beginning at 6:45 a.m. The \u2026 [+1842 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vox"
-            },
-            "author": "Christian Paz",
-            "title": "Florida's new immigration law previews a DeSantis presidency - Vox.com",
-            "description": "The law that takes effect this weekend has already sparked fear \u2014\u00a0and could carry human and financial costs.",
-            "url": "https://www.vox.com/politics/23779772/desantis-undocumented-immigrants-florida-immigration-law-border-biden",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/EC1UTco-hfZOMRYTIQeCfiX6f9s=/0x817:6240x4084/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24763714/1259618554.jpg",
-            "publishedAt": "2023-07-02T10:00:00Z",
-            "content": "In the first few weeks of May, Yesica Ramirezs phone wouldnt stop buzzing.\r\nFloridas state legislature had just approved SB 1718, a wide-ranging anti-immigrant law that requires businesses to verify \u2026 [+13735 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CTech"
-            },
-            "author": "Omer Kabir",
-            "title": "Musk limits number of posts Twitter users can read - Shooting his new CEO in the foot - CTech",
-            "description": "At a time when new CEO Linda Yaccarino is taking significant steps to steer Twitter back on track, Musk is undermining the very foundation on which the company is built",
-            "url": "https://www.calcalistech.com/ctechnews/article/rkpdntcdn",
-            "urlToImage": "https://pic1.calcalist.co.il/picserver3/crop_images/2023/07/02/rkJejFAOh/rkJejFAOh_0_52_2043_1151_0_large.jpg",
-            "publishedAt": "2023-07-02T09:40:00Z",
-            "content": "12:40, 02.07.23 \r\nThe cornerstone of any advertising-based online platform, particularly social networks, is to encourage users to spend as much time as possible on it. They are encouraged to write a\u2026 [+5976 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Euclid \u201cDark Universe\u201d Space Telescope Lifts Off on Quest To Unravel Deepest Cosmic Mysteries - SciTechDaily",
-            "description": "ESA\u2019s Euclid spacecraft lifted off aboard a SpaceX Falcon 9 rocket from Cape Canaveral Space Force Station in Florida, USA, at 11:12 a.m. EDT on July 1, 2023. The successful launch marks the beginning of an ambitious mission to uncover the nature of two myste\u2026",
-            "url": "https://scitechdaily.com/euclid-dark-universe-space-telescope-lifts-off-on-quest-to-unravel-deepest-cosmic-mysteries/",
-            "urlToImage": "https://scitechdaily.com/images/ESA-Euclid-Dark-Matter-Energy-Space-Telescope.jpg",
-            "publishedAt": "2023-07-02T09:17:05Z",
-            "content": "ByEuropean Space Agency (ESA)July 2, 2023\r\nOn July 1, 2023, the Euclid spacecraft, operated by the European Space Agency (ESA), was successfully launched on a SpaceX Falcon 9 rocket from Cape Canaver\u2026 [+13059 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hoops Hype"
-            },
-            "author": "Michael Scotto",
-            "title": "NBA rumors: Dame Lillard, Austin Reaves, Cam Johnson, Grant Williams, PJ Washington, Malik Beasley, more - Hoops Hype",
-            "description": "Reporting on Damian Lillard trade talks, free agency updates for Austin Reaves, Cam Johnson, PJ Washington, Grant Williams, Malik Beasley, Terence Davis, Torrey Craig, and more on the Thunder, Rapt\u2026",
-            "url": "https://hoopshype.com/lists/nba-rumors-damian-lillard-austin-reaves-cam-johnson-grant-williams-pj-washington-malik-beasley/",
-            "urlToImage": "https://hoopshype.com/wp-content/uploads/sites/92/2023/07/Intel_reports_3.png?w=1024&h=576&crop=1",
-            "publishedAt": "2023-07-02T08:26:15Z",
-            "content": "Soobum Im-USA TODAY Sports\r\nPortland Trail Blazers star Damian Lillard has requested a trade, according to multiple reports, and several teams covet the seven-time All-Star who was named one of the N\u2026 [+3661 chars]"
+            "author": "Sun-Times staff",
+            "title": "Shane van Gisbergen wins first NASCAR victory in Grant Park 220 - Chicago Sun-Times",
+            "description": "After the heavy rain finally let up in the late afternoon Sunday, NASCAR\u2019s big race is won by van Gisbergen after a wild, chaotic race in downtown Chicago.",
+            "url": "https://chicago.suntimes.com/2023/7/1/23781445/nascar-chicago-race-rain",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/f01ddc9/2147483647/strip/true/crop/8192x4676+0+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FlcuFPk6brJbLlKsGmlOxhjvqDJY%3D%2F0x0%3A8192x5464%2F8192x5464%2Ffilters%3Afocal%284105x2325%3A4106x2326%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24767435%2F561A5608.jpg",
+            "publishedAt": "2023-07-03T01:44:00Z",
+            "content": "NASCAR AT A GLANCE\r\nShane van Gisbergen won his first victory in his NASCAR Cup Series debut at the rain-delayed, darkness-shortened, slip-slidin Grant Park 220 on the Chicago Street Race Course.\r\nDe\u2026 [+2052 chars]"
         },
         {
             "source": {
@@ -99,168 +47,220 @@
                 "name": "TMZ"
             },
             "author": "TMZ Staff",
-            "title": "Young Buck Gets Into Fight With Afroman's Crew - TMZ",
-            "description": "Afroman and Young Buck were recently at odds -- and it got so ugly, hands started to get thrown ... leading to a full-blown bruhaha breaking out between their respective crews.",
-            "url": "https://www.tmz.com/2023/07/02/afroman-young-buck-crew-fight-virginia-brawl-scuffle/",
-            "urlToImage": "https://imagez.tmz.com/image/68/16by9/2023/06/28/6818b4de1ac1411bbb21a49cfcdf1b2f_xl.jpg",
-            "publishedAt": "2023-07-02T08:00:00Z",
-            "content": "Afroman and Young Buck were recently at odds -- and it got so ugly, hands were thrown ... leading to a full-blown brouhaha breaking out between their respective crews.\r\nSources with knowledge tell TM\u2026 [+1798 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Melissa Alonso",
-            "title": "Baltimore Police are at the scene of a \u2018mass shooting incident,\u2019 officials say - CNN",
-            "description": "Baltimore Police officers are at the scene of an overnight \u201cmass shooting incident\u201d in South Baltimore, Baltimore Police Spokesperson Lindsey Eldridge said Sunday.",
-            "url": "https://www.cnn.com/2023/07/02/us/baltimore-shooting-sunday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230702033133-01-baltimore-shooting-070223-map.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-02T07:41:00Z",
-            "content": "Baltimore Police officers are at the scene of an overnight mass shooting incident in South Baltimore, Baltimore Police Spokesperson Lindsey Eldridge said Sunday.\r\nThe incident happened in the 800 blo\u2026 [+163 chars]"
+            "title": "Taylor Swift's 2011 'Speak Now' Marilyn Monroe Moment from New Angle - TMZ",
+            "description": "Taylor Swift's 'Marilyn Monroe moment' from 2011 can now be viewed from the front ... some 12 years later.",
+            "url": "https://www.tmz.com/2023/07/02/taylor-swift-speak-now-marilyn-monroe-moment-new-angle/",
+            "urlToImage": "https://imagez.tmz.com/image/b9/16by9/2023/07/03/b999aa291ab449da851f6f0f317ab255_xl.png",
+            "publishedAt": "2023-07-03T01:23:00Z",
+            "content": "Taylor Swift once had a wardrobe whoopsie eerily similar to Marilyn Monroe's famous blowing-dress moment -- something that, until now, could only be viewed from one side.\r\nDiehard Swifites will likel\u2026 [+2071 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Chicago Tribune"
+                "name": "The Seattle Times"
             },
-            "author": "Tarot Astrologers",
-            "title": "Daily horoscope for July 2, 2023 - Chicago Tribune",
-            "description": "Check out your daily horoscope here, provided by Tarot astrologers.",
-            "url": "https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-07022023-20230702-imv5feqvxvfqzmuveejmlnpvci-story.html",
-            "urlToImage": "https://www.chicagotribune.com/resizer/wTsrdLN5g_PkNrvYJtMZd6CpStI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/2XWTZZQLK5A6XLZ3X2KE34J2K4.jpg",
-            "publishedAt": "2023-07-02T06:00:00Z",
-            "content": "Even powerful courses of action can be diverted. As the sensitive Moon empowers bold Mars, we're gifted the confidence to break through any uncertainty or fear. Balanced Venus then squares off with s\u2026 [+6296 chars]"
+            "author": "Ryan Divish",
+            "title": "Luis Castillo named as Mariners\u2019 lone representative for upcoming All-Star Game at T-Mobile Park - The Seattle Times",
+            "description": "The Mariners could add another representative, most likely starting pitcher George Kirby, in the coming days.",
+            "url": "https://www.seattletimes.com/sports/mariners/luis-castillo-named-as-mariners-lone-representative-for-upcoming-all-star-game-at-t-mobile-park/",
+            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/06/06072023_tzr_tzr_182805.jpg?d=1200x630",
+            "publishedAt": "2023-07-03T00:59:05Z",
+            "content": "Unlike the 2001 All-Star Game, the last time Seattle was the host for Major League Baseballs midsummer celebration, the Mariners wont have eight players representing the organization this time around\u2026 [+7476 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ksltv.com"
+                "name": "KABC-TV"
             },
-            "author": ", Shelby Lofton",
-            "title": "Experts say there's a 'slim chance' malaria cases spread to Utah - KSL.com",
-            "description": "Utah health officials are saying it's very unlikely for a malaria case to appear in the state from the recent cases found in the southern part of the county.",
-            "url": "https://ksltv.com/563252/experts-say-theres-a-slim-chance-malaria-cases-spread-to-utah/",
-            "urlToImage": "https://ksltv.com/wp-content/uploads/2023/06/Experts-say-theres-a-slim-chance-malaria-cases-spread-to-Utah-062823.jpg",
-            "publishedAt": "2023-07-02T04:31:35Z",
-            "content": "SALT LAKE CITY \u2014 On Tuesday, the Centers for Disease Control and Prevention announced five malaria cases in the U.S., but what does this mean for Utahns?\r\nThe CDC said the four cases in Flordia and t\u2026 [+2529 chars]"
+            "author": null,
+            "title": "Thousands of SoCal hotel workers officially go on strike after negotiations for higher pay, better benefits fail - KABC-TV",
+            "description": "Thousands of workers at hotels across Los Angeles County officially walked off the job on Sunday, starting a labor strike as they demand higher wages and better benefits.",
+            "url": "https://abc7.com/hotel-workers-strike-los-angeles-county-union/13453353/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13454740_070223-kabc-5pm-hotel-strike-vid.jpg?w=1600",
+            "publishedAt": "2023-07-03T00:31:49Z",
+            "content": "LOS ANGELES (KABC) -- Thousands of workers at hotels across Los Angeles County officially walked off the job on Sunday, starting a labor strike as they demand higher wages and better benefits.\r\nThe c\u2026 [+3213 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Sophia Barkoff",
-            "title": "Pence says \"I don't remember any pressure\" on state governors after 2020 election - CBS News",
-            "description": "Former Vice President Mike Pence confirmed to \"Face the Nation\" that he called Arizona Gov. Doug Ducey after Trump lost the state to President Biden.",
-            "url": "https://www.cbsnews.com/news/mike-pence-doug-ducey-donald-trump-call-2020-election-face-the-nation/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/02/de20639c-aa67-4f2b-ace8-8fbec03aa195/thumbnail/1200x630/d5c61d3fa87fc21e63dd53ef8403309a/pence-screenshot.png?v=f3503a7856c58c20acab4eae8bb1f0f4",
-            "publishedAt": "2023-07-02T04:01:02Z",
-            "content": "In an interview on Saturday with \"Face the Nation,\" former Vice President Mike Pence said that there was \"no pressure involved\" in former President Donald Trump's requests for him to call former Ariz\u2026 [+2972 chars]"
+            "author": "Aliza Chasan",
+            "title": "Explosive devices detonated, Molotov cocktail thrown at Washington, D.C., businesses - CBS News",
+            "description": "Police are searching for at least one suspect accused of detonating explosive devices and throwing a Molotov cocktail in Washington, D.C.",
+            "url": "https://www.cbsnews.com/news/explosive-devices-molotov-cocktail-washington-dc/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/03/a1bc18f4-ff68-4ef7-8174-efe692886222/thumbnail/1200x630/0bc5d1cdf9f4d4c7c6cc22fb3887a40f/washington-dc-explosives.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4",
+            "publishedAt": "2023-07-03T00:30:41Z",
+            "content": "Explosive devices were detonated and a Molotov cocktail-style object was thrown outside three Washington, D.C., businesses early Sunday, police said.\u00a0\r\nAll three incidents happened in a roughly 15-mi\u2026 [+1495 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Cincinnati Enquirer"
+                "name": "NBC Chicago"
             },
-            "author": "Erin Couch",
-            "title": "Lookback at Swifties on social as Cincinnati concert dates end - The Cincinnati Enquirer",
-            "description": "Here are some tweets from fans as they watched Swift's weekend in the Queen City draw to a close.",
-            "url": "https://www.cincinnati.com/story/news/2023/07/01/lookback-at-swifties-on-social-as-cincinnati-concert-dates-end/70376506007/",
-            "urlToImage": "https://www.cincinnati.com/gcdn/presto/2023/07/01/PCIN/09d99a40-0e1b-4c90-81cf-f8011d79536f-063023TaylorSwiftEras-TS_27.JPG?crop=8639,4860,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-02T03:33:29Z",
-            "content": "Taylor Swift drew thousands to Paycor Stadium for a second night in a row.\r\nSwift's second Cincinnati sold-out show kicked off at 7 p.m. Saturday, an hour earlier than planned due to expected rain.\r\n\u2026 [+981 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Mariya Knight, Maria Kostenko, Heather Chen",
-            "title": "21,000 Wagner mercenaries killed in Ukraine and \u2018world wants to kill\u2019 Putin, Zelensky says - CNN",
-            "description": "At least 21,000 Wagner mercenaries have been killed fighting in Ukraine, according to President Volodymyr Zelensky.",
-            "url": "https://www.cnn.com/2023/07/01/world/wagner-losses-ukraine-zelensky-prigozhin-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230701211051-zelensky-putin-split-0701-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-02T02:40:00Z",
-            "content": "At least 21,000 Wagner mercenaries have been killed fighting in Ukraine, according to President Volodymyr Zelensky.\r\nThe Ukrainian leader said the private military company had suffered enormous losse\u2026 [+3232 chars]"
+            "author": "James Neveau",
+            "title": "Chicago officials reverse flow of river into Lake Michigan to ease flooding from heavy rain - NBC Chicago",
+            "description": "Officials with the Metropolitan Water Reclamation District of Greater Chicago announced Sunday that they have allowed water from the Chicago River to go into\u2026",
+            "url": "https://www.nbcchicago.com/weather/chicago-officials-reverse-flow-of-river-into-lake-michigan-to-ease-flooding-from-heavy-rain/3178728/",
+            "urlToImage": "https://media.nbcchicago.com/2022/04/BODIES-PULLED-FROM-CHICAGO-RIVER.png?resize=1200%2C675&quality=85&strip=all",
+            "publishedAt": "2023-07-03T00:14:08Z",
+            "content": "Officials with the Metropolitan Water Reclamation District of Greater Chicago announced Sunday that they have allowed water from the Chicago River to go into Lake Michigan to help alleviate shoreline\u2026 [+2169 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "SB Nation"
+            },
+            "author": "Ricky O'Donnell",
+            "title": "Russell Westbrook takes biggest pay cut in NBA history to stay with Clippers - SB Nation",
+            "description": "Russell Westbrook took the biggest pay cut ever to stay in LA.",
+            "url": "https://www.sbnation.com/nba/2023/7/2/23782234/russell-westbrook-pay-cut-clippers-nba-free-agency",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/rSQIfBmt1Vghn6SrMiFz1pwCW2c=/0x0:8001x4189/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24767179/usa_today_20288362.jpg",
+            "publishedAt": "2023-07-02T23:52:11Z",
+            "content": "Russell Westbrook finally found a good home late last season when he joined the Los Angeles Clippers. After losing his starting spot and being subject to constant trade rumors with the Los Angeles La\u2026 [+2406 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "Ghostlike Astronomical Messengers Reveal New View of Milky Way - SciTechDaily",
-            "description": "For the first time, the IceCube Neutrino Observatory has created an image of the Milky Way using neutrinos\u2014minuscule, elusive particles of the cosmos. This revolutionary data comes from an international collaboration of over 350 scientists and is backed by th\u2026",
-            "url": "https://scitechdaily.com/ghostlike-astronomical-messengers-reveal-new-view-of-milky-way/",
-            "urlToImage": "https://scitechdaily.com/images/Milky-Way-in-Neutrinos.jpg",
-            "publishedAt": "2023-07-02T01:52:04Z",
-            "content": "ByWisconsin IceCube Particle Astrophysics Center (WIPAC)July 1, 2023\r\nAn artists composition of the Milky Way seen with a neutrino lens (blue). Credit: IceCube Collaboration/U.S. National Science Fou\u2026 [+4861 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": "Ryan Satin",
-            "title": "Roman Reigns is pinned for first time in more than 3 years at WWE Money in the Bank - FOX Sports",
-            "description": "The pin of WWE champ Roman Reigns surprisingly did not come in a title match, nor due to the efforts of a rising star.",
-            "url": "https://www.foxsports.com/stories/wwe/roman-reigns-pinned-for-first-time-in-more-than-3-years-at-wwe-money-in-the-bank",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/07/1408/814/reigns-wide-070123.jpg?ve=1&tl=1",
-            "publishedAt": "2023-07-02T00:09:15Z",
-            "content": "Roman Reigns was pinned for the first time in three and a half years on Saturday at Money in the Bank yet the result wasnt a crowning achievement for a new top star in WWE like many expected would oc\u2026 [+2388 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "France shooting: Clashes and tear gas in Marseille as chaos continues - BBC",
-            "description": "There has been widespread unrest in France for a fifth night over the police killing of a teenage boy.",
-            "url": "https://www.bbc.com/news/world-europe-66078723",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F128/production/_130263716_mediaitem130263715.jpg",
-            "publishedAt": "2023-07-01T23:41:54Z",
-            "content": "Media caption, Watch: Blasts heard as police throw tear gas in Marseille\r\nPolice and rioters have clashed in the French city of Marseille as the country battles with a fifth night of unrest after the\u2026 [+3749 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC Southern California"
-            },
-            "author": "NBC Local Staff",
-            "title": "The first supermoon of 2023 will be visible next week. Here's how to see it. - NBC Southern California",
-            "description": "This week\u2019s supermoon, also known as the Buck Moon, is set to rise on Monday.",
-            "url": "https://www.nbclosangeles.com/news/national-international/how-to-see-julys-buck-supermoon-monday/3180767/",
-            "urlToImage": "https://media.nbclosangeles.com/2023/07/GettyImages-1241889386.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2023-07-01T23:23:16Z",
-            "content": "Pull out those binoculars lunar lovers as this week's supermoon is set to be the biggest and brightest of them all.\r\nThe supermoon, also known as the \"buck moon,\" will reach its closest point to the \u2026 [+1350 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Alicia Diaz",
-            "title": "United May Cut Newark Flights as It Seeks More Gates to Stem Delays - Bloomberg",
-            "description": "United Airlines Holdings Inc. will have to change, and possibly reduce, its flight schedule at Newark Liberty International Airport while work is under way to expand the number of gates for the carrier, Chief Executive Officer Scott Kirby said in a letter to \u2026",
-            "url": "https://www.bloomberg.com/news/articles/2023-07-01/united-may-cut-newark-flights-as-it-seeks-more-gates-to-stem-delays",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYoQAOqI5Kck/v1/1200x800.jpg",
-            "publishedAt": "2023-07-01T23:10:52Z",
-            "content": "United Airlines Holdings Inc. will have to change, and possibly reduce, its flight schedule at Newark Liberty International Airport while work is under way to expand the number of gates for the carri\u2026 [+369 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "NEXT Weather: Severe risk Saturday - CBS Philadelphia",
-            "description": "It's been a hot and hazy Saturday. Andrew Kozak reports the full NEXT Weather forecast",
-            "url": "https://www.youtube.com/watch?v=FIuFLnOYjp8",
-            "urlToImage": "https://i.ytimg.com/vi/FIuFLnOYjp8/maxresdefault.jpg",
-            "publishedAt": "2023-07-01T22:47:07Z",
+            "title": "FIA hands out 12 penalties for track limit offences after F1 Austrian GP - Motorsport.com",
+            "description": null,
+            "url": "https://families.google.com/service-restricted",
+            "urlToImage": null,
+            "publishedAt": "2023-07-02T23:35:40Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "DeSantis slammed by Buttigieg, Republican 2024 rivals and GOP group for \"homophobic\" video - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/07/02/desantis-lgbtq-video-buttigieg-republican-2024-candidates",
+            "urlToImage": null,
+            "publishedAt": "2023-07-02T23:15:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Summit Daily News"
+            },
+            "author": "Staff",
+            "title": "Mosquitoes are abundant in western Colorado this year. Know how to safely and effectively deal with the buzzing pests. - Summit Daily",
+            "description": "The near-historic snowfall this winter is still making itself known in early July, as all the snowmelt and ensuing moisture has brought on what feels like more mosquitoes to the Colorado's Western Slope/High Country. While there isn't exact data to back it up\u2026",
+            "url": "https://www.summitdaily.com/news/mosquitoes-are-abundant-in-western-colorado-this-year-know-how-to-safely-and-effectively-deal-with-the-buzzing-pests/",
+            "urlToImage": "https://cdn.summitdaily.com/wp-content/uploads/sites/2/2023/06/Culex-pipiens-mosquito.jpg",
+            "publishedAt": "2023-07-02T22:14:11Z",
+            "content": "The near-historic snowfall this winter is still making itself known in early July, as all the snowmelt and ensuing moisture has brought on what feels like more mosquitoes to the Colorado\u2019s Western Sl\u2026 [+8192 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComingSoon.net"
+            },
+            "author": "Jeff Ames",
+            "title": "Box Office Results: Indiana Jones 5 Tops with Lukewarm Opening - ComingSoon.net",
+            "description": "The highly anticipated Indiana Jones and the Dial of Destiny took the domestic box office crown this weekend but failed to generate ...",
+            "url": "https://www.comingsoon.net/movies/news/1301981-box-office-results-indiana-jones-5-tops-with-lukewarm-opening",
+            "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Ruby.jpg?resize=1200,630",
+            "publishedAt": "2023-07-02T22:09:15Z",
+            "content": "The highly anticipated Indiana Jones and the Dial of Destiny took the domestic box office crown this weekend but failed to generate extraordinary numbers, ultimately earning $60 million. Globally, th\u2026 [+3408 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Mike  Chiari",
+            "title": "The Usos Defeat Roman Reigns, Solo Sikoa at WWE Money in the Bank 2023 - Bleacher Report",
+            "description": "In a match billed as The Bloodline Civil War, The Usos defeated Roman Reigns and Solo Sikoa at WWE Money in the Bank on Saturday. Jimmy and Jey Uso won after\u2026",
+            "url": "https://bleacherreport.com/articles/10080286-the-usos-defeat-roman-reigns-solo-sikoa-at-wwe-money-in-the-bank-2023",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/x_680,y_52,w_1116,h_743,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1687454643/shjbjuxydmnjldqsfyym.jpg",
+            "publishedAt": "2023-07-02T20:32:16Z",
+            "content": "Photo credit: WWE.com\r\nIn a match billed as The Bloodline Civil War, The Usos defeated Roman Reigns and Solo Sikoa at WWE Money in the Bank on Saturday.\r\nWWE@WWETHEY DID IT!!!&lt;a href=\"https://twit\u2026 [+2767 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Rebecca Elliott",
+            "title": "Tesla Deliveries Rose 83% in the Latest Quarter - The Wall Street Journal",
+            "description": "Price cuts and discounts benefit carmaker as EV competition stiffens",
+            "url": "https://www.wsj.com/articles/tesla-deliveries-to-show-whether-price-cuts-are-paying-off-2f2aac93",
+            "urlToImage": "https://images.wsj.net/im-809854/social",
+            "publishedAt": "2023-07-02T20:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "The Associated Press",
+            "title": "Twitter and Elon Musk impose daily limits on viewing tweets - OregonLive",
+            "description": "Elon Musk has limited the number of tweets that Twitter users can view each day.",
+            "url": "https://www.oregonlive.com/news/2023/07/twitter-and-elon-musk-impose-daily-limits-on-viewing-tweets.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/5m_n61xvJdYh_fHOBo2tzvrzKsI=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PLJYZI3XA5BWBDVQ3JBKYOXLIE.jpg",
+            "publishedAt": "2023-07-02T20:03:00Z",
+            "content": "Twitter owner Elon Musk has limited the number of tweets that users can view each day restrictions he described as an attempt to prevent unauthorized scraping of potentially valuable data from the so\u2026 [+2581 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Gabe Hauari",
+            "title": "Restaurants open July 4th: What to know about McDonald's, Starbucks, Chick-fil-A, more - USA TODAY",
+            "description": "Most restaurants and fast food places will be open on July 4th, but some chains, like Chick-fil-A and Applebee's may have limited hours.",
+            "url": "https://www.usatoday.com/story/money/food/2023/07/02/july-4th-restaurants-open-hours/70361518007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/14/USAT/1940000d-9f72-4ea6-a85c-b170374ac8d4-GTY_1479484441.jpg?crop=4584,2579,x0,y189&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-02T19:03:06Z",
+            "content": "Whether you're looking for your daily dose of caffeine or a quick bite to eat, there will be plenty of food options to choose from this Independence Day.\r\nWhile most restaurants and fast food chains \u2026 [+3846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mixed-news.com"
+            },
+            "author": "Benjamin Danneberg",
+            "title": "Apple Vision Pro Gold, Super Quest 3, PSVR 2 for PC & AR-Android - MIXED Reality News",
+            "description": "PSVR 2 can do PC and cool shooters, Apple Vision Pro can be much pricier, Quest 3 will be really sharp and among AR headsets, the monocle is king.",
+            "url": "https://mixed-news.com/en/apple-vision-pro-gold-super-quest-3-psvr-2-for-pc-ar-android/",
+            "urlToImage": "https://mixed-news.com/en/wp-content/uploads/2023/07/MIXED_Titelbild_News-der-Woche-230702.png",
+            "publishedAt": "2023-07-02T18:24:40Z",
+            "content": "PSVR 2 can do PC and cool shooters, Apple Vision Pro can be much pricier, Quest 3 will be really sharp and among AR headsets, the monocle is king.\r\nVR legs are getting closer, Quest 3 will (hopefully\u2026 [+4307 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Maine woman, 64, punches bear in the nose after it chased her dog - USA TODAY",
+            "description": "A 64-year-old woman confronted a black bear \u201chead on\u201d before punching the animal in the nose after it chased her dog in Maine, officials said.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/07/02/maine-woman-punches-bear/70377258007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/12/USAT/58e76061-6a36-4af0-a45b-c8dc52f1ea58-USATSI_20407367.jpg?auto=webp&crop=2104,1184,x0,y180&format=pjpg&width=1200",
+            "publishedAt": "2023-07-02T17:35:33Z",
+            "content": "A 64-year-old woman confronted a black bear head on and stood up as tall as she could before punching the animal in the nose after it chased her dog in Maine, officials said.\u00a0\r\nLynn Kelly was working\u2026 [+2152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Health.com"
+            },
+            "author": "https://www.facebook.com/Health/",
+            "title": "Turmeric: Benefits, Uses, Side Effects, and More - Health.com",
+            "description": "Turmeric contains curcumin, an antioxidant that may have anti-inflammatory properties. It may be helpful in treating arthritis, cancer, metabolic syndrome, and depression.",
+            "url": "https://www.health.com/turmeric-7552907",
+            "urlToImage": "https://www.health.com/thmb/pwOiDSULEp0o0mmqNZP_tXctIGw=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc()/Turmeric-5695680aef1749ed902641d98247f87b.jpg",
+            "publishedAt": "2023-07-02T17:00:00Z",
+            "content": "Turmeric is a vibrantly colored spice traditionally used in Indian cuisine. Sometimes called Indian saffron, it grows naturally in southeastern Asia and has been used medicinally for centuries. Turme\u2026 [+9979 chars]"
         }
     ]
 }
