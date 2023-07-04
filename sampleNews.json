@@ -1,45 +1,188 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "Space.com"
             },
-            "author": "David J. Lynch",
-            "title": "Yellen makes first trip to China, seeking stronger ties while supply chains move away - The Washington Post",
-            "description": "Janet L. Yellen jets to Beijing this week in a test of the administration\u2019s ability to improve relations with China while seeking to cut U.S. companies\u2019 reliance on Chinese factories.",
-            "url": "https://www.washingtonpost.com/business/2023/07/02/china-yellen-economy/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3NPX6AHGREI6ZJBCCG53SHNTBM_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-07-03T02:32:52Z",
-            "content": "Comment on this story\r\nComment\r\nTreasury Secretary Janet L. Yellen jets to Beijing this week in a test of the Biden administrations ability to improve relations with China while pursuing an economic \u2026 [+9618 chars]"
+            "author": "Robert Lea",
+            "title": "July's Full Buck Moon, the 1st of 4 supermoons this summer, rises tonight - Space.com",
+            "description": "The full moon on Monday, July 3, will mark a series of four supermoons in a row.",
+            "url": "https://www.space.com/july-full-buck-moon-supermoons-summer",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MvxWaGY729S4uYmx4fUmwB-1200-80.jpg",
+            "publishedAt": "2023-07-03T12:39:54Z",
+            "content": "July's full moon, also known as the Buck Moon, rises tonight (July 3) as a supermoon.\u00a0\r\nAn exciting event for skywatchers, supermoons\r\n see the lunar disk appearing larger and brighter in the night s\u2026 [+3207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "France riots ease as mayors hold anti-violence rally - BBC",
+            "description": "French mayors denounce \"extreme violence\" of the protests which swept the country for almost a week.",
+            "url": "https://www.bbc.com/news/world-europe-66084677",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2073/production/_130270380_gettyimages-1379794217.jpg",
+            "publishedAt": "2023-07-03T11:20:35Z",
+            "content": "Riots in France appear to be calming, after five days of violent protests in response to the shooting of teenager Nahel M during a police traffic stop.\r\nSunday night saw violence subside and fewer ar\u2026 [+3293 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jake Kwon, Heather Chen, Xiaofei Xu, Martin Goillandeau, Alex Hardie, Alex Stambaugh, Sophie Tanno",
-            "title": "Grandmother of teen killed in police stop calls for calm, as France prepares for sixth night of violence - CNN",
-            "description": "The grandmother of the 17-year-old boy who was fatally shot by a police officer in a Paris suburb has called for an end to the violence that erupted in the aftermath of his death, as French authorities gear up for a sixth night of rioting.",
-            "url": "https://www.cnn.com/2023/07/02/world/france-protests-violence-mayors-house-attack-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230701223649-01-france-protests-070223.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-03T01:44:00Z",
-            "content": "The grandmother of the 17-year-old boy who was fatally shot by a police officer in a Paris suburb has called for an end to the violence that erupted in the aftermath of his death, as French authoriti\u2026 [+5200 chars]"
+            "author": "Mitch McCluskey, Jillian Sykes, Raja Razek",
+            "title": "Roller coaster with crack in support pillar set to be investigated today at Carowinds in North Carolina - CNN",
+            "description": "Inspectors are due at a North Carolina amusement park Monday as they continue investigating a roller coaster shuttered since shortly after a dad spotted a crack at the top of one of its steel support pillars.",
+            "url": "https://www.cnn.com/travel/article/roller-coaster-carowinds-crack-investigation/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230701123027-fury-325-roller-coaster-crack.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-03T11:05:00Z",
+            "content": "Inspectors are due at a North Carolina amusement park Monday as they continue investigating a roller coaster shuttered since shortly after a dad spotted a crack at the top of one of its steel support\u2026 [+2008 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Trisha Pasricha, MD",
+            "title": "Natural light can help you sleep better, and more strategies for rest - The Washington Post",
+            "description": "Natural light, for at least some parts of the day, can promote better sleep",
+            "url": "https://www.washingtonpost.com/wellness/2023/07/03/natural-light-exposure-sleep-benefits/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CP5YQMBYQREYXE6E6XVHR2NUXE.gif&w=1440",
+            "publishedAt": "2023-07-03T10:39:50Z",
+            "content": "Comment on this story\r\nComment\r\nQ: I have trouble sleeping. I spend my day in an indoor office and often come home when its already dark. Would getting out more help me sleep?\r\nA: Being outdoors for \u2026 [+6189 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Suntimes.com"
+                "name": "MacRumors"
             },
-            "author": "Sun-Times staff",
-            "title": "Shane van Gisbergen wins first NASCAR victory in Grant Park 220 - Chicago Sun-Times",
-            "description": "After the heavy rain finally let up in the late afternoon Sunday, NASCAR\u2019s big race is won by van Gisbergen after a wild, chaotic race in downtown Chicago.",
-            "url": "https://chicago.suntimes.com/2023/7/1/23781445/nascar-chicago-race-rain",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/f01ddc9/2147483647/strip/true/crop/8192x4676+0+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FlcuFPk6brJbLlKsGmlOxhjvqDJY%3D%2F0x0%3A8192x5464%2F8192x5464%2Ffilters%3Afocal%284105x2325%3A4106x2326%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24767435%2F561A5608.jpg",
-            "publishedAt": "2023-07-03T01:44:00Z",
-            "content": "NASCAR AT A GLANCE\r\nShane van Gisbergen won his first victory in his NASCAR Cup Series debut at the rain-delayed, darkness-shortened, slip-slidin Grant Park 220 on the Chicago Street Race Course.\r\nDe\u2026 [+2052 chars]"
+            "author": "Tim Hardwick",
+            "title": "Gurman: Apple to Release USB-C AirPods Pro Case, Likely Alongside iPhone 15 Launch - MacRumors",
+            "description": "Apple is likely to release a USB-C case for AirPods Pro alongside the launch of the iPhone 15 lineup this fall, according to Bloomberg's Mark...",
+            "url": "https://www.macrumors.com/2023/07/03/apple-airpods-pro-usb-c-case/",
+            "urlToImage": "https://images.macrumors.com/t/TGnQak-sWRsTnhXnkT38b_YiBRo=/1646x/article-new/2019/10/airpods-pro-magsafe-case-design.jpg",
+            "publishedAt": "2023-07-03T10:21:59Z",
+            "content": "Apple is likely to release a USB-C case for AirPods Pro alongside the launch of the iPhone 15 lineup this fall, according to Bloomberg's Mark Gurman. \r\nWriting in his latest Power On newsletter, Gurm\u2026 [+1589 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Gabe Lacques",
+            "title": "MLB power rankings: Atlanta Braves vault into top spot - USA TODAY",
+            "description": "The Atlanta Braves finally have run down the Tampa Bay Rays atop the USA TODAY Sports MLB power rankings.",
+            "url": "https://www.usatoday.com/story/sports/mlb/2023/07/03/mlb-power-rankings-atlanta-braves-vault-into-top-spot/70377864007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/03/USAT/1b36a0a0-5aac-4409-a709-99fc81978f2a-USATSI_20977233.jpg?crop=6870,3864,x1,y135&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-03T10:11:40Z",
+            "content": "Ready for an I-75 World Series?\r\nLess than 500 miles of interstate separate Atlanta from Tampa Bay, and in a figurative sense, the Atlanta baseball club has been sneaking up on the fellows from St. P\u2026 [+3747 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "TweetDeck suffers as Musk enforces read limits on Twitter - TechCrunch",
+            "description": "After Musk enforced tweet reading limits, TweetDeck users are facing issues in various columns loading up for them.",
+            "url": "https://techcrunch.com/2023/07/03/tweetdeck-suffers-as-musk-enforces-read-limits-on-twitter/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/twitter-dead-accounts.jpg?resize=1200,675",
+            "publishedAt": "2023-07-03T10:08:26Z",
+            "content": "Over the weekend, Elon Musk limited the number of tweets users can read in a day, which he said was to prevent data scraping. While this measure has affected all Twitter users, TweetDeck users in par\u2026 [+1675 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Erin Burnett, Yon Pomrenze, Mick Krever, Victoria Butenko",
+            "title": "Exclusive: Zelensky calls Putin \u2018weak\u2019 and says Russian President\u2019s power is \u2018crumbling\u2019 - CNN",
+            "description": "Vladimir Putin\u2019s response to the armed Wagner rebellion was \u201cweak\u201d and the Russian President is losing control of his own people, Ukrainian President Volodymyr Zelensky told CNN in an exclusive interview.",
+            "url": "https://www.cnn.com/2023/07/03/europe/zelensky-ukraine-putin-erin-burnett-interview-intl-cmd/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230703101309-01-zelensky-burnett.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-03T10:01:00Z",
+            "content": "Editors Note: Erin Burnetts full interview with Volodymyr Zelensky airs Wednesday July 5 at 7 p.m. ET.\r\nVladimir Putins response to the armed Wagner rebellion was weak and the Russian President is lo\u2026 [+3251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "The discovery of the gravitational wave background has scientists excited - Space.com",
+            "description": "This isn't the first time that humanity has detected gravitational waves. So why is this discovery so important?",
+            "url": "https://www.space.com/gravitational-waves-astronomers-why-so-excited",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CTgcA838bgTbXwysw5Fnyd-1200-80.png",
+            "publishedAt": "2023-07-03T10:00:31Z",
+            "content": "The very fabric of the universe is ringing with gravitational waves from its earliest epoch, and researchers have finally \"heard\" this cosmic symphony.\u00a0\r\nOn Thursday, June 28, the North American Nano\u2026 [+12090 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Lauren David",
+            "title": "The Healthiest Veggie Burgers At The Grocery Store, According To Nutritionists - HuffPost",
+            "description": "You won't see Beyond or Impossible on this list.",
+            "url": "https://www.huffpost.com/entry/best-healthy-veggie-burgers_l_6491af55e4b06725aee916da",
+            "urlToImage": "https://img.huffingtonpost.com/asset/6491af542300006700bd8178.png?cache=vDXfZEXMdw&ops=1200_630",
+            "publishedAt": "2023-07-03T09:45:16Z",
+            "content": "Whether you want a veggie burger that tastes like meat or veggies, these nutritionists have options for you.\r\nInstead of loading your grill with only cuts of meat at your next cookout, consider shari\u2026 [+5469 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Grant Smith, Dana Khraiche",
+            "title": "Saudis and Russia Extend Oil Supply Cuts, Sending Prices Up - Bloomberg",
+            "description": "Saudi Arabia will prolong its unilateral oil production cut by one month, keeping a lid on supply amid persisting fears over the global economy. Its OPEC+ ally Russia also announced fresh curbs on exports.",
+            "url": "https://www.bloomberg.com/news/articles/2023-07-03/saudi-arabia-prolongs-unilateral-oil-output-cut-into-august",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irsx2OD.Qogc/v0/1200x800.jpg",
+            "publishedAt": "2023-07-03T09:15:38Z",
+            "content": "Sign up for our Middle East newsletter and follow us \r\n@middleeast for\u00a0news on the region.\r\nSaudi Arabia will prolong its \r\nunilateral oil production cut by one month, keeping a lid on supply amid pe\u2026 [+99 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Dana Hull and Danny Lee",
+            "title": "Tesla, BYD Post Record Sales on Demand for Electric Vehicles - Yahoo Finance",
+            "description": "(Bloomberg) -- Tesla Inc. and BYD Co. set sales records in the second quarter, widening their lead as the world\u2019s best-selling electric-car makers.Most Read ...",
+            "url": "https://finance.yahoo.com/news/tesla-byd-post-record-sales-032534083.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LHSMJkPH7nmSVve8mL0Xaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/2ce81abe271933b32ae508c71920376f",
+            "publishedAt": "2023-07-03T08:21:45Z",
+            "content": "(Bloomberg) -- Tesla Inc. and BYD Co. set sales records in the second quarter, widening their lead as the worlds best-selling electric-car makers.\r\nMost Read from Bloomberg\r\nElon Musk-led Tesla deliv\u2026 [+3497 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Fritze, Maureen Groppe",
+            "title": "Student loans: A look at Biden's record at the Supreme Court - USA TODAY",
+            "description": "Despite the Supreme Court's conservative bent, the Biden administration has been successful at defending several of the president\u2019s policies.",
+            "url": "https://www.usatoday.com/story/news/politics/2023/07/02/student-loans-biden-record-supreme-court/70358418007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/24/USAT/c0d96e02-d217-416d-a42a-260cca2e6c75-AP_Womens_March_Washington-4.jpg?crop=5012,2820,x0,y334&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-03T08:07:20Z",
+            "content": "WASHINGTON The Supreme Courts decision Friday to strike down a $400 billion student loan forgiveness program was the latest high-profile legal defeat for President Joe Biden.\r\nBut it hasnt been all b\u2026 [+3174 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Tokyo Explosion Live Updates | Four Injured As Explosion Hits Building In Tokyo's Shimbashi District - CNN-News18",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=8DyiCUQlmAA",
+            "urlToImage": null,
+            "publishedAt": "2023-07-03T08:04:19Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
         },
         {
             "source": {
@@ -47,220 +190,77 @@
                 "name": "TMZ"
             },
             "author": "TMZ Staff",
-            "title": "Taylor Swift's 2011 'Speak Now' Marilyn Monroe Moment from New Angle - TMZ",
-            "description": "Taylor Swift's 'Marilyn Monroe moment' from 2011 can now be viewed from the front ... some 12 years later.",
-            "url": "https://www.tmz.com/2023/07/02/taylor-swift-speak-now-marilyn-monroe-moment-new-angle/",
-            "urlToImage": "https://imagez.tmz.com/image/b9/16by9/2023/07/03/b999aa291ab449da851f6f0f317ab255_xl.png",
-            "publishedAt": "2023-07-03T01:23:00Z",
-            "content": "Taylor Swift once had a wardrobe whoopsie eerily similar to Marilyn Monroe's famous blowing-dress moment -- something that, until now, could only be viewed from one side.\r\nDiehard Swifites will likel\u2026 [+2071 chars]"
+            "title": "Kevin Federline Won't Force His Sons To See Britney Spears Before Move to Hawaii - TMZ",
+            "description": "Kevin Federline isn't gonna drag his sons over to Britney Spears' house to say goodbye before they leave for Hawaii ... but we're told he's encouraging them to see her ahead of the move.",
+            "url": "https://www.tmz.com/2023/07/03/kevin-federline-sons-britney-spears-move-hawaii/",
+            "urlToImage": "https://imagez.tmz.com/image/ed/16by9/2023/06/27/ed71a958f3654726b2d28bcf8664e9f2_xl.jpg",
+            "publishedAt": "2023-07-03T08:00:00Z",
+            "content": "Britney Spears hasn't seen her kids in well over a year, a timeline that could grow even longer ... because TMZ has learned Kevin Federline won't force his boys to see their mom before taking off to \u2026 [+1177 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kareem Khadder, Abeer Salman, Alex Stambaugh, Eyad Kourdi, Helen Regan",
+            "title": "Israel forces launch lethal strike on West Bank\u2019s Jenin - CNN",
+            "description": "Israeli forces launched a large military operation in Jenin in the northern West Bank overnight Sunday, killing at least five people and injuring 27 others, according to the Palestinian Health Ministry.",
+            "url": "https://www.cnn.com/2023/07/02/middleeast/israel-jenin-camp-idf-raid-west-bank-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230702234840-01-israel-west-bank-strikes-070223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-03T07:49:00Z",
+            "content": "Israeli forces launched a large military operation in Jenin in the northern West Bank overnight Sunday, killing at least five people and injuring 27 others, according to the Palestinian Health Minist\u2026 [+4835 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe, Melissa Alonso",
+            "title": "Baltimore investigators searching for suspects in block party mass shooting that killed 2 and injured 28 others - CNN",
+            "description": "Investigators in Baltimore are searching for multiple suspects in a mass shooting that launched a beloved annual neighborhood block party into chaos early Sunday, killing two people and injuring 28 others, most of whom were teens, officials said.",
+            "url": "https://www.cnn.com/2023/07/03/us/baltimore-block-party-shooting-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230702173611-04-baltimore-shooting-070223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-03T06:59:00Z",
+            "content": "Investigators in Baltimore are searching for multiple suspects in a mass shooting that launched a beloved annual neighborhood block party into chaos early Sunday, killing two people and injuring 28 o\u2026 [+4533 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Seattle Times"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Ryan Divish",
-            "title": "Luis Castillo named as Mariners\u2019 lone representative for upcoming All-Star Game at T-Mobile Park - The Seattle Times",
-            "description": "The Mariners could add another representative, most likely starting pitcher George Kirby, in the coming days.",
-            "url": "https://www.seattletimes.com/sports/mariners/luis-castillo-named-as-mariners-lone-representative-for-upcoming-all-star-game-at-t-mobile-park/",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/06/06072023_tzr_tzr_182805.jpg?d=1200x630",
-            "publishedAt": "2023-07-03T00:59:05Z",
-            "content": "Unlike the 2001 All-Star Game, the last time Seattle was the host for Major League Baseballs midsummer celebration, the Mariners wont have eight players representing the organization this time around\u2026 [+7476 chars]"
+            "author": "Yahoo Sports Staff",
+            "title": "NBA free agency 2023 tracker: Jordan Clarkson agrees to extension with Jazz; latest news, rumors, trades - Yahoo Sports",
+            "description": "Follow Yahoo Sports for the latest NBA free agency news.",
+            "url": "https://sports.yahoo.com/nba-free-agency-2023-tracker-jordan-clarkson-agrees-to-extension-with-jazz-latest-news-rumors-trades-221413195.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Qia0jxJPKJoKgv6YL.TRsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/bcdda230-1925-11ee-9cf8-9f3b10bba75a",
+            "publishedAt": "2023-07-03T06:33:00Z",
+            "content": "NBA free agency began Friday night with many top players agreeing to new deals in the first weekend. Those deals can become official July 6. Between Friday and July 6, all deals can be agreed upon bu\u2026 [+22583 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KABC-TV"
+                "name": "Rvtravel.com"
             },
-            "author": null,
-            "title": "Thousands of SoCal hotel workers officially go on strike after negotiations for higher pay, better benefits fail - KABC-TV",
-            "description": "Thousands of workers at hotels across Los Angeles County officially walked off the job on Sunday, starting a labor strike as they demand higher wages and better benefits.",
-            "url": "https://abc7.com/hotel-workers-strike-los-angeles-county-union/13453353/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13454740_070223-kabc-5pm-hotel-strike-vid.jpg?w=1600",
-            "publishedAt": "2023-07-03T00:31:49Z",
-            "content": "LOS ANGELES (KABC) -- Thousands of workers at hotels across Los Angeles County officially walked off the job on Sunday, starting a labor strike as they demand higher wages and better benefits.\r\nThe c\u2026 [+3213 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Aliza Chasan",
-            "title": "Explosive devices detonated, Molotov cocktail thrown at Washington, D.C., businesses - CBS News",
-            "description": "Police are searching for at least one suspect accused of detonating explosive devices and throwing a Molotov cocktail in Washington, D.C.",
-            "url": "https://www.cbsnews.com/news/explosive-devices-molotov-cocktail-washington-dc/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/03/a1bc18f4-ff68-4ef7-8174-efe692886222/thumbnail/1200x630/0bc5d1cdf9f4d4c7c6cc22fb3887a40f/washington-dc-explosives.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4",
-            "publishedAt": "2023-07-03T00:30:41Z",
-            "content": "Explosive devices were detonated and a Molotov cocktail-style object was thrown outside three Washington, D.C., businesses early Sunday, police said.\u00a0\r\nAll three incidents happened in a roughly 15-mi\u2026 [+1495 chars]"
+            "author": "Dave Solberg",
+            "title": "8 tips to ward off mosquitoes inside and outside of the RV - RVtravel.com",
+            "description": "Dear Dave,\u00a0 How do the mosquitoes keep getting into the cabin of my RV? I tried sealing the chassis air filter, but it did not help. Could they be getting",
+            "url": "https://www.rvtravel.com/8-tips-to-ward-off-mosquitoes-inside-and-outside-the-rv-rvdt-2156/",
+            "urlToImage": "https://www.rvtravel.com/wp-content/uploads/2022/06/dave-feature-image.jpg",
+            "publishedAt": "2023-07-03T06:00:15Z",
+            "content": "Dear Dave,\u00a0How do the mosquitoes keep getting into the cabin of my RV? I tried sealing the chassis air filter, but it did not help. Could they be getting in the air conditioner or furnace ductwork? I\u2026 [+4606 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NBC Chicago"
+                "name": "Deadline"
             },
-            "author": "James Neveau",
-            "title": "Chicago officials reverse flow of river into Lake Michigan to ease flooding from heavy rain - NBC Chicago",
-            "description": "Officials with the Metropolitan Water Reclamation District of Greater Chicago announced Sunday that they have allowed water from the Chicago River to go into\u2026",
-            "url": "https://www.nbcchicago.com/weather/chicago-officials-reverse-flow-of-river-into-lake-michigan-to-ease-flooding-from-heavy-rain/3178728/",
-            "urlToImage": "https://media.nbcchicago.com/2022/04/BODIES-PULLED-FROM-CHICAGO-RIVER.png?resize=1200%2C675&quality=85&strip=all",
-            "publishedAt": "2023-07-03T00:14:08Z",
-            "content": "Officials with the Metropolitan Water Reclamation District of Greater Chicago announced Sunday that they have allowed water from the Chicago River to go into Lake Michigan to help alleviate shoreline\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SB Nation"
-            },
-            "author": "Ricky O'Donnell",
-            "title": "Russell Westbrook takes biggest pay cut in NBA history to stay with Clippers - SB Nation",
-            "description": "Russell Westbrook took the biggest pay cut ever to stay in LA.",
-            "url": "https://www.sbnation.com/nba/2023/7/2/23782234/russell-westbrook-pay-cut-clippers-nba-free-agency",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/rSQIfBmt1Vghn6SrMiFz1pwCW2c=/0x0:8001x4189/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24767179/usa_today_20288362.jpg",
-            "publishedAt": "2023-07-02T23:52:11Z",
-            "content": "Russell Westbrook finally found a good home late last season when he joined the Los Angeles Clippers. After losing his starting spot and being subject to constant trade rumors with the Los Angeles La\u2026 [+2406 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "FIA hands out 12 penalties for track limit offences after F1 Austrian GP - Motorsport.com",
-            "description": null,
-            "url": "https://families.google.com/service-restricted",
-            "urlToImage": null,
-            "publishedAt": "2023-07-02T23:35:40Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "DeSantis slammed by Buttigieg, Republican 2024 rivals and GOP group for \"homophobic\" video - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/07/02/desantis-lgbtq-video-buttigieg-republican-2024-candidates",
-            "urlToImage": null,
-            "publishedAt": "2023-07-02T23:15:05Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Summit Daily News"
-            },
-            "author": "Staff",
-            "title": "Mosquitoes are abundant in western Colorado this year. Know how to safely and effectively deal with the buzzing pests. - Summit Daily",
-            "description": "The near-historic snowfall this winter is still making itself known in early July, as all the snowmelt and ensuing moisture has brought on what feels like more mosquitoes to the Colorado's Western Slope/High Country. While there isn't exact data to back it up\u2026",
-            "url": "https://www.summitdaily.com/news/mosquitoes-are-abundant-in-western-colorado-this-year-know-how-to-safely-and-effectively-deal-with-the-buzzing-pests/",
-            "urlToImage": "https://cdn.summitdaily.com/wp-content/uploads/sites/2/2023/06/Culex-pipiens-mosquito.jpg",
-            "publishedAt": "2023-07-02T22:14:11Z",
-            "content": "The near-historic snowfall this winter is still making itself known in early July, as all the snowmelt and ensuing moisture has brought on what feels like more mosquitoes to the Colorado\u2019s Western Sl\u2026 [+8192 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ComingSoon.net"
-            },
-            "author": "Jeff Ames",
-            "title": "Box Office Results: Indiana Jones 5 Tops with Lukewarm Opening - ComingSoon.net",
-            "description": "The highly anticipated Indiana Jones and the Dial of Destiny took the domestic box office crown this weekend but failed to generate ...",
-            "url": "https://www.comingsoon.net/movies/news/1301981-box-office-results-indiana-jones-5-tops-with-lukewarm-opening",
-            "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Ruby.jpg?resize=1200,630",
-            "publishedAt": "2023-07-02T22:09:15Z",
-            "content": "The highly anticipated Indiana Jones and the Dial of Destiny took the domestic box office crown this weekend but failed to generate extraordinary numbers, ultimately earning $60 million. Globally, th\u2026 [+3408 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Mike  Chiari",
-            "title": "The Usos Defeat Roman Reigns, Solo Sikoa at WWE Money in the Bank 2023 - Bleacher Report",
-            "description": "In a match billed as The Bloodline Civil War, The Usos defeated Roman Reigns and Solo Sikoa at WWE Money in the Bank on Saturday. Jimmy and Jey Uso won after\u2026",
-            "url": "https://bleacherreport.com/articles/10080286-the-usos-defeat-roman-reigns-solo-sikoa-at-wwe-money-in-the-bank-2023",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/x_680,y_52,w_1116,h_743,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1687454643/shjbjuxydmnjldqsfyym.jpg",
-            "publishedAt": "2023-07-02T20:32:16Z",
-            "content": "Photo credit: WWE.com\r\nIn a match billed as The Bloodline Civil War, The Usos defeated Roman Reigns and Solo Sikoa at WWE Money in the Bank on Saturday.\r\nWWE@WWETHEY DID IT!!!&lt;a href=\"https://twit\u2026 [+2767 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Rebecca Elliott",
-            "title": "Tesla Deliveries Rose 83% in the Latest Quarter - The Wall Street Journal",
-            "description": "Price cuts and discounts benefit carmaker as EV competition stiffens",
-            "url": "https://www.wsj.com/articles/tesla-deliveries-to-show-whether-price-cuts-are-paying-off-2f2aac93",
-            "urlToImage": "https://images.wsj.net/im-809854/social",
-            "publishedAt": "2023-07-02T20:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OregonLive"
-            },
-            "author": "The Associated Press",
-            "title": "Twitter and Elon Musk impose daily limits on viewing tweets - OregonLive",
-            "description": "Elon Musk has limited the number of tweets that Twitter users can view each day.",
-            "url": "https://www.oregonlive.com/news/2023/07/twitter-and-elon-musk-impose-daily-limits-on-viewing-tweets.html",
-            "urlToImage": "https://www.oregonlive.com/resizer/5m_n61xvJdYh_fHOBo2tzvrzKsI=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PLJYZI3XA5BWBDVQ3JBKYOXLIE.jpg",
-            "publishedAt": "2023-07-02T20:03:00Z",
-            "content": "Twitter owner Elon Musk has limited the number of tweets that users can view each day restrictions he described as an attempt to prevent unauthorized scraping of potentially valuable data from the so\u2026 [+2581 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Gabe Hauari",
-            "title": "Restaurants open July 4th: What to know about McDonald's, Starbucks, Chick-fil-A, more - USA TODAY",
-            "description": "Most restaurants and fast food places will be open on July 4th, but some chains, like Chick-fil-A and Applebee's may have limited hours.",
-            "url": "https://www.usatoday.com/story/money/food/2023/07/02/july-4th-restaurants-open-hours/70361518007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/14/USAT/1940000d-9f72-4ea6-a85c-b170374ac8d4-GTY_1479484441.jpg?crop=4584,2579,x0,y189&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-02T19:03:06Z",
-            "content": "Whether you're looking for your daily dose of caffeine or a quick bite to eat, there will be plenty of food options to choose from this Independence Day.\r\nWhile most restaurants and fast food chains \u2026 [+3846 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mixed-news.com"
-            },
-            "author": "Benjamin Danneberg",
-            "title": "Apple Vision Pro Gold, Super Quest 3, PSVR 2 for PC & AR-Android - MIXED Reality News",
-            "description": "PSVR 2 can do PC and cool shooters, Apple Vision Pro can be much pricier, Quest 3 will be really sharp and among AR headsets, the monocle is king.",
-            "url": "https://mixed-news.com/en/apple-vision-pro-gold-super-quest-3-psvr-2-for-pc-ar-android/",
-            "urlToImage": "https://mixed-news.com/en/wp-content/uploads/2023/07/MIXED_Titelbild_News-der-Woche-230702.png",
-            "publishedAt": "2023-07-02T18:24:40Z",
-            "content": "PSVR 2 can do PC and cool shooters, Apple Vision Pro can be much pricier, Quest 3 will be really sharp and among AR headsets, the monocle is king.\r\nVR legs are getting closer, Quest 3 will (hopefully\u2026 [+4307 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "Maine woman, 64, punches bear in the nose after it chased her dog - USA TODAY",
-            "description": "A 64-year-old woman confronted a black bear \u201chead on\u201d before punching the animal in the nose after it chased her dog in Maine, officials said.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/07/02/maine-woman-punches-bear/70377258007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/12/USAT/58e76061-6a36-4af0-a45b-c8dc52f1ea58-USATSI_20407367.jpg?auto=webp&crop=2104,1184,x0,y180&format=pjpg&width=1200",
-            "publishedAt": "2023-07-02T17:35:33Z",
-            "content": "A 64-year-old woman confronted a black bear head on and stood up as tall as she could before punching the animal in the nose after it chased her dog in Maine, officials said.\u00a0\r\nLynn Kelly was working\u2026 [+2152 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Health.com"
-            },
-            "author": "https://www.facebook.com/Health/",
-            "title": "Turmeric: Benefits, Uses, Side Effects, and More - Health.com",
-            "description": "Turmeric contains curcumin, an antioxidant that may have anti-inflammatory properties. It may be helpful in treating arthritis, cancer, metabolic syndrome, and depression.",
-            "url": "https://www.health.com/turmeric-7552907",
-            "urlToImage": "https://www.health.com/thmb/pwOiDSULEp0o0mmqNZP_tXctIGw=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc()/Turmeric-5695680aef1749ed902641d98247f87b.jpg",
-            "publishedAt": "2023-07-02T17:00:00Z",
-            "content": "Turmeric is a vibrantly colored spice traditionally used in Indian cuisine. Sometimes called Indian saffron, it grows naturally in southeastern Asia and has been used medicinally for centuries. Turme\u2026 [+9979 chars]"
+            "author": "Pete Hammond",
+            "title": "Lawrence Turman Dies: Oscar-Nominated Producer Of \u2018The Graduate\u2019, \u2018American History X\u2019 And More Was 96 - Deadline",
+            "description": "Oscar-nominated producer Lawrence Turman died Saturday at the Motion Picture and Television Country Home and Hospital at age 96 after a stellar career not only as a producer of such seminal films a\u2026",
+            "url": "https://deadline.com/2023/07/lawrence-turman-dies-oscar-nominated-producer-of-the-graduate-american-history-x-and-more-dies-at-age-96-1235429081/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/07/lawrence_turman.webp?w=1024",
+            "publishedAt": "2023-07-03T05:54:00Z",
+            "content": "Oscar-nominated producer Lawrence Turman died Saturday at the Motion Picture and Television Country Home and Hospital at age 96 after a stellar career not only as a producer of such seminal films as \u2026 [+4955 chars]"
         }
     ]
 }
