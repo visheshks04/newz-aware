@@ -1,97 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 32,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Kareem Khadder, Eyad Kourdi, Hadas Gold, AnneClaire Stapleton, Alex Stambaugh, Helen Regan",
-            "title": "Israeli forces launch biggest military operation in West Bank\u2019s Jenin since 2002 - CNN",
-            "description": "Israeli forces launched what a military source said is its largest military operation in the occupied West Bank city of Jenin in more than 20 years, killing at least eight people and injuring about 100 others, according to Palestinian officials.",
-            "url": "https://www.cnn.com/2023/07/02/middleeast/israel-jenin-camp-idf-raid-west-bank-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230703105131-03-israel-jenin-camp-idf-raid-070323.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-03T23:50:00Z",
-            "content": "Israeli forces launched what a military source said is its largest military operation in the occupied West Bank city of Jenin in more than 20 years, killing at least eight people and injuring about 1\u2026 [+9435 chars]"
+            "author": "Matt Rogers",
+            "title": "D.C.-area forecast: Very warm for Independence Day with a stray storm possible - The Washington Post",
+            "description": "The weekend\u2019s not as hot but has increasing thunderstorm chances.",
+            "url": "https://www.washingtonpost.com/weather/2023/07/04/dc-forecast-july-fourth-heat/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5WUDIUA2VHVFMHMBWMCYC6UYY.jpg&w=1440",
+            "publishedAt": "2023-07-04T12:00:00Z",
+            "content": "Comment on this story\r\nComment\r\nA somewhat subjective rating of the days weather, on a scale of 0 to 10.\r\n6/10: A bit less sticky than Monday with more sun and, hopefully, more fun.\r\n<ul><li>Today: M\u2026 [+3048 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Harvard Crimson"
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Brian Dakss",
+            "title": "11 shot in Fort Worth, Texas parking lot, 3 fatally, police say - CBS News",
+            "description": "Police say one was pronounced dead at the scene and two others died in hospitals. The reasons for the shooting weren't clear.",
+            "url": "https://www.cbsnews.com/news/fort-worth-shooting-11-victims-some-dead-parking-lot/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/04/e8229d17-9c50-406b-911b-326cb6aeef21/thumbnail/1200x630/0c0770839a6f184f928298fa98dc3eaa/gettyimages-119818994-1.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4",
+            "publishedAt": "2023-07-04T11:26:00Z",
+            "content": "Officers responding to reports of gunfire late Monday night found 11 shooting victims in a parking lot in Fort Worth, Texas, police said.\r\nOne was pronounced dead at the scene and two others died in \u2026 [+555 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Gloria Li, Kana Inagaki, Edward White, Kathrin Hille, Hudson Lockett, Song Jung-a, Qianer Liu, Patricia Nilsson",
+            "title": "China's curb on metal exports reverberates across chip sector - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the world\u02bcs leading global business publication",
+            "url": "https://www.ft.com/content/2fa865a7-176f-4292-8842-38bb6470d732",
+            "urlToImage": null,
+            "publishedAt": "2023-07-04T10:44:53Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
             },
             "author": null,
-            "title": "Federal Complaint Says Harvard Legacy Preferences in Admissions Violate Civil Rights Act | News - Harvard Crimson",
-            "description": "Three Black and Latinx groups filed a civil rights complaint against Harvard Monday morning alleging that the University\u2019s consideration of legacy and donor preferences in the admissions process violates the Civil Rights Act of 1964.",
-            "url": "https://www.thecrimson.com/article/2023/7/4/legacy-admissions-complaint/",
-            "urlToImage": "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/07/03/130749_1364383.jpg.2000x1333_q95_crop-smart_upscale.jpg",
-            "publishedAt": "2023-07-03T23:42:16Z",
-            "content": "Updated July 3, 2023, at 5:26 p.m.\r\nThree Black and Latinx groups filed a civil rights complaint against Harvard Monday morning alleging that the Universitys consideration of legacy and donor prefere\u2026 [+5528 chars]"
+            "title": "Woman dies while hiking in triple-digit heat at Grand Canyon National Park - CBS News",
+            "description": "In the summer, temperatures on exposed parts of the trail can reach over 120 degrees in the shade.",
+            "url": "https://www.cbsnews.com/news/woman-dies-grand-canyon-national-park-extreme-heat/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/04/5475eb88-f135-450e-9522-c07c57b1841a/thumbnail/1200x630/27d2f0c9e6992acc9885fc960fe5ea2e/tuweep.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4",
+            "publishedAt": "2023-07-04T10:44:43Z",
+            "content": "A 57-year-old woman has died while on an eight-mile hike in triple-digit heat at Grand Canyon National Park, authorities said Monday. The victim's name and hometown weren't immediately released.\r\nPar\u2026 [+1071 chars]"
         },
         {
             "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": null,
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Florida voting law: Judge grants preliminary injunction - POLITICO",
-            "description": "Democrats who voted against the law, as well as the groups that challenged it, hailed the decision.",
-            "url": "https://www.politico.com/news/2023/07/03/federal-judge-voting-law-florida-00104601",
-            "urlToImage": "https://static.politico.com/94/af/e586ed4844ac930db51ba8205397/https-delivery-gettyimages.com/downloads/621759084",
-            "publishedAt": "2023-07-03T23:36:31Z",
-            "content": "The law, passed this spring by GOP legislators and signed into law by DeSantis, was a comprehensive measure that included a provision that cleared the way for the governor to run for president withou\u2026 [+2674 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Amanda Silberling",
-            "title": "Threads, Instagram\u2019s Twitter competitor, is expected July 6 - TechCrunch",
-            "description": "Instagram's rumored Twitter competitor just dropped on the iOS App Store in the U.S. The app will be called Threads.",
-            "url": "https://techcrunch.com/2023/07/03/threads-instagrams-twitter-competitor-is-expected-july-6/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/Screenshot-2023-07-03-at-7.05.58-PM.png?resize=1200,623",
-            "publishedAt": "2023-07-03T23:24:01Z",
-            "content": "Instagram\u2019s rumored Twitter competitor just dropped on the iOS App Store in the U.S. The app will be called Threads, and according to App Store data, it\u2019s expected to launch on July 6.\r\nIt\u2019s a good t\u2026 [+2397 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Pamela Avila",
-            "title": "'Real Housewives' star Kyle Richards, Mauricio Umansky split after 27 years of marriage: Reports - USA TODAY",
-            "description": "Kyle Richards and Mauricio Umansky have called it quits after 27 years of marriage. The two met in 1994 and married two years later.",
-            "url": "https://www.usatoday.com/story/entertainment/celebrities/2023/07/03/real-housewives-kyle-richards-mauricio-umansky-split/70380728007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/03/USAT/0f3ae8a3-4fc1-4322-a83d-3a582d9c80e9-GTY_171608970.JPG?crop=2132,1200,x0,y300&width=2132&height=1200&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-03T22:39:01Z",
-            "content": "Kyle Richards and Mauricio Umansky have called it quits after 27 years of marriage.\r\nPeople magazine confirmed the separation Monday. According to the outlet, a source close to the pair says the two \u2026 [+2692 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "8News"
-            },
-            "author": "Kassidy Hammond",
-            "title": "Sheetz lowers gas prices to $1.776 per gallon for July 4th - WRIC ABC 8News",
-            "description": "The discounted price will apply to regular, E85 (flex fuel), Unleaded 88, mid-grade and premium fuel grades at all Sheetz locations across Virginia.",
-            "url": "https://www.wric.com/news/virginia-news/sheetz-lowers-gas-prices-to-1-776-per-gallon-for-july-4th/",
-            "urlToImage": "https://www.wric.com/wp-content/uploads/sites/74/2023/07/vcsPRAsset_2971971_70989_751ecab8-d7e8-4adc-8672-c0bd3c29596d_0-rotated.jpeg?w=1280",
-            "publishedAt": "2023-07-03T22:00:00Z",
-            "content": "RICHMOND, Va. (WRIC) In commemoration of the day the Declaration of Independence was signed more than 200 years ago, for one day only, Sheetz announced it will be lowering gas prices to $1.776 \u2013 clea\u2026 [+1753 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "XDA Developers"
-            },
-            "author": "Timi Cantisano",
-            "title": "Nothing Phone 2 video shows off big upgrades to Glyph Interface - XDA Developers",
-            "description": "A new video showing off the Nothing Phone 2's revamped Glyph Interface.",
-            "url": "https://www.xda-developers.com/nothing-phone-2-glyph-interface-video/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/07/xda-1.png",
-            "publishedAt": "2023-07-03T21:53:00Z",
-            "content": "The Nothing Phone 2 is almost here, set to launch on July 11. In true Nothing style, the company has been slowly revealing little bits of information over the past few months, and now, it looks like \u2026 [+2029 chars]"
+            "title": "LIVE: NBC News NOW - July 4 - NBC News",
+            "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and ta...",
+            "url": "https://www.youtube.com/watch?v=wxOgCJLW1CU",
+            "urlToImage": "https://i.ytimg.com/vi/wxOgCJLW1CU/maxresdefault_live.jpg",
+            "publishedAt": "2023-07-04T10:00:52Z",
+            "content": null
         },
         {
             "source": {
@@ -99,155 +73,129 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Buck Moon: July supermoon to appear brighter than usual in the sky this week - BBC",
-            "description": "July's full Moon, known as a Buck Moon, will be closer than normal in its orbit around the Earth.",
-            "url": "https://www.bbc.com/news/world-66091619",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10411/production/_130277566_06515ed9533a86bbc6113a385643bfd1f8ab2acc.jpg",
-            "publishedAt": "2023-07-03T21:47:59Z",
-            "content": "The Moon will have us gazing at the sky on Monday evening as it appears brighter and larger than usual.\r\nJuly's supermoon will appear full for up to three days, according to Nasa.\r\nKnown as a Buck Mo\u2026 [+2975 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Charlotte Observer"
-            },
-            "author": "Catherine Muccigrosso",
-            "title": "NC begins Carowinds roller coaster review after \u2018rare\u2019 crack found. Here\u2019s what we know. - Charlotte Observer",
-            "description": "NC safety inspectors began investigating Carowinds amusement park Fury 365 roller coaster after visitor saw a crack in steel support beam.",
-            "url": "https://www.charlotteobserver.com/news/business/article276968538.html",
-            "urlToImage": "https://www.charlotteobserver.com/latest-news/y6rflc/picture276975433/alternates/LANDSCAPE_1140/kimball_fury_7323.jpg",
-            "publishedAt": "2023-07-03T21:44:36Z",
-            "content": "An N.C. state inspection of Carowinds Fury 325 roller coaster, one of the worlds tallest and most popular coasters, began Monday after a crack in a support pillar was reported by a visitor on Friday.\u2026 [+8353 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Lynette Rice",
-            "title": "WGA Members Join Striking Hotel Workers On Picket Line In L.A. - Deadline",
-            "description": "Members of WGA West showed solidarity for hotel workers over the last 24 hours by joining their downtown protest over low pay and limited benefits. Members of United Here Local 11, which represents\u2026",
-            "url": "https://deadline.com/2023/07/wga-members-joins-striking-hotel-workers-picket-line-downtown-l-a-1235429524/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/07/Local-11-WGA-picketers.jpg?w=1000",
-            "publishedAt": "2023-07-03T20:52:00Z",
-            "content": "Members of WGA West showed solidarity for hotel workers over the last 24 hours by joining their downtown protest over low pay and limited benefits.\r\nMembers of United Here Local 11, which represents \u2026 [+1136 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "'We are way behind': Top DeSantis PAC official sounds alarm - POLITICO",
-            "description": "Steve Cortes got pretty blunt during a Twitter spaces session on Sunday night.",
-            "url": "https://www.politico.com/news/2023/07/03/desantis-pac-2024-election-behind-00104572",
-            "urlToImage": "https://static.politico.com/e9/7d/4a08550f4c13a78bb0579940f568/election-2024-moms-for-liberty-34763.jpg",
-            "publishedAt": "2023-07-03T20:51:06Z",
-            "content": "Calling the DeSantis campaign the clear underdog, he added: In the first four states which matter tremendously, polls are a lot tighter, we are still clearly down. Were down double digits, we have wo\u2026 [+4357 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Raechal Shewfelt",
-            "title": "'The Idol' finale: The Weeknd's controversial HBO show ends with a twist - Yahoo Entertainment",
-            "description": "The finale of HBO's controversial series \"The Idol\" kept viewers guessing.",
-            "url": "https://www.yahoo.com/entertainment/the-idol-finale-the-weeknd-controversial-hbo-show-finale-twist-201952974.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cZap.BQWOQCeKatfrjcSYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/d98aa830-19d7-11ee-bfcf-c5276914567e",
-            "publishedAt": "2023-07-03T20:19:52Z",
-            "content": "\"The Idol\" ended with a shocking reveal. (Photo: Eddy Chen/HBO)\r\nSpoiler alert: The following contains details of The Idol finale. \r\nFrom the start, there has been a lot to talk about when it comes t\u2026 [+11275 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "Top Five New Features in iPadOS 17 - MacRumors",
-            "description": "While iPadOS 17 has adopted almost all of the features that are available in iOS 17, there are also several additions designed specifically for the...",
-            "url": "https://www.macrumors.com/2023/07/03/top-five-ipados-17-features/",
-            "urlToImage": "https://images.macrumors.com/t/2m9oOmSU6OEHtF2zRlCPFPt3mgY=/2500x/article-new/2023/07/ipados-17-new-features-thumb.jpg",
-            "publishedAt": "2023-07-03T19:44:37Z",
-            "content": "While iPadOS 17 has adopted almost all of the features that are available in iOS 17, there are also several additions designed specifically for the larger display of the iPad. In our latest video, we\u2026 [+1833 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WSB Atlanta"
-            },
-            "author": "Bob D'Angelo, Cox Media Group National Content Desk",
-            "title": "Texas man, 25, who went missing 8 years ago as teen, found safe - WSB Atlanta",
-            "description": "A 25-year-old Texas man who went missing as a teenager eight years ago is recovering in a hospital after he was found on Saturday.",
-            "url": "https://www.wsbtv.com/news/trending/texas-man-25-who-went-missing-8-years-ago-teen-found-safe/W5AAPVWI55BKLID4SVJRC422SA/",
-            "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/YJ_wVX0zz89qFrs1FzdKW-JorQM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RIXAX6YVTNGOVE4HXBZREQXRLM.jpg",
-            "publishedAt": "2023-07-03T19:19:23Z",
-            "content": "HOUSTON \u2014 A 25-year-old Texas man who went missing as a teenager eight years ago is recovering in a hospital after he was found on Saturday.\r\n&gt;&gt; Read more trending news\r\nRudolph Rudy Farias IV,\u2026 [+3192 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Alexander Tin",
-            "title": "How many Americans still haven't caught COVID-19? CDC publishes final 2022 estimates - CBS News",
-            "description": "In the most recent data, 77.5% of Americans ages 16 and older have antibodies from at least one prior infection.",
-            "url": "https://www.cbsnews.com/news/how-many-americans-havent-caught-covid-cdc-estimates/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/01/12/f2289ad4-c56f-45fd-bd91-af274a767f2e/thumbnail/1200x630/92b5769ad8dc6d9ecd98744ae9bdbf3b/gettyimages-1362983765-594x594.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4",
-            "publishedAt": "2023-07-03T18:23:45Z",
-            "content": "Nearly 1 in 4 U.S. adults and older teens had still not caught COVID-19 by the end of last year, according to new estimates from the Centers for Disease Control and Prevention, while 77.5% had antibo\u2026 [+3622 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Hallie Levine",
-            "title": "Tired all the time? Beware of these five energy sappers - The Washington Post",
-            "description": "Sunshine, plenty of fluids and a good diet can help. But if you feel tired all the time, you should get checked for health problems such as anemia and obstructive sleep apnea.",
-            "url": "https://www.washingtonpost.com/wellness/2023/07/03/five-ways-to-fight-tiredness/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3FIS65IVFBMVSUT7SNJRA3CD3Q.jpg&w=1440",
-            "publishedAt": "2023-07-03T18:18:17Z",
-            "content": "Comment on this story\r\nComment\r\nConsumer Reports has no financial relationship with any advertisers on this site.\r\nOccasionally feeling tired during the day is normal especially as you get older. But\u2026 [+7726 chars]"
+            "title": "Philadelphia shooting: Five killed and two wounded after man opens fire - BBC",
+            "description": "He has no known connection to the victims and the shooting on Monday appears to have been random.",
+            "url": "https://www.bbc.com/news/world-us-canada-66061204",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8802/production/_130281843_gettyimages-1481869939.jpg",
+            "publishedAt": "2023-07-04T09:45:54Z",
+            "content": "Five people have been killed and two children wounded after a man wearing a bullet-proof vest opened fire in the US city of Philadelphia.\r\nThe suspected attacker, a 40-year-old man who is now in cust\u2026 [+2401 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Ashley Strickland",
-            "title": "Time moved in slow motion during the early days of the universe - CNN",
-            "description": "For the first time, scientists have peered back to the early days of the universe and found it moved five times slower than it does today.",
-            "url": "https://www.cnn.com/2023/07/03/world/quasars-early-universe-time-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230703121955-quasar-nasa-rendering.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-03T18:18:00Z",
-            "content": "Editors Note:Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nScientists have peered into the early day\u2026 [+3505 chars]"
+            "author": "Abeer Salman, Hadas Gold, Helen Regan",
+            "title": "Israeli forces\u2019 military operation in West Bank\u2019s Jenin continues for second consecutive night - CNN",
+            "description": "Israeli forces continued military operations in the occupied West Bank city of Jenin for a second night, a day after incursions killed at least 10 people between the ages of 16 and 23, and injured about 100 others.",
+            "url": "https://www.cnn.com/2023/07/04/middleeast/israel-west-bank-jenin-raids-tuesday-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230704071628-01-jenin-raid-070423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-04T09:43:00Z",
+            "content": "Israeli forces continued military operations in the occupied West Bank city of Jenin for a second night, a day after incursions killed at least 10 people between the ages of 16 and 23, and injured ab\u2026 [+6709 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hollywood Reporter"
+                "name": "Hoops Hype"
             },
-            "author": "Winston Cho",
-            "title": "\u201cI Have a Problem With the Stealing of My Material\u201d: A Common Rallying Cry Emerges On AI - Hollywood Reporter",
-            "description": "As Hollywood execs begin to test artificial intelligence, from using the tech to de-age actors to partnering with companies in the field to create AI-composed music, key players in the industry are pushing for regulations \u2014 or lawsuits.",
-            "url": "https://www.hollywoodreporter.com/business/business-news/ai-stealing-copyright-openai-claim-lawsuits-1235513714/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/GettyImages-1193225805.jpg?w=1024",
-            "publishedAt": "2023-07-03T17:57:33Z",
-            "content": "Nothing had prepared William Passano for a new technology introduced in 1960 that threatened to upend his medical publishing business: the Xerox 914 photocopier. The machine offered the ability to pr\u2026 [+10244 chars]"
+            "author": "HoopsHype",
+            "title": "James Harden very unhappy with Sixers - Hoops Hype",
+            "description": "Dave Early: Amick says Morey & Harden are \u201cnot attached at the hip anymore, James is very unhappy\u2026\u201d because of the \u201cradio silence\u201d Harden got from Sixers on his FA\u2026",
+            "url": "https://hoopshype.com/2023/07/04/james-harden-very-unhappy-with-sixers/",
+            "urlToImage": "https://hoopshype.com/wp-content/uploads/sites/92/2023/06/i_13_29_f3_james-harden.png?w=1024&h=576&crop=1",
+            "publishedAt": "2023-07-04T07:20:43Z",
+            "content": "By HoopsHype | \r\nJuly 4, 2023"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Gabe Hauari",
+            "title": "Nathan's Hot Dog Eating Contest 2023 time, channel: What to know about July 4th tradition - USA TODAY",
+            "description": "The Nathan's Hot Dog Eating Contest is back this 4th of July. Here's everything you need to know about this year's competition.",
+            "url": "https://www.usatoday.com/story/sports/2023/07/04/hot-dog-eating-contest-time-channel/70368317007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2022/07/05/USAT/a92e4ec3-bbf8-454a-9350-bba19eada009-hot_dog_contest_logo.jpg?crop=1911,1075,x8,y0&width=1911&height=1075&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-04T07:02:10Z",
+            "content": "The annual tradition of watching competitive eaters furiously shove hot dogs in their mouths on the 4th of July continues this year as the Nathan's Hot Dog Eating Contest returns to Coney Island.\r\nWo\u2026 [+1797 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WDIV ClickOnDetroit"
+                "name": "Suntimes.com"
             },
-            "author": "Derick Hutchinson",
-            "title": "Michigan health officials confirm state's first EEE-positive mosquitos this year - WDIV ClickOnDetroit",
-            "description": "Health officials said they have identified the first mosquitos to test positive for Eastern Equine Encephalitis (EEE) in Michigan this year.",
-            "url": "https://www.clickondetroit.com/health/2023/07/03/michigan-health-officials-confirm-states-first-eee-positive-mosquitos-this-year/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/HGTRSN23V5C4DAOCEXPEPQEGVM.jpg?_a=ATAPphC0",
-            "publishedAt": "2023-07-03T17:41:56Z",
-            "content": "BAY COUNTY, Mich. Health officials said they have identified the first mosquitos to test positive for Eastern Equine Encephalitis (EEE) in Michigan this year.\r\nMembers of the Michigan Department of H\u2026 [+2639 chars]"
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Tuesday, July 4, 2023 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2023/7/4/23774622/horoscopes-today-tuesday-july-4-2023",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/e1e0740/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2F1lY10TmiZwOCMdD1S6GOuOZ8UGM%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24754164%2FGeorgia_mug.jpeg",
+            "publishedAt": "2023-07-04T05:03:31Z",
+            "content": "Moon Alert\r\nAvoid shopping or important decisions from 11:30 a.m. to 12:45 p.m. Chicago time. After that, the moon moves from Capricorn into Aquarius.\r\nAries (March 21-April 19)\r\nYou will enjoy the c\u2026 [+3794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Khayl Adam",
+            "title": "Persona 3 Reload Gets English Gameplay Reveal in Xbox-Flavoured Trailer - Push Square",
+            "description": "But it is actually coming to PlayStation",
+            "url": "https://www.pushsquare.com/news/2023/07/persona-3-reload-gets-english-gameplay-reveal-in-xbox-flavoured-trailer",
+            "urlToImage": "https://images.pushsquare.com/a015b963b38a5/1280x720.jpg",
+            "publishedAt": "2023-07-04T05:00:00Z",
+            "content": "Subscribe to Push Square on YouTube\r\nWe got the English gameplay reveal of Persona 3 Reload at Anime Expo 2023, dressed in all the trappings of an Xbox exclusive (it's not). This is standard procedur\u2026 [+1024 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Shayna Baszler says it felt good to finally shut Ronda Rousey up: WWE Raw Talk, July 3, 2023 - WWE",
+            "description": "Shayna Baszler revels in hearing her knee crack across Ronda Rousey\u2019s face, Chelsea Green and Sonya Deville say Byron Saxton\u2019s energy is too low and Intercon...",
+            "url": "https://www.youtube.com/watch?v=NtsaQoyo2OM",
+            "urlToImage": "https://i.ytimg.com/vi/NtsaQoyo2OM/maxresdefault.jpg",
+            "publishedAt": "2023-07-04T04:15:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "In wake of deadly mass shooting in Baltimore, mayor decries ghost guns, trafficking - MSNBC",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=0NE7DPi10wM",
+            "urlToImage": null,
+            "publishedAt": "2023-07-04T03:56:46Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "Apple Is Reportedly Scaling Back Production Plans of Its $3,499 Vision Pro Mixed Reality Headset - IGN",
+            "description": "Production difficulties and the complex design of Apple's $3,499 Vision Pro mixed reality headset have reportedly caused Apple to scale back its internal sales target of 1 million units sold in 2024 as it is worried it won't be able to make enough of its newe\u2026",
+            "url": "https://www.ign.com/articles/apple-is-reportedly-scaling-back-production-plans-of-its-3499-vision-pro-mixed-reality-headset",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/07/04/wwdc23-visionpro-blogroll-1-1685989495046-1688441988112.jpg?width=1280",
+            "publishedAt": "2023-07-04T03:53:08Z",
+            "content": "Production difficulties and the complex design of Apple's $3,499 Vision Pro mixed reality headset have reportedly caused Apple to scale back its internal sales target of 1 million units sold in 2024 \u2026 [+2984 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Harrison Smith",
+            "title": "Susan Love, surgeon who crusaded against breast cancer, dies at 75 - The Washington Post",
+            "description": "She co-founded the National Breast Cancer Coalition and sought to eradicate the disease, which remains the second deadliest cancer for women in the U.S.",
+            "url": "https://www.washingtonpost.com/obituaries/2023/07/03/susan-love-dead-breast-cancer/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TGKNTVQIRHTJE2HSOAN6E2PPI.JPG&w=1440",
+            "publishedAt": "2023-07-04T03:28:16Z",
+            "content": "Susan M. Love, an indefatigable surgeon, author and patient advocate who spent decades crusading against breast cancer, including as a co-founder of the National Breast Cancer Coalition, a grass-root\u2026 [+8314 chars]"
         },
         {
             "source": {
@@ -259,8 +207,60 @@
             "description": "Follow Yahoo Sports for the latest NBA free agency news.",
             "url": "https://sports.yahoo.com/nba-free-agency-2023-tracker-anthony-edwards-gets-max-extension-with-timberwolves-latest-news-rumors-trades-173845383.html",
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eZpSGsNrTf2XvoyvkS3Tdg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/27fe0360-162a-11ee-bffb-0552fcb6b16b",
-            "publishedAt": "2023-07-03T17:38:45Z",
-            "content": "NBA free agency began Friday night with many top players agreeing to new deals in the first weekend. Those deals can become official July 6. Between Friday and July 6, all deals can be agreed upon bu\u2026 [+23210 chars]"
+            "publishedAt": "2023-07-04T03:24:00Z",
+            "content": "NBA free agency began Friday night with many top players agreeing to new deals in the first weekend. Those deals can become official July 6. Between Friday and July 6, all deals can be agreed upon bu\u2026 [+23933 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "A flying car prototype just got an airworthiness certificate from the FAA - CNN",
+            "description": "A California startup says it has been certified by the Federal Aviation Administration for testing what it describes as the first flying car with US government approval \u2014 a fully electric vehicle that can both fly and travel on roads.",
+            "url": "https://www.cnn.com/2023/07/03/tech/flying-car-faa/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230703083549-alef-aeronautics-flying-car-unveiling-2022-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-04T02:45:00Z",
+            "content": "The Federal Aviation Administration has certified for testing a vehicle that a California startup describes as a flying car the first fully electric vehicle that can both fly and travel on roads to r\u2026 [+2599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "World Socialist Web Site"
+            },
+            "author": null,
+            "title": "The detection of the Universe's background gravitational wave radiation: a scientific triumph - WSWS",
+            "description": "The same confident optimism which organized thousands of scientists towards the successful detection of high-frequency gravitational waves in 2015 now has produced its first fruit with another detector technology and strategy in seeing the background of long-\u2026",
+            "url": "https://www.wsws.org/en/articles/2023/07/04/zxwd-j04.html",
+            "urlToImage": "https://www.wsws.org/asset/71369476-ff16-4582-bedb-684d5cd98315?rendition=1600x900",
+            "publishedAt": "2023-07-04T02:07:48Z",
+            "content": "Count what is countable, measure what is measurable, and what is not measurable, make measurableattributed to Galileo Galilei\r\nThe detection of a predicted universal background of gravitational waves\u2026 [+18931 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "EarthSky"
+            },
+            "author": null,
+            "title": "July supermoon photo gallery from our readers - EarthSky",
+            "description": null,
+            "url": "https://earthsky.org/moon-phases/july-supermoon-photo-gallery-july-2-3-2023/",
+            "urlToImage": "https://earthsky.org/upl/2023/07/July-supermoon-Thina-Lighthouse-Sfax-Tunisia-Makrem-Larnaout-July-2-2023.jpg-e1688432805774.jpg",
+            "publishedAt": "2023-07-04T01:31:12Z",
+            "content": "View at EarthSky Community Photos. | Makrem Larnaout in Sfax, Tunisia, captured this image of the moon and Thina Lighthouse on July 2, 2023. Makrem wrote: \u201cThe moon\u2019s gentle embrace seems to merge se\u2026 [+2563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Facebook owner Meta to launch Twitter rival on Thursday - BBC",
+            "description": "The move is the latest in a rivalry between Meta boss Mark Zuckerberg and Twitter owner Elon Musk.",
+            "url": "https://www.bbc.com/news/business-66094072",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16753/production/_130278919_threads.jpg",
+            "publishedAt": "2023-07-04T01:22:51Z",
+            "content": "Facebook owner Meta is launching its new app to rival Twitter and says it will go live on Thursday. \r\nThe app, which is called Threads and is available for pre-order on the Apple App Store, will be l\u2026 [+2357 chars]"
         }
     ]
 }
