@@ -1,32 +1,188 @@
 {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "ign",
+                "name": "IGN"
             },
-            "author": "Mick Krever, Matthew Chance",
-            "title": "Prigozhin has been cast out into the cold - CNN",
-            "description": "If we learned one thing from Thursday\u2019s press conference by Belarusian President Alexander Lukashenko, it\u2019s that Wagner chief Yevgeny Prigozhin, who has not been seen in public since June 24, appears to be in a decidedly perilous limbo.",
-            "url": "https://www.cnn.com/2023/07/06/europe/prigozhin-lukashenko-analysis-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230706114041-prigozhin-last-sighting-062423.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-07T02:12:00Z",
-            "content": "If we learned one thing from Thursdays press conference by Belarusian President Alexander Lukashenko, its that Wagner chief Yevgeny Prigozhin, who has not been seen in public since June 24, appears t\u2026 [+2665 chars]"
+            "author": "Wesley Yin-Poole",
+            "title": "Elon Musk Accuses Meta of 'Cheating' With Twitter Rival Threads - IGN",
+            "description": "Twitter owner Elon Musk has accused Meta of \u201ccheating\u201d with the launch of rival social network Threads. Meta has denied the claim.",
+            "url": "https://www.ign.com/articles/elon-musk-accuses-meta-of-cheating-with-twitter-rival-threads",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/07/07/gettyimages-1258889024-1688723385810.jpg?width=1280",
+            "publishedAt": "2023-07-07T09:53:07Z",
+            "content": "Twitter owner Elon Musk has accused Meta of cheating with the launch of rival social network Threads.\r\nTwitter threatened to sue Meta over \"systematic, willful and unlawful misappropriation\" of Twitt\u2026 [+2251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "'America's Got Talent' Winner Michael Grimm Improving After Mystery Illness - TMZ",
+            "description": "Michael Grimm, famous for winning \"America's Got Talent\" season 5, is showing big signs of improvement after being hospitalized with a serious mystery health issue.",
+            "url": "https://www.tmz.com/2023/07/07/americas-got-talent-winner-michael-grimm-improving-mystery-illness/",
+            "urlToImage": "https://imagez.tmz.com/image/ea/16by9/2023/07/06/eab391c246214473ba3f184dfe6c0054_xl.png",
+            "publishedAt": "2023-07-07T07:30:00Z",
+            "content": "Michael Grimm, famous for winning \"America's Got Talent\" season 5, is showing big signs of improvement after being hospitalized with a serious, and mysterious, health issue.\r\nMichael's wife, Lucie, t\u2026 [+1356 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Ben Golliver",
-            "title": "Victor Wembanyama, Britney Spears detail Las Vegas restaurant incident - The Washington Post",
-            "description": "The one thing both sides agree on: The NBA rookie's security detail and the pop star were involved in some sort of incident Wednesday night on the Vegas strip.",
-            "url": "https://www.washingtonpost.com/sports/2023/07/06/britney-spears-victor-wembanyama-vegas/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WLDI7NOQPXDAFFOGOVCFPOLSHQ_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-07-07T01:39:27Z",
-            "content": "Comment on this story\r\nComment\r\nLAS VEGAS Pop singer Britney Spears said Thursday that she was struck by a San Antonio Spurs security team member when she attempted to approach rookie forward Victor \u2026 [+2943 chars]"
+            "author": "Lyric Li",
+            "title": "France's Macron floats blocking social media during riots - The Washington Post",
+            "description": "The French president accused social media platforms such as Snapchat, TikTok and Telegram of fueling recent riots over the fatal police shooting of a teenager.",
+            "url": "https://www.washingtonpost.com/world/2023/07/06/france-macron-social-media-block-riots/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LMQ7N5NQCTBFIRH6LNM7ZYB6EI.JPG&w=1440",
+            "publishedAt": "2023-07-07T06:08:00Z",
+            "content": "Comment on this story\r\nComment\r\nFrench President Emmanuel Macrons suggestion that the government might need the ability to block social media access during riots has sparked a backlash in the country\u2026 [+4622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Francisco Lindor has 5 hits, Mets complete sweep of Diamondbacks in 9-0 win | Mets Highlights | SNY - SNY",
+            "description": "Francisco Lindor had the first 5 hit game of his career, a double short of the cycle, as the Mets dominated the Diamondbacks 9-0.  Lindor finished with a sin...",
+            "url": "https://www.youtube.com/watch?v=GmEJYqiq_NE",
+            "urlToImage": "https://i.ytimg.com/vi/GmEJYqiq_NE/maxresdefault.jpg",
+            "publishedAt": "2023-07-07T04:43:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsportsbayarea.com"
+            },
+            "author": "Eric Mullin",
+            "title": "Damian Lillard posts cryptic tweets amid trade request drama - Yahoo Sports",
+            "description": "Damian Lillard appeared to chime in on the dialogue surrounding his trade request.",
+            "url": "https://www.nbcsportsbayarea.com/nba/damian-lillard-posts-cryptic-tweets-amid-trade-request-drama/1639071/?partner=yahoo",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YCypIRAl.TkGlr1beWcs5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/csnbayarea.com/13a7fd5c1b1e44130e962d036961a4de",
+            "publishedAt": "2023-07-07T04:33:00Z",
+            "content": "Damian Lillard posts cryptic tweets amid trade request drama originally appeared on NBC Sports Bay Area\r\nDamian Lillard appeared to chime in on the dialogue surrounding his trade request with a pair \u2026 [+1637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Britney Spears responds to Victor Wembanyama incident | SportsCenter - ESPN",
+            "description": "SportsCenter gives an update on the developing story involving Britney Spears filing a police report claiming she was struck by a member of Victor Wembanyama...",
+            "url": "https://www.youtube.com/watch?v=O2tpdSgUzCc",
+            "urlToImage": "https://i.ytimg.com/vi/O2tpdSgUzCc/maxresdefault.jpg",
+            "publishedAt": "2023-07-07T04:27:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Lexy Perez",
+            "title": "Taylor Swift Releases Re-Recorded \u2018Speak Now (Taylor\u2019s Version)\u2019 Album - Hollywood Reporter",
+            "description": "The album, originally released in 2010, features songs \"Mine,\" \"Back to December,\" \"Mean\" and \"Enchanted.\"",
+            "url": "https://www.hollywoodreporter.com/news/music-news/taylor-swift-re-recorded-speak-now-taylors-version-album-1235530577/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/GettyImages-1497327422.jpg?w=1024",
+            "publishedAt": "2023-07-07T04:06:28Z",
+            "content": "Taylor Swift is ready to re-introduce another era with the release of her re-recorded \u201cTaylor\u2019s Version\u201d of her album\u00a0Speak Now.\r\nThe 22-track album dropped Thursday evening with Swift taking to soci\u2026 [+3845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "EURACTIV"
+            },
+            "author": "Krassen Nikolov",
+            "title": "Ukraine in talks with Bulgaria to buy Russian nuclear reactors with EU funds - EURACTIV",
+            "description": "Ukraine has started serious discussions to purchase Bulgaria\u2019s two Russian-made nuclear reactors with EU mon",
+            "url": "https://www.euractiv.com/section/politics/news/ukraine-in-talks-with-bulgaria-to-buy-russian-nuclear-reactors-with-eu-funds/",
+            "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2023/07/11578563-800x450.jpg",
+            "publishedAt": "2023-07-07T04:05:25Z",
+            "content": "Ukraine has started serious discussions to purchase Bulgarias two Russian-made nuclear reactors with EU money so it can better deal with future power shortages, Bulgarian Prime Minister Nikolay Denko\u2026 [+2110 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Faris Tanyos",
+            "title": "Russian fighter pilots harass U.S. military drones in Syria for second straight day, Pentagon says - CBS News",
+            "description": "U.S. Air Force MQ-9 Reaper drones were carrying out an operation against ISIS targets when they were confronted by Russian jets for the second time in less than 24 hours, officials said.",
+            "url": "https://www.cbsnews.com/news/russian-fighter-jets-harass-u-s-air-force-drones-syria-second-straight-day-isis/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/07/50e7c0b9-86c2-4c79-857f-9e95bdde2fa1/thumbnail/1200x630/8581577d8670b8403984d4157c74024f/drone-confrontation.jpg?v=532947bbe7449b367b963713a282edbc",
+            "publishedAt": "2023-07-07T03:35:13Z",
+            "content": "For the second time in two days, Russian fighter jets on Thursday engaged in \"unsafe and unprofessional behavior\" towards U.S. Air Force drones over Syria, U.S. military officials said. \u00a0\r\nMQ-9 Reape\u2026 [+1870 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hawaii News Now"
+            },
+            "author": null,
+            "title": "Hundreds of Hawaii UPS workers, and the customers they serve, brace for nationwide strike - Hawaii News Now",
+            "description": "It has the potential to be one of the biggest strikes in U.S. history.",
+            "url": "https://www.hawaiinewsnow.com/2023/07/07/600-hawaii-ups-workers-prepare-looming-strike/",
+            "urlToImage": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/jpoW7jE8kjqedolRONzVhvJjZKw=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/ONJE5T2AUNHZRE7FA3BI2SPCZI.jpg",
+            "publishedAt": "2023-07-07T03:30:00Z",
+            "content": "HONOLULU (HawaiiNewsNow) - Some 340,000 UPS workers nationwide are moving closer to a strike after marathon talks broke down.\r\nIt has the potential to be one of the biggest strikes in U.S. history an\u2026 [+2402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Owner of the submersible that imploded during Titanic dive suspends operations - 12NewsNow",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=j4-BzeVSqq0",
+            "urlToImage": null,
+            "publishedAt": "2023-07-07T03:21:34Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Charean Williams",
+            "title": "Report: DeAndre Hopkins remains in contact with Titans, Patriots but signing not imminent - NBC Sports",
+            "description": "The Cardinals released receiver DeAndre Hopkins on May 26, and he has remained a free agent since.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-deandre-hopkins-remains-in-contact-with-titans-patriots-but-signing-not-imminent",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/7b5faaf/2147483647/strip/true/crop/5556x3125+0+375/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F16%2Fed%2F524b0f4648e59c36fbf718c6cc07%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D19680274",
+            "publishedAt": "2023-07-07T02:06:06Z",
+            "content": "The Cardinals released receiver DeAndre Hopkins on May 26, and he has remained a free agent since.\r\nHopkins visited the Patriots and Titans, and Tom Pelissero of NFL Media reports both teams remain i\u2026 [+663 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kelsey Vlamis",
+            "title": "US official says 'exiled' Wagner boss Prigozhin may not have gone to Belarus at all \u2014 and may have used a body double to make it appear as though he fled Russia - Yahoo News",
+            "description": "A Pentagon official told The New York Times it appears Prigozhin has mostly been in Russia since the mutiny, noting the possibility of a body double.",
+            "url": "https://www.businessinsider.com/prigozhin-possibly-used-body-double-russia-whole-time-us-official-2023-7",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tUE72esZ85ABIFk8iI8TJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/288069d47f105b2e208f3a18142e90cf",
+            "publishedAt": "2023-07-07T01:44:00Z",
+            "content": "Wagner boss Yevgeny Prigozhin in 2017.SERGEI ILNITSKY/POOL/AFP via Getty Images\r\n<ul><li>Wagner boss Yevgeny Prigozhin was exiled to Belarus last month after staging an armed rebellion.\r\n</li><li>But\u2026 [+2115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Mortal Kombat 1 Shows Off Returning Characters In Jaw-Dropping New Trailer - Nintendo Life",
+            "description": "See more \"reimagined versions of iconic characters\"",
+            "url": "https://www.nintendolife.com/news/2023/07/mortal-kombat-1-shows-off-returning-characters-in-jaw-dropping-new-trailer",
+            "urlToImage": "https://images.nintendolife.com/c1a5929958067/1280x720.jpg",
+            "publishedAt": "2023-07-07T00:55:00Z",
+            "content": "Subscribe to Nintendo Life on YouTube\r\nOne of the most anticipated releases in the second half of 2023 is Mortal Kombat 1, and the good news is it's already been confirmed for the Switch.\r\nWith this \u2026 [+1027 chars]"
         },
         {
             "source": {
@@ -43,224 +199,68 @@
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "ign",
+                "name": "IGN"
             },
-            "author": "Kate Selig",
-            "title": "Toxic 'forever chemicals' taint nearly half of U.S. tap water, study estimates - The Washington Post",
-            "description": "Researchers from the United States Geological Survey collected tap water from over 700 locations across the country. Their findings, experts say, don't bode well for public health.",
-            "url": "https://www.washingtonpost.com/climate-environment/2023/07/06/tap-water-forever-chemicals-pfas/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4JDLZITJD5E7EFDP3C5SDIC7DA.jpg&w=1440",
-            "publishedAt": "2023-07-06T23:34:00Z",
-            "content": "Comment on this story\r\nComment\r\nIn the latest evidence of the pervasiveness of forever chemicals, a new study from the United States Geological Survey (USGS) estimates that these contaminants now tai\u2026 [+6287 chars]"
+            "author": "George Yang",
+            "title": "Sega Executive Dismisses 'Play-to-Earn' Blockchain Games as 'Boring' - IGN",
+            "description": "Sega was initially on board with blockchain gaming technology but has now started to pull away from it as the technology hadn't taken off as expected.",
+            "url": "https://www.ign.com/articles/sega-executive-dismisses-play-to-earn-blockchain-games-as-boring",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/06/08/sonicthumb-1686253410260.jpg?width=1280",
+            "publishedAt": "2023-07-07T00:20:52Z",
+            "content": "Sega isn't as all in on blockchain gaming as it was before, now withholding its biggest IP such as Sonic the Hedgehog from being used in third-party blockchain games. This move is to ensure that Sega\u2026 [+1868 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Twitter threatens legal action over Threads app - BBC",
-            "description": "Its owner Elon Musk says \"competition is fine, cheating is not\" a day after the rival app launches.",
-            "url": "https://www.bbc.com/news/world-us-canada-66129215",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F443/production/_130313526_gettyimages-1507106681.jpg",
-            "publishedAt": "2023-07-06T21:53:58Z",
-            "content": "Twitter is considering legal action against Meta over its fast-growing rival app Threads.\r\nThreads, which was launched to millions on Wednesday, is similar to Twitter and has been pitched by Meta bos\u2026 [+2769 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WDIV ClickOnDetroit"
-            },
-            "author": "Brandon Carr",
-            "title": "Man linked to abduction of 2-year-old Wynter Cole Smith from Lansing charged with fleeing police - WDIV ClickOnDetroit",
-            "description": "Rashad Maleek Trice, 26, of Detroit, has been charged with fleeing police after officials say he attacked his 22-year-old ex-girlfriend and kidnapped her daughter, 2-year-old Wynter Cole Smith.",
-            "url": "https://www.clickondetroit.com/news/local/2023/07/06/man-linked-to-abduction-of-2-year-old-wynter-cole-smith-from-lansing-charged-with-fleeing-police/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QXNCAYAKABDRNCXQOFN7ELANAQ.png?_a=ATAPphC0",
-            "publishedAt": "2023-07-06T21:34:46Z",
-            "content": "DETROIT Rashad Maleek Trice, 26, of Detroit, has been charged with fleeing police after officials say he attacked his 22-year-old ex-girlfriend and kidnapped her daughter, 2-year-old daughter Wynter \u2026 [+2189 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neurosciencenews.com"
-            },
-            "author": "Neuroscience News",
-            "title": "The Human Heat Limit: Metabolic Rates Spike at 104-122\u00b0F - Neuroscience News",
-            "description": null,
-            "url": "https://neurosciencenews.com/heeat-metabolism-humans-23590/",
-            "urlToImage": null,
-            "publishedAt": "2023-07-06T21:30:57Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DW (English)"
-            },
-            "author": "Deutsche Welle",
-            "title": "Europe's Ariane 5 rocket lifts off for final time - DW (English)",
-            "description": "The European Space Agency's Ariane 5 \"workhorse\" rocket has marked its 117th and final mission on Thursday after 27 years of service.",
-            "url": "https://www.dw.com/en/europes-ariane-5-rocket-lifts-off-for-final-time/a-66129755",
-            "urlToImage": "https://static.dw.com/image/66129886_6.jpg",
-            "publishedAt": "2023-07-06T20:56:44Z",
-            "content": "The European Space Agency\u00a0said its Ariane 5 rocket successfully took off from French Guinea for the final time on Wednesday night.\r\nThe rocket carried two military communications satellites, namely, \u2026 [+1044 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Seattle Times"
-            },
-            "author": "The Seattle Times",
-            "title": "What 120 degrees looks like in one of Mexico\u2019s hottest cities - The Seattle Times",
-            "description": null,
-            "url": "https://www.seattletimes.com/nation-world/what-120-degrees-looks-like-in-one-of-mexicos-hottest-cities/",
-            "urlToImage": null,
-            "publishedAt": "2023-07-06T20:48:59Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Eric Lagatta",
-            "title": "Tourist who defaced Rome's Colosseum claims not to know it was ancient - USA TODAY",
-            "description": "A man identified as English tourist Ivan Danailov Dimitrov, 27, was seen in a video carving \"Ivan+Haley 23\" into the nearly 2,000-year-old Colosseum",
-            "url": "https://www.usatoday.com/story/news/world/2023/07/06/colosseum-defacing-tourist-ivan-danailov-dimitrov-identified/70388721007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/06/NCOD/a2b366c4-a362-48e7-9e20-26262709e56b-AP_Italy_Colosseum_Vandals.jpg?crop=8639,4860,x0,y439&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-06T20:48:16Z",
-            "content": "An English tourist who was filmed carving a note into the Colosseum in Rome has penned a letter apologizing for defacing the nearly 2,000-year-old amphitheater, claiming that he was unaware that the \u2026 [+2813 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Best Prime Day Amazon Device Deals: Prices Slashed on Ring, Echo, Fire TV and More - CNET",
-            "description": "Ahead of Amazon's 2023 Prime Day sale, you can score big discounts on the company's most popular devices right now.",
-            "url": "https://www.cnet.com/deals/best-prime-day-amazon-device-deals/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/e4951781b33181f3ac51ec445df0a93a6a75c142/hub/2023/06/14/5aca9188-e20b-4422-b327-e8c91934d401/amazon-smart-devices.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2023-07-06T20:47:00Z",
-            "content": "Prime Day\u00a0officially kicks off next week, but the deals are already rolling in, especially on Amazon's own family of devices such as the Echo Dot, Fire TV Stick, Ring video doorbells and more. Amazon\u2026 [+10817 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "NASA's Space Shuttle Endeavour Will Stand Tall Once More - Gizmodo",
-            "description": "The trusty old Shuttle is being made into a museum display, and it'll be the first time the 20-story spacecraft is fully stacked outside of a NASA facility.",
-            "url": "https://gizmodo.com/nasa-space-shuttle-endeavour-stand-tall-once-more-1850611153",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7ef4ddf2213b9c97f305cb56972626c3.jpg",
-            "publishedAt": "2023-07-06T20:45:00Z",
-            "content": "The Space Shuttle is going to look launch ready once again, although this time the retired spacecraft wont be firing its engines. \r\nThe California Science Center is ready to kick off a six-month-long\u2026 [+2494 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FDA.gov"
-            },
-            "author": "Office of the Commissioner",
-            "title": "FDA Converts Novel Alzheimer's Disease Treatment to Traditional Approval - FDA.gov",
-            "description": "The FDA converted Leqembi (lecanemab-irmb), indicated to treat adult patients with Alzheimer\u2019s Disease, to traditional approval.",
-            "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
-            "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-            "publishedAt": "2023-07-06T20:35:00Z",
-            "content": "For Immediate Release:\r\nJuly 06, 2023\r\nToday, the U.S. Food and Drug Administration converted Leqembi (lecanemab-irmb), indicated to treat adult patients with Alzheimers Disease, to traditional appro\u2026 [+6044 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Karen Friar",
-            "title": "Stocks slide as fresh jobs strength adds to Fed hike consensus: Stock market news today - Yahoo Finance",
-            "description": "Stocks fell on Thursday after strong labor data spurred fears around further Federal Reserve interest rate hikes, reviving concerns about the impact of those...",
-            "url": "https://finance.yahoo.com/news/stocks-slide-as-fresh-jobs-strength-adds-to-fed-hike-consensus-stock-market-news-today-200120760.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6R4gQDBpxa0sIth6JHFptw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/851004b0-ef13-11ed-9aef-13fa7263f51b",
-            "publishedAt": "2023-07-06T20:05:12Z",
-            "content": "The strong economic data continues to roll in as investors await Friday's highly anticipated June jobs report. On Thursday, the Institute for Supply Chain Management Services Index ticked up from 50.\u2026 [+1585 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Linda Codega",
-            "title": "SAG Update: Actors' Union Is Preparing to Strike - Gizmodo",
-            "description": "As the extended negotiation deadline nears its end, SAG-AFTRA has sent communications to members about the potential labor action.",
-            "url": "https://gizmodo.com/sag-aftra-amptp-strike-negotiations-wga-writers-1850611373",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/47ebdb2db148e10b01fb9d42ef525261.jpg",
-            "publishedAt": "2023-07-06T19:45:00Z",
-            "content": "SAG-AFTRA, the union that represents actors, announcers, broadcast journalists, dancers, DJs, news writers, news editors, program hosts, puppeteers, recording artists, singers, stunt performers, voic\u2026 [+1620 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Reserve your Galaxy Z Fold 5 or Flip 5 now and get $50 Samsung credit - Android Police",
-            "description": null,
-            "url": "https://families.google.com/service-restricted",
-            "urlToImage": null,
-            "publishedAt": "2023-07-06T19:41:00Z",
+            "title": "Officials Demand Probe Into Florida's Migrant Transport - 23 ABC News | KERO",
+            "description": "A few weeks ago, migrants arrived in Sacramento from Florida. Now Governor Gavin Newsom and Attorney General Rob Banta are demanding answers. Bexar County Te...",
+            "url": "https://www.youtube.com/watch?v=ktcMiLFUqrA",
+            "urlToImage": "https://i.ytimg.com/vi/ktcMiLFUqrA/maxresdefault.jpg",
+            "publishedAt": "2023-07-06T23:49:07Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Tyler Greenawalt",
-            "title": "NBA free agency 2023: Damian Lillard's agent reportedly cautioning teams from trading for star guard - Yahoo Sports",
-            "description": "Lillard's divorce from the Trail Blazers is teetering away from amicable to hostile.",
-            "url": "https://sports.yahoo.com/nba-free-agency-2023-damian-lillards-agent-reportedly-cautioning-teams-from-trading-for-star-guard-193736319.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uWsYjgkVQE0CQzpNOiDRfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/d4570f20-1c2f-11ee-9dfb-fa6c0dc1a992",
-            "publishedAt": "2023-07-06T19:37:36Z",
-            "content": "The seemingly amicable end of Damian Lillard's time with the Portland Trail Blazers won't be rushed. Nor does it seem like it will be catered toward Lillard's wishes.\r\nGeneral manager Joe Cronin will\u2026 [+2309 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "Kayleigh McEnany: 'No way' White House cocaine is from Hunter Biden - USA TODAY",
-            "description": "Former Trump White House press secretary Kayleigh McEnany dismissed the idea the cocaine found at the White House belonged to Hunter Biden.",
-            "url": "https://www.usatoday.com/story/news/politics/2023/07/06/kayleigh-mcenany-white-house-cocaine-hunter-biden/70388525007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/07/06/USAT/4dedfff3-3423-4932-b7f2-f229b1a2431d-AP_Media-Fox-Primary.jpg?auto=webp&crop=4017,2260,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2023-07-06T18:59:08Z",
-            "content": "Former White House press secretary Kayleigh McEnany dismissed the idea that the cocaine found at the White House over the weekend belonged to President Joe Bidens son, Hunter Biden.\r\nFor it to be Hun\u2026 [+1320 chars]"
+            "author": "Sara Moniuszko",
+            "title": "Leqembi, first Alzheimer's drug to slow disease, gets full FDA approval - CBS News",
+            "description": "Leqembi is not a cure, but it is the first drug shown to slow the progression of Alzheimer's disease. It first received an accelerated approval from the FDA earlier this year.",
+            "url": "https://www.cbsnews.com/news/first-alzheimers-drug-slow-disease-leqembi-gets-full-fda-approval/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/06/6155b273-0a87-4d22-97d4-b6aa87e83e74/thumbnail/1200x630/5904df83378be2beb3922f98d71ffa3c/fda-reuters.jpg?v=532947bbe7449b367b963713a282edbc",
+            "publishedAt": "2023-07-06T23:35:00Z",
+            "content": "The U.S. Food and Drug Administration on Thursday granted traditional approval\u00a0to the Alzheimer's drug lecanemab, known by the brand name Leqembi, after an accelerated approval was issued earlier thi\u2026 [+4550 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Science.org"
+                "name": "Hollywood Reporter"
             },
-            "author": "Science",
-            "title": "Measurement of electron's 'shape' dims hopes for discovery of new particles - Science",
-            "description": null,
-            "url": "https://www.science.org/content/article/measurement-electron-s-shape-dims-hopes-discovery-new-particles",
-            "urlToImage": null,
-            "publishedAt": "2023-07-06T18:49:09Z",
-            "content": null
+            "author": "Angie Han",
+            "title": "\u2018The Horror of Dolores Roach\u2019 Review: Justina Machado in Prime Video\u2019s Tasty Cannibalism Dramedy - Hollywood Reporter",
+            "description": "The actress stars as a recently incarcerated woman whose new job as a masseuse working under a Washington Heights empanada shop takes a 'Sweeney Todd'-like turn.",
+            "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-horror-of-dolores-roach-review-1235528714/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/DOLORES_HODR_S1_FG_10_00202608_Still204RC_3000-H-2023.jpg?w=1024",
+            "publishedAt": "2023-07-06T22:10:37Z",
+            "content": "\u201cI\u2019m not the monster you\u2019re making me out to be, seriously,\u201d Dolores (Justina Machado) insists early in Prime Video\u2019s The Horror of Dolores Roach. \u201cI\u2019m just like you, if everything went wrong.\u201d Frank\u2026 [+4896 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "WMTV"
+                "id": "medical-news-today",
+                "name": "Medical News Today"
             },
-            "author": null,
-            "title": "Wisconsin governor\u2019s 400-year veto angers opponents in state with long history of creative cuts - WMTV \u2013 NBC15",
-            "description": "\u201cEverybody will shout and scream,\u201d said former Democratic Gov. Jim Doyle, \u201cbut he\u2019s got \u2018em.\u201d",
-            "url": "https://www.nbc15.com/2023/07/06/wisconsin-governors-400-year-veto-angers-opponents-state-with-long-history-creative-cuts/",
-            "urlToImage": "https://gray-wmtv-prod.cdn.arcpublishing.com/resizer/hv1aPD-dZi_2Z54Er6YQAyQZhjA=/1200x600/filters:focal(1842x1185:1852x1175):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6VB5AHZ3WVBR3KJDSF2K5FXM5Y.jpg",
-            "publishedAt": "2023-07-06T18:45:00Z",
-            "content": "MADISON, Wis. (AP) Wisconsin Gov. Tony Evers\u00a0partial veto\u00a0that attempts to lock in a school funding increase for 400 years drew outrage and surprise from his political opponents, but its just the lat\u2026 [+5492 chars]"
+            "author": "Annie Lennon",
+            "title": "How hot is too hot for the human body? Study offers new insights - Medical News Today",
+            "description": "New research finds the human body may stop functioning optimally when outside temperatures reach beyond certain temperatures.",
+            "url": "https://www.medicalnewstoday.com/articles/how-hot-is-too-hot-for-the-human-body-heart-metabolic-rate",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/07/Professor-Lewis-Halsey-732x549-thumbnail.jpg",
+            "publishedAt": "2023-07-06T21:47:39Z",
+            "content": "<ul><li>Researchers investigated when the body starts exerting more energy to keep itself cool at high temperatures. </li><li>They found that this upper-temperature limit lies between 40 (104F) and 5\u2026 [+7630 chars]"
         }
     ]
 }
