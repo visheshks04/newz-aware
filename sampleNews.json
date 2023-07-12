@@ -1,123 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "2023 MLB Home Run Derby live updates: Highlights from the event - FOX Sports",
-            "description": "The 2023 MLB Home Run Derby delivered! Here's a recap of all the special moments and reaction on social media.",
-            "url": "https://www.foxsports.com/stories/mlb/2023-mlb-home-run-derby-live-updates-highlights-from-the-event",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/07/1408/814/7.10.23_Home-Run-Derby-Top-Moments_16x9.jpg?ve=1&tl=1",
-            "publishedAt": "2023-07-11T01:55:10Z",
-            "content": "One of the most exciting nights on the MLB calendar did not disappoint.\r\nVladimir Guerrero Jr.\r\n held off a late Randy Arozarena\r\n rally to win the 2023 Home Run Derby at T-Mobile Park in Seattle on \u2026 [+3783 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "Volcano eruption in Iceland, families asked to stay inside their homes - USA TODAY",
-            "description": "Iceland has now seen eruptions on the Reykjanes Peninsula three years in a row.",
-            "url": "https://www.usatoday.com/story/news/world/2023/07/10/volcano-eruption-iceland-lava-pollution/70400249007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/07/11/USAT/b9b7a6a1-6e14-4233-b70d-6df9d5b8ef8b-AFP_AFP_33NK3EK.jpg?auto=webp&crop=4055,2281,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2023-07-11T01:08:28Z",
-            "content": "Volcanic eruptions were reported in Iceland Monday about 20 miles from the capital city of Reykjavik, the Icelandic Meteorological Office (IMO) reported, and the eruptions followed a period of seismi\u2026 [+2162 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Relentless rain floods roads in Northeast, leads to evacuations, rescues - CBS Boston",
-            "description": "Heavy rains forced evacuations and washed out roads in parts of the northeast.",
-            "url": "https://www.cbsnews.com/boston/news/vermont-new-hampshire-massachusetts-connecticut-flooding/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/10/35251820-dd6b-4a6a-89cc-f38665f3493c/thumbnail/1200x630/15beb4191232ec907ee3e1287c931588/vermont-river-flooding-courtesy-addison-kuper-frame-579.jpg?v=758b39f312cc5ee6054d0eb9bad6c0cd",
-            "publishedAt": "2023-07-11T00:13:00Z",
-            "content": "ANDOVER, Vt. - Rescue teams raced into Vermont on Monday after heavy rain drenched parts of the Northeast, washing out roads, forcing evacuations and halting some airline travel. One person was kille\u2026 [+7768 chars]"
+            "author": "Nouran Salahieh, Lauren Mascarenhas",
+            "title": "Intense storms leave Northeast streets flooded, force evacuations and close downtown in Vermont\u2019s capital - CNN",
+            "description": "Intense rainstorms inundating the Northeast are turning streets into rivers, forcing evacuations and have prompted officials in Vermont\u2019s capital, Montpelier, to close its downtown area.",
+            "url": "https://www.cnn.com/2023/07/11/us/northeast-storms-flooding-excessive-rainfall-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230710180035-08-ne-flooding-vermont.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-11T12:07:00Z",
+            "content": "Intense rainstorms inundating the Northeast are turning streets into rivers, forcing evacuations and have prompted officials in Vermonts capital, Montpelier, to close its downtown area.\r\nThe catastro\u2026 [+7314 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TMZ"
+                "name": "POLITICO.eu"
             },
-            "author": "TMZ Staff",
-            "title": "Melanie Griffith Shows Off Tattoo to Replace Antonio Banderas Ink - TMZ",
-            "description": "Melanie Griffith wears her heart on her sleeve in expressing her love -- just ask Antonio Banderas -- and now, she's got 4 new names in ink to show off her feelings.",
-            "url": "https://www.tmz.com/2023/07/10/melanie-griffith-new-arm-tattoo-replace-antonio-banderas-name/",
-            "urlToImage": "https://imagez.tmz.com/image/67/16by9/2023/07/10/67b597d77aef4c8f93eaf930ce1a8228_xl.jpg",
-            "publishedAt": "2023-07-11T00:00:00Z",
-            "content": "Melanie Griffith wears her heart on her sleeve in expressing her love -- just ask Antonio Banderas -- and now, she's got 4 new names in ink to show off her feelings.\r\nThe actress was sleeveless in L.\u2026 [+1003 chars]"
+            "author": "Lili Bayer, Alex Ward",
+            "title": "Zelenskyy blasts 'absurd' draft text that hedges on Ukraine's NATO membership timeline - POLITICO Europe",
+            "description": "The Ukrainian president\u2019s outrage is raising eyebrows at the NATO summit.",
+            "url": "https://www.politico.eu/article/volodymyr-zelenskyy-nato-draft-text-on-ukraine-membership-timeline/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/11/GettyImages-1523556424-scaled.jpg",
+            "publishedAt": "2023-07-11T12:03:14Z",
+            "content": "VILNIUS Ukrainian President Volodymyr Zelenskyy on Tuesday denounced NATO negotiators for balking at offering Kyiv a concrete path to joining NATO in a draft communiqu\u00e9 being hammered out at an allia\u2026 [+4455 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KTLA Los Angeles"
+                "name": "MLB.com"
             },
-            "author": "JAKE OFFENHARTZ, Associated Press",
-            "title": "The FDA is being asked to look into Logan Paul\u2019s energy drink, which has the caffeine of 6 Coke cans - KTLA Los Angeles",
-            "description": "An influencer-backed energy drink that has earned viral popularity among children is facing scrutiny from lawmakers and health experts over its potentially dangerous levels of caffeine. On Sunday, Sen. Charles Schumer called on the Food and Drug Administratio\u2026",
-            "url": "https://ktla.com/news/ap-the-fda-is-being-asked-to-look-into-logan-pauls-energy-drink-which-has-the-caffeine-of-6-coke-cans/",
-            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/07/AP23191791513330.jpg?w=1280",
-            "publishedAt": "2023-07-10T23:46:11Z",
-            "content": "An influencer-backed energy drink that has earned viral popularity among children is facing scrutiny from lawmakers and health experts over its potentially dangerous levels of caffeine.\r\nOn Sunday, S\u2026 [+2873 chars]"
+            "author": "Theo DeRosa, Brent Maguire",
+            "title": "2023 Home Run Derby results - MLB.com",
+            "description": "A two-time Home Run Derby champ, the son of a Derby champ, a hometown hero, an MVP, a native Northwesterner and a trio of Cuban countrymen launched majestic dingers into the night at T-Mobile Park on Monday, but only one of them came away with a trophy.\nIn th\u2026",
+            "url": "https://www.mlb.com/news/2023-home-run-derby-results",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/f9fua6p8r3hupddbgqfi.jpg",
+            "publishedAt": "2023-07-11T11:24:43Z",
+            "content": "A two-time Home Run Derby champ, the son of a Derby champ, a hometown hero, an MVP, a native Northwesterner and a trio of Cuban countrymen launched majestic dingers into the night at T-Mobile Park on\u2026 [+8552 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sabine Siebold, John Irish",
+            "title": "Turkey gives green light to Swedish NATO membership bid - Reuters",
+            "description": "Turkish President Tayyip Erdogan on Monday agreed to forward to parliament Sweden's bid to join the NATO military alliance, appearing to end months of drama over an issue that had strained the bloc as war has raged in Ukraine.",
+            "url": "https://www.reuters.com/world/turkey-sweden-locked-talks-break-impasse-over-nato-membership-2023-07-10/",
+            "urlToImage": "https://www.reuters.com/resizer/eYU38B8YEVR8BrT_tZArWJ6jQzU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WZJWKX4N7FL55DEZYPWFUWKDQ4.jpg",
+            "publishedAt": "2023-07-11T11:10:00Z",
+            "content": "VILNIUS, July 10 (Reuters) - Turkish President Tayyip Erdogan on Monday agreed to forward to parliament Sweden's bid to join the NATO military alliance, appearing to end months of drama over an issue\u2026 [+3696 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KOMO News"
+                "name": "Cyclingnews.com"
             },
-            "author": "Jeremy Harris, KOMO News Reporter",
-            "title": "'A lot safer, a lot cleaner:' All-Star game fans optimistic about area near Seattle - KOMO News",
-            "description": "Fans streamed through the streets of SODO Monday for All-Star game events and the home-run derby at T-Mobile Park.",
-            "url": "https://komonews.com/news/local/all-star-week-mlb-game-fans-optimistic-seattle-stadium-t-mobile-park-clean-safe-safety-effort-home-run-derby-tailgate-rv-encampment-police-security",
-            "urlToImage": "https://komonews.com/resources/media/797d484f-605d-4bcf-9757-a5208880cbfc-large16x9_sodoparking0.jpg",
-            "publishedAt": "2023-07-10T23:40:09Z",
-            "content": "by Jeremy Harris, KOMO News Reporter\r\nMon, July 10th 2023, 11:40 PM UTC"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "CNN reporter breaks down agreement for Turkey backing Sweden's NATO bid - CNN",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=MYZv9d3YD4M",
-            "urlToImage": null,
-            "publishedAt": "2023-07-10T23:36:17Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Eli Tan",
-            "title": "Meta's Threads tops 100 million users in just 5 days, Zuckerberg says - The Washington Post",
-            "description": "In less than a week, the Twitter competitor has become one of the most downloaded social media apps in the United States.",
-            "url": "https://www.washingtonpost.com/technology/2023/07/10/threads-meta-twitter-zuckerberg/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZCKCQTSFZVGZR5KAGD4KKYRQQ_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-07-10T23:35:10Z",
-            "content": "Comment on this story\r\nComment\r\nMetas new text-based social network Threads has eclipsed 100 million users in its first five days.\r\nThe app is now among the most used social media platforms in the Un\u2026 [+1692 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Taryn Ryder",
-            "title": "Kate Gosselin 'separated' son Collin from other siblings, his sister claims: Here's where the fractured family stands - Yahoo Entertainment",
-            "description": "Hannah and Collin Gosselin, 19, make troubling allegations against their reality-star mom.",
-            "url": "https://www.yahoo.com/entertainment/kate-gosselin-jon-gosselin-son-collin-daughter-hannah-mistreatment-documentary-233400811.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6uVCa6JCzfKkiJnM6OXWgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/edad9520-1f68-11ee-99ff-4335a3069bfc",
-            "publishedAt": "2023-07-10T23:34:00Z",
-            "content": "Hannah and Collin Gosselin claim he was allegedly abused by their mom, Kate Gosselin. (Photo: Jon Gosselin/Getty Images)\r\nKate Gosselin's strained relationship with two of her children, Hannah and Co\u2026 [+4973 chars]"
+            "author": "Will Jones",
+            "title": "I always listen to music when I ride, and this is what I'd buy this Prime Day - Cyclingnews",
+            "description": "Bone conduction headphones 30% off un USA and UK",
+            "url": "https://www.cyclingnews.com/news/i-always-listen-to-music-when-i-ride-and-this-is-what-id-buy-this-amazon-prime-day/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/75Nc998WRhLysv9qJJ6Rod-1200-80.jpg",
+            "publishedAt": "2023-07-11T10:47:29Z",
+            "content": "Listening to music while riding is often a contentious topic. Some people refuse to do so on safety grounds, while others (myself included), almost always have some kind of musical accompaniment. I'v\u2026 [+1134 chars]"
         },
         {
             "source": {
@@ -125,142 +73,194 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Nato summit: Ukraine's future membership to be discussed by leaders in Vilnius - BBC",
-            "description": "But the meeting in Lithuania will see disagreement on what to promise President Zelensky.",
-            "url": "https://www.bbc.com/news/world-europe-66157625",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12448/production/_130342847_natoflags.jpg",
-            "publishedAt": "2023-07-10T23:32:15Z",
-            "content": "Nato leaders are gathering in Lithuania for a crucial summit that could shape the direction of the war in Ukraine and the future of the Western alliance. \r\nThe 31 allies hope to show Russia they have\u2026 [+6082 chars]"
+            "title": "Ukraine war: Russian ex-navy commander shot dead while jogging in Krasnodar - BBC",
+            "description": "Stanislav Rzhitsky was reportedly shot dead by an unidentified gunman in the Russian city of Krasnodar.",
+            "url": "https://www.bbc.com/news/world-europe-66162502",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/575C/production/_130346322_mediaitem130346318.jpg",
+            "publishedAt": "2023-07-11T10:44:50Z",
+            "content": "A former Russian submarine captain who worked as a mobilisation officer has been shot dead while jogging in the southern Russian city of Krasnodar, according to local media. \r\nStanislav Rzhitsky, 42,\u2026 [+2801 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karen Friar",
+            "title": "Stock futures tread water in wait for inflation data: Stock market news today - Yahoo Finance",
+            "description": "Stock futures rose Tuesday in the countdown to inflation reports that could give the Federal Reserve cause to consider ending its interest-rate hikes more...",
+            "url": "https://finance.yahoo.com/news/stock-futures-edge-up-in-wait-for-inflation-data-stock-market-news-today-104244154.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3diN4Q4rjNvEwqG9b9Byww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzg-/https://s.yimg.com/os/creatr-images/2019-08/cb697300-b854-11e9-bffe-0c421017c20b",
+            "publishedAt": "2023-07-11T10:42:44Z",
+            "content": "Stock futures inched higher Tuesday in the countdown to inflation reports that could give the Federal Reserve cause to consider ending its interest-rate hikes more quickly.\r\nS&amp;P 500 (^GSPC) futur\u2026 [+1327 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
             },
             "author": null,
-            "title": "Dangerous flash flooding causing states of emergency in Northeast - NBC News",
-            "description": "A brutal bout of storms is causing states of emergency to be declared in parts of New York, Connecticut and Vermont. The heavy rain is causing roadways to co...",
-            "url": "https://www.youtube.com/watch?v=c0kmCoWYlR0",
-            "urlToImage": "https://i.ytimg.com/vi/c0kmCoWYlR0/maxresdefault.jpg",
-            "publishedAt": "2023-07-10T23:31:00Z",
+            "title": "Tourists are told to stay away from an erupting volcano in Iceland because of poisonous gases - The Associated Press",
+            "description": "Authorities in Iceland have warned tourists and other spectators to stay away from a newly erupting volcano that is spewing lava and noxious gases from a fissure in the country\u2019s southwest. The eruption began on Monday afternoon in an uninhabited valley near \u2026",
+            "url": "https://apnews.com/article/iceland-volcano-eruption-tourists-e997b7293f20322033649e42236df2c0",
+            "urlToImage": "https://dims.apnews.com/dims4/default/49db486/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F68%2Ff02fe4cc4ae61638d07ef2e302f2%2F88ad8817f7554b518038683d0efbb918",
+            "publishedAt": "2023-07-11T10:25:00Z",
+            "content": "REYKJAVIK, Iceland (AP) Authorities in Iceland on Tuesday warned tourists and other spectators to stay away from a newly erupting volcano that is spewing lava and noxious gases from a fissure in the \u2026 [+2032 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Record UK wage growth adds to inflation fears; Europe markets cautiously higher: Live updates - CNBC",
+            "description": "European markets were higher after Wall Street snapped a three-day losing streak, with investors looking ahead to key U.S. inflation figures.",
+            "url": "https://www.cnbc.com/2023/07/11/european-markets-open-to-close-after-wall-street-snaps-losing-streak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103278825-trader.jpg?v=1689056316&w=1920&h=1080",
+            "publishedAt": "2023-07-11T09:37:00Z",
+            "content": "Wages excluding bonuses in the U.K. grew at their joint-fastest rate on record in the three months to May, rising by 7.3% from the same period last year, the Office for National Statistics revealed T\u2026 [+2004 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Granth Vanaik, Ananya Mariam Rajesh",
+            "title": "Amazon dangles deeper 'Prime Day' discounts for stressed US shoppers - Reuters",
+            "description": "Amazon.com <a href=\"https://www.reuters.com/markets/companies/AMZN.O\" target=\"_blank\">(AMZN.O)</a> hopes to tempt U.S. shoppers on Tuesday to open inflation-thinned wallets by offering deeper discounts on a wide range of goods and services during this year's \u2026",
+            "url": "https://www.reuters.com/business/retail-consumer/amazon-dangles-deeper-prime-day-discounts-stressed-us-shoppers-2023-07-11/",
+            "urlToImage": "https://www.reuters.com/resizer/gGP4LqjzhRlvgZyxpu2JoqjdKUM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/364HXWNHDFKOZBCZYL5UQPRJJY.jpg",
+            "publishedAt": "2023-07-11T09:27:00Z",
+            "content": "July 11 (Reuters) - Amazon.com (AMZN.O) hopes to tempt U.S. shoppers on Tuesday to open inflation-thinned wallets by offering deeper discounts on a wide range of goods and services during this year's\u2026 [+3899 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hadas Gold, Amir Tal, Richard Allen Greene",
+            "title": "Israeli protesters begin 'day of disruption' against controversial judicial overhaul - CNN",
+            "description": "Demonstrators took to the streets in Israel on Tuesday for what they are calling a day of \u201cdisruption and resistance\u201d against the government\u2019s moves to overhaul the country\u2019s judicial system.",
+            "url": "https://www.cnn.com/2023/07/11/middleeast/israel-judicial-reforms-protests-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230711085907-04-israel-protests-071123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-11T09:23:00Z",
+            "content": "Demonstrators took to the streets in Israel on Tuesday for what they are calling a day of disruption and resistance against the governments moves to overhaul the countrys judicial system.\r\nPhotos and\u2026 [+1517 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Usf.edu"
+            },
+            "author": "Will Stone",
+            "title": "An old drug offers a new way to stop STIs - WUSF Public Media",
+            "description": "Taken after sex, the antibiotic doxycycline can ward off some sexually transmitted illnesses. Doctors are already prescribing it and the CDC is expected to share guidance soon for how best to use it.",
+            "url": "https://wusfnews.wusf.usf.edu/2023-07-11/an-old-drug-offers-a-new-way-to-stop-stis",
+            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/b546a7a/2147483647/strip/true/crop/1883x989+0+212/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F07%2F07%2Fgettyimages-1337752696-f444bfecc8286beab685e40feca54ebfec98f93e.jpg",
+            "publishedAt": "2023-07-11T09:04:00Z",
+            "content": "A promising line of attack against sexually transmitted infections puts a cheap and widely available medication to a new use.\r\nThe treatment a form of post-exposure prophylaxis, or PEP is a dose of t\u2026 [+10391 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Doyle Rice",
+            "title": "Chicago, other cities could sink due to climate change, study warns - USA TODAY",
+            "description": "According to the researchers' computer simulations, warmer temperatures can cause the ground to contract beneath the weight of a building.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/07/11/chicago-other-cities-sinking-due-to-climate-change-study/70212216007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/07/USAT/003d6048-df97-4dc0-a277-9091adf12c2d-geological_layers.jpg?crop=1911,1075,x0,y0&width=1911&height=1075&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-11T09:01:04Z",
+            "content": "Climate change is warming the world above and below ground, and what's happening below the surface could be causing the world's cities to slowly sink, a new study suggests.\r\nUnderground climate chang\u2026 [+6018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Shiny Surprise: Cheops Discovers Scorching Hot Exoplanet Acting Like a Mirror - SciTechDaily",
+            "description": "ESA's Cheops mission has found LTT9779 b, the shiniest known exoplanet with an 80% reflectivity due to its metallic clouds. This ultra-hot Neptune is a unique entity due to its size and unusually close orbit to its star, prompting further studies to understan\u2026",
+            "url": "https://scitechdaily.com/shiny-surprise-cheops-discovers-scorching-hot-exoplanet-acting-like-a-mirror/",
+            "urlToImage": "https://scitechdaily.com/images/Shiny-Exoplanet-in-Space-Concept-Close.jpg",
+            "publishedAt": "2023-07-11T08:21:04Z",
+            "content": "ByEuropean Space Agency (ESA)July 11, 2023\r\nESAs Cheops mission has discovered an ultra-hot exoplanet, LTT9779 b, with an albedo (reflectivity) of 80%, making it the shiniest exoplanet ever found. Th\u2026 [+9598 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Brian Hamilton and The Athletic Staff",
+            "title": "Northwestern fires coach Pat Fitzgerald amid fallout from hazing investigation - The Athletic",
+            "description": "Fitzgerald was initially suspended for two weeks after a summary of the investigation\u2019s findings were made public Friday.",
+            "url": "https://theathletic.com/4681232/2023/07/10/northwestern-fires-pat-fitzgerald/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/06/25023753/USATSI_17155497-scaled.jpg",
+            "publishedAt": "2023-07-11T07:11:54Z",
+            "content": "Northwestern has fired football coach Pat Fitzgerald amid fallout from the universitys investigation into hazing allegations within the football program, university president Michael Schill said in a\u2026 [+6937 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung",
+            "title": "Ozzy Osbourne pulls out of Power Trip festival citing health problems - CNN",
+            "description": "British rock icon Ozzy Osbourne announced on Monday he was pulling out of the Power Trip music festival scheduled for October, citing persistent health problems that have plagued his career in recent years.",
+            "url": "https://www.cnn.com/2023/07/11/entertainment/ozzy-osbourne-power-trip-health-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230711063753-ozzy-osbourne-file-2022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-11T06:26:00Z",
+            "content": "British rock icon Ozzy Osbourne announced on Monday he was pulling out of the Power Trip music festival scheduled for October, citing persistent health problems that have plagued his career in recent\u2026 [+2102 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "BINAJ GURUBACHARYA",
+            "title": "At least 5 dead after helicopter carrying foreign tourists crashes near Mount Everest in Nepal - The Associated Press",
+            "description": "At least five people have been killed after a helicopter carrying foreign tourists crashed near Mount Everest in Nepal, and one other person on the flight is still missing. The chief government administrator in Lamajura said the helicopter crashed on Tuesday \u2026",
+            "url": "https://apnews.com/article/nepal-mount-everest-helicopter-missing-547d5f6e039e34518c8936559d7aaa7f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/1bd83fe/2147483647/strip/true/crop/5507x3098+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2Ffe%2Fb380974a901868d9d49700d28b7c%2F248ad8a074af44039d8c2a23308df2c0",
+            "publishedAt": "2023-07-11T06:17:00Z",
+            "content": "KATHMANDU, Nepal (AP) At least five people were killed after a helicopter carrying foreign tourists crashed Tuesday near Mount Everest in Nepal, and one other person on the aircraft was still missing\u2026 [+976 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Thao Nguyen",
+            "title": "Rolling Hills Estates landslide: Heavy rains suspected as cause - USA TODAY",
+            "description": "Officials said a fissure was found running among the homes which raised suspicion that the heavy rains from winter storms could be the cause.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/07/11/southern-california-landslide-rollings-hills-estates/70400617007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/11/USAT/6551942b-be23-4f54-a98b-dc047a654260-AP23191620907888.jpg?crop=5999,3375,x0,y305&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-11T06:09:43Z",
+            "content": "A landslide over the weekend ripped luxury homes off their foundations in Southern California, prompting a dozen properties that were at risk of falling down a nearby canyon to be evacuated.\r\nThe lan\u2026 [+3901 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Loh",
+            "title": "Wagner almost reached Russian base with small nukes: Ukraine spy chief - Business Insider",
+            "description": "The mercenaries wanted to seize backpack-sized nuclear devices in Voronezh-45 as a way of \"raising the stakes,\" Kyrylo Budanov told Reuters.",
+            "url": "https://www.businessinsider.com/wagner-almost-reached-russian-base-small-nukes-ukraine-spy-chief-2023-7",
+            "urlToImage": "https://i.insider.com/64ace7146d7e02001af8bfda?width=1200&format=jpeg",
+            "publishedAt": "2023-07-11T05:51:00Z",
+            "content": "Ukraine's intelligence chief said Wagner mercenaries nearly reached a Russian nuclear base as they rebelled against the Kremlin in late June, Reuters reported on Monday.\r\nThe Ukrainian intelligence o\u2026 [+3051 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Amazon\u2019s $75 Fire HD Tablet Has Features That Apple and Samsung Can\u2019t Match - Variety",
+            "description": null,
+            "url": "https://families.google.com/service-restricted",
+            "urlToImage": null,
+            "publishedAt": "2023-07-11T05:20:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WLS-TV"
-            },
-            "author": null,
-            "title": "Northwestern football coach Pat Fitzgerald fired amid hazing investigation as players speak out with own experiences and stories - WLS-TV",
-            "description": "Pat Fitzgerald has been fired as the head football coach of Northwestern University, the university said.",
-            "url": "https://abc7chicago.com/northwestern-football-hazing-pat-fitzgerald-news-fired-university/13484596/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13487092_071023-wls-fitzgeral-fired-topper-7p-vid.jpg?w=1600",
-            "publishedAt": "2023-07-10T23:26:15Z",
-            "content": "EVANSTON, Ill. (WLS) -- Northwestern Wildcats football coach Pat Fitzgerald has been fired.\r\nNorthwestern President Michael Schill released a statement Monday afternoon, saying, \"This afternoon, I in\u2026 [+5483 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Teddy Grant",
-            "title": "Multiple homes in Southern California evacuated after landslide, officials say - ABC News",
-            "description": "The Red Cross is assisting in providing shelter for displaced residents.",
-            "url": "https://abcnews.go.com/US/multiple-homes-southern-california-evacuated-after-landslide-officials/story?id=101020583",
-            "urlToImage": "https://s.abcnews.com/images/US/cali-landslide-rt-jef-230710_1689009040519_hpMain_2_16x9_992.jpg",
-            "publishedAt": "2023-07-10T23:19:14Z",
-            "content": "A dozen homes in a Southern California community were evacuated over the weekend after the ground beneath them shifted, putting them at risk of a collision course into a nearby canyon, according to L\u2026 [+3070 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WPVI-TV"
-            },
-            "author": null,
-            "title": "Philadelphia mass shooting: Dispatch errors made after 1st killing by accused mass shooter Kimbrady Carriker, police say - WPVI-TV",
-            "description": "The dispatch error has people in this heartbroken neighborhood wondering if the mass shooting the following day could've been prevented.",
-            "url": "https://6abc.com/philadelphia-mass-shooting-joseph-wamah-murder-kimbrady-carriker-suspect-philly-911-call/13486255/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13486695_071023-wpvi-philly-mass-shooting-dispatch-errors-6pm-CC-edited.jpg?w=1600",
-            "publishedAt": "2023-07-10T22:21:00Z",
-            "content": "PHILADELPHIA (WPVI) -- A day before killing four people in a mass shooting in Philadelphia last week, authorities say the gunman went to his first victim's door wearing a dark mask, shot through it b\u2026 [+4657 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ZDNet"
-            },
-            "author": "Alison DeNisco Rayome",
-            "title": "Amazon's 43-inch 4K Fire TV Omni Series is only $100 for Prime Day - ZDNet",
-            "description": "Don't miss this great Prime Day deal on a 4K Amazon Fire smart TV, with Alexa integration and access to all the streaming apps you need.",
-            "url": "https://www.zdnet.com/home-and-office/home-entertainment/amazons-43-inch-4k-fire-tv-omni-series-is-only-100-for-prime-day/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/6f1cfc0366697c59f9833bb11d8a387f7d011869/2023/07/10/44df4b5f-8c5a-4d16-b190-094a25b9f857/fire-tv-omni.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2023-07-10T21:25:33Z",
-            "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other \u2026 [+1152 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Research found these mosquito repellents are the most effective ways to get rid of the pests - CBS News",
-            "description": "Scientists tested repellents to find which are the best mosquito repellents for yards, skin and indoors.",
-            "url": "https://www.cbsnews.com/news/best-mosquito-repellent-most-effective-way-to-get-rid-plants-indoor-yard-skin/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/05/c98c4ebf-0973-4cf2-bb3c-4bb14aa547c3/thumbnail/1200x630/8a2979bdb3a3a9b59d52f78ae8629315/snapshot-2023-07-05t123453-639.jpg?v=758b39f312cc5ee6054d0eb9bad6c0cd",
-            "publishedAt": "2023-07-10T21:22:00Z",
-            "content": "Immo A. Hansen\u00a0is an associate professor of biology at\u00a0New Mexico State University\u00a0and\u00a0Hailey A. Luker\u00a0is a doctoral student in biology at\u00a0New Mexico State University.\r\nNow that summer is in full swi\u2026 [+6442 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Tim Bontemps",
-            "title": "GM - Blazers willing to wait 'months' to trade Damian Lillard - ESPN - ESPN",
-            "description": "General manager Joe Cronin said Monday that the Trail Blazers are in no hurry to trade Damian Lillard, telling reporters: \"If it takes months, it takes months.\"",
-            "url": "https://www.espn.com/nba/story/_/id/37991024/gm-blazers-willing-wait-months-trade-damian-lillard",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0319%2Fr1146931_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-07-10T21:14:00Z",
-            "content": "LAS VEGAS -- Portland Trail Blazers general manager Joe Cronin said Monday that a Damian Lillard trade could take \"months\" to complete in order to satisfy the objective of leaving the franchise in th\u2026 [+6575 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Chris Thomas",
-            "title": "Prime Day pricing has already arrived for Echo, Ring, and Fire TV devices - Android Police",
-            "description": "Some ridiculous early Prime Day deals on Amazon's own, streamlined electronics",
-            "url": "https://www.androidpolice.com/amazon-echo-ring-fire-tv-prime-day-pricing/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2019/12/Alexa-Assistant-smart-display-Google-Mini-light-bulb-lightbulb-smart-home-generic-hero-scaled.jpg",
-            "publishedAt": "2023-07-10T20:54:00Z",
-            "content": "Prime Day is especially huge for deals on electronics, so it makes perfect sense for Amazon to get ahead of the game and lure us gadget lovers to its own ever-expanding brands of entertainment and sm\u2026 [+6943 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Aria Alamalhodaei",
-            "title": "Starlink satellites are dodging objects in orbit thousands of times every month - TechCrunch",
-            "description": "Starlink satellites are making thousands of avoidance maneuvers as low Earth orbit becomes more crowded, feeding worries that a catastrophic impact is inevitable. SpaceX\u2019s orbital communication satellites performed maneuvers just over 25,000 times in the six-\u2026",
-            "url": "https://techcrunch.com/2023/07/10/starlink-satellites-are-dodging-objects-in-orbit-thousands-of-times-every-month/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/starlink-trails-iau.jpg?resize=1200,720",
-            "publishedAt": "2023-07-10T20:49:16Z",
-            "content": "Starlink satellites are making thousands of avoidance maneuvers as low Earth orbit becomes more crowded, feeding worries that a catastrophic impact is inevitable.\r\nSpaceX\u2019s orbital communication sate\u2026 [+2873 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Devin Coldewey",
-            "title": "Netflix\u2019s AI-assisted green screen bathes actors in eye-searing magenta - TechCrunch",
-            "description": "Netflix has a new compositing method that relies on ML to do some of the hard work, but it requires lighting actors in a garish magenta.",
-            "url": "https://techcrunch.com/2023/07/10/netflixs-ai-assisted-green-screen-bathes-actors-in-eye-searing-magenta/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/magenta-greenscreen.jpg?resize=1200,751",
-            "publishedAt": "2023-07-10T20:48:45Z",
-            "content": "The process of compositing, or placing actors in front of a background that\u2019s not actually there, is as old as filmmaking itself and it\u2019s always been a pain. Netflix has a new technique that relies o\u2026 [+4477 chars]"
         }
     ]
 }
