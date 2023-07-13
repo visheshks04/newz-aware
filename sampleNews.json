@@ -1,45 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Fox Business"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Brie Stimson",
-            "title": "Aretha Franklin's handwritten will found in couch cushions is valid, jury decides - Fox Business",
-            "description": "A jury made a decision Tuesday in a brief trial over two competing wills that has divided Aretha Franklin's family after her death in 2018.",
-            "url": "https://www.foxbusiness.com/entertainment/aretha-franklins-handwritten-will-found-couch-cushions-is-valid-jury-decides",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/aretha-franklin.jpg?ve=1&tl=1",
-            "publishedAt": "2023-07-12T00:08:26Z",
-            "content": "A handwritten will found under Aretha Franklin\u2019s couch cushions after her death is valid and supersedes an earlier one that was locked in a cabinet, a jury decided Tuesday.\u00a0\r\nHer son\u00a0Ted White II has\u2026 [+3869 chars]"
+            "author": "Aaron Katersky, Alexander Mallin",
+            "title": "DOJ reversal could clear way for Carroll's 1st lawsuit against Trump to proceed - ABC News",
+            "description": "Carroll's attorney is also arguing for the dismissal of a related counterclaim.",
+            "url": "https://abcnews.go.com/US/doj-reversal-clear-carrolls-1st-lawsuit-trump-proceed/story?id=101112535",
+            "urlToImage": "https://s.abcnews.com/images/US/Carroll-ap-er-230629_1688068052200_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-07-12T10:41:10Z",
+            "content": "The Justice Department said on Tuesday it was no longer claiming, under the Westfall Act, that former President Donald Trump was acting within the scope of his office and employment as president of t\u2026 [+5325 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA"
+            },
+            "author": "GMA Team",
+            "title": "Prime Day 2023 laptop deals: Save on MacBooks, Chromebooks, Microsoft Surface - GMA",
+            "description": "",
+            "url": "https://www.goodmorningamerica.com/shop/story/amazon-prime-day-laptop-deals-2023-100906113",
+            "urlToImage": "https://s.abcnews.com/images/GMA/AmazonPrimeDay_Laptops_v01_SR_1689002614597_hpMain_16x9_608.jpg",
+            "publishedAt": "2023-07-12T08:48:45Z",
+            "content": "Amazon Prime Day 2023 is finally here, and if you're in the market for a new laptop, you've come to the right place!\r\nDuring this \"Christmas in July\" shopping holiday, \r\n Prime members can save on ho\u2026 [+606 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Alex Harring",
-            "title": "Stock futures are little changed as Wall Street narrows focus on major inflation report: Live updates - CNBC",
-            "description": "Investors are awaiting the consumer price index reading for June.",
-            "url": "https://www.cnbc.com/2023/07/11/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102352995-455722516.jpg?v=1689112903&w=1920&h=1080",
-            "publishedAt": "2023-07-11T23:38:00Z",
-            "content": "U.S. stock futures were close to flat Tuesday night as investors looked toward the first potentially pivotal inflation report slated for release this week.\r\nFutures tied to the Dow Jones Industrial A\u2026 [+1745 chars]"
+            "author": "Sophie Kiderlin",
+            "title": "Treasury yields decline ahead of key inflation data - CNBC",
+            "description": "U.S. Treasury yields fell on Wednesday as investors awaited the latest inflation data, which could influence the Federal Reserve's interest rate policy.",
+            "url": "https://www.cnbc.com/2023/07/12/us-treasury-yields-investors-await-key-inflation-data.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107257071-1686777278789-gettyimages-1498501399-dscf6896_hexilhea.jpeg?v=1689151271&w=1920&h=1080",
+            "publishedAt": "2023-07-12T08:41:11Z",
+            "content": "U.S. Treasury yields fell on Wednesday as investors awaited inflation data, which could influence the path for Federal Reserve interest rate policy, and remarks from central bank officials.\r\nAt 7:12 \u2026 [+1530 chars]"
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": null,
+                "name": "SciTechDaily"
             },
-            "author": "Adam Rittenberg",
-            "title": "Attorney says Northwestern fired coach Pat Fitzgerald for cause - ESPN - ESPN",
-            "description": "Northwestern fired coach Pat Fitzgerald for cause, his attorney told ESPN's Adam Rittenberg on Tuesday.",
-            "url": "https://www.espn.com/college-football/story/_/id/37996312/attorney-says-northwestern-fired-coach-pat-fitzgerald-cause",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0711%2Fr1196685_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-07-11T23:08:00Z",
-            "content": "EVANSTON, Ill. -- Northwestern fired football coach Pat Fitzgerald for cause, his attorney told ESPN on Tuesday, setting up a potential legal showdown between the College Football Hall of Famer and h\u2026 [+3603 chars]"
+            "author": null,
+            "title": "Webb's Stunning 3D Visualization: A Cosmic Evolution Through 5,000 Galaxies - SciTechDaily",
+            "description": "Data shows Webb\u2019s ability to image and identify thousands of galaxies at once. The Space Telescope Science Institute\u2019s Office of Public Outreach has released a new scientific visualization of data from the CEERS (Cosmic Evolution Early Release Science) Survey\u2026",
+            "url": "https://scitechdaily.com/webbs-stunning-3d-visualization-a-cosmic-evolution-through-5000-galaxies/",
+            "urlToImage": "https://scitechdaily.com/images/Universe-Astronomy-Art-Concept.jpg",
+            "publishedAt": "2023-07-12T08:23:46Z",
+            "content": "BySpace Telescope Science InstituteJuly 12, 2023\r\nNASAs James Webb Space Telescope has released a 3D visualization showcasing approximately 5,000 galaxies, including Maisies Galaxy, one of the earlie\u2026 [+7304 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brad Lendon, Jessie Yeung",
+            "title": "North Korea is ramping up its intercontinental ballistic missile program. Here\u2019s what you need to know - CNN",
+            "description": "North Korea fired an intercontinental ballistic missile on Wednesday, just days after Pyongyang threatened to shoot down US military reconnaissance planes flying over nearby waters.",
+            "url": "https://www.cnn.com/2023/07/12/asia/north-korea-icbm-explainer-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230414100741-03-north-korea-icbm-missile.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-12T07:01:00Z",
+            "content": "North Korea fired an intercontinental ballistic missile on Wednesday, just days after Pyongyang threatened to shoot down US military reconnaissance planes flying over nearby waters.\r\nThe launch follo\u2026 [+5346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Sports Staff",
+            "title": "2023 MLB All-Star Game: National League ends 9-game losing streak behind El\u00edas D\u00edaz home run - Yahoo Sports",
+            "description": "The American League was leading 2-1 heading into the eighth inning Tuesday and had a chance in the ninth.",
+            "url": "https://sports.yahoo.com/2023-mlb-all-star-game-national-league-ends-9-game-losing-streak-behind-elias-diaz-home-run-040624572.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/G57tHrz_9YmPT3etChV.wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/99603640-2061-11ee-9f6b-68ab6a9a8be3",
+            "publishedAt": "2023-07-12T07:00:47Z",
+            "content": "SEATTLE The National League players ended a nine-game losing streak against their American League counterparts on Tuesday in the MLB All-Star Game. After trailing for much of the contest, they went a\u2026 [+7515 chars]"
         },
         {
             "source": {
@@ -47,220 +86,181 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Weather Action Days extended until Monday! - ABC15 Arizona",
-            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-            "url": "https://www.youtube.com/watch?v=IBRgi209SJ0",
-            "urlToImage": null,
-            "publishedAt": "2023-07-11T22:58:42Z",
+            "title": "Oxenfree 2: Lost Signals Review - IGN",
+            "description": "Oxenfree 2: Lost Signals reviewed on PC by Carli Velocci. Also available on PlayStation, Nintendo Switch, and Android/iOS via Netflix. Narrated by Ryan McCaf...",
+            "url": "https://www.youtube.com/watch?v=JHqCRHfgxD8",
+            "urlToImage": "https://i.ytimg.com/vi/JHqCRHfgxD8/maxresdefault.jpg",
+            "publishedAt": "2023-07-12T07:00:15Z",
             "content": null
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": ", USA TODAY",
-            "title": "MLB All-Star Game live updates: Live updates, highlights and more from Seattle - USA TODAY",
-            "description": "Major League Baseball's 93rd All-Star Game is Tuesday night in Seattle. The starters and lineups are set. Here's everything you need to know.",
-            "url": "https://www.usatoday.com/story/sports/mlb/2023/07/11/mlb-all-star-game-2023-live-updates/70401994007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/07/12/USAT/b1f9b0ba-29df-408c-8f04-8f5d834e5518-GTY_1534998004.jpg?auto=webp&crop=3402,1914,x0,y254&format=pjpg&width=1200",
-            "publishedAt": "2023-07-11T22:18:45Z",
-            "content": "Major League Baseball's 93rd All-Star Game is Tuesday at T-Mobile Park in Seattle. It's the first time the ballpark has hosted the Midsummer Classic since 2001. This year, rosters are full of veteran\u2026 [+12573 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Paul MacInnes",
-            "title": "Wimbledon diary: Svitolina's Styles dilemma and Blake bigs up Eubanks - The Guardian",
-            "description": "Elina Svitolina may want to wait to see Harry Styles while the numbers are up through the gates of SW19",
-            "url": "https://www.theguardian.com/sport/2023/jul/11/wimbledon-diary-svitolina-harry-styles-christopher-eubanks",
-            "urlToImage": "https://i.guim.co.uk/img/media/a7f8986d9e95881a163d5a5bcb0684a0c30889a1/0_173_4981_2989/master/4981.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad0e77746ab5ecc4afedacf15ec9bcb4",
-            "publishedAt": "2023-07-11T22:17:00Z",
-            "content": "Success without Styles\r\nThe Harry Styles concert karma theory. Elina Svitolina had tickets for a Harry Styles concert in Vienna last Saturday, but couldnt go because she was shredding stereotypes at \u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tampa Bay Times"
-            },
-            "author": "Alex Harris, Lawrence Mower",
-            "title": "Farmers Insurance is leaving Florida in latest blow to homeowners - Tampa Bay Times",
-            "description": "The decision was \u201cnecessary to effectively manage risk exposure,\u201d the company said.",
-            "url": "https://www.tampabay.com/news/business/2023/07/11/farmers-insurance-florida-leaving-hurricanes-insolvent/",
-            "urlToImage": "https://www.tampabay.com/resizer/4TMLQ7ErPyjItTZDBaHDprIyrbQ=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/5J2STGJOZVBE2ZAZLP3H5Y6L34.jpg",
-            "publishedAt": "2023-07-11T22:15:53Z",
-            "content": "Another insurer is leaving Florida, where homeowners are paying more than ever for insurance, despite the states attempt to shore up the wobbling market.\r\nOn Tuesday, Farmers Insurance informed the s\u2026 [+5766 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brandon Widder",
-            "title": "Amazon Prime Day 2023: the best tech deals, tips, and latest news - The Verge",
-            "description": "Amazon Prime Day is the online retail giant\u2019s biggest shopping event of the year, outside of Black Friday / Cyber Monday. It promises big deals and discounts on tech and gadgets like tablets, phones, TVs, games, and more.",
-            "url": "https://www.theverge.com/23791100/amazon-prime-day-news-deals-sales-dates-tips-2023",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qRD0Zue8FXjHpg4WZSF2WkhJR3M=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24755520/236713_Prime_Day_HHerrera_004.jpeg",
-            "publishedAt": "2023-07-11T22:04:14Z",
-            "content": "In the past, Amazon Prime Day has been a bit of a moving target. Sometimes it occurred in the summer, sometimes in the fall, and sometimes it unofficially happened twice a year (moonlighting as Amazo\u2026 [+13610 chars]"
+            "author": "Mary Kekatos, Kendall Ross",
+            "title": "Iowa House, Senate pass 6-week abortion ban, sending bill to governor's desk - ABC News",
+            "description": "Less than a month ago, a ban was struck down by the state's Supreme Court.",
+            "url": "https://abcnews.go.com/US/iowa-lawmakers-hold-special-session-pass-6-week/story?id=101082504",
+            "urlToImage": "https://s.abcnews.com/images/US/reynolds-iowa-ap-ps-230711_1689079565152_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-07-12T06:56:15Z",
+            "content": "The Iowa Legislature on Tuesday night passed legislation that would restrict abortion, now sending the bill to Gov. Kim Reynolds after 14 hours of committee meetings and testimony from the public.\r\nL\u2026 [+3358 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Nouran Salahieh, Lauren Mascarenhas",
-            "title": "Catastrophic flooding swamped Vermont\u2019s capital as intense storms forced evacuations and closures in Northeast - CNN",
-            "description": "Intense rainstorms that inundated the Northeast turned streets into rivers, forced evacuations and prompted officials in Vermont\u2019s capital, Montpelier, to close the downtown area.",
-            "url": "https://www.cnn.com/2023/07/11/us/northeast-storms-flooding-excessive-rainfall-tuesday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230711092956-montpelier-vermont-downtown-flooding-screengrab.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-11T21:39:00Z",
-            "content": "Intense rainstorms that inundated the Northeast turned streets into rivers, forced evacuations and prompted officials in Vermonts capital, Montpelier, to close the downtown area.\r\nMake no mistake, th\u2026 [+7749 chars]"
+            "author": "Betsy Klein",
+            "title": "Ukraine\u2019s wait for NATO membership \u2013 and Zelensky\u2019s frustration \u2013 loom over final day of summit, meeting with Biden - CNN",
+            "description": "President Joe Biden enters day two of the NATO Summit in Vilnius, Lithuania, facing questions about Ukraine\u2019s path to becoming a member of the alliance, with concerns from his Ukrainian counterpart on full display and fissures among NATO leaders on the thorny\u2026",
+            "url": "https://www.cnn.com/2023/07/12/politics/joe-biden-nato-summit-day-2/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230521003430-01-biden-zelensky-g7-052123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-12T06:55:00Z",
+            "content": "President Joe Biden enters day two of the NATO Summit in Vilnius, Lithuania, facing questions about Ukraines path to becoming a member of the alliance, with concerns from his Ukrainian counterpart on\u2026 [+7842 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Cheri Mossburg, Emma Tucker",
+            "title": "Leslie Van Houten: Former Manson family member released from California prison, official says - CNN",
+            "description": "Leslie Van Houten, a former Charles Manson follower and convicted murderer, was released from a California prison on Tuesday, a prison spokesperson told CNN.",
+            "url": "https://www.cnn.com/2023/07/11/us/leslie-van-houten-manson-family-released/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230707182130-leslie-van-houten-2017.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-12T05:57:00Z",
+            "content": "Leslie Van Houten, a former Charles Manson follower and convicted murderer, was released from a California prison on Tuesday, a prison spokesperson told CNN. \r\nVan Houten was released to parole super\u2026 [+4709 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "MLB.com"
             },
-            "author": "Peter White",
-            "title": "Ari Emanuel & Bryan Lourd Offer To Step In To Prevent Actors Strike As Studio CEOs Agree To Bring In Federal Mediators - Deadline",
-            "description": "Last minute calls are being made by Hollywood chiefs to try and prevent an actors strike. Deadline understands that Endeavor boss Ari Emanuel and CAA chief Bryan Lourd made an offer to help find a \u2026",
-            "url": "https://deadline.com/2023/07/ari-emanuel-bryan-lourd-offer-to-step-in-to-prevent-actors-strike-1235434614/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/07/Ari-Emanuel-Bryan-Lourd.jpg?w=1024",
-            "publishedAt": "2023-07-11T21:37:00Z",
-            "content": "Last minute calls are being made by Hollywood chiefs to try and prevent an actors strike.\r\nDeadline understands that Endeavor boss Ari Emanuel and CAA chief Bryan Lourd made an offer to help find a p\u2026 [+2050 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Georgia grand jury picked for possible charges in Trump election case - BBC",
-            "description": "The Georgia panel is expected to weigh whether Donald Trump and his allies interfered in the 2020 election.",
-            "url": "https://www.bbc.com/news/world-us-canada-66168402",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3219/production/_130352821_trump-2020.jpg",
-            "publishedAt": "2023-07-11T21:33:25Z",
-            "content": "A US grand jury that is expected to decide whether to charge former President Donald Trump and his allies over their efforts to overturn the 2020 election has been sworn in in Georgia.\r\nMr Trump has \u2026 [+3396 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Detroit Free Press"
-            },
-            "author": "Susan Tompor",
-            "title": "Bank of America must pay customers $100 million after crackdown - Detroit Free Press",
-            "description": "The Consumer Financial Protection Bureau cracked down on excessive fees and other bad banking practices that it said undermined customer trust.",
-            "url": "https://www.freep.com/story/money/personal-finance/susan-tompor/2023/07/11/bank-of-america-agreed-to-pay-fines-reimburse-customers/70402879007/",
-            "urlToImage": "https://www.freep.com/gcdn/presto/2023/07/11/PDTF/62ab530c-9121-4b83-914c-712f9c18b191-GTY_AFP_33NL6YG.jpg?crop=7410,4168,x1,y97&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-11T21:16:24Z",
-            "content": "Getting the right amount of rewards for signing up for a credit card shouldn't be hard. And frankly, most consumers don't expect that they could be charged twice for the same slip-up. Or expect that \u2026 [+6770 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Rebecca Rubin",
-            "title": "Box Office: \u2018Mission: Impossible \u2013 Dead Reckoning\u2019 Aims for $90 Million Five-Day Debut - Variety",
-            "description": "Tom Cruise\u2019s mission, should he choose to accept it, is to save the summer box office\u2026 again. After a lackluster start to popcorn season (\u201cThe Flash,\u201d \u201cIndiana Jones&#\u2026",
-            "url": "https://variety.com/2023/film/box-office/box-office-mission-impossible-7-opening-weekend-projection-1235666529/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/07/Mission-Impossible-Dead-Reckoning-Part-One-1.webp?w=681&h=383&crop=1",
-            "publishedAt": "2023-07-11T20:20:00Z",
-            "content": "Tom Cruise\u2019s mission, should he choose to accept it, is to save the summer box office\u2026 again.\r\nAfter a lackluster start to popcorn season (\u201cThe Flash,\u201d \u201cIndiana Jones\u201d and \u201cElemental,\u201d we\u2019re looking \u2026 [+3132 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "fox8.com"
-            },
-            "author": "Ed Gallek, Peggy Gallek, Jordan Unger, Darcie Loreno",
-            "title": "Cleveland mass shooting suspect taken into custody - WJW FOX 8 News Cleveland",
-            "description": "Investigators have taken a possible suspect into custody for questioning in the Sunday mass shooting in Cleveland, the I-Team has learned.",
-            "url": "https://fox8.com/news/i-team-possible-suspect-in-cle-mass-shooting-taken-into-custody/",
-            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2023/07/barley-house-1.jpg?w=1280",
-            "publishedAt": "2023-07-11T20:16:03Z",
-            "content": "CLEVELAND (WJW) \u2014 Investigators have taken a suspect into custody for questioning in the Sunday mass shooting in Cleveland, the I-Team learned. \r\nDuring a Tuesday evening press conference, city offic\u2026 [+1676 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Julia Musto",
-            "title": "SpaceX Starlink satellites are leaking electromagnetic radiation, researchers say - Fox Business",
-            "description": "Several SpaceX Starlink satellites are leaking low-freaking radio waves, according to scientists from several international institutes. They used the LOFAR telescope.",
-            "url": "https://www.foxbusiness.com/technology/spacex-starlink-satellites-leaking-electromagnetic-radiation-researchers",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/SPACEX-LAUNCH.jpg?ve=1&tl=1",
-            "publishedAt": "2023-07-11T20:10:50Z",
-            "content": "Some SpaceX Starlink satellites are reportedly leaking low-frequency radio waves, which scientists say could impact astronomical research.\u00a0\r\nScientists used the Low Frequency Array (LOFAR) telescope \u2026 [+3685 chars]"
+            "author": "Daniel Kramer",
+            "title": "Shohei Ohtani courted by Mariners fans at All-Star Game - MLB.com",
+            "description": "SEATTLE -- The Mariners can\u2019t formally make a pitch to Shohei Ohtani to join their organization until baseball\u2019s best player becomes a free agent after the season. But there are no rules precluding their fans from making a bold invitation to the Angels' two-w\u2026",
+            "url": "https://www.mlb.com/news/shohei-ohtani-courted-by-mariners-fans-at-all-star-game",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/zfzwaqgiczpkqnn2nmwy.jpg",
+            "publishedAt": "2023-07-12T05:15:30Z",
+            "content": "SEATTLE -- The Mariners cant formally make a pitch to Shohei Ohtani to join their organization until baseballs best player becomes a free agent after the season. But there are no rules precluding the\u2026 [+5404 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Michelle Nichols",
-            "title": "Russian veto signals end of Turkey-based UN aid operation in Syria - Reuters",
-            "description": "Russia on Tuesday signaled the demise of a long-running United Nations humanitarian operation in Turkey delivering aid to 4 million people in rebel-held northwest Syria after it vetoed a nine-month authorization renewal at the U.N. Security Council.",
-            "url": "https://www.reuters.com/world/russia-vetoes-9-month-renewal-un-aid-syria-turkey-2023-07-11/",
-            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=148",
-            "publishedAt": "2023-07-11T19:45:00Z",
-            "content": "UNITED NATIONS, July 11 (Reuters) - Russia on Tuesday signaled the demise of a long-running United Nations humanitarian operation in Turkey delivering aid to 4 million people in rebel-held northwest \u2026 [+4221 chars]"
+            "author": "Reuters",
+            "title": "China lashes back at NATO criticism, warns it will protect its rights - Reuters",
+            "description": "Beijing lashed back at NATO's accusation that China challenges the bloc's interests and security, and opposed any attempt by the military alliance to expand its footprint into the Asia-Pacific region.",
+            "url": "https://www.reuters.com/world/china-opposes-natos-move-into-asia-pacific-region-warns-resolute-response-2023-07-12/",
+            "urlToImage": "https://www.reuters.com/resizer/AAV28V4skAIVFxYqdxijMy7oudk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4JKB7272V5IXRJRFPV6MHIFNLE.jpg",
+            "publishedAt": "2023-07-12T04:25:36Z",
+            "content": "BEIJING, July 12 (Reuters) - Beijing lashed back at NATO's accusation that China challenges the bloc's interests and security, and opposed any attempt by the military alliance to expand its footprint\u2026 [+3456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX13 Memphis"
+            },
+            "author": "",
+            "title": "Dr. Benjamin Mauck, killed in Collierville clinic shooting, remembered for passion in his profession - FOX13 Memphis",
+            "description": "REMEMBERING DR. MAUCK: In an interview with Memphis Magazine, Benjamin Mauck, who specialized in hand, wrist and elbow surgeries, said that \"the hand is how we interact with the outside world -- and when your hand is involved -- it affects almost every single\u2026",
+            "url": "https://www.fox13memphis.com/news/dr-benjamin-mauck-killed-in-collierville-clinic-shooting-remembered-for-passion-in-his-profession/article_c3c101b8-205b-11ee-8acf-1f065227c074.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fox13memphis.com/content/tncms/assets/v3/editorial/d/a0/da0d5f26-ac7e-5e6e-8fa8-9ff4a3f93f61/64ae2787a8f1e.image.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-07-12T04:07:30Z",
+            "content": "COLLIERVILLE, Tenn. - Dr. Benjamin Mauck, according to an article in Memphis Magazine, knew he wanted to be an Orthopedic Specialist since he was a teenager.\r\nHe told the magazine he grew up in Savan\u2026 [+1160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Trump dealt disaster blow in 'smoking gun' criminal case - MSNBC",
+            "description": "Donald Trump braces as a new grand jury in Atlanta was just sworn in.  This grand jury will likely consider whether to criminally charge Donald Trump or his ...",
+            "url": "https://www.youtube.com/watch?v=diBO2uKszDU",
+            "urlToImage": "https://i.ytimg.com/vi/diBO2uKszDU/maxresdefault.jpg",
+            "publishedAt": "2023-07-12T02:55:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "James Pearson",
+            "title": "Exclusive: Russian hackers lured embassy workers in Ukraine with an ad for a cheap BMW - Reuters",
+            "description": "Hackers suspected of working for Russia's foreign intelligence agency targeted dozens of diplomats at embassies in Ukraine with a fake used car advert in a bid to break into their computers, according to a cybersecurity firm report seen by Reuters.",
+            "url": "https://www.reuters.com/world/europe/russian-hackers-lured-embassy-workers-ukraine-with-an-ad-cheap-bmw-2023-07-12/",
+            "urlToImage": "https://www.reuters.com/resizer/I301ItNxskLBjQU11X6SsG9oMLk=/984x515/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DKM4BIGGIJMGNOJXB2G7YSBG5Y.jpg",
+            "publishedAt": "2023-07-12T02:33:38Z",
+            "content": "LONDON, July 12 (Reuters) - Hackers suspected of working for Russia's foreign intelligence agency targeted dozens of diplomats at embassies in Ukraine with a fake used car advert in a bid to break in\u2026 [+3724 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Hadas Gold, Amir Tal, Richard Allen Greene, Rob Picheta",
-            "title": "Israeli protesters stage \u2018day of disruption\u2019 against controversial judicial overhaul - CNN",
-            "description": "Tens of thousands of demonstrators took to the streets in Israel on Tuesday in the biggest weekday protest in months against the government\u2019s renewed moves to overhaul the country\u2019s judicial system.",
-            "url": "https://www.cnn.com/2023/07/11/middleeast/israel-judicial-reforms-protests-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230711085907-04-israel-protests-071123.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-11T18:32:00Z",
-            "content": "Tens of thousands of demonstrators took to the streets in Israel on Tuesday in the biggest weekday protest in months against the governments renewed moves to overhaul the countrys judicial system.\r\nT\u2026 [+5820 chars]"
+            "author": "Raja Razek",
+            "title": "Free-solo climber dies after falling hundreds of feet from ridge in Colorado\u2019s Rocky Mountain National Park - CNN",
+            "description": "A 26-year-old woman from Boulder, Colorado, died after falling approximately 500 feet while free-solo climbing a ridge in the state\u2019s Rocky Mountain National Park on Sunday, the park said.",
+            "url": "https://www.cnn.com/2023/07/11/us/colorado-free-solo-climber-death-rocky-mountain-park/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230711183555-ypsilon-mountain-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-12T02:20:00Z",
+            "content": "A 26-year-old woman from Boulder, Colorado, died after falling approximately 500 feet while free-solo climbing a ridge in the states Rocky Mountain National Park on Sunday, the park said. \r\nThe unide\u2026 [+1135 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "DW (English)"
             },
-            "author": "Megan Henney",
-            "title": "June inflation report likely to show the 'war hasn't yet been won' - Fox Business",
-            "description": "The Labor Department is releasing the key June consumer price index data this week, shedding light on how quickly inflation is receding from the economy.",
-            "url": "https://www.foxbusiness.com/economy/june-inflation-report-likely-show-war-hasnt-yet-been-won",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/inflation-31.jpg?ve=1&tl=1",
-            "publishedAt": "2023-07-11T18:15:55Z",
-            "content": "A high-stakes inflation report due Wednesday is expected to show that price pressures within the economy cooled again in June but still remained abnormally high.\u00a0\r\nEconomists expect the consumer pric\u2026 [+3434 chars]"
+            "author": "Deutsche Welle",
+            "title": "Canadian lake shows start of Anthropocene era: scientists - DW (English)",
+            "description": "A group of scientists has presented Canada's Crawford Lake as the best example of humanity's destabilizing impact on the environment. There's still disagreement over when the Anthropocene era began, and if it has.",
+            "url": "https://www.dw.com/en/canadian-lake-shows-start-of-anthropocene-era-scientists/a-66195820",
+            "urlToImage": "https://static.dw.com/image/66195662_6.jpg",
+            "publishedAt": "2023-07-12T02:06:15Z",
+            "content": "Scientists on Tuesday said that sediment at Crawford Lake in Canada provides evidence of the beginning of the Anthropocene age.\r\nThe Anthropocene Working Group (AWG) said that layered sediment at the\u2026 [+2450 chars]"
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": null,
+                "name": "Chicago Tribune"
             },
-            "author": "Axios",
-            "title": "NASA's complicated future on Mars - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/07/11/nasa-mars-sample-return",
-            "urlToImage": null,
-            "publishedAt": "2023-07-11T16:47:00Z",
+            "author": "Robert Channick",
+            "title": "Northwestern hazing fallout brings calls to halt $800M Ryan Field rebuild - Chicago Tribune",
+            "description": "While some Evanston neighbors have voiced concerns about noise and congestion at the new stadium, opposition may be coalescing around the larger issue of whether Northwestern needs a new home for its football program, or just a thorough housecleaning.",
+            "url": "https://www.chicagotribune.com/business/ct-biz-northwestern-football-hazing-ryan-field-rebuild-fallout-20230712-rcqdej235rdzrfawtiupxcdhli-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/YNK2vg-hwTNdX0wdl6vTUga5xoE=/1200x630/filters:format(jpg):quality(70):focal(1298x1699:1308x1709)/cloudfront-us-east-1.images.arcpublishing.com/tronc/PSIKG7WULFBD5F6KFPNECNA6IE.JPG",
+            "publishedAt": "2023-07-12T01:50:27Z",
+            "content": "The Northwestern football hazing scandal and the fumbled firing of head coach Pat Fitzgerald have brought new calls to reassess the athletic culture at the Big Ten school, and at least temporarily ha\u2026 [+8975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Dozens of evacuated homes continue sinking after massive landslide in Rolling Hills Estates - KTLA 5",
+            "description": "As homes continue to collapse into a canyon in a Rolling Hills Estates neighborhood, city officials are expected to declare a state of emergency Tuesday nigh...",
+            "url": "https://www.youtube.com/watch?v=px7QSfvJDkM",
+            "urlToImage": "https://i.ytimg.com/vi/px7QSfvJDkM/maxresdefault.jpg",
+            "publishedAt": "2023-07-12T01:28:17Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "YouTube"
             },
-            "author": "Robert Lea",
-            "title": "Metal clouds turn scorching hot exoplanet into the universe's largest mirror - Space.com",
-            "description": "\"It's a planet that shouldn't exist.\"",
-            "url": "https://www.space.com/exoplanet-largest-mirror-metal-clouds",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FLuyJzHKhmUn8uDUgqZ5Nj-1200-80.png",
-            "publishedAt": "2023-07-11T16:24:26Z",
-            "content": "Astronomers have discovered the most reflective planet outside the solar system ever seen. The ultra-hot extrasolar planet, or exoplanet, acts like a cosmic mirror because it is covered by reflective\u2026 [+5493 chars]"
+            "author": null,
+            "title": "Assessing impact of today's PGA Tour-Saudi PIF Senate hearing | Golf Central | Golf Channel - Golf Channel",
+            "description": "Rich Lerner joins Whit Watson to recap today's PGA Tour-Saudi PIF Senate hearing, providing their biggest takeaways from the conversations had today and less...",
+            "url": "https://www.youtube.com/watch?v=VH4I3blkrss",
+            "urlToImage": "https://i.ytimg.com/vi/VH4I3blkrss/maxresdefault.jpg",
+            "publishedAt": "2023-07-12T00:40:40Z",
+            "content": null
         }
     ]
 }
