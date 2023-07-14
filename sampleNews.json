@@ -1,58 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Aaron Katersky, Alexander Mallin",
-            "title": "DOJ reversal could clear way for Carroll's 1st lawsuit against Trump to proceed - ABC News",
-            "description": "Carroll's attorney is also arguing for the dismissal of a related counterclaim.",
-            "url": "https://abcnews.go.com/US/doj-reversal-clear-carrolls-1st-lawsuit-trump-proceed/story?id=101112535",
-            "urlToImage": "https://s.abcnews.com/images/US/Carroll-ap-er-230629_1688068052200_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-07-12T10:41:10Z",
-            "content": "The Justice Department said on Tuesday it was no longer claiming, under the Westfall Act, that former President Donald Trump was acting within the scope of his office and employment as president of t\u2026 [+5325 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GMA"
-            },
-            "author": "GMA Team",
-            "title": "Prime Day 2023 laptop deals: Save on MacBooks, Chromebooks, Microsoft Surface - GMA",
-            "description": "",
-            "url": "https://www.goodmorningamerica.com/shop/story/amazon-prime-day-laptop-deals-2023-100906113",
-            "urlToImage": "https://s.abcnews.com/images/GMA/AmazonPrimeDay_Laptops_v01_SR_1689002614597_hpMain_16x9_608.jpg",
-            "publishedAt": "2023-07-12T08:48:45Z",
-            "content": "Amazon Prime Day 2023 is finally here, and if you're in the market for a new laptop, you've come to the right place!\r\nDuring this \"Christmas in July\" shopping holiday, \r\n Prime members can save on ho\u2026 [+606 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sophie Kiderlin",
-            "title": "Treasury yields decline ahead of key inflation data - CNBC",
-            "description": "U.S. Treasury yields fell on Wednesday as investors awaited the latest inflation data, which could influence the Federal Reserve's interest rate policy.",
-            "url": "https://www.cnbc.com/2023/07/12/us-treasury-yields-investors-await-key-inflation-data.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107257071-1686777278789-gettyimages-1498501399-dscf6896_hexilhea.jpeg?v=1689151271&w=1920&h=1080",
-            "publishedAt": "2023-07-12T08:41:11Z",
-            "content": "U.S. Treasury yields fell on Wednesday as investors awaited inflation data, which could influence the path for Federal Reserve interest rate policy, and remarks from central bank officials.\r\nAt 7:12 \u2026 [+1530 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Webb's Stunning 3D Visualization: A Cosmic Evolution Through 5,000 Galaxies - SciTechDaily",
-            "description": "Data shows Webb\u2019s ability to image and identify thousands of galaxies at once. The Space Telescope Science Institute\u2019s Office of Public Outreach has released a new scientific visualization of data from the CEERS (Cosmic Evolution Early Release Science) Survey\u2026",
-            "url": "https://scitechdaily.com/webbs-stunning-3d-visualization-a-cosmic-evolution-through-5000-galaxies/",
-            "urlToImage": "https://scitechdaily.com/images/Universe-Astronomy-Art-Concept.jpg",
-            "publishedAt": "2023-07-12T08:23:46Z",
-            "content": "BySpace Telescope Science InstituteJuly 12, 2023\r\nNASAs James Webb Space Telescope has released a 3D visualization showcasing approximately 5,000 galaxies, including Maisies Galaxy, one of the earlie\u2026 [+7304 chars]"
+            "author": "Brian Fung",
+            "title": "FTC to appeal Microsoft/Activision Blizzard merger - CNN",
+            "description": "The Federal Trade Commission said Wednesday it would appeal a decision from earlier this week by a district court judge allowing Microsoft to close its $69 billion Activision Blizzard merger.",
+            "url": "https://www.cnn.com/2023/07/12/business/microsoft-merger-activision-blizzard-ftc/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230712162519-activision-blizzard-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-13T02:14:00Z",
+            "content": "The Federal Trade Commission said Wednesday it would appeal a decision from earlier this week by a district court judge allowing Microsoft to close its $69 billion Activision Blizzard merger.\r\nThe le\u2026 [+1190 chars]"
         },
         {
             "source": {
@@ -64,21 +25,8 @@
             "description": "North Korea fired an intercontinental ballistic missile on Wednesday, just days after Pyongyang threatened to shoot down US military reconnaissance planes flying over nearby waters.",
             "url": "https://www.cnn.com/2023/07/12/asia/north-korea-icbm-explainer-intl-hnk/index.html",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230414100741-03-north-korea-icbm-missile.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-12T07:01:00Z",
-            "content": "North Korea fired an intercontinental ballistic missile on Wednesday, just days after Pyongyang threatened to shoot down US military reconnaissance planes flying over nearby waters.\r\nThe launch follo\u2026 [+5346 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Sports Staff",
-            "title": "2023 MLB All-Star Game: National League ends 9-game losing streak behind El\u00edas D\u00edaz home run - Yahoo Sports",
-            "description": "The American League was leading 2-1 heading into the eighth inning Tuesday and had a chance in the ninth.",
-            "url": "https://sports.yahoo.com/2023-mlb-all-star-game-national-league-ends-9-game-losing-streak-behind-elias-diaz-home-run-040624572.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/G57tHrz_9YmPT3etChV.wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/99603640-2061-11ee-9f6b-68ab6a9a8be3",
-            "publishedAt": "2023-07-12T07:00:47Z",
-            "content": "SEATTLE The National League players ended a nine-game losing streak against their American League counterparts on Tuesday in the MLB All-Star Game. After trailing for much of the contest, they went a\u2026 [+7515 chars]"
+            "publishedAt": "2023-07-13T01:56:00Z",
+            "content": "North Korea fired an intercontinental ballistic missile on Wednesday, just days after Pyongyang threatened to shoot down US military reconnaissance planes flying over nearby waters.\r\nThe launch follo\u2026 [+6018 chars]"
         },
         {
             "source": {
@@ -86,181 +34,233 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Oxenfree 2: Lost Signals Review - IGN",
-            "description": "Oxenfree 2: Lost Signals reviewed on PC by Carli Velocci. Also available on PlayStation, Nintendo Switch, and Android/iOS via Netflix. Narrated by Ryan McCaf...",
-            "url": "https://www.youtube.com/watch?v=JHqCRHfgxD8",
-            "urlToImage": "https://i.ytimg.com/vi/JHqCRHfgxD8/maxresdefault.jpg",
-            "publishedAt": "2023-07-12T07:00:15Z",
+            "title": "Sacramento braces for another major heat wave - CBS Sacramento",
+            "description": "As our region braces for triple-digit heat, not everyone is planning to hunker down somewhere cool. Major events scheduled for this week have not been cancel...",
+            "url": "https://www.youtube.com/watch?v=SaQCWXuj3yE",
+            "urlToImage": "https://i.ytimg.com/vi/SaQCWXuj3yE/maxresdefault.jpg",
+            "publishedAt": "2023-07-13T01:32:55Z",
             "content": null
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Mary Kekatos, Kendall Ross",
-            "title": "Iowa House, Senate pass 6-week abortion ban, sending bill to governor's desk - ABC News",
-            "description": "Less than a month ago, a ban was struck down by the state's Supreme Court.",
-            "url": "https://abcnews.go.com/US/iowa-lawmakers-hold-special-session-pass-6-week/story?id=101082504",
-            "urlToImage": "https://s.abcnews.com/images/US/reynolds-iowa-ap-ps-230711_1689079565152_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-07-12T06:56:15Z",
-            "content": "The Iowa Legislature on Tuesday night passed legislation that would restrict abortion, now sending the bill to Gov. Kim Reynolds after 14 hours of committee meetings and testimony from the public.\r\nL\u2026 [+3358 chars]"
+            "author": "Dianne Gallagher, Wesley Bruer, Dakin Andone",
+            "title": "Judge rules to allow Parkland school shooting reenactment in civil lawsuit against former school resource officer - CNN",
+            "description": "A Florida judge on Wednesday ruled to allow reenactments of the 2018 mass shooting inside Marjory Stoneman Douglas High School\u2019s 1200 building as part of a civil lawsuit against the former school resource officer who remained outside as the massacre unfolded.",
+            "url": "https://www.cnn.com/2023/07/12/us/parkland-shooting-reenactment-civil-case/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230712110610-01-parkland-school-shooting-building-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-13T00:52:00Z",
+            "content": "A Florida judge on Wednesday ruled to allow reenactments of the 2018 mass shooting inside Marjory Stoneman Douglas High Schools 1200 building as part of a civil lawsuit against the former school reso\u2026 [+4753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Russia slams G7 security pledge to Ukraine - CBS News",
+            "description": "President Biden met with Ukrainian President Volodymyr Zelenskyy in Lithuania Wednesday, where he reaffirmed NATO's support for the war-torn country. The G7 ...",
+            "url": "https://www.youtube.com/watch?v=pOK42sbzTag",
+            "urlToImage": "https://i.ytimg.com/vi/pOK42sbzTag/maxresdefault.jpg",
+            "publishedAt": "2023-07-13T00:45:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Francesca Ebel",
+            "title": "Russia says Wagner has returned tanks, missile systems, weapons, ammo - The Washington Post",
+            "description": "Russia's Defense Ministry said it has received more than 2,000 pieces of equipment, 20,000 small arms and 2,750 tons of ammunition from the mercenary group.",
+            "url": "https://www.washingtonpost.com/world/2023/07/12/russia-wagner-equipment-weapons/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GETYOZ2PRKBZH66AZEGIRGV5FU.JPG&w=1440",
+            "publishedAt": "2023-07-13T00:19:00Z",
+            "content": "Comment on this story\r\nComment\r\nRussias Defense Ministry said Wednesday that the Wagner Group has handed over thousands of tons of weapons, ammunition and military equipment to the Russian army, in t\u2026 [+4965 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Sarah Kaplan",
+            "title": "Flooding, extreme heat waves, and hot oceans will continue \u2014 and get worse - The Washington Post",
+            "description": "Massive floods. Record heat. Extreme ocean temperatures. Forest fires burning out of control. Climate alarm bells are ringing all over the planet.",
+            "url": "https://www.washingtonpost.com/climate-environment/2023/07/12/climate-change-flooding-heat-wave-continue/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FV5UAUBDCRCEQPMBZTBGAIJD2E.JPG&w=1440",
+            "publishedAt": "2023-07-13T00:11:08Z",
+            "content": "Comment on this story\r\nComment\r\nThe world is hotter than its been in thousands of years, and its as if every alarm bell on Earth were ringing.\r\nThe warnings are echoing through the drenched mountains\u2026 [+9451 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Betsy Klein",
-            "title": "Ukraine\u2019s wait for NATO membership \u2013 and Zelensky\u2019s frustration \u2013 loom over final day of summit, meeting with Biden - CNN",
-            "description": "President Joe Biden enters day two of the NATO Summit in Vilnius, Lithuania, facing questions about Ukraine\u2019s path to becoming a member of the alliance, with concerns from his Ukrainian counterpart on full display and fissures among NATO leaders on the thorny\u2026",
-            "url": "https://www.cnn.com/2023/07/12/politics/joe-biden-nato-summit-day-2/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230521003430-01-biden-zelensky-g7-052123.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-12T06:55:00Z",
-            "content": "President Joe Biden enters day two of the NATO Summit in Vilnius, Lithuania, facing questions about Ukraines path to becoming a member of the alliance, with concerns from his Ukrainian counterpart on\u2026 [+7842 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Cheri Mossburg, Emma Tucker",
-            "title": "Leslie Van Houten: Former Manson family member released from California prison, official says - CNN",
-            "description": "Leslie Van Houten, a former Charles Manson follower and convicted murderer, was released from a California prison on Tuesday, a prison spokesperson told CNN.",
-            "url": "https://www.cnn.com/2023/07/11/us/leslie-van-houten-manson-family-released/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230707182130-leslie-van-houten-2017.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-12T05:57:00Z",
-            "content": "Leslie Van Houten, a former Charles Manson follower and convicted murderer, was released from a California prison on Tuesday, a prison spokesperson told CNN. \r\nVan Houten was released to parole super\u2026 [+4709 chars]"
+            "author": "Veronica Miracle, Jason Kravarik",
+            "title": "University of Idaho delays demolition of home where 4 students were killed - CNN",
+            "description": "The planned demolition of the house where four University of Idaho students were stabbed to death last year will be delayed until October, officials at the university said Wednesday.",
+            "url": "https://www.cnn.com/2023/07/12/us/university-of-idaho-murder-home-demolition-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230707164607-idaho-students-murders-house-file-0523-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-13T00:04:00Z",
+            "content": "The planned demolition of the house where four University of Idaho students were stabbed to death last year will be delayed until October, officials at the university said Wednesday.\r\nThe university \u2026 [+2177 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MLB.com"
+                "name": "Push Square"
             },
-            "author": "Daniel Kramer",
-            "title": "Shohei Ohtani courted by Mariners fans at All-Star Game - MLB.com",
-            "description": "SEATTLE -- The Mariners can\u2019t formally make a pitch to Shohei Ohtani to join their organization until baseball\u2019s best player becomes a free agent after the season. But there are no rules precluding their fans from making a bold invitation to the Angels' two-w\u2026",
-            "url": "https://www.mlb.com/news/shohei-ohtani-courted-by-mariners-fans-at-all-star-game",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/zfzwaqgiczpkqnn2nmwy.jpg",
-            "publishedAt": "2023-07-12T05:15:30Z",
-            "content": "SEATTLE -- The Mariners cant formally make a pitch to Shohei Ohtani to join their organization until baseballs best player becomes a free agent after the season. But there are no rules precluding the\u2026 [+5404 chars]"
+            "author": "Sammy Barker",
+            "title": "Jurassic Park Classic Games Collection Finds a Way on PS5, PS4 - Push Square",
+            "description": "Well, there it is",
+            "url": "https://www.pushsquare.com/news/2023/07/jurassic-park-classic-games-collection-finds-a-way-on-ps5-ps4",
+            "urlToImage": "https://images.pushsquare.com/32c766ab7d03b/1280x720.jpg",
+            "publishedAt": "2023-07-13T00:00:00Z",
+            "content": "Subscribe to Push Square on YouTube\r\nA compilation of the highly memorable 8-bit and 16-bit Jurassic Park games will release on PS5 and PS4, with pre-orders for physical copies beginning on 1st Septe\u2026 [+1388 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Reuters",
-            "title": "China lashes back at NATO criticism, warns it will protect its rights - Reuters",
-            "description": "Beijing lashed back at NATO's accusation that China challenges the bloc's interests and security, and opposed any attempt by the military alliance to expand its footprint into the Asia-Pacific region.",
-            "url": "https://www.reuters.com/world/china-opposes-natos-move-into-asia-pacific-region-warns-resolute-response-2023-07-12/",
-            "urlToImage": "https://www.reuters.com/resizer/AAV28V4skAIVFxYqdxijMy7oudk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4JKB7272V5IXRJRFPV6MHIFNLE.jpg",
-            "publishedAt": "2023-07-12T04:25:36Z",
-            "content": "BEIJING, July 12 (Reuters) - Beijing lashed back at NATO's accusation that China challenges the bloc's interests and security, and opposed any attempt by the military alliance to expand its footprint\u2026 [+3456 chars]"
+            "author": "Emily Rauhala, Michael Birnbaum, Toluse Olorunnipa, Meryl Kornfield, Niha Masih, Annabelle Timsit, Adam Taylor, Sammy Westfall, Mikhail Klimentov",
+            "title": "Russia-Ukraine war: Biden and Zelensky agree: Ukraine will join NATO only after war ends - The Washington Post",
+            "description": "G-7 countries issued a joint declaration of \u201cunwavering\u201d support for Ukraine on day two of a summit for NATO leaders in Vilnius, Lithuania.",
+            "url": "https://www.washingtonpost.com/world/2023/07/12/ukraine-russia-nato-summit-2023-zelensky/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-12-2023/t_526118b0ace54cc086095219637053c2_name_QAUMNSRKGUGHLPRMM3C6ZEVZNY.jpg&w=1440",
+            "publishedAt": "2023-07-12T23:30:55Z",
+            "content": "VILNIUS, Lithuania Coming out of the annual summit for NATO leaders which began with unexpected tension but ended on a note of unity both President Biden and Ukrainian President Volodymyr Zelensky ap\u2026 [+501 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "FOX13 Memphis"
+                "name": "CBS Sports"
             },
             "author": "",
-            "title": "Dr. Benjamin Mauck, killed in Collierville clinic shooting, remembered for passion in his profession - FOX13 Memphis",
-            "description": "REMEMBERING DR. MAUCK: In an interview with Memphis Magazine, Benjamin Mauck, who specialized in hand, wrist and elbow surgeries, said that \"the hand is how we interact with the outside world -- and when your hand is involved -- it affects almost every single\u2026",
-            "url": "https://www.fox13memphis.com/news/dr-benjamin-mauck-killed-in-collierville-clinic-shooting-remembered-for-passion-in-his-profession/article_c3c101b8-205b-11ee-8acf-1f065227c074.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fox13memphis.com/content/tncms/assets/v3/editorial/d/a0/da0d5f26-ac7e-5e6e-8fa8-9ff4a3f93f61/64ae2787a8f1e.image.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2023-07-12T04:07:30Z",
-            "content": "COLLIERVILLE, Tenn. - Dr. Benjamin Mauck, according to an article in Memphis Magazine, knew he wanted to be an Orthopedic Specialist since he was a teenager.\r\nHe told the magazine he grew up in Savan\u2026 [+1160 chars]"
+            "title": "Big 12 Media Days: Texas football embracing 'target on our back' ahead of pivotal 2023 campaign - CBS Sports",
+            "description": "The Longhorns were picked first in the preseason poll for the first time since 2009",
+            "url": "https://www.cbssports.com/college-football/news/big-12-media-days-texas-football-embracing-target-on-our-back-ahead-of-pivotal-2023-campaign/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/12/b84b8c22-c46d-44e0-b738-afeb37c97b4e/thumbnail/1200x675/680fdaa1f6cdaced8958f78ba53d8791/sark-b12-media-days.jpg",
+            "publishedAt": "2023-07-12T23:23:00Z",
+            "content": "ARLINGTON, Texas -- The last time Texas was the Big 12 frontrunner coming into the season, Colt McCoy was the quarterback, Mack Brown was the coach and the Obama Administration had just began.\r\nIn 20\u2026 [+3026 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Variety"
+            },
+            "author": "Zack Sharf",
+            "title": "Christopher Nolan Says \u2018Oppenheimer\u2019 and \u2018Barbie\u2019 Opening Together Is \u2018Terrific\u2019 Because a \u2018Crowded\u2019 Marketplace Is a \u2018Healthy\u2019 One: \u2018We\u2019ve Been Waiting\u2019 For This - Variety",
+            "description": "As thousands of moviegoers gear up for double features of Greta Gerwig\u2019s \u201cBarbie\u201d and Christopher Nolan\u2019s \u201cOppenheimer,\u201d one person taking joy in the \u201cBarb\u2026",
+            "url": "https://variety.com/2023/film/news/christopher-nolan-barbenheimer-barbie-oppenheimer-opening-terrific-1235668082/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-12-at-2.26.54-PM.png?w=1000&h=563&crop=1",
+            "publishedAt": "2023-07-12T22:43:00Z",
+            "content": "As thousands of moviegoers gear up for double features of Greta Gerwig\u2019s \u201cBarbie\u201d and Christopher Nolan\u2019s \u201cOppenheimer,\u201d one person taking joy in the \u201cBarbenheimer\u201d craze is Nolan himself. Although h\u2026 [+2073 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
             },
             "author": null,
-            "title": "Trump dealt disaster blow in 'smoking gun' criminal case - MSNBC",
-            "description": "Donald Trump braces as a new grand jury in Atlanta was just sworn in.  This grand jury will likely consider whether to criminally charge Donald Trump or his ...",
-            "url": "https://www.youtube.com/watch?v=diBO2uKszDU",
-            "urlToImage": "https://i.ytimg.com/vi/diBO2uKszDU/maxresdefault.jpg",
-            "publishedAt": "2023-07-12T02:55:18Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "James Pearson",
-            "title": "Exclusive: Russian hackers lured embassy workers in Ukraine with an ad for a cheap BMW - Reuters",
-            "description": "Hackers suspected of working for Russia's foreign intelligence agency targeted dozens of diplomats at embassies in Ukraine with a fake used car advert in a bid to break into their computers, according to a cybersecurity firm report seen by Reuters.",
-            "url": "https://www.reuters.com/world/europe/russian-hackers-lured-embassy-workers-ukraine-with-an-ad-cheap-bmw-2023-07-12/",
-            "urlToImage": "https://www.reuters.com/resizer/I301ItNxskLBjQU11X6SsG9oMLk=/984x515/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DKM4BIGGIJMGNOJXB2G7YSBG5Y.jpg",
-            "publishedAt": "2023-07-12T02:33:38Z",
-            "content": "LONDON, July 12 (Reuters) - Hackers suspected of working for Russia's foreign intelligence agency targeted dozens of diplomats at embassies in Ukraine with a fake used car advert in a bid to break in\u2026 [+3724 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Raja Razek",
-            "title": "Free-solo climber dies after falling hundreds of feet from ridge in Colorado\u2019s Rocky Mountain National Park - CNN",
-            "description": "A 26-year-old woman from Boulder, Colorado, died after falling approximately 500 feet while free-solo climbing a ridge in the state\u2019s Rocky Mountain National Park on Sunday, the park said.",
-            "url": "https://www.cnn.com/2023/07/11/us/colorado-free-solo-climber-death-rocky-mountain-park/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230711183555-ypsilon-mountain-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-12T02:20:00Z",
-            "content": "A 26-year-old woman from Boulder, Colorado, died after falling approximately 500 feet while free-solo climbing a ridge in the states Rocky Mountain National Park on Sunday, the park said. \r\nThe unide\u2026 [+1135 chars]"
+            "title": "Tom Coughlin, Mike Shanahan among Hall of Fame semifinalists - ESPN - ESPN",
+            "description": "Two-time Super Bowl-winning coaches Tom Coughlin and Mike Shanahan and team owners Robert Kraft and Virginia McCaskey were among the 60 semifinalists announced Wednesday for the 2024 class of the Pro Football Hall of Fame.",
+            "url": "https://www.espn.com/nfl/story/_/id/38001979/tom-coughlin-mike-shanahan-hall-fame-semifinalists",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2017%2F0113%2Fr170803_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-07-12T22:41:00Z",
+            "content": "Jul 12, 2023, 06:41 PM ET\r\nCANTON, Ohio -- Two-time Super Bowl-winning coaches Tom Coughlin and Mike Shanahan and team owners Robert Kraft and Virginia McCaskey were among the 60 semifinalists announ\u2026 [+1855 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "DW (English)"
+                "name": "Daily Mail"
             },
-            "author": "Deutsche Welle",
-            "title": "Canadian lake shows start of Anthropocene era: scientists - DW (English)",
-            "description": "A group of scientists has presented Canada's Crawford Lake as the best example of humanity's destabilizing impact on the environment. There's still disagreement over when the Anthropocene era began, and if it has.",
-            "url": "https://www.dw.com/en/canadian-lake-shows-start-of-anthropocene-era-scientists/a-66195820",
-            "urlToImage": "https://static.dw.com/image/66195662_6.jpg",
-            "publishedAt": "2023-07-12T02:06:15Z",
-            "content": "Scientists on Tuesday said that sediment at Crawford Lake in Canada provides evidence of the beginning of the Anthropocene age.\r\nThe Anthropocene Working Group (AWG) said that layered sediment at the\u2026 [+2450 chars]"
+            "author": "Caitlin Tilley",
+            "title": "New York woman who beat breast cancer in her 30s reveals the surprising sign of disease - Daily Mail",
+            "description": "Instead of the classic breast cancer flag - a lump - Megan\u00a0Liscomb noticed visual changes in her breast. She originally put these down to 'aging', she said in her first-person piece on Buzzfeed.",
+            "url": "https://www.dailymail.co.uk/health/article-12293087/New-York-woman-beat-breast-cancer-30s-reveals-surprising-sign-disease.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/07/12/23/73153215-0-image-a-5_1689201303576.jpg",
+            "publishedAt": "2023-07-12T22:39:45Z",
+            "content": "A New York woman who beat breast cancer in her 30s has revealed the surprising sign of the disease.\r\nInstead of the classic breast cancer flag a lump Megan\u00a0Liscomb, 37, noticed visual changes in her \u2026 [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Anthony Robledo",
+            "title": "Domino's pizza delivery through Uber Eats, Postmates coming in 2024 - USA TODAY",
+            "description": "Domino's will allow customers to order pizza, pasta and other items on Uber Eats or Postmates by 2024, the pizza chain announced Wednesday.",
+            "url": "https://www.usatoday.com/story/money/food/2023/07/12/dominos-uber-eats-postmates-announcement/70407520007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/12/USAT/88e1c5c9-cc65-48f7-a5c2-4aa95b180510-Dominos_pizza.JPG?crop=2999,1687,x0,y152&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-12T22:31:35Z",
+            "content": "Come next year, Domino's cars won't be the only vehicles delivering your pizza.\r\nDomino's announced Wednesday that customers can use Uber Eats and Postmates to order food by 2024. The pizza restauran\u2026 [+1389 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "John Timmer",
+            "title": "Rover sampling finds organic molecules in water-altered rocks - Ars Technica",
+            "description": "No clear implications for life, but some samples could be brought back to Earth.",
+            "url": "https://arstechnica.com/science/2023/07/organic-chemicals-on-mars-are-associated-with-water-shaped-deposits/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/image-1-760x380.jpeg",
+            "publishedAt": "2023-07-12T22:18:43Z",
+            "content": "Enlarge/ Jezero crater shows clear signs of water-formed deposits, so it's not a surprise to find water-altered material there.\r\n11 with \r\nOrganic chemicals, primarily composed of carbon and hydrogen\u2026 [+4645 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Chicago Tribune"
-            },
-            "author": "Robert Channick",
-            "title": "Northwestern hazing fallout brings calls to halt $800M Ryan Field rebuild - Chicago Tribune",
-            "description": "While some Evanston neighbors have voiced concerns about noise and congestion at the new stadium, opposition may be coalescing around the larger issue of whether Northwestern needs a new home for its football program, or just a thorough housecleaning.",
-            "url": "https://www.chicagotribune.com/business/ct-biz-northwestern-football-hazing-ryan-field-rebuild-fallout-20230712-rcqdej235rdzrfawtiupxcdhli-story.html",
-            "urlToImage": "https://www.chicagotribune.com/resizer/YNK2vg-hwTNdX0wdl6vTUga5xoE=/1200x630/filters:format(jpg):quality(70):focal(1298x1699:1308x1709)/cloudfront-us-east-1.images.arcpublishing.com/tronc/PSIKG7WULFBD5F6KFPNECNA6IE.JPG",
-            "publishedAt": "2023-07-12T01:50:27Z",
-            "content": "The Northwestern football hazing scandal and the fumbled firing of head coach Pat Fitzgerald have brought new calls to reassess the athletic culture at the Big Ten school, and at least temporarily ha\u2026 [+8975 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "name": "U.S. Soccer"
             },
             "author": null,
-            "title": "Dozens of evacuated homes continue sinking after massive landslide in Rolling Hills Estates - KTLA 5",
-            "description": "As homes continue to collapse into a canyon in a Rolling Hills Estates neighborhood, city officials are expected to declare a state of emergency Tuesday nigh...",
-            "url": "https://www.youtube.com/watch?v=px7QSfvJDkM",
-            "urlToImage": "https://i.ytimg.com/vi/px7QSfvJDkM/maxresdefault.jpg",
-            "publishedAt": "2023-07-12T01:28:17Z",
-            "content": null
+            "title": "USMNT vs. Panama - Lineup, How to Watch, Start Time | 2023 Concacaf Gold Cup Semifinal - U.S. Soccer",
+            "description": "Snapdragon Stadium; San Diego, Calif.; Pre-Game Coverage: 7 p.m. ET on FS1, Univision, TUDN; Kickoff: 7:30 p.m. ET on FS1, Univision, TUDN, F\u00fatbol de Primera Radio",
+            "url": "https://www.ussoccer.com/stories/2023/07/2023-concacaf-gold-cup-usmnt-vs-panama-starting-xi-lineup-tv-channels-start-time",
+            "urlToImage": "https://cdn.ussoccer.com/-/media/project/ussf/2023-article-images/71223_mntlineup_p1.ashx?h=1080&la=en-US&w=1920&rev=01c0d34d9ef049fe9336aa65cff89074&hash=156BF73B732F5651726953509E482262",
+            "publishedAt": "2023-07-12T22:10:22Z",
+            "content": "LINEUP NOTESUSMNT vs. Panama2023 Concacaf Gold Cup SemifinalJuly 12, 2023Snapdragon Stadium; San Diego, Calif. Pre-Game Coverage: 7 p.m. ET on FS1, Univision, TUDNKickoff: 7:30 p.m. ET on FS1, Univis\u2026 [+10775 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Hollywood Reporter"
             },
-            "author": null,
-            "title": "Assessing impact of today's PGA Tour-Saudi PIF Senate hearing | Golf Central | Golf Channel - Golf Channel",
-            "description": "Rich Lerner joins Whit Watson to recap today's PGA Tour-Saudi PIF Senate hearing, providing their biggest takeaways from the conversations had today and less...",
-            "url": "https://www.youtube.com/watch?v=VH4I3blkrss",
-            "urlToImage": "https://i.ytimg.com/vi/VH4I3blkrss/maxresdefault.jpg",
-            "publishedAt": "2023-07-12T00:40:40Z",
-            "content": null
+            "author": "Borys Kit",
+            "title": "\u2018Superman: Legacy\u2019 Nabs \u2018Barry\u2019 Star Anthony Carrigan as DC Hero Metamorpho (Exclusive) - Hollywood Reporter",
+            "description": "The casting comes after James Gunn's Man of Steel movie added Isabela Merced, Edi Gathegi and Nathan Fillion to the call sheet.",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/superman-legacy-casts-anthony-carrigan-metamorpho-1235533648/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/anthony-carrigan-meta.jpg?w=1024",
+            "publishedAt": "2023-07-12T21:39:23Z",
+            "content": "After finding his Clark Kent and Lois Lane, James Gunn is moving furiously to populate his Metropolis with a bevy of other DC heroes for Superman: Legacy.\r\nAnthony Carrigan, fresh off an Emmy nominat\u2026 [+3626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alex Oliveira",
+            "title": "Norovirus outbreaks on cruise ships skyrocket to highest levels in a decade: CDC data - New York Post ",
+            "description": "There were more outbreaks of the vomit and diarrhea-inducing virus on cruise ships between January and June than there were in any year over the last decade.",
+            "url": "https://nypost.com/2023/07/12/norovirus-outbreaks-on-cruise-ships-skyrocket-to-highest-levels-in-a-decade-cdc-data/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000013957613.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-07-12T21:31:00Z",
+            "content": "Norovirus outbreaks on cruise ships have skyrocketed in 2023 \u2014 with the number of cases already exceeding that of any year over the past decade, according to recent figures. \r\nSince January, there ha\u2026 [+1341 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Dinah Voyles Pulver",
+            "title": "Vermont flooding worsened by climate change, increasing rain - USA TODAY",
+            "description": "Widespread flooding like the rain in Vermont is expected to happen more often as warmer temperatures send more water into the atmosphere.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/07/12/vermont-flooding-and-climate-change/70402477007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/11/USAT/7f5e16ef-4b55-4687-bed0-0ed1c4788f06-AP_Northeast_Flooding.jpg?crop=6015,3384,x0,y308&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-12T21:27:17Z",
+            "content": "Streets in Montpelier, Vermont and surrounding communities morphed into rushing rivers this week, a dramatic display of what could happen more often as climate change fuels heavier rainfall events.\r\n\u2026 [+6437 chars]"
         }
     ]
 }
