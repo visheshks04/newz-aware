@@ -4,159 +4,94 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Josh Pennington, Alex Stambaugh, Brad Lendon, Christian Edwards",
-            "title": "Crimea bridge: Ukraine claims responsibility for new attack on key bridge - CNN",
-            "description": "A Ukrainian security official has claimed Kyiv\u2019s responsibility for an attack on the bridge linking the annexed Crimean peninsula to the Russian mainland \u2013 a vital supply line for Russia\u2019s war effort in Ukraine and a personal project for President Vladimir Pu\u2026",
-            "url": "https://www.cnn.com/2023/07/16/europe/russia-crimea-bridge-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230717123035-crimean-bridge-0717.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-17T12:08:00Z",
-            "content": "A Ukrainian security official has claimed Kyivs responsibility for an attack on the bridge linking the annexed Crimean peninsula to the Russian mainland a vital supply line for Russias war effort in \u2026 [+5500 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "NBCSports.com"
             },
-            "author": null,
-            "title": "Viewfinder Review - IGN",
-            "description": "Viewfinder reviewed by Tristan Ogilvie on PC. Also available on PlayStation 5.\"What Viewfinder lacks in story substance and compelling characters it more tha...",
-            "url": "https://www.youtube.com/watch?v=uvY6cJwg884",
-            "urlToImage": "https://i.ytimg.com/vi/uvY6cJwg884/maxresdefault.jpg",
-            "publishedAt": "2023-07-17T12:00:43Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Death Valley, hottest place on Earth, hits near-record high as blistering heat wave continues - CBS News",
-            "description": "The National Weather Service says there's no immediate end in sight to the heat wave gripping much of the U.S.",
-            "url": "https://www.cbsnews.com/news/death-valley-hottest-place-on-earth-near-record-high-heat-wave/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/17/74e6200e-7989-4258-a88a-b5edee220ca9/thumbnail/1200x630/a159c097a8ccf0eacd66ab5ac72a02ea/gettyimages-1536853328.jpg?v=b9ad248140817530b57bedd1355bcccb",
-            "publishedAt": "2023-07-17T11:57:00Z",
-            "content": "Death Valley, Calif. \u2014 Long the hottest place on Earth, Death Valley put a sizzling exclamation point Sunday on a record warm summer that's baking nearly the entire globe by flirting with some of the\u2026 [+8362 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TODAY"
-            },
-            "author": "Jill Martin",
-            "title": "Jill Martin Opens Up On Breast Cancer Diagnosis, Upcoming Surgery - TODAY",
-            "description": "TODAY contributor Jill Martin reveals she has breast cancer. She opens up about how her doctors\u2019 recommendation for genetic testing led to her diagnosis.",
-            "url": "https://www.today.com/health/jill-martin-breast-cancer-diagnosis-rcna94105",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2023-07/jill-martin-te-230713-c52598.jpg",
-            "publishedAt": "2023-07-17T11:56:52Z",
-            "content": "June 26 at 3:30 p.m. I remember saying to myself, My life is never going to be the same. It was the day I was told I had breast cancer.\u00a0 \r\nI had always feared this day would come, but I never really \u2026 [+7077 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "Got tipping rage? This barista reveals what it's like to be behind the tip screen - NPR",
-            "description": "The rise in tipping has many customers fuming, but one worker who depends on tips says most customers misunderstand what they are \u2014 and shares what it feels like when people don't tip.",
-            "url": "https://www.npr.org/2023/07/17/1187275511/tipping-minimum-wage-tips-tip-screen",
-            "urlToImage": "https://media.npr.org/assets/img/2023/07/12/image_50443265_wide-b94645f3eada538f0723af6e6badb3d912b55be5-s1400-c100.jpg",
-            "publishedAt": "2023-07-17T11:43:39Z",
-            "content": "Dylan Schenker got his first barista job about a decade ago. He says, \"At first it was just a job,\" but he then got passionate about it. But increasingly he's becoming dependent on tips and says peop\u2026 [+6554 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Post Magazine"
-            },
-            "author": null,
-            "title": "\u2018Worrying for a struggling economy\u2019: China\u2019s second-quarter growth fans fears - South China Morning Post",
-            "description": "China\u2019s economic growth in the second quarter was below market expectations despite Beijing\u2019s effort to boost the post-coronavirus pandemic recovery.",
-            "url": "https://www.scmp.com/economy/economic-indicators/article/3227936/china-gdp-economy-grew-63-cent-second-quarter-amid-recovery-fears",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/17/765440ee-c893-41d5-8bad-e64a12318700_0958f828.jpg?itok=rNbdgNm2&v=1689593647",
-            "publishedAt": "2023-07-17T11:34:05Z",
-            "content": "Published: 10:01am, 17 Jul, 2023\r\nUpdated: 7:34pm, 17 Jul, 2023"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "POLITICO.eu"
-            },
-            "author": "Susannah Savage",
-            "title": "Moscow kills off Black Sea grain deal - POLITICO Europe",
-            "description": "Kremlin claims Russia\u2019s conditions have not been fulfilled.",
-            "url": "https://www.politico.eu/article/russia-ukraine-war-moscow-black-sea-grain-deal-over/",
-            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/17/11310821-scaled.jpg",
-            "publishedAt": "2023-07-17T11:23:00Z",
-            "content": "The Kremlin said on Monday that a U.N.-brokered deal to allow the safe passage of Ukrainian grain exports through the Black Sea is terminated, claiming that Russia's conditions had not been met.\r\n\"Th\u2026 [+4310 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Matias Grez",
-            "title": "\u2018It\u2019s great for the new generation\u2019: Why Carlos Alcaraz\u2019s Wimbledon victory over Novak Djokovic could finally signal tennis\u2019 changing of the guard - CNN",
-            "description": "For years, tennis\u2019 so-called \u2018Next Gen\u2019 stars have tried and largely failed to topple the sport\u2019s \u2018Big Three\u2019 of Roger Federer, Rafael Nadal and Novak Djokovic.",
-            "url": "https://www.cnn.com/2023/07/17/sport/carlos-alcaraz-wimbledon-novak-djokovic-changing-of-the-guard-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230716140310-10-djokovic-alcaraz-wimbledon-final-0716.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-17T11:20:00Z",
-            "content": "For years, tennis so-called Next Gen stars have tried and largely failed to topple the sports Big Three of Roger Federer, Rafael Nadal and Novak Djokovic.\r\nBetween Andy Murray and Stan Wawrinka winni\u2026 [+4725 chars]"
+            "author": "Charean Williams",
+            "title": "Running backs react to Saquon Barkley, Josh Jacobs, Tony Pollard not getting long-term deals - NBC Sports",
+            "description": "Saquon Barkley, Josh Jacobs and Tony Pollard aren't happy campers, and neither are their cohorts around the league.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/running-backs-react-to-saquon-barkley-josh-jacobs-tony-pollard-not-getting-long-term-deals",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/d271ccf/2147483647/strip/true/crop/2012x1132+2+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F2022-10%2FPollard1_USA.jpg",
+            "publishedAt": "2023-07-18T01:29:19Z",
+            "content": "Saquon Barkley, Josh Jacobs and Tony Pollard arent happy campers, and neither are their cohorts around the league.\r\nEven Christian McCaffrey, who leads the position with a yearly average of $16.016 m\u2026 [+1703 chars]"
         },
         {
             "source": {
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Evan Bush",
-            "title": "History-making heat set to spread after weekend of triple-digit temperatures - NBC News",
-            "description": "A history-making heat wave that baked Southern U.S. communities with triple-digit temperatures over the weekend will offer little relief this week and could spread dangerous conditions farther across the Sun Belt.",
-            "url": "https://www.nbcnews.com/science/environment/heat-wave-weekend-spread-sun-belt-rcna94570",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230717-arizona-heatwave-mb-1228-98409a.jpg",
-            "publishedAt": "2023-07-17T11:00:40Z",
-            "content": "Heat kills more people every year than other weather hazards. Heat waves can be more threatening the longer they linger, because stress accumulates over time when people cant find adequate respite.\r\n\u2026 [+1406 chars]"
+            "author": "Kalhan Rosenblatt, Angela Yang",
+            "title": "SAG-AFTRA issues strike guidance specifically for influencers amid confusion - NBC News",
+            "description": "SAG-AFTRA is encouraging digital content creators \u2014 even those who aren\u2019t part of the labor union \u2014  to avoid promoting films and TV series amid the union's strike.",
+            "url": "https://www.nbcnews.com/pop-culture/sag-aftra-issues-strike-guidance-specifically-influencers-confusion-rcna94747",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230717-sag-strike-ew-416p-aebe28.jpg",
+            "publishedAt": "2023-07-18T00:25:00Z",
+            "content": "Social media stars dont need Hollywood to get famous, but they still have to play by some of the industrys rules.\r\nThe Screen Actors Guild-American Federation of Television and Radio Artists is encou\u2026 [+6940 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Detroit Free Press"
+                "name": "Nature.com"
             },
-            "author": "JC Reindl",
-            "title": "After bankruptcy, how Detroit's streetlights went from broken to working - Detroit Free Press",
-            "description": "About 40% of the city's streetlights weren't working when it filed for bankruptcy. Today, widespread outages are no longer a problem.",
-            "url": "https://www.freep.com/story/news/local/detroit-bankruptcy/2023/07/17/post-bankruptcy-detroit-streetlights-overhaul/70362611007/",
-            "urlToImage": "https://www.freep.com/gcdn/presto/2023/07/12/PDTF/cf7e6deb-eb59-45f2-bd54-a5c82abed83a-DetPubLighting_061423_ES05.jpg?crop=2399,1350,x0,y155&width=2399&height=1350&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-17T10:26:24Z",
-            "content": "To mark the 10-year anniversary of Detroit's historic July 18, 2013 municipal bankruptcy filing, the Free Press is examining what has changed, what hasn't, and why. Find more coverage atfreep.com.\r\nI\u2026 [+9977 chars]"
+            "author": null,
+            "title": "Alzheimer's drug donanemab helps most when taken at earliest disease stage, study finds - Nature.com",
+            "description": "But the drug, an antibody that attacks the protein amyloid, does not work as well in people with more advanced disease.",
+            "url": "https://www.nature.com/articles/d41586-023-02321-1",
+            "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-02321-1/d41586-023-02321-1_25766218.jpg",
+            "publishedAt": "2023-07-18T00:22:30Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Deadline"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Andreas Wiseman",
-            "title": "Hallelujah! Faith Series \u2018The Chosen\u2019 Granted SAG Waiver To Continue Filming & Becomes First Known Series To Get Exemption During Strike - Deadline",
-            "description": "EXCLUSIVE: The prayers of The Chosen fans have been answered with news that season four of the popular Jesus of Nazareth series has been granted a waiver from SAG to continue filming amid the strik\u2026",
-            "url": "https://deadline.com/2023/07/chosen-series-jesus-sag-waiver-strike-jonathan-roumie-1235439455/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/Cho-S2-press-image-5-1-scaled-1.jpeg?w=1024",
-            "publishedAt": "2023-07-17T10:03:00Z",
-            "content": "EXCLUSIVE: The prayers of The Chosen fans have been answered with news that season four of the popular Jesus of Nazareth series has been granted a waiver from SAG to continue filming amid the strike.\u2026 [+3061 chars]"
+            "author": "Rob Picheta, Mick Krever, Anna Chernova",
+            "title": "Russia pulls out of Ukraine grain deal, in potential blow to global food supplies - CNN",
+            "description": "Russia said Monday it was suspending its participation in a crucial deal that allowed the export of Ukrainian grain, once again raising fears over global food supplies and scuppering a rare diplomatic breakthrough to emerge from Moscow\u2019s war in Ukraine.",
+            "url": "https://www.cnn.com/2023/07/17/europe/russia-ukraine-grain-deal-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230717102830-russia-ukraine-grain-deal-collapse.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-17T23:57:00Z",
+            "content": "Russia said Monday it was suspending its participation in a crucial deal that allowed the export of Ukrainian grain, once again raising fears over global food supplies and scuppering a rare diplomati\u2026 [+8517 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "MacRumors"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Tim Hardwick",
-            "title": "Apple's First M3-Powered Macs Likely to Launch in October - MacRumors",
-            "description": "Apple's first M3-powered Macs could arrive as early as October, according to Bloomberg's Mark Gurman.    Writing in his latest Power On...",
-            "url": "https://www.macrumors.com/2023/07/17/apple-m3-macs-october-event/",
-            "urlToImage": "https://images.macrumors.com/t/na4HVhc4mouDF2FPKTOTu2lM9xQ=/1810x/article-new/2021/12/m3-feature-black.jpg",
-            "publishedAt": "2023-07-17T09:51:07Z",
-            "content": "Apple's first M3-powered Macs could arrive as early as October, according to Bloomberg's Mark Gurman. \r\nWriting in his latest Power On newsletter, Gurman said sources tell him an October event will f\u2026 [+933 chars]"
+            "author": "Carolyn Y. Johnson",
+            "title": "First RSV antibody treatment to protect all infants approved in the U.S. - The Washington Post",
+            "description": "Regulators approved an RSV antibody treatment for infants that provides vaccine-like protection over the course of a single winter respiratory virus season.",
+            "url": "https://www.washingtonpost.com/health/2023/07/17/first-rsv-antibody-treatment-protect-all-infants-approved-us/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J5M4QLQH67H7VFHT5O3JWPV6X4.jpg&w=1440",
+            "publishedAt": "2023-07-17T22:43:00Z",
+            "content": "Comment on this story\r\nComment\r\nFederal regulators on Monday approved a shot to protect healthy babies and some vulnerable toddlers against the respiratory ailment RSV, the leading cause of hospitali\u2026 [+5291 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marshall Cohen",
+            "title": "Georgia Supreme Court dismisses Trump bid to shut down Fulton County probe - CNN",
+            "description": "The Georgia Supreme Court on Monday dismissed a long shot legal bid from former President Donald Trump to essentially shut down the Fulton County criminal probe into his attempts to overturn his 2020 election defeat in Georgia.",
+            "url": "https://www.cnn.com/2023/07/17/politics/georgia-supreme-court-trump-fulton-county/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230715200013-01-trump-turning-point-florida-071523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-17T22:41:00Z",
+            "content": "The Georgia Supreme Court on Monday dismissed a long shot legal bid from former President Donald Trump to essentially shut down the Fulton County criminal probe into his attempts to overturn his 2020\u2026 [+2655 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Justin Gamble",
+            "title": "Black people in redlined neighborhoods face higher risks for heart failure - CNN",
+            "description": "Black adults living in zip codes historically impacted by redlining have an 8% higher risk of developing heart failure than Black adults in non-redlined areas, a study published Monday in the American Heart Association\u2019s scientific journal Circulation says.",
+            "url": "https://www.cnn.com/2023/07/17/health/black-redlined-neighborhoods-heart-failure-risks/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230717173728-01-heart-failure-risk-redlined-areas-press.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-17T22:22:00Z",
+            "content": "Black adults living in zip codes historically impacted by redlining have an 8% higher risk of developing heart failure than Black adults in non-redlined areas, a study published Monday in the America\u2026 [+2134 chars]"
         },
         {
             "source": {
@@ -164,103 +99,168 @@
                 "name": "Al Jazeera English"
             },
             "author": "Al Jazeera",
-            "title": "Inter Miami unveil Lionel Messi, sign Sergio Busquets - Al Jazeera English",
-            "description": "Messi and his ex-Barcelona teammate Busquets sign deals that will keep them at the MLS club until 2025.",
-            "url": "https://www.aljazeera.com/sports/2023/7/17/inter-miami-unveil-lionel-messi-sign-sergio-busquets",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-07-17T025019Z_1834122135_UP1EJ7H05O37N_RTRMADP_3_SOCCER-USA-MIA-1689586447.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-07-17T09:40:28Z",
-            "content": "A sold-out crowd of about 20,000 waited through a delay caused by torrential rain and heavy lightning to officially welcome Lionel Messi to Inter Miami on Sunday.\r\nThe ceremony, dubbed La PresentaSIo\u2026 [+3150 chars]"
+            "title": "Alleged Pentagon leaker Teixeira calls for release, citing Trump - Al Jazeera English",
+            "description": "Lawyers argue Teixeira should be released ahead of trial, much like Trump was in his federal classified documents case.",
+            "url": "https://www.aljazeera.com/news/2023/7/17/alleged-pentagon-leaker-teixeira-calls-for-release-citing-trump",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-06-21T201309Z_1335159140_RC2T11AUFC9R_RTRMADP_3_USA-INTEL-LEAK-1689628463.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-07-17T22:16:18Z",
+            "content": "A Massachusetts Air National Guard member accused of leaking secret military papers has challenged a judges decision for him to remain behind bars, pointing to the pretrial release of former United S\u2026 [+3989 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "CBS Sports"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "South Korea floods: Tunnel horror brings home climate fears - BBC",
-            "description": "The country is less used to dealing with the severe effects of a warming planet.",
-            "url": "https://www.bbc.com/news/world-asia-66219597",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44B5/production/_130398571_southkoreabus.png",
-            "publishedAt": "2023-07-17T08:59:55Z",
-            "content": "As hundreds of rescue workers comb the muddied waters of a South Korean underpass, the stagnant rainwater, once up to the ceiling, now only covers their knees.\r\nThey will not give up. There is one pe\u2026 [+4067 chars]"
+            "author": "Will Backus",
+            "title": "2023 SEC Media Days live updates: LSU, Texas A&M, Missouri football teams headline schedule on Monday - CBS Sports",
+            "description": "A plethora of Tigers as well as some Aggies will help kick off the 2023 SEC Media Days festivities on Monday in Atlanta",
+            "url": "https://www.cbssports.com/college-football/news/2023-sec-media-days-live-updates-lsu-texas-a-m-missouri-football-teams-headline-schedule-on-monday/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/14/5e0e61e2-be0a-4057-90e5-0764e2659158/thumbnail/1200x675/9e9147322b0055891ca6dc27166f23d2/brian-kelly-lsu.jpg",
+            "publishedAt": "2023-07-17T21:58:44Z",
+            "content": "The 2023 SEC Media Days slate kicks off on Monday as player and coach representatives from all 14 teams hit Nashville for the first time since the event began to preview the upcoming football season.\u2026 [+1499 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sophie Kiderlin",
-            "title": "Treasury yields fall as investors assess state of U.S. economy - CNBC",
-            "description": "U.S Treasury yields declined on Monday as investors considered the outlook for the economy and monetary policy.",
-            "url": "https://www.cnbc.com/2023/07/17/us-treasury-yields-as-investors-assess-state-of-economy.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107262237-1687736518053-gettyimages-1495130419-dscf3790_kb1selu9.jpeg?v=1689582938&w=1920&h=1080",
-            "publishedAt": "2023-07-17T08:35:38Z",
-            "content": "U.S. Treasury yields declined on Monday as investors considered the outlook for the economy and monetary policy ahead of a week with few key economic data reports.\r\nAt 5:40 a.m. ET, the yield on the \u2026 [+1376 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Michael David Smith",
-            "title": "DeAndre Hopkins motivated to prove his \"haters and doubters\" wrong in Tennessee - NBC Sports",
-            "description": "Hopkins tweets, \"Titan up!!\" after agreeing to contract",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deandre-hopkins-motivated-to-prove-his-haters-and-doubters-wrong-in-tennessee",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/de9bd01/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F48%2F47%2F8cceb5254b51a5b479ac177618b1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1244791949",
-            "publishedAt": "2023-07-17T08:20:28Z",
-            "content": "Titans wide receiver Deandre Hopkins is motivated this season to prove hes still an elite playmaker.\r\nAfter agreeing to a contract with the Titans on Sunday, Hopkins wrote on Twitter that those who d\u2026 [+619 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "name": "News12.com"
             },
             "author": null,
-            "title": "Jane Birkin, actress and singer, dies aged 76 \u2013 BBC News - BBC News",
-            "description": "The singer, actress and fashion icon Jane Birkin has died at the age of 76. The English-French star rose to fame alongside songwriter Serge Gainsbourg, with ...",
-            "url": "https://www.youtube.com/watch?v=K0amGSiAz24",
-            "urlToImage": "https://i.ytimg.com/vi/K0amGSiAz24/maxresdefault.jpg",
-            "publishedAt": "2023-07-17T08:12:47Z",
-            "content": null
+            "title": "GILGO MURDERS: 2 storage units searched in connection to investigation, Suffolk DA says - News 12 Long Island",
+            "description": "The second site search was conducted at another Omega facility at 185 Sunrise Highway.",
+            "url": "https://longisland.news12.com/gilgo-murders-latest-2nd-omega-self-storage-unit-to-be-searched-today",
+            "urlToImage": "https://images.ctfassets.net/3kqcuzntcg31/6BpBQTzeFZqzxejHEPtE1K/5f4abd4be16980287536e94a1848004b/13dbe3b0-8b83-4d0e-9e85-fe96a359d0ee.jpg?fit=thumb&w=600&h=340&q=80",
+            "publishedAt": "2023-07-17T21:56:15Z",
+            "content": "State police and members of the Suffolk County police removed items from an Omega Self-Storage facility Monday afternoon on Sunrise Highway in Amityville in connection to the Gilgo Beach murder inves\u2026 [+3551 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Philip Blenkinsop",
-            "title": "EU seeks to revive Latin America, Caribbean ties as it turns away from China, Russia - Reuters",
-            "description": "Over 50 leaders from the European Union, Latin America and the Caribbean will hold their first summit in eight years on Monday, adding momentum to an EU push for new political and economic allies prompted by the Ukraine war and suspicion of China.",
-            "url": "https://www.reuters.com/world/eu-seeks-revive-latam-caribbean-ties-it-turns-away-china-russia-2023-07-17/",
-            "urlToImage": "https://www.reuters.com/resizer/2SC9zT_MMgS8J3oFfB_rfcipBk4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BQ5LAJUCPNPQ5FHC57UR4QTZZY.jpg",
-            "publishedAt": "2023-07-17T07:20:01Z",
-            "content": "BRUSSELS, July 17 (Reuters) - Over 50 leaders from the European Union, Latin America and the Caribbean will hold their first summit in eight years on Monday, adding momentum to an EU push for new pol\u2026 [+2930 chars]"
+            "author": "Saman Shafiq",
+            "title": "Tim Shaddock, Australian fisher, dog, Bella, rescued after sea ordeal - USA TODAY",
+            "description": "Tim Shaddock and his dog, Bella, survived on raw fish and rainwater for 3 months as they hoped for rescue after their a storm damaged their catamaran.",
+            "url": "https://www.usatoday.com/story/news/world/2023/07/17/catmaran-sailor-dog-rescued-after-three-months-adrift/70421522007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/17/USAT/d560413c-d298-4d91-9308-2ba3c0e4fcba-USATSI_6289314.jpg?crop=4188,2356,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-17T21:51:38Z",
+            "content": "A sailor and his dog were rescued after being stranded for three months in the Pacific Ocean, surviving on only raw fish and rainwater, Australian media outlet 9News has reported.\r\nA few weeks after \u2026 [+1403 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "TikTok is introducing iPhone passkey support - The Verge",
+            "description": "TikTok is rolling out support for passkey authentication for iOS so users can sign in using Face ID or Touch ID on their iPhone or iPad instead of an insecure password that could be stolen or guessed.",
+            "url": "https://www.theverge.com/2023/7/17/23798046/tiktok-passkeys-iphone-passwordless-login-security",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qTBN7mjRGPCmXF2Ln5J_n977gdg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951402/STK051_VRG_Illo_N_Barclay_11_tiktok.jpg",
+            "publishedAt": "2023-07-17T21:43:22Z",
+            "content": "TikTok is now supporting passkeys on iPhone\r\nTikTok is now supporting passkeys on iPhone\r\n / TikTok is the latest app to gain passkey authentication support that lets users log in to their accounts u\u2026 [+3352 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "Daily Mail"
             },
-            "author": "Michelle Starr",
-            "title": "Fuzzy Blob in Space Is Actually Earth And The Moon as Seen From Mars - ScienceAlert",
-            "description": "It doesn't look like much: a fuzzy gray scene, a fuzzy white blob in the center, a smaller, fainter fuzzy blob moving from left to right across the scene.",
-            "url": "https://www.sciencealert.com/fuzzy-blob-in-space-is-actually-earth-and-the-moon-as-seen-from-mars",
-            "urlToImage": "https://www.sciencealert.com/images/2023/07/earth-and-moon-mars-express-header.gif",
-            "publishedAt": "2023-07-17T05:44:12Z",
-            "content": "It doesn't look like much: a fuzzy gray scene, a fuzzy white blob in the center, a smaller, fainter fuzzy blob moving from left to right across the scene.\r\nWhat you're looking at, though, is a marvel\u2026 [+3518 chars]"
+            "author": "Christine Rendon, Heidi Parker",
+            "title": "Barbara Palvin and Dylan Sprouse 'marry in her native Hungary' - Daily Mail",
+            "description": "Several websites claim the couple said 'I do' in Barbara's native Hungary over the weekend, and a fan also captured photos of the bride in her wedding dress.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-12308333/Barbara-Palvin-Dylan-Sprouse-marry-native-Hungary-just-one-month-confirming-engagement.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/07/17/22/73316499-0-image-a-18_1689628372287.jpg",
+            "publishedAt": "2023-07-17T20:39:02Z",
+            "content": "Dylan Sprouse and Barbara Palvin have reportedly tied the knot in her native\u00a0Hungary, just one month after confirming their engagement.\r\nBors Online claim the couple said 'I do' nearby the Hungarian \u2026 [+5151 chars]"
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": null,
+                "name": "Live Science"
             },
-            "author": "Dennis Romero",
-            "title": "Murdaugh 2019 boat crash lawsuits settled, lawyers say - NBC News",
-            "description": "Lawsuits over the deadly 2019 crash of a boat believed to have been driven by the son of South Carolina legal scion Alex Murdaugh have been settled, two lawyers familiar with the negotiations said Sunday.",
-            "url": "https://www.nbcnews.com/news/crime-courts/murdaugh-2019-boat-crash-lawsuits-settled-lawyers-say-rcna94577",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-07/210906-alex-murdaugh-re-toned-mn-1130-3d4e12-bfe39d.jpg",
-            "publishedAt": "2023-07-17T04:43:00Z",
-            "content": "Lawsuits over the deadly 2019 crash of a boat believed to have been driven by the son of South Carolina legal scion Alex Murdaugh have been settled, two lawyers familiar with the negotiations said Su\u2026 [+2890 chars]"
+            "author": "Harry Baker",
+            "title": "'Cannibal' coronal mass ejection that devoured 'dark eruption' from sun will smash into Earth on July 18 - Space.com",
+            "description": "Two coronal mass ejections have combined into an enormous cloud of magnetized plasma that is forecast to hit Earth on Tuesday and potentially trigger a strong geomagnetic storm.",
+            "url": "https://www.livescience.com/space/the-sun/cannibal-coronal-mass-ejection-that-devoured-dark-eruption-from-sun-will-smash-into-earth-tomorrow-july-18",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HtB6jRtv82Fnsz88Xarv5h-1200-80.jpg",
+            "publishedAt": "2023-07-17T20:30:01Z",
+            "content": "A \"cannibal\" coronal mass ejection birthed from multiple solar storms, including a surprise \"dark eruption,\" is currently on a collision course with Earth and could trigger a sizable geomagnetic stor\u2026 [+3701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Paige Gawley",
+            "title": "Sofia Vergara and Joe Manganiello Announce Divorce After 7 Years of Marriage - Entertainment Tonight",
+            "description": "The pair tied the knot in 2015.",
+            "url": "https://www.etonline.com/sofia-vergara-and-joe-manganiello-announce-divorce-after-7-years-of-marriage-208161",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-07/joesofia.jpg?h=c673cd1c&itok=CtcQhHwN",
+            "publishedAt": "2023-07-17T20:21:38Z",
+            "content": "Sofia Vergara and\u00a0Joe Manganiello are calling it quits. After seven years of marriage, the pair confirms to\u00a0Page Six\u00a0that they they have \"made the difficult decision to divorce.\" ET has reached out t\u2026 [+2840 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Tatyana Woodall",
+            "title": "Astronomers discover striking evidence of 'unusual' stellar evolution - Phys.org",
+            "description": "Astronomers have found evidence that some stars boast unexpectedly strong surface magnetic fields, a discovery that challenges current models of how they evolve.",
+            "url": "https://phys.org/news/2023-07-astronomers-evidence-unusual-stellar-evolution.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/astronomers-discover-s-1.jpg",
+            "publishedAt": "2023-07-17T19:58:03Z",
+            "content": "Astronomers have found evidence that some stars boast unexpectedly strong surface magnetic fields, a discovery that challenges current models of how they evolve.\r\nIn stars like our sun, surface magne\u2026 [+4852 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "The Associated Press",
+            "title": "Martin Truex Jr. tops Joey Logano at New Hampshire to score third win of NASCAR season - USA TODAY",
+            "description": "In his 30th career start at New Hampshire Motor Speedway, Martin Truex Jr. finally broke through at the Magic Mile, winning Monday's rescheduled race.",
+            "url": "https://www.usatoday.com/story/sports/nascar/2023/07/17/martin-truex-wins-new-hampshire-cup-race-monday/70421665007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/17/USAT/3d8d1d93-001a-4ac4-aa5b-f70aaa64f23a-truex-victory.jpg?crop=2928,1647,x308,y207&width=2928&height=1647&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-17T19:57:01Z",
+            "content": "LOUDON, N.H. Martin Truex Jr. mastered another Monday matinee to win at New Hampshire Motor Speedway for the first time in 30 career Cup tries at the same track where as a kid he watched from the gra\u2026 [+3468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AZCentral"
+            },
+            "author": "Laura Daniella Sepulveda, Fernando Cervantes Jr.",
+            "title": "Phoenix heat wave breaks two more records, likely to set more - The Arizona Republic",
+            "description": "The current heat wave has already been listed as one of the longest on record. Here are all the records Arizona's heat broke in just over a week.",
+            "url": "https://www.azcentral.com/story/news/local/phoenix-weather/2023/07/17/phoenix-breaks-two-more-heat-records/70420051007/",
+            "urlToImage": "https://www.azcentral.com/gcdn/presto/2023/07/17/PPHX/6f113d12-eeaf-43e8-95a9-83eeb4ee2023-uscp-7r2dftkgxdc1311ec6o_original.jpg?crop=2999,1687,x0,y105&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-17T19:43:53Z",
+            "content": "Phoenix broke two more heat records on Monday morning as warmer conditions continued into the start of the week and seemed unlikely to end anytime soon, according to the National Weather Service.\r\nTh\u2026 [+7531 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Taylor Lyles",
+            "title": "Xbox's Activision Blizzard Merger Looking Unlikely to Close Tomorrow Following CAT Hearing - IGN",
+            "description": "As the July 18 deadline draws near, it looks likely that Microsoft will need to have a temporary extension granted on its Activision Blizzard merger as the company continues ongoing negotiations with the CMA.",
+            "url": "https://www.ign.com/articles/xboxs-activision-blizzard-merger-looking-unlikely-to-close-tomorrow-following-cat-hearing",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/04/27/ezqvzqzxgg6okmrkvdpw-5h4hc0u3m2xahj-bs-h4sq-1682632834936.jpg?width=1280",
+            "publishedAt": "2023-07-17T19:36:25Z",
+            "content": "A judge for the UK's Competition Appeal Tribunal (CAT) has paused Microsoft's appeal against the Competition Markets Authority (CMA), allowing both parties more time to negotiate. \r\nDuring a hearing \u2026 [+1972 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": null,
+            "title": "Microsoft and a UK regulator have been granted more time to resolve Activision merger issues - Engadget",
+            "description": "Microsoft has been granted more time to resolve a UK regulator's concerns over its proposed $68.7 billion acquisition of Activision Blizzard.",
+            "url": "https://www.engadget.com/microsoft-and-a-uk-regulator-have-been-granted-more-time-to-resolve-activision-merger-issues-191354797.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/isxrYQnBkrjhpY72S4WGLA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/519478b0-21c6-11ee-bfcd-7409d88423e8.cf.jpg",
+            "publishedAt": "2023-07-17T19:14:51Z",
+            "content": "Microsoft\r\n and the UK's antitrust regulator have conditionally been granted a two-month pause on their legal battle as the company looks to resolve the Competition and Markets Authority's\r\n (CMA) co\u2026 [+3153 chars]"
         }
     ]
 }
