@@ -1,97 +1,110 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Olena Harmash",
-            "title": "Russia strikes Ukraine grain port after exiting export deal - Reuters",
-            "description": "Russia struck Ukrainian ports a day after pulling out of a U.N.-backed deal for safe Black Sea grain exports, and Moscow and Kyiv gave <a href=\"/world/europe/ukraine-says-complicated-situation-fighting-east-some-success-south-2023-07-18/\">vastly different acc\u2026",
-            "url": "https://www.reuters.com/world/europe/russia-strikes-ukraine-grain-port-after-pulling-out-export-deal-2023-07-18/",
-            "urlToImage": "https://www.reuters.com/resizer/L3JnvfQFVAt7zGf72Z4IAYfiqwU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2UORWZMK2VMRDBETX65KZAGKR4.jpg",
-            "publishedAt": "2023-07-18T21:51:00Z",
-            "content": "KYIV, July 18 (Reuters) - Russia struck Ukrainian ports a day after pulling out of a U.N.-backed deal for safe Black Sea grain exports, and Moscow and Kyiv gave vastly different accounts of fighting \u2026 [+4882 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "The Guardian"
             },
-            "author": "Chris Willman",
-            "title": "CMT Yanks Jason Aldean\u2019s Controversial \u2018Try That in a Small Town\u2019 Video, as Singer Hits Socials to Defend Divisive Song - Variety",
-            "description": "CMT has confirmed that, after initially airing Jason Aldean\u2019s highly controversial music video for \u201cTry That in a Small Town,\u201d the network pulled the contentious clip from the air\u2026",
-            "url": "https://variety.com/2023/music/news/cmt-pulls-jason-aldean-video-try-that-in-a-small-town-controversy-1235673418/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/07/Screenshot-2023-07-18-at-1.39.20-PM.png?w=1000&h=563&crop=1",
-            "publishedAt": "2023-07-18T20:42:00Z",
-            "content": "CMT has confirmed that, after initially airing Jason Aldean\u2019s highly controversial music video for \u201cTry That in a Small Town,\u201d the network pulled the contentious clip from the air on Monday, even bef\u2026 [+4262 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Aaron Katersky, Kevin Shalvey, Alex Stone, Josh Margolin",
-            "title": "Investigation into suspected Gilgo Beach killer expands to Las Vegas, South Carolina - ABC News",
-            "description": "Rex A. Heuermann, 59, has been charged with three murders.",
-            "url": "https://abcnews.go.com/US/200-firearms-found-gilgo-beach-murder-suspects-home/story?id=101397516",
-            "urlToImage": "https://s.abcnews.com/images/US/gilgo-beach-murd_hpMain_20230718-072647_16x9_992.jpg",
-            "publishedAt": "2023-07-18T20:37:30Z",
-            "content": "Investigations into the Gilgo Beach murder suspect have expanded beyond New York state in the days following his arrest in connection with the Long Island slayings.\r\nRex A. Heuermann, 59, a Manhattan\u2026 [+2798 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Kevin Breuninger",
-            "title": "Trump classified docs judge skeptical of push to delay trial past 2024 election - CNBC",
-            "description": "Judge Aileen Cannon, whom Trump appointed, also didn't appear sympathetic to the special counsel's desire to start the trial in December.",
-            "url": "https://www.cnbc.com/2023/07/18/trump-criminal-case-judge-hears-bid-to-delay-trial.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107273176-1689704071021-gettyimages-1553831204-jr024780_j9gvuv0e.jpeg?v=1689712016&w=1920&h=1080",
-            "publishedAt": "2023-07-18T20:26:56Z",
-            "content": "The judge presiding over Donald Trump's federal criminal case appeared skeptical Tuesday of the former president's argument that the trial over his handling of classified documents should be delayed \u2026 [+2908 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Joseph Choi",
-            "title": "J&J joins legal fight against Medicare drug price negotiation - The Hill",
-            "description": "U.S. pharmaceutical company Johnson & Johnson (J&J) announced Tuesday it is suing the Department of Health and Human Services (HHS) over Medicare Drug Price Negotiation Program, becoming the latest of several organizations challenging the provision establishe\u2026",
-            "url": "https://thehill.com/policy/healthcare/4103878-jj-joins-legal-fight-against-medicare-drug-price-negotiation/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/johnsonjohnson_071221_AP_RichardDrew.jpg?w=1280",
-            "publishedAt": "2023-07-18T20:13:00Z",
-            "content": "Skip to content\r\nU.S. pharmaceutical company Johnson &amp; Johnson (J&amp;J) announced Tuesday it is suing the Department of Health and Human Services (HHS) over Medicare Drug Price Negotiation Progr\u2026 [+2570 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Caitlin O'Kane",
-            "title": "Australian sailor speaks about being lost at sea with his dog for months: \"I didn't really think I'd make it\" - CBS News",
-            "description": "Timothy Shaddock, who was sailing from Mexico to French Polynesia with his dog, Bella, lost contact because his boat's electronics system was damaged.",
-            "url": "https://www.cbsnews.com/news/australian-sailor-lost-dog-rescued-timothy-shaddock-pacific-ocean/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/18/e70532eb-a696-4833-a093-605eaa53d6bb/thumbnail/1200x630g2/b8bc4eb2338b7062d6e42de49af25f2b/gettyimages-1541022553.jpg?v=ed1888effc334856324ceac60c145559",
-            "publishedAt": "2023-07-18T20:12:00Z",
-            "content": "An Australian sailor who was\u00a0lost at sea with his dog for nearly three months spoke about their ordeal during a news conference on Tuesday after being rescued recently in the Pacific Ocean.\u00a0\r\nTimothy\u2026 [+2528 chars]"
+            "author": "Ben Beaumont-Thomas",
+            "title": "\u2018There\u2019s nothing American about promoting violence\u2019: country star Jason Aldean criticised for anti-protest song - The Guardian",
+            "description": "Try That in a Small Town features lyrics threatening violence against protesters and has been removed from Country Music Television, but Aldean says it is a celebration of community",
+            "url": "https://www.theguardian.com/music/2023/jul/19/country-star-jason-aldean-try-that-in-a-small-town-song",
+            "urlToImage": "https://i.guim.co.uk/img/media/f7be2269b8a0e0c7757df79cd293a3d0c1049f61/0_507_3450_2069/master/3450.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f9a1dc0a51dfb83461ea857d8ff0f3a",
+            "publishedAt": "2023-07-19T10:06:00Z",
+            "content": "Jason Aldean, one of the biggest stars of US country music, has been widely criticised for a new song and video, Try That in a Small Town, which features threats of violence against police protesters\u2026 [+3029 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Chuck Mikolajczak",
-            "title": "Bank results lift stocks; Dow up for seventh straight session - Reuters",
-            "description": "U.S. stocks advanced on Tuesday, partly boosted by a round of solid bank earnings which helped put the Dow on track for its longest streak of daily gains in more than two years.",
-            "url": "https://www.reuters.com/markets/us/futures-muted-wall-st-awaits-more-big-bank-earnings-2023-07-18/",
-            "urlToImage": "https://www.reuters.com/resizer/e0F81O4CcbKlff-0qL6McCWk1tk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MZAWUV5BEVPHPDQDCMR3EK2UI4.jpg",
-            "publishedAt": "2023-07-18T20:01:00Z",
-            "content": "NEW YORK, July 18 (Reuters) - U.S. stocks advanced on Tuesday, partly boosted by a round of solid bank earnings which helped put the Dow on track for its longest streak of daily gains in more than tw\u2026 [+3472 chars]"
+            "author": "Reuters",
+            "title": "Fire at military base in Crimea forces evacuation of more than 2000 people - Reuters",
+            "description": "A fire that broke out at the military training grounds in the Kirovske district on the Crimean Peninsula has forced the evacuation of more than 2,000 people and a closure of nearby highway, the Moscow-backed governor of Crimea said on Wednesday.",
+            "url": "https://www.reuters.com/world/europe/fire-military-base-crimea-major-highway-closed-russia-backed-governor-2023-07-19/",
+            "urlToImage": "https://www.reuters.com/resizer/YsqW_dYrllYnTNci0pvF3KB3BWY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4G7RHESEIBIZLDZIXYN5HDHGKA.jpg",
+            "publishedAt": "2023-07-19T09:14:00Z",
+            "content": "July 19 (Reuters) - A fire that broke out at the military training grounds in the Kirovske district on the Crimean Peninsula has forced the evacuation of more than 2,000 people and a closure of nearb\u2026 [+1740 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "3 big rental sites will now show extra monthly charges beyond rent - NPR",
+            "description": "Surprise charges for things like paying rent online or removing trash can add up and make an apartment less affordable.  Advocates warn they can also put renters at risk for debt or even eviction.",
+            "url": "https://www.npr.org/2023/07/19/1188463263/apartment-hidden-junk-fees-rental-biden-housing",
+            "urlToImage": "https://media.npr.org/assets/img/2023/07/18/ap21041645257650_wide-c86749c4741f07c4c3f943bc4b22d281072f0e75-s1400-c100.jpg",
+            "publishedAt": "2023-07-19T09:01:57Z",
+            "content": "Some major rental search sites will show extra monthly \"junk fees\" that can surprise consumers and make a place less affordable.\r\nGerry Broome/AP\r\nThree major rental platforms will start showing extr\u2026 [+2850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Nicholas McEntyre",
+            "title": "Sailor who survived 2 months lost at sea with his dog speaks out: 'Really didn't think I'd make it' - New York Post ",
+            "description": "\u201cI feel a lot better than I was,\u201d Shaddock told reporters as he stepped off the boat at a port in Manzanilla, a city approximately 210 miles west of Mexico City.",
+            "url": "https://nypost.com/2023/07/19/australian-sailor-tim-shaddock-who-survived-2-months-adrift-in-pacific-with-amazing-dog-speaks-out/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/newspress-collage-ol3pvb1dy-1689745269528.jpg?quality=75&strip=all&1689731045&w=1024",
+            "publishedAt": "2023-07-19T07:08:00Z",
+            "content": "The Australian man who spent over two months lost at sea with his dog when his storm-damaged boat drifted over 1,000 miles from shore spoke out as he set foot on land for the first time on Tuesday.\r\n\u2026 [+4446 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "HANNA ARHIROVA",
+            "title": "Russia launches intense nighttime attacks across Ukraine, targeting the southern port city of Odesa - The Associated Press",
+            "description": "Ukrainian officials say Russia has launched an intense series of nighttime air attacks using drones and missiles against targets across Ukraine. The head of Kyiv's military administration said on Wednesday the southern port city of Odesa was targeted with esp\u2026",
+            "url": "https://apnews.com/article/russia-ukraine-war-odesa-crimea-1676e6e746c888c8c8c1f0e4493be6fa",
+            "urlToImage": "https://dims.apnews.com/dims4/default/1bcd202/2147483647/strip/true/crop/5103x2870+0+109/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc0%2F88%2Ffcd7dc1a75c3a3ed18d5fb25793e%2Faadbf78c79304112991a26abdd5a9ee3",
+            "publishedAt": "2023-07-19T06:31:00Z",
+            "content": "KYIV, Ukraine (AP) Missiles and drones launched by Russia in an intense series of nation-wide nightime air attacks have damaged critical port infrastructure in southern Ukraine, including grain and o\u2026 [+4731 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Westbrook",
+            "title": "Stocks mixed, sterling weighed as UK inflation slows - Reuters.com",
+            "description": "Stock markets were mixed on Wednesday with growth concerns dragging down China while elsewhere futures rose after British inflation came in surprisingly soft for once and U.S. data stoked hopes the world's biggest economy can avoid recession.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-07-19/",
+            "urlToImage": "https://www.reuters.com/resizer/W7l0tqWhZLi4WnrBZ106N9nbl-k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GITAKD37GBNXDI6725B3GOPGW4.jpg",
+            "publishedAt": "2023-07-19T06:02:46Z",
+            "content": "SYDNEY, July 19 (Reuters) - Stock markets were mixed on Wednesday with growth concerns dragging down China while elsewhere futures rose after British inflation came in surprisingly soft for once and \u2026 [+3367 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Jeff Carlisle",
+            "title": "Girma, Smith to dedicate WC to late Stanford teammate Meyer - ESPN - ESPN",
+            "description": "United States women's national soccer team members and ex-Stanford players Naomi Girma and Sophia Smith said they will use the World Cup platform to promote mental health initiatives to honor their former college teammate Katie Meyer.",
+            "url": "https://www.espn.com/soccer/story/_/id/38032813/uswnt-naomi-girma-sophia-smith-honor-late-stanford-teammate-katie-meyer-world-cup",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0719%2Fr1199469_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-07-19T06:02:00Z",
+            "content": "AUCKLAND, New Zealand -- United States women's national soccer team forward Sophia Smith said that everything she and defender Naomi Girma will do at this World Cup will be in memory of former Stanfo\u2026 [+2625 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX aborts Starlink satellite launch with 5 seconds left in countdown - Space.com",
+            "description": "It was the second abort for SpaceX in less than a week.",
+            "url": "https://www.space.com/spacex-starlink-launch-abort-july-19-2023",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/96VTPi9GRumTP6LazAUCTi-1200-80.jpeg",
+            "publishedAt": "2023-07-19T05:51:56Z",
+            "content": "SpaceX just aborted a rocket launch for the second time in less than a week.\r\nOne of the company's Falcon 9 rockets was scheduled to launch 15 Starlink internet satellites from California's foggy Van\u2026 [+1805 chars]"
         },
         {
             "source": {
@@ -99,168 +112,155 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "2023 British Open odds to win, picks: Tony Finau, Bryson DeChambeau among five sleepers at Royal Liverpool - CBS Sports",
-            "description": "Could another triple-digit longshot raise the Claret Jug?",
-            "url": "https://www.cbssports.com/golf/news/2023-british-open-odds-to-win-picks-tony-finau-bryson-dechambeau-among-five-sleepers-at-royal-liverpool/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/18/1d37d53d-3ab7-4503-9d94-6d03b9455fdf/thumbnail/1200x675/9e6fb089059abd11b91e4091d0c114d0/bryson-dechambeau-open-2023-p-g.png",
-            "publishedAt": "2023-07-18T19:40:00Z",
-            "content": "Of the last 12 Champion Golfers of the Year, six entered the week of The Open Championship with odds of 40-1 or higher. Unlike the three prior majors where there is a shade of redundancy, The Open's \u2026 [+1586 chars]"
+            "title": "2023 British Open picks, odds: Expert predictions, favorites to win from betting field at Royal Liverpool - CBS Sports",
+            "description": "Who will win the 151st Open? Our experts dive into all the twists and turns of the year's final major",
+            "url": "https://www.cbssports.com/golf/news/2023-british-open-picks-odds-expert-predictions-favorites-to-win-from-betting-field-at-royal-liverpool/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/18/b560ae82-9233-4923-84d7-2a2c7da1282a/thumbnail/1200x675/6e0aba8ba5a70ece8c99415e2df9a83b/rory-mcilroy-thumb-open-2023-p-g.png",
+            "publishedAt": "2023-07-19T05:29:00Z",
+            "content": "A sterling season of professional golf reaches its conclusion -- at least as the four majors are concerned -- this weekend at the 151st Open Championship. With Royal Liverpool hosting for the first t\u2026 [+11387 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Grace Hauck, Kayla Jimenez",
-            "title": "As excessive heat warnings blanket the US: How are Americans coping? - USA TODAY",
-            "description": "About 80 million people in the U.S., nearly a quarter of the population, may encounter extreme heat this week.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/07/18/extreme-heat-waves-how-people-cope/70420773007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/27/NAAS/1d8ea396-8143-4d99-97f9-94566f21e30f-Triple_heat_RBB_022696.jpg?crop=1999,1125,x0,y78&width=1999&height=1125&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-18T19:34:10Z",
-            "content": "Taking shelter in cooling centers. Flocking to community pools. Cooking breakfast on the pavement. Chilling in a walk-in refrigerator.\r\nAmericans across a broad part of the country are coping with a \u2026 [+8430 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Suntimes.com"
-            },
-            "author": "Matthew Hendrickson",
-            "title": "Illinois set to be first state to end cash bail after state Supreme Court ruling - Chicago Sun-Times",
-            "description": "Landmark criminal justice reform isn\u2019t unconstitutional, should take effect in September, justices rule Tuesday.",
-            "url": "https://chicago.suntimes.com/politics/2023/7/18/23759583/safe-t-act-bail-illinois-court-decision-reform",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/72336bd/2147483647/strip/true/crop/6122x3495+0+295/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FrlliaMlQx9p6bpegkNhKclgkPM4%3D%2F0x0%3A6122x4083%2F6122x4083%2Ffilters%3Afocal%283061x2042%3A3062x2043%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24775702%2FLEIGHTON_13.JPG",
-            "publishedAt": "2023-07-18T19:12:00Z",
-            "content": "Illinois is set to become the first state in the nation to eliminate cash bail after the state Supreme Court ruled Tuesday that a landmark criminal justice reform law did not violate the states const\u2026 [+9243 chars]"
+            "author": "Graeme Massie",
+            "title": "Las Vegas police search home in connection with historic murder of Tupac Shakur - The Independent",
+            "description": "Follow the latest news in the probe into the killing of rapper Tupac \u20182Pac\u2019 Shakur as Vegas police issue a search warrant",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/tupac-shakur-murder-investigation-killer-latest-b2377837.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/02/01/11/screen-shot-2020-02-01-at-11.57.51.png?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-07-19T05:17:36Z",
+            "content": "Who was Orlando Anderson?\r\nLas Vegas police have previously investigated reputed gang member, Orlando Anderson, for the shooting, according to The Los Angeles Times.\r\nAnderson was shot and killed in \u2026 [+372 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "Fox Business"
             },
-            "author": "Sean Piccoli",
-            "title": "Dispatches From The Picket Lines: Hear From Kevin Bacon, Kyra Sedgwick, Kal Penn, Others As Actors & Writers Hit The Streets Of Manhattan - Deadline",
-            "description": "It\u2019s Day 5 of the SAG-AFTRA strike and Day 79 of the WGA strike.\u00a0 Writers and actors on strike simultaneously for the first time in more than 60 years fanned out across Manhattan on Tuesday m\u2026",
-            "url": "https://deadline.com/2023/07/actors-strike-kevin-bacon-kyra-sedgwick-kal-penn-new-york-city-1235440702/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/07/dispatchers-1.jpg?w=1024",
-            "publishedAt": "2023-07-18T18:54:00Z",
-            "content": "It\u2019s Day 5 of the SAG-AFTRA strike and Day 79 of the WGA strike.\u00a0\r\nWriters and actors on strike simultaneously for the first time in more than 60 years fanned out across Manhattan on Tuesday morning \u2026 [+2403 chars]"
+            "author": "Sarah Rumpf-Whitten",
+            "title": "Mega Millions jackpot reaches a whopping $720 million - Fox Business",
+            "description": "The Mega Millions top prize has grown again to an estimated $720 million as the game continues with no winner since April.",
+            "url": "https://www.foxbusiness.com/markets/mega-millions-jackpot-climbs-640-million-seventh-largest",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/07/0/0/Mega-Millions-Jackpot-Ticket-2.jpg?ve=1&tl=1",
+            "publishedAt": "2023-07-19T05:15:05Z",
+            "content": "The Mega Millions' jackpot is now at $720 million after there were no winners in the Tuesday night drawing.\u00a0\r\nThe prize is the fifth-largest in game history, according to Mega Millions, with an estim\u2026 [+1886 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KLAS - 8 News Now"
+                "name": "New York Post"
             },
-            "author": "David Charns",
-            "title": "Las Vegas police search home in connection with Tupac Shakur murder - KLAS - 8 News Now",
-            "description": "Las Vegas Metro police searched a home Monday as part of its ongoing investigation into the death of Tupac Shakur, police confirmed to the 8 News Now Investigators.",
-            "url": "https://www.8newsnow.com/investigators/las-vegas-police-search-home-in-connection-with-tupac-shakur-murder/",
-            "urlToImage": "https://www.8newsnow.com/wp-content/uploads/sites/59/2016/09/Tupac-Shakur-in-Poetic-Justice-jpg_5068417_ver1.0.jpg?w=1280",
-            "publishedAt": "2023-07-18T18:52:52Z",
-            "content": "LAS VEGAS (KLAS) \u2014 Las Vegas Metro police searched a home Monday as part of its ongoing investigation into the death of Tupac Shakur, police confirmed to the 8 News Now Investigators.\r\nShakur was sho\u2026 [+862 chars]"
+            "author": "Allie Griffin",
+            "title": "Mom of US soldier Travis King who defected to North Korea can't imagine son 'doing anything like that' - New York Post ",
+            "description": "The 23-year-old Army private, Travis King, was stationed in South Korea and was on a tour of the demilitarized zone between the two countries Tuesday when he strayed from the group and ran across t\u2026",
+            "url": "https://nypost.com/2023/07/19/mom-of-us-soldier-travis-king-who-defected-to-north-korea-cant-imagine-son-doing-anything-like-that/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/Untitled-1-27.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-07-19T04:57:00Z",
+            "content": "The mother of the US soldier who has been detained in North Korea after crossing into the country without authorization said the risky behavior was unlike her son. \r\nThe 23-year-old Army private, Tra\u2026 [+1641 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Athletic"
+                "name": "Rolling Stone"
             },
-            "author": "Seth Emerson",
-            "title": "Smoke Bouie no longer on Georgia football roster; Kirby Smart provides key injury updates - The Athletic",
-            "description": "Bouie, a transfer from Texas A&M, is no longer on the Georgia football team, Kirby Smart said Tuesday at SEC media days.",
-            "url": "https://theathletic.com/4699774/2023/07/18/smoke-bouie-georgia-football-kirby-smart/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/07/18101232/GettyImages-1243104814-scaled.jpg",
-            "publishedAt": "2023-07-18T18:51:09Z",
-            "content": "NASHVILLE, Tenn. Defensive back Deyon Smoke Bouie, who transferred from Texas A&amp;M to Georgia after last season, is no longer with the Bulldogs, head coach Kirby Smart said Tuesday. That was among\u2026 [+3735 chars]"
+            "author": "Kalia Richardson",
+            "title": "The Actors\u2019 Strike Won\u2019t Stop These Films and TV Shows From Shooting - Rolling Stone",
+            "description": "Some SAG-AFTRA members are receiving interim agreements that allow them to continue working on projects through the strike",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/actors-strike-films-tv-shows-continue-shooting-sag-aftra-1234791242/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/07/GettyImages-1265157643.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2023-07-19T04:07:15Z",
+            "content": "As the Screen Actors Guild \u2013 American Federation of Television and Radio Artists (SAG-AFTRA) announced a strike last week, joining the Writers Guild of America\u2019s monthslong efforts to cease productio\u2026 [+3541 chars]"
         },
         {
             "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Joseph Cotterill",
-            "title": "Russia threatened to 'declare war' over enforcing Putin arrest warrant - Financial Times",
-            "description": "South Africa president in dilemma over summit invite in face of ICC war crimes indictment",
-            "url": "https://www.ft.com/content/1c8a6b2d-a190-46ec-90ad-fa3410998ae1",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97e87265-26eb-442d-9b40-c224a62005dc.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-07-18T18:30:30Z",
-            "content": "South Africa has claimed it cannot arrest Vladimir Putin at a planned Brics summit in Johannesburg next month because Russia has threatened to declare war if the International Criminal Court warrant \u2026 [+2462 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Judith Graham",
-            "title": "What seniors should know before trying Ozempic, new weight-loss drugs - The Washington Post",
-            "description": "Obesity affects more than 4 in 10 people 60 and older, but experts advise caution for seniors considering new weight-loss medications.",
-            "url": "https://www.washingtonpost.com/wellness/2023/07/18/aging-weight-loss-semaglutide/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HU4UV63PQSF7KS6OQILH4IF6KA.jpg&w=1440",
-            "publishedAt": "2023-07-18T18:24:31Z",
-            "content": "Comment on this story\r\nComment\r\nCorlee Morris has dieted throughout her adult life.\r\nHer weight began climbing in high school, and she spent years losing dozens of pounds, then gaining them back. Mor\u2026 [+7883 chars]"
+            "author": "Deidre McPhillips",
+            "title": "Most overdose deaths involving cocaine or psychostimulants also involve opioids, according to CDC data - CNN",
+            "description": "Drug overdose deaths involving cocaine and psychostimulants such as methamphetamine have been rising quickly in the United States in recent years, and a new report from the US Centers for Disease Control and Prevention shows that opioids are also involved in \u2026",
+            "url": "https://www.cnn.com/2023/07/19/health/overdose-deaths-cocaine-meth-opioids-cdc-report/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230718123828-fentanyl-test-strips.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-19T04:01:00Z",
+            "content": "Drug overdose deaths involving cocaine and psychostimulants such as methamphetamine have been rising quickly in the United States in recent years, and a new report from the US Centers for Disease Con\u2026 [+3938 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Max Reyes and Bre Bradham",
-            "title": "Western Alliance Earnings Give Shot at Winning Back Wary Market - Yahoo Finance",
-            "description": "(Bloomberg) -- Western Alliance Bancorp spent much of this year ensnared in turmoil sparked by a series of regional bank collapses that spooked its investors...",
-            "url": "https://finance.yahoo.com/news/western-alliance-results-key-winning-140219694.html",
-            "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/3ae818e1c885493dcb55d49ff782f68f",
-            "publishedAt": "2023-07-18T18:22:43Z",
-            "content": "(Bloomberg) -- Western Alliance Bancorp spent much of this year ensnared in turmoil sparked by a series of regional bank collapses that spooked its investors and attracted short sellers.\r\nMost Read f\u2026 [+3359 chars]"
+            "author": "SETH BORENSTEIN and ANITA SNOW",
+            "title": "Phoenix scorches at 110 for 19th straight day, breaking big US city records in global heat wave - Yahoo News",
+            "description": "A dangerous 19th straight day of scorching heat in Phoenix set a record for U.S. cities Tuesday, confined many residents to air-conditioned safety and turned...",
+            "url": "https://news.yahoo.com/phoenixs-long-simmering-heat-poised-005540315.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0v._bxIzbxIcm6pOxfbYqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/6484138e52e26730db34dbe540d95656",
+            "publishedAt": "2023-07-19T02:54:00Z",
+            "content": "PHOENIX (AP) A dangerous 19th straight day of scorching heat in Phoenix set a record for U.S. cities Tuesday, confined many residents to air-conditioned safety and turned the usually vibrant metropol\u2026 [+6409 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WKMG News 6 & ClickOrlando"
+                "name": "WIAT - CBS42.com"
             },
-            "author": "Christie Zizo",
-            "title": "These Central Florida housing markets are among the most overpriced in the US - WKMG News 6 & ClickOrlando",
-            "description": "Eight Florida housing markets are among the most overpriced in the country, according to a new report, and three Central Florida markets are in the top 15.",
-            "url": "https://www.clickorlando.com/news/local/2023/07/18/these-central-florida-housing-markets-are-among-the-most-overpriced-in-the-us/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/MVECWHUIONGCHI6OCYH23NEKWE.png?_a=ATAPphC0",
-            "publishedAt": "2023-07-18T18:06:12Z",
-            "content": "ORLANDO, Fla. Eight Florida housing markets are among the most overpriced in the country, according to a new report, and three Central Florida markets are in the top 15.\r\nThe Atlanta, Detroit and Tam\u2026 [+4238 chars]"
+            "author": "Monica Nakashima",
+            "title": "Hoover Police Department releases additional information on Carlee Russell investigation - WIAT - CBS42.com",
+            "description": "BIRMINGHAM, Ala.\u00a0(WIAT)\u00a0\u2014 Hoover Police Department released additional information Tuesday night regarding their investigation into Carlee Russell\u2019s disappearance. Read the full news release down below: The investigation into the Carlee Russell case continues\u2026",
+            "url": "https://www.cbs42.com/alabama-news/hoover-police-department-releases-additional-information-on-carlee-russell-investigation/",
+            "urlToImage": "https://www.cbs42.com/wp-content/uploads/sites/81/2023/07/Carlee-Russell-2.jpg?w=1280",
+            "publishedAt": "2023-07-19T02:25:34Z",
+            "content": "BIRMINGHAM, Ala.\u00a0(WIAT)\u00a0 Hoover Police Department released additional information Tuesday night regarding their investigation into Carlee Russell\u2019s disappearance. The investigation into the Carlee Ru\u2026 [+2758 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Gabe Hauari, Erin Jensen",
-            "title": "'Justified: City Primeval': Cast, release date, where to watch new 'Justified' series - USA TODAY",
-            "description": "Timothy Olyphant returns as Raylan Givens in \"Justified: City Primeval.\" Here's what you need to know about the show.",
-            "url": "https://www.usatoday.com/story/entertainment/books/2023/07/18/justified-city-primeval-cast-streaming-where-to-watch/70423424007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/18/USAT/64d2025e-2b9b-4b00-950c-9c558a37833d-JCP_101_JD_0258R_copy.JPG?crop=5019,2824,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-18T17:58:19Z",
-            "content": "Raylan Givens is back.\r\nFX is bringing back \"Justified,\" which wrapped its sixth season in 2015, with an eight-part revival titled \"Justified: City Primeval.\"\r\nThe new installment, set in Detroit,\u00a0ch\u2026 [+2415 chars]"
+            "author": "Aliza Chasan",
+            "title": "Fossil shows mammal, dinosaur \"locked in mortal combat\" - CBS News",
+            "description": "A first-of-its-kind fossil find in China suggests some early mammals may have hunted dinosaurs.",
+            "url": "https://www.cbsnews.com/news/dinosaur-mammal-fossil-mortal-combat-repenomamus-robustus-psittacosaurus/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/19/c0dd3316-d702-4fc6-88f7-4e138214986d/thumbnail/1200x630/984f2dc81e6f04df7279693be3358da7/rare-fossil1-2048x1365.jpg?v=ed1888effc334856324ceac60c145559",
+            "publishedAt": "2023-07-19T01:11:53Z",
+            "content": "A first-of-its-kind fossil of a mammal and a dinosaur from around 125 million years ago \"locked in mortal combat\" challenges the idea that dinosaurs ruled the land, researchers wrote in a study publi\u2026 [+2257 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "Rottentomatoes.com"
             },
-            "author": "Paul Tassi",
-            "title": "\u2018Diablo 4\u2019 Season 1 v1.1 Patch Notes, All The Class Nerfs And Buffs - Forbes",
-            "description": "Here are the Barbarian, Druid, Necromancer, Rogue and Sorcerer nerfs and buffs in Diablo 4's new patch ahead of Season of the Malignant.",
-            "url": "https://www.forbes.com/sites/paultassi/2023/07/18/diablo-4-season-1-v11-patch-notes-all-the-class-nerfs-and-buffs/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64b6ce0182e9dab2045b79a4/0x0.jpg?format=jpg&width=1200",
-            "publishedAt": "2023-07-18T17:42:48Z",
-            "content": "Diablo 4\r\nBlizzard\r\nThe Diablo 4 patch notes for Season of the Malignant have arrived, and they are insanely long. My job here today is going to be to try to summarize the highlights for you here in \u2026 [+15544 chars]"
+            "author": "Christopher Campbell",
+            "title": "Barbie First Reviews: Hysterically Funny, Perfectly Cast, and Affectionately Crafted - Rotten Tomatoes",
+            "description": "Critics say Greta Gerwig's send-up of the iconic doll is a thoughtfully self-aware, laugh-out-loud comedy that benefits from a flawless Margot Robbie and a scene-stealing Ryan Gosling.",
+            "url": "https://editorial.rottentomatoes.com/article/barbie-first-reviews-hysterically-funny-perfectly-cast-and-affectionately-crafted/",
+            "urlToImage": "https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/07/18145242/Barbie_First_Reviews-Rep.jpg",
+            "publishedAt": "2023-07-19T00:41:06Z",
+            "content": null
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "247Sports"
             },
-            "author": "Francisco Guzman",
-            "title": "Carlee Russell: Timeline leading up to missing Alabama woman's return - USA TODAY",
-            "description": "As police continue to investigate Alabama missing woman Carlee Russell's return home, a timeline of events gives a closer look at the investigation.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/07/18/carlee-russell-update-timeline-alabama/70424508007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/17/USAT/8f9be1cd-4388-4fed-b83e-01180af329a3-VPC_CARLEE_RUSSELL_FOUND_hoover_police_dept_stringerhub_ap_1.jpg?crop=1911,1075,x0,y0&width=1911&height=1075&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-18T17:23:05Z",
-            "content": "As police continue to investigate the return of a 25-year-old Alabama woman who was reported missing over the weekend, a timeline of events gives a closer look at the investigation.\r\nCarlethia \"Carle\u2026 [+4243 chars]"
+            "author": "Benjamin Wolk",
+            "title": "'Better never rests': What winningest team in sports taught Georgia's football program - 247Sports",
+            "description": "Georgia spends its offseason studying another team to see what it can draw. Creatively this offseason, Smart's team did a deep dive",
+            "url": "https://247sports.com/college/georgia/article/better-never-rests-what-winningest-team-in-sports-taught-georgias-football-program-212948999/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/876/858/11858876.jpg",
+            "publishedAt": "2023-07-19T00:06:15Z",
+            "content": "NASHVILLE \u2014\u00a0Better never rests.\r\nThat's the\u00a0tagline you'll see spread far and wide from Georgia's SEC media days session. Every offseason, Georgia coach Kirby Smart has two key items on his checklist\u2026 [+4145 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "Michigan AG charges 16 \u2018false electors\u2019 for Donald Trump in 2020 presidential election - Fox News",
+            "description": "Michigan's attorney general has charged 16 Republicans, including top officials from the party's state chapter, with acting as fake elections for Donald Trump in the 2020 election.",
+            "url": "https://www.foxnews.com/politics/michigan-ag-charges-16-false-electors-donald-trump-2020-presidential-election",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Michigan-AG.jpg",
+            "publishedAt": "2023-07-19T00:00:00Z",
+            "content": "Michigans attorney general has filed felony charges against 16 Republicans including the head of the partys state chapter with acting as \"false electors\" for then-President Donald Trump in the 2020 e\u2026 [+2058 chars]"
         }
     ]
 }
