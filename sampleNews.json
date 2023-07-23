@@ -4,211 +4,68 @@
     "articles": [
         {
             "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Martin Rogers",
+            "title": "Lionel Messi to come off bench in MLS debut for Inter Miami - FOX Sports",
+            "description": "Lionel Messi's highly-anticipated first action for Inter Miami will see the Argentinian superstar start on the bench. Also starting on the bench is fellow new arrival Sergio Busquets.",
+            "url": "https://www.foxsports.com/stories/soccer/lionel-messi-mls-debut-for-inter-miami",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/06/1408/814/3a118568-messi1.jpg?ve=1&tl=1",
+            "publishedAt": "2023-07-21T23:32:17Z",
+            "content": "FORT LAUDERDALE, Fla. Lionel Messi's highly-anticipated first action for Inter Miami will see the Argentinian superstar start on the bench.\r\nMessi arrived for his new team's clash against Mexico's Cr\u2026 [+1863 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Diane Bartz, Krystal Hu",
+            "title": "OpenAI, Google, others pledge to watermark AI content for safety, White House says - Reuters.com",
+            "description": "AI companies including OpenAI, Alphabet <a href=\"https://www.reuters.com/markets/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> and Meta Platforms <a href=\"https://www.reuters.com/markets/companies/META.O\" target=\"_blank\">(META.O)</a> have made voluntary co\u2026",
+            "url": "https://www.reuters.com/technology/openai-google-others-pledge-watermark-ai-content-safety-white-house-2023-07-21/",
+            "urlToImage": "https://www.reuters.com/resizer/Y3k9prKUXdZgZCdGzl226f4Qc_k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G75MZMDHVZLVNGHR7OCHELO6FU.jpg",
+            "publishedAt": "2023-07-21T23:25:42Z",
+            "content": "WASHINGTON/NEW YORK, July 21 (Reuters) - AI companies including OpenAI, Alphabet (GOOGL.O) and Meta Platforms (META.O) have made voluntary commitments to the White House to implement measures such as\u2026 [+4562 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Doc Louallen",
+            "title": "2-year-old in Nevada dies from rare brain-eating amoeba, Naegleria fowleri - USA TODAY",
+            "description": "A toddler from Nevada died from a rare infection called Naegleria fowleri, known as the brain-eating amoeba. How rare it is and how it's contracted.",
+            "url": "https://www.usatoday.com/story/news/health/2023/07/21/nevada-toddler-dies-naegleria-fowleri-brain-eating-amoeba/70448284007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/media/2020/03/06/USATODAY/usatsports/biotech-gettyimages-637229530.jpg?crop=2121,1193,x0,y110&width=2121&height=1193&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-21T23:23:49Z",
+            "content": "A Las Vegas toddler passed away from a rare brain-eating amoeba called Naegleria fowleri, The Nevada Division of Public and Behavioral Health (DPBH) said in a statement.\r\nWoodrow Bundy, 2, died Wedne\u2026 [+4199 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Ryan Young",
-            "title": "British Open: Follow Tommy Fleetwood, Max Homa, Brooks Koepka and more Friday at Royal Liverpool - Yahoo Sports",
-            "description": "Keep up with Friday's action at the British Open with Yahoo Sports.",
-            "url": "https://sports.yahoo.com/british-open-follow-tommy-fleetwood-max-homa-brooks-koepka-and-more-friday-at-royal-liverpool-043001710.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IbVXIJ9uLsqj7SuzZWdUrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/d37940e0-2775-11ee-b7fb-9d7ef2be0a45",
-            "publishedAt": "2023-07-21T10:18:29Z",
-            "content": "Let's run it back.\r\nThe British Open resumes on Friday morning from Royal Liverpool Golf Club, and Englishman Tommy Fleetwood holds a share of the lead at 5-under par. Fleetwood has yet to win on the\u2026 [+1308 chars]"
+            "author": "EDITH M. LEDERER",
+            "title": "Russia comes under pressure at UN to avoid global food crisis and revive Ukrainian grain shipments - Yahoo News",
+            "description": "Russia came under pressure at the U.N. Security Council on Friday from its ally China and developing countries as well as Western nations to avert a global...",
+            "url": "https://news.yahoo.com/russia-comes-under-pressure-un-200607277.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aLlszlhitmq7uFRf9MDU4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/7b2fcc9f23e81f23ffca77ea5eb0312b",
+            "publishedAt": "2023-07-21T22:51:34Z",
+            "content": "UNITED NATIONS (AP) Russia came under pressure at the U.N. Security Council on Friday from its ally China and developing countries as well as Western nations to avert a global food crisis and quickly\u2026 [+5483 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
-            },
-            "author": "Alex Harring",
-            "title": "Stock futures are higher after Dow registers longest winning streak since 2017: Live updates - CNBC",
-            "description": "Wall Street is coming off a mixed session.",
-            "url": "https://www.cnbc.com/2023/07/20/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107265018-1688068082545-NYSE-Traders-20230629-CC-PRESS-23.jpg?v=1689890521&w=1920&h=1080",
-            "publishedAt": "2023-07-21T09:40:00Z",
-            "content": "Stock futures were higher Friday as traders assessed the latest corporate earnings results, and the Dow Jones Industrial Average tried to stretch its winning streak to 10 sessions.\r\nFutures tied to t\u2026 [+1230 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Elizabeth Pritchett",
-            "title": "Alabama executes James Barber by lethal injection for 'heinous, atrocious and cruel' murder of Dorothy Epps - Fox News",
-            "description": "Alabama inmate James Barber, 64, was put to death by lethal injection in the early morning hours of July 21 for the 2001 murder of 75-year-old Dorothy Epps at her home in Harvest.",
-            "url": "https://www.foxnews.com/us/alabama-executes-james-barber-lethal-injection-heinous-atrocious-cruel-murder-dorothy-epps",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/James-Barber-Alabama-inmate-executed.jpg",
-            "publishedAt": "2023-07-21T09:31:00Z",
-            "content": "Alabama executed James Barber Friday morning for the brutal beating death of an elderly woman 22 years ago, marking the state's first lethal injection death following a monthslong halt to review proc\u2026 [+3109 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Zelenskiy sacks Ukraine's ambassador to UK after criticism - Reuters.com",
-            "description": "President Volodymyr Zelenskiy dismissed Vadym Prystaiko as Ukraine's ambassador to Britain on Friday, days after the envoy publicly criticised the president.",
-            "url": "https://www.reuters.com/world/europe/zelenskiy-dismisses-ukraines-ambassador-britain-2023-07-21/",
-            "urlToImage": "https://www.reuters.com/resizer/K_sxN2wWVhdZTIn5KBYtZeBd3Xw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KLWBKHVH5VMVHASKJV3FMBULZY.jpg",
-            "publishedAt": "2023-07-21T09:05:00Z",
-            "content": "KYIV, July 21 (Reuters) - President Volodymyr Zelenskiy dismissed Vadym Prystaiko as Ukraine's ambassador to Britain on Friday, days after the envoy publicly criticised the president.\r\nA presidential\u2026 [+1327 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lauren Feiner",
-            "title": "White House secures voluntary pledges from Microsoft, Google to ensure A.I. tools are secure - CNBC",
-            "description": "Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI each agreed Friday to a set of voluntary commitments in developing the technology.",
-            "url": "https://www.cnbc.com/2023/07/21/white-house-secures-voluntary-pledges-from-microsoft-google-on-ai.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107260015-1687350527308-gettyimages-1500220073-sjm-l-biden-0620-9.jpeg?v=1689930001&w=1920&h=1080",
-            "publishedAt": "2023-07-21T09:00:01Z",
-            "content": "Seven top artificial intelligence companies, including Google, Microsoft and OpenAI, will convene at the White House on Friday, pledging to create ways for consumers to identify AI-generated material\u2026 [+2870 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Russian navy rehearses firing rockets at ships in Black Sea after warning to Ukraine - Reuters.com",
-            "description": "Russia's Defence Ministry said on Friday that its Black Sea Fleet had practised firing rockets at surface targets in a live fire exercise, two days after it warned that ships heading to Ukraine's Black Sea ports could be considered military targets.",
-            "url": "https://www.reuters.com/world/europe/russian-navy-rehearses-firing-rockets-surface-objects-black-sea-after-warning-2023-07-21/",
-            "urlToImage": "https://www.reuters.com/resizer/HO2YmW0txrbaCaSj-Sa-_elblfI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2HA22ZJNS5JBVGJKLRDNBGYHTM.jpg",
-            "publishedAt": "2023-07-21T08:46:00Z",
-            "content": "MOSCOW, July 21 (Reuters) - Russia's Defence Ministry said on Friday that its Black Sea Fleet had practised firing rockets at surface targets in a live fire exercise, two days after it warned that sh\u2026 [+1179 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Kelsey Ables, Ellen Francis",
-            "title": "Russia-Ukraine war news: Strikes hit Odessa; U.S. says Kyiv using cluster munitions \u2018effectively - The Washington Post",
-            "description": "The Russian navy held a live firing exercise in the Black Sea. NSC spokesman John Kirby said the cluster munitions impacting \u201cRussia\u2019s defensive formations.\"",
-            "url": "https://www.washingtonpost.com/world/2023/07/21/russia-ukraine-war-news/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y2C52GD7YH2PZDP363Y7BNOAPY.JPG&w=1440",
-            "publishedAt": "2023-07-21T08:23:00Z",
-            "content": "Russia struck Odessa early Friday in the fourth day of pounding the Ukrainian port region, the governor said. The attack on an agricultural facility there injured two employees and destroyed tons of \u2026 [+4583 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Max Goldbart",
-            "title": "\u201cWe Are Not Going To Have The UK Used As A Backdoor To Undermine SAG,\u201d Says British Equity Boss On Eve Of London Rally - Deadline",
-            "description": "EXCLUSIVE: \u201cWe are not going to have the UK used as a backdoor to undermine SAG-AFTRA\u2019s dispute,\u201d the leader of UK actors union Equity has declared. Speaking exclusively to Deadli\u2026",
-            "url": "https://deadline.com/2023/07/sag-aftra-actors-strike-equity-boss-uk-undermine-dispute-1235442886/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1243657965.jpg?w=1024",
-            "publishedAt": "2023-07-21T08:04:00Z",
-            "content": "EXCLUSIVE: \u201cWe are not going to have the UK used as a backdoor to undermine SAG-AFTRA\u2019s dispute,\u201d the leader of UK actors union Equity has declared. \r\nSpeaking exclusively to Deadline prior to Equity\u2026 [+3858 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Muslim-majority nations express outrage and plan street protests over Quran desecration in Sweden - The Associated Press",
-            "description": "Muslim-majority nations are expressing outrage over the desecration of a copy of the Quran in Sweden. Some prepared for street demonstrations following Friday prayers to show their anger. In Iran, Iraq and Lebanon, protesters planned demonstrations after Swed\u2026",
-            "url": "https://apnews.com/article/iraq-iran-sweden-quran-protests-bb61c10405423266b18c1073d5ce97f0",
-            "urlToImage": "https://dims.apnews.com/dims4/default/56ea3b3/2147483647/strip/true/crop/4739x2666+0+206/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F02%2F8d942114b88abbd09d06c9a8fb26%2Fa4ed2dd9f14a4ae6b91069f96071a445",
-            "publishedAt": "2023-07-21T07:33:00Z",
-            "content": "BAGHDAD (AP) Muslim-majority nations expressed outrage Friday at the desecration of a copy of the Quran in Sweden. Some prepared for street demonstrations following midday prayers to show their anger\u2026 [+5768 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Rob Picheta",
-            "title": "Rishi Sunak suffers two election losses as British voters reject ailing Conservative government - CNN",
-            "description": "Britain\u2019s beleaguered Prime Minister Rishi Sunak suffered a damaging political blow on Friday as voters rejected his party in two parliamentary elections it could ordinarily have expected to win.",
-            "url": "https://www.cnn.com/2023/07/20/uk/uk-byelections-rishi-sunak-boris-johnson-intl-gbr/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230328073155-rishi-sunak-030823.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-21T07:30:00Z",
-            "content": "Britains beleaguered Prime Minister Rishi Sunak suffered a damaging political blow on Friday as voters rejected his party in two parliamentary elections it could ordinarily have expected to win.\r\nThe\u2026 [+3745 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "HEATHER HOLLINGSWORTH",
-            "title": "Attention turns to Mega Millions after California store sells winning Powerball ticket - The Associated Press",
-            "description": "Lottery dreamers are setting their sights on the growing Mega Millions jackpot now that a ticket worth more than $1 billion finally has been sold for the Powerball lottery.",
-            "url": "https://apnews.com/article/mega-millions-jackpot-drawing-7a684b6fc3c79470b5f43009bff6ef46",
-            "urlToImage": "https://dims.apnews.com/dims4/default/87963ae/2147483647/strip/true/crop/8134x4575+0+424/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2F2e%2Fcff248537152fc4130f3c73b8c41%2F50eebcba3fa142eaa7018c169b619beb",
-            "publishedAt": "2023-07-21T05:59:00Z",
-            "content": "Lottery dreamers are setting their sights on the growing Mega Millions jackpot drawing on Friday after a ticket worth more than $1 billion was sold for the Powerball lottery. Heres a look at how this\u2026 [+3090 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GameSpot"
-            },
-            "author": "Hayley Williams",
-            "title": "The FTC Is Suspending Its In-House Antitrust Lawsuit Against Microsoft - GameSpot",
-            "description": "After it was denied an injuction by a US federal court, the FTC has also put a hold on its internal challenge against Microsoft's acquisition of Activision-Blizzard.",
-            "url": "https://www.gamespot.com/articles/the-ftc-is-suspending-its-in-house-antitrust-lawsuit-against-microsoft/1100-6516170/",
-            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15975876/4168541-3965788-atvi.jpg",
-            "publishedAt": "2023-07-21T05:52:13Z",
-            "content": "The Federal Trade Commission's case against Microsoft's intended acquisition of Activision-Blizzard is slowing down, after it announced it would be suspending its in-house lawsuit. As reported by The\u2026 [+1347 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Luke Barr, Jolie Lash",
-            "title": "Washington Commanders' Dan Snyder ordered to pay NFL $60M following investigation - ABC News",
-            "description": "The investigation concluded the club improperly hid finances from the NFL.",
-            "url": "https://abcnews.go.com/Sports/washington-commanders-dan-snyder-ordered-pay-nfl-60m/story?id=101537606",
-            "urlToImage": "https://s.abcnews.com/images/US/dan-snyder-file-gty-jef-230720_1689892293368_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-07-21T04:52:54Z",
-            "content": "Washington Commanders owner Dan Snyder will have to pay $60 million to the NFL in resolution after an investigation concluded the club improperly hid finances from the NFL and that Snyder inappropria\u2026 [+3549 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Accused Gilgo Beach killer Rex Heuermann routinely burned his garbage at home, neighbor claims - New York Post ",
-            "description": null,
-            "url": "https://families.google.com/service-restricted",
-            "urlToImage": null,
-            "publishedAt": "2023-07-21T04:39:00Z",
+            "title": "News Wrap: Ala. lawmakers approve congressional map without 2nd majority-Black district - PBS NewsHour",
+            "description": "In our news wrap Friday, lawmakers in Alabama refused to create a second majority-Black congressional district, a move that could defy an order from the U.S....",
+            "url": "https://www.youtube.com/watch?v=sYNS54sesn4",
+            "urlToImage": "https://i.ytimg.com/vi/sYNS54sesn4/maxresdefault.jpg",
+            "publishedAt": "2023-07-21T22:22:29Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KABC-TV"
-            },
-            "author": null,
-            "title": "LA County tops list of US counties with greatest number of people living with Alzheimer's disease - KABC-TV",
-            "description": "New research reveals California has the largest number of people living with the disease in the country, affecting 12% of state residents over 65.",
-            "url": "https://abc7.com/alzheimers-disease-los-angeles-county-us-counties-zaldy-tan/13527907/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13528303_alzheimers-TN-img.jpg?w=1600",
-            "publishedAt": "2023-07-21T04:29:36Z",
-            "content": "LOS ANGELES (KABC) -- On the heels of a new federally-approved drug for Alzheimer's disease, scientists expect there could soon be another, and a new non-invasive way to screen for the disease looks \u2026 [+2238 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Elizabeth Wagmeister",
-            "title": "Britney Spears and Will.i.am Drop New Song \u2018Mind Your Business\u2019 - Variety",
-            "description": "Britney\u00a0Spears is getting back to the music \u2014 again. The Princess of Pop and her frequent collaborator, Will.i.am, have dropped a new single, \u201cMind Your Business,\u201d which is t\u2026",
-            "url": "https://variety.com/2023/music/news/britney-spears-will-i-am-song-mind-your-business-1235673190/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/07/williamXbritney_MindYourBusiness_CVR_IMAGE.jpg?crop=0px%2C551px%2C3000px%2C1687px&resize=1000%2C563",
-            "publishedAt": "2023-07-21T04:07:00Z",
-            "content": "Britney\u00a0Spears is getting back to the music \u2014 again.\r\nThe Princess of Pop and her frequent collaborator, Will.i.am, have dropped a new single, \u201cMind Your Business,\u201d which is the second song to be rel\u2026 [+3177 chars]"
         },
         {
             "source": {
@@ -216,51 +73,194 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "TSMC: Chip giant delays Arizona production in blow to Biden - BBC",
-            "description": "Taiwan-based TSMC says semiconductors manufacturing at its Arizona plant will no longer begin in 2024.",
-            "url": "https://www.bbc.com/news/business-66264392",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/26E5/production/_130475990_gettyimages-1556474759.jpg",
-            "publishedAt": "2023-07-21T03:38:43Z",
-            "content": "Chipmaking giant Taiwan Semiconductor (TSMC) has delayed the start of production at its factory in the US state of Arizona, in a setback to President Biden's technology ambitions.\r\nThe firm says chip\u2026 [+2218 chars]"
+            "title": "Biden chooses Lisa Franchetti to head military branch - BBC",
+            "description": "Admiral Lisa Franchetti will become the first woman to lead a Pentagon military branch if confirmed.",
+            "url": "https://www.bbc.com/news/world-us-canada-66275531",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03C8/production/_130486900_33ecf977cf7ac857a5f9e2c581a1e0e7515585bd0_112_3032_17051000x563.jpg",
+            "publishedAt": "2023-07-21T22:09:37Z",
+            "content": "US President Biden has chosen a female admiral to lead the US Navy - the first time a woman has been nominated to head a Pentagon military service branch. \r\nLisa Franchetti is a former head of the US\u2026 [+2067 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "ChatGPT comes to Android next week, but you can sign up today - TechCrunch",
+            "description": "Two months after launching for iOS, ChatGPT is available to \"pre-order\" for Android users who want to take the ubiquitous chatbot on the go.",
+            "url": "https://techcrunch.com/2023/07/21/chatgpt-comes-to-android-next-week-but-you-can-sign-up-today/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/chatgpt-android.jpg?resize=1200,564",
+            "publishedAt": "2023-07-21T21:18:45Z",
+            "content": "Two months after launching for iOS, ChatGPT is available to \u201cpre-order\u201d for Android users who want to take the ubiquitous chatbot on the go. If it\u2019s anywhere as popular as the iPhone version, expect \u2026 [+1361 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "David Newton",
+            "title": "Panthers sign No. 1 overall pick Bryce Young to $37.9M deal - ESPN - ESPN",
+            "description": "The Panthers signed No. 1 overall pick Bryce Young, who has already been tabbed as the starting quarterback, to a four-year, $37.9 million deal.",
+            "url": "https://www.espn.com/nfl/story/_/id/38048471/panthers-sign-no-1-overall-pick-bryce-young-379m-deal",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0522%2Fr1176841_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-07-21T20:50:00Z",
+            "content": "CHARLOTTE, N.C. -- The Carolina Panthers signed quarterback Bryce Young to a four-year deal on Friday that will allow the top pick of the 2023 NFL draft to report to training camp on schedule.\r\nThe $\u2026 [+2405 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Action Network"
+                "name": "Slate Magazine"
             },
-            "author": "Jason Sobel",
-            "title": "Open Championship Round 2 Picks: Bet Rory McIlroy, Viktor Hovland and Rickie Fowler - The Action Network",
-            "description": "Jason Sobel explains why bettors should add Rory McIlroy, Viktor Hovland and Rickie Fowler to their Open Championship cards.",
-            "url": "https://www.actionnetwork.com/golf/open-championship-round-2-picks-consider-betting-rory-mcilroy-viktor-hovland-and-rickie-fowler",
-            "urlToImage": "https://images.actionnetwork.com/blog/2023/07/Rory-McIlroy.jpg",
-            "publishedAt": "2023-07-21T03:26:00Z",
-            "content": "The opening round of the 151st Open Championship is in the books. Royal Liverpool Golf Club showed out as a fast, firm, world-class venue well, except for the internal O.B., which still rubs me the w\u2026 [+3292 chars]"
+            "author": "Chris Molanphy",
+            "title": "\u201cBarbie Girl\u201d: The Aqua song's journey from Mattel lawsuits to the movie's soundtrack. - Slate",
+            "description": "How Mattel learned to stop worrying and embrace an infamous hit.",
+            "url": "https://slate.com/culture/2023/07/barbie-girl-song-movie-aqua-nicki-minaj-ice-spice.html",
+            "urlToImage": "https://compote.slate.com/images/f68ac666-13bf-4a8e-bd30-cb240a21fc96.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2023-07-21T20:47:00Z",
+            "content": "As Barbie the movie finally arrives in theaters, Barbie: The Album, its soundtrack LP, lands with similar cultural conquest in mind. And like the Greta Gerwighelmed filman unusual but inspired match \u2026 [+10480 chars]"
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": null,
+                "name": "Live Science"
             },
-            "author": "Al Jazeera",
-            "title": "Google developing AI tools to help journalists report the news - Al Jazeera English",
-            "description": "Tech giant says AI-powered tool is not intended to replace \u2018essential\u2019 role journalists play in covering the news.",
-            "url": "https://www.aljazeera.com/economy/2023/7/21/google-developing-ai-tools-to-help-journalists-report-the-news",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/AP23201643159449-1689900879.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-07-21T02:14:56Z",
-            "content": "Google is developing artificial intelligence-enabled tools to help journalists research and write news articles, a development that is likely to rattle nerves across the media industry after years of\u2026 [+2011 chars]"
+            "author": "Jennifer Nalewicki",
+            "title": "Chile's Atacama Desert is the sunniest spot on Earth, catching as many rays as Venus - Livescience.com",
+            "description": "Scientists have identified Earth's sunniest spot, and it has the same radiation as Venus.",
+            "url": "https://www.livescience.com/planet-earth/chiles-atacama-desert-is-the-sunniest-spot-on-earth-catching-as-many-rays-as-venus",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BJzFNN8sr7jnV7gSPTBRd9-1200-80.jpg",
+            "publishedAt": "2023-07-21T20:23:41Z",
+            "content": "The sunniest spot on Earth is the Altiplano of the Atacama Desert, an arid plateau near the Andes mountains in Chile that receives as much sunshine as Venus\r\n.\r\nWhile normally cold and dry, this sunn\u2026 [+2793 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Putin tells Poland any aggression against Belarus is attack on Russia - Reuters",
+            "description": "President Vladimir Putin on Friday accused NATO member Poland of having territorial ambitions in the former Soviet Union, and said any aggression against Russia's neighbour and close ally Belarus would be considered an attack on Russia.",
+            "url": "https://www.reuters.com/world/europe/putin-tells-poland-any-aggression-against-belarus-is-attack-russia-2023-07-21/",
+            "urlToImage": "https://www.reuters.com/resizer/cll_UxG316mKOvoNptwBFyts7Bk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I6J22W65KVIHDPTBXFEXW4FS3Q.jpg",
+            "publishedAt": "2023-07-21T20:21:00Z",
+            "content": "MOSCOW, July 21 (Reuters) - President Vladimir Putin on Friday accused NATO member Poland of having territorial ambitions in the former Soviet Union, and said any aggression against Russia's neighbou\u2026 [+2735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Brooke Kato",
+            "title": "'Barbie' blows up 'Oppenheimer' with $22.3M at box office in previews - New York Post ",
+            "description": "In the battle of Barbenheimer, only one major motion picture can rule the double feature \u2014\u00a0and she\u2019s dazzling in pretty pink plastic.",
+            "url": "https://nypost.com/2023/07/21/barbie-tops-oppenheimer-with-22-3m-at-box-office-in-previews/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000014050900.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-07-21T20:14:00Z",
+            "content": "It\u2019s a Barbie world and we\u2019re all just living in it.\r\nIn the battle of Barbenheimer, only one major motion picture can rule the double feature \u00a0and she\u2019s dazzling in pretty pink plastic.\r\nGreta Gerwi\u2026 [+4860 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Spencer Soper, Bloomberg",
+            "title": "Amazon\u2019s return to office means relocating some remote workers who moved away, sources say - Fortune",
+            "description": "It's mandating three days in the office per week.",
+            "url": "https://fortune.com/2023/07/21/remote-work-amazon-return-to-office-relocation-moved-away/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/07/GettyImages-1235716451-e1689970224273.jpg?resize=1200,600",
+            "publishedAt": "2023-07-21T20:12:00Z",
+            "content": "Amazon.com Inc. will require some corporate employees to relocate as part of a mandate requiring workers to be in the office three days a week, according to people familiar with the matter, the lates\u2026 [+1256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Judge sets a trial date for next May in Trump's classified documents case - WPTV News - FL Palm Beaches and Treasure Coast",
+            "description": "A federal judge in Florida has set a trial date for next May for former President Donald Trump in a case charging him with illegally retaining hundreds of cl...",
+            "url": "https://www.youtube.com/watch?v=NX-LnWvn4o0",
+            "urlToImage": "https://i.ytimg.com/vi/NX-LnWvn4o0/maxresdefault.jpg",
+            "publishedAt": "2023-07-21T19:24:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kansasreflector.com"
+            },
+            "author": "Rachel Mipro",
+            "title": "'The KHP waged war': Federal judge orders end of Kansas trooper 'two-step' maneuver - Kansas Reflector",
+            "description": "The Kansas Highway Patrol has been ordered to stop its infamous \u201ctwo-step\u201d technique by a federal judge, who decreed it unconstitutional.",
+            "url": "https://kansasreflector.com/2023/07/21/the-khp-waged-war-federal-judge-orders-end-of-kansas-trooper-two-step-maneuver/",
+            "urlToImage": "https://kansasreflector.com/wp-content/uploads/2020/07/khp1.jpg",
+            "publishedAt": "2023-07-21T19:17:04Z",
+            "content": "by Rachel Mipro, Kansas ReflectorJuly 21, 2023\r\nTOPEKA The Kansas Highway Patrol has been ordered to stop its infamous two-step technique by a federal judge, in what the American Civil Liberties Unio\u2026 [+3977 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Ben Morse",
-            "title": "Canada headlines second day of Women\u2019s World Cup action as Olympic champion faces Nigeria - CNN",
-            "description": "The Women\u2019s World Cup is finally here and the tournament\u2019s second day of action holds plenty of intriguing storylines.",
-            "url": "https://www.cnn.com/2023/07/20/football/womens-world-cup-canada-nigeria-switzerland-philippines-spain-costa-rica-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230719122720-04-wwc-2023-lookahead.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-21T01:26:00Z",
-            "content": "The Womens World Cup is finally here and the tournaments second day of action holds plenty of intriguing storylines.\r\nOlympic champion Canada kicks off its campaign in the opening game of Fridays act\u2026 [+6989 chars]"
+            "author": "Cheri Mossburg",
+            "title": "Kidnapping victim\u2019s \u2018Help Me!\u2019 sign leads to girl\u2019s rescue, suspect\u2019s arrest - CNN",
+            "description": "A 13-year-old kidnapping victim was rescued in Southern California after making a \u201cHelp Me!\u201d sign to alert passersby, which then lead to the arrest of a Texas man.",
+            "url": "https://www.cnn.com/2023/07/21/us/san-antonio-kidnapping-help-me-sign/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230721112615-san-antonio-kidnapping-help-me-sign.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-21T19:09:00Z",
+            "content": "A 13-year-old kidnapping victim was rescued in Southern California after making a Help Me! sign to alert passersby, which then led to the arrest of a Texas man.\r\nSteven Robert Sablan, 61, is now faci\u2026 [+1645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "https://www.facebook.com/peoplemag",
+            "title": "Kate Gosselin Breaks Her Silence Following Jon and Collin's Accusations - PEOPLE",
+            "description": "As Jon Gosselin praises son Collin for his \"courage\" in talking about their estranged family members, Kate Gosselin says the 19-year-old \"remains a very troubled young man who continues to need a lot of help\"",
+            "url": "https://people.com/kate-gosselin-breaks-silence-jon-collin-accusations-exclusive-7563700",
+            "urlToImage": "https://people.com/thmb/GmeFnDX6lA2shHOr_5rzJB1DZ8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x117:721x119)/Kate-Gosselin-Stands-by-Daughter-Madys-Completely-Accurate-Statement-on-Son-Collin-072123-1-66c35d9fece84b0aa5c821cdaa34f61a.jpg",
+            "publishedAt": "2023-07-21T19:08:38Z",
+            "content": "Kate Gosselin has weighed in amid continued tensions in her family, alleging that son Collin\u00a0has received \"multiple psychiatric diagnoses\" and inpatient psychiatric treatment in response to \"unpredic\u2026 [+8649 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Alex Heath",
+            "title": "Meta\u2019s Llama 2 is biggest AI release since ChatGPT - The Verge",
+            "description": "Meta\u2019s new AI model, Llama 2, has big implications \u2014 and some unusual restrictions.",
+            "url": "https://www.theverge.com/2023/7/21/23803234/the-biggest-ai-release-since-chatgpt",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-52FlQjDAxR5JKt5OPW0kTtXNFo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24719857/Meta.png",
+            "publishedAt": "2023-07-21T18:11:21Z",
+            "content": "The biggest AI release since ChatGPT\r\nThe biggest AI release since ChatGPT\r\n / Metas new AI model, Llama 2, has big implications and some unusual restrictions. Also: an update on how Telegram is doin\u2026 [+1633 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Antonio Express-News"
+            },
+            "author": "Shepard Price",
+            "title": "New Braunfels native loses both hands after bite from a flea - San Antonio Express-News",
+            "description": "A GoFundMe campaign is raising money for Michael\u00a0Hardaway, who went into septic shock and was put on a ventilator after getting typhus.",
+            "url": "https://www.expressnews.com/news/article/flea-bite-new-braunfels-gofundme-18254167.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/33/62/36/24061887/5/rawImage.jpg",
+            "publishedAt": "2023-07-21T18:01:21Z",
+            "content": "One single flea caused a New Braunfels native's organs to fail and put him on a ventilator.\u00a0Michael\u00a0Hardaway, 35, has had both hands amputated in the wake of a \"severe and traumatic\" flea bite last m\u2026 [+2427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Allison Murray",
+            "title": "How to preorder the Samsung Galaxy Z Fold 5, Flip 5, Tab S6 and more - ZDNet",
+            "description": "As part of the upcoming Samsung Unpacked event, here's how you can reserve Samsung's new phones early and save up on accessories.",
+            "url": "https://www.zdnet.com/article/how-to-preorder-the-samsung-galaxy-z-fold-5-flip-5-tabs6-and-more/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/75147d09f50b7f4485b57438b00da23bfa4bb0b7/2022/08/12/01a97d89-3bfa-4f1c-a59a-d9d2e4d266d9/samsung-galaxy-z-fold-4-main-screen-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-07-21T17:36:42Z",
+            "content": "June Wan/ZDNET\r\nSamsung's biggest event of the year is next Wednesday: Samsung Unpacked. During the event, you can expect Samsung to announce new Galaxy devices, including smartphones, tablets, and w\u2026 [+1313 chars]"
         }
     ]
 }
