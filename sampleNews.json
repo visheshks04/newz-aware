@@ -1,188 +1,97 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Al Goodman, Jack Guy",
-            "title": "Far-right could enter government as Spain goes to the polls - CNN",
-            "description": "Spaniards are voting in Sunday\u2019s snap general election that could see a far-right party enter government for the first time in decades.",
-            "url": "https://www.cnn.com/2023/07/23/europe/spain-election-voting-pedro-sanchez-pp-vox/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230723074350-01-spain-elections-2023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-23T12:35:00Z",
-            "content": "Spaniards are voting in Sundays snap general election that could see a far-right party enter government for the first time in decades.\r\nMost polls predict the center-right opposition Popular Party wi\u2026 [+5362 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Molly Robey",
-            "title": "D.C.-area forecast: A few more days of typical July warmth, then a major heat wave is likely - The Washington Post",
-            "description": "Get ready for a several-day heat wave starting Wednesday.",
-            "url": "https://www.washingtonpost.com/weather/2023/07/23/dc-area-forecast-heat-wave-coming/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QDD33CCJBBGDXOGR3LN6FSACLE_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-07-23T11:35:10Z",
-            "content": "Comment on this story\r\nComment\r\nA somewhat subjective rating of the days weather, on a scale of 0 to 10.\r\n7/10: Afternoon 80s to near 90 with moderate humidity. By late this week youll be wishing for\u2026 [+2475 chars]"
+            "author": "Alicia Wallace",
+            "title": "\u2018It comes up on you fast:\u2019 Scorching heat is crushing American businesses - CNN",
+            "description": "A 119-degree day in Phoenix hits like a blast of hot air from the oven with no relief in sight, and for a business owner like Lyn Thomas, there\u2019s hardly any avoiding it.",
+            "url": "https://www.cnn.com/2023/07/23/economy/extreme-heat-economic-impact/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230721083816-extreme-heat-outdoors-workers-la-0713.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-24T01:39:00Z",
+            "content": "A 119-degree day in Phoenix hits like a blast of hot air from the oven with no relief in sight, and for a business owner like Lyn Thomas, theres hardly any avoiding it.\r\nThomas serves up authentic Ca\u2026 [+10067 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "The Guardian"
             },
-            "author": null,
-            "title": "Formula 1 picks, odds, race time: 2023 Hungarian Grand Prix predictions, F1 best bets from proven model - CBS Sports",
-            "description": "SportsLine's model analyzes Max Verstappen, Lewis Hamilton and the rest of the field's chances at the F1 Hungarian GP 2023 race",
-            "url": "https://www.cbssports.com/motor-sports/news/formula-1-picks-odds-race-time-2023-hungarian-grand-prix-predictions-f1-best-bets-from-proven-model/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/23/5f13a250-bc53-4b27-90e7-db6438d94ee2/thumbnail/1200x675/d8bf0da61c9a12b5eaf4a17fab53f65f/gettyimages-15473690311.jpg",
-            "publishedAt": "2023-07-23T11:00:48Z",
-            "content": "Max Verstappen is on a mission to become one of the most dominant drivers in Formula 1 history, and he'll be back in action at the 2023 Hungarian Grand Prix on Sunday after the summer break. Verstapp\u2026 [+4417 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Greta Gerwig makes history as Barbie has biggest opening weekend for film directed by a woman - The Guardian",
+            "description": "Barbie made $377m while Christopher Nolan\u2019s Oppenheimer took home $174m, making \u2018Barbenheimer\u2019 biggest box office weekend of 2023 so far",
+            "url": "https://www.theguardian.com/film/2023/jul/24/barbie-movie-box-office-greta-gerwig-records-highest-grossing-woman",
+            "urlToImage": "https://i.guim.co.uk/img/media/9a3b6296ac63dfef525821e9b6c26e070c1660af/0_255_4830_2899/master/4830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86a1dc7db9d651f47814628b2e17766e",
+            "publishedAt": "2023-07-24T01:37:00Z",
+            "content": "Greta Gerwig has made history as Barbie scored a US$377m (\u00a3293m, A$560m) opening weekend around the world, making it the biggest debut ever for a film directed by a woman.\r\nAt the North American box \u2026 [+2984 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Reuters",
-            "title": "Adieu to \u2018all the birds,\u2019 Elon Musk says as he announces Twitter logo change - CNBC",
-            "description": "Musk posted an image of a flickering \u201cX\u201d, and later in a Twitter Spaces audio chat replied \u201cYes\u201d when asked if the company's logo will change.",
-            "url": "https://www.cnbc.com/2023/07/23/adieu-to-all-the-birds-elon-musk-says-as-he-announces-twitter-logo-change.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107201636-1677683923922-gettyimages-1245066840-RAFAPRESS_24112022-03861.jpeg?v=1690108186&w=1920&h=1080",
-            "publishedAt": "2023-07-23T10:29:46Z",
-            "content": "Elon Musk said Sunday he was looking to change Twitter's logo, tweeting: \"And soon we shall bid adieu to the twitter brand and, gradually, all the birds.\"\r\nIn a post on the site at 12:06 a.m., the so\u2026 [+1449 chars]"
+            "author": "Bill Hutchinson",
+            "title": "Investigation launched after video shows Ohio police dog attacking suspect with his hands up - ABC News",
+            "description": "The incident occurred after the driver allegedly led troopers on a chase.",
+            "url": "https://abcnews.go.com/US/investigation-launched-after-video-shows-ohio-police-dog/story?id=101591343",
+            "urlToImage": "https://s.abcnews.com/images/US/trucker-attacked-03-ht-jef-230723_1690141011327_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-07-24T00:42:58Z",
+            "content": "An investigation is underway into why a police dog was deployed to attack a semi-truck driver who appeared in body-camera footage to be complying with orders to get on his knees and keep his hands in\u2026 [+4350 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Reuters",
-            "title": "Tourists flee Greek island Rhodes wildfire, thousands evacuated - CNBC",
-            "description": "Coastguard vessels and dozens of private boats carried more than 2,000 tourists from beaches on Saturday.",
-            "url": "https://www.cnbc.com/2023/07/23/tourists-flee-greek-island-rhodes-wildfire-thousands-evacuated.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107275209-1690106783384-gettyimages-1547682284-AA_22072023_1282232.jpeg?v=1690106836&w=1920&h=1080",
-            "publishedAt": "2023-07-23T10:07:16Z",
-            "content": "A wildfire which has raged on the Greek island of Rhodes for six days forced thousands of tourists and island residents to shelter in schools and indoor stadiums on Sunday after they were evacuated f\u2026 [+2319 chars]"
+            "author": "Aliza Chasan",
+            "title": "Boat crashes into Lake of the Ozarks home, ejecting passengers and injuring 8 - CBS News",
+            "description": "Troopers said they arrested the driver on charges of boating while intoxicated.",
+            "url": "https://www.cbsnews.com/news/lake-of-the-ozarks-boat-crash-home-8-injured-missouri/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/23/f221ab3b-1526-454e-8349-07c6d15f08ed/thumbnail/1200x630/185828898c37ae289f7e6c445f5831b3/lake-of-the-ozarks-boat-crash.png?v=8be0a296491a12ce38351fd824e37a16",
+            "publishedAt": "2023-07-24T00:23:08Z",
+            "content": "A boat ran aground, hit a home and ejected all the passengers in the Lake of the Ozarks on Saturday night, the Missouri State Highway Patrol said. Eight people were injured, including six victims who\u2026 [+1054 chars]"
         },
         {
             "source": {
                 "id": "usa-today",
                 "name": "USA Today"
             },
-            "author": "Medora Lee",
-            "title": "Junk fees are in Biden's crosshairs. Can the crackdown save you money? - USA TODAY",
-            "description": "President Joe Biden's efforts to eliminate junk fees won't necessarily save shoppers any money, critics warn. Here's why.",
-            "url": "https://www.usatoday.com/story/money/personalfinance/2023/07/23/exposing-junk-fees-wont-necessarily-mean-lower-prices/70422594007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/-mm-/f22f521eaccc2575d4d06acca5bf92441fc81e7d/c=0-168-4940-2954/local/-/media/USATODAY/USATODAY/2013/11/04/1383571486000-XXX-178845337-Family-travel-.jpg?width=3200&height=1805&fit=crop&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-23T10:05:07Z",
-            "content": "You've spent hours online shopping around for that coveted item. But as you get ready to buy it, you spot a bunch of fees attached to the purchase, pushing up your bill by more than $30. \u00a0\r\nMillions \u2026 [+6653 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aimee Lewis, Thomas Schlachter",
-            "title": "Late Sweden winner denies South Africa historic Women\u2019s World Cup draw; Netherlands wins - CNN",
-            "description": "A battling performance earned Jamaica its first ever point in Women\u2019s World Cup history as the Reggae Girlz secured a 0-0 draw against heavy favorites France.",
-            "url": "https://www.cnn.com/2023/07/23/sport/france-jamaica-sweden-south-africa-womens-world-cup-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230723082424-09-france-jamaica-wwc-2023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-23T10:01:00Z",
-            "content": "A battling performance earned Jamaica its first ever point in Womens World Cup history as the Reggae Girlz secured a 0-0 draw against heavy favorite France.\r\nJamaica had previously only appeared at o\u2026 [+2826 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Massive crowds rally in Israel as vote on judicial overhaul looms - Al Jazeera English",
-            "description": "Protesters set up camp outside Israeli parliament as hundreds of thousands rally in Tel Aviv against judicial changes.",
-            "url": "https://www.aljazeera.com/news/2023/7/23/huge-crowds-march-in-israel-as-vote-on-judicial-overhaul-nears",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-07-23T064830Z_1780380827_RC2U82AP1V5K_RTRMADP_3_ISRAEL-POLITICS-JUDICIARY-1690103905.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-07-23T09:30:04Z",
-            "content": "Tens of thousands of Israelis have marched into Jerusalem and more protesters took to the streets in Tel Aviv in a last-ditch show of force aimed at blocking Prime Minister Benjamin Netanyahus conten\u2026 [+6375 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Andrea Blanco",
-            "title": "Woman claiming to be $1bn Powerball winner seen screaming and running from Skid Row store that sold the ticket - The Independent",
-            "description": "\u2018I can\u2019t even ... I can\u2019t,\u2019 the unidentified woman said as she fought tears of joy. \u2018I\u2019m scared right now, I\u2019m so scared\u2019",
-            "url": "https://www.independent.co.uk/news/world/americas/powerball-jackpot-lottery-winner-b2380378.html",
-            "urlToImage": "https://static.independent.co.uk/2023/07/21/16/newFile.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-07-23T09:21:57Z",
-            "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nA woman claiming to be the winner of the $1.08bn Powerball jackpot was \u2026 [+3479 chars]"
+            "author": "Bob Nightengale",
+            "title": "Scott Rolen, Fred McGriff get emotional during Baseball Hall of Fame induction - USA TODAY",
+            "description": "Scott Rolen and Fred McGriff delivered beautiful, impassioned induction speeches Sunday during their Baseball Hall of Fame inductions.",
+            "url": "https://www.usatoday.com/story/sports/mlb/mlb/2023/07/23/scott-rolen-fred-mcgriff-baseball-hall-fame-induction-ceremony/70454346007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/07/24/USAT/70454391007-rolenmcgriff.jpg?crop=5996,3388,x0,y0&width=3200&height=1809&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-24T00:19:27Z",
+            "content": "COOPERSTOWN, N.Y. Fred McGriff bet his friends he wouldnt break down during his Hall of Fame speech, but he sure came awfully close on Sunday, looking to the heavens when talking about his late paren\u2026 [+6588 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "PennLive"
+                "name": "CBS Sports"
             },
-            "author": "Brian Linder | blinder@pennlive.com",
-            "title": "Singer slams Jason Aldean as a \u2018clown\u2019 as artists take sides in debate over \u2018pro-lynching song\u2019 - PennLive",
-            "description": "The debate over the country music star's 'Try That In A Small Town' video has continued on through the weekend.",
-            "url": "https://www.pennlive.com/news/2023/07/singer-slams-jason-aldean-as-a-clown-as-artists-take-sides-in-debate-over-pro-lynching-song.html",
-            "urlToImage": "https://www.pennlive.com/resizer/Z__9fGw2JN6il0M7G1oXUqNKKIk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UINK4KZKYZCSBCFEDJS2L7GMJE.jpg",
-            "publishedAt": "2023-07-23T09:00:00Z",
-            "content": "One artist who definitely isnt feeling Jason Aldeans Try That In a Small Town video or his explanation around it is Margo Price.\r\nAnd the country singer-songwriter made the abundantly clear earlier t\u2026 [+4405 chars]"
+            "author": "",
+            "title": "Lions coach Dan Campbell says Detroit's 'hype train' is 'out of control' ahead of 2023 season - CBS Sports",
+            "description": "Finally, someone's talking some sense",
+            "url": "https://www.cbssports.com/nfl/news/lions-coach-dan-campbell-says-detroits-hype-train-is-out-of-control-ahead-of-2023-season/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/09/a662212c-f550-4ad1-81d9-4297f470f68f/thumbnail/1200x675/c30920114ecd0363830910137fe7c999/usatsi-dan-campbell-lions.jpg",
+            "publishedAt": "2023-07-23T23:56:54Z",
+            "content": "Aaron Rodgers' move to the Jets has certainly inflated expectations in New York. But if anyone rivals Gang Green for abruptly lofted standards going into the 2023 NFL season, it's the Lions. Coach Da\u2026 [+1877 chars]"
         },
         {
             "source": {
-                "id": "fortune",
-                "name": "Fortune"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Kristine Gill",
-            "title": "Staying fit as you age isn\u2019t just about exercise. Experts say to prioritize these 4 habits - Fortune",
-            "description": "A fitness regimen should incorporate mental and emotional fitness as well.",
-            "url": "https://fortune.com/well/2023/07/23/how-to-stay-fit-as-you-age/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/07/GettyImages-1445417525-e1689981527935.jpg?resize=1200,600",
-            "publishedAt": "2023-07-23T09:00:00Z",
-            "content": "Dr. Bill Dorfman, a 64-year-old cosmetic dentist in Southern California, prides himself on looking years younger, a characteristic he attributes to good genes and a daily workout regimen.\u00a0Three days \u2026 [+6826 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "pgatour.com"
-            },
-            "author": "CameronMorfit",
-            "title": "Brian Harman stays steady to maintain five-shot lead at The Open - PGA TOUR - PGA TOUR",
-            "description": "HOYLAKE, England \u2013 Brian Harman was slipping, Jon Rahm was surging, Jason Day was on the move, Tommy Fleetwood was still in it, and then there was Rory McIlroy.",
-            "url": "https://www.pgatour.com/article/news/latest/2023/07/22/brian-harman-takes-five-shot-lead-at-open-championship-british-cameron-young-jon-rahm",
-            "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto/pgatour/news/editorial/2023/07/22/harmantopper.jpg",
-            "publishedAt": "2023-07-23T08:36:34Z",
-            "content": "HOYLAKE, England Brian Harman was slipping, Jon Rahm was surging, Jason Day was on the move, Tommy Fleetwood was still in it, and then there was Rory McIlroy.\r\nOn a rain-soaked Royal Liverpool Golf C\u2026 [+4481 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Deadly Russian Strike Wounds 19 In Odesa | Russia-Ukraine war Live | WION - WION",
-            "description": "Ukraine on Sunday said 19 people, including four children, were wounded in a Russian overnight missile attack on Odesa that also killed one person.  \"19 peop...",
-            "url": "https://www.youtube.com/watch?v=nuPACe3H-B0",
-            "urlToImage": "https://i.ytimg.com/vi/nuPACe3H-B0/maxresdefault_live.jpg",
-            "publishedAt": "2023-07-23T08:06:46Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Eric Zerkel",
-            "title": "Deadly extreme heat is on the rise in national parks \u2013 a growing risk for America\u2019s great outdoors - CNN",
-            "description": "Extreme heat appears to be killing people in America\u2019s national parks at a record pace this year amid an exceptional heat wave.",
-            "url": "https://www.cnn.com/2023/07/23/us/national-park-heat-deaths-climate/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230720222549-01-heat-national-parks-072023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-23T08:06:00Z",
-            "content": "Extreme heat appears to be killing people in Americas national parks at an alarming pace this year, highlighting both its severity and the changing calculus of personal risk in the countrys natural p\u2026 [+12160 chars]"
+            "author": "Gina Martinez",
+            "title": "Gallaudet University holds graduation ceremony for segregated Black deaf students and teachers - CBS News",
+            "description": "On Saturday, Gallaudet University honored students who attended the Kendall School Division II for Negroes on the campus in the early 1950s.",
+            "url": "https://www.cbsnews.com/news/gallaudet-university-black-deaf-students-graduation-teachers-segregation/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/23/b1c2a153-9569-47c9-92fb-14c1c197484b/thumbnail/1200x630/15453875fef00238da856a6ea4f25b58/gallaudetkendallceremonyphoto-id-d75ab4f79ab5.jpg?v=8be0a296491a12ce38351fd824e37a16",
+            "publishedAt": "2023-07-23T23:49:00Z",
+            "content": "A historic university for deaf and hard-of-hearing students in Washington, D.C. held a graduation ceremony to honor 24 Black deaf students and four Black teachers who were forced to attend segregated\u2026 [+3249 chars]"
         },
         {
             "source": {
@@ -190,77 +99,168 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "The 1975 cancels Indonesia and Taiwan shows after Malaysia LGBT row - BBC",
-            "description": "The band has cancelled upcoming concerts in Indonesia - where homosexuality is shunned - and Taiwan.",
-            "url": "https://www.bbc.com/news/world-asia-66281846",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BC65/production/_130492284_gettyimages-1539622515.jpg",
-            "publishedAt": "2023-07-23T07:47:00Z",
-            "content": "British pop-rock band The 1975 has cancelled upcoming concerts in Indonesia and Taiwan after its gig in Malaysia was controversially cut short.\r\nLead singer Matty Healy attacked Malaysia's anti-LGBT \u2026 [+3792 chars]"
+            "title": "Ukraine war: Russia hits Odesa after killing grain deal - BBC",
+            "description": "Russia is hammering Ukraine's port city of Odesa after quitting the grain deal. What happens now?",
+            "url": "https://www.bbc.com/news/world-europe-66272001",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72AF/production/_130495392_capture.jpg",
+            "publishedAt": "2023-07-23T23:35:30Z",
+            "content": "The Ukraine Grain Deal. 22 July 2022 - 17 July 2023. \r\nA short life, with its flaws, but the only diplomatic light in the darkness of Russia's invasion.\r\nIt had allowed Ukraine to export its grain to\u2026 [+5334 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Nicquel Terry Ellis",
-            "title": "There are thousands of unsolved cases of missing Black people. Carlee Russell\u2019s unverified report is rare, advocates say - CNN",
-            "description": "The doubt surrounding the alleged kidnapping of Carlethia \u201cCarlee\u201d Nichole Russell, which Alabama police said they couldn\u2019t verify, threatens to overshadow thousands of unsolved cases of missing Black people, advocates say",
-            "url": "https://www.cnn.com/2023/07/23/us/black-missing-carlee-russell-reaj/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230714140210-01-carlethia-nichole-russell.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-23T07:02:00Z",
-            "content": "The doubt surrounding the alleged kidnapping of Carlethia Carlee Nichole Russell, which Alabama police said they couldnt verify, threatens to overshadow thousands of unsolved cases of missing Black p\u2026 [+4687 chars]"
+            "author": "Giri Viswanathan",
+            "title": "Cholesterol-reducing medication reduces risk of heart disease for people with HIV, trial finds - CNN",
+            "description": "Scientists have long known that people living with HIV face a higher risk of heart disease. The drug pitavastatin, however, might offer a solution.",
+            "url": "https://www.cnn.com/2023/07/23/health/hiv-heart-disease-statin-pitavastatin/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230721201133-heart-disease-stock-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-23T23:32:00Z",
+            "content": "Scientists have long known that people living with HIV face a higher risk of heart disease. The statindrug pitavastatin, however, might offer a solution.\r\nIn a phase 3 clinical trial, individuals wit\u2026 [+7196 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Mail"
+                "name": "YouTube"
             },
-            "author": "Ruth Bashinsky",
-            "title": "Video shows tornado tearing through North Carolina and destroying the roof of a Pfizer plant - Daily Mail",
-            "description": "A wild video shows the moment a wicked tornado descended on a North Carolina Pfizer facility kicking up debris and leveling the roof of the major medicine producer.",
-            "url": "https://www.dailymail.co.uk/news/article-12328165/Video-shows-tornado-tearing-North-Carolina-destroying-roof-Pfzier-plant.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2023/07/23/07/73515269-0-image-a-84_1690092876298.jpg",
-            "publishedAt": "2023-07-23T06:34:01Z",
-            "content": "A wild video shows the moment a tornado descended on a North Carolina Pfizer\u00a0facility, kicking up debris and leveling the roof of the medical supply company.\r\nThe tornado was categorized as an EF-3, \u2026 [+3515 chars]"
+            "author": null,
+            "title": "Chicago sees spike in weekend violence - CBS Chicago",
+            "description": "At least four people are dead and 10 others are injured after shootings all across the city.",
+            "url": "https://www.youtube.com/watch?v=tbxf9JNX9L8",
+            "urlToImage": "https://i.ytimg.com/vi/tbxf9JNX9L8/maxresdefault.jpg",
+            "publishedAt": "2023-07-23T23:11:41Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Variety"
             },
-            "author": "Reuters",
-            "title": "Netanyahu in hospital as Israeli judicial crisis flares - CNBC",
-            "description": "The pacemaker procedure went smoothly and Netanyahu was expected to be discharged later on Sunday, his office said.",
-            "url": "https://www.cnbc.com/2023/07/23/israels-netanyahu-in-hospital-after-getting-pacemaker.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107275205-1690093960202-gettyimages-1473939936-sg013921_2c4e11c5-fd24-4a20-b1af-74ec83953467.jpeg?v=1690094029&w=1920&h=1080",
-            "publishedAt": "2023-07-23T06:33:49Z",
-            "content": "Israel's Prime Minister Benjamin Netanyahu was in hospital after being fitted with a pacemaker on Sunday, as tens of thousands of people converged on Jerusalem to protest a planned overhaul of the Su\u2026 [+3326 chars]"
+            "author": "Rebecca Rubin",
+            "title": "Inside \u2018Barbie\u2019s\u2019 Pink Publicity Machine: How Warner Bros. Pulled Off the Marketing Campaign of the Year - Variety",
+            "description": "Unless you\u2019ve been trapped in a plastic toy box, there\u2019s no escaping the Barbie-core movement that\u2019s sweeping the globe \u2014 and potentially\u00a0contributing a nationwide shor\u2026",
+            "url": "https://variety.com/2023/film/box-office/barbie-marketing-campaign-explained-warner-bros-1235677922/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/07/barbie-marketing.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-07-23T23:03:00Z",
+            "content": "Unless you\u2019ve been trapped in a plastic toy box, there\u2019s no escaping the Barbie-core movement that\u2019s sweeping the globe \u2014 and potentially\u00a0contributing a nationwide shortage\u00a0of the color pink.\r\nThe ma\u2026 [+7414 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Guy, Al Goodman",
+            "title": "No clear victor in Spanish election as results defy predictions - CNN",
+            "description": "Spain appears destined for painful political negotiations after Sunday\u2019s elections, when no single party won enough parliamentary seats to form a government. Prospects for coalition-building now remain uncertain.",
+            "url": "https://www.cnn.com/2023/07/23/europe/spain-election-polls-results-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230723164638-01-spain-elections-generic-072323.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-23T22:53:00Z",
+            "content": "Spain appears destined for painful political negotiations after Sundays elections, when no single party won enough parliamentary seats to form a government. Prospects for coalition-building now remai\u2026 [+3316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Teamsters President on UPS strike: 'I'm certain it could' trigger recession - MSNBC",
+            "description": "One of the largest strikes in United States history is brewing, as contract negotiations between UPS and its 340,000 Teamster union members stalled last week...",
+            "url": "https://www.youtube.com/watch?v=oPsGddOvMlU",
+            "urlToImage": "https://i.ytimg.com/vi/oPsGddOvMlU/maxresdefault.jpg",
+            "publishedAt": "2023-07-23T22:00:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Florida Today"
+            },
+            "author": "Emre Kelly",
+            "title": "Live updates: SpaceX set for second launch attempt from Cape Canaveral - Florida Today",
+            "description": "Follow live updates below as SpaceX targets 7:09 p.m. EDT Sunday for the launch of a Falcon 9 rocket and Starlink internet satellites from Florida.",
+            "url": "https://www.floridatoday.com/story/tech/science/space/2023/07/23/live-updates-spacex-set-for-second-launch-attempt-from-cape-canaveral/70453941007/",
+            "urlToImage": "https://www.floridatoday.com/gcdn/presto/2023/06/23/PBRE/b8a13271-28b4-4b8d-8389-3be6bb61a5f9-1EK08666.jpg?crop=2749,1546,x0,y120&width=2749&height=1546&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-23T21:30:05Z",
+            "content": "Follow live updates below as SpaceX targets 8:50 p.m. EDT Sunday, July 23, for the launch of a Falcon 9 rocket and batch of Starlink internet satellites from Cape Canaveral Space Force Station in Flo\u2026 [+2913 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Zenebou Sylla, Nouran Salahieh",
+            "title": "\u2018Biblical proportions\u2019: 3 months\u2019 worth of rainfall floods Nova Scotia, forcing evacuations as crews search for missing people - CNN",
+            "description": "Three months\u2019 worth of rain over the course of one day has flooded the Canadian province of Nova Scotia since Friday night, inundating streets, forcing evacuations and leaving at least four people missing \u2013 including two children.",
+            "url": "https://www.cnn.com/2023/07/23/americas/nova-scotia-canada-rain-floods/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230722223438-01-canada-rain-floods.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-23T21:14:00Z",
+            "content": "Three months worth of rain over the course of one day has flooded the Canadian province of Nova Scotia since Friday night, inundating streets, forcing evacuations and leaving at least four people mis\u2026 [+4364 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Mark Schlabach",
+            "title": "The Open 2023 - Brian Harman's victory was decades in the making - ESPN - ESPN",
+            "description": "Brian Harman's Open Championship victory was a surprise to many, but his junior and college golf pedigree prepared him for this moment.",
+            "url": "https://www.espn.com/golf/story/_/id/38058715/2023-open-brian-harman-win-royal-liverpool-georgia-bulldogs",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0723%2Fr1201321_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-07-23T21:11:00Z",
+            "content": "HOYLAKE, England -- More than a dozen years later, Georgia men's golf coach Chris Haack still remembers what Brian Harman said to him as he walked off the 15th hole at the Inverness Club in Toledo, O\u2026 [+12013 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Teamster.org"
+            },
+            "author": "Kara Deniz",
+            "title": "Strike Averted at YRC Freight, Holland - International Brotherhood of Teamsters",
+            "description": "(WASHINGTON) \u2013 The Central States Health and Welfare Fund agreed Sunday to extend health care benefits for workers at Yellow Corp. operating companies YRC Fre",
+            "url": "https://teamster.org/2023/07/strike-averted-at-yrc-freight-holland/",
+            "urlToImage": "https://teamster.org/wp-content/uploads/2023/07/Yellow_Truck.jpg",
+            "publishedAt": "2023-07-23T20:43:14Z",
+            "content": "Under Pressure from Teamsters Leadership, Central States to Extend Health Care Benefits for Workers at Yellow\r\nPress Contact: Kara Deniz\u00a0Email: kdeniz@teamster.org\r\n(WASHINGTON) The Central States He\u2026 [+2119 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "James Shotter",
+            "title": "Benjamin Netanyahu in hospital as crisis erupts over Israel's judicial overhaul - Financial Times",
+            "description": "Prime minister fitted with pacemaker a day before vote on reforms that have sparked waves of protest",
+            "url": "https://www.ft.com/content/39cabf17-d225-48c1-931b-ac5bf0d041d1",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc8d1c1ef-4778-455a-8efc-5cc8f2e25261.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-07-23T20:29:27Z",
+            "content": "Israels prime minister Benjamin Netanyahu was taken to hospital to have a pacemaker fitted to his heart in the early hours of Sunday, as a bitter battle over his governments plans to overhaul the jud\u2026 [+3952 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Jonathan Vigliotti",
-            "title": "Maya Millete's family, friends continue the search for missing California mom - CBS News",
-            "description": "A California mother disappears without a trace \u2013 did her husband try to have a hex put on her so she wouldn't leave him?",
-            "url": "https://www.cbsnews.com/news/maya-millete-larry-millete-missing-mom-search-48-hours/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/02/20/ccf167aa-52c1-489f-b9f1-55342b8a8c21/thumbnail/1200x630/e5e185f064131ac98755907be9658ba4/millete-maya2.jpg?v=8be0a296491a12ce38351fd824e37a16",
-            "publishedAt": "2023-07-23T06:05:00Z",
-            "content": "This article was originally published on Feb. 18, 2022. It was updated on July 22, 2023.\r\nMaya Millete, a young wife and mother of three disappeared from her Southern California home in January 2021.\u2026 [+34708 chars]"
+            "author": "Aliza Chasan",
+            "title": "Child dies from brain-eating amoeba after visiting hot spring, Nevada officials say - CBS News",
+            "description": "Nearly all cases of infection by Naegleria fowleri are fatal. The amoeba enters the body through the nose and travels to the brain.",
+            "url": "https://www.cbsnews.com/news/child-dies-brain-eating-amoeba-ash-springs-nevada-fowleri-infection/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/23/04e067d5-3913-41f5-a2e3-f23ba4cc83df/thumbnail/1200x630/0915bceda413b647e47a0c620157f95b/gettyimages-508890748.jpg?v=8be0a296491a12ce38351fd824e37a16",
+            "publishedAt": "2023-07-23T20:29:23Z",
+            "content": "A child died from a brain-eating amoeba after a visit to a Nevada hot spring, state officials said Thursday.\u00a0\r\nThe child was identified as 2-year-old Woodrow Bundy, CBS affiliate KLAS reported.\u00a0\r\nInv\u2026 [+2035 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Android Police"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Rajesh Pandey",
-            "title": "Samsung's MultiStar Good Lock module update adds a Flip 5 cover widget - Android Police",
-            "description": "Samsung has already started updating its apps for its upcoming foldables",
-            "url": "https://www.androidpolice.com/samsung-multistar-good-lock-module-adds-flip-5-cover-widget/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/galaxy-flip-5-renders-onleaks-4.png",
-            "publishedAt": "2023-07-23T04:24:00Z",
-            "content": "Based on all the leaks, the highlight of the upcoming Samsung Galaxy Z Flip 5 should be the bigger cover display. While the Flip 4 has a 1.9\" outer screen, the 2023 Flip foldable is rumored to pack a\u2026 [+1691 chars]"
+            "author": "Ryan Young",
+            "title": "France\u2019s Leon Marchand breaks Michael Phelps\u2019 last individual world record in 400 IM - Yahoo Sports",
+            "description": "Michael Phelps was on the call during the race in Japan on Sunday, and celebrated with Leon Marchand after his record fell.",
+            "url": "https://sports.yahoo.com/frances-leon-marchand-breaks-michael-phelps-last-individual-world-record-in-400-im-202308602.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aWRS1pVimTMriem32eKL7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/23bcd2e0-2994-11ee-9f4a-7900fe771fb5",
+            "publishedAt": "2023-07-23T20:23:08Z",
+            "content": "Michael Phelps last individual world record has fallen.\r\nFrench star Leon Marchand set the world record in the mens 400-meter individual medley Sunday at the world championships in Fukuoka, Japan. Ma\u2026 [+1951 chars]"
         }
     ]
 }
