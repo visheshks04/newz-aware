@@ -1,240 +1,149 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Chantal Da Silva, Mirna Alsharif, Minyvonne Burke",
-            "title": "Twitter rebrands to 'X' as Elon Musk loses iconic bird logo - NBC News",
-            "description": "Twitter has officially rebranded to \"X\" after owner Elon Musk changed its iconic bird logo Monday, marking the latest major shift since his takeover of the social media platform.",
-            "url": "https://www.nbcnews.com/news/us-news/twitter-rebrands-x-elon-musk-loses-iconic-bird-logo-rcna95880",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230724-new-twitter-logo-upsize-c8ba75.jpg",
-            "publishedAt": "2023-07-24T12:32:43Z",
-            "content": "Twitter has officially rebranded to \"X\" after owner Elon Musk changed its iconic bird logo Monday, marking the latest major shift since his takeover of the social media platform.\r\nThe website\u00a0Twitter\u2026 [+2904 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Nell Mackenzie, Dhara Ranasinghe",
-            "title": "Weak PMIs, Spain keep Europe sour but fail to dent US sentiment - Reuters.com",
-            "description": "European stocks slipped while U.S. stock futures rose, as weak EU business activity data and an inconclusive Spanish election result could not deter U.S. optimism that the end of central bank rate hikes is approaching.",
-            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-07-24/",
-            "urlToImage": "https://www.reuters.com/resizer/jHvd9b3DGp13FGrVJ_3GNyk9lMY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OFKDO754DVME3C5EWZPMCPNNPQ.jpg",
-            "publishedAt": "2023-07-24T11:50:00Z",
-            "content": "London, July 24 (Reuters) - European stocks slipped while U.S. stock futures rose, as weak EU business activity data and an inconclusive Spanish election result could not deter U.S. optimism that the\u2026 [+4611 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jacob Pramuk",
-            "title": "5 things to know before the stock market opens Monday - CNBC",
-            "description": "Here are the most important news items that investors need to start their trading day.",
-            "url": "https://www.cnbc.com/2023/07/24/5-things-to-know-before-the-stock-market-opens-monday.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107270636-16891867362023-07-12t182421z_1459627275_rc2u12ar6f8r_rtrmadp_0_film-barbie-london-premiere.jpeg?v=1690198655&w=1920&h=1080",
-            "publishedAt": "2023-07-24T11:37:35Z",
-            "content": "Here are the most important news items that investors need to start their trading day:\r\n1. Dow carries tear into Fed week\r\nStock futures ticked higher Monday morning heading into a week jammed with p\u2026 [+4162 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Frances Vinall",
-            "title": "Who is Hun Manet, successor and son of Cambodia\u2019s Hun Sen? - The Washington Post",
-            "description": "Gen. Hun Manet is the eldest son of Hun Sen, whose four-decade rule of political oppression and economic growth is set to end.",
-            "url": "https://www.washingtonpost.com/world/2023/07/24/cambodia-hun-manet-sen-succession/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/745OM4FJUHZG5DJRNLM7SDLOOA.JPG&w=1440",
-            "publishedAt": "2023-07-24T11:03:00Z",
-            "content": "Comment on this story\r\nComment\r\nCambodia is set for its first transfer of power in almost four decades to the son of its autocratic prime minister.\r\nThe Cambodian Peoples Party (CPP), led by Prime Mi\u2026 [+6702 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Steve Hendrix, Shira Rubin, Leo Sands",
-            "title": "Israel live updates: Parliament begins vote on judicial overhaul plan as police clash with protesters - The Washington Post",
-            "description": "The judicial reform vote is seen by Netanyahu's backers as pushing back against an elite court that doesn't represent the people. His critics see it as a blow to democracy.",
-            "url": "https://www.washingtonpost.com/world/2023/07/24/israel-judicial-reform-vote-protests/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZAVZAKAD2VVP4VQ6PORRYWN37Y_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-07-24T10:51:21Z",
-            "content": "JERUSALEM The Israeli parliament approved the first part of Prime Minister Benjamin Netanyahus sweeping proposal to overhaul the judiciary on Monday, establishing a limit on the Supreme Courts power \u2026 [+485 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Mike Florio",
-            "title": "Nick Chubb knows he could soon face the downside of the running back market - NBC Sports",
-            "description": "On Sunday, Browns running back Nick Chubb offered up some big-picture comments on the struggles of the market at his position.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-chubb-knows-he-could-soon-face-the-downside-of-the-running-back-market",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/9e88673/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Fe7%2Fb3%2F860787d3458fba1fe6cacbc04a80%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1454740294",
-            "publishedAt": "2023-07-24T10:30:07Z",
-            "content": "On Sunday, Browns running back Nick Chubb offered up some big-picture comments on the struggles of the market at his position. Chubb also focused on his own situation, which could in time put him in \u2026 [+2582 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Alexander Smith, Matt Bradley",
-            "title": "American runaway Pvt. King discussed by U.N. and North Korea - NBC News",
-            "description": "The future of Pvt. Travis King, the American soldier who ran across the border between South and North Korea, is being discussed by the U.N. and the North.",
-            "url": "https://www.nbcnews.com/news/world/travis-king-north-korea-american-runaway-united-nations-rcna95885",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230719-travis-king-al-0930-e67f59.jpg",
-            "publishedAt": "2023-07-24T10:26:29Z",
-            "content": "The United Nations is in talks with North Korea over the American soldier who fled across the heavily militarized border and into the secretive state last week, a top U.N. official said Monday.\r\nPvt.\u2026 [+2435 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Patrick Frater",
-            "title": "Korea Box Office: \u2018Barbie\u2019 Limps to Fourth Place Debut - Variety",
-            "description": "Margot Robbie, America Ferrara and director Greta Gerwig visited South Korea early on the promotional tour for \u2018Barbie\u2019 (without Ryan Gosling). But their charm failed to translate into strong box o\u2026",
-            "url": "https://variety.com/2023/film/box-office/korea-box-office-barbie-fourth-place-opening-1235678139/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/07/barbie-2.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2023-07-24T10:22:00Z",
-            "content": "Margot Robbie, America Ferrara and director Greta Gerwig visited South Korea early on the promotional tour for \u2018Barbie\u2019 (without Ryan Gosling). But their charm failed to translate into strong box off\u2026 [+2828 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Detroit Free Press"
-            },
-            "author": "Mark Phelan",
-            "title": "2024 Ford Mustang trades one familiar styling element for new tech - Detroit Free Press",
-            "description": "More power and new features carry the original pony car into the future.",
-            "url": "https://www.freep.com/story/money/cars/2023/07/24/2024-ford-mustang-trades-one-familiar-styling-element-for-new-tech/70446090007/",
-            "urlToImage": "https://www.freep.com/gcdn/presto/2023/07/21/PDTF/06889f77-3d79-472f-9916-935262b66136-IMG_6371.JPEG?crop=2047,1152,x0,y189&width=2047&height=1152&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-24T10:11:14Z",
-            "content": "An injection of new technology, more power and chassis upgrades will power the original pony car into the future when the seventh-generation Ford Mustang goes on sale later this year.\r\nFord put moder\u2026 [+5167 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "US condemns \u2018brutal\u2019 sexual assault video from India\u2019s Manipur - Al Jazeera English",
-            "description": "US State Department says it is deeply concerned by reports of viral video showing two women paraded naked in the state.",
-            "url": "https://www.aljazeera.com/news/2023/7/24/us-condemns-brutal-sexual-assault-video-from-indias-manipur",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/AP23203419551348-1690040018.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-07-24T09:55:46Z",
-            "content": "The United States says it is deeply concerned by reports of a viral video showing two women paraded naked in Indias northeastern state of Manipur, a sexual assault case that enraged the country.\r\nThe\u2026 [+3011 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Paul Tenorio",
-            "title": "Uhh, Messi\u2019s in my WhatsApp group. Behind the scenes of the Miami hero\u2019s first days - The Athletic",
-            "description": "Jokes over problems with a bib, the group-chat reveal and the police escorts following Messi - things have changed in Miami",
-            "url": "https://theathletic.com/4714264/2023/07/24/messi-miami-goal-lionel/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/07/23162015/GettyImages-1561949972-scaled.jpg",
-            "publishedAt": "2023-07-24T09:53:07Z",
-            "content": "The question was dropped innocently into the Inter Miami team WhatsApp group chat ahead of last Sundays event officially unveiling Lionel Messi as its historic new signing.\r\nHey, Inter Miami forward \u2026 [+17229 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Greece fires: Corfu launches evacuations as Rhodes rescue flights begin - BBC News - BBC",
-            "description": "The island's deputy mayor says firefighters are still trying to get on top of the situation after seven days.",
-            "url": "https://www.bbc.co.uk/news/live/world-66287208",
-            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
-            "publishedAt": "2023-07-24T09:49:12Z",
-            "content": "Our team is at Rhodes airport, as repatriation planes arrive for tourists reeling from the wildfires over the weekend. \r\nFamilies are having to huddle together on the floor. They feel deserted and le\u2026 [+1519 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "Spain election vote ends in stalemate - USA TODAY",
-            "description": "Spain was thrust into political uncertainty after the Popular Party narrowly won the country's election but without securing the majority needed to topple Prime Minister Pedro S\u00e1nchez.",
-            "url": "https://www.usatoday.com/story/news/world/2023/07/24/spain-election-vote/70454861007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/07/24/USAT/2a450c51-fca0-4c96-bbc7-9d8e2a0c1236-AP_Spain_Election.jpeg?auto=webp&crop=2997,1686,x1,y94&format=pjpg&width=1200",
-            "publishedAt": "2023-07-24T09:22:30Z",
-            "content": "Spain was plunged into political uncertainty Monday a day after Alberto N\u00fa\u00f1ez Feij\u00f3o's conservative Popular Party narrowly won the country's national election but without securing the parliamentary m\u2026 [+1811 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "Ultra-processed food is a big part of the U.S. diet and it can make people sick : Shots - Health News - NPR",
-            "description": "A diet composed of 80% ultra-processed foods led one British doctor to gain weight and feel unwell. Now, he's trying to nail down the health effects of this type of diet, which many Americans eat.",
-            "url": "https://www.npr.org/sections/health-shots/2023/07/24/1189276187/an-ultra-processed-diet-made-this-doctor-sick-now-hes-studying-why",
-            "urlToImage": "https://media.npr.org/assets/img/2023/07/21/chris-2_wide-4a050b5124feb8cdd83566089b2fa5affcaae654-s1400-c100.jpg",
-            "publishedAt": "2023-07-24T09:01:04Z",
-            "content": "Dr. Chris Van Tulleken took part in a month-long experiment. He ate 80% of his calories from ultra-processed food. He explains what happened in his new book, Ultra-processed People.\r\nJonny Storey/Chr\u2026 [+6894 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": null,
-            "title": "House Republicans' CHOICE Act would roll back some Obamacare protections - NPR",
-            "description": "The set of health policy ideas have been GOP favorites for decades. It could mean cheaper health insurance but would undermine protections for patients in the Affordable Care Act.",
-            "url": "https://www.npr.org/sections/health-shots/2023/07/24/1189332308/house-republicans-choice-act-roll-back-obamacare-protections",
-            "urlToImage": "https://media.npr.org/assets/img/2023/07/21/gettyimages-57229731_wide-1efd0ce3a06f810a97c39a4aa54b58ec6d75d18b-s1400-c100.jpg",
-            "publishedAt": "2023-07-24T09:00:33Z",
-            "content": "House Republicans passed a package of health insurance bills in June, but the reforms are not likely to become law while the Senate is controlled by Democrats.\r\nAndreas Rentz/Getty Images\r\nForget \"re\u2026 [+7238 chars]"
+            "author": "Zachary B. Wolf",
+            "title": "US Supreme Court faces \u2018outright defiance\u2019 from Alabama - CNN",
+            "description": "It was a legitimate surprise when the conservative-dominated US Supreme Court ordered Alabama\u2019s conservative-dominated state government last month to redraw its congressional map and include either a second majority-Black congressional district or something q\u2026",
+            "url": "https://www.cnn.com/2023/07/24/politics/alabama-congressional-map-what-matters/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230724173320-01-redistricting-alabama.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-25T00:07:00Z",
+            "content": "A version of this story appeared in CNNs What Matters newsletter. To get it in your inbox, sign up for free here.\r\nIt was a legitimate surprise when the conservative-dominated US Supreme Court ordere\u2026 [+4683 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jacopo Prisco",
-            "title": "There is a \u2018gravity hole\u2019 in the Indian Ocean, and scientists now think they know why - CNN",
-            "description": "An anomaly known as the geoid low has long puzzled geologists. One team has found what it believes is a credible explanation, and it\u2019s coming from deep inside Earth.",
-            "url": "https://www.cnn.com/2023/07/24/world/gravity-hole-geoid-low-indian-ocean-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230720105429-gravity-hole-geoid-low-indian-ocean.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-24T08:45:00Z",
-            "content": "Editors Note: Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThere is a gravity hole in the Indian Oc\u2026 [+6599 chars]"
+            "author": "Ivana Kottasov\u00e1, Richard Allen Greene, Hadas Gold, Amir Tal",
+            "title": "Israeli government passes law to limit Supreme Court power, defying mass protests - CNN",
+            "description": "Israeli lawmakers on Monday passed a law stripping the Supreme Court of its power to block government decisions, the first part of a judicial overhaul that has sparked six months of street protests and criticism from the White House.",
+            "url": "https://www.cnn.com/2023/07/24/middleeast/israel-supreme-court-power-stripped-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230724133138-israel-anti-overhaul-protest.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-24T23:24:00Z",
+            "content": "The Israeli parliament on Monday passed a law stripping the Supreme Court of its power to block government decisions, the first part of a planned judicial overhaul that has sharply divided Israeli so\u2026 [+6798 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Live Science"
+                "name": "ScienceAlert"
             },
-            "author": "Harry Baker",
-            "title": "Clearest-ever seafloor maps show deep-sea 'Grand Canyon' off US coast in stunning detail - Livescience.com",
-            "description": "By combining high-definition maps with sensors that detect changes in the water column, researchers have created a \"centimeter-scale\" picture of how currents and tides shape the Monterey Canyon.",
-            "url": "https://www.livescience.com/planet-earth/rivers-oceans/clearest-ever-seafloor-maps-show-deep-sea-grand-canyon-off-us-coast-in-stunning-detail",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/d5MBhiu76zdC8iWFyw9cy-1200-80.jpg",
-            "publishedAt": "2023-07-24T08:42:00Z",
-            "content": "The resolution of the new maps is so high that small seafloor creatures, like this crab, can be clearly seen in the final images. (Image credit: Monica Wolfson-Schwehr \u00a9 2023 MBARI)\r\nA massive deep-s\u2026 [+4064 chars]"
+            "author": "Michelle Starr",
+            "title": "A Hidden Line Deep in The Ocean Divides Animals Into Two Camps - ScienceAlert",
+            "description": "Deep under the ocean, not all ecosystems are built alike.",
+            "url": "https://www.sciencealert.com/a-hidden-line-deep-in-the-ocean-divides-animals-into-two-camps",
+            "urlToImage": "https://www.sciencealert.com/images/2023/07/abyssal-crinoid-and-crab.jpg",
+            "publishedAt": "2023-07-24T23:01:13Z",
+            "content": "Deep under the ocean, not all ecosystems are built alike.\r\nAnd, as an international team of scientists has now found, the very deepest depths are dominated by a particular kind of organism. Below a d\u2026 [+3900 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Angie Teo, Ann Wang, Fabian Hamacher",
-            "title": "'Air raid alert': Taiwan holds annual evacuation drill amid China tension - Reuters",
-            "description": "Cities across northern Taiwan ordered cars off roads and people to stay indoors on Monday for an annual air-raid exercise as the island steps up preparations in the event of a Chinese attack amid rising military threats from Beijing.",
-            "url": "https://www.reuters.com/world/asia-pacific/air-raid-alert-taiwan-holds-annual-evacuation-drill-amid-china-tension-2023-07-24/",
-            "urlToImage": "https://www.reuters.com/resizer/M7R9g7TTakfrmVppFJMPAPBONFk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PRLNNZSXYBK2POCX5BLCK4SK5Y.jpg",
-            "publishedAt": "2023-07-24T08:31:00Z",
-            "content": "TAIPEI, July 24 (Reuters) - Cities across northern Taiwan ordered cars off roads and people to stay indoors on Monday for an annual air-raid exercise as the island steps up preparations in the event \u2026 [+2232 chars]"
+            "author": null,
+            "title": "Jan. 6 defendant who beat officer with flagpole during Capitol riot sentenced to over 4 years in prison - CBS News",
+            "description": "Peter Francis Stager was captured on video saying, \"Every single one of those Capitol law enforcement officers, death is the remedy. That is the only remedy they get.\"",
+            "url": "https://www.cbsnews.com/news/man-who-beat-officer-with-flagpole-during-capitol-riot-is-sentenced-to-over-4-years-in-prison-4/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/24/42148005-bf64-406b-bb77-e34f7967def7/thumbnail/1200x630/55eb7313bd4f840dd2b9b2254b7b45f0/screenshot-2023-07-24-at-6-38-45-pm.png?v=94f2acb875ced7d2c9cff754c6407fa0",
+            "publishedAt": "2023-07-24T22:57:00Z",
+            "content": "An Arkansas truck driver who beat a police officer with a flagpole holding an American flag during the Jan. 6, 2021, Capitol riot was sentenced Monday to over four years in prison.\r\nPeter Francis Sta\u2026 [+4185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Ohio police face scrutiny after releasing K9 on unarmed man - NEWS CENTER Maine",
+            "description": "This video may be disturbing to some. Viewer discretion is advised.",
+            "url": "https://www.youtube.com/watch?v=JjhorcDQo3w",
+            "urlToImage": "https://i.ytimg.com/vi/JjhorcDQo3w/hqdefault.jpg",
+            "publishedAt": "2023-07-24T22:40:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Obamas' personal chef drowns near family's home on Martha's Vineyard - The Associated Press",
+            "description": "Former President Barack Obama\u2019s personal chef has drowned near the Obama family\u2019s home on Martha\u2019s Vineyard. Massachusetts State Police confirmed that the paddleboarder whose body was recovered from Edgartown Great Pond on Monday was 45-year-old Tafari Campbe\u2026",
+            "url": "https://apnews.com/article/obama-chef-drowning-marthas-vineyard-7c75e65b4e550823ee21334a0450323c",
+            "urlToImage": "https://dims.apnews.com/dims4/default/73ec246/2147483647/strip/true/crop/9900x5569+0+796/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fd9%2F2dd7a83cf2b7b84551a50dcc5eca%2Ffdd98e2af23c4f099e2abb892de0a548",
+            "publishedAt": "2023-07-24T22:33:00Z",
+            "content": "EDGARTOWN, Mass. (AP) Former President Barack Obamas personal chef has drowned near the familys home on Marthas Vineyard. \r\nMassachusetts State Police confirmed that the paddleboarder whose body was \u2026 [+1330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL suspends Broncos' Eyioma Uwazurike indefinitely for gambling violation; Isaiah Wilson also suspended - CBS Sports",
+            "description": "Two more players are added to the long list of 2023 suspensions",
+            "url": "https://www.cbssports.com/nfl/news/nfl-suspends-broncos-eyioma-uwazurike-indefinitely-for-gambling-violation-isaiah-wilson-also-suspended/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/24/2f17c056-f423-41c0-942e-057245d6a294/thumbnail/1200x675/509c2b05bb139d89f83f9216ed7f8e30/suspended.jpg",
+            "publishedAt": "2023-07-24T22:30:00Z",
+            "content": "Two more players are suspended by the NFL, one for gambling related violations. On Monday, Denver Broncos defensive end Eyioma Uwazurike was suspended indefinitely, confirmed by CBS Sports' Jonathan \u2026 [+1318 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Marquise Francis",
+            "title": "Carlee Russell admits there was no abduction. Experts say the saga puts 'real' missing Black women at risk. - Yahoo News",
+            "description": "With new details revealing Carlee Russell was never abducted, advocates want to keep the momentum on finding other missing Black women and girls.",
+            "url": "https://news.yahoo.com/carlee-russell-disappearance-missing-black-women-alabama-kidnapping-190802810.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/igKP.FY87n.rdTZSW7UfDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/05a6c8e0-2a54-11ee-b3ff-a28d5387900a",
+            "publishedAt": "2023-07-24T22:05:58Z",
+            "content": "Carlee Russell. (Family handout)\r\nCarlee Russell, the Alabama woman who went missing earlier this month after she reported seeing a toddler walking along the interstate, admitted to police Monday tha\u2026 [+6907 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Brian Broome",
+            "title": "Opinion | Jason Aldean reminds me I couldn't wait to leave my small town - The Washington Post",
+            "description": "I couldn't wait to put my small town in the rearview mirror.",
+            "url": "https://www.washingtonpost.com/opinions/2023/07/24/small-towns-racism-ohio-jason-aldean/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B74OUTJXFR2U2APHOEUKZ5IGLQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-07-24T21:43:00Z",
+            "content": "Comment on this story\r\nComment\r\nIm not here to talk about Jason Aldeans country song Try That in a Small Town. Im not a fan. Im just here to pat you on the back if youre one of the many Americans, li\u2026 [+4083 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Bella Arnold",
+            "title": "Comic Con Trailers: The Marvels, One Piece, Young Love - Vulture",
+            "description": "This year\u2019s San Diego Comic Con welcomed sneak peeks of The Marvels, Young Love, and more amid the SAG and WGA strikes, All the trailers that debuted at SDCC.",
+            "url": "http://www.vulture.com/article/comic-con-2023-trailers.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/faa/9b9/2b66a3f72df19f7aeb9a4247b18a7379f8-sdcc-.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-07-24T21:34:40Z",
+            "content": "Its the end of July and in San Diego, temperatures are rising, the sun is shining, and comic-book nerds are looming at large, which can only mean that its Comic-Con time. The convention, which took p\u2026 [+7248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "iPhone 15 Pro production issue may be resolved before delay - 9to5Mac",
+            "description": "The iPhone 15 Pro was doomed last week, but the train might be back on the track for Apple. Or...",
+            "url": "https://9to5mac.com/2023/07/24/iphone-15-pro-launch-less-doomed/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/iPhone-15-Pro-red-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-07-24T21:01:00Z",
+            "content": "The iPhone 15 Pro was doomed last week, but the train might be back on the track for Apple. Or maybe the train was never really off the rails. A new report from Display Supply Chain Consultants has t\u2026 [+1198 chars]"
         },
         {
             "source": {
@@ -242,25 +151,116 @@
                 "name": "Politico"
             },
             "author": null,
-            "title": "An insider's guide to who's wired \u2014 and who's not \u2014 in Iowa - POLITICO",
-            "description": "It\u2019s the land of opportunity. If you can buy TV, stand up an office and hire a staff.",
-            "url": "https://www.politico.com/news/2023/07/24/iowa-gop-presidential-candidates-00107679",
-            "urlToImage": "https://static.politico.com/7d/73/a83db7d44a3b8176a5cd545cdb35/https-delivery-gettyimages.com/downloads/1523448156",
-            "publishedAt": "2023-07-24T08:30:00Z",
-            "content": "Donald Trump: Ahead and this time, organized\r\nAs the Iowa GOPs political director more than seven years ago, Alex Latcham stepped into Trumps campaign office and saw thousands of caucus pledge cards \u2026 [+22993 chars]"
+            "title": "Florida and DeSantis dig in as criticism of Black history curriculum mounts - POLITICO",
+            "description": "The teaching standards have again thrust Florida and DeSantis into America\u2019s politically polarized fight over how and what to teach children.",
+            "url": "https://www.politico.com/news/2023/07/24/florida-desantis-black-history-education-00107859",
+            "urlToImage": "https://static.politico.com/96/78/9d230dad45b7bc0af9b1a0732232/https-delivery-gettyimages.com/downloads/1544015459",
+            "publishedAt": "2023-07-24T20:48:18Z",
+            "content": "The teaching standards have again thrust Florida and DeSantis into Americas politically polarized fight over how and what to teach children. Republicans have praised DeSantis and state education offi\u2026 [+5625 chars]"
         },
         {
             "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": "Manish Singh",
-            "title": "Sam Altman\u2019s Worldcoin eyeball-scanning crypto project launches - TechCrunch",
-            "description": "Worldcoin, Sam Altman's eyeball-scanning crypto startup, has started the global rollout of its services, three years after it began its work.",
-            "url": "https://techcrunch.com/2023/07/24/worldcoin-launch-sam-altman/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-26-at-3.37.15-PM.png?w=1192",
-            "publishedAt": "2023-07-24T08:15:00Z",
-            "content": "Worldcoin, Sam Altman\u2019s audacious eyeball-scanning crypto startup, has started the global rollout of its services to help build a reliable solution for \u201cdistinguishing humans from AI online,\u201d enable \u2026 [+2690 chars]"
+            "author": null,
+            "title": "DOJ sues Texas and Gov. Greg Abbott over Rio Grande barrier - POLITICO",
+            "description": "The lawsuit alleges that Abbott violated the law by building structures in the Rio Grande River without authorization, creating an obstruction in U.S. waters.",
+            "url": "https://www.politico.com/news/2023/07/24/doj-sues-texas-and-gov-greg-abbott-over-rio-grande-barrier-00107896",
+            "urlToImage": "https://static.politico.com/df/05/56247b3f42b8bcedf5008e485b1d/immigration-texas-buoys-74794.jpg",
+            "publishedAt": "2023-07-24T20:43:35Z",
+            "content": "This floating barrier poses threats to navigation and public safety and presents humanitarian concerns, Associate Attorney General Vanita Gupta said in a statement. Additionally, the presence of the \u2026 [+2748 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Joe Buscaglia and The Athletic Staff",
+            "title": "Bills RB Nyheim Hines expected to miss 2023 season with knee injury: Source - The Athletic",
+            "description": "He appeared in nine games for the Bills last season following a trade from the Colts last November.",
+            "url": "https://theathletic.com/4715751/2023/07/24/bills-nyheim-hines-knee-injury/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/07/24090603/Hines-scaled.jpg",
+            "publishedAt": "2023-07-24T19:47:58Z",
+            "content": "Bills running back Nyheim Hines is expected to miss the entire 2023 season with a knee injury, a league source confirmed to The Athletic. Heres what you need to know:\r\n<ul><li>Hines, 26, suffered the\u2026 [+2839 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Fedja Grulovic",
+            "title": "As wildfires rage in Greece, tourists flee and locals shelter - Reuters",
+            "description": "More than 2,000 holidaymakers were flown home on Monday, tour operators cancelled upcoming trips, and residents took shelter as wildfires raged on the Greek island of Rhodes for the seventh day.",
+            "url": "https://www.reuters.com/world/europe/repatriation-flights-head-greece-wildfires-force-tourists-flee-2023-07-24/",
+            "urlToImage": "https://www.reuters.com/resizer/9FqoresatFdtinIAs3oCMhlKJLE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4DXVS2JOQJNJ7JKYXRV33UEYDE.jpg",
+            "publishedAt": "2023-07-24T19:40:57Z",
+            "content": "RHODES, Greece, July 24 (Reuters) - More than 2,000 holidaymakers were flown home on Monday, tour operators cancelled upcoming trips, and residents took shelter as wildfires raged on the Greek island\u2026 [+4731 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Rebekah Valentine",
+            "title": "Ubisoft Clarifies That It Won't Delete Game Libraries Due to Game Inactivity After Fan Panic - IGN",
+            "description": "Over the weekend, fans of Ubisoft games underwent a minor panic as a rumor spread that Ubisoft might be spontaneously deleting inactive Ubisoft accounts, permanently destroying digital game libraries if users didn't log on often enough. However, Ubisoft has n\u2026",
+            "url": "https://www.ign.com/articles/ubisoft-clarifies-that-it-wont-delete-game-libraries-due-to-game-inactivity-after-fan-panic",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/09/28/acminigamesoo-1604538235730-1664340399466.jpg?width=1280",
+            "publishedAt": "2023-07-24T19:23:48Z",
+            "content": "Over the weekend, fans of Ubisoft games underwent a minor panic as a rumor spread that Ubisoft might be spontaneously deleting inactive Ubisoft accounts, permanently destroying digital game libraries\u2026 [+3103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Sabrina Ortiz",
+            "title": "How to watch Samsung Unpacked 2023, and what to expect - ZDNet",
+            "description": "The tech giant is expected to drop several new devices, including the Galaxy Z Fold 5, Z Flip 5, Tab S9 series, Galaxy Watch 6, and more.",
+            "url": "https://www.zdnet.com/article/how-to-watch-samsung-unpacked-2023/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/4efe93fc650f63e113792437f40e5f354e7e579a/2023/02/01/0c8d7358-8cb8-4a13-be34-7c637b9b6c1a/7679bff5-6267-4a62-b24a-af7ce0083b05.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-07-24T19:22:03Z",
+            "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other \u2026 [+1152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Timi Cantisano",
+            "title": "Sony's WF-1000XM5 premium wireless earbuds offer a new look with improved ANC - XDA Developers",
+            "description": "Sony is back with its latest ANC earbuds, featuring a lot of changes like a new look and improved sound.",
+            "url": "https://www.xda-developers.com/sony-wf-1000xm5-release/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/07/xda-42.png",
+            "publishedAt": "2023-07-24T19:20:00Z",
+            "content": "There's been a fierce fight going on when it comes to the best wireless earbuds. While Sony reigned at the top for quite some time, for some years now, it has relinquished its throne to the likes of \u2026 [+2423 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "New Zealand's justice minister resigns after being criminally charged in car crash - Fox News",
+            "description": "New Zealand's Justice Minister resigned Monday after she was charged with with crashing into a parked car while testing over the legal limit for alcohol.",
+            "url": "https://www.foxnews.com/world/new-zealands-justice-minister-resigns-being-criminally-charged-car-crash",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/NZ-Justice-Minister.jpg",
+            "publishedAt": "2023-07-24T19:18:00Z",
+            "content": "New Zealand Justice Minister Kiri Allan stepped down Monday after she was charged with being over the legal alcohol limit as she crashed into a parked car.\u00a0\r\nPrime Minister Chris Hipkins said Allan w\u2026 [+2928 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Greg Evans",
+            "title": "Greta Gerwig Explains \u2018Barbie\u2019s \u201cMic Drop\u201d Final Line - Deadline",
+            "description": "SPOILER ALERT: This post includes details about the final scene of Greta Gerwig\u2019s Barbie. Barbie director and co-writer Greta Gerwig says she wanted a \u201cmic drop\u201d moment to bring t\u2026",
+            "url": "https://deadline.com/2023/07/barbie-final-scene-explained-greta-gerwig-1235446671/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1529442106.jpg?w=1024",
+            "publishedAt": "2023-07-24T19:03:00Z",
+            "content": "SPOILER ALERT: This post includes details about the final scene of Greta Gerwig\u2019s Barbie.\r\nBarbie director and co-writer Greta Gerwig says she wanted a \u201cmic drop\u201d moment to bring the movie to a close\u2026 [+1788 chars]"
         }
     ]
 }
