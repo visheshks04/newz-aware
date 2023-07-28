@@ -1,96 +1,31 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Dean Straka",
-            "title": "Colorado exploring move to Big 12 from Pac-12 with multiple meetings set this week - CBS Sports",
-            "description": "The Buffaloes appear to be ramping up talks for a potential return to the conference they helped found decades ago",
-            "url": "https://www.cbssports.com/college-football/news/colorado-exploring-move-to-big-12-from-pac-12-with-multiple-meetings-set-this-week/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/26/201894da-1cfc-45a1-97c5-81ef45fb3119/thumbnail/1200x675/7cae1f21466cd489009080a986a6d495/gettyimages-1235570007.jpg",
-            "publishedAt": "2023-07-26T22:22:00Z",
-            "content": "Colorado has entered discussions on a move back to the Big 12, according to multiple reports. The University of Colorado held a board meeting Wednesday with another scheduled for Thursday, presumably\u2026 [+4981 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Aisha Counts",
-            "title": "Meta Shares Climb After Revenue, Forecast Beat Estimates - Yahoo Finance",
-            "description": "(Bloomberg) -- Meta Platforms Inc. topped forecasts for second-quarter sales and gave a rosy outlook for the current period, signaling that the social...",
-            "url": "https://finance.yahoo.com/news/meta-shares-climb-revenue-forecast-203108487.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6WDS957SNAF6IU8Le9HObQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/6092393dbafce7233e553288b84fee7d",
-            "publishedAt": "2023-07-26T21:19:37Z",
-            "content": "(Bloomberg) -- Meta Platforms Inc. topped forecasts for second-quarter sales and gave a rosy outlook for the current period, signaling that the social networking giant is succeeding in migrating adve\u2026 [+3174 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Melissa Rudy",
-            "title": "Heart attack death risk can double during heat waves and high pollution, study finds: \u2018A perfect storm\u2019 - Fox News",
-            "description": "Some people may have twice the risk of dying from a heart attack amid heat waves and high levels of fine particulate pollution, said an American Heart Association study. A cardiologist weighed in.",
-            "url": "https://www.foxnews.com/health/heart-attack-death-risk-can-double-during-heat-waves-high-pollution-study-perfect-storm",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/heart-attack-pollution-heat-wave.jpg",
-            "publishedAt": "2023-07-26T21:07:00Z",
-            "content": "Certain groups of people may have twice the risk of dying from a heart attack\r\n during heat waves and high levels of fine particulate pollution, according to a new study published in Circulation, the\u2026 [+5057 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Polo Sandoval, Emma Tucker",
-            "title": "Police K-9 handler who released dog that attacked an unarmed Black man in Ohio has been fired - CNN",
-            "description": "The Circleville, Ohio, police officer who was seen on video releasing a police K-9 on an unarmed Black man has been fired, according to a statement from the department.",
-            "url": "https://www.cnn.com/2023/07/26/us/circleville-ohio-police-dog-black-man-attack-fired/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230723150050-01-ohio-unarmed-k9-attack-grab.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-26T20:57:00Z",
-            "content": "The Circleville, Ohio, police officer who was seen on video releasing a police K-9 on an unarmed Black man has been fired, according to a statement from the department.\r\nCircleville Police Officer Ry\u2026 [+5306 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Rebecca Shabad, Liz Brown-Kaiser, Frank Thorp V",
-            "title": "Mitch McConnell escorted away from cameras after freezing during a news conference - NBC News",
-            "description": "Senate Minority Leader Mitch McConnell suddenly stopped speaking during a weekly news conference Wednesday, appearing to freeze, and then went silent.",
-            "url": "https://www.nbcnews.com/politics/congress/watch-mitch-mcconnell-freeze-press-conference-rcna96486",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230727-mitch-mcconnell-mn-1445-c5c339.jpg",
-            "publishedAt": "2023-07-26T20:45:07Z",
-            "content": "WASHINGTON Senate Minority Leader Mitch McConnell suddenly stopped speaking during a weekly Republican leadership news conference Wednesday afternoon, appearing to freeze, and then went silent and wa\u2026 [+1752 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
+                "id": "fox-sports",
+                "name": "Fox Sports"
             },
             "author": null,
-            "title": "3 Marines found at N.C. gas station died of carbon monoxide poisoning, officials say - NPR",
-            "description": "Three U.S. Marines found unresponsive in a car at a North Carolina gas station on Sunday died of carbon monoxide poisoning, the local sheriff's office said Wednesday.",
-            "url": "https://www.npr.org/2023/07/26/1190118897/3-found-dead-at-north-carolina-gas-station-are-identified-as-marines-stationed-n",
-            "urlToImage": "https://media.npr.org/assets/img/2023/07/26/ap23206663849126_wide-fcc240018faa4d93decaa48d2918b4eccf4f14d5-s1400-c100.jpg",
-            "publishedAt": "2023-07-26T20:20:00Z",
-            "content": "Signage stands on the main gate to Camp Lejeune Marine Base outside Jacksonville, N.C., on April 29, 2022. Three Marines, who had been stationed at Camp Lejeune, died of carbon monoxide poisoning at \u2026 [+2914 chars]"
+            "title": "Australia vs. Nigeria highlights: Nigeria stuns Australia with 3-2 comeback - FOX Sports",
+            "description": "The 2023 FIFA Women's World Cup continued Thursday with Nigeria rallying to beat Australia. Here were the top moments!",
+            "url": "https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-australia-nigeria",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/07/1408/814/07.21.23_Womens-World-Cup-Top-Moments_Australia-vs-Nigeria_16x9_3.jpg?ve=1&tl=1",
+            "publishedAt": "2023-07-27T12:32:56Z",
+            "content": "The 2023 FIFA Women's World Cup\r\n continued Thursday (on FS1 and the FOX Sports app) with a matchup between Group B's Australia and Nigeria at Suncorp Stadium in Brisbane, Australia.\r\nNigeria came ou\u2026 [+1607 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": null,
-            "title": "\u201cLudicrous\u201d \u2013 Michigan Alum Rich Eisen Reacts to Jim Harbaugh\u2019s Potential 4-Game Suspension - The Rich Eisen Show",
-            "description": "Tune in to the Emmy-nominated Rich Eisen Show live for FREE on The Roku Channel at https://go.roku.com/thericheisenshow and also streaming on Audacy, Sirius ...",
-            "url": "https://www.youtube.com/watch?v=_Jh-cuhddC0",
-            "urlToImage": "https://i.ytimg.com/vi/_Jh-cuhddC0/maxresdefault.jpg",
-            "publishedAt": "2023-07-26T20:00:18Z",
+            "author": "Sarah Chaney Cambon",
+            "title": "GDP Report Shows U.S. Economy Grew 2.4% in Second Quarter - The Wall Street Journal",
+            "description": "Economy grew 2.4% last quarter, suggesting the U.S. is steering clear of recession",
+            "url": "https://www.wsj.com/articles/us-gdp-report-economic-growth-92482437",
+            "urlToImage": "https://images.wsj.net/im-824191/social",
+            "publishedAt": "2023-07-27T12:32:00Z",
             "content": null
         },
         {
@@ -98,65 +33,26 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Allison Morrow, Kara Scannell",
-            "title": "Prosecutors want Sam Bankman-Fried sent to jail after witness-tampering allegations. Judge issues gag order - CNN",
-            "description": "A federal judge issued a gag order on former FTX CEO Sam Bankman-Fried, restricting his ability to speak publicly about his case, after US prosecutors asked a federal judge to jail him over allegations of witness-tampering.",
-            "url": "https://www.cnn.com/2023/07/26/investing/sbf-hearing-gag-order/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230726105057-02-sam-bankman-fried-0615-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-26T19:54:00Z",
-            "content": "A federal judge issued a gag order on former FTX CEO Sam Bankman-Fried, restricting his ability to speak publicly about his case, after US prosecutors asked a federal judge to jail him over allegatio\u2026 [+4503 chars]"
+            "author": "Marshall Cohen, Tierney Sneed, Zachary Cohen, Dan Berman",
+            "title": "Takeaways from the stunning Hunter Biden hearing and what happens now - CNN",
+            "description": "Wednesday\u2019s hearing for Hunter Biden was already poised to be a historic event, as the son of a sitting US president appeared in court to plead guilty to federal tax crimes, bringing a controversial investigation to a near close.",
+            "url": "https://www.cnn.com/2023/07/26/politics/takeaways-hunter-biden-plea-hearing/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230726142104-04-hunter-biden-072623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-27T12:02:00Z",
+            "content": "Wednesdays hearing for Hunter Biden was already poised to be a historic event, as the son of a sitting US president appeared in court to plead guilty to federal tax crimes, bringing a controversial i\u2026 [+5643 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Detroit Free Press"
+                "name": "YouTube"
             },
-            "author": "Kristen Jordan Shamus",
-            "title": "Lapeer County child has Michigan's 1st human swine flu case of 2023 - Detroit Free Press",
-            "description": "A Lapeer County child who was an exhibitor at the Oakland County Fair is believed to have Michigan's first human case of swine flu this year.",
-            "url": "https://www.freep.com/story/news/health/2023/07/26/1st-human-swine-flu-case-2023-lapeer-county-michigan/70467465007/",
-            "urlToImage": "https://www.freep.com/gcdn/presto/2023/07/26/PDTF/1c14a175-bf85-4daa-a38e-fb57b0d365f3-AP_Swine_Flu_OHCOL103.jpg?crop=2499,1406,x0,y199&width=2499&height=1406&format=pjpg&auto=webp",
-            "publishedAt": "2023-07-26T19:34:33Z",
-            "content": "A Lapeer County child who was an exhibitor at the Oakland County Fair is believed to have Michigan's first human case of swine flu this year, state health officials said Wednesday.\r\nThe child, who wa\u2026 [+4834 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Rich Cimini",
-            "title": "Rodgers agrees to reworked contract with Jets - ESPN",
-            "description": "Jets quarterback Aaron Rodgers confirmed Wednesday that he has agreed to a reworked contract but declined to give specifics of the deal.",
-            "url": "https://www.espn.com/nfl/story/_/id/38075863/aaron-rodgers-agrees-reworked-contract-jets",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0726%2Fr1202521_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-07-26T19:22:00Z",
-            "content": "FLORHAM PARK, N.J. -- After months of speculation, quarterback Aaron Rodgers has agreed to a reworked contract with the New York Jets.\r\nAlthough Rodgers wouldn't divulge details, he did confirm the a\u2026 [+2857 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "The Associated Press",
-            "title": "Parents charged after toddler was fatally shot by 5-year-old brother who tested positive for cocaine - NBC News",
-            "description": "Prosecutors have filed neglect and drug charges against the parents of a 16-month-old boy fatally shot by his 5-year-old brother after the older child found a handgun in their apartment.",
-            "url": "https://www.nbcnews.com/news/us-news/parents-charged-toddler-fatally-shot-brother-5-allegedly-cocaine-syste-rcna96367",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230329-wthr-indiana-police-jm-0907-1jpg-62d888.jpg",
-            "publishedAt": "2023-07-26T19:16:41Z",
-            "content": "LAFAYETTE, Ind. Prosecutors have filed neglect and drug charges against the parents of a 16-month-old boy\u00a0fatally shot\u00a0by his 5-year-old brother after the older child found a handgun in their apartme\u2026 [+1151 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Abhirup Roy, Kevin Krolicki",
-            "title": "In challenge to Tesla, automakers launch EV charging network - Reuters",
-            "description": "A group of major automakers on Wednesday said they were forming a new company to provide electric vehicle charging in the United States, in a challenge to Tesla and a bid to take advantage of Biden administration subsidies.",
-            "url": "https://www.reuters.com/business/autos-transportation/challenge-tesla-major-automakers-launch-ev-charging-network-2023-07-26/",
-            "urlToImage": "https://www.reuters.com/resizer/I8JoAnYfH_H3Dx3WTKKByvbcnac=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KNHRWN3J6JKL7KL7UQYH6LW5HU.jpg",
-            "publishedAt": "2023-07-26T18:57:00Z",
-            "content": "July 26 (Reuters) - A group of major automakers on Wednesday said they were forming a new company to provide electric vehicle charging in the United States, in a challenge to Tesla and a bid to take \u2026 [+4339 chars]"
+            "author": null,
+            "title": "Disney Illusion Island Review - IGN",
+            "description": "Disney Illusion Island reviewed by Tristan Ogilvie on Nintendo Switch.\"Disney Illusion Island\u2019s platforming may be extremely polished but it\u2019s not particular...",
+            "url": "https://www.youtube.com/watch?v=zteAWg0wuEo",
+            "urlToImage": "https://i.ytimg.com/vi/zteAWg0wuEo/maxresdefault.jpg",
+            "publishedAt": "2023-07-27T12:00:49Z",
+            "content": null
         },
         {
             "source": {
@@ -164,64 +60,116 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Irish singer Sin\u00e9ad O'Connor dies aged 56 - BBC",
-            "description": "The Nothing Compares 2 U singer sold millions of albums and was praised for her activism.",
-            "url": "https://www.bbc.com/news/entertainment-arts-66318626",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5C78/production/_130527632_gettyimages-80298906copy.jpg",
-            "publishedAt": "2023-07-26T18:34:14Z",
-            "content": "Irish singer and activist Sin\u00e9ad O'Connor has died at the age of 56. \r\nIn a statement, the singer's family said: \"It is with great sadness that we announce the passing of our beloved Sin\u00e9ad. \r\n\"Her f\u2026 [+3152 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Dr J.N Pandey",
-            "title": "Taurus Daily Horoscope Today, July 27, 2023 predicts positive news about health - Hindustan Times",
-            "description": "Read Taurus daily horoscope for July 27, 2023 to know your daily astrological predictions. Be cautious about what you eat today. | Horoscope",
-            "url": "https://www.hindustantimes.com/astrology/horoscope/taurus-daily-horoscope-today-july-27-2023-predicts-positive-news-about-health-101690381348471.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/07/26/1600x900/Taurus_1690381674499_1690381674815.jpg",
-            "publishedAt": "2023-07-26T18:31:07Z",
-            "content": "Daily Horoscope Prediction says, your presence brings happiness\r\nToday, the romantic relationship will be intact. Professionally you are good and financially fortunate. The health is also positive th\u2026 [+2852 chars]"
+            "title": "Prince Harry set for court showdown with The Sun publisher - BBC",
+            "description": "A judge rules that a High Court trial over the Duke of Sussex's privacy breach claims can go ahead.",
+            "url": "https://www.bbc.com/news/uk-66322279",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1368F/production/_130530597_d22317e8ef8bf8c84ae04f43d0baa1228e0b64930_0_1934_12921000x668.jpg",
+            "publishedAt": "2023-07-27T11:41:58Z",
+            "content": "The Duke of Sussex is to take The Sun's publisher to court over claims it used illegal methods to gather information on him.\r\nPrince Harry's case could go to trial in the High Court next year after a\u2026 [+3889 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "BRIAN MELLEY",
-            "title": "London jury acquits Kevin Spacey of sexual assault charges on his birthday - The Associated Press",
-            "description": "A London jury has acquitted Kevin Spacey on sexual assault charges stemming from allegations by four men dating back 20 years. Jurors returned their verdicts Wednesday in Southwark Crown Court after deliberating over three days. Three men accused the Oscar wi\u2026",
-            "url": "https://apnews.com/article/kevin-spacey-sexual-assault-trial-london-jury-deliberations-85cb3957c60de1a7b1e03a26dc278d95",
-            "urlToImage": "https://dims.apnews.com/dims4/default/d00e55b/2147483647/strip/true/crop/5070x2852+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F02%2F3d%2Fe7421b3320848ef127707e583976%2Fa293fd9ca76b4030b686618c5f0e5e6e",
-            "publishedAt": "2023-07-26T17:55:00Z",
-            "content": "LONDON (AP) Kevin Spacey charmed the jury in his sexual assault trial with humor, humility and emotion as he dropped names of fellow stars and stories from his once-celebrated career while his lawyer\u2026 [+7498 chars]"
+            "author": "SYLVIA HUI",
+            "title": "Sin\u00e9ad O'Connor, gifted and provocative Irish singer-songwriter, dies at 56 - The Associated Press",
+            "description": "Singer-songwriter Sin\u00e9ad O\u2019Connor has died at 56. The Met Police said O\u2019Connor was found unresponsive in a home in southeast London. They did not say how she died but said her death was not considered suspicious. The gifted and troubled Irish performer was kn\u2026",
+            "url": "https://apnews.com/article/sinead-oconnor-dies-62b6187073b349d3ab6bfb65b2a14292",
+            "urlToImage": "https://dims.apnews.com/dims4/default/cbf83ba/2147483647/strip/true/crop/4286x2411+0+223/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F70%2Fb51ff5355ce1d5e2139ab5268dbf%2F137ade1c61904757b2ae396914100816",
+            "publishedAt": "2023-07-27T11:31:00Z",
+            "content": "LONDON (AP) Sin\u00e9ad OConnor, the gifted Irish singer-songwriter who became a superstar in her mid-20s and was known as much for her private struggles and provocative actions as for her fierce and expr\u2026 [+8271 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brooke DiPalma",
+            "title": "McDonald's earnings: Grimace boosts US sales, results top estimates across the board - Yahoo Finance",
+            "description": "McDonald's called out its \"culturally relevant brand and marketing campaigns\" as a driver for a strong second quarter in the US market.",
+            "url": "https://finance.yahoo.com/news/mcdonalds-earnings-grimace-boosts-us-sales-results-top-estimates-across-the-board-110043676.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9hhsUgILE1EH5mQ3EWsQIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDk5/https://s.yimg.com/os/creatr-uploaded-images/2023-07/2f91f700-27d0-11ee-af7f-06baa9c99b0a",
+            "publishedAt": "2023-07-27T11:00:43Z",
+            "content": "McDonald's (MCD) reported second quarter results Thursday that beat Wall Street expectations across the board as its \"culturally relevant brand and marketing campaigns\" powered strong results in the \u2026 [+2511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "Southwest Airlines shares slide as costs rise, unit revenue slips - CNBC",
+            "description": "Southwest blamed \"challenging comparisons from the pent-up travel demand surge in 2022, and higher than seasonally-normal growth.\"",
+            "url": "https://www.cnbc.com/2023/07/27/southwest-airlines-luv-q2-2023-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107256655-1686758447565-gettyimages-1258561904-economou-southwes230507_npO4p.jpeg?v=1690454592&w=1920&h=1080",
+            "publishedAt": "2023-07-27T10:43:12Z",
+            "content": "Southwest Airlines shares slid more than 6% in premarket trading Thursday after the airline reported lower unit revenue and higher costs during the second quarter and said the trends are likely to co\u2026 [+2375 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Nancy Armour",
+            "title": "Lindsey Horan got angry, and USWNT needs that to win Women's World Cup - USA TODAY",
+            "description": "Lindsey Horan's fury at a borderline dirty tackle from Netherlands proved to be the difference maker in a game the USWNT could not afford to lose.",
+            "url": "https://www.usatoday.com/story/sports/columnist/nancy-armour/2023/07/27/lindsey-horan-got-angry-vs-netherlands-uswnt-needs-that-to-win-womens-world-cup/70475320007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/07/27/USAT/70475009007-usp-soccer-fifa-womens-world-cup-netherlands-at.JPG?crop=6049,3418,x0,y0&width=3200&height=1809&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-27T10:09:54Z",
+            "content": "WELLINGTON, New Zealand Maybe the U.S. women should try to make Lindsey Horan mad before every game.\r\nThe USWNT captains fury at a borderline dirty tackle from club teammate Dani\u00eblle van de Donk prov\u2026 [+4150 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Emily Brooks",
+            "title": "McCarthy unites fractious GOP with impeachment talk - The Hill",
+            "description": "Speaker Kevin McCarthy\u2019s (R-Calif.) flirtation with impeaching President Biden is pleasing the right wing of his conference while not scaring moderates, keeping his fractious conference together while setting up the real possibility of a third presidential im\u2026",
+            "url": "https://thehill.com/homenews/house/4121742-mccarthy-unites-fractious-gop-with-impeachment-talk/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/mccarthykevin_072523gn10_w.jpg?w=1280",
+            "publishedAt": "2023-07-27T10:00:00Z",
+            "content": "Skip to content\r\nSpeaker Kevin McCarthy\u2019s (R-Calif.) flirtation with impeaching President Biden is pleasing the right wing of his conference while not scaring moderates, keeping his fractious confere\u2026 [+6358 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Will Steakin",
+            "title": "Giuliani won't contest claims he made 'false' statements about 2 Georgia election workers - ABC News",
+            "description": "He had accused Ruby Freeman and Shaye Moss of voter fraud after the election.",
+            "url": "https://abcnews.go.com/US/giuliani-contest-claims-made-false-statements-2-georgia/story?id=101664544",
+            "urlToImage": "https://s.abcnews.com/images/US/georgia-election-workers-interview-screengrab-2_1667434928445_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-07-27T09:56:22Z",
+            "content": "Former President Donald Trump's one-time personal attorney Rudy Giuliani won't contest that he made \"false\" statements about two Georgia election workers in the aftermath of the 2020 election.\r\nThe m\u2026 [+2541 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "Galaxy Foldable Phone Face-Off: How the Z Fold 5 Stacks Up on Specs and Price - CNET",
-            "description": "See how Samsung's newest foldable phone compares to earlier models",
-            "url": "https://www.cnet.com/tech/mobile/galaxy-foldable-phone-face-off-how-the-z-fold-5-stacks-up-against-earlier-models/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/8d7a74ada1eee15ac9eafc57b1a3aa948e57407a/hub/2023/07/26/374c177b-6855-4e15-9871-c4167de640de/3vs3vs3.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2023-07-26T17:51:00Z",
-            "content": "At its\u00a0Galaxy Unpacked\u00a0event Wednesday, Samsung showed off the latest version of its flagship foldable phone -- the\u00a0Galaxy Z Fold 5. It features a new, gapless hinge and a speedier processor, but it \u2026 [+4277 chars]"
+            "title": "Mysterious QPO Signals Reveal New Features of Galactic Black Holes - SciTechDaily",
+            "description": "An international team of scientists reports the first detection of a quasi-periodic oscillation signal in the radio band from a Galactic black hole system. An international team of scientists observed unique characteristics of a Galactic microquasar, GRS 1915\u2026",
+            "url": "https://scitechdaily.com/mysterious-qpo-signals-reveal-new-features-of-galactic-black-holes/",
+            "urlToImage": "https://scitechdaily.com/images/Microquasar-Event-Captured-by-FAST-Telescope.jpg",
+            "publishedAt": "2023-07-27T08:27:14Z",
+            "content": "ByUniversity of Nevada, Las VegasJuly 27, 2023\r\nArtists depiction of microquasar event captured by FAST Telescope. Credit: Courtesy Professor Wei Wang, Wuhan University\r\nAn international team of scie\u2026 [+5198 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Marshall Cohen, Kara Scannell",
-            "title": "Hunter Biden hearing ends after judge is not ready to accept revised plea deal - CNN",
-            "description": "A plea deal between President Joe Biden\u2019s son Hunter Biden and the Justice Department is on hold after a dramatic court hearing Wednesday.",
-            "url": "https://www.cnn.com/2023/07/26/politics/hunter-biden-plea-hearing/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230726091739-01-hunter-biden-072623.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-07-26T17:41:00Z",
-            "content": "Wilmington, DelawareCNN\r\n \u00a0\u2014\u00a0\r\nA plea deal between President Joe Bidens son Hunter Biden and the Justice Department is on hold after a dramatic court hearing Wednesday.\r\nHunter Biden failed to pay be\u2026 [+4652 chars]"
+            "author": "Jacob Lev",
+            "title": "Aaron Rodgers takes pay cut in reworked deal with New York Jets, per report - CNN",
+            "description": "Aaron Rodgers has agreed to a reworked deal with the New York Jets, the 39-year-old confirmed while talking to reporters during training camp on Wednesday.",
+            "url": "https://www.cnn.com/2023/07/27/sport/aaron-rodgers-pay-cut-jets-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230727154416-aaron-rodgers-0723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-27T08:27:00Z",
+            "content": "Aaron Rodgers has agreed to a reworked deal with the New York Jets, the 39-year-old confirmed while talking to reporters during training camp on Wednesday.\r\nRodgers\u00a0gave no\u00a0specifics of the reworked \u2026 [+1174 chars]"
         },
         {
             "source": {
@@ -231,36 +179,88 @@
             "author": "Rachel Sharp",
             "title": "NYC construction crane catches fire and collapses into Manhattan high rise - live - The Independent",
             "description": "Follow updates on the fire and collapse of a construction crane in Hell\u2019s Kitchen, Manhattan",
-            "url": "https://www.independent.co.uk/news/world/americas/new-york-crane-collapse-fire-b2382241.html",
+            "url": "https://www.independent.co.uk/news/world/americas/new-york-city-crane-collapse-fire-latest-b2382692.html",
             "urlToImage": "https://static.independent.co.uk/2023/07/26/14/New%20York%20City%20crane%20collapse.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-07-26T17:20:09Z",
-            "content": "Not the first crane accident for city, or equipment owner\r\nThe crane is owned by the New York Crane &amp; Equipment Corp., one of the citys most widely used crane providers, officials said. The Queen\u2026 [+865 chars]"
+            "publishedAt": "2023-07-27T07:45:00Z",
+            "content": "Construction workers speak of terror as crane came down\r\nWere walking down the stairs and thats when you hear the boom, boom, boom, Alexander, a construction worker who only wished to be identified b\u2026 [+1539 chars]"
         },
         {
             "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Kyle Wiggers",
-            "title": "Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0 - TechCrunch",
-            "description": "Stable Diffusion has released its latest image-generating AI model, Stable Diffusion XL 1.0. It improves upon its predecessor in several key areas.",
-            "url": "https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/064.jpg?resize=1200,800",
-            "publishedAt": "2023-07-26T17:15:00Z",
-            "content": "AI startup Stability AI continues to refine its generative AI models in the face of increasing competition \u2014 and ethical challenges.\r\nToday, Stability AI announced the launch of Stable Diffusion XL 1\u2026 [+5299 chars]"
+            "author": "Hyunsu Yim, Josh Smith",
+            "title": "North Korea's Kim shows off banned missiles to Russian minister - Reuters",
+            "description": "Russia's defence minister accompanied North Korean leader Kim Jong Un to a defence exhibition that featured the North's banned ballistic missiles as the neighbours pledged to boost ties, North Korean state media reported on Thursday.",
+            "url": "https://www.reuters.com/world/north-koreas-kim-jong-un-meets-russian-defence-minister-2023-07-27/",
+            "urlToImage": "https://www.reuters.com/resizer/rZZpcXzQeZUbNkS9_0UbXAO6Hdc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NTKB5PLI6JKA5DIGVQRMRR5AXU.jpg",
+            "publishedAt": "2023-07-27T04:34:06Z",
+            "content": "SEOUL, July 27 (Reuters) - Russia's defence minister accompanied North Korean leader Kim Jong Un to a defence exhibition that featured the North's banned ballistic missiles as the neighbours pledged \u2026 [+5928 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "NPR"
             },
-            "author": "NOMAAN MERCHANT",
-            "title": "UFO congressional hearing: Whistleblower says US concealing 'multi-decade' UFO program - The Associated Press",
-            "description": "A former Air Force intelligence officer has testified that the U.S. is concealing a longstanding program that retrieves and reverse engineers unidentified flying objects. Retired Maj. David Grusch\u2019s highly anticipated testimony on Wednesday before a House Ove\u2026",
-            "url": "https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7",
-            "urlToImage": "https://dims.apnews.com/dims4/default/3e5371a/2147483647/strip/true/crop/7952x4473+0+416/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3b%2Fe1%2F6b3890b48be5f89e1ff117085a08%2Ff8293121dcc04ad28f421f49fb402005",
-            "publishedAt": "2023-07-26T17:08:00Z",
-            "content": "WASHINGTON (AP) The U.S. is concealing a longstanding program that retrieves and reverse engineers unidentified flying objects, a former Air Force intelligence officer testified Wednesday to Congress\u2026 [+3376 chars]"
+            "author": "",
+            "title": "Whales beached in Australia are euthanized after rescue efforts fail - NPR",
+            "description": "After a pod of nearly 100 pilot whales beached themselves on Tuesday, more than 50 of them died overnight. Now officials say the remaining 47 will be euthanized.",
+            "url": "https://www.npr.org/2023/07/27/1190410260/whales-beached-in-australia-are-euthanized-after-rescue-efforts-fail",
+            "urlToImage": "https://media.npr.org/assets/img/2023/07/26/ap23207272728946_wide-144751b81cf87df415af1aabe2d336d9ba5f5c02-s1400-c100.jpg",
+            "publishedAt": "2023-07-27T04:18:43Z",
+            "content": "In this photo provided by the Department of Biodiversity, Conservation and Attractions, a rescuer tends to a long-finned pilot whale, Wednesday, July 26, 2023, after nearly 100 whales beached themsel\u2026 [+1435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX scrubs record-breaking Falcon Heavy rocket launch (video) - Space.com",
+            "description": "The launch team halted the countdown at T-65 seconds.",
+            "url": "https://www.space.com/spacex-scrub-falcon-heavy-launch-july-26",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KZ9vyTVWLM6Pt5BNfnApUb-1200-80.jpeg",
+            "publishedAt": "2023-07-27T03:33:41Z",
+            "content": "We'll have to wait at least another day to see SpaceX's powerful Falcon Heavy rocket lift off for the seventh time.\r\nThe Falcon Heavy was scheduled to launch Wednesday night (July 26) at 11:04 p.m. E\u2026 [+1924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "U.K. jury finds Kevin Spacey not guilty of multiple sexual assault charges - NBC News",
+            "description": "A jury in the U.K. found actor Kevin Spacey not guilty of nine counts relating to the sexual assault of four men between the years of 2004-2013. Spacey said ...",
+            "url": "https://www.youtube.com/watch?v=0ym_e8y8l6Y",
+            "urlToImage": "https://i.ytimg.com/vi/0ym_e8y8l6Y/maxresdefault.jpg",
+            "publishedAt": "2023-07-27T03:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Missing Glendale teen, Alicia Navarro, reunited with her family after four years - USA TODAY",
+            "description": "Alicia Navarro, 18, was located in a small Montana town after she went missing in September 2019 from her childhood home in Glendale.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/07/26/alicia-navarro-found-after-four-years-missing/70474392007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/07/27/USAT/fcd4cc2a-8a7e-48c6-9ba3-968568ebc41c-Alicia_Navarro.JPG?auto=webp&crop=733,413,x0,y159&format=pjpg&width=1200",
+            "publishedAt": "2023-07-27T03:27:43Z",
+            "content": "Missing Glendale teenager Alicia Navarro has been located in a small Montana town after vanishing without a trace four years ago, police announced Wednesday.\r\nThe former Arizona resident was found sa\u2026 [+5565 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox News",
+            "title": "Heart attack death risk can double during heat waves, high pollution: study - New York Post ",
+            "description": "Certain groups of people may have twice the risk of dying from a\u00a0heart attack\u00a0during heat waves and high levels of fine particulate pollution, according to a new study published in Circulation.",
+            "url": "https://nypost.com/2023/07/26/heart-attack-death-risk-doubles-during-heat-waves-high-pollution-study/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000014735997.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-07-27T02:01:00Z",
+            "content": "Certain groups of people may have twice the risk of dying from a\u00a0heart attack\u00a0during heat waves and high levels of fine particulate pollution, according to a new study published in Circulation, the j\u2026 [+5056 chars]"
         }
     ]
 }
