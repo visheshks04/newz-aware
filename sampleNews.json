@@ -1,110 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "Angus Cloud, actor on HBO series \u2018Euphoria,\u2019 dead at 25 - The Associated Press",
-            "description": "Angus Cloud, the actor who starred as the drug dealer Fezco \u201cFez\u201d O\u2019Neill on the HBO series \u201cEuphoria,\u201d has died. He was 25. Cloud\u2019s publicist, Cait Bailey, said Cloud died Monday at his family home in Oakland, California. No cause of death was given. In a st\u2026",
-            "url": "https://apnews.com/article/angus-cloud-dead-obit-euphoria-b5dac0a278f3de45b12d17351255427c",
-            "urlToImage": "https://dims.apnews.com/dims4/default/139ca3e/2147483647/strip/true/crop/4468x2513+0+114/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2Fb2%2F7544c518b37b1f1e72206997b6b5%2Ff7b127c8bce84f44867ef57d08e26a1b",
-            "publishedAt": "2023-08-01T10:30:00Z",
-            "content": "LOS ANGELES (AP) Angus Cloud, the actor who starred as the drug dealer Fezco Fez ONeill on the HBO series Euphoria, has died. He was 25. \r\nClouds publicist, Cait Bailey, said Cloud died Monday at his\u2026 [+2338 chars]"
+            "author": "Kevin Breuninger, Dan Mangan",
+            "title": "Former President Trump indicted in special counsel probe of 2020 election interference: Live updates - CNBC",
+            "description": "Former President Donald Trump was criminally charged Tuesday in connection with his efforts to reverse his loss to President Joe Biden in 2020.",
+            "url": "https://www.cnbc.com/2023/08/01/trump-indictment-live-updates-former-president-predicts-charges.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107268463-16887580462023-07-07t192314z_706576897_rc2iy1awtkx4_rtrmadp_0_usa-election-trump.jpeg?v=1690923326&w=1920&h=1080",
+            "publishedAt": "2023-08-01T22:34:00Z",
+            "content": "Then-Vice President Mike Pence took \"contemporaneous notes\" of meetings with Trump as the then-president plotted to remain in power in early 2021, and special counsel Jack Smith has those records, th\u2026 [+1486 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Daily Beast"
             },
-            "author": "Matias Grez",
-            "title": "USWNT survives late scare to reach Women\u2019s World Cup round of 16 - CNN",
-            "description": "The US Women\u2019s National Team was a post width away from exiting the Women\u2019s World Cup at the group stage, but survived a late scare to earn a goalless draw against Portugal and reach the last 16.",
-            "url": "https://www.cnn.com/2023/08/01/football/uswnt-portugal-womens-world-cup-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230801093026-04-world-cup-080123-usa-portugal.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-01T10:29:00Z",
-            "content": "The US Womens National Team was a post width away from exiting the Womens World Cup at the group stage, but survived a late scare to earn a goalless draw against Portugal and reach the last 16.\r\nWith\u2026 [+4140 chars]"
+            "author": "Isabella Ramirez",
+            "title": "Lizzo Fat-Shamed, Sexually Harassed Three of Her Dancers, Lawsuit Alleges - The Daily Beast",
+            "description": "The 44-page lawsuit also accuses Lizzo and her team of assault, racial and religious harassment, and disability discrimination.",
+            "url": "https://www.thedailybeast.com/lizzo-fat-shamed-sexually-harassed-three-of-her-dancers-lawsuit-alleges",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1713,w_3045,x_47,y_226/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1690905823/GettyImages-1566575684_p3tko4",
+            "publishedAt": "2023-08-01T22:14:19Z",
+            "content": "Lizzo, widely considered an icon of inclusivity and body positivity, has been accused of creating a hostile work environment by fat shaming and sexually harassing three of her former dancers, accordi\u2026 [+9052 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "R.J. Anderson",
+            "title": "2023 MLB trade deadline live updates: Rumors, latest news, trade tracker as Justin Verlander heads to Astros - CBS Sports",
+            "description": "Just hours remain before the 2023 MLB trade deadline; check out the latest buzz here",
+            "url": "https://www.cbssports.com/mlb/news/2023-mlb-trade-deadline-live-updates-rumors-latest-news-trade-tracker-as-justin-verlander-heads-to-astros/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/01/3599e425-6ac0-433b-ace1-63cd802c3140/thumbnail/1200x675/921c1c0aad7bf3df0d445687e177079a/verlander-getty-15.png",
+            "publishedAt": "2023-08-01T22:04:54Z",
+            "content": "Max Scherzer, now a member of the Rangers, had some comments that will certainly make waves about his now-former team. Scherzer opened up about conversations he had with Mets brass before he was deal\u2026 [+690 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Andrew Duehren",
+            "title": "Why Trucking Giant Yellow's Shutdown Could Cost Taxpayers Money - The Wall Street Journal",
+            "description": "The federal government lent Yellow $700 million during the height of the Covid-19 pandemic",
+            "url": "https://www.wsj.com/articles/why-trucking-giant-yellows-shutdown-could-cost-taxpayers-money-863c6291",
+            "urlToImage": "https://images.wsj.net/im-827017/social",
+            "publishedAt": "2023-08-01T21:33:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Kelly Kasulis Cho, Ellen Francis, Natalia Abbakumova",
-            "title": "Russia-Ukraine war news: Moscow skyscraper hit in second drone attack, mayor says - The Washington Post",
-            "description": "Russian authorities said several drones attempted to target Moscow, blaming Ukraine. A Russian strike destroyed a dormitory in Ukraine's Kharkiv.",
-            "url": "https://www.washingtonpost.com/world/2023/08/01/russia-ukraine-war-news/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HEWZNX3HSHHT5E56VQOVDP6ZM4.JPG&w=1440",
-            "publishedAt": "2023-08-01T09:58:00Z",
-            "content": "A drone hit the same Moscow skyscraper which houses offices and ministries for the second time in days, the citys mayor and Russias defense ministry said early Tuesday, blaming Ukraine. Kyiv has not \u2026 [+3758 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Ron Bousso, Shadia Nasralla",
-            "title": "BP boosts dividend even as profit slumps 70% to $2.6 bln - Reuters",
-            "description": "BP's <a href=\"https://www.reuters.com/markets/companies/BP.L\" target=\"_blank\">(BP.L)</a> second-quarter profit slumped 70% from a year earlier to $2.6 billion, missing forecasts, as refining margins and oil trading income fell, but still allowing the energy g\u2026",
-            "url": "https://www.reuters.com/business/energy/bp-boosts-dividend-even-profit-slumps-70-26-bln-2023-08-01/",
-            "urlToImage": "https://www.reuters.com/resizer/r_EMQG9DAXvaz1FD8P2zQBcyM3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5DYCZ7SP2VJ27HUAKKAYOZVOGU.jpg",
-            "publishedAt": "2023-08-01T09:46:00Z",
-            "content": "LONDON, Aug 1 (Reuters) - BP's (BP.L) second-quarter profit slumped 70% from a year earlier to $2.6 billion, missing forecasts, as refining margins and oil trading income fell, but still allowing the\u2026 [+4391 chars]"
+            "author": "Alexandra Heal, Gus Garcia-Roberts",
+            "title": "Gilgo Beach serial killer hunt stalled by infighting, dysfunction - The Washington Post",
+            "description": "The Gilgo Beach investigation was hampered by political battles, local resistance to federal investigators, and apparent apathy toward victims who sell sex.",
+            "url": "https://www.washingtonpost.com/nation/2023/08/01/gilgo-beach-serial-killer-rex-heuermann/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WZAZ4MTXJDS5Y6WBOPJDQBGZCA.JPG&w=1440",
+            "publishedAt": "2023-08-01T21:17:00Z",
+            "content": "Comment on this story\r\nComment\r\nMASSAPEQUA PARK, N.Y. A decade after the discovery of 11 bodies near Gilgo Beach sparked thesearch for one of Americas most elusive serial killers, a Long Island distr\u2026 [+20693 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "Fitch Ratings"
             },
             "author": null,
-            "title": "12.3 Billion Miles Away: NASA Has Lost Communication With Voyager 2 Spacecraft - SciTechDaily",
-            "description": "NASA's Voyager 2 has lost communication with Earth due to an unintentional shift in its antenna direction. The next programmed orientation adjustment on October 15 is expected to restore communication, while Voyager 1 continues to operate as usual. A series o\u2026",
-            "url": "https://scitechdaily.com/12-3-billion-miles-away-nasa-has-lost-communication-with-voyager-2-spacecraft/",
-            "urlToImage": "https://scitechdaily.com/images/NASA-Voyager-the-Explorer.jpg",
-            "publishedAt": "2023-08-01T08:42:57Z",
-            "content": "ByJet Propulsion LaboratoryAugust 1, 2023\r\nThis artists concept shows NASAs Voyager spacecraft against a field of stars in the darkness of space.\u00a0 Credit: NASA/JPL-Caltech\r\nNASA\r\nEstablished in 1958,\u2026 [+2870 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Heather Chen, Wayne Chang, Mengchen Zhang",
-            "title": "Chinese zoo denies its sun bears are people in costume - CNN",
-            "description": "A zoo in eastern China has denied suggestions that some of its bears were people dressed in costume after videos of a Malayan sun bear standing on its hind legs \u2013 and looking uncannily human \u2013 went viral, fueling rumors and conspiracy theories on Chinese soci\u2026",
-            "url": "https://www.cnn.com/2023/08/01/china/sun-bear-claims-china-hangzhou-zoo-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230801120342-sun-bear-claims-china-hangzhou-zoo.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-01T08:31:00Z",
-            "content": "A zoo in eastern China has denied suggestions that some of its bears were people dressed in costume after videos of a Malayan sun bear standing on its hind legs and looking uncannily human went viral\u2026 [+3434 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Myanmar junta grants partial pardon to democracy champion Suu Kyi - Reuters",
-            "description": "Myanmar's ruling military pardoned on Tuesday jailed former leader Aung San Suu Kyi on five of the 19 offences for which she was convicted but she will remain under house arrest, state media and informed sources said.",
-            "url": "https://www.reuters.com/world/asia-pacific/myanmar-junta-pardons-ex-leader-suu-kyi-five-offences-state-media-2023-08-01/",
-            "urlToImage": "https://www.reuters.com/resizer/4d3T8fYigTaavtqv-j2sSDtR42M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2JMEM2OMSJM75P6M2E5QXV3S54.jpg",
-            "publishedAt": "2023-08-01T08:26:00Z",
-            "content": "Aug 1 (Reuters) - Myanmar's ruling military pardoned on Tuesday jailed former leader Aung San Suu Kyi on five of the 19 offences for which she was convicted but she will remain under house arrest, st\u2026 [+3482 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Zack Sharf",
-            "title": "Warner Bros. Apologizes After \u2018Barbenheimer\u2019 Posts Cause Studio\u2019s Japan Unit to Criticize Parent Group - Variety",
-            "description": "The Warner Bros. Film Group in the U.S. has made a public apology about social media activity concerning the \u201cBarbenheimer\u201d meme that has caused major offence in Japan. \u201cWarner Br\u2026",
-            "url": "https://variety.com/2023/film/global/warner-bros-japan-criticizes-barbie-twitter-barbenheimer-posts-1235683885/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/07/Collage-Maker-31-Jul-2023-04-39-PM-1024-e1690835987321.jpg?w=995&h=557&crop=1",
-            "publishedAt": "2023-08-01T08:23:00Z",
-            "content": "The Warner Bros. Film Group in the U.S. has made a public apology about social media activity concerning the \u201cBarbenheimer\u201d meme that has caused major offence in Japan.\r\n\u201cWarner Brothers regrets its \u2026 [+2794 chars]"
+            "title": "Fitch Downgrades the United States' Long-Term Ratings to 'AA+' from 'AAA'; Outlook Stable - Fitch Ratings",
+            "description": null,
+            "url": "https://www.fitchratings.com/research/sovereigns/fitch-downgrades-united-states-long-term-ratings-to-aa-from-aaa-outlook-stable-01-08-2023",
+            "urlToImage": null,
+            "publishedAt": "2023-08-01T21:13:00Z",
+            "content": ""
         },
         {
             "source": {
@@ -113,153 +87,179 @@
             },
             "author": "Nouran Salahieh",
             "title": "Massive fire burning in California and Nevada is spawning dangerous \u2018fire whirls\u2019 - CNN",
-            "description": "A massive, out-of-control fire burning across both California and Nevada is generating extreme fire behavior, spawning \u201cfire whirls\u201d and creating dangerous conditions for firefighters, authorities said.",
+            "description": "A massive fire burning across both California and Nevada is generating extreme fire behavior, spawning \u201cfire whirls\u201d and creating dangerous conditions for firefighters, authorities said.",
             "url": "https://www.cnn.com/2023/08/01/us/york-fire-california-nevada-fire-whirls/index.html",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230731231938-03-fire-whirls-california-nevada.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-01T07:35:00Z",
-            "content": "A massive, out-of-control fire burning across both California and Nevada is generating extreme fire behavior, spawning fire whirls and creating dangerous conditions for firefighters, authorities said\u2026 [+4394 chars]"
+            "publishedAt": "2023-08-01T21:10:00Z",
+            "content": "A massive fire burning across both California and Nevada is generating extreme fire behavior, spawning fire whirls and creating dangerous conditions for firefighters, authorities said.\r\nThe fire, dub\u2026 [+5225 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Agnieszka Pikulicka-Wilczewska",
+            "title": "Poland rushes troops to border, Belarus denies helicopter violation - Reuters",
+            "description": "Poland said on Tuesday it was rushing troops to its eastern border after accusing Belarus, Russia's closest ally, of violating its airspace with military helicopters.",
+            "url": "https://www.reuters.com/world/europe/lukashenko-taunts-poland-again-over-wagner-troops-near-border-2023-08-01/",
+            "urlToImage": "https://www.reuters.com/resizer/d2NNkJarHSsep1N8vgIhUN76glY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EHFGHGG4YZOVJE4LZEVDY6KMRU.jpg",
+            "publishedAt": "2023-08-01T20:53:00Z",
+            "content": "WARSAW, Aug 1 (Reuters) - Poland said on Tuesday it was rushing troops to its eastern border after accusing Belarus, Russia's closest ally, of violating its airspace with military helicopters.\r\nThe B\u2026 [+3598 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "Deadline"
             },
-            "author": "Breck Dumas",
-            "title": "What pushed Yellow trucking company to point of bankruptcy? - Fox Business",
-            "description": "Yellow Corp, one of the largest trucking companies in the U.S., is on the brink of collapse with bankruptcy expected any day. Here's what to know about what led to its downfall.",
-            "url": "https://www.foxbusiness.com/markets/what-pushed-yellow-trucking-company-point-bankruptcy",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/yellow-corp.jpg?ve=1&tl=1",
-            "publishedAt": "2023-08-01T06:03:06Z",
-            "content": "U.S. trucking giant Yellow Corp. is widely expected to file for bankruptcy any day now, following reports that the nearly century-old company ceased operations nationwide and began laying off employe\u2026 [+5251 chars]"
+            "author": "Matt Grobar",
+            "title": "\u2018Euphoria\u2019 Family Mourns Angus Cloud: Reactions From Sydney Sweeney, Eric Dane, Alexa Demie, Sam Levinson, Drake & More \u2013 Update - Deadline",
+            "description": "Euphoria\u2019s cast and crew have begun delivering their remembrances of Angus Cloud, the beloved actor known for his role on the drama as good-hearted drug dealer Fezco, following the revelation\u2026",
+            "url": "https://deadline.com/2023/08/angus-cloud-death-sam-levinson-euphoria-tributes-1235451933/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/07/angus-cloud_4.jpg?w=1024",
+            "publishedAt": "2023-08-01T20:30:00Z",
+            "content": "Euphoria\u2018s cast and crew have begun delivering their remembrances of Angus Cloud, the beloved actor known for his role on the drama as good-hearted drug dealer Fezco, following the revelation today o\u2026 [+4570 chars]"
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Axios",
-            "title": "Around 450k Americans may have a tick-borne meat allergy and have no idea, study says - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/07/31/alpha-gal-ags-tick-meat-allergy-cases",
-            "urlToImage": null,
-            "publishedAt": "2023-08-01T05:31:08Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Axios",
-            "title": "Hunter Biden associate tells Congress that VP's son sold \"illusion of access\" - Axios",
-            "description": null,
-            "url": "https://www.axios.com/2023/07/31/devon-archer-testify-hunter-biden",
-            "urlToImage": null,
-            "publishedAt": "2023-08-01T05:23:49Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "CBS News",
-            "title": "Paul Reubens, actor best known for Pee-wee Herman role, dies at age 70 - CBS News",
-            "description": "Paul Reubens, the actor best known for his role as Pee-wee Herman, died after a private battle with cancer. He was 70. Omar Villafranca looks back at his legacy.",
-            "url": "https://www.cbsnews.com/video/paul-reubens-actor-best-known-for-pee-wee-herman-role-dies-at-age-70/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/31/75265329-8b21-480b-95e1-061407e6135d/thumbnail/1200x630/b7fd78562327bb39627effed78309ef1/0731-en-villafranca-2170041-640x360.jpg?v=7a59b1f350438a037e8fc5a4d24a0766",
-            "publishedAt": "2023-08-01T05:17:32Z",
-            "content": "Watch CBS News\r\nCopyright \u00a92023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Push Square"
-            },
-            "author": "Khayl Adam",
-            "title": "Embrace the Mind Flayer Within Using Baldur's Gate 3's 'Hidden' Ilithid Skill Tree - Push Square",
-            "description": "Or, how to win friends and influence people",
-            "url": "https://www.pushsquare.com/news/2023/08/embrace-the-mind-flayer-within-using-baldurs-gate-3s-hidden-ilithid-skill-tree",
-            "urlToImage": "https://images.pushsquare.com/4e7e104c76d84/1280x720.jpg",
-            "publishedAt": "2023-08-01T05:00:00Z",
-            "content": "Much of the early plot of Baldur's Gate 3 will see your character dealing with an uninvited guest (an interdimensional tadpole), which is slowly turning you, specifically, into one of those most fear\u2026 [+1625 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Phil Helsel",
-            "title": "Phoenix ends record 31-day streak of above 110-degree weather - NBC News",
-            "description": "Phoenix record-breaking hot streak of 31 consecutive days of 110 degrees or higher came to an end Monday, when temperatures at the city\u2019s airport reached just 108, the National Weather Service said.",
-            "url": "https://www.nbcnews.com/news/us-news/phoenix-ends-record-31-day-streak-110-degree-weather-rcna97458",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230719-arizona-heat-al-1120-7b3cc4.jpg",
-            "publishedAt": "2023-08-01T04:36:00Z",
-            "content": "Phoenix record-breaking hot streak of 31 consecutive days of 110 degrees or higher came to an end Monday, when temperatures at the citys airport reached just 108, the National Weather Service said.\r\n\u2026 [+770 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lim Hui Jie",
-            "title": "HSBC net profit more than doubles in the first half, announces $2 billion share buyback - CNBC",
-            "description": "Net profit for the first half stood at $18.1 billion, while revenue for the same period came in at $36.9 billion.",
-            "url": "https://www.cnbc.com/2023/08/01/hsbc-sees-89percent-yoy-rise-in-q2-pre-tax-profit-beating-analysts-expectations.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107073207-1654740740627-gettyimages-1240930096-HK_HSBC.jpeg?v=1690863249&w=1920&h=1080",
-            "publishedAt": "2023-08-01T04:14:09Z",
-            "content": "HSBC's net profit more than doubled to $18.1 billion in the six months ended June, a sharp spike compared to the $9 billion in the same period a year before.\r\nThe bank's profit before tax rose 147% y\u2026 [+4088 chars]"
+            "author": "Emily DeLetter",
+            "title": "NASA rocket launch live stream: Antares set for liftoff from Wallops - USA TODAY",
+            "description": "Whether you're in the multi-state viewing region or on the other side of the country, here's how you can watch the rocket launch live.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/08/01/nasa-rocket-launch-live-stream-antares/70506523007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2019/11/02/USAT/7a8dd34c-1ac6-4afe-be42-8429ddfc7a9c-AFP_1LY3O0.jpg?crop=3152,1773,x0,y187&width=3152&height=1773&format=pjpg&auto=webp",
+            "publishedAt": "2023-08-01T20:20:10Z",
+            "content": "NASA plans to send the\u00a0Northrop Grummans Antares rocket\u00a0on an expedition to the International Space Station to deliver supplies and conduct investigations in a Tuesday night launch that could be visi\u2026 [+885 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Nick Paton Walsh, Florence Davey-Attlee, Kostyantin Gak, Brice L\u00e2in\u00e9",
-            "title": "\u2018Nowhere to hide\u2019: The question troubling Ukrainian troops amid a grinding counteroffensive - CNN",
-            "description": "The four roads of Staromayorske appear almost ground to dust in the drone footage. It\u2019s a tiny village, but as the latest gain of Ukraine\u2019s renewed counteroffensive in the direction of Mariupol, Staromayorske\u2019s symbolism far outweighs its size.",
-            "url": "https://www.cnn.com/2023/08/01/europe/ukraine-neskuchne-question-counteroffensive-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230731152034-staromayorske-drone-video.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-01T04:08:00Z",
-            "content": "The four roads of Staromayorske appear almost ground to dust in the drone footage. Its a tiny village, but as the latest gain of Ukraines renewed counteroffensive in the direction of Mariupol, Starom\u2026 [+5131 chars]"
+            "author": "Jack Guy, Junko Ogura",
+            "title": "Warner Bros. apologizes for \u2018Barbenheimer\u2019 tweets that sparked criticism in Japan - CNN",
+            "description": "The Warner Bros. Film Group has apologized after the Twitter account for its \u201cBarbie\u201d film sparked backlash over its embrace of memes that appeared to depict the character immersed in atomic blast imagery from Universal\u2019s film \u201cOppenheimer.\u201d",
+            "url": "https://www.cnn.com/2023/08/01/media/warner-bros-barbenheimer-japan-scli-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230721092413-split-barbie-oppenheimer.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-01T20:10:00Z",
+            "content": "The Warner Bros. Film Group has apologized after the Twitter account for its Barbie film sparked backlash over its embrace of memes that appeared to depict the character immersed in atomic blast imag\u2026 [+3348 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOEY CAPPELLETTI",
+            "title": "Michigan prosecutors charge Trump allies in felonies involving voting machines, illegal 'testing' - The Associated Press",
+            "description": "Prosecutors in Michigan have filed criminal charges against individuals they say took and tampered with voting machines. Prosecutors say those charged worked to illegally take five vote tabulators from various Michigan counties. Some of those accused had argu\u2026",
+            "url": "https://apnews.com/article/matthew-deperno-michigan-trump-voting-machines-a58c4a58de84d432815ec1be39c19b90",
+            "urlToImage": "https://dims.apnews.com/dims4/default/21daf5e/2147483647/strip/true/crop/3166x1781+0+165/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2Fbe%2Fe35a23e4099f887e864783c00d53%2Ffaee7cbf7966432f9dc023cecdb58595",
+            "publishedAt": "2023-08-01T20:05:00Z",
+            "content": "LANSING, Mich. (AP) A former Republican attorney general candidate and another supporter of former President Donald Trump have been criminally charged in Michigan in connection with accessing and tam\u2026 [+3016 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Euclid telescope shares its first glimpses of the universe - CNN",
+            "description": "The European Space Agency\u2019s Euclid telescope has shared its first test images, revealing star-filled views of the cosmos. The observatory launched in July.",
+            "url": "https://www.cnn.com/2023/08/01/world/euclid-telescope-first-test-images-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230801105425-01-euclid-telescope-test-images.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-01T19:42:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe Euclid space telescope, designed to investigate so\u2026 [+5324 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Android Police"
             },
-            "author": "R.J. Anderson",
-            "title": "MLB trade rumors: Live deadline news, trades, latest on Justin Verlander, Yankees, Padres, more - CBS Sports",
-            "description": "The 2023 MLB trade deadline is set for Tuesday evening; find all the latest buzz here",
-            "url": "https://www.cbssports.com/mlb/news/mlb-trade-rumors-live-deadline-news-trades-latest-on-justin-verlander-yankees-padres-more/live/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/31/c789f922-349c-494a-87cd-b55e8b2a7d03/thumbnail/1200x675/d6f550623ed313a81d7302fc8fce0410/verlander-usatsi-4.png",
-            "publishedAt": "2023-08-01T03:52:00Z",
-            "content": "Major League Baseball's trade deadline is set for Tuesday (Aug. 1) at 6 p.m. ET. MLB teams have less than 24 hours remaining to plot out their deadline strategies, and to attempt to buy or sell ahead\u2026 [+916 chars]"
+            "author": "Matthew Zucca",
+            "title": "Fitbit's redesign blends Material You aesthetics with personalized health tracking - Android Police",
+            "description": "The upcoming makeover is all about user-friendliness",
+            "url": "https://www.androidpolice.com/fitbit-material-you-redesign/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/08/fitbit-material-you-redesign.jpg",
+            "publishedAt": "2023-08-01T19:38:00Z",
+            "content": "There are plenty of great fitness apps with a wide range of features, but one way for an app to separate itself is to focus on user experience and design. Renowned for its commitment to thorough fitn\u2026 [+1802 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Lorenzo Reyes",
+            "title": "Nathaniel Hackett responds to Sean Payton's criticism: 'Unfortunate' - USA TODAY",
+            "description": "Sean Payton's pointed remarks took Nathaniel Hackett by surprise, but the Jets offensive coordinator sees an upside for his new team.",
+            "url": "https://www.usatoday.com/story/sports/nfl/jets/2023/08/01/nathaniel-hackett-responds-sean-payton-criticism-jets-broncos/70507354007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/08/01/USAT/b3e2af84-7e32-443e-a4a9-15982c3883b6-AP_Jets_Football_2.jpg?crop=2004,1127,x0,y6&width=2004&height=1127&format=pjpg&auto=webp",
+            "publishedAt": "2023-08-01T19:30:08Z",
+            "content": "In his first public comments since Broncos coach Sean Payton ripped the job he did last year in Denver, New York Jets offensive coordinator Nathaniel Hackett called the remarks \"unfortunate\" but said\u2026 [+3675 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Charlotte Observer"
+                "name": "CNBC"
             },
-            "author": "Mark Price, Julia Coin",
-            "title": "Person of interest in custody after SUV drives into 6 migrant workers at NC Walmart - Charlotte Observer",
-            "description": "Man charged with hit-and-run after six migrant workers struck by SUV outside Lincolnton NC Walmart. Suspect said he accidentally hit the gas",
-            "url": "https://www.charlotteobserver.com/news/local/crime/article277806268.html",
-            "urlToImage": "https://www.charlotteobserver.com/latest-news/9ebrrz/picture277824918/alternates/LANDSCAPE_1140/Screenshot%202023-07-31%20at%202.56.23%20PM.png",
-            "publishedAt": "2023-08-01T03:15:00Z",
-            "content": "Six North Carolina migrant farm workers left a Walmart in Lincoln County with broken legs, broken ankles and concussions after a driver plowed his SUV through them in the parking lot around lunchtime\u2026 [+6088 chars]"
+            "author": "Amelia Lucas",
+            "title": "Starbucks beats earnings estimates, but sales disappoint despite China boom - CNBC",
+            "description": "Starbucks stock has risen just 1.5% this year, giving the company a market value of $115 billion.",
+            "url": "https://www.cnbc.com/2023/08/01/starbucks-sbux-q3-2023-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107278180-1690490803557-gettyimages-1557957159-porzycki-charlero230727_npkfy.jpeg?v=1690918201&w=1920&h=1080",
+            "publishedAt": "2023-08-01T19:30:01Z",
+            "content": "Starbucks on Tuesday reported quarterly earnings that beat analysts' expectations, but its same-store sales missed Wall Street's estimates.\r\nShares of the company fell less than 1% in extended tradin\u2026 [+1432 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "SAM MEDNICK",
+            "title": "Niger crisis deepens as European nations evacuate and coup leaders get support from other juntas - The Associated Press",
+            "description": "A French military transport plane carrying Europeans has departed Niger in the first such evacuation flight since mutinous soldiers ousted the country\u2019s democratically elected president nearly a week ago and shut its borders. France, Italy and Spain all annou\u2026",
+            "url": "https://apnews.com/article/niger-coup-west-africa-use-of-force-mali-burkina-faso-0b951ec77a89033c84e6f0972cc21b5f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/39b8161/2147483647/strip/true/crop/3000x1688+0+214/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6f%2Fdf%2F7956b51e220ba99ee0b9f645efdc%2Fdea12c9594ad431992c2b9c8a4b75589",
+            "publishedAt": "2023-08-01T19:24:00Z",
+            "content": "NIAMEY, Niger (AP) A French military transport plane carrying Europeans departed Niger on Tuesday in the first such evacuation flight since mutinous soldiers ousted the countrys democratically electe\u2026 [+7148 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WPEC"
+                "name": "SFGate"
             },
-            "author": "Luli Ortiz",
-            "title": "CDC: Leprosy cases surge in Central Florida, what to know about the disease - WPEC",
-            "description": "People might think of leprosy as a plague from biblical times, but it is still out there and Florida is reporting a rare increase in cases.",
-            "url": "https://cbs12.com/news/local/cdc-leprosy-hansens-disease-cases-surge-in-central-florida-what-to-know-about-the-disease-south-florida-infectious-disease-armadillos-july-31-2023",
-            "urlToImage": "https://cbs12.com/resources/media/8ba95079-f559-45b8-aaed-33f91be8d525-large16x9_hypatiah_00651998ddefd87c35e0ee91052c2db1h_62bfe302af984a98155981b82283fcc8.jpg?1594819273071",
-            "publishedAt": "2023-08-01T02:49:00Z",
+            "author": "Amanda Bartlett",
+            "title": "The first of two supermoons will be visible from the Bay Area tonight - SFGATE",
+            "description": "Tonight, the first of this month's two supermoons will be visible over the Bay Area. The second, on Aug. 30, will also be a \"blue moon.\"",
+            "url": "https://www.sfgate.com/news/article/supermoon-blue-moon-bay-area-18272417.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/17/63/06/20918686/5/rawImage.jpg",
+            "publishedAt": "2023-08-01T18:40:48Z",
+            "content": "Frederic Larson @mysticalphoto photographed April's pink supermoon in the night sky over Coit Tower in San Francisco on Monday evening, April 26, 2021.\r\nInstagram / mysticalphoto\r\nIf the moon appears\u2026 [+2568 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "George Ramsay, Tara Subramaniam",
+            "title": "US coach Vlatko Andonovski hits back at criticism of team after draw against Portugal - CNN",
+            "description": "US Women\u2019s National Team (USWNT) coach Vlatko Andonovski said it was \u201cinsane\u201d for anyone to question the team\u2019s commitment as he responded to criticism from former soccer star Carli Lloyd.",
+            "url": "https://www.cnn.com/2023/08/01/sport/usa-portugal-womens-world-cup-reaction-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230801071445-01-vlatko-andonovski-us-portugal-wwc-2023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-01T18:34:00Z",
+            "content": "US coach Vlatko Andonovski said it was insane for anyone to question the teams commitment as he responded to criticism from former American international soccer star Carli Lloyd.\r\nThe player of the m\u2026 [+4955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Doctors warn COVID hospitalizations are rising - CBS News",
+            "description": "While overall COVID-19 numbers remain relatively low, the CDC is reporting hospitalizations are up 12.1% in the past week. Dr. William Schaffner, professor o...",
+            "url": "https://www.youtube.com/watch?v=KbntsrJDJlM",
+            "urlToImage": "https://i.ytimg.com/vi/KbntsrJDJlM/maxresdefault.jpg",
+            "publishedAt": "2023-08-01T18:06:36Z",
             "content": null
         }
     ]
