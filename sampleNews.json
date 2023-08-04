@@ -1,162 +1,162 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 36,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Giri Viswanathan",
+            "title": "Central Florida is a hot spot for leprosy, report says - CNN",
+            "description": "According to a research letter published in the journal Emerging Infectious Diseases, Central Florida reported among the highest rates of leprosy in the United States. The region accounted for 81% of cases in Florida and nearly 1 out of 5 leprosy cases nation\u2026",
+            "url": "https://www.cnn.com/2023/08/01/health/leprosy-central-florida/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230801132836-mycobacterium-leprae-bacteria.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-03T00:33:00Z",
+            "content": "When a 54-year-old landscaper came into an Orlando dermatology clinic with a splotchy, painful rash, Dr. Rajiv Nathoo took five or six biopsies. The rash was spreading from the mans limbs to his face\u2026 [+6904 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Macie Goldfarb, Steve Contorno",
+            "title": "Disney's governing district in Florida slashes all DEI programs - CNN",
+            "description": "In the ongoing battle between Walt Disney World and Florida Gov. Ron DeSantis, Disney\u2019s governing district \u2013 whose current board was hand-picked by DeSantis and took control of the district in February \u2013 abolished all of its diversity, equity and inclusion pr\u2026",
+            "url": "https://www.cnn.com/2023/08/02/politics/disney-reedy-creek-dei/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230802103406-01-reedy-creek-041723-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-03T00:13:00Z",
+            "content": "In the ongoing battle between Walt Disney World and Florida Gov. Ron DeSantis, Disneys governing district whose current board was hand-picked by DeSantis and took control of the district in February \u2026 [+2672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Brian Evans",
+            "title": "Stock futures are little changed Wednesday night after U.S. downgrade spurs a sell-off: Live updates - CNBC",
+            "description": "Fitch\u2019s recent downgrade of the United States\u2019 long-term rating dragged down investors\u2019 spirits \u2013 as well as the major averages.",
+            "url": "https://www.cnbc.com/2023/08/02/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107264951-16880636922023-06-29t181659z_1135419903_rc22t1afu4dw_rtrmadp_0_usa-stocks.jpeg?v=1691013812&w=1920&h=1080",
+            "publishedAt": "2023-08-03T00:09:00Z",
+            "content": "Stock futures were little changed Wednesday as traders contended with Fitch's recent downgrade of the United States' long-term rating.\r\nFutures tied to the S&amp;P 500 gained 0.1%, while Nasdaq 100 f\u2026 [+1679 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sara Moniuszko",
+            "title": "Ozempic, Mounjaro manufacturers sued over claims of \"stomach paralysis\" side effects - CBS News",
+            "description": "A personal injury law firm filed a suit against Novo Nordisk and Eli Lilly and Co., the manufacturers of Ozempic\u200b and Mounjaro\u200b.",
+            "url": "https://www.cbsnews.com/news/ozempic-mounjaro-lawsuit-gastroparesis-stomach-paralysis-side-effect/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/02/611031c3-2a18-4596-84c6-d9e45cefbc42/thumbnail/1200x630/e404ab4e40c09a1b1314c200d078466d/gettyimages-1482904302.jpg?v=523df724471d66f84598615fede8d33f",
+            "publishedAt": "2023-08-02T23:52:00Z",
+            "content": "A personal injury law firm has filed a lawsuit against Novo Nordisk and Eli Lilly and Co., the manufacturers of Ozempic and Mounjaro, over claims that the diabetes drugs, which are popular for aiding\u2026 [+3251 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Cara Tabachnick",
+            "title": "Woman escapes from cinderblock cell in Oregon, prompting FBI search for more possible victims - CBS News",
+            "description": "The suspect has lived in 10 states since 2016 and the FBI is looking for more potential victims.",
+            "url": "https://www.cbsnews.com/news/woman-kidnapped-oregon-cinderblock-makeshift-cell-fbi-search/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/02/fb66aee0-e660-4d31-ae14-4f90e66a5157/thumbnail/1200x630/2133ee11f31697ae9512cd2dc983eaeb/makeshift-cinderblock.jpg?v=523df724471d66f84598615fede8d33f",
+            "publishedAt": "2023-08-02T23:32:00Z",
+            "content": "The FBI is searching for other possible victims in at least 10 states, authorities said, after a woman escaped a makeshift cinderblock cell in Oregon where she was allegedly assaulted.\r\nThe suspect, \u2026 [+2434 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Larry Madowo, Jessie Gretener, Tara John",
+            "title": "A Niger coup leader meets with Wagner-allied junta in Mali - CNN",
+            "description": "General Salifou Mody, one of the Niger officers who seized power in a military coup last week, visited Mali on Wednesday, according to the Mali presidency, amid speculation of a possible interest in the Wagner mercenary group, which has a presence in the coun\u2026",
+            "url": "https://www.cnn.com/2023/08/02/africa/niger-coup-mali-wagner-intl-afr/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230802145004-general-salifou-mody.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-02T23:28:00Z",
+            "content": "General Salifou Mody, one of the Niger officers who seized power in a military coup last week, visited Mali on Wednesday, according to the Mali presidency, amid speculation of a possible interest in \u2026 [+3415 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Instant View: Fitch downgrades U.S. foreign currency ratings to 'AA+' from 'AAA' - Reuters",
+            "description": "(This Aug. 1 story has been refiled to say 'wait for a few days,' not 'wait for a few times' in paragraph 11 )",
+            "url": "https://www.reuters.com/markets/us/view-fitch-downgrades-us-foreign-currency-ratings-aa-aaa-2023-08-01/",
+            "urlToImage": "https://www.reuters.com/resizer/VGPV5dtnIg0pPyVs_e5NcbJBFKY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/COSK6NPXOBPM5FG64ES6FC7SCE.jpg",
+            "publishedAt": "2023-08-02T22:06:00Z",
+            "content": "Aug 1 (Reuters) - (This Aug. 1 story has been refiled to say 'wait for a few days,' not 'wait for a few times' in paragraph 11 )\r\nRatings agency Fitch on Tuesday downgraded the United States' long-te\u2026 [+8148 chars]"
+        },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "ANDY WONG, HUIZHONG WU",
-            "title": "Beijing records heaviest rainfall in at least 140 years, causing severe flooding and 21 deaths - The Associated Press",
-            "description": "China\u2019s capital has recorded its heaviest rainfall in at least 140 years over the past few days. The Beijing Meteorological Bureau says the city recorded 29.3 inches of rain between Saturday and Wednesday morning. Chinese authorities on Tuesday said the torre\u2026",
-            "url": "https://apnews.com/article/china-beijing-rainfall-floods-1a8f968799bd539d11f3421010b8f2a9",
-            "urlToImage": "https://dims.apnews.com/dims4/default/e4a18d2/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2Fab%2Fce131c10c2dc4b4c426f8f63e672%2Ff59df53fb20e4602835a0caece16b598",
-            "publishedAt": "2023-08-02T12:17:00Z",
-            "content": "ZHUZHOU, Hebei (AP) Chinas capital has recorded its heaviest rainfall in at least 140 years over the past few days after being deluged with heavy rains from the remnants of Typhoon Doksuri.\r\nThe city\u2026 [+2646 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Amelia Lucas",
-            "title": "Taco Bell owner Yum Brands misses revenue estimates despite soaring KFC sales - CNBC",
-            "description": "Yum Brands restaurant KFC's same-store sales climbed 13%, fueled by demand in China, its largest market.",
-            "url": "https://www.cnbc.com/2023/08/02/yum-brands-yum-q2-2023.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106834618-1612362484437-gettyimages-1198751148-YUM-BRANDS-EARNS.jpg?v=1690975000&w=1920&h=1080",
-            "publishedAt": "2023-08-02T11:16:40Z",
-            "content": "Yum Brands on Wednesday reported mixed quarterly results as Taco Bell's and Pizza Hut's same-store sales disappointed.\r\nShares of the company fell less than 1% in premarket trading.\r\nHere's what the \u2026 [+1436 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "ESPN",
-            "title": "2023 MLB trade deadline: What to make of Mets, Yankees, more - ESPN",
-            "description": "Are the 2023 Angels for real? What about the 2026 Mets? We separate truth from fiction.",
-            "url": "https://www.espn.com/mlb/story/_/id/38109482/2023-mlb-trade-deadline-real-not-verlander-ohtani-mets-angels-yankees",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0801%2Fr1205022_2_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-08-02T11:00:00Z",
-            "content": "The Los Angeles Angels didn't deal Shohei Ohtani and instead surrounded him with new additions. The New York Mets traded both Justin Verlander and Max Scherzer, and threw in the towel for 2023. Those\u2026 [+12698 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "The Associated Press",
-            "title": "Alex Murdaugh accomplice sentenced to 7 years in prison for role in fraud scheme - NBC News",
-            "description": "The man who once headed a highly respected bank in the South Carolina Lowcountry will spend seven years in federal prison for helping convicted murderer Alex Murdaugh steal nearly $2 million from clients\u2019 legal settlements.",
-            "url": "https://www.nbcnews.com/news/us-news/alex-murdaugh-accomplice-sentenced-7-years-prison-role-fraud-scheme-rcna97685",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230802-russell-laffitte-mb-1102-1ea08b.jpg",
-            "publishedAt": "2023-08-02T10:49:05Z",
-            "content": "The man who once headed a highly respected bank in the South Carolina Lowcountry will spend seven years in federal prison for helping convicted murderer\u00a0Alex Murdaugh\u00a0steal nearly $2 million from cli\u2026 [+4061 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Emily DeLetter",
-            "title": "Mega Millions next drawing: At $1.25B, jackpot fourth-largest ever - USA TODAY",
-            "description": "The jackpot currently sits at $1.25 billion ahead of Friday's drawing, the fourth-largest prize in the lottery's history.",
-            "url": "https://www.usatoday.com/story/money/2023/08/02/mega-millions-next-drawing/70511492007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/15/PBRE/7567e03c-77e5-4550-9eea-a7ed20734edd-54553FE8-815D-4E68-BB82-56998F93D53C.jpeg?crop=4031,2267,x0,y579&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2023-08-02T10:48:06Z",
-            "content": "With no Mega Millions\u00a0jackpot winners since April, the lottery's grand prize continues to grow, now climbing over\u00a0$1.2 billion\u00a0after Tuesday's drawing and inching closer to more all-time records.\r\nAh\u2026 [+2744 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Pope arrives in Portugal amid clergy sexual abuse scandal - Al Jazeera English",
-            "description": "Francis will attend a global gathering of young Catholics \u2013 a $175m event held amid Portugal\u2019s cost-of-living crisis.",
-            "url": "https://www.aljazeera.com/news/2023/8/2/pope-arrives-in-portugal-amid-clergy-sexual-abuse-scandal",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/AP23214339418052-1690970679.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-08-02T10:47:40Z",
-            "content": "Pope Francis has landed in Lisbon for a global gathering of young Catholics taking place in the shadow of Portugals huge clergy sexual abuse scandal and criticism of soaring costs for the event.\r\nHun\u2026 [+3032 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Spencer Kimball",
-            "title": "CVS beats on earnings and revenue as the company slashes costs - CNBC",
-            "description": "CVS is cutting costs as it pushes deeper into health-care services after its acquisitions of\u00a0Signify Health\u00a0and Oak Street Health.",
-            "url": "https://www.cnbc.com/2023/08/02/cvs-health-cvs-q2-2023-earnings.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106065567-1565182123822gettyimages-1159973079.jpeg?v=1690972756&w=1920&h=1080",
-            "publishedAt": "2023-08-02T10:39:16Z",
-            "content": "CVS Health on Wednesday reported second-quarter earnings and revenue that beat expectations, as the company slashes costs and lays off thousands of employees.\r\nCVS has implemented a cost-cutting prog\u2026 [+2335 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Why are leprosy cases surging in US state of Florida? - Al Jazeera English",
-            "description": "Leprosy has been uncommon in the United States but studies suggest it is now spreading within its population.",
-            "url": "https://www.aljazeera.com/news/2023/8/2/why-are-leprosy-cases-surging-in-us-state-of",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/GettyImages-1179781742-1690968691.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-08-02T10:31:41Z",
-            "content": "Leprosy cases are surging in Florida, suggesting the chronic infectious disease may have become endemic in the southeastern United States.\r\nThe number of cases more than doubled in the southeastern s\u2026 [+2778 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Julia Ainsley, Dan De Luce",
-            "title": "Are the Biden administration's 'processing centers' for migrants in Latin America doing any good? - NBC News",
-            "description": "The Biden admin opened \u201cprocessing centers\u201d in Latin America that let migrants apply for U.S. entry from afar. But NGOS know of no migrants who've used the centers and won U.S. entry.",
-            "url": "https://www.nbcnews.com/news/investigations/are-us-migrant-processing-centers-latin-america-working-rcna97584",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230801-colombia-haiti-migrants-2021-ac-703p-23f6ed.jpg",
-            "publishedAt": "2023-08-02T10:30:00Z",
-            "content": "In April, the Biden administration announced it would be opening processing centers in Central and South America to allow migrants to apply to come to the U.S. without making the dangerous journey to\u2026 [+4290 chars]"
+            "author": "MARK LONG",
+            "title": "FSU will consider leaving the ACC without 'radical change' to revenue model, school's president says - The Associated Press",
+            "description": "Florida State President Rick McCullough believes the Seminoles will have to consider leaving the Atlantic Coast Conference unless there is a \"radical change to the revenue distribution.\u201d McCullough made his remarks Wednesday at a board of trustees meeting, st\u2026",
+            "url": "https://apnews.com/article/florida-state-acc-conference-realignment-c10c2ec83dbd59d6281f98a18ebd8bf5",
+            "urlToImage": "https://dims.apnews.com/dims4/default/2731919/2147483647/strip/true/crop/5161x2903+0+269/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F42%2Fa9%2Fbaa3d3fd7a2cb9a96038f0999cf1%2Fb09cbf8297ee4262b41390c31c848138",
+            "publishedAt": "2023-08-02T21:57:00Z",
+            "content": "Florida State President Rick McCullough believes the Seminoles will have to consider leaving the Atlantic Coast Conference unless there is a radical change to the revenue distribution.\r\nMcCullough ma\u2026 [+4489 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Joseph Ataman, Larry Madowo, Caitlin Hu, Shirin Faqiri, Sana Noor Haq",
-            "title": "Europeans evacuated from Niger as neighboring West African juntas warn against intervention - CNN",
-            "description": "Hundreds of European nationals are being evacuated from Niger in the wake of a military coup that has plunged the West African nation into a political crisis and rattled the region.",
-            "url": "https://www.cnn.com/2023/08/01/africa/niger-coup-europe-evacuations-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230801100018-06-niger-coup-073023-protest.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-02T10:09:00Z",
-            "content": "Hundreds of European nationals are being evacuated from Niger in the wake of a military coup that has plunged the West African nation into a political crisis and rattled the region.\r\nTwo Airbus A330 \u2026 [+7392 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Matt Foster",
-            "title": "Sweden to play US in last 16 after beating Argentina as South Africa makes history - CNN",
-            "description": "A meeting between Sweden and the US in the first knockout stage of the Women\u2019s World Cup was confirmed on Wednesday as the Scandinavian side beat Argentina 2-0.",
-            "url": "https://www.cnn.com/2023/08/02/football/sweden-south-africa-italy-womens-world-cup-2023-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230802161301-01-wwcup-argentina-sweden-soccer.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-02T10:01:00Z",
-            "content": "A meeting between Sweden and the US in the first knockout stage of the Womens World Cup was confirmed on Wednesday as the Scandinavian side beat Argentina 2-0.\r\nIn the other Group G game, Italy and S\u2026 [+5040 chars]"
+            "author": "Alli Rosenbloom",
+            "title": "Lizzo sued by three former dancers alleging harassment and hostile work environment - CNN",
+            "description": "Lizzo has been sued by three former dancers who claim they were subjected to a hostile work environment and harassment while they were members of the Grammy-winner\u2019s dance team.",
+            "url": "https://www.cnn.com/2023/08/01/entertainment/lizzo-sued-by-dancers/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230801130745-lizzo-file-050123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-02T21:36:00Z",
+            "content": "Lizzo has been sued by three former dancers who claim they were subjected to a hostile work environment and harassment while they were members of the Grammy-winners dance team. \r\nThe complaint, filed\u2026 [+1680 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Kyle Barr",
-            "title": "A Hands-on With the Samsung Galaxy Z Flip 5 - Gizmodo",
-            "description": "After initial testing, the Galaxy Z Flip 5 feels like it needs more apps available on its larger, 3.4-inch exterior screen.",
-            "url": "https://gizmodo.com/samsung-galaxy-z-flip-5-hands-on-1850697358",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5159460258dd4abc907a976328bc3e8a.jpg",
-            "publishedAt": "2023-08-02T10:00:00Z",
-            "content": "Of Samsungs latest foldable mobile offerings unveiled at its latest Unpacked event, the most dramatic changes weve seen come via the Galaxy Z Flip 5. Not only do we finally have a fully flat silhouet\u2026 [+2247 chars]"
+            "author": "Jenny Surane",
+            "title": "PayPal Sees Pressure on Margin With Loan Provisions Climbing - Yahoo Finance",
+            "description": "(Bloomberg) -- PayPal Holdings Inc. shares slumped after the payments giant said a key measure of profits shrank in the second quarter as the company had to ...",
+            "url": "https://finance.yahoo.com/news/paypal-sees-pressure-margins-loan-203359394.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0CK8i2tAObxJ3OCOvxECdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/37f011c5f9854edf19acaa0543b01a9a",
+            "publishedAt": "2023-08-02T21:14:30Z",
+            "content": "(Bloomberg) -- PayPal Holdings Inc. shares slumped after the payments giant said a key measure of profits shrank in the second quarter as the company had to set aside more money to cover souring loan\u2026 [+3355 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Police search Senate office buildings after report of active shooter; later declare it a false alarm - The Associated Press",
+            "description": "Authorities issued a shelter-in-place order and searched Senate office buildings near the U.S. Capitol Wednesday afternoon amid reports of an active shooter. But a floor-by-floor search of the three buildings found nothing, and Capitol Police Chief Tom Manger\u2026",
+            "url": "https://apnews.com/article/congress-senate-lockdown-capitol-police-acf2c7c341e3445f190a59e0aaf52067",
+            "urlToImage": "https://dims.apnews.com/dims4/default/9486165/2147483647/strip/true/crop/4987x2805+0+259/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2Fdd%2F0cd597860f72a4549c29800088c4%2F7b126a9a74984c74aafe9ee39b745b22",
+            "publishedAt": "2023-08-02T20:48:00Z",
+            "content": "WASHINGTON (AP) Authorities issued a shelter-in-place order and searched Senate office buildings near the U.S. Capitol Wednesday afternoon after a 911 call warned of a possible active shooter. But a \u2026 [+1780 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dan Diamond, Rachel Roubein",
+            "title": "NIH taps Jeanne Marrazzo to succeed Fauci as infectious-disease chief - The Washington Post",
+            "description": "The Alabama physician is likely to face scrutiny from lawmakers and watchdog groups that have taken aim at the National Institutes of Health.",
+            "url": "https://www.washingtonpost.com/health/2023/08/02/new-nih-niaid-director-jeanne-marrazzo-anothony-fauci/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VY4PGUUA7MI6XPRCGLJTDWDVGA.jpg&w=1440",
+            "publishedAt": "2023-08-02T20:45:00Z",
+            "content": "Comment on this story\r\nComment\r\nJeanne M. Marrazzo, a University of Alabama at Birmingham infectious-disease expert, will succeed Anthony S. Fauci this fall as director of the National Institute of A\u2026 [+5993 chars]"
         },
         {
             "source": {
@@ -164,103 +164,103 @@
                 "name": "Engadget"
             },
             "author": null,
-            "title": "Canon's new security-focused 'SPAD' camera can capture color video in complete darkness - Engadget",
-            "description": "Canon has just unveiled the MS-500, an unusual model that's one of the most sensitive non-infrared cameras ever developed..",
-            "url": "https://www.engadget.com/canons-new-security-focused-spad-camera-can-capture-color-video-in-complete-darkness-095516159.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ScCkhZ2uad8QsWyilGtbdg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/1e0b49e0-3113-11ee-bf6e-aacb14b0a178.cf.jpg",
-            "publishedAt": "2023-08-02T09:59:10Z",
-            "content": "Canon has just unveiled the MS-500, an unusual model that's one of the most sensitive non-infrared cameras ever developed. It uses the highest-resolution 1-inch SPAD (Single-photon avalanche diode) s\u2026 [+1474 chars]"
+            "title": "Keychron's first gaming keyboard is the customizable Lemokey L3 | Engadget - Engadget",
+            "description": "Keychron has unveiled its first gaming keyboard, and it's a crowdfunded model built to handle esports..",
+            "url": "https://www.engadget.com/keychrons-first-gaming-keyboard-is-the-customizable-lemokey-l3-204239893.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/DTcngAiVh8oGttXPcminFw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/75fef1f0-316e-11ee-9ff9-202c3ee6e01a.cf.jpg",
+            "publishedAt": "2023-08-02T20:44:10Z",
+            "content": "Keychron is one of the better-known names in the customizable keyboard space, but it hasn't directly targeted gamers until now, that is. The company has launched a gaming division, Lemokey, whose fir\u2026 [+1299 chars]"
         },
         {
             "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
+                "id": "axios",
+                "name": "Axios"
             },
-            "author": null,
-            "title": "Jamaica vs. Brazil highlights: Jamaica advances with draw; Marta's World Cup career ends - FOX Sports",
-            "description": "The 2023 FIFA Women's World Cup continues Wednesday with Jamaica taking on Brazil in Australia. Here are the top moments!",
-            "url": "https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-jamaica-brazil",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/07.31.23_Womens-World-Cup-Top-Moments_Jamaica-vs-Brazil_16x9_1.jpg?ve=1&tl=1",
-            "publishedAt": "2023-08-02T09:37:03Z",
-            "content": "The 2023 FIFA Women's World Cup continued Wednesday (on FS1 and the FOX Sports app), with Jamaica (1-2-0) taking down Brazil (1-1-1) at Melbourne Rectangular Stadium in Australia to advance to the kn\u2026 [+2660 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Namita Singh",
-            "title": "Trump hit with 2020 election charges as he likens it to 'Nazi persecution' \u2013 live - The Independent",
-            "description": "Former president is indicted for a third time, his second federal indictment, and his first for his alleged conduct while in office",
-            "url": "https://www.independent.co.uk/news/world/americas/us-politics/donald-j-trump-indictment-coconspirators-49-page-b2386039.html",
-            "urlToImage": "https://static.independent.co.uk/2023/07/30/00/f787a96be49c45e282536775647f5932.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-08-02T09:20:20Z",
-            "content": "Co-conspirator 1: Former New York City Mayor and Trump lawyer Rudy Giuliani\r\nThe individual known as co-conspirator number one appears to be former New York City Mayor and Mr Trumps former attorney R\u2026 [+1440 chars]"
+            "author": "Axios",
+            "title": "Trump will have mugshot taken if indicted in Georgia probe, sheriff says - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/08/02/fulton-county-sheriff-trump-will-have-mugshot-taken-if-indicted",
+            "urlToImage": null,
+            "publishedAt": "2023-08-02T20:34:42Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Cops Identify Body That Was Found in Barrel on Beach in Malibu - Inside Edition",
+            "description": "Investigators in California say they have identified the man whose body was found in a barrel on a beach in Malibu. The LA County Sheriff\u2019s Department says f...",
+            "url": "https://www.youtube.com/watch?v=OpoFUlLVFgY",
+            "urlToImage": "https://i.ytimg.com/vi/OpoFUlLVFgY/maxresdefault.jpg",
+            "publishedAt": "2023-08-02T20:31:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian sport",
+            "title": "Carli Lloyd walks back criticism of USWNT after backlash - The Guardian",
+            "description": "Former USA forward Carli Lloyd has walked back her criticism of the two-time defending champions following Tuesday\u2019s scoreless draw with Portugal",
+            "url": "https://www.theguardian.com/football/2023/aug/02/carli-lloyd-walks-back-uswnt-criticism-fox-world-cup",
+            "urlToImage": "https://i.guim.co.uk/img/media/27fb5357b92b37bef2684bb9c8b3d88d6a0997d3/360_42_4364_2619/master/4364.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3aac614891716a86a7f029b57676f4f7",
+            "publishedAt": "2023-08-02T19:44:00Z",
+            "content": "Former USA forward Carli Lloyd has walked back her headline-grabbing criticism of the two-time defending champions following Tuesdays scoreless draw with Portugal.\r\nLloyd, who was capped 316 times fo\u2026 [+8956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
             },
             "author": "",
-            "title": "Tests for genetic cancer risk are cheap, but many patients don't get them : Shots - Health News - NPR",
-            "description": "Millions of people in the U.S. have a genetic variant that raises their risk of cancer. Genetic testing can help people find cancer earlier and seek treatment. But many patients aren't offered it.",
-            "url": "https://www.npr.org/sections/health-shots/2023/08/02/1191419631/cancer-risk-test-genetic-genes-inexpensive-why-dont-more-people-get-tested",
-            "urlToImage": "https://media.npr.org/assets/img/2023/08/01/nottingham-family_wide-6cab0fd1a29a792c4d6a168857792cc814204723-s1400-c100.jpeg",
-            "publishedAt": "2023-08-02T09:10:51Z",
-            "content": "Jeremy Nottingham (bottom right) sits for a family photo with his parents, Junius and Sharon, and sister Briana.\r\nJunius Nottingham Jr. \r\nA few years ago, Junius Nottingham Jr. was on a family vacati\u2026 [+10196 chars]"
+            "title": "MLB trade deadline winners and losers: Yankees, Red Sox, Orioles needed more, plus silver lining for Mets fans - CBS Sports",
+            "description": "The Mets traded with Texas, many AL contenders stayed quiet and more from the 2023 MLB trade deadline",
+            "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-winners-and-losers-yankees-red-sox-orioles-needed-more-plus-silver-lining-for-mets-fans/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/02/8a85f02f-d370-453c-9f9d-16dcff77c2d4/thumbnail/1200x675/08da560d7447007951a6f9719a29bce2/cashman-usatsi.png",
+            "publishedAt": "2023-08-02T18:46:00Z",
+            "content": "The 2023 Major League Baseball season has entered August and you know what that means. Well, many things, but in this space I'm referencing the coming and going of the MLB trade deadline. It was move\u2026 [+11451 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "HANNA ARHIROVA",
+            "title": "Russian drone strikes on Ukraine Odesa region cause fires at port - The Associated Press",
+            "description": "Russian drones have hit a Ukrainian port city along the border with Romania, causing significant damage and a huge fire at facilities that are key to Ukrainian grain exports. Russia has hammered the country\u2019s ports with strikes since halting a deal that allow\u2026",
+            "url": "https://apnews.com/article/russia-ukraine-war-drone-strikes-odesa-kyiv-8b20147a55f29a0c0bc465b59274357e",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f45d05f/2147483647/strip/true/crop/4240x2385+0+224/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2Fd5%2Fe744e1ed73c93667290facdf2ce9%2Fd05f285f10434f8e9bce6c33d49dd5a9",
+            "publishedAt": "2023-08-02T18:37:00Z",
+            "content": "KYIV, Ukraine (AP) Russian drones on Wednesday hit a Ukrainian port city along the border with Romania, causing significant damage and a huge fire at facilities that are key to Ukrainian grain export\u2026 [+5647 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "New York Post"
             },
-            "author": "Emily Olson",
-            "title": "NASA says it detected a signal from Voyager 2 spacecraft - NPR",
-            "description": "The Jet Propulsion Lab lost contact with Voyager 2, which is traveling 12.3 billion miles away from Earth, after engineers mistakenly pointed its antenna 2 degrees away from its home planet.",
-            "url": "https://www.npr.org/2023/08/02/1191341035/nasa-voyager-2-spacecraft-contact",
-            "urlToImage": "https://media.npr.org/assets/img/2023/08/01/gettyimages-164430702_wide-14fc83c1c58c3480e6bc371c972dba68af52258a-s1400-c100.jpg",
-            "publishedAt": "2023-08-02T09:01:51Z",
-            "content": "A NASA image of one of the twin Voyager space probes. The Jet Propulsion Laboratory lost contact with Voyager 2 on July 21 after mistakenly pointing its antenna 2 degrees away from Earth.\r\nNASA/Getty\u2026 [+2807 chars]"
+            "author": "Andrew Court",
+            "title": "UK zoo releases video of its own standing, waving 'human bear' as proof that it's real - New York Post ",
+            "description": "Experts say a surreal video of a Malayan Sun bear captured at China\u2019s Hangzhou Zoo is legitimate.",
+            "url": "https://nypost.com/2023/08/02/zoo-confirms-standing-waving-human-bear-is-real-natural-behavior/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-urezk3j6x-1690998651926.jpg?quality=75&strip=all&1690984330&w=1024",
+            "publishedAt": "2023-08-02T18:28:00Z",
+            "content": "They\u2019re the bearer of good news. \r\nExperts said a video of a sun bear captured at China\u2019s Hangzhou Zoo is legitimate. \r\nOver the weekend, footage of the bear seen standing upright and waving to crowd\u2026 [+2863 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "SciTechDaily"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": null,
-            "title": "Drinking Kombucha Linked to Reduced Blood Sugar Levels in People With Type 2 Diabetes - SciTechDaily",
-            "description": "Small pilot study suggests larger trials are warranted to confirm the potential benefit of fermented tea. People with type 2 diabetes who drank kombucha, the fermented tea drink, for four weeks had lower fasting blood glucose levels compared to when they cons\u2026",
-            "url": "https://scitechdaily.com/drinking-kombucha-linked-to-reduced-blood-sugar-levels-in-people-with-type-2-diabetes/",
-            "urlToImage": "https://scitechdaily.com/images/Homemade-Kombucha-Tea.jpg",
-            "publishedAt": "2023-08-02T08:33:04Z",
-            "content": "ByGeorgetown University Medical CenterAugust 2, 2023\r\nResearchers found that type 2 diabetes patients who consumed kombucha over four weeks had lower fasting blood glucose levels than those who drank\u2026 [+6810 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Trump's new judge is a tough Jan. 6 sentencer \u2014 and has a history with him - POLITICO",
-            "description": "Meet Tanya Chutkan, the Obama appointee who was randomly chosen to preside over Trump's newest case.",
-            "url": "https://www.politico.com/news/2023/08/02/trump-judge-tanya-chutkan-00109342",
-            "urlToImage": "https://static.politico.com/24/1d/b2743cda4460a510ab102ce6815b/https-delivery-gettyimages.com/downloads/1534455292",
-            "publishedAt": "2023-08-02T08:30:00Z",
-            "content": "Much of that evidence resurfaced Tuesday in special counsel Jack Smiths four-count indictment of Trump, which referenced call logs and White House records that were already familiar to Americans who \u2026 [+4299 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Notesfrompoland.com"
-            },
-            "author": "Notes From Poland",
-            "title": "Belarusian helicopters violated Polish airspace, says Warsaw - Notes From Poland",
-            "description": null,
-            "url": "https://notesfrompoland.com/2023/08/02/belarusian-helicopters-violated-polish-airspace-says-warsaw/",
-            "urlToImage": null,
-            "publishedAt": "2023-08-02T08:19:16Z",
-            "content": null
+            "author": "Charles Pulliam-Moore",
+            "title": "The WGA and the AMPTP are having their first meeting since the writing strike began - The Verge",
+            "description": "The Alliance of Motion Picture and Television Producers has reportedly asked the Writers Guild of America to meet this Friday to discuss resuming labor contract talks.",
+            "url": "https://www.theverge.com/2023/8/2/23817454/wga-strike-amptp-carol-lombardini",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/IVWvPXTMnbHtEdOYbcCr5cnzk3I=/0x0:4500x2541/1200x628/filters:focal(2250x1271:2251x1272)/cdn.vox-cdn.com/uploads/chorus_asset/file/24825917/WGA_on_Strike.png",
+            "publishedAt": "2023-08-02T18:16:01Z",
+            "content": "The WGA and the AMPTP are having their first meeting since the writing strike began\r\nThe WGA and the AMPTP are having their first meeting since the writing strike began\r\n / The Alliance of Motion Pic\u2026 [+2360 chars]"
         }
     ]
 }
