@@ -4,55 +4,146 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Sports Staff",
-            "title": "2023 NFL Hall of Fame Game: Follow New York Jets vs. Cleveland Browns as preseason kicks off - Yahoo Sports",
-            "description": "Football is back!",
-            "url": "https://sports.yahoo.com/2023-nfl-hall-of-fame-game-new-york-jets-cleveland-browns-live-updates-highlights-news-230056981.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zZOn3nH9lavNS6o0MMLj2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/85c1e4b0-3260-11ee-8a7b-671a56443ab2",
-            "publishedAt": "2023-08-04T00:21:00Z",
-            "content": "The Browns are taking on the Jets in the 2023 NFL Hall of Fame Game. (AP Photo/Sue Ogrocki)\r\nThe 2023 NFL preseason is finally here!\r\nThe New York Jets face the Cleveland Browns at Tom Benson Hall of\u2026 [+282 chars]"
-        },
-        {
-            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "CARLA K. JOHNSON",
-            "title": "Babies should get recently approved drug for RSV, CDC says - The Associated Press",
-            "description": "U.S. health officials are recommending that babies get a recently approved drug to protect them against a respiratory virus. An infection with RSV is a coldlike nuisance for most healthy people, but it can be life-threatening for the very young and the elderl\u2026",
-            "url": "https://apnews.com/article/rsv-babies-drug-cdc-astrazeneca-sanofi-shot-c03b72aaa51e59176cfa3feb3ceac06c",
-            "urlToImage": "https://dims.apnews.com/dims4/default/ece5102/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2Ffb%2F640769e24ae55deb435bf4faa9f1%2Fcc4b2a58ab9a4d0480afaad725fc2f6a",
-            "publishedAt": "2023-08-03T23:42:00Z",
-            "content": "Infants should get a recently approved drug to protect them against a respiratory virus that sends tens of thousands of American children to the hospital each year, U.S. health officials said Thursda\u2026 [+2147 chars]"
+            "author": "STEPHEN McGRATH, ANDREEA ALEXANDRU",
+            "title": "Influencer Andrew Tate released from house arrest while he awaits human trafficking and rape trial - The Associated Press",
+            "description": "Andrew Tate, the divisive internet influencer who is charged in Romania with rape, human trafficking, and forming a criminal gang to sexually exploit women, has won his appeal to be released from house arrest. His spokesperson says he will instead be put unde\u2026",
+            "url": "https://apnews.com/article/andrew-tate-romania-house-arrest-b9ddba982306d2ac3af44a5469fb8758",
+            "urlToImage": "https://dims.apnews.com/dims4/default/1233b17/2147483647/strip/true/crop/2912x1638+0+152/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F87%2Fa92653e01235c64fd9ba4c818be1%2F1cfa3c6657dc458ca036065a0dbb0bf5",
+            "publishedAt": "2023-08-04T10:36:00Z",
+            "content": "BUCHAREST, Romania (AP) Andrew Tate, the divisive internet influencer who is charged in Romania with rape, human trafficking and forming a criminal gang to sexually exploit women, won an appeal on Fr\u2026 [+3113 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KBZK Bozeman News"
+                "name": "MacRumors"
             },
-            "author": "Chet Layman, Judy Slate",
-            "title": "Jefferson River otter attack sends woman to hospital - KBZK News",
-            "description": "On Wednesday evening, three women were reportedly attacked by otters while floating the Jefferson River.",
-            "url": "https://www.kbzk.com/news/local-news/jefferson-river-otter-attack-sends-woman-to-hospital",
-            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/e7647cf/2147483647/strip/true/crop/1802x946+0+128/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F23%2Fb4%2F638e83c9434cbd35cdcc85ada6b5%2Fotter-ynp.jpeg",
-            "publishedAt": "2023-08-03T23:37:30Z",
-            "content": "(Updated 5:40 p.m. MDT, 08/03/2023)\r\nBOZEMAN An evening float turned into an emergency encounter: three women were reportedly attacked by otters while floating the Jefferson River on Wednesday night.\u2026 [+1834 chars]"
+            "author": "Tim Hardwick",
+            "title": "Kuo: iPhone 16 Pro Models to Adopt Stacked Camera Sensor Design - MacRumors",
+            "description": "Apple\u2019s iPhone 16 series next year will adopt a stacked rear camera sensor design across the lineup, following similar adoption in this year\u2019s...",
+            "url": "https://www.macrumors.com/2023/08/04/iphone-16-pro-stacked-camera-sensor/",
+            "urlToImage": "https://images.macrumors.com/t/k8fiawEGRqWwtaSm7T8KHxHTEnY=/1920x/article-new/2023/08/iPhone-15-Blue-Three-Quarters-Perspective-Feature.jpg",
+            "publishedAt": "2023-08-04T09:09:24Z",
+            "content": "Apples iPhone 16 series next year will adopt a stacked rear camera sensor design across the lineup, following similar adoption in this years standard iPhone 15 models, according to Apple industry ana\u2026 [+1123 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Tom Jackman, Spencer S. Hsu, Salvador Rizzo, Rachel Weiner, Devlin Barrett",
-            "title": "Trump pleads not guilty to charges that he plotted to overturn election - The Washington Post",
-            "description": "\u201cA very sad day for America\u201d the former president declares as the clock begins ticking toward his trial on Jan. 6-related charges.",
-            "url": "https://www.washingtonpost.com/dc-md-va/2023/08/03/trump-court-appearance-dc-indictment/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-03-2023/t_d4ea2319f8534c6c8afd2b0eefb2290f_name_F4NO324DPSZMFYGUTXUNIPLTEU_scaled.jpg&w=1440",
-            "publishedAt": "2023-08-03T23:25:00Z",
-            "content": "Former presidentDonald Trump pleaded not guilty Thursday to charges that he conspired to overturn the results of the 2020 election, appearing in the federal courthouse that sits just blocks away from\u2026 [+8399 chars]"
+            "author": "Deidre McPhillips",
+            "title": "Nearly half of US adults interested in using weight-loss drugs, new KFF poll finds - CNN",
+            "description": "Most adults in the United States have heard about a new class of drugs being used for weight loss \u2013 including Ozempic, Wegovy and Mounjaro \u2013 and nearly half say that they would be interested in using one, according to a new survey from KFF.",
+            "url": "https://www.cnn.com/2023/08/04/health/nearly-half-of-us-adults-interested-in-using-weight-loss-drugs/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/211222102206-weight-scale-doctors-office-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-04T09:00:00Z",
+            "content": "Most adults in the United States have heard about a new class of drugs being used for weight loss including Ozempic, Wegovy and Mounjaro and nearly half say that they would be interested in using one\u2026 [+1639 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rhea Mogul",
+            "title": "India\u2019s top court stays Rahul Gandhi conviction, paving way for lawmaker return ahead of elections - CNN",
+            "description": "India\u2019s top court on Friday stayed Rahul Gandhi\u2019s defamation conviction, offering a crucial reprieve for the embattled former chair of the country\u2019s main opposition party who was disqualified as a lawmaker following a trial he maintained was politically motiv\u2026",
+            "url": "https://www.cnn.com/2023/08/04/india/rahul-gandhi-conviction-supreme-court-india-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230323040933-01-rahul-gandhi-030623-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-04T08:54:00Z",
+            "content": "Indias top court on Friday stayed Rahul Gandhis defamation conviction, offering a crucial reprieve for the embattled former chair of the countrys main opposition party who was disqualified as a lawma\u2026 [+3076 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Hauser, Michael Conte, Chris Lau",
+            "title": "Niger\u2019s ousted president warns of \u2018devastating\u2019 coup impact, growing Russian influence - CNN",
+            "description": "Niger\u2019s President Mohamed Bazoum said Thursday he is being held hostage by the country\u2019s military as he warned in a Washington Post op-ed that the junta\u2019s power grab could have \u201cdevastating consequences\u201d for the region, where Russian mercenaries have establis\u2026",
+            "url": "https://www.cnn.com/2023/08/04/africa/niger-president-mohamed-bazoum-hostage-oped-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230726101625-mohamed-bazoum-file-2022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-04T06:48:00Z",
+            "content": "Nigers President Mohamed Bazoum said Thursday he is being held hostage by the countrys military as he warned in a Washington Post op-ed that the juntas power grab could have devastating consequences \u2026 [+4811 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Nellis",
+            "title": "Apple sees sales slump continuing, shares drop 2% despite beating sales expectations - Reuters",
+            "description": "Apple <a href=\"https://www.reuters.com/markets/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> on Thursday forecast that a sales slump would continue into the current quarter, sending shares down despite beating Wall Street sales and profit targets in the fisc\u2026",
+            "url": "https://www.reuters.com/technology/apple-profit-tops-wall-street-targets-strong-services-counter-weaker-iphone-2023-08-03/",
+            "urlToImage": "https://www.reuters.com/resizer/7wLLSx3o4Lgqz44qLehTo-dRPoo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JSQ2R2ABARNAXNH2X3SNVYA2BI.jpg",
+            "publishedAt": "2023-08-04T06:26:00Z",
+            "content": "Aug 3 (Reuters) - Apple (AAPL.O) on Thursday forecast that a sales slump would continue into the current quarter, sending shares down despite beating Wall Street sales and profit targets in the fisca\u2026 [+5158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox News",
+            "title": "Florida inmate James Phillip Barnes forgoes last meal before execution - New York Post ",
+            "description": "James Phillip Barnes, a\u00a0Florida death row\u00a0inmate executed Thursday for the brutal 1988 killing of a nurse he beat with a hammer, forwent the customary last meal hours before he was pronounced dead,\u2026",
+            "url": "https://nypost.com/2023/08/04/florida-inmate-james-phillip-barnes-forgoes-last-meal-before-execution/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-l0fuewmxx-1691127932173.jpg?quality=75&strip=all&1691113601&w=1024",
+            "publishedAt": "2023-08-04T06:14:00Z",
+            "content": "James Phillip Barnes, a\u00a0Florida death row\u00a0inmate executed Thursday for the brutal 1988 killing of a nurse he beat with a hammer, forwent the customary last meal hours before he was pronounced dead, s\u2026 [+1801 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stephen Collinson",
+            "title": "Trump\u2019s surreal arraignment day in Washington augurs ominous days ahead - CNN",
+            "description": "As former President Donald Trump left Washington after answering charges of trying to subvert democracy, it felt like all the previous trauma and divisions of his eight-year journey into the nation\u2019s psyche were just the start.",
+            "url": "https://www.cnn.com/2023/08/04/politics/trump-arraignment-subvert-democracy/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230803162309-22-trump-arraignment-travel-dc-0803.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-04T05:38:00Z",
+            "content": "As former President Donald Trump left Washington after answering charges of trying to subvert democracy, it felt like all the previous trauma and divisions of his eight-year journey into the nations \u2026 [+9919 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Peony Hirwani",
+            "title": "What did Lizzo do? Ex-dancers slam Truth Hurts singer's 'disheartening' response to sexual harassment claims \u2013 latest updates - The Independent",
+            "description": "Plaintiff Arianna Davis alleges the Grammy winner made a \u2018thinly-veiled\u2019 comment about her weight and pressured her to touch nude performers at a strip club",
+            "url": "https://www.independent.co.uk/arts-entertainment/music/news/lizzo-dancers-lawsuit-allegations-response-b2387435.html",
+            "urlToImage": "https://static.independent.co.uk/2023/08/04/04/Screenshot%202023-08-04%20at%209.16.39%20AM.png?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-08-04T04:23:45Z",
+            "content": "Sign up to Roisin OConnors free weekly newsletter Now Hear This for the inside track on all things music\r\nGet our Now Hear This email for free\r\nLizzo has said Im not the villain in response to sexual\u2026 [+5060 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Ukraine attacks Russian navy base near Novorossiysk - Reuters",
+            "description": "Ukrainian sea drones attacked a Russian navy base near the Black Sea port of Novorossiysk, a major hub for Russian exports, early on Friday and were destroyed by Russian warships, Russia's defence ministry said.",
+            "url": "https://www.reuters.com/world/europe/blasts-gunfire-reported-near-russian-black-sea-port-novorossiysk-2023-08-04/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=151",
+            "publishedAt": "2023-08-04T04:07:30Z",
+            "content": "Aug 4 (Reuters) - Ukrainian sea drones attacked a Russian navy base near the Black Sea port of Novorossiysk, a major hub for Russian exports, early on Friday and were destroyed by Russian warships, R\u2026 [+1833 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Bevan Hurley",
+            "title": "A kidnapped woman punched her way out of a cinderblock cell. Police say she may have saved countless other victims - The Independent",
+            "description": "Negasi Zuberi has been charged with abducting a woman and holding her in a soundproof cell in his garage. Authorities fear there may be many more victims. Bevan Hurley reports",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/negasi-zuberi-klamath-falls-kidnapper-oregon-b2387437.html",
+            "urlToImage": "https://static.independent.co.uk/2023/08/02/18/newFile.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-08-04T03:42:51Z",
+            "content": "Sign up to our free US news bulletin sent straight to your inbox each weekday morning\r\nSign up to our free morning US email news bulletin\r\nWhen Negasi Zuberi moved with his wife and two young childre\u2026 [+7721 chars]"
         },
         {
             "source": {
@@ -60,51 +151,90 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Rising COVID hospitalizations point to another summer surge in infections - PBS NewsHour",
-            "description": "Signs point to a COVID-19 summer surge for the fourth consecutive year. Overall, infections remain much lower compared to the past, but cases began increasin...",
-            "url": "https://www.youtube.com/watch?v=OaFRI4O058E",
-            "urlToImage": "https://i.ytimg.com/vi/OaFRI4O058E/maxresdefault.jpg",
-            "publishedAt": "2023-08-03T23:15:05Z",
+            "title": "New York Jets vs. Cleveland Browns Game Highlights | 2023 Hall of Fame Game - NFL",
+            "description": "New York Jets vs. Cleveland Browns - Highlights | 2023 Preseason HOF Game 0, 08/04/2023Check out our other channels:NFL Mundo https://www.youtube.com/mundonf...",
+            "url": "https://www.youtube.com/watch?v=YaGj6oT7OJ8",
+            "urlToImage": "https://i.ytimg.com/vi/YaGj6oT7OJ8/maxresdefault.jpg",
+            "publishedAt": "2023-08-04T03:41:41Z",
             "content": null
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Andrea Adelson",
-            "title": "Bubba Cunningham critical of comments from Florida St. president - ESPN - ESPN",
-            "description": "Bubba Cunningham told 99.9 The Fan that he'd rather see FSU be a \"good member\" of the ACC than publicize thoughts on its potential exit from the conference. \"I don't think it's good for our league for them to be out there barking like that.\"",
-            "url": "https://www.espn.com/college-football/story/_/id/38129880/unc-ad-bubba-cunningham-critical-comments-florida-state-president",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F0501%2Fr536846_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-08-03T22:52:00Z",
-            "content": "North Carolina athletic director Bubba Cunningham took exception Thursday to the way Florida State has publicized its willingness to leave the ACC.\r\nIn an interview with 99.9 The Fan in Raleigh, N.C.\u2026 [+2817 chars]"
-        },
-        {
-            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Alli Rosenbloom, Dan Heching",
-            "title": "Cardi B will not be charged related to microphone-throwing incident, police say - CNN",
-            "description": "Cardi B will not face charges related to throwing her microphone into the crowd at a concert in Las Vegas last weekend, according to police.",
-            "url": "https://www.cnn.com/2023/08/03/entertainment/cardi-b-microphone-cleared/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230803174113-cardi-b-070423.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-03T22:18:00Z",
-            "content": "Cardi B will not face charges related to throwing her microphone into the crowd at a concert in Las Vegas last weekend, according to police.\r\nAfter a thorough review of this case and with the consult\u2026 [+1548 chars]"
+            "author": "Ramishah Maruf",
+            "title": "Amazon\u2019s stock surges as Q2 earnings show profit and sales jump - CNN",
+            "description": "E-commerce behemoth Amazon increased its net sales 11% to $134.4 billion in the second quarter as analysts monitor consumer spending in both the cloud and retail markets.",
+            "url": "https://www.cnn.com/2023/08/03/tech/amazon-earnings-second-quarter/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230803140214-amazon-prime-day-0711-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-04T03:40:00Z",
+            "content": "Amazon\r\n(AMZN)s sales boomed on strong demand in the second quarter for its wide range of products, from fast delivery forPrime deals to ads, fueling a massive jump in profit from a year ago.\r\nSales \u2026 [+1988 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Ryan Young, Devon M. Sayers, Raja Razek",
-            "title": "6 former Mississippi law enforcement officers have pleaded guilty to charges related to the torture of 2 Black men - CNN",
-            "description": "Six former Mississippi law enforcement officers have pleaded guilty to charges related to the torture of two Black men, US Attorney for the Southern District of Mississippi Darren LaMarca said in a Thursday news conference.",
-            "url": "https://www.cnn.com/2023/08/03/us/mississippi-deputies-torture-black-men-charged/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230803160652-01-michael-corey-jenkins-031823-filee.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-03T22:15:00Z",
-            "content": "Six former Mississippi law enforcement officers have pleaded guilty to charges related to the torture of two Black men, US Attorney for the Southern District of Mississippi Darren LaMarca said in a T\u2026 [+1866 chars]"
+            "author": null,
+            "title": "Both expelled members of \u2018Tennessee Three\u2019 win back their state House seats - 6abc Philadelphia",
+            "description": "Tennessee Reps. Justin Pearson and Justin Jones, who became Democratic heroes as members of the \u201cTennessee Three,\u201d reclaimed their legislative seats Thursday...",
+            "url": "https://www.youtube.com/watch?v=oySXrITxg5k",
+            "urlToImage": "https://i.ytimg.com/vi/oySXrITxg5k/maxresdefault.jpg",
+            "publishedAt": "2023-08-04T03:31:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Sasha Pezenik",
+            "title": "Lawyer for Idaho college killings suspect Bryan Kohberger says he was driving alone night of murders - ABC News",
+            "description": "\"Often he would go for drives at night\" and \"did so\" that night, his lawyer said",
+            "url": "https://abcnews.go.com/US/lawyer-idaho-college-killings-suspect-bryan-kohberger-driving/story?id=101999965",
+            "urlToImage": "https://s.abcnews.com/images/US/Kohberger-court-gty-ps-230711_1689086224122_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-08-04T03:07:14Z",
+            "content": "Bryan Kohberger, the doctoral candidate accused of killing four Idaho college students last fall says he wasn't in the home where the homicides occurred and was driving around alone that night, accor\u2026 [+5062 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Arizona to Big 12? Wildcats expected to soon follow Colorado in leaving Pac-12 for greener pastures - CBS Sports",
+            "description": "Arizona is among a contingent of Pac-12 schools weighing their future in the league",
+            "url": "https://www.cbssports.com/college-football/news/arizona-to-big-12-wildcats-expected-to-soon-follow-colorado-in-leaving-pac-12-for-greener-pastures/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2018/02/23/d35bf5ca-5783-48d5-91e6-f2b87814a653/thumbnail/1200x675/63484affc87203bb4ca08b8b43fd4407/usatsi-10367977.jpg",
+            "publishedAt": "2023-08-04T02:02:00Z",
+            "content": "Arizona has entered significant discussions about leaving the Pac-12 and joining the Big 12, sources tell CBS Sports' Dennis Dodd, with a move expected to be finalized soon. One source said the Wildc\u2026 [+3100 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paul Steinhauser",
+            "title": "Trump indictment could dominate 2024 GOP presidential nomination race: 'It will be inescapable' - Fox News",
+            "description": "Experts say Donald Trump 2020 election indictment will dominate the 2024 Republican presidential nomination race in the short term, with potential downsides for Trump in the long term",
+            "url": "https://www.foxnews.com/politics/trump-indictment-could-dominate-2024-gop-presidential-nomination-race-it-will-be-inescapable",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Donald-Trump-Indictment-Arraignment_19.jpg",
+            "publishedAt": "2023-08-04T01:53:00Z",
+            "content": "In a Republican presidential nomination race thats dominated by former President Donald Trump, the former presidents indictment and arraignment this week on charges he attempted to overturn his loss \u2026 [+6276 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Christian Arnold",
+            "title": "North Carolina AD Bubba Cunningham slams FSU for 'barking' about leaving ACC - New York Post ",
+            "description": "North Carolina athletic director Bubba Cunningham wasn\u2019t happy about the rhetoric coming out of Florida State over the ACC\u2019s media rights deal.",
+            "url": "https://nypost.com/2023/08/03/uncs-bubba-cunningham-fsu-bad-for-barking-about-acc/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-ghhy7mhdg-1691110215113.jpg?quality=75&strip=all&1691095895&w=1024",
+            "publishedAt": "2023-08-04T01:15:00Z",
+            "content": "North Carolina athletic director Bubba Cunningham wasnt happy about the rhetoric coming out of Tallahassee over the ACCs media rights deal.\u00a0\r\nLess than 24 hours after Florida State Richard McCullough\u2026 [+2463 chars]"
         },
         {
             "source": {
@@ -112,90 +242,12 @@
                 "name": "The Guardian"
             },
             "author": "Guardian staff reporter",
-            "title": "Apple revenues fall for third straight quarter as company invests heavily in AI - The Guardian",
-            "description": "CEO Tim Cook says increased R&D spending is in part driven by work on generative artificial intelligence",
-            "url": "https://www.theguardian.com/technology/2023/aug/03/apple-revenues-fall-third-straight-quarter",
-            "urlToImage": "https://i.guim.co.uk/img/media/2a088bcbb4f3e326e27b211b7dc23940f2e3c74b/0_73_2200_1320/master/2200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ea267ec140a5fdd01144aa175314f5c",
-            "publishedAt": "2023-08-03T21:39:00Z",
-            "content": "Apple boss Tim Cook announced the company was investing heavily in artificial intelligence (AI) on Thursday as the company announced its third consecutive quarter of declining revenues, the companys \u2026 [+6971 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Dominic Patten",
-            "title": "Studios Respond To WGA\u2019s \u201cCalculated Disinformation\u201d, \u201cTired Playbook\u201d Remarks; \u201cRhetoric Is Unfortunate,\u201d AMPTP Says Ahead Of Friday Meeting \u2013 Update - Deadline",
-            "description": "(Updated with AMPTP response to WGA statement) If you thought the Writers Guild of America was going to be playing nice heading into tomorrow\u2019s meeting between WGA Chief Negotiator\u00a0Ellen Stut\u2026",
-            "url": "https://deadline.com/2023/08/wga-strike-studio-talks-criticism-response-amptp-1235454546/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/wga-4.jpg?w=1024",
-            "publishedAt": "2023-08-03T21:29:00Z",
-            "content": "(Updated with AMPTP response to WGA statement) If you thought the Writers Guild of America was going to be playing nice heading into tomorrow\u2019s meeting between WGA Chief Negotiator\u00a0Ellen Stutzman\u00a0and\u2026 [+6152 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Irene Benedicto",
-            "title": "Google Launched A New Tool To Keep Track And Delete Search Results About You - Forbes",
-            "description": "Users will get a notification when new personal information such as their address or phone number gets listed in Google\u2019s search results",
-            "url": "https://www.forbes.com/sites/irenebenedicto/2023/08/03/google-launched-a-new-tool-to-keep-track-and-delete-search-results-about-you/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64cc01e56f1ffae30ad2c041/0x0.jpg?format=jpg&crop=1163,654,x0,y29,safe&width=1200",
-            "publishedAt": "2023-08-03T21:20:47Z",
-            "content": "Google launched new privacy tools to help users track and delete search results about themselves like untrue information, unwanted contact details, or copyright violations, a move to assuage users co\u2026 [+1994 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "WBZ-News Staff",
-            "title": "NTSB releases image of JetBlue flight, Learjet 'close call' at Logan Airport - CBS Boston",
-            "description": "The NTSB has released its final report and a picture showing just how close two jets came to colliding at Logan Airport.",
-            "url": "https://www.cbsnews.com/boston/news/ntsb-report-jetblue-hop-a-jet-close-call-logan-airport/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/03/bea5d385-e583-4e9a-bd20-544d7f75b9c2/thumbnail/1200x630/8051bd836260b3fbf80a6448e266b1a0/jet2.jpg?v=523df724471d66f84598615fede8d33f",
-            "publishedAt": "2023-08-03T21:00:00Z",
-            "content": "BOSTON - The NTSB has released its final report and a picture showing just how close two jets came to colliding at Logan Airport in Boston earlier this year. \r\nOn February 27, a JetBlue flight, and a\u2026 [+730 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Matt Davenport",
-            "title": "Scientists discover the highest-energy light coming from the sun - Phys.org",
-            "description": "Sometimes, the best place to hide a secret is in broad daylight. Just ask the sun.",
-            "url": "https://phys.org/news/2023-08-scientists-highest-energy-sun.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/scientists-discover-th-4.jpg",
-            "publishedAt": "2023-08-03T20:36:06Z",
-            "content": "Sometimes, the best place to hide a secret is in broad daylight. Just ask the sun.\r\n\"The sun is more surprising than we knew,\" said Mehr Un Nisa, a postdoctoral research associate at Michigan State U\u2026 [+6422 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "JAMES ROBSON",
-            "title": "Morocco advances and Germany exits in wild finale to the group stage at the Women's World Cup - The Associated Press",
-            "description": "Two-time champion Germany was eliminated in a wild finale to the group stage of the Women\u2019s World Cup, while low-ranked Morocco advanced to the knockout stage. Colombia also advanced as Group H winner to round off a slew of upsets in the opening weeks of the \u2026",
-            "url": "https://apnews.com/article/womens-world-cup-upsets-germany-morocco-3abc5dc559729ba1d8fadb0644ac0d79",
-            "urlToImage": "https://dims.apnews.com/dims4/default/e4ad2d3/2147483647/strip/true/crop/2447x1376+0+127/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2Faf%2Faaf1a871f5080af1a455292d1b3d%2F583d06b59dca4e9390933f9caf1da6f5",
-            "publishedAt": "2023-08-03T19:17:00Z",
-            "content": "SYDNEY (AP) In a wild finale to the group stage of the Womens World Cup, two-time champion Germany was eliminated on Thursday and the second lowest-ranked team in the tournament, Morocco, advanced to\u2026 [+3872 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "Live stream: Donald Trump indictment, arraignment coverage - USA TODAY",
-            "description": "The former president departed from his golf club in Bedminster, New Jersey, to attend Thursday's arraignment in Washington, D.C.",
-            "url": "https://www.usatoday.com/story/news/politics/2023/08/03/donald-trump-indictment-arraignment-live-stream-coverage/70522117007/",
-            "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/03/USAT/70523056007-xxx-jmg-8553-dcb.jpg?auto=webp&crop=2207,1248,x0,y112&format=pjpg&width=1200",
-            "publishedAt": "2023-08-03T19:08:05Z",
-            "content": "Former President Donald Trump traveled to Washington, D.C. Thursday, widely expected to plead not guilty on charges that he tried to overturn the 2020 election, his third indictment this year.\r\nUSA T\u2026 [+1021 chars]"
+            "title": "Florida tells schools AP Psychology course with LGBTQ+ content violates law - The Guardian US",
+            "description": "Ron DeSantis\u2019s government has banned instruction on sexual orientation and gender identity, effectively also banning the class",
+            "url": "https://www.theguardian.com/us-news/2023/aug/03/florida-ap-psychology-course-state-law-lgbtq",
+            "urlToImage": "https://i.guim.co.uk/img/media/91af2d1f256ff7e713ee8aa450360bff42679269/0_200_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7df8442e536882351e74e173eb8bf305",
+            "publishedAt": "2023-08-04T00:48:00Z",
+            "content": "Florida has told school superintendents that the Advanced Placement psychology course offered to high school students violates the states new law prohibiting instruction on sexual orientation and gen\u2026 [+3589 chars]"
         },
         {
             "source": {
@@ -203,64 +255,12 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "California's largest wildfire of the year threatening iconic Joshua trees - KTLA 5",
-            "description": "Firefighters aided by rain have made progress fighting a massive blaze that swept through the California desert into Nevada and is threatening the region\u2019s f...",
-            "url": "https://www.youtube.com/watch?v=RKG01B7bGxk",
-            "urlToImage": "https://i.ytimg.com/vi/RKG01B7bGxk/maxresdefault.jpg",
-            "publishedAt": "2023-08-03T19:05:03Z",
+            "title": "Texas A&M reaches $1M settlement with Dr. Kathleen McElroy following botched hiring - KENS 5: Your San Antonio News Source",
+            "description": "The university released details of the settlement online Thursday.",
+            "url": "https://www.youtube.com/watch?v=FsoophBOObE",
+            "urlToImage": "https://i.ytimg.com/vi/FsoophBOObE/hqdefault.jpg",
+            "publishedAt": "2023-08-03T23:08:01Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Anders Hagstrom, Joe Toppe",
-            "title": "Bud Light sales continue to plunge, as Anheuser-Busch insists US still has 'favorable' view of brand - Fox Business",
-            "description": "Anheuser-Busch says a majority of Americans maintain a favorable view of Bud Light despite plummeting sales amid a months-long boycott against the beer.",
-            "url": "https://www.foxbusiness.com/politics/anheuser-busch-admits-continued-plunge-bud-light-sales-insists-us-still-has-favorable-view-brand",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/GettyImages-1506429424.jpg?ve=1&tl=1",
-            "publishedAt": "2023-08-03T18:22:30Z",
-            "content": "Anheuser-Busch InBev on Thursday reported a steep drop in profits amid the ongoing boycott against Bud Light, but the company insists U.S. consumers still have a generally favorable view of the beer \u2026 [+3016 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Sana Noor Haq, Josh Pennington, Niamh Kennedy, Darya Tarasova, Jessie Gretener, Yulia Kesaieva",
-            "title": "Tensions high on NATO\u2019s border with Belarus after Wagner troops move closer - CNN",
-            "description": "Poland will deploy more troops at the border with Belarus after it accused Minsk of violating its airspace, raising tensions between the NATO member and a key Kremlin ally in an increasingly volatile security landscape in Europe.",
-            "url": "https://www.cnn.com/2023/08/02/europe/poland-belarus-wagner-nato-tensions-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230729120921-02-poland-border-070923.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-03T17:43:00Z",
-            "content": "Poland will deploy more troops at the border with Belarus after it accused Minsk of violating its airspace, raising tensions between the NATO member and a key Kremlin ally in an increasingly volatile\u2026 [+6400 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "SAM MEDNICK",
-            "title": "Hundreds rally in Niger, denouncing France, as the country's new junta seeks to justify its coup - The Associated Press",
-            "description": "International pressure is mounting on leaders of the coup in Niger. The American secretary of state said Thursday that the United States supports West African leaders who have threatened to use force to restore the nation\u2019s democracy. Meanwhile, Senegal offer\u2026",
-            "url": "https://apnews.com/article/coup-niger-jihadi-violence-mohamed-bazoum-french-military-2d30a7baf36ed2df180fb9edab59c53a",
-            "urlToImage": "https://dims.apnews.com/dims4/default/ee80d97/2147483647/strip/true/crop/4000x2250+0+175/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2Fd0%2Ff179449a18e5d93deb1ebb70a1fb%2F312a679444684086a1792222158cc3b7",
-            "publishedAt": "2023-08-03T17:27:00Z",
-            "content": "NIAMEY, Niger (AP) International pressure mounted Thursday on leaders of the coup in Niger as the American secretary of state said the United States stands very much in support of West African leader\u2026 [+6044 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Ashley Cullins",
-            "title": "How the Strikes Could Impact Lavish Hollywood CEO Pay - Hollywood Reporter",
-            "description": "Most entertainment giants won\u2019t have to face a shareholder Say on Pay vote until early next year, but the Writers Guild and SAG-AFTRA have effectively pointed to massive paychecks of top executives as a sign that the companies can make a deal.",
-            "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-ceo-pay-say-on-pay-shareholder-strikes-1235548591/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/2023_07-CEO_money-01.jpg?w=1024",
-            "publishedAt": "2023-08-03T17:25:23Z",
-            "content": "As Hollywood actors and writers strike together for the first time in more than half a century, executive pay is in the spotlight. Talent are posting residuals checks barely worth the postage it cost\u2026 [+9923 chars]"
         }
     ]
 }
