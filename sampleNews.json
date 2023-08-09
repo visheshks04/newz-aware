@@ -4,80 +4,93 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Aaron Couch",
-            "title": "\u2018Exorcist\u2019 Star Ellen Burstyn, Jason Blum Remember William Friedkin: \u201cUndoubtedly a Genius\u201d - Hollywood Reporter",
-            "description": "The influential filmmaker behind the horror hit as well as 'The French Connection' died Monday at age 87.",
-            "url": "https://www.hollywoodreporter.com/movies/movie-news/william-friedkin-remembered-exorcist-ellen-burstyn-1235558010/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/MBDEXOR_EC018-H-2023.jpg?w=1024",
-            "publishedAt": "2023-08-08T00:22:30Z",
-            "content": "A number of collaborators and admirers are paying tribute to The Exorcistfilmmaker William Friedkin, who died Monday at age 87.\r\nFriedkin remains in the public consciousness, with The Exorcist about \u2026 [+4847 chars]"
+            "author": "Chris Isidore",
+            "title": "UPS says its profit will fall after it reaches a Teamsters deal. Its stock is sinking sharply - CNN",
+            "description": "UPS reported a sharp drop in revenue and profit in the second quarter. The company also cut its profit forecast, expecting narrower margins in the wake of its tentative deal with the Teamsters union.",
+            "url": "https://www.cnn.com/2023/08/08/investing/ups-earnings/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808111755-ups-truck-0807.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-08T12:35:00Z",
+            "content": "UPS reported a sharp drop in revenue and profit in the second quarter. The company also cut its profit forecast, expecting narrower margins in the wake of its tentative deal with the Teamsters union.\u2026 [+2537 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Angelo Amante, Giuseppe Fonte, Valentina Za",
+            "title": "Italy shocks banks with 40% windfall tax for 2023 - Reuters",
+            "description": "Italy dealt a surprise blow to its banks and sent shockwaves across the sector in Europe by setting a one-off 40% tax on profits reaped from higher interest rates, after reprimanding lenders for failing to reward deposits.",
+            "url": "https://www.reuters.com/world/europe/italy-approves-40-windfall-tax-on-banks-be-limited-2023-2023-08-07/",
+            "urlToImage": "https://www.reuters.com/resizer/DohUOJXdFNrugkoVy9qbSdf95WM=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUQ4TMIPB5K4LF2UPSVWPDYJNY.jpg",
+            "publishedAt": "2023-08-08T12:31:00Z",
+            "content": "ROME, Aug 8 (Reuters) - Italy dealt a surprise blow to its banks and sent shockwaves across the sector in Europe by setting a one-off 40% tax on profits reaped from higher interest rates, after repri\u2026 [+3636 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lili Loofbourow",
+            "title": "Review | 'Only Murders in the Building' regains its cozy confidence - The Washington Post",
+            "description": "The third season of \u00ab Only Murders in the Building \u00bb is a pleasant surprise: less frenetic, more confident and more character-driven.",
+            "url": "https://www.washingtonpost.com/entertainment/tv/2023/08/08/only-murders-building-season-three/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RV5AS3CCGNBIDCUDKGWZR2Y2WM.jpg&w=1440",
+            "publishedAt": "2023-08-08T12:00:00Z",
+            "content": "Comment on this story\r\nComment\r\nIf Only Murders in the Building started as a satire of cozy true-crime podcasts, it quickly surrendered to the genres ghoulish pleasures. Now entering its third season\u2026 [+5937 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Mary Gilbert",
-            "title": "Eastern US storm outbreak knocks out power to over 1 million - CNN",
-            "description": "A severe weather outbreak unleashed damaging winds that knocked out power to hundreds of thousands of people and caused widespread travel disruptions across the Eastern US.",
-            "url": "https://www.cnn.com/2023/08/07/weather/east-us-severe-storms/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230807011158-severe-storm-threat-monday-afternoon.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-07T23:57:00Z",
-            "content": "A severe weather outbreak unleashed damaging winds that knocked out power to hundreds of thousands of people and caused widespread travel disruptions across the Eastern US.\r\nLive updates: Damaging st\u2026 [+2885 chars]"
+            "author": "Aimee Lewis",
+            "title": "Colombia advances to Women\u2019s World Cup quarterfinals for the first time after victory over Jamaica - CNN",
+            "description": "",
+            "url": "https://www.cnn.com/2023/08/07/football/colombia-jamaica-france-morocco-womens-world-cup-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808041443-04-colombia-jamaica-wwc-2023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-08T11:04:00Z",
+            "content": "Colombia reached the Womens World Cup quarterfinals for the first time in the countrys history after a nervy 1-0 victory over Jamaica in Melbourne on Tuesday, while France confidently knocked out Mor\u2026 [+5790 chars]"
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Katherine Faulders, Alexander Mallin",
-            "title": "Proposed protective order would infringe on Trump's right to free speech, his lawyers say - ABC News",
-            "description": "The special counsel on Friday asked for a protective order against Trump.",
-            "url": "https://abcnews.go.com/US/proposed-protective-order-infringe-trumps-free-speech-lawyers/story?id=102084393",
-            "urlToImage": "https://s.abcnews.com/images/US/trump-1-rt-er-230807_1691444178425_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-08-07T23:11:29Z",
-            "content": "Former President Donald Trump's legal team says that a protective order proposed by special counsel Jack Smith would infringe on Trump's right to free speech.\r\nTrump's attorneys made the argument in \u2026 [+4101 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": "fox-sports",
+                "name": "Fox Sports"
             },
             "author": null,
-            "title": "Teddy Bridgewater signing with Detroit Lions, source says - ESPN - ESPN",
-            "description": "Free agent quarterback Teddy Bridgewater is signing with the Lions, a source said Monday, giving Detroit a reliable option behind starter Jared Goff.",
-            "url": "https://www.espn.com/nfl/story/_/id/38152745/teddy-bridgewater-signing-detroit-lions-source-says",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1016%2Fr1076692_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-08-07T22:59:00Z",
-            "content": "Free agent quarterback Teddy Bridgewater is signing with the Detroit Lions, a source told ESPN's Jeremy Fowler on Monday.\r\nThe signing will reunite Bridgewater with Lions head coach Dan Campbell, who\u2026 [+2563 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "Apple's M3 Max MacBook Pro rumored to have 40 GPU cores and up to 48GB of RAM - The Verge",
-            "description": "The latest rumor about Apple\u2019s upcoming laptop refresh centered around the M3 series of chips details the M3 Max, which could have 16 CPU cores and 40 GPU cores when it arrives in a 16-inch MacBook Pro in 2024.",
-            "url": "https://www.theverge.com/2023/8/7/23823716/apple-macbook-pro-m3-max-2024-specs-details",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Tj3hjdrXK7RSk9z_GXE64IEZSO4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24371439/236492_MacBook_Pro_16__2023__AKrales_0247.jpg",
-            "publishedAt": "2023-08-07T22:57:45Z",
-            "content": "Apples M3 Max MacBook Pro rumored to have 40 GPU cores and up to 48GB of RAM\r\nApples M3 Max MacBook Pro rumored to have 40 GPU cores and up to 48GB of RAM\r\n / And four more performance CPU cores than\u2026 [+1754 chars]"
+            "title": "France vs. Morocco live updates: France adds to its lead to make it 4-0 late - FOX Sports",
+            "description": "The 2023 FIFA Women's World Cup continues Tuesday with France beating Morocco in the round of 16. Here are the top moments!",
+            "url": "https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-france-morocco",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/08.07.23_Womens-World-Cup-Top-Moments_France-vs-Morocco_16x9_2.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-08T10:37:26Z",
+            "content": "The 2023 FIFA Women's World Cup continued Tuesday with France cruising to a 4-0 win over Morocco in the round of 16 at Coopers Stadium in Adelaide, Australia.\u00a0\r\nFrance scored its first three goals in\u2026 [+3700 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Euronews"
             },
             "author": null,
-            "title": "Future of freight in question after trucking company Yellow files for bankruptcy - PBS NewsHour",
-            "description": "Yellow, one of the nation\u2019s largest freight and trucking companies, announced it is shutting down, leading to one of the largest mass layoffs in recent histo...",
-            "url": "https://www.youtube.com/watch?v=Ob36XTjeJ3w",
-            "urlToImage": "https://i.ytimg.com/vi/Ob36XTjeJ3w/maxresdefault.jpg",
-            "publishedAt": "2023-08-07T22:53:48Z",
+            "title": "Bryan Randall, partner of Sandra Bullock, dies aged 57 - Euronews",
+            "description": "Actress Sandra Bullock's long-term partner, photographer Bryan Randall, died following a battle with amyotrophic lateral sclerosis (ALS).",
+            "url": "https://www.euronews.com/culture/2023/08/08/bryan-randall-partner-of-sandra-bullock-dies-aged-57",
+            "urlToImage": "https://static.euronews.com/articles/stories/07/80/91/78/1000x563_cmsv2_2a85b781-9a2f-585b-81bd-3c237919680a-7809178.jpg",
+            "publishedAt": "2023-08-08T10:20:21Z",
+            "content": "Actress Sandra Bullock's long-term partner, photographer Bryan Randall, died following a battle with amyotrophic lateral sclerosis (ALS).\r\n Bryan Randall, the long term partner of Sandra Bullock, has\u2026 [+1426 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Stella Yifan Xie",
+            "title": "Chinese Exports Fall at Steepest Pace Since February 2020 - The Wall Street Journal",
+            "description": "Slide in outbound shipments reflects fraying trade ties with the Western world, even as exports to Russia boom",
+            "url": "https://www.wsj.com/articles/chinese-exports-fall-at-steepest-pace-since-february-2020-e930246b",
+            "urlToImage": "https://images.wsj.net/im-831432/social",
+            "publishedAt": "2023-08-08T10:10:00Z",
             "content": null
         },
         {
@@ -85,182 +98,169 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "SAM MEDNICK, ELLEN KNICKMEYER",
-            "title": "Niger\u2019s junta shuts airspace and accuses neighboring nations of invasion plans - The Associated Press",
-            "description": "A senior U.S. diplomat says coup leaders in Niger refused to allow her to meet with the country\u2019s democratically elected president, whom she described as under \u201cvirtual house arrest.\u201d Undersecretary of State Victoria Nuland also described the mutinous officer\u2026",
-            "url": "https://apnews.com/article/niger-coup-extremism-west-africa-ecowas-6cc3fa0b61adc6d9bcb2fb9745c4dcdf",
-            "urlToImage": "https://dims.apnews.com/dims4/default/0fb8a28/2147483647/strip/true/crop/4032x2268+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2F69%2F1264ffabd22d3fd83da50653f8f5%2Fdaad7900ac6649a7935dd0b354b8a544",
-            "publishedAt": "2023-08-07T22:10:00Z",
-            "content": "NIAMEY, Niger (AP) A senior U.S. diplomat said coup leaders in Niger refused to allow her to meet Monday with the West African countrys democratically elected president, whom she described as under v\u2026 [+5756 chars]"
+            "author": "HANNA ARHIROVA",
+            "title": "Ukraine says Russia targeted rescue workers with a 'double tap' missile strike - The Associated Press",
+            "description": "Ukrainian officials are accusing the Kremlin\u2019s forces of targeting rescue workers in the war. That charge Tuesday came as the death toll from two Russian missile strikes that slammed into the downtown area of a Ukrainian city climbed to seven. Officials said \u2026",
+            "url": "https://apnews.com/article/russia-ukraine-war-missile-strike-6fa27eed10747b7daa85d7518e99d5ba",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c614875/2147483647/strip/true/crop/2000x1125+0+105/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2Fbc%2F808bba1f99a0d8b6c9c5e77da842%2F580c8b5cd6c3440ab2595a826e520582",
+            "publishedAt": "2023-08-08T10:06:00Z",
+            "content": "KYIV, Ukraine (AP) Ukrainian officials on Tuesday accused the Kremlins forces of targeting rescue workers as the death toll from two Russian missile strikes that slammed into residential buildings in\u2026 [+4008 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Los Angeles Times"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Jonah Valdez",
-            "title": "Bryan Randall, photographer and Sandra Bullock's longtime partner, dies at 57 from ALS - Los Angeles Times",
-            "description": "Bryan Randall, a photographer and Sandra Bullock's partner of eight years, has died after a three-year battle with ALS.",
-            "url": "https://www.latimes.com/entertainment-arts/story/2023-08-07/bryan-randall-death-sandra-bullock-als",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/9c7413d/2147483647/strip/true/crop/3050x1601+0+0/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc9%2F3a%2F7e64f4d24964bfab43c74ae6c1d2%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F968036122",
-            "publishedAt": "2023-08-07T22:01:12Z",
-            "content": "Sandra Bullocks longtime partner Bryan Randall, a photographer and former model, died Saturday at age 57 after a private battle with amyotrophic lateral sclerosis. \r\nIt is with great sadness that we \u2026 [+2602 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "White Sox GM addresses 'cultural problem' as allegations of clubhouse turmoil surface - CBS Sports",
-            "description": "It has not been a good week -- or a good year -- for the Chicago White Sox",
-            "url": "https://www.cbssports.com/mlb/news/white-sox-gm-addresses-cultural-problem-as-allegations-of-clubhouse-turmoil-surface/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/07/3401c986-d4db-4a1d-a7ac-ff21ca39db70/thumbnail/1200x675/ce3e07060a76ad2da3668d9e0e23c59d/hahn-white-sox-getty.png",
-            "publishedAt": "2023-08-07T22:01:04Z",
-            "content": "To call this a disappointing season for the Chicago White Sox would be a massive understatement. On the field, the White Sox have the fourth-worst record in baseball at 45-68, which led to them tradi\u2026 [+3172 chars]"
+            "author": "Alexander Tin",
+            "title": "Loss of smell or taste was once a telltale sign of COVID. Not anymore. - CBS News",
+            "description": "The latest research suggests a prevalence of just 3% to 4% for this once-common symptom in recent waves.",
+            "url": "https://www.cbsnews.com/news/covid-symptoms-loss-of-smell-taste-less-common-omicron-study/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/07/0b1e93ce-cfee-4a5a-a8fc-2340d4e34526/thumbnail/1200x630/ac6fdebeae0dc8419c95c02a71afeadb/nose-mouth-shadows-getty-images.jpg?v=4c3eff96812a3b6c2e014b1daed33369",
+            "publishedAt": "2023-08-08T10:00:19Z",
+            "content": "Once a hallmark sign of many COVID-19 cases \u2014 sometimes more reliable than even flu-like symptoms at sniffing out people infected by the virus early in the pandemic \u2014 was the sudden loss of smell and\u2026 [+5823 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Amanda Musa",
-            "title": "Older women\u2019s breast cancer is often overdiagnosed, study finds, raising risk of unnecessary treatment - CNN",
-            "description": "A study published Monday in the Annals of Internal Medicine found that large numbers of American women ages 70 to 85 are potentially overdiagnosed with breast cancer and therefore could receive unnecessary treatment.",
-            "url": "https://www.cnn.com/2023/08/07/health/breast-cancer-overdiagnosis/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230330103254-mammogram-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-07T21:58:00Z",
-            "content": "A breast cancer diagnosis is an all-too-common reality for women around the world. In the US, about 240,000 cases of breast cancer are diagnosed in women every year, the US Centers for Disease Contro\u2026 [+6892 chars]"
+            "author": "Jim Sciutto",
+            "title": "Western allies receive increasingly \u2018sobering\u2019 updates on Ukraine\u2019s counteroffensive: \u2018This is the most difficult time of the war\u2019 - CNN",
+            "description": "Weeks into Ukraine\u2019s highly anticipated counteroffensive, Western officials describe increasingly \u201csobering\u201d assessments about Ukrainian forces\u2019 ability to retake significant territory, four senior US and western officials briefed on the latest intelligence t\u2026",
+            "url": "https://www.cnn.com/2023/08/08/politics/ukraine-counteroffensive-us-briefings/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230715092024-01-ukraine-counteroffensive-status-intl-0715.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-08T10:00:00Z",
+            "content": "Weeks into Ukraines highly anticipated counteroffensive, Western officials describe increasingly sobering assessments about Ukrainian forces ability to retake significant territory, four senior US an\u2026 [+4430 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tara Subramaniam",
+            "title": "Trump blames Megan Rapinoe and wokeness for US Women's World Cup exit - CNN",
+            "description": "Hours after the US women\u2019s national team crashed out of the World Cup, former US President Donald Trump seized the opportunity to blame the loss on star player Megan Rapinoe and the country\u2019s \u201cwoke\u201d path under President Joe Biden.",
+            "url": "https://www.cnn.com/2023/08/08/football/trump-us-wwc-megan-rapinoe-criticism-spt-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808143447-megan-rapinoe.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-08T09:09:00Z",
+            "content": "Hours after the US womens national team crashed out of the World Cup, former US President Donald Trump seized the opportunity to blame the loss on star player Megan Rapinoe and the countrys woke path\u2026 [+3500 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Ananya Mariam Rajesh",
-            "title": "Beyond Meat cuts annual revenue forecast as faux meat demand dips - Reuters",
-            "description": "Beyond Meat <a href=\"https://www.reuters.com/markets/companies/BYND.O\" target=\"_blank\">(BYND.O)</a> cut annual revenue forecast and missed second-quarter net sales estimates, as slowing demand for its pricier plant-based meat products shows no signs of recove\u2026",
-            "url": "https://www.reuters.com/markets/commodities/beyond-meat-cuts-annual-revenue-forecast-slowing-demand-faux-meat-2023-08-07/",
-            "urlToImage": "https://www.reuters.com/resizer/F4Dg3xaswAaGhc4zHgmIpdK7eSs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BKVVESHAONL7NBEZND52UKNV44.jpg",
-            "publishedAt": "2023-08-07T21:56:00Z",
-            "content": "Aug 7 (Reuters) - Beyond Meat (BYND.O) cut annual revenue forecast and missed second-quarter net sales estimates, as slowing demand for its pricier plant-based meat products shows no signs of recover\u2026 [+2045 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Block Club Chicago"
-            },
-            "author": "Ariel Parrella-Aureli",
-            "title": "Portage Park Man Charged With Murder Of 8-Year-Old Neighbor After Reportedly Saying She Was Too Loud - Block Club Chicago",
-            "description": "Michael Goodman faces first-degree murder charges in the killing of Serabi Medina, who was killed near her home Saturday night, police said.",
-            "url": "http://blockclubchicago.org/2023/08/07/portage-park-man-charged-with-murder-of-8-year-old-neighbor-after-reportedly-saying-she-was-too-loud/",
-            "urlToImage": "https://lede-admin.blockclubchicago.org/wp-content/uploads/sites/5/2023/08/sarabi1.jpg?resize=1080,608",
-            "publishedAt": "2023-08-07T21:25:00Z",
-            "content": "PORTAGE PARK A man who reportedly complained about neighborhood kids being too loud has been charged with fatally shooting an 8-year-old girl outside her Portage Park home over the weekend.\r\nMichael \u2026 [+5434 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Associated Press",
-            "title": "US publishing executive killed in Italy boat crash; skipper under investigation - USA TODAY",
-            "description": "The skipper of the rented motorboat that crashed off Italy\u2019s Amalfi Coast and killed U.S. tourist and publishing executive Adrienne Vaughan is under investigation.",
-            "url": "https://www.usatoday.com/story/news/world/2023/08/07/adrienne-vaughan-accident-boat-italy-skipper-under-investigation/70545932007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/07/USAT/70546104007-13612740-080723-ccapitalyboatcrashvictimimg.jpeg?crop=1274,719,x0,y0&width=1274&height=719&format=pjpg&auto=webp",
-            "publishedAt": "2023-08-07T21:23:56Z",
-            "content": "ROME --\u00a0The skipper of a rented motorboat involved in a crash off the Amalfi Coast that killed a U.S. tourist is being investigated for suspected manslaughter, a prosecutor in southern Italy said Sat\u2026 [+3212 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Eric Berger",
-            "title": "Starliner undergoing three independent investigations as flight slips to 2024 - Ars Technica",
-            "description": "\"The design changes were, I would say, minimal.\"",
-            "url": "https://arstechnica.com/space/2023/08/starliner-undergoing-three-independent-investigations-as-flight-slips-to-2024/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/49258720052_edd4e323dd_c-760x380.jpg",
-            "publishedAt": "2023-08-07T21:07:45Z",
-            "content": "Enlarge/ The Boeing CST-100 Starliner spacecraft is seen landing in this 30-second exposure in 2019.\r\n65 with \r\nA Boeing official said Monday that the company has delayed a crewed flight test of its \u2026 [+4757 chars]"
+            "author": "David Stanway",
+            "title": "No quick fix to reverse Antarctic sea ice loss as warming intensifies, scientists say - Reuters",
+            "description": "Sea ice in the Antarctic region has fallen to a record low this year as a result of rising global temperatures and there is no quick fix to reverse the damage done, scientists said on Tuesday in a new study of the impact of climate change on the continent.",
+            "url": "https://www.reuters.com/world/no-quick-fix-reverse-antarctic-sea-ice-loss-warming-intensifies-scientists-2023-08-08/",
+            "urlToImage": "https://www.reuters.com/resizer/PEYWK2KQCjuNntW_Cf2M9BrmDhQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7U4TVGCZSVO6HBU5FRPHIBMBMQ.jpg",
+            "publishedAt": "2023-08-08T08:46:00Z",
+            "content": "SINGAPORE, Aug 8 (Reuters) - Sea ice in the Antarctic region has fallen to a record low this year as a result of rising global temperatures and there is no quick fix to reverse the damage done, scien\u2026 [+3107 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Abby Baggini, Paula Reid, Marshall Cohen",
-            "title": "Exclusive: Trump ally Bernie Kerik meets with special counsel investigators - CNN",
-            "description": "Donald Trump ally Bernie Kerik met Monday with special counsel Jack Smith\u2019s investigators who are handling the probe related to the 2020 election aftermath and the January 6, 2021, insurrection.",
-            "url": "https://www.cnn.com/2023/08/07/politics/bernie-kerik-trump-grand-jury/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230807140139-01-bernie-kerik-061323.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-07T21:00:00Z",
-            "content": "Donald Trump ally Bernie Kerik met Monday with special counsel Jack Smiths investigators who are handling the probe related to the 2020 election aftermath and the January 6, 2021, insurrection.\r\nThe \u2026 [+3214 chars]"
+            "author": "Nouran Salahieh",
+            "title": "Nearly 400,000 power outages reported across Eastern US after deadly storms damage neighborhoods and trap drivers - CNN",
+            "description": "Nearly 400,000 homes and business were without power early Tuesday after severe thunderstorms battered a large swath of Eastern US a day earlier and left at least two people dead, damaged neighborhoods and stranded dozens of people on a Maryland road for hour\u2026",
+            "url": "https://www.cnn.com/2023/08/08/weather/east-us-severe-storms-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230807213906-02-storm-across-usa-maryland-080723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-08T08:40:00Z",
+            "content": "Nearly 400,000 homes and business were without power early Tuesday after severe thunderstorms battered a large swath of Eastern US a day earlier and left at least two people dead, damaged neighborhoo\u2026 [+5127 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "SciTechDaily"
             },
-            "author": "Dustin Jones",
-            "title": "$700 million superyacht tied to Putin is still being maintained in Italy - NPR",
-            "description": "The 460-foot superyacht is believed to belong to Russian President Vladimir Putin, but the registered owner is a Russian billionaire.",
-            "url": "https://www.npr.org/2023/08/07/1192548262/superyacht-tied-to-putin-russian-president-scheherazade-italy-who-paying",
-            "urlToImage": "https://media.npr.org/assets/img/2023/08/07/gettyimages-1387352272_wide-98aa4fe8f3efef2a0675efcd2eea3a5139da5cf6-s1400-c100.jpg",
-            "publishedAt": "2023-08-07T20:53:22Z",
-            "content": "The Scheherazade, a 460-foot superyacht, has been held in Italy since May 2022 in response to Russia's invasion of Ukraine. It is believed to have ties to Russian President Vladimir Putin.\r\nLaura Lez\u2026 [+1987 chars]"
+            "author": null,
+            "title": "Remarkable Chinese Fossil Reveals Reptiles Using Whale-Like Filter Feeding 250 Million Years Ago - SciTechDaily",
+            "description": "New research has unveiled a 250-million-year-old reptile fossil, Hupehsuchus, in China, showing that it used a whale-like filter-feeding method. This discovery highlights the creature's unique adaptations and provides insight into early marine ecosystems. A r\u2026",
+            "url": "https://scitechdaily.com/?p=298851",
+            "urlToImage": "https://scitechdaily.com/images/Hupehsuchus-Reconstruction-scaled.jpg",
+            "publishedAt": "2023-08-08T08:31:12Z",
+            "content": "Reconstruction of Hupehsuchus about to engulf a shoal of shrimps. Credit: Artwork by Shunyi Shu, \u00a9 Long Cheng, Wuhan Center of China Geological Survey\r\nNew research has unveiled a 250-million-year-ol\u2026 [+1641 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "ANDREW DALTON",
-            "title": "Tory Lanez's father pleads for mercy at rapper's sentencing for shooting Megan Thee Stallion - The Associated Press",
-            "description": "Rapper Tory Lanez is expected to be sentenced for shooting hip-hop star Megan Thee Stallion in the feet and wounding her. Prosecutors are asking that the judge sentence the 31-year-old Lanez to 13 years in prison Monday after a jury convicted him of three fel\u2026",
-            "url": "https://apnews.com/article/tory-lanez-sentence-megan-thee-stallion-shooting-5eeaafd1a913ebf46094bcb0358364ad",
-            "urlToImage": "https://dims.apnews.com/dims4/default/3ba195f/2147483647/strip/true/crop/4794x2697+0+247/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F79%2F2ddc571d4c6a4fe033c9a16529a6%2F701f5a8df90c425199f3c567bd8a67d3",
-            "publishedAt": "2023-08-07T20:29:00Z",
-            "content": "LOS ANGELES (AP) Rapper Tory Lanez s father grew emotional in court as he described his son losing his mother at age 11 as a judge prepares to sentence Lanez on Monday for shooting and wounding hip-h\u2026 [+3807 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TwinCities.com-Pioneer Press"
-            },
-            "author": "Steve Karnowski",
-            "title": "Ex-Minneapolis officer unrepentant as he gets nearly 5 years in George Floyd killing - St. Paul Pioneer Press",
-            "description": "\u201cAfter three years of reflection, I was hoping for a little more remorse,\u201d Hennepin County Judge Peter Cahill told Thao.",
-            "url": "https://www.twincities.com/2023/08/07/ex-minneapolis-officer-unrepentant-as-he-gets-nearly-5-years-in-george-floyd-killing/",
-            "urlToImage": "https://www.twincities.com/wp-content/uploads/2022/07/AP21280832850507.jpg?w=1024&h=683",
-            "publishedAt": "2023-08-07T20:27:31Z",
-            "content": "Tou Thao, the last former Minneapolis police officer convicted in state court for his role in the killing of George Floyd, did not show any repentance or admit any wrongdoing as he was sentenced Mond\u2026 [+5015 chars]"
+            "author": "Alta Spells, Devon M. Sayers, Ryan Young, Christal Hayes",
+            "title": "Montgomery police issue warrants after massive brawl on Alabama riverfront dock - CNN",
+            "description": "Authorities issued multiple arrest warrants after footage showed a chaotic brawl breaking out on a popular riverfront dock in Montgomery, Alabama, Saturday after an employee was pushed to the ground and punched by multiple people.",
+            "url": "https://www.cnn.com/2023/08/07/us/alabama-boat-dock-fight-warrants/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230807145200-alabama-riverfront-brawl.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-08T07:43:00Z",
+            "content": "Authorities issued multiple arrest warrants after footage showed a chaotic brawlbreaking out on a popular riverfront dock in Montgomery, Alabama, Saturday after an employee was pushed to the ground a\u2026 [+4831 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NASASpaceflight.com"
+                "name": "YouTube"
             },
-            "author": "Bella Richards",
-            "title": "Launch Roundup: Russia to return to the Moon in Luna 25 mission, Virgin Galactic to complete first fully private space tourism flight - NASASpaceFlight.com - NASASpaceflight.com",
-            "description": "It\u2019s a busy week in spaceflight, especially for Russia. The week of Aug. 7 following\u2026",
-            "url": "https://www.nasaspaceflight.com/2023/08/launch-roundup-080623/",
-            "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2023/08/photo_2023-08-04_09-40-16.jpg",
-            "publishedAt": "2023-08-07T19:49:28Z",
-            "content": "6Its a busy week in spaceflight, especially for Russia. The week of Aug. 7 following through to Aug. 13 will see Russia launch two missions to space, including the nations fourth-generation radio nav\u2026 [+7264 chars]"
+            "author": null,
+            "title": "Biden heads west, stopping in Grand Canyon area - 12 News",
+            "description": "In Arizona, Biden is expected to announce a new national monument to protect land and limit uranium mining.",
+            "url": "https://www.youtube.com/watch?v=i7Ixc1hqkWY",
+            "urlToImage": "https://i.ytimg.com/vi/i7Ixc1hqkWY/maxresdefault.jpg",
+            "publishedAt": "2023-08-08T05:49:56Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Ed Cara",
-            "title": "Zen Day Spa Tied to Deadly Outbreak of Legionnaires' Disease - Gizmodo",
-            "description": "At least three people, including two dead, contracted the bacterial infection after visiting Zen Day Spa in Northern California, which was shut down last week.",
-            "url": "https://gizmodo.com/zen-day-spa-legionnaires-disease-outbreak-california-1850713578",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/52c43a1d74f533233fce47c9a0720983.jpg",
-            "publishedAt": "2023-08-07T19:47:45Z",
-            "content": "A day spa in Northern California might be the source of a deadly outbreak of Legionnaires disease. Over the weekend, local health officials reported three cases of the bacterial illness, including tw\u2026 [+2273 chars]"
+            "author": "Charles Robinson",
+            "title": "With Brock Purdy's pitch count slated to end for the 49ers, Kyle Shanahan is all-in on his starting QB - Yahoo Sports",
+            "description": "Regardless of how Trey Lance responds to a challenge to be consistently accurate in the pocket, or how fast Sam Darnold can master the 49ers' scheme, Purdy...",
+            "url": "https://sports.yahoo.com/with-brock-purdys-pitch-count-slated-to-end-for-the-49ers-kyle-shanahan-is-all-in-on-his-starting-qb-052036384.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/shEXY9BsT5DscoA5GoT4Cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/de91ed20-35a7-11ee-bffe-51c43d74c7db",
+            "publishedAt": "2023-08-08T05:20:00Z",
+            "content": "SANTA CLARA, Calif. As the Brock Purdy pitch count comes to a close for the San Francisco 49ers possibly as early as this week, according to Kyle Shanahan there was one enduring point the head coach \u2026 [+5056 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Bethy Squires",
+            "title": "William Friedkin Dies: Stephen King, Natasha Lyonne Tribute - Vulture",
+            "description": "William Friedkin Dies: Guillermo Del Toro, Stephen King, Natasha Lyonne, James Urbaniak, Elijah Wood, and Joe Dante Tribute on Twitter.",
+            "url": "http://www.vulture.com/2023/08/william-friedkin-dies-tributes-twitter.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/2cd/e91/b1ae22cae995a10fece0270c4d4e439ee8-william-friedkin.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-08-08T04:54:00Z",
+            "content": "Update: Francis Ford Coppola issued a statement about his first friend among filmmakers William Friedkin. His accomplishments in Cinema are extraordinary and unique. He is the only colleague I knew w\u2026 [+4338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Southern California"
+            },
+            "author": "Jonathan Lloyd",
+            "title": "Watch for a SpaceX rocket as it soars over the SoCal coast - NBC Southern California",
+            "description": "Southern Californians might catch a view of a SpaceX rocket Monday night after its launch from Vandenberg Space Force Base.",
+            "url": "https://www.nbclosangeles.com/news/local/watch-spacex-rocket-launch-california/3201501/",
+            "urlToImage": "https://media.nbclosangeles.com/2022/02/spacex-launch-vandenberg-february-2-2022.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-08-08T03:35:35Z",
+            "content": "Southern Californians looking skyward Monday night might catch a view of a SpaceX rocket after its launch from Vandenberg Space Force Base.\r\nThe rocket carrying 15 Starlink internet satellites into l\u2026 [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile, Asif Iqbal Shaik",
+            "title": "Galaxy Z Flip 5 and Fold 5 break pre-order records in South Korea - SamMobile - Samsung news",
+            "description": "Samsung's new foldable phones seem to have caught the eyes of consumers in South Korea. The company announced that the ...",
+            "url": "https://www.sammobile.com/news/galaxy-z-flip-5-fold-5-pre-order-records-south-korea-1-02-million/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/07/Samsung-Galaxy-Z-Flip-5-Z-Fold-5-India-720x405.jpg",
+            "publishedAt": "2023-08-08T03:18:00Z",
+            "content": "Samsungs new foldable phones seem to have caught the eyes of consumers in South Korea. The company announced that the Galaxy Z Flip 5 and the Galaxy Z Fold 5 have received over a million pre-orders i\u2026 [+1960 chars]"
         }
     ]
 }
