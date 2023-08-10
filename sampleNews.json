@@ -1,97 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Chris Isidore",
-            "title": "UPS says its profit will fall after it reaches a Teamsters deal. Its stock is sinking sharply - CNN",
-            "description": "UPS reported a sharp drop in revenue and profit in the second quarter. The company also cut its profit forecast, expecting narrower margins in the wake of its tentative deal with the Teamsters union.",
-            "url": "https://www.cnn.com/2023/08/08/investing/ups-earnings/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808111755-ups-truck-0807.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-08T12:35:00Z",
-            "content": "UPS reported a sharp drop in revenue and profit in the second quarter. The company also cut its profit forecast, expecting narrower margins in the wake of its tentative deal with the Teamsters union.\u2026 [+2537 chars]"
+            "author": "Deena Zaru",
+            "title": "Tory Lanez sentenced to 10 years for shooting and injuring Megan Thee Stallion - ABC News",
+            "description": "Lanez was convicted in Dec. 2022 and was facing up to 22 years in prison.",
+            "url": "https://abcnews.go.com/US/rapper-tory-lanez-set-sentenced-shooting-injuring-megan/story?id=102070344",
+            "urlToImage": "https://s.abcnews.com/images/Nightline/Tory-lanez-ap-bb-230410_1681149051742_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-08-08T22:30:00Z",
+            "content": "Rapper Tory Lanez was sentenced to 10 years in prison on Tuesday for shooting and injuring hip-hop star Megan Thee Stallion in July 2020.\r\nLanez, 31, who was convicted on Dec. 23, 2022 for shooting a\u2026 [+4942 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Angelo Amante, Giuseppe Fonte, Valentina Za",
-            "title": "Italy shocks banks with 40% windfall tax for 2023 - Reuters",
-            "description": "Italy dealt a surprise blow to its banks and sent shockwaves across the sector in Europe by setting a one-off 40% tax on profits reaped from higher interest rates, after reprimanding lenders for failing to reward deposits.",
-            "url": "https://www.reuters.com/world/europe/italy-approves-40-windfall-tax-on-banks-be-limited-2023-2023-08-07/",
-            "urlToImage": "https://www.reuters.com/resizer/DohUOJXdFNrugkoVy9qbSdf95WM=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUQ4TMIPB5K4LF2UPSVWPDYJNY.jpg",
-            "publishedAt": "2023-08-08T12:31:00Z",
-            "content": "ROME, Aug 8 (Reuters) - Italy dealt a surprise blow to its banks and sent shockwaves across the sector in Europe by setting a one-off 40% tax on profits reaped from higher interest rates, after repri\u2026 [+3636 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Lili Loofbourow",
-            "title": "Review | 'Only Murders in the Building' regains its cozy confidence - The Washington Post",
-            "description": "The third season of \u00ab Only Murders in the Building \u00bb is a pleasant surprise: less frenetic, more confident and more character-driven.",
-            "url": "https://www.washingtonpost.com/entertainment/tv/2023/08/08/only-murders-building-season-three/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RV5AS3CCGNBIDCUDKGWZR2Y2WM.jpg&w=1440",
-            "publishedAt": "2023-08-08T12:00:00Z",
-            "content": "Comment on this story\r\nComment\r\nIf Only Murders in the Building started as a satire of cozy true-crime podcasts, it quickly surrendered to the genres ghoulish pleasures. Now entering its third season\u2026 [+5937 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aimee Lewis",
-            "title": "Colombia advances to Women\u2019s World Cup quarterfinals for the first time after victory over Jamaica - CNN",
-            "description": "",
-            "url": "https://www.cnn.com/2023/08/07/football/colombia-jamaica-france-morocco-womens-world-cup-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808041443-04-colombia-jamaica-wwc-2023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-08T11:04:00Z",
-            "content": "Colombia reached the Womens World Cup quarterfinals for the first time in the countrys history after a nervy 1-0 victory over Jamaica in Melbourne on Tuesday, while France confidently knocked out Mor\u2026 [+5790 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": null,
-            "title": "France vs. Morocco live updates: France adds to its lead to make it 4-0 late - FOX Sports",
-            "description": "The 2023 FIFA Women's World Cup continues Tuesday with France beating Morocco in the round of 16. Here are the top moments!",
-            "url": "https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-france-morocco",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/08.07.23_Womens-World-Cup-Top-Moments_France-vs-Morocco_16x9_2.jpg?ve=1&tl=1",
-            "publishedAt": "2023-08-08T10:37:26Z",
-            "content": "The 2023 FIFA Women's World Cup continued Tuesday with France cruising to a 4-0 win over Morocco in the round of 16 at Coopers Stadium in Adelaide, Australia.\u00a0\r\nFrance scored its first three goals in\u2026 [+3700 chars]"
+            "author": "CHRIS MEGERIAN, TERRY TANG",
+            "title": "Biden creates new national monument near Grand Canyon, citing tribal heritage, climate concerns - The Associated Press",
+            "description": "President Joe Biden has signed a national monument designation for the greater Grand Canyon, declaring it good \u201cnot only for Arizona but for the planet.\u201d Tuesday's move turns the decades-long visions of Native American tribes and environmentalists into realit\u2026",
+            "url": "https://apnews.com/article/grand-canyon-national-monument-biden-9382960f18408dce7aec52f103404e11",
+            "urlToImage": "https://dims.apnews.com/dims4/default/bf22ace/2147483647/strip/true/crop/8157x4588+0+425/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F61%2F29d7eb7444c91776bcfd452f9a89%2F69b605dea05440bc9782668a367bda51",
+            "publishedAt": "2023-08-08T21:43:00Z",
+            "content": "GRAND CANYON NATIONAL PARK, Ariz. (AP) Declaring it good not only for Arizona but for the planet, President Joe Biden on Tuesday signed a national monument designation for the greater Grand Canyon, t\u2026 [+7035 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Euronews"
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "Bryan Randall, partner of Sandra Bullock, dies aged 57 - Euronews",
-            "description": "Actress Sandra Bullock's long-term partner, photographer Bryan Randall, died following a battle with amyotrophic lateral sclerosis (ALS).",
-            "url": "https://www.euronews.com/culture/2023/08/08/bryan-randall-partner-of-sandra-bullock-dies-aged-57",
-            "urlToImage": "https://static.euronews.com/articles/stories/07/80/91/78/1000x563_cmsv2_2a85b781-9a2f-585b-81bd-3c237919680a-7809178.jpg",
-            "publishedAt": "2023-08-08T10:20:21Z",
-            "content": "Actress Sandra Bullock's long-term partner, photographer Bryan Randall, died following a battle with amyotrophic lateral sclerosis (ALS).\r\n Bryan Randall, the long term partner of Sandra Bullock, has\u2026 [+1426 chars]"
+            "author": "Kevin Breuninger",
+            "title": "Trump predicts he'll face more charges 'next week' from Georgia election probe - CNBC",
+            "description": "\"I should have four\" indictments \"by some time next week,\" Trump said in New Hampshire, referring to the Georgia election probe.",
+            "url": "https://www.cnbc.com/2023/08/08/trump-expects-new-criminal-charges-from-georgia-election-probe.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107279124-16908045992023-07-30t004043z_821487591_rc2bd2akmisa_rtrmadp_0_usa-election-trump.jpeg?v=1691528566&w=1920&h=1080",
+            "publishedAt": "2023-08-08T21:02:46Z",
+            "content": "Former President Donald Trump said Tuesday he expects to be hit with new criminal charges by next week stemming from an Atlanta prosecutor's investigation of his efforts to overturn his loss in Georg\u2026 [+3088 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "GMA"
             },
-            "author": "Stella Yifan Xie",
-            "title": "Chinese Exports Fall at Steepest Pace Since February 2020 - The Wall Street Journal",
-            "description": "Slide in outbound shipments reflects fraying trade ties with the Western world, even as exports to Russia boom",
-            "url": "https://www.wsj.com/articles/chinese-exports-fall-at-steepest-pace-since-february-2020-e930246b",
-            "urlToImage": "https://images.wsj.net/im-831432/social",
-            "publishedAt": "2023-08-08T10:10:00Z",
-            "content": null
+            "author": "Carson Blackwelder",
+            "title": "Riley Keough on how her daughter's name honors Elvis Presley, late brother Benjamin - GMA",
+            "description": "",
+            "url": "https://www.goodmorningamerica.com/culture/story/riley-keough-relationship-priscilla-mom-lisa-marie-daughter-name-102102391",
+            "urlToImage": "https://s.abcnews.com/images/GMA/Keough2-file-gty-ml-230808_1691514714710_hpMain_16x9_608.jpg",
+            "publishedAt": "2023-08-08T21:00:00Z",
+            "content": "Riley Keough is opening up in a big way.\r\nThe \"Daisy Jones &amp; The Six\" actress is on the cover of \r\n Vanity Fair's September issue, on newsstands Aug. 15, and in a wide-ranging interview discussed\u2026 [+4551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ross Dellenger",
+            "title": "Sources: ACC considering SMU in addition to Cal and Stanford in expansion talks - Yahoo Sports",
+            "description": "At a meeting of league presidents on Tuesday, executives explored the possibility of adding Cal, Stanford and SMU, or only inviting the two Pac-12 members.",
+            "url": "https://sports.yahoo.com/sources-acc-considering-smu-in-addition-to-cal-and-stanford-in-expansion-talks-205526422.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/f1Hf8QtWLNB9QI45P6R7UA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/bff7da20-3627-11ee-9dbb-d403a94d81f4",
+            "publishedAt": "2023-08-08T20:55:26Z",
+            "content": "The expansion conversation in the ACC goes beyond Stanford and Cal.\r\nA third school, SMU, is in consideration, sources tell Yahoo Sports.\r\nAt a meeting of league presidents on Tuesday, executives exp\u2026 [+3471 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Marjorie Hernandez",
+            "title": "Sandra Bullock's partner Bryan Randall's daughter, 29, orphaned by his death: 'She's gone through so much' - New York Post ",
+            "description": "Skylar Staten suffered through the death of of her mother, Janine, and various family tragedies before her father straightened his life out and started dating Sandra Bullock, family friends told Th\u2026",
+            "url": "https://nypost.com/2023/08/08/bryan-randalls-daughter-skylar-staten-orphaned-by-his-death/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/comp-new.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-08-08T20:55:00Z",
+            "content": "The death of Sandra Bullock\u2019s longtime partner, Bryan Randall, sent shock waves throughout Hollywood, but for his only daughter, his untimely passing is the latest in a series of heartbreaks caused b\u2026 [+5248 chars]"
         },
         {
             "source": {
@@ -99,168 +86,181 @@
                 "name": "Associated Press"
             },
             "author": "HANNA ARHIROVA",
-            "title": "Ukraine says Russia targeted rescue workers with a 'double tap' missile strike - The Associated Press",
-            "description": "Ukrainian officials are accusing the Kremlin\u2019s forces of targeting rescue workers in the war. That charge Tuesday came as the death toll from two Russian missile strikes that slammed into the downtown area of a Ukrainian city climbed to seven. Officials said \u2026",
+            "title": "Ukraine accuses Russia of targeting rescue workers with consecutive missile strikes - The Associated Press",
+            "description": "Ukrainian officials are accusing the Kremlin\u2019s forces of targeting rescue workers by hitting residential buildings with two consecutive missiles \u2014 the first one to draw crews to the scene and the second one to wound or kill them. Officials said the strikes Mo\u2026",
             "url": "https://apnews.com/article/russia-ukraine-war-missile-strike-6fa27eed10747b7daa85d7518e99d5ba",
             "urlToImage": "https://dims.apnews.com/dims4/default/c614875/2147483647/strip/true/crop/2000x1125+0+105/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2Fbc%2F808bba1f99a0d8b6c9c5e77da842%2F580c8b5cd6c3440ab2595a826e520582",
-            "publishedAt": "2023-08-08T10:06:00Z",
-            "content": "KYIV, Ukraine (AP) Ukrainian officials on Tuesday accused the Kremlins forces of targeting rescue workers as the death toll from two Russian missile strikes that slammed into residential buildings in\u2026 [+4008 chars]"
+            "publishedAt": "2023-08-08T20:53:00Z",
+            "content": "KYIV, Ukraine (AP) Ukrainian officials on Tuesday accused the Kremlins forces of targeting rescue workers by hitting residential buildings with two consecutive missiles the first one to draw crews to\u2026 [+5232 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": "Alexander Tin",
-            "title": "Loss of smell or taste was once a telltale sign of COVID. Not anymore. - CBS News",
-            "description": "The latest research suggests a prevalence of just 3% to 4% for this once-common symptom in recent waves.",
-            "url": "https://www.cbsnews.com/news/covid-symptoms-loss-of-smell-taste-less-common-omicron-study/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/07/0b1e93ce-cfee-4a5a-a8fc-2340d4e34526/thumbnail/1200x630/ac6fdebeae0dc8419c95c02a71afeadb/nose-mouth-shadows-getty-images.jpg?v=4c3eff96812a3b6c2e014b1daed33369",
-            "publishedAt": "2023-08-08T10:00:19Z",
-            "content": "Once a hallmark sign of many COVID-19 cases \u2014 sometimes more reliable than even flu-like symptoms at sniffing out people infected by the virus early in the pandemic \u2014 was the sudden loss of smell and\u2026 [+5823 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jim Sciutto",
-            "title": "Western allies receive increasingly \u2018sobering\u2019 updates on Ukraine\u2019s counteroffensive: \u2018This is the most difficult time of the war\u2019 - CNN",
-            "description": "Weeks into Ukraine\u2019s highly anticipated counteroffensive, Western officials describe increasingly \u201csobering\u201d assessments about Ukrainian forces\u2019 ability to retake significant territory, four senior US and western officials briefed on the latest intelligence t\u2026",
-            "url": "https://www.cnn.com/2023/08/08/politics/ukraine-counteroffensive-us-briefings/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230715092024-01-ukraine-counteroffensive-status-intl-0715.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-08T10:00:00Z",
-            "content": "Weeks into Ukraines highly anticipated counteroffensive, Western officials describe increasingly sobering assessments about Ukrainian forces ability to retake significant territory, four senior US an\u2026 [+4430 chars]"
+            "author": null,
+            "title": "The GOP's meticulously laid plans for beating Jon Tester could go up in smoke - POLITICO",
+            "description": "Rep. Matt Rosendale is moving closer to a Senate run despite some opposition from GOP leaders.",
+            "url": "https://www.politico.com/news/2023/08/08/conservative-roadblock-to-ousting-tester-00110258",
+            "urlToImage": "https://static.politico.com/b3/03/6f6b1b354ceda0b673975d3586d4/house-of-representatives-08144.jpg",
+            "publishedAt": "2023-08-08T20:17:19Z",
+            "content": "Hes running, said former conservative Sen. Jim DeMint (R-S.C.), who has pledged to help Rosendale. Of course hes running.\r\nRosendale remains publicly undecided about a Senate bid. But the private ste\u2026 [+5424 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Tara Subramaniam",
-            "title": "Trump blames Megan Rapinoe and wokeness for US Women's World Cup exit - CNN",
-            "description": "Hours after the US women\u2019s national team crashed out of the World Cup, former US President Donald Trump seized the opportunity to blame the loss on star player Megan Rapinoe and the country\u2019s \u201cwoke\u201d path under President Joe Biden.",
-            "url": "https://www.cnn.com/2023/08/08/football/trump-us-wwc-megan-rapinoe-criticism-spt-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808143447-megan-rapinoe.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-08T09:09:00Z",
-            "content": "Hours after the US womens national team crashed out of the World Cup, former US President Donald Trump seized the opportunity to blame the loss on star player Megan Rapinoe and the countrys woke path\u2026 [+3500 chars]"
+            "author": "Ashley Strickland",
+            "title": "New fossils reveal specialized eating technique of unusual ancient marine reptile - CNN",
+            "description": "Fossils have revealed an ancient marine reptile with a loosely connected jaw that allowed its throat to balloon out to a massive size so it could filter feed the way right whales do today.",
+            "url": "https://www.cnn.com/2023/08/08/world/ancient-marine-reptile-filter-feeding-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808095358-01-ancient-marine-reptile-illo.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-08T20:04:00Z",
+            "content": "Editors Note: Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAn unusual ancient marine reptile may ha\u2026 [+5218 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mike Snider",
+            "title": "Taco Bell: Free tacos on Taco Tuesday for the next four weeks - USA TODAY",
+            "description": "You can get a free Doritos Locos Taco each of the next four Taco Tuesdays at a Taco Bell near you. Then on Sept. 12, there's a DoorDash deal.",
+            "url": "https://www.usatoday.com/story/money/food/2023/08/08/taco-bell-free-taco-tuesday/70551422007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/08/USAT/70552672007-doritos-locos-tacos.png?crop=1448,817,x0,y14&width=1448&height=817&format=pjpg&auto=webp",
+            "publishedAt": "2023-08-08T19:54:08Z",
+            "content": "Taco Bell is ready to celebrate Taco Johns decision last month to drop its \"Taco Tuesday\" trademark ownership with free tacos, of course.\r\nThe twist? You don't have to leave home and you don't have t\u2026 [+3052 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mary Kekatos",
+            "title": "EG.5 now dominant COVID variant in US. Here's what to know - ABC News",
+            "description": "CDC data shows EG.5 makes up an estimated 17.3% of cases.",
+            "url": "https://abcnews.go.com/Health/eg5-now-dominant-covid-variant-us/story?id=102099473",
+            "urlToImage": "https://s.abcnews.com/images/Health/covid-testing-2-gty-bb-230808_1691512676622_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-08-08T19:38:41Z",
+            "content": "A new variant now makes up a plurality of COVID-19 cases in the United States, federal data shows.\r\nEG.5, an offshoot of the omicron variant and descendant of the XBB strain, has been circulating in \u2026 [+3316 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alta Spells, Devon M. Sayers, Ryan Young, Eric Levenson",
+            "title": "Arrest warrants issued for 3 men in massive fight at Montgomery riverfront dock - CNN",
+            "description": "Arrest warrants have been issued for three men involved in the chaotic brawl at a riverfront dock in Montgomery, Alabama, on Saturday that was captured on video and involved an array of punches, a chair to the head and several people in the water.",
+            "url": "https://www.cnn.com/2023/08/08/us/montgomery-boat-dock-fight/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230807203134-alabama-boat-brawl.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-08T19:35:00Z",
+            "content": "Arrest warrants have been issued for three men involved in the chaotic brawl at a riverfront dock in Montgomery, Alabama, on Saturday that was captured on video and involved an array of punches, a ch\u2026 [+5083 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "David Stanway",
-            "title": "No quick fix to reverse Antarctic sea ice loss as warming intensifies, scientists say - Reuters",
-            "description": "Sea ice in the Antarctic region has fallen to a record low this year as a result of rising global temperatures and there is no quick fix to reverse the damage done, scientists said on Tuesday in a new study of the impact of climate change on the continent.",
-            "url": "https://www.reuters.com/world/no-quick-fix-reverse-antarctic-sea-ice-loss-warming-intensifies-scientists-2023-08-08/",
-            "urlToImage": "https://www.reuters.com/resizer/PEYWK2KQCjuNntW_Cf2M9BrmDhQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7U4TVGCZSVO6HBU5FRPHIBMBMQ.jpg",
-            "publishedAt": "2023-08-08T08:46:00Z",
-            "content": "SINGAPORE, Aug 8 (Reuters) - Sea ice in the Antarctic region has fallen to a record low this year as a result of rising global temperatures and there is no quick fix to reverse the damage done, scien\u2026 [+3107 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nouran Salahieh",
-            "title": "Nearly 400,000 power outages reported across Eastern US after deadly storms damage neighborhoods and trap drivers - CNN",
-            "description": "Nearly 400,000 homes and business were without power early Tuesday after severe thunderstorms battered a large swath of Eastern US a day earlier and left at least two people dead, damaged neighborhoods and stranded dozens of people on a Maryland road for hour\u2026",
-            "url": "https://www.cnn.com/2023/08/08/weather/east-us-severe-storms-tuesday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230807213906-02-storm-across-usa-maryland-080723.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-08T08:40:00Z",
-            "content": "Nearly 400,000 homes and business were without power early Tuesday after severe thunderstorms battered a large swath of Eastern US a day earlier and left at least two people dead, damaged neighborhoo\u2026 [+5127 chars]"
+            "author": "Ella Cao, Liz Lee, Karen Lema",
+            "title": "China, Philippines' dispute over grounded warship heats up - Reuters",
+            "description": "China again asked the Philippines to tow away a grounded warship - a World War Two-era vessel now used as a military outpost - from a disputed shoal on Tuesday, after Manila rejected Beijing's earlier demand.",
+            "url": "https://www.reuters.com/world/asia-pacific/china-repeats-call-philippines-remove-grounded-warship-2023-08-08/",
+            "urlToImage": "https://www.reuters.com/resizer/C-A1ZuQZi7baAYuMRjvTxrGKiHw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GSXKRNXC2FPO7PVN6WKZSQTKOU.jpg",
+            "publishedAt": "2023-08-08T19:34:38Z",
+            "content": "BEIJING/MANILA, Aug 8 (Reuters) - China again asked the Philippines to tow away a grounded warship - a World War Two-era vessel now used as a military outpost - from a disputed shoal on Tuesday, afte\u2026 [+3392 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "Space.com"
             },
-            "author": null,
-            "title": "Remarkable Chinese Fossil Reveals Reptiles Using Whale-Like Filter Feeding 250 Million Years Ago - SciTechDaily",
-            "description": "New research has unveiled a 250-million-year-old reptile fossil, Hupehsuchus, in China, showing that it used a whale-like filter-feeding method. This discovery highlights the creature's unique adaptations and provides insight into early marine ecosystems. A r\u2026",
-            "url": "https://scitechdaily.com/?p=298851",
-            "urlToImage": "https://scitechdaily.com/images/Hupehsuchus-Reconstruction-scaled.jpg",
-            "publishedAt": "2023-08-08T08:31:12Z",
-            "content": "Reconstruction of Hupehsuchus about to engulf a shoal of shrimps. Credit: Artwork by Shunyi Shu, \u00a9 Long Cheng, Wuhan Center of China Geological Survey\r\nNew research has unveiled a 250-million-year-ol\u2026 [+1641 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Alta Spells, Devon M. Sayers, Ryan Young, Christal Hayes",
-            "title": "Montgomery police issue warrants after massive brawl on Alabama riverfront dock - CNN",
-            "description": "Authorities issued multiple arrest warrants after footage showed a chaotic brawl breaking out on a popular riverfront dock in Montgomery, Alabama, Saturday after an employee was pushed to the ground and punched by multiple people.",
-            "url": "https://www.cnn.com/2023/08/07/us/alabama-boat-dock-fight-warrants/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230807145200-alabama-riverfront-brawl.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-08T07:43:00Z",
-            "content": "Authorities issued multiple arrest warrants after footage showed a chaotic brawlbreaking out on a popular riverfront dock in Montgomery, Alabama, Saturday after an employee was pushed to the ground a\u2026 [+4831 chars]"
+            "author": "Andrew Jones",
+            "title": "See stunning new photos and videos of the moon as India's Chandrayaan-3 rover enters lunar orbit - Livescience.com",
+            "description": "The spacecraft will attempt a historic lunar landing on Aug. 23.",
+            "url": "https://www.space.com/india-chandrayaan-3-moon-orbit-photos",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/3HuCZRFotZCgGZtRudG9y8-1200-80.jpeg",
+            "publishedAt": "2023-08-08T19:09:34Z",
+            "content": "India's Chandrayaan-3 lunar lander has returned its first images from the moon after entering orbit around our nearest neighbor.\r\nThe Indian Space Research Organisation\r\n (ISRO) released the images o\u2026 [+1798 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "NPR"
             },
-            "author": null,
-            "title": "Biden heads west, stopping in Grand Canyon area - 12 News",
-            "description": "In Arizona, Biden is expected to announce a new national monument to protect land and limit uranium mining.",
-            "url": "https://www.youtube.com/watch?v=i7Ixc1hqkWY",
-            "urlToImage": "https://i.ytimg.com/vi/i7Ixc1hqkWY/maxresdefault.jpg",
-            "publishedAt": "2023-08-08T05:49:56Z",
+            "author": "Rachel Treisman",
+            "title": "5 things to know about Zurzuvae, the first postpartum depression pill - NPR",
+            "description": "Postpartum depression affects as many as 1 in 7 women in the U.S., though there are just two treatments approved for it. Experts say the newest could be a game-changer \u2014 depending on its price tag.",
+            "url": "https://www.npr.org/2023/08/08/1192665598/postpartum-depression-pill-zurzuvae",
+            "urlToImage": "https://media.npr.org/assets/img/2023/08/08/gettyimages-1129562601-edit_wide-6df071856f756b3469578a8fc3be184e60389b24-s1400-c100.jpg",
+            "publishedAt": "2023-08-08T19:06:04Z",
+            "content": "Postpartum depression affects up to 1 in 7 women. The first pill to treat it is expected to become available later this year, after the FDA approved it on Friday.\r\nGetty Images \r\nThe Food and Drug Ad\u2026 [+11430 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Google\u2019s Messages app will now use RCS by default and encrypt group chats - TechCrunch",
+            "description": "Google announced today it\u2019s making its Messages by Google app more secure with improvements to RCS, or Rich Communication Services \u2014 a protocol aimed at replacing SMS that is more on par with the advanced features found in Apple\u2019s iMessage. The company says i\u2026",
+            "url": "https://techcrunch.com/2023/08/08/google-messages-will-now-use-rcs-by-default-and-encrypt-group-chats/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/Google-Messages.jpg?resize=1200,675",
+            "publishedAt": "2023-08-08T19:02:20Z",
+            "content": "Google announced today it\u2019s making its Messages by Google app more secure with improvements to RCS, or Rich Communication Services \u2014 a protocol aimed at replacing SMS that is more on par with the adv\u2026 [+2374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSA Business"
+            },
+            "author": "GSA Business",
+            "title": "Greenville EV battery manufacturer files for bankruptcy protection - GSA Business",
+            "description": null,
+            "url": "https://gsabusiness.com/news/automotive/83866/",
+            "urlToImage": null,
+            "publishedAt": "2023-08-08T18:45:30Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "CBS Sports"
             },
-            "author": "Charles Robinson",
-            "title": "With Brock Purdy's pitch count slated to end for the 49ers, Kyle Shanahan is all-in on his starting QB - Yahoo Sports",
-            "description": "Regardless of how Trey Lance responds to a challenge to be consistently accurate in the pocket, or how fast Sam Darnold can master the 49ers' scheme, Purdy...",
-            "url": "https://sports.yahoo.com/with-brock-purdys-pitch-count-slated-to-end-for-the-49ers-kyle-shanahan-is-all-in-on-his-starting-qb-052036384.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/shEXY9BsT5DscoA5GoT4Cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/de91ed20-35a7-11ee-bffe-51c43d74c7db",
-            "publishedAt": "2023-08-08T05:20:00Z",
-            "content": "SANTA CLARA, Calif. As the Brock Purdy pitch count comes to a close for the San Francisco 49ers possibly as early as this week, according to Kyle Shanahan there was one enduring point the head coach \u2026 [+5056 chars]"
+            "author": "",
+            "title": "Why Ron Rivera has given Eric Bieniemy free rein over Commanders offense amid players' intensity concerns - CBS Sports",
+            "description": "Bieniemy has the latitude to coach the way he believes is most beneficial",
+            "url": "https://www.cbssports.com/nfl/news/why-ron-rivera-has-given-eric-bieniemy-free-rein-over-commanders-offense-amid-players-intensity-concerns/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/08/d066102c-2027-493e-94ef-59389360abbf/thumbnail/1200x675/2c65f74be990986948c06c79d644e78a/eric-bieniemy.jpg",
+            "publishedAt": "2023-08-08T18:44:00Z",
+            "content": "The Washington Commanders offense may have had their worst practice day of the entire training camp on Saturday. They could hardly move the ball or enjoy a successful forward pass as the defense let \u2026 [+4899 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Man dies of heat stroke while on trip to spread dad's ashes at Arches National park - NBC News",
+            "description": "James Bernard Hendricks, 66 of Austin, was hiking in the park and likely became disoriented from a combination of heat, dehydration and high altitude, according to his sister.",
+            "url": "https://www.nbcnews.com/news/us-news/man-dies-heat-stroke-trip-spread-dads-ashes-arches-national-park-rcna98845",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230808-Arches-National-Park-mjf-1431-a13134.jpg",
+            "publishedAt": "2023-08-08T18:36:45Z",
+            "content": "SALT LAKE CITY A Texas man whose body was found in Utahs Arches National Park is believed to have died of heat stroke while on a trip to spread his fathers ashes, according to his sister.\r\nJames Bern\u2026 [+1162 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Vulture"
+                "name": "Fci Academy"
             },
-            "author": "Bethy Squires",
-            "title": "William Friedkin Dies: Stephen King, Natasha Lyonne Tribute - Vulture",
-            "description": "William Friedkin Dies: Guillermo Del Toro, Stephen King, Natasha Lyonne, James Urbaniak, Elijah Wood, and Joe Dante Tribute on Twitter.",
-            "url": "http://www.vulture.com/2023/08/william-friedkin-dies-tributes-twitter.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/2cd/e91/b1ae22cae995a10fece0270c4d4e439ee8-william-friedkin.1x.rsocial.w1200.jpg",
-            "publishedAt": "2023-08-08T04:54:00Z",
-            "content": "Update: Francis Ford Coppola issued a statement about his first friend among filmmakers William Friedkin. His accomplishments in Cinema are extraordinary and unique. He is the only colleague I knew w\u2026 [+4338 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC Southern California"
-            },
-            "author": "Jonathan Lloyd",
-            "title": "Watch for a SpaceX rocket as it soars over the SoCal coast - NBC Southern California",
-            "description": "Southern Californians might catch a view of a SpaceX rocket Monday night after its launch from Vandenberg Space Force Base.",
-            "url": "https://www.nbclosangeles.com/news/local/watch-spacex-rocket-launch-california/3201501/",
-            "urlToImage": "https://media.nbclosangeles.com/2022/02/spacex-launch-vandenberg-february-2-2022.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2023-08-08T03:35:35Z",
-            "content": "Southern Californians looking skyward Monday night might catch a view of a SpaceX rocket after its launch from Vandenberg Space Force Base.\r\nThe rocket carrying 15 Starlink internet satellites into l\u2026 [+1423 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SamMobile"
-            },
-            "author": "SamMobile, Asif Iqbal Shaik",
-            "title": "Galaxy Z Flip 5 and Fold 5 break pre-order records in South Korea - SamMobile - Samsung news",
-            "description": "Samsung's new foldable phones seem to have caught the eyes of consumers in South Korea. The company announced that the ...",
-            "url": "https://www.sammobile.com/news/galaxy-z-flip-5-fold-5-pre-order-records-south-korea-1-02-million/",
-            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/07/Samsung-Galaxy-Z-Flip-5-Z-Fold-5-India-720x405.jpg",
-            "publishedAt": "2023-08-08T03:18:00Z",
-            "content": "Samsungs new foldable phones seem to have caught the eyes of consumers in South Korea. The company announced that the Galaxy Z Flip 5 and the Galaxy Z Fold 5 have received over a million pre-orders i\u2026 [+1960 chars]"
+            "author": null,
+            "title": "Issue 1: Nearly 642,000 Ohioans voted early in Aug. 8 election - The Columbus Dispatch",
+            "description": null,
+            "url": "https://www.dispatch.com/story/news/politics/elections/state/2023/08/08/issue-1-nearly-642000-ohioans-voted-early-in-aug-8-election/70552084007/",
+            "urlToImage": null,
+            "publishedAt": "2023-08-08T18:31:11Z",
+            "content": "Skip to main content\r\nThis content is only available to subscribers.\r\nGet unlimited digital access.\r\n$1 for the rest of the year.\r\nYour subscription supports:\r\nImpactful insider coverage of Ohio poli\u2026 [+1852 chars]"
         }
     ]
 }
