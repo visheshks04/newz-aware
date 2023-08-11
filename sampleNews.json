@@ -1,175 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "New York Post"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Nika Shakhnazarova",
-            "title": "Billy Porter says he has to sell his house because of Hollywood strikes: 'Starved me out' - New York Post ",
-            "description": "\u201cI have to sell my house,\u201d the \u201cPose\u201d star, 53, revealed. \u201cI don\u2019t know when we\u2019re gonna go back [to work].\u201d",
-            "url": "https://nypost.com/2023/08/09/billy-porter-says-he-is-forced-to-sell-his-house-because-of-hollywood-sag-aftra-strikes/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-bloc1hoic-1691575117640.jpg?quality=75&strip=all&1691560751&w=1024",
-            "publishedAt": "2023-08-09T10:10:00Z",
-            "content": "Billy Porter revealed that he has to sell his house over the ongoing SAG-AFTRA strike impacting his finances.\r\nThousands of actors and entertainers are striking in Hollywood\u00a0and around the country\u00a0wi\u2026 [+2061 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Laura Meckler",
-            "title": "Florida schools drop AP Psychology after state says it violates the law - The Washington Post",
-            "description": "Across Florida, large school districts are dropping plans to offer AP psychology after a conflict stemming from the state's Parental Rights in Education Act.",
-            "url": "https://www.washingtonpost.com/education/2023/08/09/florida-schools-drop-ap-psychology-class/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKY2DJFATUI6ZFBYEVLQTNWN3Q.jpg&w=1440",
-            "publishedAt": "2023-08-09T10:03:37Z",
-            "content": "Comment on this story\r\nComment\r\nLarge school districts across Florida are dropping plans to offer Advanced Placement psychology, heeding a warning from state officials that the courses discussion of \u2026 [+6775 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Pierre Bairin, Joshua Berlinger",
-            "title": "9 killed in fire at French vacation home hosting people with disabilities - CNN",
-            "description": "At least nine people were killed and two are missing after a fire broke out at a vacation home in eastern France early Wednesday morning, authorities said.",
-            "url": "https://www.cnn.com/2023/08/09/europe/france-fire-holiday-home-disabled-people-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230809050029-01-france-fire-intl.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-09T09:55:00Z",
-            "content": "At least nine people were killed and two are missing after a fire broke out at a vacation home in eastern France early Wednesday morning, authorities said.\r\nFirefighters were alerted to the blaze in \u2026 [+2281 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Kelly Kasulis Cho",
-            "title": "WeWork warns of bankruptcy risk after $700 million net loss in 2023 - The Washington Post",
-            "description": "WeWork, once touted by former CEO Adam Neumann as \u201cthe world\u2019s first physical social network,\u201d has reported net losses of more than $11 billion in recent years.",
-            "url": "https://www.washingtonpost.com/business/2023/08/09/wework-bankruptcy-sec-filing/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIA262OMBNJXOLNNMCIBEGOFHA_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-08-09T09:47:54Z",
-            "content": "Comment on this story\r\nComment\r\nWeWork, the co-working space company that went from a $47 billion valuation to a cautionary tale in business schools, warned Tuesday that it is at risk of bankruptcy.\r\u2026 [+3098 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Karen Lema and Neil Jerome Morales",
-            "title": "Philippines says 'promise' to remove grounded warship a figment of China's imagination - Yahoo News",
-            "description": "Philippine President Ferdinand Marcos Jr on Wednesday denied making an agreement with China to remove a grounded warship that serves as a military outpost in...",
-            "url": "https://ca.news.yahoo.com/philippines-says-promise-remove-grounded-094026980.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/d34734ae61a5cb6f05a098192b7e3e58",
-            "publishedAt": "2023-08-09T09:40:26Z",
-            "content": "By Karen Lema and Neil Jerome Morales\r\nMANILA (Reuters) - Philippine President Ferdinand Marcos Jr on Wednesday denied making an agreement with China to remove a grounded warship that serves as a mil\u2026 [+2313 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Gloria Li, Maxine Kelly, Jonathan Wheatley, Oliver Ralph, William Langley",
-            "title": "Live news: Housebuilder Bellway warns of 'material decrease' in completions - Financial Times",
-            "description": "",
-            "url": "https://www.ft.com/content/67c16b7b-24fc-4a74-b386-f91e0036efcb",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F74aa4580-56b0-4986-9aaf-30d82890cce2.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-08-09T08:45:25Z",
-            "content": "Residents have had to contend with muddy streets and flood-damaged cars as rain drenched Mentougou district, west of Beijing \u00a9 Mark R Cristino/EPA-EFE/Shutterstock\r\nThe death toll from floods in and \u2026 [+621 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Tom Sykes",
-            "title": "Hated Son May Take Thai King's Crown After Shock Twist - The Daily Beast",
-            "description": "The eccentric King of Thailand wanted his daughter to succeed him but a near-fatal health condition could lead to an explosive showdown.",
-            "url": "https://www.thedailybeast.com/hated-son-may-take-thai-kings-crown-after-shock-twist",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1691556007/080923-thai-hero_jtt2zo",
-            "publishedAt": "2023-08-09T08:40:47Z",
-            "content": "As a teenager, Prince Vacharaesorn Vivacharawongse, the second son of the present king of Thailand, was left in little doubt about the contempt in which his father held him.\r\nNot content with banning\u2026 [+6276 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Tom Murray",
-            "title": "Tory Lanez sentenced to 10 years in prison for shooting Megan Thee Stallion - The Independent",
-            "description": "Lanez was convicted of first-degree assault among other felonies in December last year and is now sentenced to a decade in prison",
-            "url": "https://www.independent.co.uk/arts-entertainment/music/news/tory-lanez-sentence-10-years-jail-megan-thee-stallion-b2390041.html",
-            "urlToImage": "https://static.independent.co.uk/2023/08/08/19/Collage%20Maker-08-Aug-2023-11-03-AM-5216.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-08-09T08:07:18Z",
-            "content": "Sign up to Roisin OConnors free weekly newsletter Now Hear This for the inside track on all things music\r\nGet our Now Hear This email for free\r\nTory Lanez was sentenced to 10 years in prison on Tuesd\u2026 [+5282 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Alta Spells, Nouran Salahieh",
-            "title": "Police say more charges are likely in the massive brawl at the Montgomery riverfront dock. Here\u2019s what we know - CNN",
-            "description": "Police say additional charges are likely as they investigate a large, chaotic caught-on-video brawl at a riverfront dock in Montgomery, Alabama, on Saturday that has so far resulted in arrest warrants for three men.",
-            "url": "https://www.cnn.com/2023/08/09/us/montgomery-boat-dock-fight-what-we-know/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808224506-03-montgomery-boat-dock-fight-what-we-know.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-09T06:17:00Z",
-            "content": "Police say additional charges are likely as they investigate a large, chaotic caught-on-video brawl at a riverfront dock in Montgomery, Alabama, on Saturday that has so far resulted in arrest warrant\u2026 [+7456 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "The Athletic Staff",
-            "title": "\u2018Free Kevin Brown\u2019 chants break out at Camden Yards after Orioles remove broadcaster from air - The Athletic",
-            "description": "Brown was removed from Orioles' broadcasts over a comment he made on July 23 during the team's series against the Rays.",
-            "url": "https://theathletic.com/4760632/2023/08/08/free-kevin-brown-chants-orioles/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/08121622/GettyImages-1583886079-scaled-e1691511400285.jpg",
-            "publishedAt": "2023-08-09T04:30:11Z",
-            "content": "Baseball fans broke into Free Kevin Brown chants as the Baltimore Orioles led the Houston Astros 6-2 in the seventh inning of Tuesdays game at Camden Yards. Heres what you need to know:\r\n<ul><li>Brow\u2026 [+2688 chars]"
+            "author": "ANDREW SELIGMAN",
+            "title": "Northwestern athletic director blasts football staffers for 'tone deaf' shirts supporting Fitzgerald - The Associated Press",
+            "description": "Northwestern athletic director Derrick Gragg criticized assistant football coaches and staff members for wearing shirts supporting fired coach Pat Fitzgerald at practice. Gragg called the shirts \u201cinappropriate, offensive and tone deaf\u201d given the hazing and ab\u2026",
+            "url": "https://apnews.com/article/northwestern-football-hazing-663c66084548cadebdc3216f22ad14fb",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c6119f5/2147483647/strip/true/crop/4446x2501+0+435/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa1%2F9f%2Fc2cb48ee7ad5b8ad32e34e4ad13a%2Ffb8544f09231455b8654506e2c2db3b5",
+            "publishedAt": "2023-08-10T00:33:00Z",
+            "content": "EVANSTON, Ill. (AP) Northwestern athletic director Derrick Gragg criticized assistant football coaches and staff members for wearing shirts supporting fired coach Pat Fitzgerald at practice Wednesday\u2026 [+4437 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Stella Qiu",
-            "title": "Asian shares hesitant on China deflation risk, bank jitters - Reuters",
-            "description": "Asian shares were on the defensive on Wednesday after data showed that China slipped into deflation in July, a negative sign for the world economic growth outlook although it could help dampen on inflationary forces globally.",
-            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-08-09/",
-            "urlToImage": "https://www.reuters.com/resizer/cxpRVXQCZVKvUa1zFhvsYw_eAOU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BF2FX67VVPCZA42YGNBLZBN7U.jpg",
-            "publishedAt": "2023-08-09T03:59:54Z",
-            "content": "SYDNEY, Aug 9 (Reuters) - Asian shares were on the defensive on Wednesday after data showed that China slipped into deflation in July, a negative sign for the world economic growth outlook although i\u2026 [+4008 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "profootballrumors.com"
-            },
-            "author": null,
-            "title": "Colts To Meet With RB Kareem Hunt - profootballrumors.com",
-            "description": "Kareem Hunt's late-summer free agency tour will include a stop in Indianapolis. The Colts are set to meet with the &hellip;",
-            "url": "https://www.profootballrumors.com/2023/08/colts-to-meet-with-rb-kareem-hunt",
-            "urlToImage": "https://cdn.profootballrumors.com/files/2019/10/Kareem-HuntKareem-Hunt-1024x684.jpg",
-            "publishedAt": "2023-08-09T03:57:00Z",
-            "content": "Kareem Hunt\u2018s late-summer free agency tour will include a stop in Indianapolis. The Colts are set to meet with the former rushing champion Wednesday, Ian Rapoport of NFL.com tweets.\r\nAlthough Hunt en\u2026 [+2595 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Jeff Faraudo",
-            "title": "ACC Officials `Evaluating' Cal and Stanford, But Decision Not Expected This Week - Sports Illustrated",
-            "description": "One ACC source tells ESPN the value of the academically elite Bay Area schools isn't measured solely by money.",
-            "url": "https://www.si.com/college/cal/news/acc-update",
-            "urlToImage": "https://www.si.com/.image/t_share/MTk5OTQ0NDEzMjczNjYyNTY3/acc---rich-barnes-2.jpg",
-            "publishedAt": "2023-08-09T03:50:22Z",
-            "content": "As Cal officials evaluate their options for finding a new athletic conference home in the wake of the Pac-12 crumbling, ESPN\u2019s Pete Thamel quoted sources saying the Atlantic Coast Conference is \u201cstil\u2026 [+3041 chars]"
+            "author": "Reuters",
+            "title": "Florida's DeSantis replaces elected Democratic prosecutor - Reuters",
+            "description": "Florida Governor Ron DeSantis on Wednesday suspended a county prosecutor after accusing her of being soft on crime, making her the second elected Democratic law-enforcement official to be removed by the <a href=\"/world/us/desantis-2024-campaigns-missteps-blun\u2026",
+            "url": "https://www.reuters.com/world/us/floridas-desantis-replaces-elected-democratic-prosecutor-2023-08-09/",
+            "urlToImage": "https://www.reuters.com/resizer/jWL5TjGtXplP8XTrfV5qB_76GQk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AT2WACRRMNMBRCWEIX2MQZZH7Q.jpg",
+            "publishedAt": "2023-08-10T00:11:00Z",
+            "content": "Aug 9 (Reuters) - Florida Governor Ron DeSantis on Wednesday suspended a county prosecutor after accusing her of being soft on crime, making her the second elected Democratic law-enforcement official\u2026 [+2426 chars]"
         },
         {
             "source": {
@@ -177,90 +34,233 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Apartment building destroyed in Cedar Park fire off Parmer Lane | KVUE - KVUE",
-            "description": "An extremely large brush fire continues to burn in Cedar Park. One apartment building is a total loss and residents have had to evacuate.Full story: https://...",
-            "url": "https://www.youtube.com/watch?v=jPSvBKIK6dA",
-            "urlToImage": "https://i.ytimg.com/vi/jPSvBKIK6dA/maxresdefault.jpg",
-            "publishedAt": "2023-08-09T03:41:17Z",
+            "title": "Why the Biden administration wants to limit U.S. investments in Chinese tech - PBS NewsHour",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=rfUjvaBKmC8",
+            "urlToImage": null,
+            "publishedAt": "2023-08-09T22:31:53Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyunsu Yim",
+            "title": "North Korea's Kim dismisses top general, calls for war preparations - Reuters",
+            "description": "North Korean leader Kim Jong Un replaced the military's top general and called for more preparations for the possibility of war, a boost in weapons production, and expansion of military drills, state media KCNA reported on Thursday.",
+            "url": "https://www.reuters.com/world/asia-pacific/north-koreans-kim-calls-better-war-preparations-kcna-2023-08-09/",
+            "urlToImage": "https://www.reuters.com/resizer/DkFQwPgARoWboysVq35Mtn1CLOw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SLY2HQ5YORJGLP5OOZ5GXAO4GY.jpg",
+            "publishedAt": "2023-08-09T22:19:00Z",
+            "content": "SEOUL, Aug 10 (Reuters) - North Korean leader Kim Jong Un replaced the military's top general and called for more preparations for the possibility of war, a boost in weapons production, and expansion\u2026 [+2028 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Lil Tay, rapper and social media star, dies at 14 - KABC-TV",
+            "description": "Lil Tay, who rose to stardom as a rapper and influencer on social media, has died at 14, according to a message shared on her verified Instagram account on Wednesday.",
+            "url": "https://abc7.com/lil-tay-claire-hope-social-media-rapper/13624808/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13624832_080923-wabc-lil-tay-img.jpg?w=1600",
+            "publishedAt": "2023-08-09T22:05:06Z",
+            "content": "Lil Tay, who rose to stardom as a rapper and influencer on social media, has died at 14, according to a message shared on her verified Instagram account on Wednesday.\r\nThe teen rapper, whose real nam\u2026 [+2958 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Robbie Whelan",
+            "title": "Disney to Significantly Raise Prices of Disney+, Hulu Streaming Services - The Wall Street Journal",
+            "description": "Entertainment conglomerate also vows to crack down on password-sharing",
+            "url": "https://www.wsj.com/articles/disney-raising-prices-hulu-espn-earnings-call-64ae262",
+            "urlToImage": "https://images.wsj.net/im-831901/social",
+            "publishedAt": "2023-08-09T21:45:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Notebookcheck.net"
+                "name": "Hollywood Reporter"
             },
-            "author": "Anil Ganti",
-            "title": "Samsung Galaxy S24 Ultra rumoured to feature a 50 MP telephoto lens - Notebookcheck.net",
-            "description": "Prolific leaker Ice Universe says the Samsung Galaxy S24 Ultra will come with a 50 MP 3x telephoto sensor, improving upon the 10 MP sensor featured on the Galaxy S23 Ultra.",
-            "url": "https://www.notebookcheck.net/Samsung-Galaxy-S24-Ultra-rumoured-to-feature-a-50-MP-telephoto-lens.739795.0.html",
-            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Galaxy-S24-Ultra-camera.jpg",
-            "publishedAt": "2023-08-09T03:34:51Z",
-            "content": "More information about Samsung's upcoming high-end smartphone, the Galaxy S24 Ultra, is beginning to show up online. It was revealed earlier that it would come with a Titanium frame and \"EV-style\" ba\u2026 [+1119 chars]"
+            "author": "Caitlin Huston",
+            "title": "Bob Iger on ESPN Sports Betting Deal: \u201cPenn Stepped Up In a Very Aggressive Way\u201d - Hollywood Reporter",
+            "description": "The Disney CEO added that the company is looking for strategic partners for ESPN on its direct to consumer business.",
+            "url": "https://www.hollywoodreporter.com/business/business-news/bob-iger-espn-sports-betting-penn-1235560309/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/GettyImages-1486353967.jpg?w=1024",
+            "publishedAt": "2023-08-09T21:28:12Z",
+            "content": "Disney ultimately chose to move further into sports betting to engage with young consumers, CEO Bob Iger said Wednesday. And why Penn Entertainment? They had the best offer.\u00a0\r\nOn Tuesday, Disney anno\u2026 [+2765 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Florida schools 'hijacked by the left' turn to anti-climate cartoons - POLITICO",
+            "description": "Florida's Department of Education approves classroom use of videos produced by a conservative group that denies climate change.",
+            "url": "https://www.politico.com/news/2023/08/09/in-desantis-florida-schools-get-ok-for-climate-denial-videos-ee-00109466",
+            "urlToImage": "https://static.politico.com/8d/ac/e5c3e23a4cb288d0f8dc91c1bc37/election-2024-desantis-52378.jpg",
+            "publishedAt": "2023-08-09T21:10:19Z",
+            "content": "Florida is the first state to allow PragerU materials in public schools, where teachers will have the option of showing the five- to 10-minute videos in their classrooms.\r\nPragerU CEO Marissa Streit \u2026 [+8158 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Rolling Stone"
+                "name": "Deadline"
             },
-            "author": "Nikki McCann Ramirez",
-            "title": "Tampa Mayor Went Fishing, Caught 70 Pound Block of Cocaine - Rolling Stone",
-            "description": "Mayor Jane Castor caught a surprise haul while fishing off the coast of Florida in late July",
-            "url": "https://www.rollingstone.com/politics/politics-news/tampa-florida-mayor-70-pound-cocaine-fishing-1234803091/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/08/Tampa-Mayor-Jane-Castor.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2023-08-09T02:22:22Z",
-            "content": "A new invasive species has been spotted in the Florida Keys. It\u2019s not a fish, it\u2019s not a python, it\u2019s giant floating blocks of cocaine.\u00a0\r\nOne such block was caught by Tampa Mayor Jane Castor and her \u2026 [+1254 chars]"
+            "author": "Rosy Cordero",
+            "title": "Picket Line Regulars Bolster Solidarity Among Writers As WGA Strike Hits 100 Days - Deadline",
+            "description": "Editor\u2019s note:\u00a0One in a series of stories marking the\u00a0100th day of the WGA strike. On day one of the Writers Guild of America (WGA) strike, scribes put their pencils down and hit the pave\u2026",
+            "url": "https://deadline.com/2023/08/writers-strike-picket-line-regulars-bolster-solidarity-100-days-1235457731/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/WGA-Rosy.jpg?w=1024",
+            "publishedAt": "2023-08-09T20:52:00Z",
+            "content": "Editor\u2019s note:\u00a0One in a series of stories marking the\u00a0100th day of the WGA strike.\r\nOn day one of the Writers Guild of America (WGA) strike, scribes put their pencils down and hit the pavement at eve\u2026 [+5630 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "YouTube"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Issue 1: Ohio vote delivers win for abortion-rights supporters - BBC",
-            "description": "A vote to raise the bar to amend Ohio's constitution became a battle over abortion rights in the state.",
-            "url": "https://www.bbc.com/news/world-us-canada-66442370",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D777/production/_130695155_abortion-index-getty.jpg",
-            "publishedAt": "2023-08-09T02:08:39Z",
-            "content": "Ohio has rejected a Republican motion to make it harder to change the state's constitution - a move seen as a defeat for anti-abortion groups.\r\nThe Republican-controlled state legislature had hoped t\u2026 [+4497 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Sharon Udasin",
-            "title": "International Space Station may be more polluted than most American homes - The Hill",
-            "description": "Concentrations of toxic contaminants found in dust on the International Space Station (ISS) surpass those found in floor dust in many U.S. households, a new study has found. Levels of organic pollutants in dust samples from ISS air filters were higher than th\u2026",
-            "url": "https://thehill.com/policy/energy-environment/4144788-international-space-station-may-be-more-polluted-than-most-american-homes/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/01/internationalspacestation_ISS_033022_Roscosmos-Space-Agency-Press-Service-via-AP.jpg?w=1280",
-            "publishedAt": "2023-08-09T01:55:00Z",
-            "content": "Skip to content\r\nConcentrations of toxic contaminants found in dust on the International Space Station (ISS) surpass those found in floor dust in many U.S. households, a new study has found.\r\nLevels \u2026 [+3559 chars]"
+            "author": null,
+            "title": "FBI fatally shoots man accused of making violent threats against Biden and Alvin Bragg - MSNBC",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=kmTGJ-TStJ8",
+            "urlToImage": null,
+            "publishedAt": "2023-08-09T20:30:05Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS News 8"
+                "name": "Forbes"
             },
-            "author": "Rocio De La Fe",
-            "title": "COVID-19 cases, hospitalizations are low but steadily rising across San Diego County - CBS News 8",
-            "description": "The latest spike is part of a similar trend happening across the state and country.",
-            "url": "https://www.cbs8.com/article/news/local/covid-cases-hospitalizations-low-steadily-rising-across-county/509-0deb40c2-4832-4f51-936e-6aa1ed1d8de4",
-            "urlToImage": "https://media.cbs8.com/assets/KFMB/images/e79b2ba0-afbd-4d83-ab62-92f20b63da5d/e79b2ba0-afbd-4d83-ab62-92f20b63da5d_1140x641.jpg",
-            "publishedAt": "2023-08-09T01:29:00Z",
-            "content": "SAN DIEGO COVID-19 cases are on the rise this summer and San Diego County is no exception. While hospitalizations are still considered low, they are steadily rising. New data from the Centers for Dis\u2026 [+2043 chars]"
+            "author": "Derek Saul",
+            "title": "Disney Earnings: Streaming Losses Subside Even As Disney+ Subscribers Dwindle - Forbes",
+            "description": "Profits at the entertainment conglomerate were roughly flat quarter-over-quarter but down considerably compared to before the pandemic.",
+            "url": "https://www.forbes.com/sites/dereksaul/2023/08/09/disney-earnings-streaming-losses-subside-even-as-disney-subscribers-dwindle/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d3e9c20a4aa48b04d9d11b/0x0.jpg?format=jpg&crop=1193,671,x334,y235,safe&width=1200",
+            "publishedAt": "2023-08-09T20:18:39Z",
+            "content": "Narrowing financial losses in Disneys streaming unit helped it exceed expectations for profits during its latest quarterly earnings report released Wednesday afternoon, as the entertainment giant con\u2026 [+3166 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SUDHIN THANAWALA Associated Press",
+            "title": "A lawsuit accuses a Georgia doctor of decapitating a baby during delivery - ABC News",
+            "description": "A lawsuit accuses a Georgia doctor of using too much force and decapitating a woman\u2019s baby after it became stuck during delivery",
+            "url": "https://abcnews.go.com/US/wireStory/lawsuit-accuses-georgia-doctor-decapitating-baby-delivery-102143178",
+            "urlToImage": "https://s.abcnews.com/images/US/wirestory_ffcb2e9e7745ffc6f429ad9000a77519_16x9_992.jpg",
+            "publishedAt": "2023-08-09T20:15:00Z",
+            "content": "ATLANTA -- A doctor used too much force and decapitated a Georgia woman's baby during delivery, according to a lawsuit attorneys said was filed Wednesday. \r\nThe baby's mother and father, Jessica Ross\u2026 [+2957 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gang Green Nation"
+                "name": "KOMO News"
             },
-            "author": "John B",
-            "title": "Jets Hard Knocks Episode One Discussion Thread - Gang Green Nation",
-            "description": "The Jets begin their second run on the hit HBO series.",
-            "url": "https://www.ganggreennation.com/2023/8/8/23825375/jets-hard-knocks-episode-one-discussion-thread",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/cRW1Pg3TjSp8pE4Z2Yp3MIQad9w=/0x0:4553x2384/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24839088/usa_today_21116995.jpg",
-            "publishedAt": "2023-08-09T01:23:57Z",
-            "content": "\u00a9 2023 Vox Media, LLC. All Rights Reserved\r\nGambling Problem? Call (800) 327-5050 or visit gamblinghelpline.ma.org (MA), Call 877-8-HOPENY/text HOPENY (467369) (NY),\r\nIf you or someone you know has a\u2026 [+596 chars]"
+            "author": "MADDIE BURAKOFF, AP Science Writer | KOMO News Staff",
+            "title": "The Perseid meteor shower peaks this weekend and it's even better this year - KOMO News",
+            "description": "The annual Perseid meteor shower reaches its peak this weekend, sending bright trails of light streaking across the night sky.",
+            "url": "https://komonews.com/news/local/the-perseid-meteor-shower-peaks-this-weekend-and-its-even-better-this-year-shooting-star-summer-falling-meteorite-night-moon-earth-outer-space-sky-nasa-northern-lights",
+            "urlToImage": "https://komonews.com/resources/media/01965b2f-4896-46ba-98f1-600d2e33f711-large16x9_perseid_shower_innereye_01.jpg",
+            "publishedAt": "2023-08-09T19:47:30Z",
+            "content": "by MADDIE BURAKOFF, AP Science Writer | KOMO News Staff\r\nWed, August 9th 2023, 7:47 PM UTC"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Usama Jawad",
+            "title": "Slack is getting a major redesign to look more like Microsoft Teams - XDA Developers",
+            "description": "Slack is rolling out a major redesign for its collaboration app. The interface changes arguably make it look more like its rival, Microsoft Teams.",
+            "url": "https://www.xda-developers.com/slack-redesign-microsoft-teams/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/capture2.PNG",
+            "publishedAt": "2023-08-09T19:46:00Z",
+            "content": "Key Takeaways\r\n<ul><li> Slack has announced a redesign of its app, making it look more like Microsoft Teams, with faster navigation and increased emphasis on tasks for improved productivity. </li><li\u2026 [+3888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Panthers.com"
+            },
+            "author": null,
+            "title": "Training Camp Observations: Day 11 - Panthers.com",
+            "description": "The Jets brought pressure in a different way than the Panthers were used to, and it caused some issues. But there were still plenty of plays made on both sides of the ball.",
+            "url": "https://www.panthers.com/news/training-camp-observations-day-11-x1866",
+            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/panthers/rduebqefslclswnbqv95",
+            "publishedAt": "2023-08-09T19:39:20Z",
+            "content": "Young had one pass picked off on a ball that tipped off the hands of DJ Chark Jr.. Reich said he wanted to see it again on film since someone suggested a defender might have gotten there early, but w\u2026 [+1016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Chris Morris",
+            "title": "Robbie Robertson, Leader of The Band, Dies at 80 - Variety",
+            "description": "Guitarist-songwriter-singer Robbie Robertson, who led the Canadian-American group the Band to rock prominence in the 1970s and worked extensively with Bob Dylan and Martin Scorsese, has died. He wa\u2026",
+            "url": "https://variety.com/2023/music/news/robbie-robertson-dead-the-band-1235692172/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/08/GettyImages-1268665989-e1691605179935.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-08-09T19:37:00Z",
+            "content": "Guitarist-songwriter-singer Robbie Robertson, who led the Canadian-American group the Band to rock prominence in the 1970s and worked extensively with Bob Dylan and Martin Scorsese, has died. He was \u2026 [+18040 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golf Channel"
+            },
+            "author": null,
+            "title": "Jay Monahan regrets rollout of PIF agreement, 'confident' moving forward - Golf Channel",
+            "description": "There\u2019s no shortage of mulligans the Tour would gladly take to revisit the agreement\u2019s clunky rollout.",
+            "url": "https://www.golfchannel.com/news/jay-monahan-regrets-rollout-pif-agreement-confident-moving-forward",
+            "urlToImage": "https://www.golfchannel.com/sites/default/files/2023/08/09/Monahan_1920_Generic.jpg",
+            "publishedAt": "2023-08-09T19:27:00Z",
+            "content": "MEMPHIS, Tenn. In the world of professional golf, June 6 is whispered about in hushed tones as the day everything changed.\r\nAt 10 a.m. (ET) on June 6, the PGA Tour announced its landmark framework ag\u2026 [+6660 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Ben Turner",
+            "title": "Hidden underworld filled with never-before-seen creatures discovered beneath the seafloor - Livescience.com",
+            "description": "The ecosystem, found beneath hydrothermal vents in the East Pacific Rise, is particularly vulnerable to deep-sea mining.",
+            "url": "https://www.livescience.com/animals/hidden-underworld-filled-with-never-before-seen-creatures-discovered-beneath-the-seafloor",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/aNvUbMVMmZEEpvLUsAycAC-1200-80.jpg",
+            "publishedAt": "2023-08-09T19:21:58Z",
+            "content": "Beneath an undersea volcano, scientists have discovered a hidden world filled with bizarre creatures.\r\nThe first-of-its-kind habitat is teeming with never-before-seen life-forms, including strange sp\u2026 [+3232 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Keren Landman",
+            "title": "Weight loss drug Wegovy reduces risk of serious heart disease, new trial finds - Vox.com",
+            "description": "A clinical trial suggests the popular diabetes and weight loss drug semaglutide (branded as Wegovy and Ozempic) reduced the risk of serious heart problems by 20 percent.",
+            "url": "https://www.vox.com/health/23826023/wegovy-ozempic-heart-disease-attack-stroke-death-lower-risk-diabetes",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/9Qx4bjG5WTDe9A8WOKmQDKxxVLg=/0x253:3524x2098/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24840267/1581640187.jpg",
+            "publishedAt": "2023-08-09T19:20:00Z",
+            "content": "Diseases involving the heart and blood vessels are the leading cause of death globally and in the US. So anything that helps reduce deaths due to cardiovascular disease is a cause for celebration, wh\u2026 [+9541 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alta Spells, Nouran Salahieh, Ryan Young, Devon M. Sayers, Dakin Andone",
+            "title": "Witness says racist language was used before assault at Montgomery dock, court document shows - CNN",
+            "description": "A witness says a racial slur was used before a brawl Saturday at a riverfront dock in Montgomery, Alabama, according to a court document.",
+            "url": "https://www.cnn.com/2023/08/09/us/montgomery-boat-dock-fight-what-we-know/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808224506-03-montgomery-boat-dock-fight-what-we-know.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-09T19:15:00Z",
+            "content": "A witness says a racial slur was used before a brawl Saturday at a riverfront dock in Montgomery, Alabama, a court document shows. \r\nThe mother of one of the victims in the altercation alleged in a s\u2026 [+9796 chars]"
         }
     ]
 }
