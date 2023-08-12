@@ -1,84 +1,136 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Jacqueline Thomsen",
-            "title": "US proposes January start for Trump election trial - Reuters",
-            "description": "U.S. prosecutors on Thursday asked a federal judge to begin <a href=\"/legal/trump-appear-court-charges-that-he-tried-overturn-election-2023-08-03/\">former President Donald Trump's trial on charges of trying to overturn his 2020 election loss</a> to Democrat J\u2026",
-            "url": "https://www.reuters.com/legal/special-counsel-smith-proposes-jan-2-2024-date-trump-trial-filing-2023-08-10/",
-            "urlToImage": "https://www.reuters.com/resizer/aTBa-g-8bx6rr01vX3cS5TXAE70=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E6ONDBCUBJJYVFWT2SGAODNA44.jpg",
-            "publishedAt": "2023-08-10T21:45:00Z",
-            "content": "WASHINGTON, Aug 10 (Reuters) - U.S. prosecutors on Thursday asked a federal judge to begin former President Donald Trump's trial on charges of trying to overturn his 2020 election loss to Democrat Jo\u2026 [+2712 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "DOUG FERGUSON",
-            "title": "Phil Mickelson has wagered more than $1 billion, according to book by renowned gambler Billy Walters - The Associated Press",
-            "description": "Renowned gambler Billy Walters writes in his book that Phil Mickelson wagered more than $1 billion in the last 30 years. Walters' book is due out on Aug. 22. The Fire Pit Collective obtained the excerpt and its stunning allegations. They include Walters telli\u2026",
-            "url": "https://apnews.com/article/mickelson-gambling-billy-walters-book-ryder-cup-6d753cfad771bb45cfbe3b500c7e5eb5",
-            "urlToImage": "https://dims.apnews.com/dims4/default/d9f3fe6/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2F60%2Fd0f3b2f2023e4b4acb2ea306bc3c%2Fd139849f2964400fa0ed1c4a778a4f02",
-            "publishedAt": "2023-08-10T21:45:00Z",
-            "content": "Phil Mickelson has wagered more than $1 billion over the last three decades and wanted to place a $400,000 bet on the 2012 Ryder Cup while playing for Team USA, according to a much-anticipated book b\u2026 [+5096 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Dan Mangan",
-            "title": "Trump's Truth Social tipped FBI to man killed during arrest attempt for Biden threats - CNBC",
-            "description": "The FBI fatally shot Craig Deleeuw Robertson in Provo, Utah, while trying to arrest him for making threats to President Joe Biden and Manhattan DA Alvin Bragg.",
-            "url": "https://www.cnbc.com/2023/08/10/trumps-truth-social-tipped-fbi-to-man-killed-during-arrest-attempt-for-biden-threats.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107147359-1667845863095-gettyimages-1238670001-AFP_323M3YN.jpeg?v=1691703489&w=1920&h=1080",
-            "publishedAt": "2023-08-10T21:30:30Z",
-            "content": "The social media company owned by former President Donald Trump in March tipped off the FBI about threats made by a Utah man who was fatally shot Wednesday by FBI agents as they attempted to arrest h\u2026 [+2816 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Niger coup: West Africa nations to assemble 'standby force' - BBC",
-            "description": "Ivory Coast's leader said the Ecowas bloc had approved military intervention \"as soon as possible\".",
-            "url": "https://www.bbc.com/news/world-africa-66465146",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D996/production/_130720755_5f37c8ca76f7b58dc5432514f87cab5bd0d3dd350_0_1580_10541000x667.jpg",
-            "publishedAt": "2023-08-10T21:12:22Z",
-            "content": "West African nations have approved armed intervention in Niger \"as soon as possible\", the Ivory Coast president says, following a meeting to discuss the coup.\r\nAt the meeting, leaders of the Ecowas r\u2026 [+2155 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Robert Lea",
-            "title": "The 2023 Perseid meteor shower peaks this weekend! Here's what you need to know. - Space.com",
-            "description": "The Perseids are one of the highlights of the meteor hunters' calendar.",
-            "url": "https://www.space.com/perseid-meteor-shower-2023-peak-this-weekend-aug-12-what-to-know",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Hu7sU6BpMNGEHdfEvWDWDo-1200-80.jpg",
-            "publishedAt": "2023-08-10T20:58:04Z",
-            "content": "The Perseid meteor shower will peak this weekend as Earth makes a yearly dive through debris left behind by a Comet 109P/Swift-Tuttle.\r\nThe peak activity of the Perseid meteor shower\r\n will occur aro\u2026 [+4849 chars]"
+            "author": "Aya Elamroussi",
+            "title": "Wildfires in Maui have killed at least 55 people, displaced thousands and demolished many homes - CNN",
+            "description": "The dayslong wildfires ravaging Hawaii\u2019s Maui island have killed at least 55 people but the toll is expected to rise, officials said Thursday, warning the number of missing is unclear in a natural disaster the governor said could be the largest in state histo\u2026",
+            "url": "https://www.cnn.com/2023/08/11/us/maui-wildfires-hurricane-dora-friday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810213203-04-maui-fire-gallery.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-11T09:26:00Z",
+            "content": "The death toll from the dayslong wildfires ravaging Hawaiis Maui island has risen to at least 55 people, officials said Thursday night local time, as the number of missing remains unclear in a natura\u2026 [+5437 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jackie Wattles, Ashley Strickland",
-            "title": "Virgin Galactic launches first tourism mission after decades of promises - CNN",
-            "description": "Virgin Galactic \u2014 the space tourism company Richard Branson founded \u2014 launched its first space tourism mission, a major step toward delivering on decades of promises.",
-            "url": "https://www.cnn.com/2023/08/10/travel/virgin-galactic-first-tourism-mission-launch-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230809123316-02-virgin-galactic-tourism-mission-walkup-071121.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-10T20:45:00Z",
-            "content": "Editors Note: Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nVirgin Galactic the space tourism compan\u2026 [+6181 chars]"
+            "author": "Ana Canizares, Sahar Akbarzai, Anna Gorzowska, Helen Regan",
+            "title": "Ecuador says six suspects arrested for presidential candidate assassination are Colombian - CNN",
+            "description": "Six suspects arrested in connection with the assassination of Ecuadorian presidential candidate Fernando Villavicencio are Colombian nationals and gang members, authorities have confirmed, as a former vice president demanded action over spiraling levels of vi\u2026",
+            "url": "https://www.cnn.com/2023/08/11/americas/ecuador-villavicencio-assassination-suspects-colombian-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810195410-fernando-villavicencio-rally-080923.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-11T09:24:00Z",
+            "content": "Six suspects arrested in connection with the assassination of Ecuadorian presidential candidate Fernando Villavicencio are Colombian nationals and gang members, authorities have confirmed, as a forme\u2026 [+4770 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Perseid meteor shower peaks this weekend, sending shooting stars across the sky - NPR",
+            "description": "The Perseid meteor shower sends bright streaks shooting across the night sky. Stargazers can watch the shower peak this weekend, but the key, experts say, will be patience.",
+            "url": "https://www.npr.org/2023/08/11/1193239359/the-perseid-meteor-shower-peaks-this-weekend-heres-how-to-watch",
+            "urlToImage": "https://media.npr.org/assets/img/2023/08/10/51371961714_97a3fd9923_o_wide-5bcd65378edfc932d1db4f3a307dc21f1e020971-s1400-c100.jpeg",
+            "publishedAt": "2023-08-11T09:00:25Z",
+            "content": "In this 30 second exposure, a meteor streaks across the sky during the annual Perseid meteor shower, Wednesday, Aug. 11, 2021, in Spruce Knob, West Virginia.\r\nNASA/Bill Ingalls\r\nGet ready for some sh\u2026 [+3483 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Karen Gilchrist",
+            "title": "With eyes on Taiwan, new China ban shows the U.S. may be learning lessons from mistakes with Russia - CNBC",
+            "description": "U.S. moves to ban certain investment in China suggest that Western allies may be learning from national security failings in Russia, according to analysts.",
+            "url": "https://www.cnbc.com/2023/08/11/us-executive-order-on-china-shows-its-learning-from-russia-mistakes.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107284410-1691665487202-gettyimages-1247196009-775942443.jpeg?v=1691743802&w=1920&h=1080",
+            "publishedAt": "2023-08-11T08:50:02Z",
+            "content": "The White House has announced a ban on some U.S. investment in China in sensitive technologies such as computer chips in the latest ratcheting up of Washington's disassociation from Beijing amid perc\u2026 [+6760 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Biden world sees more swing states at play in 2024 than in 2020 - POLITICO - POLITICO",
+            "description": "The president\u2019s team is focused on the states that got him the White House. But the issue of abortion has them dreaming of something bigger.",
+            "url": "https://www.politico.com/news/2023/08/11/biden-world-2024-election-abortion-00110775",
+            "urlToImage": "https://static.politico.com/3e/0b/9950557447d5ad617eeaf79c4d73/biden-08432.jpg",
+            "publishedAt": "2023-08-11T08:30:00Z",
+            "content": "Bidens campaign and the Democratic National Committee have aired ads there as well as in former President Donald Trumps home base of Florida, where an amendment to restore abortion rights could be on\u2026 [+7823 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "SAM MEDNICK",
+            "title": "Tensions rise as West African nations prepare to send troops to restore democracy in Niger - The Associated Press",
+            "description": "Tensions are escalating between Niger\u2019s new military regime and the West African regional bloc that has ordered troops deployed to restore Niger\u2019s flailing democracy. ECOWAS said it had directed a \u201cstandby force\u201d to restore constitutional order in Niger after\u2026",
+            "url": "https://apnews.com/article/niger-coup-west-africa-bfd1ddcf075379289475d3f72d85fa16",
+            "urlToImage": "https://dims.apnews.com/dims4/default/fd95830/2147483647/strip/true/crop/4240x2385+0+224/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2F92%2F2010c0342d35e349895bb1386dab%2F871bcf0ac98b4184b38e30650cbb3116",
+            "publishedAt": "2023-08-11T08:09:00Z",
+            "content": "NIAMEY, Niger (AP) Tensions are escalating between Nigers new military regime and the West African regional bloc that has ordered the deployment of troops to restore Nigers flailing democracy. \r\nThe \u2026 [+6058 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Evelyn Cheng",
+            "title": "Chinese tech giant Huawei reports tepid consumer revenue growth for the first half of 2023 - CNBC",
+            "description": "Huawei on Friday reported 2.2% year-on-year growth in its consumer business revenue for the first half of the year.",
+            "url": "https://www.cnbc.com/2023/08/11/china-tech-huawei-h1-q2-2023-earnings-report.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105918704-1558069643474gettyimages-1142487742.jpeg?v=1691740801&w=1920&h=1080",
+            "publishedAt": "2023-08-11T08:00:01Z",
+            "content": "Huawei's production campus is pictured here on April 25, 2019, in Dongguan, near Shenzhen, China.\r\nBEIJING Chinese tech giant Huawei on Friday reported 2.2% year-on-year growth in its consumer busine\u2026 [+3650 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Japan vs. Sweden live updates: Sweden leads 2-0 early in second half - FOX Sports",
+            "description": "The 2023 Women's World Cup continues Friday with a quarterfinals matchup between Japan and Sweden. Here are the highlights!",
+            "url": "https://www.foxsports.com/stories/soccer/womens-world-cup-2023-top-plays-japan-sweden",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/08.11.23_Womens-World-Cup-Top-Moments_Japan-vs-Sweden1_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-11T07:13:30Z",
+            "content": "The 2023 FIFA Women's World Cup\r\n continues Friday (on FOX and the FOX Sports app) with Japan facing off against Sweden in the quarterfinal round at Eden Park in Auckland, New Zealand.\r\nJapan and Swe\u2026 [+1934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Josh Nathan-Kazis",
+            "title": "New Covid Boosters Are Coming. Will Anyone Take Them? - Barron's",
+            "description": "Moderna and Pfizer expected strong demand for the latest Covid shots. Now they're walking back those projections.",
+            "url": "https://www.barrons.com/articles/covid-booster-pfizer-moderna-a98ee0de",
+            "urlToImage": "https://images.barrons.com/im-833351/social",
+            "publishedAt": "2023-08-11T06:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "UBS ends Credit Suisse's government and central bank protections - CNBC",
+            "description": "UBS' takeover of Credit Suisse was brokered in March, amid talks with the Swiss government, the Swiss National Bank and regulator FINMA.",
+            "url": "https://www.cnbc.com/2023/08/11/ubs-ends-credit-suisse-dependence-on-swiss-central-bank-loan.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107211199-1679268403447-gettyimages-1248590837-2023-03-16aw-zurich_rnd1072.jpeg?v=1691731970&w=1920&h=1080",
+            "publishedAt": "2023-08-11T05:29:30Z",
+            "content": "UBS on Friday said that it has ended a 9 billion Swiss franc ($10.27 billion) loss protection agreement and a 100 billion Swiss franc public liquidity backstop that were put in place by the Swiss gov\u2026 [+2740 chars]"
         },
         {
             "source": {
@@ -86,181 +138,129 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Overwatch 2: Invasion - Official Illari Gameplay Trailer - IGN",
-            "description": "Meet Illari in this latest trailer for Overwatch 2, and see the new support hero in action, including her abilities like healing pylon, outburst, and more. L...",
-            "url": "https://www.youtube.com/watch?v=3M5om9-Esaw",
-            "urlToImage": "https://i.ytimg.com/vi/3M5om9-Esaw/maxresdefault.jpg",
-            "publishedAt": "2023-08-10T20:39:45Z",
+            "title": "Minnesota Vikings vs. Seattle Seahawks Highlights | 2023 Preseason Preseason Week 1 - NFL",
+            "description": "Minnesota Vikings vs. Seattle Seahawks - Highlights | 2023 Preseason PreSeason Week 1, 08/10/2023Check out our other channels:NFL Mundo https://www.youtube.c...",
+            "url": "https://www.youtube.com/watch?v=CcJMjzgQZHM",
+            "urlToImage": "https://i.ytimg.com/vi/CcJMjzgQZHM/maxresdefault.jpg",
+            "publishedAt": "2023-08-11T05:22:10Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "NASASpaceflight.com"
-            },
-            "author": "P. Katin",
-            "title": "Luna 25: the first Russian spacecraft in 47 years is ready to go to the moon - NASASpaceFlight.com - NASASpaceflight.com",
-            "description": "On August 10, 2023, at 23:10 UTC, the Russian Luna 25 spacecraft is scheduled to\u2026",
-            "url": "https://www.nasaspaceflight.com/2023/08/luna-25-mission-launch/",
-            "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2023/08/5035861848.jpg",
-            "publishedAt": "2023-08-10T20:33:12Z",
-            "content": "3On August 10, 2023, at 23:10 UTC, the Russian Luna 25 spacecraft is scheduled to be launched to the Moon from Vostochny cosmodrome on top of a Soyuz-2.1b rocket with a Fregat-M upper stage. This is \u2026 [+10149 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WSFA"
-            },
-            "author": "WSFA 12 News Staff",
-            "title": "Woman arrested in connection to Montgomery riverfront brawl - WSFA",
-            "description": "A woman has been arrested in connection to the Saturday brawl at the Montgomery riverfront, marking the fourth suspect to be charged by the Montgomery Police Department in a case that\u2019s garnered national attention.",
-            "url": "https://www.wsfa.com/2023/08/10/woman-arrested-connection-montgomery-riverfront-brawl/",
-            "urlToImage": "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/GpTU8x91n7ibtSiN8cueTDVOO3g=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5GQPFVFR2ZBSRMFGOUMJDNPBSU.jpg",
-            "publishedAt": "2023-08-10T20:25:00Z",
-            "content": "MONTGOMERY, Ala. (WSFA) - A woman has been arrested in connection to the Saturday brawl at the Montgomery riverfront, marking the fourth suspect to be charged by the Montgomery Police Department in a\u2026 [+3672 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
+                "name": "The Times of Israel"
             },
             "author": null,
-            "title": "The Biden administration is seeking billions in additional funding for Ukraine - NPR",
-            "description": "The funding request for Ukraine could set up a showdown with Congress, where far-right Republicans as well as the left of the Democratic Party are skeptical of additional funding for the conflict.",
-            "url": "https://www.npr.org/2023/08/10/1193303180/biden-ukraine-aid",
-            "urlToImage": "https://media.npr.org/assets/img/2023/08/10/ap23221831706690_wide-795ed48d94dc4bad68b8281252febe2b098170f9-s1400-c100.jpg",
-            "publishedAt": "2023-08-10T20:12:15Z",
-            "content": "President Joe Biden arrives on Air Force One at Roland R. Wright International Guard Base in Salt Lake City on Wednesday.\r\nAlex Brandon/AP\r\nThe Biden administration is asking Congress to approve $40 \u2026 [+1707 chars]"
+            "title": "US-Iran prisoner swap said to be part of larger deal that addresses nuclear program - The Times of Israel",
+            "description": "Israeli officials tell NYT that exchange agreement stems from broader informal understandings, which include Iran limiting its nuclear work and halting proxy attacks on US forces",
+            "url": "https://www.timesofisrael.com/us-iran-prisoner-swap-said-to-be-part-of-larger-deal-that-addresses-nuclear-program/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/08/Untitled-7-1-1024x640.jpg",
+            "publishedAt": "2023-08-11T04:53:07Z",
+            "content": "Israeli officials said a prisoner exchange deal announced Thursday between the US and Iran is part of a larger set of understandings between Tehran and Washington, who have been working toward an inf\u2026 [+4387 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Rolling Stone"
+                "id": "financial-times",
+                "name": "Financial Times"
             },
-            "author": "David Browne",
-            "title": "Daniel Lanois on the Moment Robbie Robertson Reset His Career - Rolling Stone",
-            "description": "The producer recalls making Robertson\u2019s first, classic solo record \u2014 sessions with a young U2, conversations about the Band, and some pricy footwear",
-            "url": "https://www.rollingstone.com/music/music-features/robbie-robertson-daniel-lanois-solo-debut-1234804556/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/08/robbie-robertson-daniel-lanois.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2023-08-10T20:04:26Z",
-            "content": "In 1986, ten years after the Band had played \u201cThe Last Waltz,\u201d its final show with the original lineup, Robbie Robertson decided the time had come to return to music. He\u2019d dabbled in acting and film \u2026 [+7245 chars]"
+            "author": "Richard Waters",
+            "title": "California clears way for driverless taxis in San Francisco - Financial Times",
+            "description": "Regulators give green light despite concerns from officials about vehicles\u2019 safety",
+            "url": "https://www.ft.com/content/a8de16bd-ffd0-41a8-b4af-f9b69fb4e304",
+            "urlToImage": null,
+            "publishedAt": "2023-08-11T04:18:21Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Electrek"
+                "id": "espn",
+                "name": "ESPN"
             },
-            "author": "Michelle Lewis",
-            "title": "Maxeon is going to open a 3 GW solar factory in New Mexico - Electrek",
-            "description": "Maxeon Solar Technologies is going to build a $1 billion silicon solar factory in New Mexico \u2013 the largest in the US.",
-            "url": "https://electrek.co/2023/08/10/maxeon-solar-new-mexico-us/",
-            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/08/Maxeon_New-Mexico_solar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-08-10T20:04:00Z",
-            "content": "Singapore-headquartered Maxeon Solar Technologies has just announced that it\u2019s going to build a $1 billion silicon solar factory in New Mexico the largest in the US.\r\nThe 3-gigawatt factory, which wi\u2026 [+2339 chars]"
+            "author": "DJ Bien-Aime",
+            "title": "Texans' C.J. Stroud pledges to learn from mistakes in preseason debut - ESPN - ESPN",
+            "description": "C.J. Stroud, the No. 2 overall pick, vowed to learn from his mistakes after struggling in his preseason debut.",
+            "url": "https://www.espn.com/nfl/story/_/id/38170395/texans-cj-stroud-pledges-learn-mistakes-preseason-debut",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0811%2Fr1209117_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-08-11T03:58:00Z",
+            "content": "HOUSTON -- Texans quarterback C.J. Stroud vowed to learn from his errors and \"keep growing\" after struggling in his preseason debut Thursday night.\r\nStroud went 2-for-4 for 13 yards with an intercept\u2026 [+3009 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "David French",
-            "title": "Wall Street ends flat, gives up most gains after July inflation data - Reuters",
-            "description": "Wall Street's main indexes finished flat on Thursday, giving up most early gains on milder-than-feared inflation data as investors worried about the U.S. economy's longer-term prospects and whether stocks had further room to run.",
-            "url": "https://www.reuters.com/markets/us/futures-rise-run-up-key-inflation-data-2023-08-10/",
-            "urlToImage": "https://www.reuters.com/resizer/7ik5u5ADhGuAxo5UYhivSwP7lkY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CFVORA4EWVMBZG4DSLTIQD5LBQ.jpg",
-            "publishedAt": "2023-08-10T20:01:00Z",
-            "content": "Aug 10 (Reuters) - Wall Street's main indexes finished flat on Thursday, giving up most early gains on milder-than-feared inflation data as investors worried about the U.S. economy's longer-term pros\u2026 [+4014 chars]"
+            "author": "Guy Faulconbridge, Joey Roulette",
+            "title": "Russia launches lunar lander in race to find water on moon - Reuters",
+            "description": "Russia launched its first moon-landing spacecraft in 47 years on Friday in a bid to be the first nation to make a soft landing on the lunar south pole, a region believed to hold coveted pockets of water ice.",
+            "url": "https://www.reuters.com/technology/space/russia-launch-lunar-spacecraft-race-find-water-moon-2023-08-10/",
+            "urlToImage": "https://www.reuters.com/resizer/B0HO9iPA2RZq4xHBqLNd70l0DdI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GWX3OVOUJJNHPNY62GLO63CGAI.jpg",
+            "publishedAt": "2023-08-11T02:43:00Z",
+            "content": "MOSCOW, Aug 11 (Reuters) - Russia launched its first moon-landing spacecraft in 47 years on Friday in a bid to be the first nation to make a soft landing on the lunar south pole, a region believed to\u2026 [+5022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": null,
+            "title": "Baldur's Gate 3 Surpasses Zelda: Tears Of The Kingdom As 2023's Highest-Rated Game \"So Far\" - Nintendo Life",
+            "description": null,
+            "url": "https://www.nintendolife.com/news/2023/08/baldurs-gate-3-surpasses-zelda-tears-of-the-kingdom-as-2023s-highest-rated-game-so-far",
+            "urlToImage": null,
+            "publishedAt": "2023-08-11T02:35:00Z",
+            "content": "{\"en\":{\"access_disabled\":\"Internet Access has been disabled on this device\",\"code\":\"Code\",\"custom_block_list\":\"it is on a custom block list\",\"email\":\"Email\",\"file_ext_blocked\":\"the file extension is \u2026 [+4315 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Supreme Court stops Purdue Pharma bankruptcy deal - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/08/10/supreme-court-purdue-pharma-bankruptcy",
+            "urlToImage": null,
+            "publishedAt": "2023-08-11T02:28:05Z",
+            "content": null
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Devan Cole, Ariane de Vogue",
-            "title": "Supreme Court blocks $6 billion Purdue Pharma opioid settlement and will hear case this fall - CNN",
-            "description": "The Supreme Court on Thursday blocked Purdue Pharma from going forward with bankruptcy proceedings, which the Biden administration has called an \u201cunprecedented\u201d arrangement that would ultimately offer the Sackler family broad protection from opioid-related ci\u2026",
-            "url": "https://www.cnn.com/2023/08/10/politics/supreme-court-purdue-pharma-opioid-settlement/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230511100144-03-file-supreme-court.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-10T19:57:00Z",
-            "content": "The Supreme Court on Thursday blocked Purdue Pharma from going forward with bankruptcy proceedings, which the Biden administration has called an unprecedented arrangement that would ultimately offer \u2026 [+2704 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jonny Hallam, Ana Maria Canizares, Karol Suarez, Helen Regan, Ivana Kottasov\u00e1, David Shortell",
-            "title": "Ecuador presidential candidate Fernando Villavicencio assassinated at campaign event - CNN",
-            "description": "A candidate in Ecuador\u2019s upcoming presidential election, Fernando Villavicencio, was assassinated at a campaign event in the capital Wednesday, as a deadly escalation of violence and crime grips the South American country.",
-            "url": "https://www.cnn.com/2023/08/09/americas/ecuador-presidential-candidate-fernando-villavicencio-assassinated-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810132038-fernando-villavicencio-running.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-10T19:52:00Z",
-            "content": "A candidate in Ecuadors upcoming presidential election, Fernando Villavicencio, was assassinated at a campaign event in the capital Wednesday, as a deadly escalation of violence and crime grips the S\u2026 [+7260 chars]"
+            "author": "Nicki Brown",
+            "title": "Man arrested after \u2018engaging in threatening conduct\u2019 towards jurors and witnesses in Pittsburgh synagogue shooter trial, prosecutors say - CNN",
+            "description": "A West Virginia man was arrested Thursday after \u201cengaging in threatening conduct\u201d towards jurors and government witnesses in the federal trial against the the Pittsburgh synagogue shooter, prosecutors announced.",
+            "url": "https://www.cnn.com/2023/08/10/us/pittsburgh-synagogue-trial-threats-arrest-hardy-lloyd/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810212832-pittsburgh-federal-courthouse-042423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-11T01:43:00Z",
+            "content": "A West Virginia man was arrested Thursday after engaging in threatening conduct towards jurors and government witnesses in the federal trial against the the Pittsburgh synagogue shooter, prosecutors \u2026 [+3731 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WTVD-TV"
+                "name": "WPVI-TV"
             },
             "author": null,
-            "title": "Georgia decapitation: Baby decapitated during childbirth, Jessica Ross alleges in Southern Regional Medical Center lawsuit - WTVD-TV",
-            "description": "\"During this viewing, their baby was wrapped tightly in a blanket with his head propped on top of his body in a manner such that those viewing him could not identify that he had been decapitated,\" according to the statement.",
-            "url": "https://abc11.com/jessica-ross-baby-georgia-decapitation-shoulder-dystocia-decapitated-during-childbirth/13629305/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13629531_081023-wls-n1-ga-baby-decapitated-pkg-vid.jpg?w=1600",
-            "publishedAt": "2023-08-10T19:49:48Z",
-            "content": "ATLANTA -- A mother who alleges her baby was decapitated during delivery at a Georgia hospital last month filed a lawsuit Wednesday against the hospital and others involved in the delivery, according\u2026 [+3637 chars]"
+            "title": "iOS 17 updates: iPhone users will soon have to adjust to this small but significant change - WPVI-TV",
+            "description": "The change is likely to streamline the look of the phone app and put all functions in one place. Apple did not respond to a request for comment.",
+            "url": "https://6abc.com/apple-iphone-new-ios17-emergency-sos-when-does-the-come-out/13630629/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13630631_apple-iphone-changes.jpg?w=1600",
+            "publishedAt": "2023-08-11T00:52:00Z",
+            "content": "Get your thumb ready for next month. Apple (AAPL) is making a subtle change to the iPhone's software that will likely mess with your muscle memory: The big red \"end call\" button is moving.\r\nThe iPhon\u2026 [+1791 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KABC-TV"
+                "name": "Meduza"
             },
             "author": null,
-            "title": "Statement announcing Lil Tay's death deleted from social media star's verified Instagram account - KABC-TV",
-            "description": "The deletion fueled questions about the validity of the original announcement.",
-            "url": "https://abc7.com/lil-tay-social-media-brother-2023/13629575/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13624832_080923-wabc-lil-tay-img.jpg?w=1600",
-            "publishedAt": "2023-08-10T19:07:30Z",
-            "content": "A statement alleging that Lil Tay, who rose to stardom as a rapper and influencer on social media, had died was deleted on Thursday afternoon from her verified Instagram account, fueling questions ab\u2026 [+3285 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Martin Pengelly",
-            "title": "Supreme court justice Thomas took 38 undisclosed vacations from rich friends \u2013 report - The Guardian",
-            "description": "Supreme court justice may have violated US law by not disclosing trips paid for by wealthy friends, ethics experts say",
-            "url": "https://www.theguardian.com/law/2023/aug/10/clarence-thomas-gift-vacation-supreme-court",
-            "urlToImage": "https://i.guim.co.uk/img/media/54ad296ceea106bfd952ff4a988bf751b2171bfa/0_98_2954_1773/master/2954.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3061eaf902330cd113c4deee5663ff3",
-            "publishedAt": "2023-08-10T19:02:00Z",
-            "content": "The US supreme court justice Clarence Thomas appears to have violated US law by failing to disclose flights, yacht cruises and expensive sports tickets bestowed by wealthy friends behind at least 38 \u2026 [+11251 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Cara Tabachnick",
-            "title": "Record-breaking 17,600 pounds of cocaine seized in the Netherlands - CBS News",
-            "description": "The drugs were shipped from Ecuador via Panama to Rotterdam and are worth around $660 million, Rotterdam's public prosecutor's office said in a news statement.",
-            "url": "https://www.cbsnews.com/news/rotterdam-netherlands-17600-pounds-of-cocaine-seized/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/10/dc233083-5684-4763-821e-693d64239886/thumbnail/1200x630/1bee1ab6126981b4ecf3b237b35d1ed9/screen-shot-2023-08-10-at-2-12-18-pm.png?v=08aa43fa812a9e12e93282c47f58b17f",
-            "publishedAt": "2023-08-10T18:57:41Z",
-            "content": "Netherlands customs agents seized 17,600 pounds of cocaine hidden inside crates of bananas \u2013 the largest haul ever collected in Rotterdam's port, authorities said Thursday.\r\nDogs sniffed the cocaine \u2026 [+2221 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "One thing to watch in each NFL preseason Week 1 game: All eyes on Bryce Young, Calvin Ridley's Jaguars debut - CBS Sports",
-            "description": "Plenty of rookie quarterbacks are expected to make their debuts this week",
-            "url": "https://www.cbssports.com/nfl/news/one-thing-to-watch-in-each-nfl-preseason-week-1-game-all-eyes-on-bryce-young-calvin-ridleys-jaguars-debut/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/10/d7c1296c-9db7-44e9-8df3-3fa786f57793/thumbnail/1200x675/f5b1311e1eea67d39ad9422161557ea8/bryce-young.jpg",
-            "publishedAt": "2023-08-10T18:11:00Z",
-            "content": "Week 1 of the NFL preseason is exciting for fans as they'll be able to see their teams take the field for the first time since the conclusion of last season. With the limited access in training camps\u2026 [+12764 chars]"
+            "title": "A pivotal moment for the 2023 summer offensive - Meduza",
+            "description": "Since the start of the full-scale invasion of Ukraine, Meduza has adopted a consistent antiwar position, holding Russia responsible for its military aggression and atrocities. As part of this commitment, we regularly update an interactive map that documents c\u2026",
+            "url": "https://meduza.io/en/feature/2023/08/11/a-pivotal-moment-for-the-2023-summer-offensive",
+            "urlToImage": "https://meduza.io/imgly/share/1691711340/en/feature/2023/08/11/a-pivotal-moment-for-the-2023-summer-offensive",
+            "publishedAt": "2023-08-10T23:49:00Z",
+            "content": "Since the start of the full-scale invasion of Ukraine, Meduza has adopted a consistent antiwar position, holding Russia responsible for its military aggression and atrocities. As part of this commitm\u2026 [+9585 chars]"
         }
     ]
 }
