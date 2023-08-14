@@ -1,136 +1,97 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": "Kelsey Ables, Ellen Francis",
-            "title": "Russia-Ukraine war news: Russia says drones targeted Crimea; Zelensky fires military recruiters over corruption - The Washington Post",
-            "description": "Russia said it intercepted drones targeting Crimea overnight. Zelensky fired military recruitment chiefs after a corruption probe.",
-            "url": "https://www.washingtonpost.com/world/2023/08/12/russia-ukraine-war-news/",
-            "urlToImage": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-            "publishedAt": "2023-08-12T10:38:57Z",
-            "content": "Russias Defense Ministry said Saturday that forces intercepted 20 drones targeting Crimea during the night, the third day in a row that Russia has reported an attempted drone attack. The Kremlin has \u2026 [+3403 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science.org"
-            },
-            "author": "Science",
-            "title": "U.S. unveils plans for large facilities to capture carbon directly from air - Science",
-            "description": null,
-            "url": "https://www.science.org/content/article/us-unveils-plans-for-large-facilities-to-capture-carbon-directly-from-air",
-            "urlToImage": null,
-            "publishedAt": "2023-08-12T10:33:54Z",
-            "content": null
+            "author": null,
+            "title": "Rising political threats take U.S. into uncharted territory as 2024 election looms - POLITICO",
+            "description": "Threats against public officials have been steadily climbing in recent years, creating new challenges for law enforcement, civil rights and the health of American democracy.",
+            "url": "https://www.politico.com/news/2023/08/12/political-threats-2024-elections-00110966",
+            "urlToImage": "https://static.politico.com/71/54/3473c21f43ce8be76b03c289bcb4/ap23224061665757.jpg",
+            "publishedAt": "2023-08-12T20:30:59Z",
+            "content": "The Capitol Police last year reported that they investigated more than double the number of threats against members of Congress as they did four years earlier. Driven by former President Donald Trump\u2026 [+7123 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Aimee Lewis",
-            "title": "Australia progresses to Women\u2019s World Cup semifinals after dramatic penalty shootout win over France - CNN",
-            "description": "",
-            "url": "https://www.cnn.com/2023/08/11/football/australia-france-england-colombia-womens-world-cup-quarterfinal-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230812033203-05-wwc-aus-france-2023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-12T10:03:00Z",
-            "content": "Womens World Cup 2023: Live scores, fixtures, results, tables and top scorers\r\nAustralia reached the Womens World Cup semifinals for the first time, sending a sell-out crowd in Brisbane into ecstasy,\u2026 [+1351 chars]"
+            "author": "Rebekah Riess, Michelle Watson",
+            "title": "Camp Pendleton Marine questioned about girl found in barracks faces charge in different case - CNN",
+            "description": "A US Marine who was questioned last month about a once-missing teenage girl found in his barracks has now been charged in an earlier, unrelated case, according to an update from the 1st Marine Logistics Group.",
+            "url": "https://www.cnn.com/2023/08/12/us/marine-14-year-old-camp-pendleton/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230812135636-camp-pendleton-file-2013.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-12T19:32:00Z",
+            "content": "A US Marine who was questioned last month about a once-missing teenage girl found in his barracks has now been charged in an earlier, unrelated case, according to an update from the 1st Marine Logist\u2026 [+915 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Citizen Times"
+                "name": "Entertainment Tonight"
             },
-            "author": "Mitchell Black",
-            "title": "COVID-19 on the rise in NC and Buncombe, but hospitalizations are low - Citizen Times",
-            "description": "COVID-19 levels around North Carolina and Buncombe County are rising, but hospitalizations in the western part of the state are still low.",
-            "url": "https://www.citizen-times.com/story/news/local/2023/08/11/covid-19-on-the-rise-in-nc-and-buncombe-but-hospitalizations-are-low/70566091007/",
-            "urlToImage": "https://www.citizen-times.com/gcdn/presto/2020/05/26/PASH/01e8ccf3-3011-4b45-85be-000cc6b68e44-COVID_testsite_014.JPG?crop=4128,2322,x0,y210&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2023-08-12T09:06:48Z",
-            "content": "ASHEVILLE COVID-19 levels around Buncombe County and North Carolina are rising, but hospitalizations in the western part of the state are still low.\r\nAccording to the N.C. Department of Health and Hu\u2026 [+3903 chars]"
+            "author": "Miguel A. Melendez",
+            "title": "Morgan Wallen Debuts Shaved Head at Ohio Concert: 'I Didn't Like My Long Hair Anymore' - Entertainment Tonight",
+            "description": "The country star unveiled the new look in Columbus, Ohio.",
+            "url": "https://www.etonline.com/morgan-wallen-debuts-shaved-head-at-ohio-concert-i-didnt-like-my-long-hair-anymore-209651",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-08/GettyImages-1426802278.jpg?h=ea7f769f&itok=xj6EJ8AL",
+            "publishedAt": "2023-08-12T19:02:26Z",
+            "content": "Morgan Wallen\u00a0has ditched his trademark mullet and he's now rocking a shaved head. Ain't that some-thing?!\r\nThe \"Last Night\" singer took the stage Friday night in Columbus, Ohio and revealed the new \u2026 [+3140 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "FRANCE 24 English"
+                "name": "fox5sandiego.com"
             },
-            "author": "FRANCE 24, FRANCE 24",
-            "title": "\ud83d\udd34 Live: Niger coup supporters protest near French military base as ECOWAS suspends meeting - FRANCE 24 English",
-            "description": "Thousands of supporters of Niger's junta rallied near a French military base on Friday to protest plans by West African bloc ECOWAS to deploy an armed force to the country. The demonstration came as the regional bloc indefinitely suspended a meeting between a\u2026",
-            "url": "https://www.france24.com/en/africa/20230812-%F0%9F%94%B4-live-niger-coup-supporters-protest-near-french-military-base-as-ecowas-delays-meeting",
-            "urlToImage": "https://s.france24.com/media/display/6d7b1070-38cd-11ee-9f12-005056bfb2b6/w:1280/p:16x9/000_33R33T4.jpg",
-            "publishedAt": "2023-08-12T06:03:16Z",
-            "content": "Thousands of supporters of Niger's junta rallied near a French military base on Friday to protest plans by West African bloc ECOWAS to deploy an armed force to the country. The demonstration came as \u2026 [+3249 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aaron Pellish, Jeff Zeleny",
-            "title": "Iowa governor at center of 2024 GOP race stays neutral but leaves door open for late endorsement - CNN",
-            "description": "Iowa Gov. Kim Reynolds is playing a central role in the opening stages of the 2024 Republican presidential contest, with candidates eager to bask in her glow in hopes of elevating their own campaigns. She\u2019s pledging her neutrality in the race \u2013 for now, at le\u2026",
-            "url": "https://www.cnn.com/2023/08/12/politics/kim-reynolds-iowa-governor-republican-endorsement/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230811172140-kim-reynolds-iowa-state-fair.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-12T06:01:00Z",
-            "content": "Gov. Kim Reynolds is eagerly rolling out the welcome mat for Republican presidential candidates in Iowa, showering each of the contenders with attention and pledging her neutrality in the 2024 race f\u2026 [+7991 chars]"
+            "author": "Amber Coakley",
+            "title": "Julian StarFest returns amid Perseid meteor shower peak in San Diego - FOX 5 San Diego",
+            "description": "Looking for the perfect place to watch the Perseid meteor shower? Head to the Julian StarFest for a free Star Party!",
+            "url": "https://fox5sandiego.com/entertainment/julian-starfest-returns-amid-perseid-meteor-shower-peak-in-san-diego/",
+            "urlToImage": "https://fox5sandiego.com/wp-content/uploads/sites/15/2023/08/Julian-StarFest.png?w=1280",
+            "publishedAt": "2023-08-12T18:54:33Z",
+            "content": "JULIAN, Calif. \u2014 Astronomy enthusiasts and star gazers are in for special treat this weekend as the Perseid meteor shower is expected to peak over San Diego County. \r\nFor those looking for the perfec\u2026 [+1377 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Katherine Donlevy",
-            "title": "Marine charged with sexual assault weeks after missing 14-year-old discovered in his Camp Pendleton barracks - New York Post ",
-            "description": "Other details \u2014 such as when and how he met the teenager, how she got onto the base and how long she spent in the barracks \u2014 have been kept under wraps.",
-            "url": "https://nypost.com/2023/08/12/marine-charged-with-sexual-assault-after-missing-teen-found-at-camp-pendleton/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-7v6ggwcoq-1691817404570.jpg?quality=75&strip=all&1691803040&w=1024",
-            "publishedAt": "2023-08-12T05:29:00Z",
-            "content": "A Marine based in California was charged with sexually assaulting a 14-year-old girl who had been missing for more than two weeks when she was found in his barracks.\r\nMilitary prosecutors slapped the\u2026 [+3362 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Rob Demovsky",
-            "title": "Packers' Jordan Love likely to see more preseason action, LaFleur says - ESPN - ESPN",
-            "description": "Jordan Love was efficient in his two series Friday night for his preseason debut as the Packers' new starting quarterback, but two of his throws left him and coach Matt LaFleur wanting more.",
-            "url": "https://www.espn.com/nfl/story/_/id/38176295/packers-jordan-love-likely-see-more-preseason-action-lafleur-says",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0812%2Fr1209559_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-08-12T04:22:00Z",
-            "content": "CINCINNATI -- The Green Bay Packers liked most of what Jordan Love did in his preseason debut as their new starting quarterback Friday night, but it was a couple of things he couldn't quite pull off \u2026 [+3575 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Morgan McFall-Johnsen, Lloyd Lee",
-            "title": "Scientists discover new species of feather stars with 20 'arms' - Business Insider",
-            "description": "The new species, called the Antarctic strawberry feather star, was found around 200 feet to 3,840 feet below the Southern Ocean, researchers said.",
-            "url": "https://www.businessinsider.com/scientists-discover-new-species-of-feather-stars-with-20-arms-2023-8",
-            "urlToImage": "https://i.insider.com/64d6f9615e5d5a00195cc2a7?width=1200&format=jpeg",
-            "publishedAt": "2023-08-12T04:20:00Z",
-            "content": "Researchers trawling the ocean near Antarctica uncovered a new species that looks haunting in photos but named it after a fruit.\r\nThe Antarctic strawberry feather star is a sea creature with 20 so-ca\u2026 [+3418 chars]"
+            "author": "Jacob Geanous",
+            "title": "Russia vows revenge after Ukraine fires missiles on Crimean bridge - New York Post ",
+            "description": "Ukraine has not commented on the alleged attack, but Russia\u2019s defense ministry said S-200 missiles were fired at the bridge, but were shot down and caused no damage.",
+            "url": "https://nypost.com/2023/08/12/russia-vows-revenge-after-ukraine-fires-missiles-on-crimean-bridge/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000021792141.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-08-12T18:33:00Z",
+            "content": "Moscow vowed revenge Saturday for what it branded a \u201cterrorist attack\u201d after officials said Ukraine targeted a bridge linking Russia to the annexed Crimean peninsula with a missile strike overnight.\r\u2026 [+4206 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Marshall Cohen, Hannah Rabinowitz, Devan Cole",
-            "title": "US attorney leading Hunter Biden criminal probe is now a special counsel after plea talks break down and a trial looms - CNN",
-            "description": "The Trump-appointed US attorney who is investigating Hunter Biden has been given special counsel status after plea talks between the Justice Department and the president\u2019s son fell apart.",
-            "url": "https://www.cnn.com/2023/08/11/politics/hunter-biden-special-counsel-appointment-merrick-garland/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230811100037-01-hunter-biden-court-072623.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-12T03:23:00Z",
-            "content": "The Trump-appointed US attorney who is investigating Hunter Biden has been given special counsel status after plea talks between the Justice Department and the presidents son fell apart.\r\nThe prosecu\u2026 [+6693 chars]"
+            "author": "Sara Murray, Jeremy Herb, Marshall Cohen",
+            "title": "First on CNN: Fulton County DA to present Trump election subversion case to grand jury early next week - CNN",
+            "description": "Former Georgia lieutenant governor to testify before Fulton County grand jury in 2020 election probe",
+            "url": "https://www.cnn.com/2023/08/12/politics/geoff-duncan-georgia-election-probe/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230809154847-fani-willis-donald-trump-080923-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-12T18:28:00Z",
+            "content": "An Atlanta-area prosecutor has notified at least two witnesses to appear before a grand jury early next week, the most significant indication of her intention to seek indictments in the investigation\u2026 [+3275 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Danielle Echeverria",
+            "title": "United flight to SFO nose-dived because of 'miscommunication,' report says - San Francisco Chronicle",
+            "description": "A federal investigation into a December flight to San Francisco\u00a0revealed that the plane nose-dived because of a misunderstanding among pilots.",
+            "url": "https://www.sfchronicle.com/california/article/united-flight-18292929.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/34/04/07/24134129/3/rawImage.jpg",
+            "publishedAt": "2023-08-12T18:26:18Z",
+            "content": "A federal investigation into a United Airlines plane that nearly nose-dived into the ocean shortly after takeoff from Maui in December, en route to San Francisco, found that the incident was the resu\u2026 [+1830 chars]"
         },
         {
             "source": {
@@ -138,129 +99,168 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "NFL preseason Week 1 scores, highlights: Young QBs deliver in 2023 debuts; Steelers WRs make big plays - CBS Sports",
+            "title": "NFL preseason Week 1 scores, highlights: Anthony Richardson picked on first NFL drive; DJ Moore to the house - CBS Sports",
             "description": "All the best highlights from Week 1 of the preseason are right here",
-            "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-scores-highlights-young-qbs-deliver-in-2023-debuts-steelers-wrs-make-big-plays/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/12/1cadf893-e59a-4d4a-a674-6ded1deed66e/thumbnail/1200x675/5ef35511e98969fe85e228cd1f494081/sam-howell.jpg",
-            "publishedAt": "2023-08-12T03:19:00Z",
-            "content": "Following the Pro Football Hall of Fame Game last week and then two games Thursday, NFL preseason action gets into full swing with six showdowns Friday night.\r\nAmong the storylines are the beginning \u2026 [+5110 chars]"
+            "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-scores-highlights-bryce-young-makes-nfl-debut-cowboys-intercept-trevor-lawrence-early/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/12/d78cbb1d-2a81-422a-9561-6112b607bb2b/thumbnail/1200x675/e2e1ef9dc5aad060e2fd7d2fda44a2be/bryce-young-4us.jpg",
+            "publishedAt": "2023-08-12T18:18:00Z",
+            "content": "The NFL's first full weekend of preseason games is underway. There are six games on tap for Saturday that include the highly anticipated debuts of rookie quarterbacks Anthony Richardson and Bryce You\u2026 [+8996 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Bird feeding can harm, disadvantage avian population, new study shows - USA TODAY",
+            "description": "A new study shows that bird-feeding dramatically increased near the beginning of lockdowns. But is it actually safe to feed wild birds?",
+            "url": "https://www.usatoday.com/story/news/world/2023/08/12/why-study-says-stop-feeding-birds/70567283007/",
+            "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/10/USAT/70568444007-usatsi-19781538.jpg?auto=webp&crop=2399,1355,x0,y108&format=pjpg&width=1200",
+            "publishedAt": "2023-08-12T18:16:37Z",
+            "content": "The beginning of COVID-19 lockdowns forced many to seek safer ways to connect with nature, and new research shows that bird-feeding around the world dramatically increased. But is it actually okay to\u2026 [+5906 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "wwe.com"
+                "name": "FOX 5 Atlanta"
             },
-            "author": null,
-            "title": "Smackdown: August 11, 2023 - WWE",
-            "description": "On an amazing Friday Night SmackDown, Jey Uso exclaimed that he\u2019s out of WWE after Spearing Roman Reigns and superkicking his brother Jimmy! Plus, Rey Mysterio became the new United States Champion after defeating Austin Theory, Edge challenged Sheamus to a m\u2026",
-            "url": "http://www.wwe.com/2023-08-11",
-            "urlToImage": "https://www.wwe.com/f/styles/og_image/public/all/2023/08/202300811_SD_final--9ff7ce5fff8354a7aa0bb8a63685e7a1.jpg",
-            "publishedAt": "2023-08-12T02:45:25Z",
-            "content": "Damage CTRL caused Charlotte Flair vs. Asuka to end in a no-contest\r\nAfter battling Bianca Belair in the Triple Threat Match at SummerSlam, Charlotte Flair and Asuka reignited their fierce rivalry.\r\n\u2026 [+1360 chars]"
+            "author": "FOX 5 Atlanta",
+            "title": "Inmate dies after being found unresponsive at Fulton County Jail - FOX 5 Atlanta",
+            "description": "A Fulton County inmate has died, according to the Fulton County Sheriff's Office.",
+            "url": "https://www.fox5atlanta.com/news/inmate-dies-after-being-found-unresponsive-at-fulton-county-jail",
+            "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/07/1280/720/FULTON-CO-JAIL-LOCATOR-WAGAME001_mpg_00.01.55.18.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-12T18:03:44Z",
+            "content": "ATLANTA - A Fulton County inmate has died, according to the Fulton County Sheriff's Office.\r\nChristopher Smith, 34, was reportedly found unresponsive by a detention officer on Thursday night. Medical\u2026 [+848 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Phys.Org"
             },
-            "author": "Jack Baer",
-            "title": "Lionel Messi scores again as Inter Miami beats Charlotte to reach Leagues Cup semifinals - Yahoo Sports",
-            "description": "That's eight goals in five matches for Messi.",
-            "url": "https://sports.yahoo.com/lionel-messi-scores-again-as-inter-miami-beats-charlotte-to-reach-leagues-cup-semifinals-220423273.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OAjx5lfbu7C79Z15mGXfNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/0eec88e0-3891-11ee-bebf-137432623316",
-            "publishedAt": "2023-08-12T02:44:00Z",
-            "content": "Lionel Messi has torn through Leagues Cup play with Inter Miami. (Photo by Omar Vega/Getty Images)\r\nThe goals just keep coming from Lionel Messi, and maybe the scariest part is that Inter Miami didn'\u2026 [+1544 chars]"
+            "author": "Bob Yirka",
+            "title": "An algorithm that shapes objects to cause them to roll down ramps following a desired path - Phys.org",
+            "description": "A team of physicists and mathematicians at the Institute for Basic Science's Center for Soft and Living Matter, in South Korea, working with a colleague from the University of Geneva, has developed an algorithm that can be used to find the shape of an object \u2026",
+            "url": "https://phys.org/news/2023-08-algorithm-ramps-desired-path.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-algorithm-that-shap.jpg",
+            "publishedAt": "2023-08-12T17:38:47Z",
+            "content": "Rolling paths and trajectoid shapes. a, An arbitrary curve T (dark blue) drawn on an inclined plane (grid) serves as one period of an infinite translationally symmetric trajectory T to be traced by t\u2026 [+4856 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WDRB"
+                "name": "WTAE Pittsburgh"
             },
-            "author": "Reyna Katko and Katrina Nickell",
-            "title": "JCPS hopes to return students to school by the 'middle of next week' as it works to fix 'transportation disaster' - WDRB",
-            "description": "At 5:13 a.m. Thursday, JCPS parents got a text alert that said school would be canceled on Thursday, Aug. 10, and Friday, Aug. 11, an effort by the district to",
-            "url": "https://www.wdrb.com/news/education/jcps-hopes-to-return-students-to-school-by-the-middle-of-next-week-as-it/article_75fb383a-3858-11ee-96c3-db5dcee40f2f.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/6/9c/69c1d8b6-6f32-11ed-bbfd-5b1c6bd06d54/6384d592b9c76.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
-            "publishedAt": "2023-08-12T02:32:04Z",
-            "content": "LOUISVILLE, Ky. (WDRB) -- Jefferson County Public Schools is planning to return students to class sometime in the middle of next week as it works to mitigate the issues that led to some students spen\u2026 [+6710 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": null,
-            "title": "2023 NFL preseason, Week 1: What We Learned from Friday's games - NFL.com",
-            "description": "The NFL offered up a full slate of Friday night preseason games.",
-            "url": "https://www.nfl.com/news/2023-nfl-preseason-week-1-what-we-learned-from-friday-s-games",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/itj27wr91z6ugsxodb7j",
-            "publishedAt": "2023-08-12T02:18:00Z",
-            "content": "Want to follow these storylines and more? NFL+ gives you the freedom to watch live out-of-market preseason games, daily coverage on NFL Network, the best NFL programming on-demand and much more! Plus\u2026 [+88 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Faris Tanyos",
-            "title": "3-year-old migrant girl dies aboard bus headed from Texas to Chicago - CBS News",
-            "description": "She was believed to be traveling with her mother and father, an Illinois state health official told CBS News.",
-            "url": "https://www.cbsnews.com/news/migrant-girl-dies-bus-asylum-seekers-texas-chicago-illinois/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/10/22/ff9c4cb3-8c7b-4180-ae49-596b31dc89b4/thumbnail/1200x630/269009b5bca15082f6e6a3f0f477e1cb/gettyimages-88961749.jpg?v=08aa43fa812a9e12e93282c47f58b17f",
-            "publishedAt": "2023-08-12T01:30:00Z",
-            "content": "A 3-year-old migrant girl riding a bus carrying asylum seekers from Texas to Chicago died Thursday in Southern Illinois, authorities said.\r\nThe girl died at a hospital in Marion County, an official f\u2026 [+1693 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Dan Milmo, Lorenzo Tondo",
-            "title": "Musk says proposed Zuckerberg cage fight to be held at \u2018epic location\u2019 in Italy - The Guardian",
-            "description": "X owner in talks with government over historic site for event \u2013 though Colosseum and Rome ruled out",
-            "url": "https://www.theguardian.com/technology/2023/aug/11/elon-musk-mark-zuckerberg-cage-fight-italy-government",
-            "urlToImage": "https://i.guim.co.uk/img/media/a7bc2d17418c7dfd3108a32ec228ab88cb679320/28_125_1943_1166/master/1943.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ac6b5ca7a03ef65fd5d6f38662dace5",
-            "publishedAt": "2023-08-12T01:30:00Z",
-            "content": "Elon Musk is in talks with Italys government about hosting his proposed cage fight with Mark Zuckerberg at a historic site in the country, but the Colosseum has been ruled out as a venue.\r\nThe owner \u2026 [+3914 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "David Robb",
-            "title": "AMPTP Makes Counterproposal To WGA; Negotiations Recess But Will Resume Next Week - Deadline",
-            "description": "After their first day of bargaining since the Writers Guild went on strike May 2, the AMPTP and the WGA have recessed their negotiations until next week after the companies made a counterproposal t\u2026",
-            "url": "https://deadline.com/2023/08/writers-strike-talks-continue-1235460087/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/WGA-AMPTP-No-Deal-new-talks.jpg?w=1024",
-            "publishedAt": "2023-08-12T00:38:00Z",
-            "content": "After their first day of bargaining since the Writers Guild went on strike May 2, the AMPTP and the WGA have recessed their negotiations until next week after the companies made a counterproposal to \u2026 [+2624 chars]"
+            "author": "Tori Yorgey",
+            "title": "Plum house explosion leaves three homes destroyed, 12 damaged - WTAE Pittsburgh",
+            "description": "Three houses were destroyed and at least a dozen more were damaged when a home exploded in Plum on Saturday morning, Allegheny County officials said.",
+            "url": "https://www.wtae.com/article/plum-fire-house-explosion/44799635",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/plum-house-explosion-64d7ebf856235.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-08-12T17:36:00Z",
+            "content": "PLUM, Pa. \u2014One person is dead and several are unaccounted for after a house explosion in Plum on Saturday morning, Allegheny County emergency officials said.\r\nSky 4 flies over the explosion scene: Cl\u2026 [+2130 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "GABRIELA MOLINA, REGINA GARCIA CANO",
-            "title": "Ecuador holds 6 Colombians in slaying of presidential candidate as violence weighs on nation - The Associated Press",
-            "description": "Ecuador will hold six Colombian men for at least a month as the country probes their involvement in the slaying of a presidential candidate whose life\u2019s work was fighting crime and corruption, the national prosecutor\u2019s office said Friday. Fernando Villavicenc\u2026",
-            "url": "https://apnews.com/article/ecuador-villavicencio-presidential-candidate-killed-colombians-4ffb2030f439a6f1e6039326e1ee64b6",
-            "urlToImage": "https://dims.apnews.com/dims4/default/54bcc2f/2147483647/strip/true/crop/3565x2005+0+185/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4a%2F76%2F2723a20a231dcee2681ba87c4ce7%2F683fac369cc84ea6ba61b38b61662684",
-            "publishedAt": "2023-08-12T00:02:00Z",
-            "content": "QUITO, Ecuador (AP) Ecuador will hold six Colombian men for at least a month as the country probes their involvement in the slaying of a presidential candidate whose lifes work was fighting crime and\u2026 [+7328 chars]"
+            "author": "CLAIRE RUSH, TY O'NEIL, JENNIFER SINCO KELLEHER",
+            "title": "Survivors of the deadly Maui wildfires start returning to ruins. The death toll is likely to rise - The Associated Press",
+            "description": "Authorities are using cadaver-sniffing dogs to locate the dead as residents of the Hawaiian island of Maui sift through the remains of homes destroyed by wildfires still not completely contained. Residents of the historic town of Lahaina returned to a surreal\u2026",
+            "url": "https://apnews.com/article/maui-hawaii-fires-lahaina-destruction-evacuation-38ec0d6a5c610035a0a72b804fcdffe0",
+            "urlToImage": "https://dims.apnews.com/dims4/default/8910e03/2147483647/strip/true/crop/4200x2363+0+219/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2F73%2Ff1ce82c4b0d4fb038632073a6942%2F28d53ef953524ec8ba61a0c7ec830881",
+            "publishedAt": "2023-08-12T17:35:00Z",
+            "content": "LAHAINA, Hawaii (AP) Dogs trained to find bodies sniffed through piles of rubble and ash as stunned survivors of deadly wildfires that killed at least 80 people on the Hawaiian island of Maui took st\u2026 [+7345 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "6 migrants dead, 50 rescued from capsized boat in the English Channel - CBS News",
+            "description": "British authorities said 755 people crossed the channel in small boats Thursday, the highest daily number this year.",
+            "url": "https://www.cbsnews.com/news/6-migrants-dead-50-rescued-from-capsized-boat-in-the-english-channel/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/12/57dbab40-f717-4377-bcc8-c60efec1478b/thumbnail/1200x630/c94ca4fdb71018c5355945167a1b35e6/gettyimages-1593052258.jpg?v=08aa43fa812a9e12e93282c47f58b17f",
+            "publishedAt": "2023-08-12T17:14:19Z",
+            "content": "An overloaded boat carrying migrants capsized before dawn Saturday in the English Channel, killing at least six people and leaving more than 50 others to be rescued, according to French authorities.\r\u2026 [+4436 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Variety"
             },
-            "author": null,
-            "title": "New Yorkers feeling the squeeze as Manhattan rents hit new high - CBS New York",
-            "description": "New Yorkers are feeling the squeeze as rents hit a new high. Rent in Manhattan soared to a record-high average of $5,588 in July, up 9% from 2022. CBS New Yo...",
-            "url": "https://www.youtube.com/watch?v=GESOh-uZ63A",
-            "urlToImage": "https://i.ytimg.com/vi/GESOh-uZ63A/maxresdefault.jpg",
-            "publishedAt": "2023-08-11T23:51:46Z",
-            "content": null
+            "author": "Michaela Zee",
+            "title": "Box Office: \u2018Last Voyage of the Demeter\u2019 Sinking After $2.6 Million Opening Day, \u2018Barbie\u2019 and \u2018Oppenheimer\u2019 Sail On - Variety",
+            "description": "\u201cThe Last Voyage of the Demeter,\u201d a new period horror film set aboard a merchant ship, is capsizing in its debut at the domestic box office amid the ongoing success of \u201cBarbie&#82\u2026",
+            "url": "https://variety.com/2023/film/box-office/last-voyage-demeter-opening-day-barbie-oppenheimer-1235694258/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/08/MCDLAVO_UV028.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-08-12T16:49:00Z",
+            "content": "\u201cThe Last Voyage of the Demeter,\u201d a new period horror film set aboard a merchant ship, is capsizing in its debut at the domestic box office amid the ongoing success of \u201cBarbie\u201d and \u201cOppenheimer.\u201d\r\nTh\u2026 [+2982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thurrott.com"
+            },
+            "author": "Paul Thurrott",
+            "title": "New Pixel 8 Series Leak Reveals Audio Magic Eraser, Light Blue Device Color - Thurrott.com",
+            "description": "The Pixel 8 leaks continue, this time with a new feature called Audio Magic Eraser and a new light blue Pixel 8 Pro color.",
+            "url": "https://www.thurrott.com/mobile/287074/new-pixel-8-series-leak-reveals-audio-magic-eraser-light-blue-device-color",
+            "urlToImage": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/08/pixel-8-pro-audio-magic-eraser-leak.jpg",
+            "publishedAt": "2023-08-12T16:10:09Z",
+            "content": "The Pixel 8 leaks continue, this time with a new feature called Audio Magic Eraser and a new light blue Pixel 8 Pro color.\r\nGoogle is expected to unveil the Pixel 8 and Pixel 8 Pro in about two month\u2026 [+1536 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Zach Kruse",
+            "title": "Packers QB Jordan Love explains concept behind touchdown pass to Romeo Doubs - Packers Wire",
+            "description": "The double crosser concept is a red-zone staple for the Packers. Jordan Love\u2019s TD pass against the Bengals was a great example of the play.",
+            "url": "https://packerswire.usatoday.com/2023/08/12/packers-qb-jordan-love-explains-concept-behind-touchdown-pass-to-romeo-doubs/",
+            "urlToImage": "https://packerswire.usatoday.com/wp-content/uploads/sites/57/2023/08/USATSI_21189626.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2023-08-12T15:44:00Z",
+            "content": "The Green Bay Packers used a double-crosser concept to help spring open Romeo Doubs on Jordan Love\u2019s 9-yard touchdown pass in the preseason opener on Friday night in Cincinnati.\r\nLove helped explain \u2026 [+1988 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Molly Hennessy-Fiske, Emmanuel Felton, Rachel Hatzipanagos",
+            "title": "Montgomery brawl response steeped with the Alabama city's long history - The Washington Post",
+            "description": "The brawl that occurred on the Alabama River frontage last week has made the rounds on social media and tested racial tensions in the historic town.",
+            "url": "https://www.washingtonpost.com/nation/2023/08/12/montgomery-brawl-alabama-history-response/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NUAULHITMOIHZER2TZWQYPXGO4_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-08-12T15:34:10Z",
+            "content": "Comment on this story\r\nComment\r\nMONTGOMERY, Ala. When he noticed their path was blocked, Steven Clayton Thomason, an entertainer aboard the Harriott II ferry, began a singalong among the more than 20\u2026 [+9879 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Morse",
+            "title": "How to watch 2023 Basketball Hall of Fame ceremony as Dirk Nowitzki, Dwyane Wade and Gregg Popovich headline new class - CNN",
+            "description": "The induction ceremony of the new class of basketball Hall of Fame is one of the tentpole events of the sport\u2019s calendar.",
+            "url": "https://www.cnn.com/2023/08/12/sport/2023-basketball-hall-of-fame-ceremony-preview-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230809075538-01-2023-basketball-hall-of-fame-preview.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-12T15:33:00Z",
+            "content": "The induction ceremony of the new class of the Basketball Hall of Fame is one of the tentpole events of the sports calendar.\r\nHeld in the middle of the offseason, it is an opportunity for the next wa\u2026 [+2799 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brianna Sainez",
+            "title": "Selling Sunset\u2019s Chrishell Stause Slams Trolls Who \u2018Ship\u2019 Her and Ex Jason Oppenheim: \u2018Wasting Your Time\u2019 - Yahoo Entertainment",
+            "description": "Selling Sunset\u2019s Chrishell Stause is putting her foot down when it comes to online trolls telling her to consider getting back together with her ex Jason...",
+            "url": "https://www.yahoo.com/entertainment/selling-sunset-chrishell-stause-slams-150039050.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1GBClmE.E9kqqQkCuxA_SQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAw/https://media.zenfs.com/en/life_style_868/9cc5406230f1637f9f89e88203eb7614",
+            "publishedAt": "2023-08-12T15:00:39Z",
+            "content": "Selling SunsetsChrishell Stause is putting her foot down when it comes to online trolls telling her to consider getting back together with her ex Jason Oppenheim.\r\nThe Netflix star, 42, shared a scre\u2026 [+2833 chars]"
         }
     ]
 }
