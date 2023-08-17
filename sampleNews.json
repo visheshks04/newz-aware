@@ -4,146 +4,133 @@
     "articles": [
         {
             "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sarah Nassauer",
+            "title": "Target Sales Are Punished by Pride Month Backlash - The Wall Street Journal",
+            "description": "Retailer lowers profit goal for full year; executives say they will modify Pride Month promotion",
+            "url": "https://www.wsj.com/articles/target-tgt-q2-earnings-report-2023-cc9acf81",
+            "urlToImage": "https://images.wsj.net/im-835355/social",
+            "publishedAt": "2023-08-16T11:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Molly Hunter",
+            "title": "Matildas mania grips Australia as women\u2019s team captures hearts of World Cup host - NBC News",
+            "description": "Women\u2019s World Cup co-host Australia has developed a national obsession with its team, the Matildas, who face England in the semifinal on Wednesday.",
+            "url": "https://www.nbcnews.com/news/world/australia-womens-world-cup-matildas-soccer-rcna99931",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230816-matildas-mb-1016-9cb293.jpg",
+            "publishedAt": "2023-08-16T11:56:31Z",
+            "content": "SYDNEY, Australia Nothing could compete with the Matildas.\u00a0\r\nMeetings were canceled. Other sporting events, rescheduled. Pubs stocked up and viewing centers across the capital set up massive screens \u2026 [+1625 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Max Seddon, Anastasia Stognei",
+            "title": "Vladimir Putin to hold meeting on Russian currency controls after rouble slide - Financial Times",
+            "description": "Emergency session called after central bank rate rise fails to halt currency\u2019s decline",
+            "url": "https://www.ft.com/content/52e2cfc3-1157-424d-bf08-1b9544c99803",
+            "urlToImage": null,
+            "publishedAt": "2023-08-16T11:47:03Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Tierney Sneed",
-            "title": "Meadows trying to move Fulton County case to federal court - CNN",
-            "description": "Former Trump White House chief of staff Mark Meadows is seeking to move the Fulton County, Georgia, prosecution against him to federal court so that he can try to get the case dismissed under federal law.",
-            "url": "https://www.cnn.com/2023/08/15/politics/mark-meadows-fulton-case-federal-court/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230815175227-mark-meadows-file-081523.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-15T22:26:00Z",
-            "content": "Former Trump White House chief of staff Mark Meadows is seeking to move the Fulton County, Georgia, prosecution against him to federal court so that he can try to get the case dismissed under federal\u2026 [+2605 chars]"
+            "author": "Hanna Ziady",
+            "title": "UK inflation slows to 6.8% but services are getting even more expensive - CNN",
+            "description": "UK inflation eased to a 17-month low in July, official data showed Wednesday, though it also revealed that prices of services, such as haircuts, hotels and restaurants, increased at a faster pace than the previous month.",
+            "url": "https://www.cnn.com/2023/08/16/economy/uk-inflation-slowdown/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230815090158-uk-inflation-july-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-16T10:54:00Z",
+            "content": "UK inflation eased to a 17-month low in July, official data showed Wednesday, though it also revealed that prices of services, such as haircuts, hotels and restaurants, increased at a faster pace tha\u2026 [+1922 chars]"
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "EDNA TARIGAN and ROD McGUIRK Associated Press",
-            "title": "4 Australians and 2 Indonesians are rescued after being missing in waters off Indonesia for 2 days - ABC News",
-            "description": "Four Australian tourists and two Indonesians have been rescued after being missing for two days in the waters off Indonesia\u2019s Aceh province",
-            "url": "https://abcnews.go.com/International/wireStory/4-australian-tourists-rescued-after-missing-indonesian-waters-102274652",
-            "urlToImage": "https://s.abcnews.com/images/International/wirestory_476a3eeed14339d3160d5e3edbe680f5_16x9_992.jpg",
-            "publishedAt": "2023-08-15T21:56:58Z",
-            "content": "JAKARTA, Indonesia -- Four Australian tourists and two Indonesians were rescued after being missing for two days in the waters off Indonesia's Aceh province, officials and the father of one of the Au\u2026 [+2641 chars]"
+            "author": "Meg Tirrell",
+            "title": "The US eliminated malaria in 1951. How can it keep it under control now? - CNN",
+            "description": "Working underground in a biosafety level 3 insectary in Tres Cantos, Madrid, researchers at the pharmaceutical giant GSK were frustrated.",
+            "url": "https://www.cnn.com/2023/08/16/health/malaria-mosquito-control-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230811225623-02-locally-transmitted-malaria.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-16T10:45:00Z",
+            "content": "Working underground in a Biosafety Level 3 insectary in Tres Cantos, Madrid, researchers at the pharmaceutical giant GSK were frustrated.\r\nThe mosquitoes they were using to study experimental medicin\u2026 [+8795 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Simon Hurtz",
-            "title": "OpenAI wants GPT-4 to solve the content moderation dilemma - The Verge",
-            "description": "Neither Meta nor TikTok have really figured out how to moderate harmful content at scale. OpenAI touts its large language model GPT-4, but there is a catch.",
-            "url": "https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/QCdO_oKAdBIZCodEUT2WCBFgQSo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390406/STK149_AI_03.jpg",
-            "publishedAt": "2023-08-15T20:50:15Z",
-            "content": "OpenAI wants GPT-4 to solve the content moderation dilemma\r\nOpenAI wants GPT-4 to solve the content moderation dilemma\r\n / No one has really figured out how to moderate harmful content at scale. Open\u2026 [+3843 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sarah Whitten",
-            "title": "Disney accused of withholding hundreds of millions of dollars from 'Avatar' sequel financier - CNBC",
-            "description": "Disney has been accused of withholding profits from TSG Entertainment, a long-time financing partner of its 20th Century Fox studio.",
-            "url": "https://www.cnbc.com/2023/08/15/disney-accused-of-withholding-profits-from-tsg-entertainment.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107168569-1671806212438-107168569-1671482146688-au_gallerycontents_20cs_avatar2_2_7d3198d3.jpg?v=1692132301&w=1920&h=1080",
-            "publishedAt": "2023-08-15T20:45:01Z",
-            "content": "Hollywood financer TSG Entertainment is suing Disney for breach of contract.\r\nThe suit filed Tuesday in Los Angeles Superior Court\u00a0alleges that Disney and its studio 20th Century Fox committed a numb\u2026 [+3398 chars]"
+            "author": "Veronique Greenwood",
+            "title": "How pandemics affected the evolution of human immunity - The Washington Post - The Washington Post",
+            "description": "We are the descendants of those who survived past pandemics, and our genomes show it. But this genetic history can be a double-edged sword.",
+            "url": "https://www.washingtonpost.com/science/2023/08/16/plague-pandemics-immune-system-evolution/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YJAHZOTDIVYZEEKFR2HRV7CZ4U_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-08-16T10:12:53Z",
+            "content": "Comment on this story\r\nComment\r\nAgnolo di Tura was a sometime shoemaker and tax collector with a yen for keeping a journal. He was also his familys sole survivor when the Black Death tore through Sie\u2026 [+5379 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "NDTV News"
             },
-            "author": "Megan Henney",
-            "title": "Fitch warns multiple US banks face credit downgrade: report - Fox Business",
-            "description": "A Fitch Ratings analyst warned the agency may be forced to downgrade dozens of U.S. banks, including major lenders like JPMorgan Chase and Bank of America.",
-            "url": "https://www.foxbusiness.com/economy/fitch-warns-multiple-us-banks-face-credit-downgrade-report",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/JPMorganChase.jpg?ve=1&tl=1",
-            "publishedAt": "2023-08-15T20:37:13Z",
-            "content": "A Fitch Ratings analyst on Tuesday warned the agency may be forced to cut the credit ratings of more than a dozen banks, including some major Wall Street lenders.\u00a0\r\nFitch already lowered the score of\u2026 [+4629 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Krystal Nurse",
-            "title": "Michigan State University workers stumble across buried, 142-year-old campus observatory - USA TODAY",
-            "description": "Michigan State workers installing a hammock thought they had uncovered a large rock but used old maps to determine what they had struck.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/08/15/michigan-state-observatory-buried-on-campus/70594779007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/02/PLSJ/70513022007-msu-archaeology-dig-8.jpg?crop=4117,2326,x0,y0&width=3200&height=1808&format=pjpg&auto=webp",
-            "publishedAt": "2023-08-15T20:18:44Z",
-            "content": "EAST LANSING, MI What began as a simple hammock installation led Michigan State University workers to uncover a more-than-century-old part of the university's history.\r\nEmployees with the school's In\u2026 [+3006 chars]"
+            "author": null,
+            "title": "Viral: Nick Jonas Falls Off Stage During His Performance - NDTV",
+            "description": "The video shows Nick during his performance heading towards an edge of the stage and he stumbles",
+            "url": "https://www.ndtv.com/entertainment/viral-nick-jonas-falls-off-stage-during-his-performance-4302248",
+            "urlToImage": "https://c.ndtvimg.com/2023-08/0nvqmql_nick-_625x300_16_August_23.jpg",
+            "publishedAt": "2023-08-16T09:37:57Z",
+            "content": "Nick on stage. (Courtesy: Twitter)\r\nNew Delhi: Nick Jonas is on a tour across the United States along with his brothers Kevin and Joe Jonas\u00a0for concerts. The Jonas Brothers have been enthralling the \u2026 [+1891 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
+                "name": "NPR"
             },
-            "author": "Juli Clover",
-            "title": "Apple Seeds Sixth Betas of iOS 17 and iPadOS 17 to Developers - MacRumors",
-            "description": "Apple today seeded the sixth betas of upcoming iOS 17 and iPadOS 17 updates to developers for testing purposes, with the software coming a week after...",
-            "url": "https://www.macrumors.com/2023/08/15/apple-seeds-ios-17-beta-6-to-developers/",
-            "urlToImage": "https://images.macrumors.com/t/6b8G5PxTlH6uYOEFaG0IPAF9hKU=/2250x/article-new/2023/06/General-iOS-17-Feature-Orange-Purple.jpg",
-            "publishedAt": "2023-08-15T20:13:11Z",
-            "content": "Apple today seeded the sixth betas of upcoming iOS 17 and iPadOS 17 updates to developers for testing purposes, with the software coming a week after the release of the fifth betas.\r\nRegistered devel\u2026 [+2489 chars]"
+            "author": "",
+            "title": "'Barbaric' and 'negligent' treatment in ICE detention, inspections found - NPR",
+            "description": "Inspectors for the Department of Homeland Security found dangerous problems in immigration detention facilities. For years, the government fought NPR's efforts to obtain its often damning reports.",
+            "url": "https://www.npr.org/2023/08/16/1190767610/ice-detention-immigration-government-inspectors-barbaric-negligent-conditions",
+            "urlToImage": "https://media.npr.org/assets/img/2023/08/15/ap19243611355277---adelanto-ice_wide-77db54b44672927a980186af4e5f4d24f7b156af-s1400-c100.jpg",
+            "publishedAt": "2023-08-16T09:01:21Z",
+            "content": "Immigrants await processing at an Immigration and Customs Enforcement (ICE) detention center in Adelanto, California. By filing a lawsuit under the Freedom of Information Act, NPR obtained a trove of\u2026 [+31259 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KOCO Oklahoma City"
+                "name": "NPR"
             },
-            "author": "Jonathan Greco",
-            "title": "OSDH: Oklahoma's first human cases of West Nile virus for 2023 reported - KOCO Oklahoma City",
-            "description": "The Oklahoma State Department of Health on Tuesday reported the state's first human cases of West Nile virus for 2023.",
-            "url": "https://www.koco.com/article/oklahoma-west-nile-virus-first-human-cases-reported-2023/44821232",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/koco/27099206-27099206.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-            "publishedAt": "2023-08-15T19:45:00Z",
-            "content": "OKLAHOMA CITY \u2014The Oklahoma State Department of Health on Tuesday reported the state's first human cases of West Nile virus for 2023.\r\n| RELATED VIDEO ABOVE | Oklahoma State Department of Health addr\u2026 [+2346 chars]"
+            "author": "",
+            "title": "Why Trump's Georgia indictment won't shake his GOP support - NPR",
+            "description": "The former president has insulated himself with his party, having sold its members over the past seven years on his baseless narrative of a deep-state conspiracy against him.",
+            "url": "https://www.npr.org/2023/08/16/1193859099/trump-indictment-georgia-republican-support",
+            "urlToImage": "https://media.npr.org/assets/img/2023/08/15/gettyimages-1563724712_wide-271e66f66cc86a2421a76e13357c6f8b1165bca0-s1400-c100.jpg",
+            "publishedAt": "2023-08-16T09:00:52Z",
+            "content": "Former President Donald Trump speaks during a campaign rally in Erie, Pa., on July 29.\r\nJoed Viera/AFP via Getty Images\r\nWith each passing indictment of former President Donald Trump up to four now i\u2026 [+10264 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "nbc-news",
+                "name": "NBC News"
             },
-            "author": "David Carnevali",
-            "title": "Esmark CEO says has money in bank account for $7.8 billion US Steel bid - Reuters",
-            "description": "Esmark Inc majority owner and chief executive James Bouchard said in an interview on Tuesday that his steel maker, which does not publicly report its earnings, has cash for its $7.8 billion bid for U.S. Steel Corp <a href=\"https://www.reuters.com/markets/comp\u2026",
-            "url": "https://www.reuters.com/markets/deals/esmark-ceo-says-has-money-bank-account-78-billion-us-steel-bid-2023-08-15/",
-            "urlToImage": "https://www.reuters.com/resizer/YBc6tRGLAxW79ezShUxh1uruJ2M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3PRREBAOZJQRMCCQC5YZHE2UM.jpg",
-            "publishedAt": "2023-08-15T19:38:00Z",
-            "content": "NEW YORK, Aug 15 (Reuters) - Esmark Inc majority owner and chief executive James Bouchard said in an interview on Tuesday that his steel maker, which does not publicly report its earnings, has cash f\u2026 [+1406 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "BEN FINLEY, DENISE LAVOIE",
-            "title": "Mother pleads guilty to felony child neglect after 6-year-old son used her gun to shoot teacher - The Associated Press",
-            "description": "The mother of a 6-year-old who shot his teacher in Virginia pleaded guilty Tuesday to a charge of felony child neglect, seven months after her son used her handgun to critically wound the educator in a classroom full of students. Prosecutors agreed to drop th\u2026",
-            "url": "https://apnews.com/article/teacher-shooting-virginia-boy-classroom-81d52f6bf35512c5684acb93baa8700b",
-            "urlToImage": "https://dims.apnews.com/dims4/default/f99d1e8/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Fe5%2F0e2ae414aa2e9a5e5be86c72b8d4%2F7f82e26b216a4ca6ae655ab0778426cd",
-            "publishedAt": "2023-08-15T19:35:00Z",
-            "content": "NEWPORT NEWS, Va. (AP) The mother of a 6-year-old boy who shot his teacher in Virginia pleaded guilty Tuesday to a charge of felony child neglect, seven months after her son used her handgun to criti\u2026 [+5270 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Erin Keller",
-            "title": "Katharine McPhee\u2019s nanny fatally run over by elderly woman: report - New York Post ",
-            "description": "The 84-year-old driver was not injured in the incident.",
-            "url": "https://nypost.com/2023/08/15/katharine-mcphees-nanny-fatally-run-over-by-elderly-woman-report/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000022226274.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-08-15T19:27:00Z",
-            "content": "A woman who worked as a nanny for singer Katharine McPhee and her husband, David Foster, reportedly died after an elderly woman hit her at a San Fernando Valley car dealership.\r\nA source identified Y\u2026 [+2808 chars]"
+            "author": "Erika Edwards",
+            "title": "Emergency room doctors beg for help treating children with mental health illnesses - NBC News",
+            "description": "As the nation's pediatric mental health crisis worsens, influential medical groups are pleading for more support and resources to help children and teenagers with psychiatric concerns.",
+            "url": "https://www.nbcnews.com/health/health-news/emergency-room-doctors-beg-help-treating-children-mental-health-illnes-rcna99951",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230816-child-mental-health-stock-al-0825-2a513d.jpg",
+            "publishedAt": "2023-08-16T09:00:41Z",
+            "content": "Three influential groups of pediatricians and emergency medicine providers are pleading for more support and resources as the number of children and teenagers with mental health concerns overwhelm em\u2026 [+4089 chars]"
         },
         {
             "source": {
@@ -151,116 +138,129 @@
                 "name": "Politico"
             },
             "author": null,
-            "title": "Attorney is dropping representation of Hunter Biden - POLITICO",
-            "description": "Christopher Clark, a high-profile litigator, is withdrawing because he might be called to testify in the case, which appears headed for a criminal trial.",
-            "url": "https://www.politico.com/news/2023/08/15/hunter-bidens-attorney-will-withdraw-from-tax-case-as-he-prepares-to-potentially-testify-00111284",
-            "urlToImage": "https://static.politico.com/05/07/0ed342c24ffe843770a1e6b71175/biden-investigation-54550.jpg",
-            "publishedAt": "2023-08-15T19:05:17Z",
-            "content": "Hunter Biden was set to enter a plea deal in federal court last month, but the agreement hit a roadblock. | Julio Cortez/AP Photo\r\nHunter Bidens lead attorney defending him in a federal criminal inve\u2026 [+757 chars]"
+            "title": "Sinema takes on Schumer, Jeffries and the White House over the border - POLITICO",
+            "description": "Border-state Democrats are frustrated to see New York claim most of a recent migrant relief infusion. But Arizona's formerly Democratic senator is speaking out the loudest.",
+            "url": "https://www.politico.com/news/2023/08/16/sinema-takes-on-schumer-jeffries-border-00111355",
+            "urlToImage": "https://static.politico.com/14/f6/7830df9243efb1bbe0c7893a7108/kyrsten-sinema-54345.jpg",
+            "publishedAt": "2023-08-16T09:00:00Z",
+            "content": "But only Sinema is aiming specific complaints at Senate Majority Leader Chuck Schumer, House Minority Leader Hakeem Jeffries and the Biden administration.\r\nEarlier this month in Yuma, Ariz., Sinema s\u2026 [+6380 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "NBCSports.com"
             },
-            "author": "Fox News",
-            "title": "Minnesota town's entire police force resigns, leaving chief with 'zero prospects' - New York Post ",
-            "description": "Goodhue, Minnesota, a small town in the southeastern part of the state, lost its entire police force\u00a0after the chief and other members of the force handed in their resignations.",
-            "url": "https://nypost.com/2023/08/15/minnesota-towns-entire-police-force-resigns-leaving-chief-with-zero-prospects/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/police.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-08-15T19:04:00Z",
-            "content": "Goodhue, Minnesota, a small town in the southeastern part of the state, lost its entire police force\u00a0after the chief and other members of the force handed in their resignations.\r\n\u201cI think we\u2019re all a\u2026 [+2085 chars]"
+            "author": "Michael David Smith",
+            "title": "Joel Bitonio: Eagles took cheap shots at Deshaun Watson in joint practice - NBC Sports",
+            "description": "\u201cYou\u2019re not supposed to that,\u201d the Browns' starting left guard said.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joel-bitonio-eagles-took-cheap-shots-at-deshaun-watson-in-joint-practice",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/ea22226/2147483647/strip/true/crop/5392x3033+0+280/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Ffd%2F46%2Fd0611a43427eb7f1cd7973600cae%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D21139179",
+            "publishedAt": "2023-08-16T08:12:13Z",
+            "content": "Browns left guard Joel Bitonio was not happy with players on the Eagles following Tuesdays joint practice, accusing them of cheap shots.\r\nSpecifically, Bitonio accused Eagles defensive end Josh Sweat\u2026 [+1089 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matias Grez",
+            "title": "Lionel Messi scores ninth goal in six games as Inter Miami advances to Leagues Cup Final - CNN",
+            "description": "In just one month with Inter Miami, Argentine superstar Lionel Messi has his new team reaching new heights.\u00a0Messi scored his ninth goal in just six games since joining Inter, having scored in each of his six fixtures.",
+            "url": "https://www.cnn.com/2023/08/16/sport/lionel-messi-inter-miami-leagues-cup-final-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230816151359-lionel-messi-inter-miami.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-16T07:55:00Z",
+            "content": "In just one month with Inter Miami, Argentine superstar Lionel Messi already has his team reaching new heights.\r\nWith a 4-1 victory over Philadelphia Union Tuesday, Miami advanced to the CONCACAF Lea\u2026 [+1365 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "New Zealand jury finds mom guilty of killing 3 young daughters - NBC News",
+            "description": "A New Zealand jury on Wednesday found a mother guilty of murdering her three young daughters in a case that shocked the nation.",
+            "url": "https://www.nbcnews.com/news/world/new-zealand-jury-finds-mom-guilty-killing-3-young-daughters-rcna100138",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230816-Lauren-Dickason-mb-0841-67da73.jpg",
+            "publishedAt": "2023-08-16T07:47:23Z",
+            "content": "WELLINGTON A New Zealand jury on Wednesday found a mother guilty of murdering her three young daughters in a case that shocked the nation.\r\nLauren Dickason, 42, had earlier admitted killing her 2-yea\u2026 [+2380 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "AZFamily"
+                "name": "CNBC"
             },
-            "author": "Debra Worley",
-            "title": "Chick-fil-A introduces first-ever seasonal spin on the original chicken sandwich - Arizona's Family",
-            "description": "The sandwich will be on menus nationwide starting Aug. 28.",
-            "url": "https://www.azfamily.com/2023/08/15/chick-fil-a-introduces-first-ever-seasonal-spin-original-chicken-sandwich/",
-            "urlToImage": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/y1wYZrKtY_eoewh_scQKcA7wNd8=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/COZAOT4NPJBKBCCFFES2R4FU5E.jpg",
-            "publishedAt": "2023-08-15T18:23:00Z",
-            "content": "(Gray News) Chick-fil-A is launching a new sandwich its first-ever twist on the beloved original chicken sandwich.\r\nThe Honey Pepper Pimento Chicken Sandwich combines the classic flavors with a sweet\u2026 [+647 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Alexander Tin",
-            "title": "COVID hospitalizations accelerate for fourth straight week - CBS News",
-            "description": "ER visits are also climbing, with the steepest rise in kids.",
-            "url": "https://www.cbsnews.com/news/covid-hospitalizations-rise-fourth-week-eg-5-variant/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/01/11/bde3e702-1b2a-46cc-9012-d921d2db8624/thumbnail/1200x630/f7e7a39d9e35a717305e6c3fdc514fd1/AP21006083015725.jpg?v=46e0dad4db516ed39a3a8f6257e75e73",
-            "publishedAt": "2023-08-15T17:40:00Z",
-            "content": "New COVID-19 hospitalizations have accelerated for a fourth straight week, Centers for Disease Control and Prevention data now shows.\r\nA total of 10,320 patients in the U.S. were newly hospitalized w\u2026 [+2660 chars]"
+            "author": "Hannah Ward-Glenton",
+            "title": "European markets higher as investors assess UK inflation data - CNBC",
+            "description": "European markets were higher Wednesday as investors digest key U.K. inflation data.",
+            "url": "https://www.cnbc.com/2023/08/16/european-markets-open-to-close-earnings-data-and-news.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107287234-1692163488156-gettyimages-1146938550-UK_LSE.jpeg?v=1692163876&w=1920&h=1080",
+            "publishedAt": "2023-08-16T07:44:00Z",
+            "content": "Despite last week's selloff, the strong rally this year means U.S. markets are now trading at only a small discount compared with the start of the year, says top Morningstar strategist Dave Sekera.\r\n\u2026 [+442 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "ScienceAlert"
             },
-            "author": "Tyler Greenawalt",
-            "title": "Former Vikings RB Dalvin Cook agrees to deal with the New York Jets, reportedly for 1-year, $8.6 million - Yahoo Sports",
-            "description": "The Vikings released Dalvin Cook earlier this summer after six seasons with the franchise.",
-            "url": "https://sports.yahoo.com/former-vikings-rb-dalvin-cook-agrees-to-deal-with-the-new-york-jets-reportedly-for-1-year-86-million-173843726.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Pxzh_sXinYpfa8gMd_NbFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/12efb4e0-8166-11ed-bdad-4992dfab8486",
-            "publishedAt": "2023-08-15T17:38:43Z",
-            "content": "Dalvin Cook has found his new team.\r\nThe former Minnesota Vikings star agreed to join the New York Jets, the team officially announced Tuesday. Cook's deal is reportedly for one-year and worth $8.6 m\u2026 [+2283 chars]"
+            "author": "ScienceAlert Staff",
+            "title": "Man Uses Strange Rock as Doorstop For Decades. It Turned Out to Be Worth a Fortune. - ScienceAlert",
+            "description": "One of the largest meteorites ever recorded in Michigan never came to the attention of experts until a whopping 80+ years after its discovery.",
+            "url": "https://www.sciencealert.com/man-uses-strange-rock-as-doorstop-for-decades-it-turned-out-to-be-worth-a-fortune",
+            "urlToImage": "https://www.sciencealert.com/images/2023/08/MeteoriteRockSample.jpg",
+            "publishedAt": "2023-08-16T07:32:52Z",
+            "content": "One of the largest meteorites ever recorded in Michigan never came to the attention of experts until a whopping 80+ years after its discovery.\r\nLiving a humble life as a 10-kilogram (22-pound) doorst\u2026 [+2879 chars]"
         },
         {
             "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Container ship leaves Russian-blocked Ukrainian port of Odesa - Kyiv - Reuters",
+            "description": "A container ship left the Ukrainian Black Sea port of Odesa on Wednesday morning, the government said, using what it has described as a new temporary corridor for merchant ships to and from its ports, which are blockaded by Russia.",
+            "url": "https://www.reuters.com/world/europe/container-ship-leaves-russian-blocked-ukrainian-port-odesa-kyiv-2023-08-16/",
+            "urlToImage": "https://www.reuters.com/resizer/W2j_XmMnEh0z1Tdt-0sVgYZ3yBE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6JQL5KTIUBJXBGAG2D2PG45TIU.jpg",
+            "publishedAt": "2023-08-16T07:05:00Z",
+            "content": "KYIV, Aug 16 (Reuters) - A container ship left the Ukrainian Black Sea port of Odesa on Wednesday morning, the government said, using what it has described as a new temporary corridor for merchant sh\u2026 [+1177 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Intc.com"
             },
             "author": null,
-            "title": "Nine riskiest NFL players to pick in 2023 fantasy football drafts - NFL.com",
-            "description": "Is George Kittle being overvalued by fantasy managers heading into the 2023 NFL season? Michelle Magdziuk identifies nine of the riskiest players to select in fantasy football based on their average draft position.",
-            "url": "https://www.nfl.com/news/nine-riskiest-nfl-players-to-pick-in-2023-fantasy-football-drafts",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/okrycjzaxppd0zglkalm",
-            "publishedAt": "2023-08-15T17:38:00Z",
-            "content": "ADP:\u00a0Round 4\r\nDespite showing plenty of upside throughout his career, Ridley has only topped 900 receiving yards in a season once (2020). Ridley was the Falcons clear-cut top receiver in '20, posting\u2026 [+439 chars]"
+            "title": "Intel Announces Termination of Tower Semiconductor Acquisition - Investor Relations :: Intel Corporation (INTC)",
+            "description": null,
+            "url": "https://www.intc.com/news-events/press-releases/detail/1642/intel-announces-termination-of-tower-semiconductor",
+            "urlToImage": "https://d1io3yog0oux5.cloudfront.net/_b18f8a9f850e843405ac7afa8ebfbe6f/intel/db/878/6995/social_image_resized.jpg",
+            "publishedAt": "2023-08-16T07:03:18Z",
+            "content": "Intel continues to advance plans to create world-class system foundry as part of its IDM 2.0 strategy.\r\n SANTA CLARA, Calif.--(BUSINESS WIRE)--\r\nIntel Corporation (Nasdaq: INTC) today announced that \u2026 [+6388 chars]"
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "Atlanta Journal Constitution"
             },
-            "author": "Jake Epstein",
-            "title": "Video shows Russian forces storm cargo ship in Black Sea - Business Insider",
-            "description": "The footage, which saw Russians demanding the crew \"speak English,\" captures a new threat to shipping as Moscow turns up the pressure on Ukraine.",
-            "url": "https://www.businessinsider.com/video-russian-forces-helicopter-storm-cargo-ship-black-sea-ukraine-2023-8",
-            "urlToImage": "https://i.insider.com/64db93ba1f51cc001969de3f?width=1200&format=jpeg",
-            "publishedAt": "2023-08-15T17:30:00Z",
-            "content": "A video shared on Tuesday by Russia's defense ministry shows its forces storm the bridge of a cargo ship and interrogate the crew during a helicopter raid in the Black Sea. The incident underscores a\u2026 [+4609 chars]"
+            "author": "Tamar Hallerman",
+            "title": "Mark Meadows seeks to move Fulton charges to federal court -  The Atlanta Journal Constitution",
+            "description": "Former White House Chief of Staff Mark Meadows on Tuesday sought to move criminal charges filed against him in Fulton County to federal court.",
+            "url": "https://www.ajc.com/politics/breaking-mark-meadows-seeks-to-move-fulton-charges-to-fed-court/YB4RCQUGV5FN5FFTCGRBIXFEIY/",
+            "urlToImage": "https://www.ajc.com/resizer/w65m9SD_ipuCyLhzw7M1yko7mMA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/ZJKYDQAYTDEE636BCLQII47B2Q.jpg",
+            "publishedAt": "2023-08-16T06:44:06Z",
+            "content": "Former White House Chief of Staff Mark Meadows on Tuesday sought to move criminal charges filed against him in Fulton County to federal court.\r\nThe development came less than a day after a Fulton gra\u2026 [+3584 chars]"
         },
         {
             "source": {
-                "id": "mashable",
-                "name": "Mashable"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Mark Kaufman",
-            "title": "En route to the moon, Russia beams back first mission images - Mashable",
-            "description": "Back in the space race.",
-            "url": "https://mashable.com/article/russia-moon-luna-25-images",
-            "urlToImage": "https://helios-i.mashable.com/imagery/articles/017SPu6ltbcxRIC11weUx3n/hero-image.fill.size_1200x675.v1692111241.jpg",
-            "publishedAt": "2023-08-15T17:03:54Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Stephen L. Carter",
-            "title": "The Deeply Sad Lawsuit of 'The Blind Side' NFL Player Michael Oher - Bloomberg",
-            "description": "Was the feel-good story of a White couple welcoming a talented Black teen into their family just a sham?",
-            "url": "https://www.bloomberg.com/opinion/articles/2023-08-15/the-deeply-sad-lawsuit-of-the-blind-side-nfl-player-michael-oher",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irsFNSxp0GsA/v1/1200x921.jpg",
-            "publishedAt": "2023-08-15T17:01:37Z",
-            "content": "Theres something ineffably sad about the petition filed by former NFL star Michael Oher against Sean and Leigh Anne Tuohy. The story of how the White family took the Black teenager into their home an\u2026 [+507 chars]"
+            "author": "Ariana Baio",
+            "title": "Biden says he doesn't want to 'get in the way' as Hawaii death toll reaches 101 - The Independent",
+            "description": "Hawaiian authorities begin to release victims names as the death toll continues to rise",
+            "url": "https://www.independent.co.uk/climate-change/news/maui-hawaii-fires-wildfires-cause-travel-update-b2393761.html",
+            "urlToImage": "https://static.independent.co.uk/2023/08/16/10/SEI167782802.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-08-16T06:00:00Z",
+            "content": "Sign up to the Independent Climate email for the latest advice on saving the planet\r\nGet our free Climate email\r\nThe death toll from the Maui wildfires has now topped 100 with officials announcing th\u2026 [+7918 chars]"
         }
     ]
 }
