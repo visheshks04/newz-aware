@@ -4,223 +4,249 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Jeff Zrebiec and Manny Navarro",
-            "title": "Former Seahawks, Ravens RB Alex Collins dies at 28 in motorcycle crash - The Athletic",
-            "description": "Collins spent two seasons with the Ravens in 2017 and 2018 before re-signing with the Seahawks in 2020.",
-            "url": "https://theathletic.com/4776544/2023/08/14/alex-collins-death-seahawks-ravens/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/14210409/GettyImages-1345458111-scaled.jpg",
-            "publishedAt": "2023-08-15T10:35:55Z",
-            "content": "Former Seattle Seahawks and Baltimore Ravens running back Alex Collins died at the age of 28, Collins family announced Monday.\r\nCollins was involved in a fatal motorcycle crash on Sunday night in Lau\u2026 [+4658 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Daisy Dobrijevic",
-            "title": "Perseid meteor shower 2023 thrills stargazers around the world. See their amazing photos. - Space.com",
-            "description": "Relive the remarkable Perseid meteor shower with these spectacular photos.",
-            "url": "https://www.space.com/perseid-meteor-shower-2023-amazing-photos",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4m3XQmSbQtL8auTRf3NiDB-1200-80.jpg",
-            "publishedAt": "2023-08-15T10:17:17Z",
-            "content": "The prolific Perseid meteor shower\r\n put on quite the show and we've rounded up some of the best photos from around the world to prove it.\r\nWith the moon\r\n only 10% illuminated during the time of the\u2026 [+6607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Samantha Subin",
-            "title": "Stock futures fall Tuesday as disappointing China data dampens sentiment: Live updates - CNBC",
-            "description": "U.S. stock futures fell Tuesday, as Wall Street struggled to maintain its momentum from the previous session.",
-            "url": "https://www.cnbc.com/2023/08/14/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107277156-1690390369713-two.jpg?v=1692050509&w=1920&h=1080",
-            "publishedAt": "2023-08-15T10:11:00Z",
-            "content": "U.S. stock futures fell Tuesday, as Wall Street struggled to maintain its momentum from the previous session.\r\nFutures tied to the Dow Jones Industrial Average were down 220 points, or 0.6%. S&amp;P \u2026 [+2015 chars]"
-        },
-        {
-            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Uliana Pavlova, Duarte Mendonca, Alex Stambaugh, Aruzhan Zeinulla, Ivana Kottasov\u00e1",
-            "title": "Gas station explosion kills 35, injures dozens in Russia\u2019s Dagestan region - CNN",
-            "description": "At least 35 people were killed and dozens injured when a fire caused an explosion at a gas station in the southern Russian republic of Dagestan, local authorities said.",
-            "url": "https://www.cnn.com/2023/08/15/europe/dagestan-russia-gas-station-fire-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230815155502-dagestan-fire-petrol-station.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-15T09:57:00Z",
-            "content": "At least 35 people were killed and dozens more injured when a fire caused an explosion at a gas station in the southern Russian republic of Dagestan, local authorities said.\r\nThe blaze started at a c\u2026 [+1577 chars]"
+            "author": "Tierney Sneed",
+            "title": "Meadows trying to move Fulton County case to federal court - CNN",
+            "description": "Former Trump White House chief of staff Mark Meadows is seeking to move the Fulton County, Georgia, prosecution against him to federal court so that he can try to get the case dismissed under federal law.",
+            "url": "https://www.cnn.com/2023/08/15/politics/mark-meadows-fulton-case-federal-court/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230815175227-mark-meadows-file-081523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-15T22:26:00Z",
+            "content": "Former Trump White House chief of staff Mark Meadows is seeking to move the Fulton County, Georgia, prosecution against him to federal court so that he can try to get the case dismissed under federal\u2026 [+2605 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "EDNA TARIGAN and ROD McGUIRK Associated Press",
+            "title": "4 Australians and 2 Indonesians are rescued after being missing in waters off Indonesia for 2 days - ABC News",
+            "description": "Four Australian tourists and two Indonesians have been rescued after being missing for two days in the waters off Indonesia\u2019s Aceh province",
+            "url": "https://abcnews.go.com/International/wireStory/4-australian-tourists-rescued-after-missing-indonesian-waters-102274652",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_476a3eeed14339d3160d5e3edbe680f5_16x9_992.jpg",
+            "publishedAt": "2023-08-15T21:56:58Z",
+            "content": "JAKARTA, Indonesia -- Four Australian tourists and two Indonesians were rescued after being missing for two days in the waters off Indonesia's Aceh province, officials and the father of one of the Au\u2026 [+2641 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Simon Hurtz",
+            "title": "OpenAI wants GPT-4 to solve the content moderation dilemma - The Verge",
+            "description": "Neither Meta nor TikTok have really figured out how to moderate harmful content at scale. OpenAI touts its large language model GPT-4, but there is a catch.",
+            "url": "https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/QCdO_oKAdBIZCodEUT2WCBFgQSo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390406/STK149_AI_03.jpg",
+            "publishedAt": "2023-08-15T20:50:15Z",
+            "content": "OpenAI wants GPT-4 to solve the content moderation dilemma\r\nOpenAI wants GPT-4 to solve the content moderation dilemma\r\n / No one has really figured out how to moderate harmful content at scale. Open\u2026 [+3843 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Hugh Son",
-            "title": "Fitch warns it may be forced to downgrade dozens of banks, including JPMorgan Chase - CNBC",
-            "description": "Fitch Ratings warned that U.S. banks have inched closer to sweeping rating downgrades on dozens of lenders, including JPMorgan Chase and Bank of America.",
-            "url": "https://www.cnbc.com/2023/08/15/fitch-warns-it-may-be-forced-to-downgrade-dozens-of-banks.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107210469-1679030536448-gettyimages-140314098-RATINGS_AGENCIES.jpeg?v=1692091801&w=1920&h=1080",
-            "publishedAt": "2023-08-15T09:30:01Z",
-            "content": "A sign for the financial agency Fitch Ratings on a building at the Canary Wharf business and shopping district in London, U.K., on Thursday, March 1, 2012.\r\nA Fitch Ratings analyst warned that the U.\u2026 [+4651 chars]"
+            "author": "Sarah Whitten",
+            "title": "Disney accused of withholding hundreds of millions of dollars from 'Avatar' sequel financier - CNBC",
+            "description": "Disney has been accused of withholding profits from TSG Entertainment, a long-time financing partner of its 20th Century Fox studio.",
+            "url": "https://www.cnbc.com/2023/08/15/disney-accused-of-withholding-profits-from-tsg-entertainment.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107168569-1671806212438-107168569-1671482146688-au_gallerycontents_20cs_avatar2_2_7d3198d3.jpg?v=1692132301&w=1920&h=1080",
+            "publishedAt": "2023-08-15T20:45:01Z",
+            "content": "Hollywood financer TSG Entertainment is suing Disney for breach of contract.\r\nThe suit filed Tuesday in Los Angeles Superior Court\u00a0alleges that Disney and its studio 20th Century Fox committed a numb\u2026 [+3398 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Japan Times"
+                "name": "Fox Business"
             },
-            "author": "Anika Osaki Exum",
-            "title": "Typhoon Lan brings damage and power outages to western Kansai - The Japan Times",
-            "description": "In the wake of the storm, the city of Tottori released water from the Saji River Dam late afternoon Tuesday due to fears that the dam would overflow.",
-            "url": "https://www.japantimes.co.jp/japan/2023/08/15/typhoon-lan-brings-damage-and-power-outages-to-western-kansai/",
-            "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/15/245868.jpg",
-            "publishedAt": "2023-08-15T09:09:26Z",
-            "content": "Typhoon Lan made landfall Tuesday morning, causing damage, injuries and power outages in the western Kansai region and surrounding prefectures.\r\nTottori and Okayama prefectures experienced heavy rain\u2026 [+425 chars]"
+            "author": "Megan Henney",
+            "title": "Fitch warns multiple US banks face credit downgrade: report - Fox Business",
+            "description": "A Fitch Ratings analyst warned the agency may be forced to downgrade dozens of U.S. banks, including major lenders like JPMorgan Chase and Bank of America.",
+            "url": "https://www.foxbusiness.com/economy/fitch-warns-multiple-us-banks-face-credit-downgrade-report",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/JPMorganChase.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-15T20:37:13Z",
+            "content": "A Fitch Ratings analyst on Tuesday warned the agency may be forced to cut the credit ratings of more than a dozen banks, including some major Wall Street lenders.\u00a0\r\nFitch already lowered the score of\u2026 [+4629 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Krystal Nurse",
+            "title": "Michigan State University workers stumble across buried, 142-year-old campus observatory - USA TODAY",
+            "description": "Michigan State workers installing a hammock thought they had uncovered a large rock but used old maps to determine what they had struck.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/08/15/michigan-state-observatory-buried-on-campus/70594779007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/02/PLSJ/70513022007-msu-archaeology-dig-8.jpg?crop=4117,2326,x0,y0&width=3200&height=1808&format=pjpg&auto=webp",
+            "publishedAt": "2023-08-15T20:18:44Z",
+            "content": "EAST LANSING, MI What began as a simple hammock installation led Michigan State University workers to uncover a more-than-century-old part of the university's history.\r\nEmployees with the school's In\u2026 [+3006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Seeds Sixth Betas of iOS 17 and iPadOS 17 to Developers - MacRumors",
+            "description": "Apple today seeded the sixth betas of upcoming iOS 17 and iPadOS 17 updates to developers for testing purposes, with the software coming a week after...",
+            "url": "https://www.macrumors.com/2023/08/15/apple-seeds-ios-17-beta-6-to-developers/",
+            "urlToImage": "https://images.macrumors.com/t/6b8G5PxTlH6uYOEFaG0IPAF9hKU=/2250x/article-new/2023/06/General-iOS-17-Feature-Orange-Purple.jpg",
+            "publishedAt": "2023-08-15T20:13:11Z",
+            "content": "Apple today seeded the sixth betas of upcoming iOS 17 and iPadOS 17 updates to developers for testing purposes, with the software coming a week after the release of the fifth betas.\r\nRegistered devel\u2026 [+2489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOCO Oklahoma City"
+            },
+            "author": "Jonathan Greco",
+            "title": "OSDH: Oklahoma's first human cases of West Nile virus for 2023 reported - KOCO Oklahoma City",
+            "description": "The Oklahoma State Department of Health on Tuesday reported the state's first human cases of West Nile virus for 2023.",
+            "url": "https://www.koco.com/article/oklahoma-west-nile-virus-first-human-cases-reported-2023/44821232",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/koco/27099206-27099206.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-08-15T19:45:00Z",
+            "content": "OKLAHOMA CITY \u2014The Oklahoma State Department of Health on Tuesday reported the state's first human cases of West Nile virus for 2023.\r\n| RELATED VIDEO ABOVE | Oklahoma State Department of Health addr\u2026 [+2346 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Carnevali",
+            "title": "Esmark CEO says has money in bank account for $7.8 billion US Steel bid - Reuters",
+            "description": "Esmark Inc majority owner and chief executive James Bouchard said in an interview on Tuesday that his steel maker, which does not publicly report its earnings, has cash for its $7.8 billion bid for U.S. Steel Corp <a href=\"https://www.reuters.com/markets/comp\u2026",
+            "url": "https://www.reuters.com/markets/deals/esmark-ceo-says-has-money-bank-account-78-billion-us-steel-bid-2023-08-15/",
+            "urlToImage": "https://www.reuters.com/resizer/YBc6tRGLAxW79ezShUxh1uruJ2M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3PRREBAOZJQRMCCQC5YZHE2UM.jpg",
+            "publishedAt": "2023-08-15T19:38:00Z",
+            "content": "NEW YORK, Aug 15 (Reuters) - Esmark Inc majority owner and chief executive James Bouchard said in an interview on Tuesday that his steel maker, which does not publicly report its earnings, has cash f\u2026 [+1406 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "SAM MEDNICK",
-            "title": "Niger's coup leaders say they will prosecute deposed President Mohamed Bazoum for 'high treason' - The Associated Press",
-            "description": "The military junta that seized power in Niger says it plans to prosecute deposed President Mohamed Bazoum for \u201chigh treason\u201d and undermining state security. The announcement came after the mutinous officers said they were open to dialogue with West African na\u2026",
-            "url": "https://apnews.com/article/niger-coup-leaders-president-bazoum-treason-1e54fa565ec0c659fc233cc695d7de21",
-            "urlToImage": "https://dims.apnews.com/dims4/default/9f2f0c5/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff7%2F4f%2F32c0301c2050de07f26e567bd26b%2F6992d663d88047d4ac98337d98df92c6",
-            "publishedAt": "2023-08-15T08:50:00Z",
-            "content": "NIAMEY, Niger (AP) The military junta that seized power in Niger said it plans to prosecute deposed President Mohamed Bazoum for high treason and undermining state security, an announcement that came\u2026 [+7160 chars]"
+            "author": "BEN FINLEY, DENISE LAVOIE",
+            "title": "Mother pleads guilty to felony child neglect after 6-year-old son used her gun to shoot teacher - The Associated Press",
+            "description": "The mother of a 6-year-old who shot his teacher in Virginia pleaded guilty Tuesday to a charge of felony child neglect, seven months after her son used her handgun to critically wound the educator in a classroom full of students. Prosecutors agreed to drop th\u2026",
+            "url": "https://apnews.com/article/teacher-shooting-virginia-boy-classroom-81d52f6bf35512c5684acb93baa8700b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f99d1e8/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Fe5%2F0e2ae414aa2e9a5e5be86c72b8d4%2F7f82e26b216a4ca6ae655ab0778426cd",
+            "publishedAt": "2023-08-15T19:35:00Z",
+            "content": "NEWPORT NEWS, Va. (AP) The mother of a 6-year-old boy who shot his teacher in Virginia pleaded guilty Tuesday to a charge of felony child neglect, seven months after her son used her handgun to criti\u2026 [+5270 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "New York Post"
             },
-            "author": "Jenni Reid",
-            "title": "As the new Eris Covid variant spreads across the world, here\u2019s what we know so far - CNBC",
-            "description": "EG.5 or \"Eris,\" now the dominant variant in the United States, is currently thought to have the same risk level as existing variants.",
-            "url": "https://www.cnbc.com/2023/08/15/covid-eris-new-variant-spreads-across-world-heres-what-we-know-so-far.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107285998-1692025114676-gettyimages-1236028674-widak-covid19v211021_npO5V.jpeg?v=1692085240&w=1920&h=1080",
-            "publishedAt": "2023-08-15T07:40:40Z",
-            "content": "An illustrative image of a person holding a medical syringe and a vaccine vial in front of the Pfizer logo displayed on a screen.\r\nThe World Health Organization is monitoring a new strain of Covid-19\u2026 [+2413 chars]"
+            "author": "Erin Keller",
+            "title": "Katharine McPhee\u2019s nanny fatally run over by elderly woman: report - New York Post ",
+            "description": "The 84-year-old driver was not injured in the incident.",
+            "url": "https://nypost.com/2023/08/15/katharine-mcphees-nanny-fatally-run-over-by-elderly-woman-report/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000022226274.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-08-15T19:27:00Z",
+            "content": "A woman who worked as a nanny for singer Katharine McPhee and her husband, David Foster, reportedly died after an elderly woman hit her at a San Fernando Valley car dealership.\r\nA source identified Y\u2026 [+2808 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Rupam Jain",
-            "title": "India's Modi says peace returning to strife-torn Manipur - Reuters India",
-            "description": "Indian Prime Minister Narendra Modi said on Tuesday peace was returning to the strife-torn northeastern state of Manipur where at least 180 people have been killed and tens of thousands forced from their homes in sectarian clashes since May.",
-            "url": "https://www.reuters.com/world/india/indias-modi-says-peace-returning-strife-torn-manipur-2023-08-15/",
-            "urlToImage": "https://www.reuters.com/resizer/lB4h3a8IOlQrf6ywl77-WTiIurM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WVCADCUQV5KZJLN6HXBW5K4F74.jpg",
-            "publishedAt": "2023-08-15T07:21:00Z",
-            "content": "NEW DELHI, Aug 15 (Reuters) - Indian Prime Minister Narendra Modi said on Tuesday peace was returning to the strife-torn northeastern state of Manipur where at least 180 people have been killed and t\u2026 [+2679 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
+                "id": "politico",
+                "name": "Politico"
             },
             "author": null,
-            "title": "Spain vs. Sweden: How to Watch FIFA Women's World Cup 2023 Semifinal Live From Anywhere - CNET",
-            "description": "European giants face off in Auckland for a place in Sunday's showpiece final.",
-            "url": "https://www.cnet.com/tech/services-and-software/spain-vs-sweden-how-to-watch-fifa-womens-world-cup-2023-semifinal-live-from-anywhere/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/d1e0620a04788dc98b3a617b098b0ae121dad5f7/hub/2023/08/15/da12e2f6-6c09-4bae-a8a4-67fefda68a80/gettyimages-1554740882.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2023-08-15T06:46:00Z",
-            "content": "The first semi-final of the 2023 Women's World Cup sees Spain and Sweden battle it out at Eden Park for a place in Sunday's final.\u00a0\r\nDespite having never reached this far in the World Cup before, and\u2026 [+15352 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Tetsushi Kajimoto, Kantaro Komiya",
-            "title": "Japan's Q2 GDP beats forecasts as exports zoom - Reuters",
-            "description": "Japan's economy grew much faster than expected in April-June, as brisk auto exports and tourist arrivals helped offset the drag from a slowing post-COVID consumer recovery, although global recession prospects cloud the outlook.",
-            "url": "https://www.reuters.com/markets/asia/japans-q2-gdp-grows-much-faster-than-expected-helped-by-exports-2023-08-15/",
-            "urlToImage": "https://www.reuters.com/resizer/sSWmpOF4-6hELsjv2q4GhPKZ19c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ERUS6X7O3BI4JHX4OY6KYDVNBQ.jpg",
-            "publishedAt": "2023-08-15T06:39:54Z",
-            "content": "TOKYO, Aug 15 (Reuters) - Japan's economy grew much faster than expected in April-June, as brisk auto exports and tourist arrivals helped offset the drag from a slowing post-COVID consumer recovery, \u2026 [+3274 chars]"
+            "title": "Attorney is dropping representation of Hunter Biden - POLITICO",
+            "description": "Christopher Clark, a high-profile litigator, is withdrawing because he might be called to testify in the case, which appears headed for a criminal trial.",
+            "url": "https://www.politico.com/news/2023/08/15/hunter-bidens-attorney-will-withdraw-from-tax-case-as-he-prepares-to-potentially-testify-00111284",
+            "urlToImage": "https://static.politico.com/05/07/0ed342c24ffe843770a1e6b71175/biden-investigation-54550.jpg",
+            "publishedAt": "2023-08-15T19:05:17Z",
+            "content": "Hunter Biden was set to enter a plea deal in federal court last month, but the agreement hit a roadblock. | Julio Cortez/AP Photo\r\nHunter Bidens lead attorney defending him in a federal criminal inve\u2026 [+757 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eonline.com"
+                "name": "New York Post"
             },
-            "author": "Hayley Santaflorentina",
-            "title": "Ashley Olsen Gives Birth to First Baby: Everything to Know About Husband Louis Eisner - E! NEWS",
-            "description": "Ashley Olsen has welcomed her first child with husband Louis Eisner. Here is everything to know about the new dad.",
-            "url": "https://www.eonline.com/news/1383046/ashley-olsen-gives-birth-to-first-baby-everything-to-know-about-husband-louis-eisner",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023714/cr_1200x1200-230814165612-GettyImages-1440217995.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-08-15T06:09:00Z",
-            "content": "Parenthood? You got it, dude.\u00a0\r\nAshley Olsen, 37, and her husband Louis Eisner, 35, have\u00a0privately welcomed a baby boy, who the pair have named Otto, according to multipleoutlets.\r\nTMZ's report state\u2026 [+679 chars]"
+            "author": "Fox News",
+            "title": "Minnesota town's entire police force resigns, leaving chief with 'zero prospects' - New York Post ",
+            "description": "Goodhue, Minnesota, a small town in the southeastern part of the state, lost its entire police force\u00a0after the chief and other members of the force handed in their resignations.",
+            "url": "https://nypost.com/2023/08/15/minnesota-towns-entire-police-force-resigns-leaving-chief-with-zero-prospects/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/police.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-08-15T19:04:00Z",
+            "content": "Goodhue, Minnesota, a small town in the southeastern part of the state, lost its entire police force\u00a0after the chief and other members of the force handed in their resignations.\r\n\u201cI think we\u2019re all a\u2026 [+2085 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Newsday"
+                "name": "AZFamily"
             },
-            "author": "Bart Jones",
-            "title": "COVID-19 hospitalizations on Long Island more than double in month - Newsday",
-            "description": "More hospitalizations, while worth monitoring, experts say,\u00a0still pale\u00a0compared to the worst days of the pandemic.",
-            "url": "https://www.newsday.com/news/health/coronavirus/long-island-covid-19-hospitalizations-xfn8w71e",
-            "urlToImage": "https://cdn.newsday.com/ace/c:NDBhNjJkZWItMjM3Yy00:OGUwZDU0/landscape/1280",
-            "publishedAt": "2023-08-15T04:36:05Z",
-            "content": "The number of people hospitalized with COVID-19 on Long Island has more than doubled in the past month, reflecting a summerlong trend of a gradual but steady increase\u00a0in cases across the region. \r\n M\u2026 [+3793 chars]"
+            "author": "Debra Worley",
+            "title": "Chick-fil-A introduces first-ever seasonal spin on the original chicken sandwich - Arizona's Family",
+            "description": "The sandwich will be on menus nationwide starting Aug. 28.",
+            "url": "https://www.azfamily.com/2023/08/15/chick-fil-a-introduces-first-ever-seasonal-spin-original-chicken-sandwich/",
+            "urlToImage": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/y1wYZrKtY_eoewh_scQKcA7wNd8=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/COZAOT4NPJBKBCCFFES2R4FU5E.jpg",
+            "publishedAt": "2023-08-15T18:23:00Z",
+            "content": "(Gray News) Chick-fil-A is launching a new sandwich its first-ever twist on the beloved original chicken sandwich.\r\nThe Honey Pepper Pimento Chicken Sandwich combines the classic flavors with a sweet\u2026 [+647 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Alexander Tin",
+            "title": "COVID hospitalizations accelerate for fourth straight week - CBS News",
+            "description": "ER visits are also climbing, with the steepest rise in kids.",
+            "url": "https://www.cbsnews.com/news/covid-hospitalizations-rise-fourth-week-eg-5-variant/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/01/11/bde3e702-1b2a-46cc-9012-d921d2db8624/thumbnail/1200x630/f7e7a39d9e35a717305e6c3fdc514fd1/AP21006083015725.jpg?v=46e0dad4db516ed39a3a8f6257e75e73",
+            "publishedAt": "2023-08-15T17:40:00Z",
+            "content": "New COVID-19 hospitalizations have accelerated for a fourth straight week, Centers for Disease Control and Prevention data now shows.\r\nA total of 10,320 patients in the U.S. were newly hospitalized w\u2026 [+2660 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tyler Greenawalt",
+            "title": "Former Vikings RB Dalvin Cook agrees to deal with the New York Jets, reportedly for 1-year, $8.6 million - Yahoo Sports",
+            "description": "The Vikings released Dalvin Cook earlier this summer after six seasons with the franchise.",
+            "url": "https://sports.yahoo.com/former-vikings-rb-dalvin-cook-agrees-to-deal-with-the-new-york-jets-reportedly-for-1-year-86-million-173843726.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Pxzh_sXinYpfa8gMd_NbFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/12efb4e0-8166-11ed-bdad-4992dfab8486",
+            "publishedAt": "2023-08-15T17:38:43Z",
+            "content": "Dalvin Cook has found his new team.\r\nThe former Minnesota Vikings star agreed to join the New York Jets, the team officially announced Tuesday. Cook's deal is reportedly for one-year and worth $8.6 m\u2026 [+2283 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
             },
             "author": null,
-            "title": "Nightly News Full Broadcast (August 14th) - NBC News",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=ltYuwEp2zkw",
-            "urlToImage": null,
-            "publishedAt": "2023-08-15T04:22:00Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "title": "Nine riskiest NFL players to pick in 2023 fantasy football drafts - NFL.com",
+            "description": "Is George Kittle being overvalued by fantasy managers heading into the 2023 NFL season? Michelle Magdziuk identifies nine of the riskiest players to select in fantasy football based on their average draft position.",
+            "url": "https://www.nfl.com/news/nine-riskiest-nfl-players-to-pick-in-2023-fantasy-football-drafts",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/okrycjzaxppd0zglkalm",
+            "publishedAt": "2023-08-15T17:38:00Z",
+            "content": "ADP:\u00a0Round 4\r\nDespite showing plenty of upside throughout his career, Ridley has only topped 900 receiving yards in a season once (2020). Ridley was the Falcons clear-cut top receiver in '20, posting\u2026 [+439 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "nj.com"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Holiday Mathis",
-            "title": "Today\u2019s daily horoscope for Aug. 15, 2023 - NJ.com",
-            "description": "Zodiac signs and horoscopes on 8/15/2023 for Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn.",
-            "url": "https://www.nj.com/advice/2023/08/todays-daily-horoscope-for-aug-15-2023.html",
-            "urlToImage": "https://www.nj.com/resizer/y0GkxcEcKp6NoyUc0LAtx7APmMY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SAGJVB5QCZCNFBN2U2NE2O4GTE.png",
-            "publishedAt": "2023-08-15T04:01:00Z",
-            "content": "Solar Spoilers\r\nSpoiler: The suns square to Uranus suggests a surprise expense, a strange financial turn, or a sudden craving or seemingly irresistible temptation. Note that whats hard to resist in a\u2026 [+4140 chars]"
+            "author": "Jake Epstein",
+            "title": "Video shows Russian forces storm cargo ship in Black Sea - Business Insider",
+            "description": "The footage, which saw Russians demanding the crew \"speak English,\" captures a new threat to shipping as Moscow turns up the pressure on Ukraine.",
+            "url": "https://www.businessinsider.com/video-russian-forces-helicopter-storm-cargo-ship-black-sea-ukraine-2023-8",
+            "urlToImage": "https://i.insider.com/64db93ba1f51cc001969de3f?width=1200&format=jpeg",
+            "publishedAt": "2023-08-15T17:30:00Z",
+            "content": "A video shared on Tuesday by Russia's defense ministry shows its forces storm the bridge of a cargo ship and interrogate the crew during a helicopter raid in the Black Sea. The incident underscores a\u2026 [+4609 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "mashable",
+                "name": "Mashable"
             },
-            "author": null,
-            "title": "James Harden CALLS OUT 76ers Daryl Morey \ud83d\udde3\ufe0f | SC with SVP - ESPN",
-            "description": "SportsCenter's Scott Van Pelt explains James Harden's recent outburst against 76ers President Daryl Morey calling him a \"liar.\" SVP breaks down Harden's rece...",
-            "url": "https://www.youtube.com/watch?v=b_ROBeirpGc",
-            "urlToImage": "https://i.ytimg.com/vi/b_ROBeirpGc/maxresdefault.jpg",
-            "publishedAt": "2023-08-15T03:55:44Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "A Judgment Day mistake allows Cody Rhodes to defeat Finn B\u00e1lor: Raw highlights, Aug. 14, 2023 - WWE",
-            "description": "The American Nightmare triumphs over Finn B\u00e1lor of The Judgment Day thanks to a critical mistake by The Prince and Damian Priest. Catch WWE action on Peacock...",
-            "url": "https://www.youtube.com/watch?v=IIMEjVJz4nA",
-            "urlToImage": "https://i.ytimg.com/vi/IIMEjVJz4nA/maxresdefault.jpg",
-            "publishedAt": "2023-08-15T03:35:25Z",
+            "author": "Mark Kaufman",
+            "title": "En route to the moon, Russia beams back first mission images - Mashable",
+            "description": "Back in the space race.",
+            "url": "https://mashable.com/article/russia-moon-luna-25-images",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/017SPu6ltbcxRIC11weUx3n/hero-image.fill.size_1200x675.v1692111241.jpg",
+            "publishedAt": "2023-08-15T17:03:54Z",
             "content": null
         },
         {
@@ -228,39 +254,13 @@
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
-            "author": null,
-            "title": "China Central Bank Unexpectedly Cuts Key Rates as Economy Slumps - Bloomberg",
-            "description": "China\u2019s central bank unexpectedly reduced a key interest rate by the most since 2020 to bolster an economy that\u2019s facing fresh risks from a worsening property slump and weak consumer spending.",
-            "url": "https://www.bloomberg.com/news/articles/2023-08-15/china-central-bank-unexpectedly-cuts-key-rates-as-economy-slumps",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io4eeIacHNlY/v1/1200x800.jpg",
-            "publishedAt": "2023-08-15T03:21:57Z",
-            "content": "Chinas central bank unexpectedly reduced a key interest rate by the most since 2020 to bolster an economy thats facing fresh risks from a worsening property slump and weak consumer spending.\r\nThe Peo\u2026 [+316 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WTAE Pittsburgh"
-            },
-            "author": null,
-            "title": "County says house that exploded in Plum was having hot water tank issues - WTAE Pittsburgh",
-            "description": "The fire marshal has not concluded this was the cause of the explosion.",
-            "url": "https://www.wtae.com/article/plum-house-explosion-fire-marshal-hot-water-tank/44813979",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/c0c8f3bb-604d-46a8-b5ef-03728f109f01/c26a7902-e1c7-4256-b322-7a427b9d498b.jpg?crop=0.734xw:0.733xh;0.228xw,0.0435xh&resize=1200:*",
-            "publishedAt": "2023-08-15T02:34:00Z",
-            "content": "PITTSBURGH \u2014The Allegheny County Fire Marshal's Office said Monday that the home that exploded in Plum Saturday morning was having hot water tank issues.\r\nThe hot water tank for the house at 141 Rust\u2026 [+1207 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Megastorms on Saturn: 100-Year-Long Storms Challenge Our Understanding of Gas Giants - SciTechDaily",
-            "description": "Megastorms leave marks on Saturn\u2019s atmosphere for centuries. Researchers have discovered long-lasting megastorms on Saturn, similar to Jupiter's Great Red Spot, through the study of radio emissions and ammonia gas disruptions. The research uncovers significan\u2026",
-            "url": "https://scitechdaily.com/?p=300492",
-            "urlToImage": "https://scitechdaily.com/images/Radio-Image-of-Saturn-Impact-of-Megastorm.jpg",
-            "publishedAt": "2023-08-15T02:05:56Z",
-            "content": "ByUniversity of California - BerkeleyAugust 14, 2023\r\nDuring its seven-year Solstice Mission, Cassini watched as a huge storm erupted and encircled Saturn. Scientists think storms like this are relat\u2026 [+7429 chars]"
+            "author": "Stephen L. Carter",
+            "title": "The Deeply Sad Lawsuit of 'The Blind Side' NFL Player Michael Oher - Bloomberg",
+            "description": "Was the feel-good story of a White couple welcoming a talented Black teen into their family just a sham?",
+            "url": "https://www.bloomberg.com/opinion/articles/2023-08-15/the-deeply-sad-lawsuit-of-the-blind-side-nfl-player-michael-oher",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irsFNSxp0GsA/v1/1200x921.jpg",
+            "publishedAt": "2023-08-15T17:01:37Z",
+            "content": "Theres something ineffably sad about the petition filed by former NFL star Michael Oher against Sean and Leigh Anne Tuohy. The story of how the White family took the Black teenager into their home an\u2026 [+507 chars]"
         }
     ]
 }
