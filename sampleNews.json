@@ -1,253 +1,175 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 34,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tamara Qiblawi, Allegra Goodwin, Nima Elbagir, Celine Alkhaldi",
+            "title": "Shot at while they drowned. Executed in the desert. Those who collected the bodies recount \u2018one of the worst days\u2019 in Darfur\u2019s genocide-scarred history - CNN",
+            "description": "As the killing continues unabated in Sudan, with reports that the violence is accelerating, CNN\u2019s investigation into atrocities carried out over a single day in June offers a window into the scale of abuses, largely hidden from view.",
+            "url": "https://www.cnn.com/2023/08/16/africa/darfur-sudan-geneina-massacre-account-cmd-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230814142939-20230814-int-el-geneina-massacre.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-16T23:59:00Z",
+            "content": "Editors Note: This report includes a graphic image and details of violence.\r\nHundreds of families gathered in the West Darfur capital of El Geneina on June 15, plotting their escape from what had bec\u2026 [+16020 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren Mascarenhas, Nouran Salahieh",
+            "title": "At least 110 people dead in Maui wildfires, governor says, as role of power lines scrutinized - CNN",
+            "description": "The death toll in the Maui wildfires is now 110, Hawaii Gov. Josh Green said at a Wednesday news conference, as Hawaiian Electric faces mounting questions for not shutting down power lines when high winds created dangerous fire conditions.",
+            "url": "https://www.cnn.com/2023/08/16/us/hawaii-maui-wildfires-death-toll-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230816114913-rescue-team-maui-wildfire-0813.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-16T23:48:00Z",
+            "content": "The death toll in the Maui wildfires is now 110, Hawaii Gov. Josh Green said at a Wednesday news conference, as Hawaiian Electric faces mounting questions for not shutting down power lines when high \u2026 [+11992 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Brooke Migdon",
+            "title": "North Carolina Legislature overrides vetoes of bills targeting transgender health care, athletes - The Hill",
+            "description": "The North Carolina Legislature voted Wednesday to override Democratic Gov. Roy Cooper\u2019s veto against three bills that would ban gender-affirming health care for transgender minors, prevent transgender women and girls from competing on female sports teams and \u2026",
+            "url": "https://thehill.com/homenews/state-watch/4156088-north-carolina-legislature-overrides-vetoes-of-bills-targeting-transgender-health-care-athletes/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/AP23228693524301.jpg?w=1280",
+            "publishedAt": "2023-08-16T23:24:00Z",
+            "content": "Skip to content\r\nThe North Carolina Legislature voted Wednesday to override Democratic Gov. Roy Cooper\u2019s veto against three bills that would ban gender-affirming health care for transgender minors, p\u2026 [+3157 chars]"
+        },
         {
             "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "Sarah Nassauer",
-            "title": "Target Sales Are Punished by Pride Month Backlash - The Wall Street Journal",
-            "description": "Retailer lowers profit goal for full year; executives say they will modify Pride Month promotion",
-            "url": "https://www.wsj.com/articles/target-tgt-q2-earnings-report-2023-cc9acf81",
-            "urlToImage": "https://images.wsj.net/im-835355/social",
-            "publishedAt": "2023-08-16T11:58:00Z",
+            "author": "Ryan Felton, Sean McLain",
+            "title": "EV Startup VinFast's Market Debut Pushes Value Higher Than GM, Ford - The Wall Street Journal",
+            "description": "Shares in Vietnamese electric-vehicle company more than tripled in first day of trading",
+            "url": "https://www.wsj.com/business/autos/ev-startup-vinfasts-stock-rally-pushes-value-higher-than-gm-ford-c9dac0e6",
+            "urlToImage": "https://images.wsj.net/im-836587/social",
+            "publishedAt": "2023-08-16T22:49:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": "espn",
+                "name": "ESPN"
             },
-            "author": "Molly Hunter",
-            "title": "Matildas mania grips Australia as women\u2019s team captures hearts of World Cup host - NBC News",
-            "description": "Women\u2019s World Cup co-host Australia has developed a national obsession with its team, the Matildas, who face England in the semifinal on Wednesday.",
-            "url": "https://www.nbcnews.com/news/world/australia-womens-world-cup-matildas-soccer-rcna99931",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230816-matildas-mb-1016-9cb293.jpg",
-            "publishedAt": "2023-08-16T11:56:31Z",
-            "content": "SYDNEY, Australia Nothing could compete with the Matildas.\u00a0\r\nMeetings were canceled. Other sporting events, rescheduled. Pubs stocked up and viewing centers across the capital set up massive screens \u2026 [+1625 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Max Seddon, Anastasia Stognei",
-            "title": "Vladimir Putin to hold meeting on Russian currency controls after rouble slide - Financial Times",
-            "description": "Emergency session called after central bank rate rise fails to halt currency\u2019s decline",
-            "url": "https://www.ft.com/content/52e2cfc3-1157-424d-bf08-1b9544c99803",
-            "urlToImage": null,
-            "publishedAt": "2023-08-16T11:47:03Z",
-            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Hanna Ziady",
-            "title": "UK inflation slows to 6.8% but services are getting even more expensive - CNN",
-            "description": "UK inflation eased to a 17-month low in July, official data showed Wednesday, though it also revealed that prices of services, such as haircuts, hotels and restaurants, increased at a faster pace than the previous month.",
-            "url": "https://www.cnn.com/2023/08/16/economy/uk-inflation-slowdown/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230815090158-uk-inflation-july-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-16T10:54:00Z",
-            "content": "UK inflation eased to a 17-month low in July, official data showed Wednesday, though it also revealed that prices of services, such as haircuts, hotels and restaurants, increased at a faster pace tha\u2026 [+1922 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Meg Tirrell",
-            "title": "The US eliminated malaria in 1951. How can it keep it under control now? - CNN",
-            "description": "Working underground in a biosafety level 3 insectary in Tres Cantos, Madrid, researchers at the pharmaceutical giant GSK were frustrated.",
-            "url": "https://www.cnn.com/2023/08/16/health/malaria-mosquito-control-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230811225623-02-locally-transmitted-malaria.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-16T10:45:00Z",
-            "content": "Working underground in a Biosafety Level 3 insectary in Tres Cantos, Madrid, researchers at the pharmaceutical giant GSK were frustrated.\r\nThe mosquitoes they were using to study experimental medicin\u2026 [+8795 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Veronique Greenwood",
-            "title": "How pandemics affected the evolution of human immunity - The Washington Post - The Washington Post",
-            "description": "We are the descendants of those who survived past pandemics, and our genomes show it. But this genetic history can be a double-edged sword.",
-            "url": "https://www.washingtonpost.com/science/2023/08/16/plague-pandemics-immune-system-evolution/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YJAHZOTDIVYZEEKFR2HRV7CZ4U_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-08-16T10:12:53Z",
-            "content": "Comment on this story\r\nComment\r\nAgnolo di Tura was a sometime shoemaker and tax collector with a yen for keeping a journal. He was also his familys sole survivor when the Black Death tore through Sie\u2026 [+5379 chars]"
+            "author": "Jeff Carlisle",
+            "title": "USA coach Vlatko Andonovski resigns after World Cup exit -- sources - ESPN - ESPN",
+            "description": "Vlatko Andonovski has stepped down as manager of the U.S. women's national team following its World Cup exit, sources have confirmed to ESPN.",
+            "url": "https://www.espn.com/soccer/story/_/id/38202378/usa-coach-andonovski-steps-womens-world-cup-exit-sources",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0731%2Fr1204295_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-08-16T22:42:00Z",
+            "content": "Vlatko Andonovski has stepped down as manager of the U.S. women's national team, sources confirmed to ESPN on Wednesday.\r\nAn announcement from the U.S. Soccer Federation confirming Andonovski's exit \u2026 [+4197 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NDTV News"
+                "name": "Florida Today"
             },
-            "author": null,
-            "title": "Viral: Nick Jonas Falls Off Stage During His Performance - NDTV",
-            "description": "The video shows Nick during his performance heading towards an edge of the stage and he stumbles",
-            "url": "https://www.ndtv.com/entertainment/viral-nick-jonas-falls-off-stage-during-his-performance-4302248",
-            "urlToImage": "https://c.ndtvimg.com/2023-08/0nvqmql_nick-_625x300_16_August_23.jpg",
-            "publishedAt": "2023-08-16T09:37:57Z",
-            "content": "Nick on stage. (Courtesy: Twitter)\r\nNew Delhi: Nick Jonas is on a tour across the United States along with his brothers Kevin and Joe Jonas\u00a0for concerts. The Jonas Brothers have been enthralling the \u2026 [+1891 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "'Barbaric' and 'negligent' treatment in ICE detention, inspections found - NPR",
-            "description": "Inspectors for the Department of Homeland Security found dangerous problems in immigration detention facilities. For years, the government fought NPR's efforts to obtain its often damning reports.",
-            "url": "https://www.npr.org/2023/08/16/1190767610/ice-detention-immigration-government-inspectors-barbaric-negligent-conditions",
-            "urlToImage": "https://media.npr.org/assets/img/2023/08/15/ap19243611355277---adelanto-ice_wide-77db54b44672927a980186af4e5f4d24f7b156af-s1400-c100.jpg",
-            "publishedAt": "2023-08-16T09:01:21Z",
-            "content": "Immigrants await processing at an Immigration and Customs Enforcement (ICE) detention center in Adelanto, California. By filing a lawsuit under the Freedom of Information Act, NPR obtained a trove of\u2026 [+31259 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "Why Trump's Georgia indictment won't shake his GOP support - NPR",
-            "description": "The former president has insulated himself with his party, having sold its members over the past seven years on his baseless narrative of a deep-state conspiracy against him.",
-            "url": "https://www.npr.org/2023/08/16/1193859099/trump-indictment-georgia-republican-support",
-            "urlToImage": "https://media.npr.org/assets/img/2023/08/15/gettyimages-1563724712_wide-271e66f66cc86a2421a76e13357c6f8b1165bca0-s1400-c100.jpg",
-            "publishedAt": "2023-08-16T09:00:52Z",
-            "content": "Former President Donald Trump speaks during a campaign rally in Erie, Pa., on July 29.\r\nJoed Viera/AFP via Getty Images\r\nWith each passing indictment of former President Donald Trump up to four now i\u2026 [+10264 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Erika Edwards",
-            "title": "Emergency room doctors beg for help treating children with mental health illnesses - NBC News",
-            "description": "As the nation's pediatric mental health crisis worsens, influential medical groups are pleading for more support and resources to help children and teenagers with psychiatric concerns.",
-            "url": "https://www.nbcnews.com/health/health-news/emergency-room-doctors-beg-help-treating-children-mental-health-illnes-rcna99951",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230816-child-mental-health-stock-al-0825-2a513d.jpg",
-            "publishedAt": "2023-08-16T09:00:41Z",
-            "content": "Three influential groups of pediatricians and emergency medicine providers are pleading for more support and resources as the number of children and teenagers with mental health concerns overwhelm em\u2026 [+4089 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Sinema takes on Schumer, Jeffries and the White House over the border - POLITICO",
-            "description": "Border-state Democrats are frustrated to see New York claim most of a recent migrant relief infusion. But Arizona's formerly Democratic senator is speaking out the loudest.",
-            "url": "https://www.politico.com/news/2023/08/16/sinema-takes-on-schumer-jeffries-border-00111355",
-            "urlToImage": "https://static.politico.com/14/f6/7830df9243efb1bbe0c7893a7108/kyrsten-sinema-54345.jpg",
-            "publishedAt": "2023-08-16T09:00:00Z",
-            "content": "But only Sinema is aiming specific complaints at Senate Majority Leader Chuck Schumer, House Minority Leader Hakeem Jeffries and the Biden administration.\r\nEarlier this month in Yuma, Ariz., Sinema s\u2026 [+6380 chars]"
+            "author": "Jamie Groh",
+            "title": "It's launch day! What you need to know about SpaceX's next Falcon 9 mission from the Cape - Florida Today",
+            "description": "Everything you need to know before SpaceX's next Falcon 9 Starlink mission set for Wednesday, Aug. 16, from Cape Canaveral Space Force Station.",
+            "url": "https://www.floridatoday.com/story/tech/science/space/2023/08/16/launch-day-spacex-falcon-9-starlink-mission-from-cape-canaveral-space-force-florida/70588803007/",
+            "urlToImage": "https://www.floridatoday.com/gcdn/presto/2023/06/23/PBRE/0352e710-92b8-4709-878d-a0dee776d99b-download.jpeg?crop=2124,1195,x244,y0&width=2124&height=1195&format=pjpg&auto=webp",
+            "publishedAt": "2023-08-16T22:31:55Z",
+            "content": "Update: SpaceX is now targeting liftoff of this mission for 11:36 p.m. EDT, Wednesday, Aug. 16.\r\nSpaceX teams at Cape Canaveral Space Force Station in Florida are on track to launch a Falcon 9 rocket\u2026 [+2670 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "NBCSports.com"
             },
-            "author": "Michael David Smith",
-            "title": "Joel Bitonio: Eagles took cheap shots at Deshaun Watson in joint practice - NBC Sports",
-            "description": "\u201cYou\u2019re not supposed to that,\u201d the Browns' starting left guard said.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joel-bitonio-eagles-took-cheap-shots-at-deshaun-watson-in-joint-practice",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/ea22226/2147483647/strip/true/crop/5392x3033+0+280/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Ffd%2F46%2Fd0611a43427eb7f1cd7973600cae%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D21139179",
-            "publishedAt": "2023-08-16T08:12:13Z",
-            "content": "Browns left guard Joel Bitonio was not happy with players on the Eagles following Tuesdays joint practice, accusing them of cheap shots.\r\nSpecifically, Bitonio accused Eagles defensive end Josh Sweat\u2026 [+1089 chars]"
+            "author": "Josh Alper",
+            "title": "Colts excuse Jonathan Taylor to deal with personal matter - NBC Sports",
+            "description": "Colts running back Jonathan Taylor's offseason has taken another turn.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-excuse-jonathan-taylor-to-deal-with-personal-matter",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/227d238/2147483647/strip/true/crop/4004x2252+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F4b%2Fd5%2Fc4cd795c4529b468324cddd23653%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1258516850",
+            "publishedAt": "2023-08-16T22:01:51Z",
+            "content": "Colts running back Jonathan Taylors offseason has taken another turn. \r\nTaylor returned to Colts training camp on Monday after leaving the team in order to rehab his ankle on his own, but Taylor left\u2026 [+766 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Mifepristone case update: Appeals court issues ruling, Supreme Court will have final say - 11Alive",
+            "description": "At issue is a Texas-based federal judge\u2019s April ruling revoking the abortion drug\u2019s approval, which was granted more than 20 years ago by the FDA.",
+            "url": "https://www.youtube.com/watch?v=zWZWG26bIN4",
+            "urlToImage": "https://i.ytimg.com/vi/zWZWG26bIN4/hqdefault.jpg",
+            "publishedAt": "2023-08-16T21:38:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPVI-TV"
+            },
+            "author": null,
+            "title": "Climate change impacts: Extreme heat is here to stay: Here's what it means for you and your health - WPVI-TV",
+            "description": "Today, Philadelphia sees three-day stretches of dangerous heat on average, the ABC data analysis found. In 30 years, those heat waves are projected to last four days, further compounding the health impacts.",
+            "url": "https://6abc.com/what-is-climate-change-weathering-tomorrow-global-near-me/13658514/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13659052_081623-wpvi-weathering-tomorrow-extreme-heat-trish-430-CC-vid.jpg?w=1600",
+            "publishedAt": "2023-08-16T21:35:46Z",
+            "content": "PHILADELPHIA (WPVI) -- In a typical month, Christine Rhaney of West Oak Lane uses her nebulizer once or twice to help her breathe when her inflammatory lung disease flairs up. But this July, she esti\u2026 [+12988 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Matias Grez",
-            "title": "Lionel Messi scores ninth goal in six games as Inter Miami advances to Leagues Cup Final - CNN",
-            "description": "In just one month with Inter Miami, Argentine superstar Lionel Messi has his new team reaching new heights.\u00a0Messi scored his ninth goal in just six games since joining Inter, having scored in each of his six fixtures.",
-            "url": "https://www.cnn.com/2023/08/16/sport/lionel-messi-inter-miami-leagues-cup-final-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230816151359-lionel-messi-inter-miami.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-16T07:55:00Z",
-            "content": "In just one month with Inter Miami, Argentine superstar Lionel Messi already has his team reaching new heights.\r\nWith a 4-1 victory over Philadelphia Union Tuesday, Miami advanced to the CONCACAF Lea\u2026 [+1365 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "The Associated Press",
-            "title": "New Zealand jury finds mom guilty of killing 3 young daughters - NBC News",
-            "description": "A New Zealand jury on Wednesday found a mother guilty of murdering her three young daughters in a case that shocked the nation.",
-            "url": "https://www.nbcnews.com/news/world/new-zealand-jury-finds-mom-guilty-killing-3-young-daughters-rcna100138",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230816-Lauren-Dickason-mb-0841-67da73.jpg",
-            "publishedAt": "2023-08-16T07:47:23Z",
-            "content": "WELLINGTON A New Zealand jury on Wednesday found a mother guilty of murdering her three young daughters in a case that shocked the nation.\r\nLauren Dickason, 42, had earlier admitted killing her 2-yea\u2026 [+2380 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Hannah Ward-Glenton",
-            "title": "European markets higher as investors assess UK inflation data - CNBC",
-            "description": "European markets were higher Wednesday as investors digest key U.K. inflation data.",
-            "url": "https://www.cnbc.com/2023/08/16/european-markets-open-to-close-earnings-data-and-news.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107287234-1692163488156-gettyimages-1146938550-UK_LSE.jpeg?v=1692163876&w=1920&h=1080",
-            "publishedAt": "2023-08-16T07:44:00Z",
-            "content": "Despite last week's selloff, the strong rally this year means U.S. markets are now trading at only a small discount compared with the start of the year, says top Morningstar strategist Dave Sekera.\r\n\u2026 [+442 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "ScienceAlert Staff",
-            "title": "Man Uses Strange Rock as Doorstop For Decades. It Turned Out to Be Worth a Fortune. - ScienceAlert",
-            "description": "One of the largest meteorites ever recorded in Michigan never came to the attention of experts until a whopping 80+ years after its discovery.",
-            "url": "https://www.sciencealert.com/man-uses-strange-rock-as-doorstop-for-decades-it-turned-out-to-be-worth-a-fortune",
-            "urlToImage": "https://www.sciencealert.com/images/2023/08/MeteoriteRockSample.jpg",
-            "publishedAt": "2023-08-16T07:32:52Z",
-            "content": "One of the largest meteorites ever recorded in Michigan never came to the attention of experts until a whopping 80+ years after its discovery.\r\nLiving a humble life as a 10-kilogram (22-pound) doorst\u2026 [+2879 chars]"
+            "author": "Brenda Goodman",
+            "title": "Cancer diagnosis rates are going up in younger adults, study finds, driven largely by rises in women and people in their 30s - CNN",
+            "description": "Certain kinds of cancer are being diagnosed more often in younger adults in the US, a new study shows, and the increases seem to be driven by cancers in women and adults in their 30s.",
+            "url": "https://www.cnn.com/2023/08/16/health/early-onset-cancer-increase/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230816170457-01-chemotherapy-052517.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-16T21:23:00Z",
+            "content": "Certain kinds of cancer are being diagnosed more often in younger adults in the US, a new study shows, and the increases seem to be driven by cancers in women and adults in their 30s.\r\nA government-f\u2026 [+3561 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters",
-            "title": "Container ship leaves Russian-blocked Ukrainian port of Odesa - Kyiv - Reuters",
-            "description": "A container ship left the Ukrainian Black Sea port of Odesa on Wednesday morning, the government said, using what it has described as a new temporary corridor for merchant ships to and from its ports, which are blockaded by Russia.",
-            "url": "https://www.reuters.com/world/europe/container-ship-leaves-russian-blocked-ukrainian-port-odesa-kyiv-2023-08-16/",
-            "urlToImage": "https://www.reuters.com/resizer/W2j_XmMnEh0z1Tdt-0sVgYZ3yBE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6JQL5KTIUBJXBGAG2D2PG45TIU.jpg",
-            "publishedAt": "2023-08-16T07:05:00Z",
-            "content": "KYIV, Aug 16 (Reuters) - A container ship left the Ukrainian Black Sea port of Odesa on Wednesday morning, the government said, using what it has described as a new temporary corridor for merchant sh\u2026 [+1177 chars]"
+            "author": "Howard Schneider, Michael Derby",
+            "title": "Fed officials divided in July over need for more rate hikes, minutes show - Reuters",
+            "description": "Federal Reserve officials were divided over the need for more interest rate hikes at the U.S. central bank's July 25-26 meeting, with \"some participants\" citing the risks to the economy of pushing rates too far even as \"most\" policymakers continued to priorit\u2026",
+            "url": "https://www.reuters.com/markets/us/fed-policymakers-divided-july-over-need-more-rate-hikes-minutes-show-2023-08-16/",
+            "urlToImage": "https://www.reuters.com/resizer/0L0_Rkb9PWme3r68goS9BZFgn1Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/66MQK23PTRJZXOFNWOTDESNJEA.jpg",
+            "publishedAt": "2023-08-16T21:16:00Z",
+            "content": "WASHINGTON, Aug 16 (Reuters) - Federal Reserve officials were divided over the need for more interest rate hikes at the U.S. central bank's July 25-26 meeting, with \"some participants\" citing the ris\u2026 [+4230 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Intc.com"
+                "name": "Kansasreflector.com"
             },
-            "author": null,
-            "title": "Intel Announces Termination of Tower Semiconductor Acquisition - Investor Relations :: Intel Corporation (INTC)",
-            "description": null,
-            "url": "https://www.intc.com/news-events/press-releases/detail/1642/intel-announces-termination-of-tower-semiconductor",
-            "urlToImage": "https://d1io3yog0oux5.cloudfront.net/_b18f8a9f850e843405ac7afa8ebfbe6f/intel/db/878/6995/social_image_resized.jpg",
-            "publishedAt": "2023-08-16T07:03:18Z",
-            "content": "Intel continues to advance plans to create world-class system foundry as part of its IDM 2.0 strategy.\r\n SANTA CLARA, Calif.--(BUSINESS WIRE)--\r\nIntel Corporation (Nasdaq: INTC) today announced that \u2026 [+6388 chars]"
+            "author": "Sherman Smith",
+            "title": "Marion County Record publishes in defiance of police raid \u2014 and gets seized property back - Kansas Reflector",
+            "description": "Marion County Record staff worked through the night to publish the paper's weekly edition as scheduled Wednesday.",
+            "url": "https://kansasreflector.com/2023/08/16/marion-county-record-publishes-in-defiance-of-police-raid-and-gets-seized-property-back/",
+            "urlToImage": "https://kansasreflector.com/wp-content/uploads/2023/08/P8160745.jpg",
+            "publishedAt": "2023-08-16T21:01:13Z",
+            "content": "by Sherman Smith, Kansas ReflectorAugust 16, 2023\r\nMARION Marion County Record staff worked through the night to publish the paper\u2019s weekly edition as scheduled Wednesday, days after police raided th\u2026 [+7136 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Atlanta Journal Constitution"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Tamar Hallerman",
-            "title": "Mark Meadows seeks to move Fulton charges to federal court -  The Atlanta Journal Constitution",
-            "description": "Former White House Chief of Staff Mark Meadows on Tuesday sought to move criminal charges filed against him in Fulton County to federal court.",
-            "url": "https://www.ajc.com/politics/breaking-mark-meadows-seeks-to-move-fulton-charges-to-fed-court/YB4RCQUGV5FN5FFTCGRBIXFEIY/",
-            "urlToImage": "https://www.ajc.com/resizer/w65m9SD_ipuCyLhzw7M1yko7mMA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/ZJKYDQAYTDEE636BCLQII47B2Q.jpg",
-            "publishedAt": "2023-08-16T06:44:06Z",
-            "content": "Former White House Chief of Staff Mark Meadows on Tuesday sought to move criminal charges filed against him in Fulton County to federal court.\r\nThe development came less than a day after a Fulton gra\u2026 [+3584 chars]"
+            "author": "Jonathan Stempel, Nate Raymond",
+            "title": "Witnesses to Buffalo mass shooting sue social media, gun companies - Reuters",
+            "description": "Sixteen people who witnessed a white supremacist kill 10 Black victims in a shooting last year at a Buffalo, New York grocery store have sued social media and firearms-related companies, to hold them liable for causing emotional trauma.",
+            "url": "https://www.reuters.com/legal/witnesses-buffalo-mass-shooting-sue-social-media-gun-companies-2023-08-16/",
+            "urlToImage": "https://www.reuters.com/resizer/IY3GSqnucBpeVIKqEr2_wIxseWU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SIEIBH5LLNJLPK6MU3R52WHX3M.jpg",
+            "publishedAt": "2023-08-16T20:57:00Z",
+            "content": "NEW YORK, Aug 16 (Reuters) - Sixteen people who witnessed a white supremacist kill 10 Black victims in a shooting last year at a Buffalo, New York grocery store have sued social media and firearms-re\u2026 [+2648 chars]"
         },
         {
             "source": {
@@ -255,12 +177,90 @@
                 "name": "Independent"
             },
             "author": "Ariana Baio",
-            "title": "Biden says he doesn't want to 'get in the way' as Hawaii death toll reaches 101 - The Independent",
-            "description": "Hawaiian authorities begin to release victims names as the death toll continues to rise",
-            "url": "https://www.independent.co.uk/climate-change/news/maui-hawaii-fires-wildfires-cause-travel-update-b2393761.html",
-            "urlToImage": "https://static.independent.co.uk/2023/08/16/10/SEI167782802.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-08-16T06:00:00Z",
-            "content": "Sign up to the Independent Climate email for the latest advice on saving the planet\r\nGet our free Climate email\r\nThe death toll from the Maui wildfires has now topped 100 with officials announcing th\u2026 [+7918 chars]"
+            "title": "New footage depicts potential cause of Maui wildfires: live updates - The Independent",
+            "description": "Hawaii authorities have begun releasing the names of victims as the death toll in Maui continues to rise past 100 people",
+            "url": "https://www.independent.co.uk/climate-change/news/maui-fires-cause-death-toll-hawaii-b2394323.html",
+            "urlToImage": "https://static.independent.co.uk/2023/08/16/14/biden%20hawaii%20inset.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-08-16T20:41:10Z",
+            "content": "Maui wildfire survivor reveals harrowing details of dead babies in ocean\r\nA man who escaped the Maui fires by spending hours in the ocean has revealed harrowing details of how he survived one of the \u2026 [+2036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Anonna Dutt",
+            "title": "Chandrayaan-3 closer to Moon, Lander set for separation today - The Indian Express",
+            "description": "Wednesday\u2019s was the fourth and the final orbit-reducing manoeuvre performed by the spacecraft, which comprises a Propulsion Module and the lander component, which includes the rover.",
+            "url": "https://indianexpress.com/article/technology/science/chandrayaan-3-undergoes-last-moon-bound-maneouvre-prepares-for-propulsion-and-lander-module-seperation-8894573/",
+            "urlToImage": "https://images.indianexpress.com/2023/08/chandrayaan-1.jpg",
+            "publishedAt": "2023-08-16T20:28:00Z",
+            "content": "Chandrayaan-3 came further close to the Moon on Wednesday, the ISRO said, with the spacecraft bringing itself into a near-circular 153\u00d7163 km orbit and setting the stage for the separation of the Lan\u2026 [+2321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Amazon Music Unlimited Raises Prices for Prime Members - CNET",
+            "description": "If you have an Amazon Music Unlimited family plan, you'll also pay more per month.",
+            "url": "https://www.cnet.com/tech/services-and-software/amazon-music-unlimited-raises-prices-for-prime-members/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/b3dbc9a956a17c59ad5f58046549a217d5986065/hub/2022/06/30/14a28420-bd3d-4d38-b413-588d4937131b/amazon-music-unlimited-logo.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-08-16T19:57:00Z",
+            "content": "Amazon is raising its monthly cost for Amazon Music Unlimited, and the price increase will affect Prime members who are on the individual plan as well as people with the Amazon Music Unlimited family\u2026 [+2091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Britney Spears and Husband Sam Asghari Split, Heading for Divorce - TMZ",
+            "description": "Britney Spears and her husband, Sam Asghari have separated after a nuclear argument that involves allegations of cheating ... TMZ has learned.",
+            "url": "https://www.tmz.com/2023/08/16/britney-spears-sam-asghari-separate-split-cheating-infidelity-divorce/",
+            "urlToImage": "https://imagez.tmz.com/image/a7/16by9/2023/05/03/a74d2816916f4ac2a775ceb8d63cb2cc_xl.jpg",
+            "publishedAt": "2023-08-16T19:53:00Z",
+            "content": "Britney Spears and her husband, Sam Asghari have separated after a nuclear argument that involves allegations of cheating ... TMZ has learned.\r\nSources with direct knowledge tell TMZ ... about a week\u2026 [+1992 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "\u2018So many\u2019 Trump indictments make it so candidates can\u2019t tell voters \u2018where they stand\u2019 on \u2018issues\u2019 - MSNBC",
+            "description": "After a fourth indictment in Georgia was handed down this week against former President Donald Trump, the political calendar becomes even more intertwined wi...",
+            "url": "https://www.youtube.com/watch?v=gGD0nWPPzh8",
+            "urlToImage": "https://i.ytimg.com/vi/gGD0nWPPzh8/maxresdefault.jpg",
+            "publishedAt": "2023-08-16T19:30:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Amazon will reportedly charge sellers an extra fee for shipping their own products - The Verge",
+            "description": "Amazon will soon start charging sellers an extra 2 percent fee for each product they ship themselves, according to a report from Bloomberg. The fee comes as Amazon faces a potential antitrust lawsuit from the FTC.",
+            "url": "https://www.theverge.com/2023/8/16/23834653/amazon-seller-fees-shipping-fulfillment",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/kD_Aw-nf5fprHjCk9jVesE0Gx60=/0x0:1020x616/1200x628/filters:focal(510x339:511x340)/cdn.vox-cdn.com/uploads/chorus_asset/file/15890547/theverge_1020.0.1472132659.jpg",
+            "publishedAt": "2023-08-16T19:23:12Z",
+            "content": "Amazon will reportedly charge sellers an extra fee for shipping their own products\r\nAmazon will reportedly charge sellers an extra fee for shipping their own products\r\n / This comes even as Amazon fa\u2026 [+2012 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Eric Lagatta",
+            "title": "Reports: Drunk American tourists spent night in Paris' Eiffel Tower - USA TODAY",
+            "description": "Security guards for the Eiffel Tower discovered the men sleeping inside the famed French monument on Monday morning, according to multiple reports.",
+            "url": "https://www.usatoday.com/story/news/world/2023/08/16/reports-drunk-american-tourists-spent-night-in-paris-eiffel-tower/70601628007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/16/USAT/70601866007-afp-afp-33-qv-6-yx.jpg?crop=7655,4326,x0,y765&width=3200&height=1809&format=pjpg&auto=webp",
+            "publishedAt": "2023-08-16T19:18:00Z",
+            "content": "Security guards making their rounds at the Eiffel Tower were surprised to find two American tourists who apparently slept off a night of drinking inside the iconic French landmark, multiple news outl\u2026 [+2139 chars]"
         }
     ]
 }
