@@ -1,175 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 33,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "Florida Today"
+                "name": "Hollywood Reporter"
             },
-            "author": null,
-            "title": "SpaceX launch sends more Starlink satellites to orbit late Wednesday - Florida Today",
-            "description": null,
-            "url": "https://www.floridatoday.com/story/tech/science/space/2023/08/17/spacex-launch-sends-more-starlink-satellites-to-orbit-late-wednesday/70588910007/",
-            "urlToImage": null,
-            "publishedAt": "2023-08-18T09:46:10Z",
-            "content": null
+            "author": "Rick Porter",
+            "title": "\u2018The Peripheral\u2019 Season 2 Scrapped at Amazon - Hollywood Reporter",
+            "description": "The tech giant's Prime Video cites the writers and actors strikes in undoing a renewal for the series from 'Westworld's' Lisa Joy and Jonathan Nolan.",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/the-peripheral-canceled-amazon-no-season-2-1235570179/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/PRDB_S1_FG_102_Still001-copy.jpg?w=1024",
+            "publishedAt": "2023-08-18T22:02:15Z",
+            "content": "The Peripheral has had its second season renewal at Amazon\u2019s Prime Video undone, putting an end to the sci-fi series. \r\nThe un-renewal comes during strikes by Hollywood writers and actors, and source\u2026 [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAVID KOENIG AP Airlines Writer",
+            "title": "American Airlines sues a travel site to crack down on consumers who use this trick to save money - ABC News",
+            "description": "American Airlines is trying to crack down on a travel hack",
+            "url": "https://abcnews.go.com/US/wireStory/american-airlines-sues-travel-site-crack-consumers-trick-102381339",
+            "urlToImage": "https://s.abcnews.com/images/Travel/wirestory_905acda8ac5fe302238cefd63ac864e3_16x9_992.jpg",
+            "publishedAt": "2023-08-18T21:33:45Z",
+            "content": "DALLAS -- American Airlines is suing a travel website that sells tickets that let people save money by exploiting a quirk in airline pricing.\r\nAmerican sued Skiplagged Inc. in federal court in Fort W\u2026 [+2358 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erin Prater",
+            "title": "Highly mutated COVID variant BA.2.86 has been detected in the U.S. Why the CDC and WHO are monitoring it - Fortune",
+            "description": "Dubbed \"Pirola\" by variant trackers, the strain is different enough from other Omicron to potentially warrant a Greek letter from the WHO, experts say.",
+            "url": "https://fortune.com/well/2023/08/18/ba286-bax-highly-mutated-covid-omicron-strain-detected-united-states-pirola-pi-rho-world-health-organization/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/08/GettyImages-1221691031-e1692392251203.jpg?resize=1200,600",
+            "publishedAt": "2023-08-18T21:00:00Z",
+            "content": "The World Health Organization and the U.S. Centers for Disease Control and Prevention are tracking a newly identified, highly mutated strain of COVID experts warn could be the next big leap in viral \u2026 [+5108 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "CNBC"
             },
-            "author": "Sian Cain",
-            "title": "Britney Spears\u2019 estranged husband Sam Asghari denies he will challenge prenup in their divorce - The Guardian",
-            "description": "Asghari says he and Spears will \u2018hold onto the love and respect\u2019 they have for each, after filing for divorce after 14 months of marriage",
-            "url": "https://www.theguardian.com/music/2023/aug/18/britney-spears-husband-sam-asghari-divorce-prenup-prenuptial-agreement",
-            "urlToImage": "https://i.guim.co.uk/img/media/fd59b953ff7f44f3970ab61166d0c2f5518ea067/0_63_4200_2519/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69bf776d1c642ca6c96f122905e57661",
-            "publishedAt": "2023-08-18T09:46:00Z",
-            "content": "Sam Asghari has denied he will challenge the prenuptial agreement he has with Britney Spears after filing for divorce after 14 months of marriage.\r\nIn a statement posted online on Thursday, the model\u2026 [+2818 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Rebecca Feng, Weilun Soon",
-            "title": "Investors Fear China's 'Lehman Moment' Is Looming - The Wall Street Journal",
-            "description": "Troubles at a big trust company are making investors worry about financial contagion from property developers\u2019 distress",
-            "url": "https://www.wsj.com/finance/investing/investors-fear-chinas-lehman-moment-is-looming-4364855d",
-            "urlToImage": "https://images.wsj.net/im-837775/social",
-            "publishedAt": "2023-08-18T09:43:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Why San Francisco is make or break for Gavin Newsom - POLITICO",
-            "description": "Newsom has increasingly been moonlighting as a quasi-city executive of his hometown and approaching its woes as a litmus test for his success in Sacramento.",
-            "url": "https://www.politico.com/news/2023/08/18/san-francisco-gavin-newsom-homeless-00111777",
-            "urlToImage": "https://static.politico.com/2c/af/07196a1a43a69f1d20914c574043/gettyimages-1428462180.jpg",
-            "publishedAt": "2023-08-18T09:00:00Z",
-            "content": "Through some combination of civic pride, personal obligation and an antenna for his own political liabilities, hes immersed himself in the citys struggles. He sent in state law enforcement to target \u2026 [+13418 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "The iPhone 15 might support faster charging speeds via USB-C - The Verge",
-            "description": "Some of the new iPhone 15 models might support charging up to 35W, compared to the 27W speeds that the current iPhone 14 Pro is limited to via a wired Lightning charger.",
-            "url": "https://www.theverge.com/2023/8/18/23836903/apple-iphone-15-usbc-lightning-cable-charging-speed-wattage",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/4_PqTFALDlB_SnxFV-trOIMPHWw=/0x0:3543x2362/1200x628/filters:focal(1772x1181:1773x1182)/cdn.vox-cdn.com/uploads/chorus_asset/file/24858179/1235497186.jpg",
-            "publishedAt": "2023-08-18T08:58:58Z",
-            "content": "The iPhone 15 might have faster charging speeds\r\nThe iPhone 15 might have faster charging speeds\r\n / The transition from Lightning to USB-C could see iPhone 15 models achieve a charging speed of up t\u2026 [+2316 chars]"
+            "author": "Ari Levy",
+            "title": "Palo Alto shares rise on earnings beat, surprising investors who worried about a Friday report - CNBC",
+            "description": "Palo Alto's better-than-expected earnings report was a relief to investors who were concerned about potentially bad numbers due to a late Friday announcement",
+            "url": "https://www.cnbc.com/2023/08/18/palo-alto-networks-panw-earnings-report-q4-2023.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107065531-1J7A0886.JPG?v=1692391541&w=1920&h=1080",
+            "publishedAt": "2023-08-18T20:45:41Z",
+            "content": "Palo Alto Networks shares jumped as much as 9% in extended trading on Friday after the security software vendor reported earnings that exceeded analysts' estimates.\r\nThe stock had dropped 16% in Augu\u2026 [+2009 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Deadline"
             },
-            "author": "Huw Jones",
-            "title": "GLOBAL MARKETS-Shares hit two-month low as fading Fed cut hope hammers bonds - Yahoo Finance",
-            "description": "Global shares hit two-month lows on Friday while US government bond yields remained near recent 16-year highs as investors bet on interest rates staying...",
-            "url": "https://finance.yahoo.com/news/global-markets-shares-hit-two-084449208.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Td7FlIF6NL6pjShvRUGhAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/49be7d60-2d48-11ee-9fea-e3ca7a3411e8",
-            "publishedAt": "2023-08-18T08:44:49Z",
-            "content": "Global shares hit two-month lows on Friday while US government bond yields remained near recent 16-year highs as investors bet on interest rates staying elevated for longer, with worries over China's\u2026 [+4798 chars]"
+            "author": "Anthony D'Alessandro",
+            "title": "\u2018Blue Beetle\u2019 Winging To No. 1 With $25M; \u2018Strays\u2019 Doggy-Paddling To $8M+ \u2013 Friday Box Office Update - Deadline",
+            "description": "Friday Midday: Early numbers show Warner Bros/DC\u2019s Blue Beetle with $9.8M today and a $25M opening at 3,871. This is higher than what others are showing given the expectation that Latino and \u2026",
+            "url": "https://deadline.com/2023/08/box-office-blue-beetle-strays-barbie-1235522235/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/Blue-Beetle-and-Strays.jpg?w=1024",
+            "publishedAt": "2023-08-18T20:21:00Z",
+            "content": "Friday Midday: Early numbers show Warner Bros/DC\u2019s Blue Beetlewith $9.8M today and a $25M opening at 3,871. This is higher than what others are showing given the expectation that Latino and Hispanic \u2026 [+4775 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "Fox Business"
             },
-            "author": null,
-            "title": "Unmasking the Long COVID Mystery: New Study Reveals Cause of Muscle Weakness - SciTechDaily",
-            "description": "New research paves the way for new strategies to address long-term COVID-19 complications. Researchers from the University of Malta have identified a possible cause for the prolonged and frequently debilitating symptoms faced by individuals with long COVID-19\u2026",
-            "url": "https://scitechdaily.com/unmasking-the-long-covid-mystery-new-study-reveals-cause-of-muscle-weakness/",
-            "urlToImage": "https://scitechdaily.com/images/Human-Anatomy-Back-Spine-Muscle-Bone.jpg",
-            "publishedAt": "2023-08-18T08:42:53Z",
-            "content": "ByUniversity of MaltaAugust 18, 2023\r\nResearchers have found a potential cause for long COVID-19s enduring symptoms. Their study revealed that the ACE2 receptor, which the SARS-CoV-2 virus targets, p\u2026 [+5212 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Elizabeth Wolfe, Mary Gilbert",
-            "title": "Hurricane Hilary strengthens to a Category 4 storm, but is expected to weaken before bringing rain to the Southwest US this weekend - CNN",
-            "description": "Hurricane Hilary has intensified into a Category 4 storm as it nears Mexico\u2019s Baja California peninsula, yet is expected to weaken over the weekend as it brings rain and the threat of flooding to parts of the Southwest US.",
-            "url": "https://www.cnn.com/2023/08/18/weather/hurricane-hilary-rain-flooding-forecast-friday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230817232659-01-hurricane-hilary-category-3-friday.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-18T08:32:00Z",
-            "content": "Hurricane Hilary has intensified into a Category 4 storm as it nears Mexicos Baja California peninsula, yet is expected to weaken over the weekend as it brings rain and the threat of flooding to part\u2026 [+4692 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "SAM MEDNICK",
-            "title": "Leading politician says victory for Niger's coup leaders would be 'the end of democracy' in Africa - Yahoo News",
-            "description": "If mutinous soldiers who ousted Niger's president succeed, it will threaten democracy and security across the region and the continent, a high-ranking member...",
-            "url": "https://news.yahoo.com/leading-politician-says-victory-nigers-080020420.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cRoGIZ8BnKjgyNDUfAvqGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://media.zenfs.com/en/ap.org/55e39308524dd179f715ccc9cac998a7",
-            "publishedAt": "2023-08-18T08:00:20Z",
-            "content": "NIAMEY, Niger (AP) If mutinous soldiers who ousted Niger's president succeed, it will threaten democracy and security across the region and the continent, a high-ranking member of Bazoum's political \u2026 [+4203 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Kelsey Ables, Christian Shepherd, Theodora Yu",
-            "title": "China\u2019s Evergrande files for Chapter 15 bankruptcy - The Washington Post",
-            "description": "The heavily indebted company has become an emblem of China\u2019s real estate crisis. It is seeking protection from creditors while it makes efforts to restructure.",
-            "url": "https://www.washingtonpost.com/world/2023/08/18/evergrande-bankruptcy-chapter-15-china/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3GHTSXNW7H6TLXIXUXXYIH6CE_size-normalized.JPG&w=1440",
-            "publishedAt": "2023-08-18T07:00:00Z",
-            "content": "Comment on this story\r\nComment\r\nEvergrande, the heavily indebted Chinese property giant, filed for bankruptcy protection Thursday in New York, raising concerns about ripple effects as China faces slo\u2026 [+2700 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Moscow Times"
-            },
-            "author": "AFP",
-            "title": "Ukrainian Drone Crashes in Moscow, Says Russia - The Moscow Times",
-            "description": "Russian forces have destroyed a Ukrainian drone targeting Moscow, officials said, the latest in a series of attacks on the capital.",
-            "url": "https://www.themoscowtimes.com/2023/08/18/ukrainian-drone-crashes-in-moscow-says-russia-a82171",
-            "urlToImage": "https://static.themoscowtimes.com/image/og/05/82171__05fed12a3640637a95ff13096174e1ab.jpg",
-            "publishedAt": "2023-08-18T06:29:00Z",
-            "content": "Russian forces have destroyed a Ukrainian drone targeting Moscow, officials said, the latest in a series of attacks on the capital.\r\nRussia's Defense Ministry said its air force downed a Ukrainian dr\u2026 [+1350 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Meg Linehan",
-            "title": "Vlatko Andonovski is out as USWNT manager\u2026 now what? Deadlines for clarity are fast approaching - The Athletic",
-            "description": "Since the USWNT was eliminated from the 2023 World Cup, there has been scant information from the USSF about the road ahead",
-            "url": "https://theathletic.com/4784616/2023/08/17/uswnt-coach-search-ussf/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/17104531/GettyImages-1595744995.jpg",
-            "publishedAt": "2023-08-18T05:26:13Z",
-            "content": "Vlatko Andonovskis departure as head coach of the USWNT is official, and the mutual agreement with U.S. Soccer is certainly an amicable one despite the teams early exit from the World Cup in the roun\u2026 [+5631 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Faris Tanyos",
-            "title": "Maui emergency chief resigns following criticism for wildfire response - CBS News",
-            "description": "When asked Wednesday by reporters if he regretted not activating warning sirens when the wildfires broke out Aug. 8, Herman Andaya responded, \"I do not.\"",
-            "url": "https://www.cbsnews.com/news/maui-emergency-chief-herman-andaya-resigns-criticism-lahaina-wildfire-response/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/18/40484ccb-50e9-4003-8f8d-eaa721fa6acd/thumbnail/1200x630/22927a8e3535ffc0acfe7a03d479f718/0817-en-vigliotti.jpg?v=0b4ae642db52799a178d90d83603a9dc",
-            "publishedAt": "2023-08-18T04:06:00Z",
-            "content": "The head of the Maui Emergency Management Agency resigned his post on Thursday in the wake of significant criticism for his agency's response to the Lahaina fire, which has claimed the lives of at le\u2026 [+4726 chars]"
+            "author": "Megan Henney",
+            "title": "Looming UAW strike could cost US economy more than $5B in just 10 days - Fox Business",
+            "description": "A UAW strike against Ford, Stellantis and General Motors could begin in the next month, and the work stoppage could cost the U.S. economy over $5 billion.",
+            "url": "https://www.foxbusiness.com/economy/looming-uaw-strike-could-cost-us-economy-5-billion-10-days",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/uaw-strike.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-18T19:28:18Z",
+            "content": "If the United Auto Workers decides to strike against the \"Big Three\" Detroit automakers when the current contract expires next month, it could cost the U.S. economy more than $5 billion, according to\u2026 [+3714 chars]"
         },
         {
             "source": {
@@ -177,25 +86,103 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Merab Dvalishvili Details Plan if Aljamain Sterling Vacates With UFC 292 Win vs. Sean O'Malley - MMA Junkie",
-            "description": "UFC bantamweight Merab Dvalishvili talks to MMA Junkie's Nolan King ahead of the UFC 292 main event between his teammate Aljamain Sterling and Sean O'Malley ...",
-            "url": "https://www.youtube.com/watch?v=hlITvxSo6lE",
-            "urlToImage": "https://i.ytimg.com/vi/hlITvxSo6lE/maxresdefault.jpg",
-            "publishedAt": "2023-08-18T03:03:30Z",
+            "title": "Bitcoin plummets to fresh two-month low amid broad crypto sell-off: CNBC Crypto World - CNBC Television",
+            "description": "CNBC Crypto World features the latest news and daily trading updates from the digital currency markets and provides viewers with a look at what\u2019s ahead with ...",
+            "url": "https://www.youtube.com/watch?v=4shoGDyUtGM",
+            "urlToImage": "https://i.ytimg.com/vi/4shoGDyUtGM/maxresdefault.jpg",
+            "publishedAt": "2023-08-18T19:25:24Z",
             "content": null
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "NFL Nation",
-            "title": "NFL preseason 2023 Week 2 takeaways and schedule - ESPN - ESPN",
-            "description": "The NFL preseason continued Thursday night. Here are the key performances from the first of 16 games that will extend through Monday night.",
-            "url": "https://www.espn.com/nfl/story/_/id/38210608/nfl-preseason-2023-week-2-takeaways-schedule-highlights",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0818%2Fr1212137_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-08-18T03:03:00Z",
-            "content": "The second week of preseason games for the 2023 NFL season kicked off Thursday night with a matchup between the defending NFC champion Philadelphia Eagles and the Cleveland Browns.\r\nNot many starters\u2026 [+3279 chars]"
+            "author": "Jay Peters",
+            "title": "Microsoft says listing the Ottawa Food Bank as a tourist destination wasn't the result of 'unsupervised AI' - The Verge",
+            "description": "Microsoft published and then removed an article that prominently recommended tourists visit the Ottawa Food Bank. The company let go of human journalists in favor of AI in 2020.",
+            "url": "https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg",
+            "publishedAt": "2023-08-18T18:59:54Z",
+            "content": "Microsoft says listing the Ottawa Food Bank as a tourist destination wasnt the result of unsupervised AI\r\nMicrosoft says listing the Ottawa Food Bank as a tourist destination wasnt the result of unsu\u2026 [+4082 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Libby Cathey, Will McDuffie, Gabriella Abdul-Hakim, Isabella Murray",
+            "title": "Trump's GOP rivals needle him about showing up to debate days after 4th indictment - ABC News",
+            "description": "Pence and DeSantis said all candidates should show for Wednesday's GOP debate.",
+            "url": "https://abcnews.go.com/Politics/trumps-gop-rivals-speak-atlanta-event-days-after/story?id=102369422",
+            "urlToImage": "https://s.abcnews.com/images/Politics/mike-pence-gty-bb-230818_1692380211737_hpMain_2_16x9_992.jpg",
+            "publishedAt": "2023-08-18T18:58:34Z",
+            "content": "Just days after a grand jury in Fulton County, Georgia, indicted former President Donald Trump on charges related to his efforts to overturn the 2020 election results, most of his GOP primary rivals \u2026 [+4942 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "President Biden Remarks on Trilateral Summit - C-SPAN",
+            "description": "President Biden briefed reporters at Camp David during the start of his trilateral summit with Japanese Prime Minister Fumio Kishida and South Korean Preside...",
+            "url": "https://www.youtube.com/watch?v=DOXAr77bEq4",
+            "urlToImage": "https://i.ytimg.com/vi/DOXAr77bEq4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVihHMA8=&rs=AOn4CLCCn9UhDJ1JL-iZihJu3yG5bqbaSw",
+            "publishedAt": "2023-08-18T18:34:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sara Moniuszko",
+            "title": "What is dengue fever? What to know as virus cases are confirmed in Florida - CBS News",
+            "description": "Eleven cases of dengue virus have been confirmed in Florida, prompting questions about the mosquito-borne illness, its symptoms and treatment options.",
+            "url": "https://www.cbsnews.com/news/what-is-dengue-fever-virus-symptoms-vaccine-treatment/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/18/c2425b70-9952-4767-8466-2a7c56a5c4f1/thumbnail/1200x630/0dbef84cef3f9a54ac80e8e12515e33b/gettyimages-1575494687.jpg?v=0b4ae642db52799a178d90d83603a9dc",
+            "publishedAt": "2023-08-18T18:22:03Z",
+            "content": "Eleven\u00a0cases of dengue virus have been confirmed in Florida, prompting questions about the mosquito-borne illness. According to the Florida Department of Health, Broward County reported two cases and\u2026 [+3574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Gravitas: Wildfires burn across Northwest Territories in Canada | WION - WION",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=9L60heYUk0o",
+            "urlToImage": null,
+            "publishedAt": "2023-08-18T17:53:31Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Felipe Cardenas",
+            "title": "Lionel Messi\u2019s first Inter Miami press conference: What he said and what he meant - The Athletic",
+            "description": "On Thursday, Messi spoke to journalists for the first time since coming to the U.S.",
+            "url": "https://theathletic.com/4787858/2023/08/18/messi-press-conference-miami/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/18125538/GettyImages-1621457576.jpg",
+            "publishedAt": "2023-08-18T17:44:35Z",
+            "content": "Inside a packed conference room at Inter Miamis DRV Pink Stadium in Fort Lauderdale, a select group of local and international journalists gathered for Lionel Messis first news conference since signi\u2026 [+12473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Meredith B. Kile",
+            "title": "*NSYNC Expected to Reunite for New Song in 'Trolls Band Together': Source (Exclusive) - Entertainment Tonight",
+            "description": "A source tells ET that Justin Timberlake will reunite with his former bandmates, who also have surprise roles in the animated film.",
+            "url": "https://www.etonline.com/nsync-expected-to-reunite-for-new-song-in-trolls-band-together-source-exclusive-209997",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-03/gettyimages-530896515_copy.jpg?h=c673cd1c&itok=IntGVduQ",
+            "publishedAt": "2023-08-18T17:28:05Z",
+            "content": "Is Trolls Band Together about to reunite one of the greatest boy bands of all time?\r\nAfter the trailer for the upcoming animated film -- the third installment in DreamWorks' Trolls franchise -- hinte\u2026 [+2368 chars]"
         },
         {
             "source": {
@@ -203,64 +190,77 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Canada wildfire: Yellowknife evacuees turned away from full flights - BBC",
-            "description": "There are queues on roads out of Yellowknife and at the airport as a fire bears down on the remote city.",
-            "url": "https://www.bbc.com/news/world-us-canada-66539828",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6FB0/production/_130829582_p0g79m3l.jpg",
-            "publishedAt": "2023-08-18T02:00:56Z",
-            "content": "Residents of Yellowknife are scrambling to leave the northern Canadian city by air and road ahead of a noon Friday evacuation deadline.\r\nThere are hours-long queues at the airport and hundreds of pas\u2026 [+4531 chars]"
+            "title": "Hospital bosses ignored months of doctors' warnings about Lucy Letby - BBC",
+            "description": "Hospital bosses failed to investigate allegations and tried to silence doctors, BBC investigation finds.",
+            "url": "https://www.bbc.com/news/uk-66120934",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5431/production/_130835512_2cdd0df2-0221-41b5-befd-edf69932fa23.jpg",
+            "publishedAt": "2023-08-18T16:57:34Z",
+            "content": "Hospital bosses failed to investigate allegations against Lucy Letby and tried to silence doctors, the lead consultant at the neonatal unit where she worked has told the BBC.\r\nThe hospital also delay\u2026 [+15898 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mike Corder, USA TODAY",
+            "title": "Children of Ukraine's diaries on display in city where Anne Frank hid - USA TODAY",
+            "description": "The exhibit includes diary entries, photos and videos created by children to emotionally process their country's invasion by Russia.",
+            "url": "https://www.usatoday.com/story/news/world/2023/08/18/ukraine-children-diaries-on-display-anne-frank-city/70618482007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/08/18/USAT/3999021f-7aee-4492-a7da-36774c3e9b5b-AP23229490333490.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2023-08-18T16:29:06Z",
+            "content": "AMSTERDAM The city where Anne Frank wrote her World War II diary while hiding with her family from the brutal Nazi occupation is hosting an exhibition about the Ukraine war with grim echoes of her pl\u2026 [+3239 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Sara Murray",
-            "title": "Jeffrey Clark: Trump DOJ official urges judge to reject March 2024 trial date in Georgia case - CNN",
-            "description": "Former Justice Department official Jeffrey Clark \u2013 one of the 18 co-defendants indicted alongside Donald Trump in a sweeping racketeering case in Georgia \u2013 asked a judge Thursday to reject the Fulton County district attorney\u2019s proposed March 2024 trial date, \u2026",
-            "url": "https://www.cnn.com/2023/08/17/politics/jeffrey-clark-georgia-trial-date/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230814234854-jeffrey-clark-091420.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-18T01:59:00Z",
-            "content": "Former Justice Department official Jeffrey Clark one of the 18 co-defendants indicted alongside Donald Trump in a sweeping racketeering case in Georgia asked a judge Thursday to reject the Fulton Cou\u2026 [+2063 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Alexander Tin",
-            "title": "CDC tracking new COVID variant BA.2.86 after highly-mutated strain reported in Michigan - CBS News",
-            "description": "Cases of the new COVID variant BA.2.86 have been spotted in Michigan, Denmark and Israel.",
-            "url": "https://www.cbsnews.com/news/new-covid-variant-ba286-who-monitoring/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2020/07/07/3fb032bf-c33e-4fe1-9b18-5941b6605c51/thumbnail/1200x630/779701c26a47a373f7c7208e7656b9a3/gettyimages-1224535313.jpg?v=0b4ae642db52799a178d90d83603a9dc",
-            "publishedAt": "2023-08-18T01:23:00Z",
-            "content": "The U.S. Centers for Disease Control and Prevention announced Thursday it is tracking a recently discovered\u00a0COVID-19 strain, BA.2.86, after experts discovered a case of the highly-mutated strain in M\u2026 [+4795 chars]"
+            "author": "Benjamin Brown, Zahid Mahmood, Stephanie Busari, Mostafa Salem",
+            "title": "Cape Verde: Authorities 'left people to die' despite warnings about migrant boat weeks before tragedy, rights group alleges - CNN",
+            "description": "Four national authorities and the European Union\u2019s border patrol agency Frontex failed to make \u201csufficient\u201d efforts to prevent the deaths of dozens of migrants off West Africa, despite being warned about the boat weeks before, a Spanish human rights NGO alleg\u2026",
+            "url": "https://www.cnn.com/2023/08/18/world/cape-verde-migrant-death-boat-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230818103004-02-cape-verde-migrant-boat-081423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-18T16:23:00Z",
+            "content": "Four national authorities and the European Unions border patrol agency Frontex failed to make sufficient efforts to prevent the deaths of dozens of migrants off West Africa, despite being warned abou\u2026 [+1978 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hollywood Reporter"
+                "name": "New York Post"
             },
-            "author": "Carly Thomas",
-            "title": "David Spade Says He Refused to Swap Roles With David Bowie in \u2018SNL\u2019 Sketch - Hollywood Reporter",
-            "description": "The comedian-actor recalled pitching the sketch for a November 1991 episode, hosted by Macaulay Culkin with Bowie and Tin Machine as the musical guest.",
-            "url": "https://www.hollywoodreporter.com/tv/tv-news/david-spade-refused-swap-roles-david-bowie-snl-sketch-1235569617/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/David-Spade-and-David-Bowie.jpg?w=1024",
-            "publishedAt": "2023-08-18T01:08:38Z",
-            "content": "David Spade is revealing the time he turned down David Bowie\u2019s request to switch roles with him for a sketch on Saturday Night Live.\r\nDuring a recent episode of the Fly on the Wall podcast (recorded \u2026 [+2294 chars]"
+            "author": "Thomas Barrabi",
+            "title": "Why 'white noise' podcasts are costing Spotify $38M per year in profits - New York Post ",
+            "description": "\u201cWhite noise\u201d podcasts feature calm and relaxing sounds such as falling rain, crashing waves or just plain static.",
+            "url": "https://nypost.com/2023/08/18/why-white-noise-podcasts-are-costing-spotify-38m-per-year-in-profits/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000023494509.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-08-18T16:11:00Z",
+            "content": "Spotify is reportedly missing out on $38 million in annual profits because its users cant stop listening to white noise podcasts that are less lucrative for the company.\r\nWhite noise podcasts, which \u2026 [+2457 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "Space.com"
             },
-            "author": "Angelique Jackson",
-            "title": "\u2018Blue Beetle\u2019 Star Xolo Maridue\u00f1a Reflects on His DC Superhero Journey: \u2018It\u2019s Taken My Whole Life to Prepare for This Moment\u2019 - Variety",
-            "description": "Most people hit snooze when their alarm goes off at 3:30 a.m. Not \u201cBlue Beetle\u201d star Xolo Maridue\u00f1a, who leaped out of bed each day so he could head to set and begin the hourlong process of donning\u2026",
-            "url": "https://variety.com/2023/film/news/blue-beetle-xolo-mariduena-dc-superhero-1235698967/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/08/Xolo-Mariduena.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2023-08-18T00:44:12Z",
-            "content": "Most people hit snooze when their alarm goes off at 3:30 a.m. Not \u201cBlue Beetle\u201d star Xolo Maridue\u00f1a, who leaped out of bed each day so he could head to set and begin the hourlong process of donning h\u2026 [+12584 chars]"
+            "author": "Mike Wall",
+            "title": "India's Chandrayaan-3 snaps close-up photos of moon ahead of landing try (video) - Space.com",
+            "description": "Chandrayaan-3 is gearing up for a touchdown attempt on Aug. 23 or Aug. 24.",
+            "url": "https://www.space.com/india-chandrayaan-3-moon-photos-august-2023",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bSfB52kSeSs8zSxnXgnYn6-1200-80.jpg",
+            "publishedAt": "2023-08-18T16:01:44Z",
+            "content": "India's Chandrayaan-3 probe has captured more amazing imagery of the moon ahead of its historic touchdown try, which is just a few days away.\r\nChandrayaan-3 launched on July 14, on a mission to pull \u2026 [+2364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Ryan Erik King",
+            "title": "Ford Unveils 800-HP Race-Inspired Mustang GTD - Jalopnik",
+            "description": "The GTD features a semi-active inboard-mounted rear suspension and active aerodynamics",
+            "url": "https://jalopnik.com/ford-unveils-800-hp-race-inspired-mustang-gtd-1850751765",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7cb7eb95080561a93759ee93cb2881c4.jpg",
+            "publishedAt": "2023-08-18T15:50:00Z",
+            "content": "The often-said motorsport marketing mantra of win on Sunday, sell on Monday rarely ever rings true in an era of exotic composite materials and hybrid power units. Ford aims to reverse that trend with\u2026 [+1916 chars]"
         }
     ]
 }
