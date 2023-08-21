@@ -1,123 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "In talks with prosecutors, Hunter Biden's lawyers vowed to put the president on the stand - POLITICO",
-            "description": "A behind-the-scenes look at how a plea deal for the president\u2019s son nearly came together before it fell apart.",
-            "url": "https://www.politico.com/news/2023/08/19/hunter-biden-plea-deal-collapse-00111974",
-            "urlToImage": "https://static.politico.com/d0/bc/6d73581240928411f0147a62ca9f/https-delivery-gettyimages.com/downloads/1556768356",
-            "publishedAt": "2023-08-19T22:09:09Z",
-            "content": "President Biden now unquestionably would be a fact witness for the defense in any criminal trial, Clark wrote in a 32-page letter reviewed by POLITICO. \r\nThat letter, along with more than 300 pages o\u2026 [+27809 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": null,
-            "title": "2023 Women's World Cup final odds, time: Spain vs. England picks, predictions, bets by proven soccer expert - CBS Sports",
-            "description": "SportsLine soccer expert Martin Green has locked in his FIFA Women's World Cup 2023 picks and predictions for Sunday's final between the Spain La Roja and the England Lionesses",
-            "url": "https://www.cbssports.com/soccer/news/2023-womens-world-cup-final-odds-time-spain-vs-england-picks-predictions-bets-by-proven-soccer-expert/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/17/4fbdec38-3d83-4966-84ef-f694ea5dea98/thumbnail/1200x675/290a20cf492d106aa40201abd1869c9b/alexia-putellas-spain-getty-images.jpg",
-            "publishedAt": "2023-08-19T22:00:44Z",
-            "content": "One team will win its first ever Women's World Cup when Spain and England collide in the 2023 Women's World Cup final on Sunday at Stadium Australia in Sydney. Both La Roja and the Lionesses will be \u2026 [+4035 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Guardian staff reporter",
-            "title": "Russia reports \u2018abnormal situation\u2019 as Luna-25 tries to begin moon landing - The Guardian",
-            "description": "Roscosmos says spacecraft got in trouble while attempting to enter a pre-landing orbit targeting south pole",
-            "url": "https://www.theguardian.com/world/2023/aug/19/russia-reports-abnormal-situation-as-luna-25-tries-to-begin-moon-landing",
-            "urlToImage": "https://i.guim.co.uk/img/media/2244f4af032ae168594c6d4bf5f1e764eba359e3/0_0_945_567/master/945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=601b5fc8ae7be3cc4832ed4dba8892f4",
-            "publishedAt": "2023-08-19T21:54:00Z",
-            "content": "Russia has reported an abnormal situation on its moon-bound Luna-25 spacecraft, which launched earlier this month.\r\nThe countrys space agency, Roscosmos, said on Saturday that the spacecraft ran into\u2026 [+2671 chars]"
-        },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Samantha Chery",
-            "title": "Michael K. Williams drug dealer gets 10-year prison sentence - The Washington Post",
-            "description": "Michael K. Williams, an Emmy-nominated actor, died in 2021 of an accidental drug overdose after Irvin Cartagena sold him fentanyl-laced heroin.",
-            "url": "https://www.washingtonpost.com/arts-entertainment/2023/08/19/michael-k-williams-overdose-drug-dealer-sentenced/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/URAWWMAP7YI6ZOWKQ2YUJ7EKFU.jpg&w=1440",
-            "publishedAt": "2023-08-19T21:03:00Z",
-            "content": "Comment on this story\r\nComment\r\nIrvin Cartagena, a New York City man who sold Michael K. Williams fentanyl-laced heroin that led to the actors accidental overdose death, was sentenced Friday to 10 ye\u2026 [+1442 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Adam Sabes",
-            "title": "Maryland health officials report positive case of 'locally acquired' malaria - Fox News",
-            "description": "Maryland health officials said on Friday that a positive case of \"locally acquired\" malaria was detected in the National Capital Region.",
-            "url": "https://www.foxnews.com/health/maryland-health-officials-report-positive-case-locally-acquired-malaria",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/Mosquito.jpg",
-            "publishedAt": "2023-08-19T20:30:00Z",
-            "content": "Health officials in Maryland say that a positive case of \"locally acquired\" malaria was detected in the National Capital Region.\r\nThe Maryland Department of Health said it confirmed and reported the \u2026 [+1490 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mike Snider",
-            "title": "Nissan recall check: '20-'22 Sentras recalled for steering issue - USA TODAY",
-            "description": "Nissan is recalling more than 236,000 of its 2020-2022 Sentras because the front tie rods may bend and break, causing a loss of steering control.",
-            "url": "https://www.usatoday.com/story/money/cars/recalls/2023/08/19/nissan-recall-check-20-22-sentras-recall-steering-issue-tie-rods/70632457007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/19/USAT/70632586007-usatsi-13878956.jpg?crop=3502,1976,x0,y0&width=3200&height=1806&format=pjpg&auto=webp",
-            "publishedAt": "2023-08-19T19:55:55Z",
-            "content": "Nissan is recalling more than 236,000 Sentra sedans because the vehicles' front suspension tie rods may bend and break, causing drivers to lose steering control.\r\nThe automaker is recalling 236,238 o\u2026 [+1685 chars]"
+            "author": "Debby Waldman",
+            "title": "Acknowledging suicide as cause of death no longer taboo in obituaries - The Washington Post",
+            "description": "The reluctance to talk about suicide has many implications. Stigma also affects everything from how people grieve to how people help prevent it.",
+            "url": "https://www.washingtonpost.com/wellness/2023/08/20/suicide-obituary-grief-transparency/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7KCW3JL73QKL6XZ5VX3VUNWXBU.jpg&w=1440",
+            "publishedAt": "2023-08-20T12:38:11Z",
+            "content": "Comment on this story\r\nComment\r\nWhen Deborah and Warren Blums 16-year-old died by suicide in November 2021, they went into shock. For two days, the grief-stricken Los Angeles couple didnt sleep.\r\nBut\u2026 [+6425 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Vulture"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Alejandra Gularte",
-            "title": "'Blue Beetle' Box Office Earns $10 Million on Opening Day - Vulture",
-            "description": "DC Comics\u2019s \u2018Blue Beetle\u2019 earns $10 million on opening day and is on track to surpass \u2018Barbie\u2019 in ticket sales from this weekend.",
-            "url": "http://www.vulture.com/2023/08/blue-beetle-box-office.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/5f0/631/c3940a59a48386d2d86fc4f28c429bd8e0-blue-beetle.1x.rsocial.w1200.jpg",
-            "publishedAt": "2023-08-19T19:22:14Z",
-            "content": "The Scarab wasnt the only one who decided to latch onto the Blue Beetle; audiences are set to see the latest DC superhero movie starring Xolo Maridue\u00f1a, Becky G, and George Lopez. \u00c1ngel Manuel Sotos \u2026 [+572 chars]"
+            "author": "MIKE CORDER",
+            "title": "The Netherlands and Denmark will give F-16 fighter jets to Ukraine, the Dutch prime minister says - Yahoo News",
+            "description": "The Netherlands and Denmark will give F-16 warplanes to Ukraine as soon as Ukrainian crews and infrastructure are ready for the powerful U.S.-made jets...",
+            "url": "https://news.yahoo.com/ukraines-zelenskyy-netherlands-us-approved-101925319.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ODQ58DD12eh0L7TRcSSPiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/d6bae3e83dd7774bd9d7fc818640faac",
+            "publishedAt": "2023-08-20T12:27:20Z",
+            "content": "EINDHOVEN, Netherlands (AP) The Netherlands and Denmark will give F-16 warplanes to Ukraine as soon as Ukrainian crews and infrastructure are ready for the powerful U.S.-made jets, Dutch Prime Minist\u2026 [+1972 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Jeanine Santucci",
-            "title": "1 killed in Washington wildfires; hundreds of buildings burned - USA TODAY",
-            "description": "The fire broke out at about noon Friday and quickly spread due to wind and dry fuel, officials said.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/08/19/washington-wildfires-killed-evacuation-orders-buildings-burned/70632358007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/19/USAT/70632481007-f-32172-qb-iaa-ga-8-p.jfif?crop=639,361,x0,y72&width=639&height=361&format=pjpg&auto=webp",
-            "publishedAt": "2023-08-19T19:20:10Z",
-            "content": "At least one person was killed and thousands are under mandatory evacuation orders as fast-moving wildfires tear through eastern Washington and \"problematic\" weather is making it difficult for firefi\u2026 [+2103 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Steve Mollman",
-            "title": "Mark Cuban rejected an offer to make a $250,000 investment in Uber that\u2019d now be worth $2.3 billion - Fortune",
-            "description": "Cuban balked at Uber\u2019s cofounder valuing the startup at $10 million.",
-            "url": "https://fortune.com/2023/08/19/mark-cuban-skipped-uber-investment-250k-would-now-be-worth-billions/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/08/GettyImages-1448249195-e1692469895467.jpg?resize=1200,600",
-            "publishedAt": "2023-08-19T18:43:00Z",
-            "content": "Billionaire Mark Cuban had what he thought were good reasons for not investing in Uber in 2009. But nearly 15 years later, he still deeply regrets not doing so.In 2009, Uber cofounder Travis Kalanick\u2026 [+2509 chars]"
+            "author": "Aimee Lewis",
+            "title": "Spain wins Women's World Cup for the first time, beating England in Sydney - CNN",
+            "description": "",
+            "url": "https://www.cnn.com/2023/08/19/football/womens-world-cup-final-spain-england-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230820064227-09b-wwc-final.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-20T12:03:00Z",
+            "content": "History has been made. Against the odds and amid a backdrop of turmoil, Spain reached the pinnacle in Sydney on Sunday, deservedly beating England 1-0 to win the Womens World Cup for the first time. \u2026 [+1330 chars]"
         },
         {
             "source": {
@@ -125,25 +47,90 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "New shooting mars election campaign in Ecuador - BBC",
-            "description": "Another shootout prompts a call to tackle gang violence ahead of Sunday's presidential vote.",
-            "url": "https://www.bbc.com/news/world-latin-america-66559621",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/79D0/production/_130848113_mediaitem130848111.jpg",
-            "publishedAt": "2023-08-19T18:13:10Z",
-            "content": "A candidate in Sunday's presidential election in violence-hit Ecuador has called for an investigation after shooting erupted near a restaurant where he was having breakfast.\r\nOtto Sonnenholzner, a co\u2026 [+2322 chars]"
+            "title": "Niger coup leader Gen Tchiani promises to handover power in three years - BBC",
+            "description": "Gen Tchiani said that Niger did not want a war but would defend itself against foreign intervention.",
+            "url": "https://www.bbc.com/news/world-africa-66562765",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17A25/production/_130850869_d07b18fd8f48571df3f910d8c20fbb9f9a3a62ef0_0_1920_10801000x563.jpg",
+            "publishedAt": "2023-08-20T11:26:35Z",
+            "content": "Niger's coup leader has promised to return the West African nation to civilian rule within three years.\r\nGen Abdourahamane Tchiani made the announcement after meeting mediators from the West African \u2026 [+2853 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Dan Heching",
-            "title": "Britney Spears says she 'couldn't take the pain anymore' as she addresses divorce from Sam Asghari - CNN",
-            "description": "Britney Spears has shared some thoughts about her split from Sam Asghari.",
-            "url": "https://www.cnn.com/2023/08/19/entertainment/britney-spears-sam-asghari-divorce-comment/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230819132007-02-britney-spears-sam-asghari-file-2019.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-19T17:49:00Z",
-            "content": "Britney Spears has shared some thoughts about her split from Sam Asghari.\r\nThe entertainer posted a dance video to her verified Instagram on Friday night, and in the caption, she wrote, As everyone k\u2026 [+1936 chars]"
+            "author": "Arlette Saenz",
+            "title": "First on CNN: Biden wades into GOP primary with $25 million ad blitz, starting with economy focus - CNN",
+            "description": "President Joe Biden is preparing to blanket the airwaves with a $25 million television and digital ad campaign in battleground states this month as Republicans are set to face off in their first presidential primary debate.",
+            "url": "https://www.cnn.com/2023/08/20/politics/joe-biden-2024-republican-primary/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230816091017-03-joe-biden-081523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-20T11:10:00Z",
+            "content": "President Joe Biden is preparing to blanket the airwaves with a $25 million television and digital ad campaign in battleground states this month as Republicans are set to face off in their first pres\u2026 [+5264 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Putin Turns to Ruble and Ballot to Shore Up Shaken Authority - Bloomberg",
+            "description": "Russia\u2019s central bank is racing to stabilize the ruble ahead of an election seen as key to restoring Putin\u2019s authority after the Wagner mutiny.",
+            "url": "https://www.bloomberg.com/news/articles/2023-08-20/putin-turns-to-ruble-and-ballot-to-shore-up-shaken-authority",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVLhC59KQT1s/v1/1200x800.jpg",
+            "publishedAt": "2023-08-20T11:01:50Z",
+            "content": "Sign up to receive the Balance of Power newsletter in your inbox, and follow Bloomberg Politics on Twitter and Facebook for more.\r\nThe ruble is slumping, the shock of a failed mutiny has yet to fade \u2026 [+73 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "The Bucks county commission race will tell us which party will has the upper hand in 2024 - POLITICO - POLITICO",
+            "description": "\"As Bucks County goes, Pennsylvania will go.\"",
+            "url": "https://www.politico.com/news/2023/08/20/bucks-county-pennsylvania-2024-00111933",
+            "urlToImage": "https://static.politico.com/49/73/3816f40e4a5396e6be4a4da53b0e/230818-bob-harvie-politico.jpg",
+            "publishedAt": "2023-08-20T11:00:00Z",
+            "content": "This year it is home to a local race that has the hallmarks of a race for national office: Candidates sparring over book bans in schools, crime and public safety, and the security of democracy in the\u2026 [+7208 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox News",
+            "title": "Florida officials report five deaths from 'flesh-eating' bacteria in Tampa Bay since January - New York Post ",
+            "description": "According to\u00a0Florida Health,\u00a0the vibrio vulnificus bacterium\u2019s natural habitat is in warm, brackish seawater because it requires salt to live.",
+            "url": "https://nypost.com/2023/08/20/florida-reports-five-deaths-from-flesh-eating-bacteria-in-tampa-bay-since-january/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-kbqv6bzw7-1692521530672.jpg?quality=75&strip=all&1692507158&w=1024",
+            "publishedAt": "2023-08-20T09:15:00Z",
+            "content": "Five people are confirmed dead in the Tampa Bay area because of a\u00a0flesh-eating bacterium\u00a0known to lurk at beaches, Florida officials reported.\r\nAccording to\u00a0Florida Health,\u00a0the vibrio vulnificus bact\u2026 [+3214 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Yulia Kesaieva, Josh Pennington, Sophie Tanno",
+            "title": "Drone crashes into Russian railway station, leaving 5 injured - CNN",
+            "description": "A Ukrainian drone crashed into the roof of a railway station in the western Russian city of Kursk early Sunday morning, injuring five people and causing damage to the building, according to the regional governor.",
+            "url": "https://www.cnn.com/2023/08/20/europe/kursk-railway-station-drone-attack-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230820022702-01-kursk-railway-station-strike-intl-082023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-20T09:01:00Z",
+            "content": "A Ukrainian drone crashed into the roof of a railway station in the western Russian city of Kursk early Sunday morning, injuring five people and causing damage to the building, according to the regio\u2026 [+1515 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "China vows to coordinate support to resolve local government debt risks - Reuters",
+            "description": "China will coordinate financial support to resolve local government debt problems, the central bank said in a statement on Sunday, as policymakers look to shore up an increasingly shaky economic recovery and reassure worried investors.",
+            "url": "https://www.reuters.com/world/asia-pacific/china-vows-coordinate-support-resolve-local-government-debt-risks-2023-08-20/",
+            "urlToImage": "https://www.reuters.com/resizer/3JCEPP2_6D6ru9ryFOEwfB0yf7U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BP2JG22CANPRDIKLLNMWPRTN7U.jpg",
+            "publishedAt": "2023-08-20T08:46:00Z",
+            "content": "BEIJING, Aug 20 (Reuters) - China will coordinate financial support to resolve local government debt problems, the central bank said in a statement on Sunday, as policymakers look to shore up an incr\u2026 [+3113 chars]"
         },
         {
             "source": {
@@ -151,116 +138,129 @@
                 "name": "Al Jazeera English"
             },
             "author": "Al Jazeera",
-            "title": "Mass evacuations as wildfires rip through western Canada - Al Jazeera English",
-            "description": "Devastation in British Columbia province and Northwest Territories is the latest in wildfires across the country.",
-            "url": "https://www.aljazeera.com/news/2023/8/19/mass-evacuations-as-wildfires-rip-through-western-canada",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-08-19T143345Z_372780065_RC2XQ2AO6R35_RTRMADP_3_CANADA-WILDFIRES-1692463385.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-08-19T17:33:26Z",
-            "content": "Firefighters battled raging wildfires that encroached on two metropolitan areas in western Canada blazes that have sent tens of thousands fleeing over the course of just days.\r\nAn out-of-control fire\u2026 [+2313 chars]"
+            "title": "Messi magic wins Inter Miami first trophy - Al Jazeera English",
+            "description": "The Argentinian captain scored a screamer as Inter Miami beat Nashville on penalties to win the Leagues Cup.",
+            "url": "https://www.aljazeera.com/sports/2023/8/20/messi-magic-leads-inter-miami-to-first-trophy-leagues-cup",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/33RR3AD-highres-1692514049.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-08-20T08:44:33Z",
+            "content": "Lionel Messi scored a screamer and won his first trophy in North American football as Inter Miami beat Nashville on penalties (10-9) after their Leagues Cup final ended 1-1 in 90 minutes.\r\nThe Argent\u2026 [+4425 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Bryan Pietsch, Annabelle Timsit",
+            "title": "Ukraine live briefing: Zelensky vows response after Chernihiv strike kills 7; drone strikes in Russia - The Washington Post",
+            "description": "The attack on a theater in Chernihiv, some 80 miles north of Kyiv, left at least 7 dead and injured more than 140 people.",
+            "url": "https://www.washingtonpost.com/world/2023/08/20/russia-ukraine-war-news/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ORCNCLYHZDCUZSB4AZJTOEF76A_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-08-20T08:40:10Z",
+            "content": "Ukrainian President Volodymyr Zelensky said that the military would respond tangibly to an attack on the northern city of Chernihiv, which killed at least seven people, including a 6-year-old child. \u2026 [+5429 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh, Gene Norman",
+            "title": "Category 1 Hurricane Hilary barrels toward California, still threatening floods and damaging winds - CNN",
+            "description": "Hurricane Hilary is expected to slam into Southern California on Sunday as a rare tropical storm, unleashing floods, fierce winds and heavy downpours as residents evacuate, parks and beaches close and first responders brace for water rescues.",
+            "url": "https://www.cnn.com/2023/08/20/weather/hurricane-hilary-california-southwest-tropical-storm-sunday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230820003147-02-hurricane-hilary-0820-satellite.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-20T07:53:00Z",
+            "content": "Hurricane Hilary is expected to slam into Southern California on Sunday as a rare tropical storm, unleashing floods, fierce winds and heavy downpours as residents evacuate, parks and beaches close an\u2026 [+6300 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Netcarshow.com"
             },
-            "author": "Kaitlin Reilly",
-            "title": "Charlize Theron responds to rumors she's had a facelift: 'B****, I'm just aging!' - Yahoo Life",
-            "description": "The Oscar winner spoke about the struggles of getting older in the industry.",
-            "url": "https://www.yahoo.com/lifestyle/charlize-theron-responds-rumors-shes-170103725.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ncIg75L5K_kMbxb3UP_vwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/88bf5af0-3e4d-11ee-9feb-039f84afb1a2",
-            "publishedAt": "2023-08-19T17:01:03Z",
-            "content": "Charlize Theron\r\n isnt making any tweaks to her face but the natural aging process is.\r\nThe Monster star, 48, spoke to \r\nAllure\r\n\u00a0about the rumors that she had facial plastic surgery due to perceived\u2026 [+1925 chars]"
+            "author": null,
+            "title": "Lotus Type 66 (2024) - pictures, information & specs - NetCarShow.com",
+            "description": "Lotus Type 66 has benefitted from more than half a century of technical progress since it was imagined to optimise its design, engineering and manufacture.",
+            "url": "https://www.netcarshow.com/lotus/2024-type_66/",
+            "urlToImage": "https://www.netcarshow.com/Lotus-Type_66-2024-wallpaper.jpg",
+            "publishedAt": "2023-08-20T07:14:49Z",
+            "content": "Lotus has brought history back to life with the world premiere of the Type 66 - and confirmed the stunning track-only car will go into production.\r\nThis unique project was unveiled at 'The Quail, A M\u2026 [+6959 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "The Athletic"
             },
-            "author": null,
-            "title": "Which arm gets the Covid-19 booster may make a difference, study shows - CBS News",
-            "description": "Right or left? The arm in which you get your Covid-19 booster may increase the amount of immune cells you produce.",
-            "url": "https://www.cbsnews.com/texas/news/which-arm-gets-the-covid-19-booster-may-make-a-difference-study-shows/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/19/d49c4cbe-3381-409b-9dca-0e156fbf51c1/thumbnail/1200x630/527af9ebee8b78782d41401747ba0d32/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbgxnb2p2cjawmdezm2i2zmuzzthwbjn2-l19wywdlcy9jbgxnbndzz2mwmdawnddwnmrlmghjctz6.jpg?v=0b4ae642db52799a178d90d83603a9dc",
-            "publishedAt": "2023-08-19T17:00:22Z",
-            "content": "(CNN) - When you go to get your newly updated Covid-19 booster this fall, you might want to choose the arm the vaccine goes in carefully.\r\nThe immune response may be stronger if your booster goes in \u2026 [+3332 chars]"
+            "author": "Matt Schneidman",
+            "title": "Packers, Patriots players react to game being suspended after Isaiah Bolden injury - The Athletic",
+            "description": "The Packers and Patriots stopped playing with 10:29 remaining in Saturday's preseason game after Bolden was stretchered off.",
+            "url": "https://theathletic.com/4790080/2023/08/20/packers-patriots-react-isaiah-bolden-injury/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/20014024/AP23232118156782-scaled-e1692510053418.jpg",
+            "publishedAt": "2023-08-20T05:47:48Z",
+            "content": "GREEN BAY, Wis. Packers and Patriots knelt on the field as medical personnel prepared to load New England cornerback Isaiah Bolden onto a stretcher late Saturday night. Bolden, a rookie seventh-round\u2026 [+6572 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Dana Kennedy",
-            "title": "Colleagues of convicted 'Killer Nurse' Lucy Letby had to apologize for warning hospital about dead babies on her watch: report - New York Post ",
-            "description": "Colleagues of convicted \u201cKiller Nurse\u201d Lucy Letby were made to apologize after repeatedly warning their UK hospital that she might have been behind several unexplained baby deaths.",
-            "url": "https://nypost.com/2023/08/19/colleagues-of-convicted-killer-nurse-lucy-letby-had-to-apologize-for-warning-hospital-about-her-report/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000025040856.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-08-19T16:55:00Z",
-            "content": "Colleagues of convicted \u201cKiller Nurse\u201d Lucy Letby were forced to apologize after repeatedly warning their UK hospital that she might have been behind several unexplained baby deaths.\r\nSenior doctors \u2026 [+3992 chars]"
+            "author": "Nicholas McEntyre",
+            "title": "Emmy-winning 'This Is Us' actor Ron Cephas Jones dead at 66 - New York Post ",
+            "description": "Jones was best known for his role as William Hill on the NBC drama \u201cThis Is Us,\u201d where he won two Emmy Awards for Outstanding Guest Actor in a Drama Series in 2018 and 2020.",
+            "url": "https://nypost.com/2023/08/20/ron-cephas-jones-emmy-winning-this-is-us-actor-dead-at-66/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-qaq433vp8-1692508316945.jpg?quality=75&strip=all&1692493981&w=1024",
+            "publishedAt": "2023-08-20T05:29:00Z",
+            "content": "Ron Cephas Jones, the two-time Emmy Award-winning and Tony Award-nominated actor, has died at 66 years old.\r\nJones had a \u201clong-standing pulmonary issue,\u201d a representative for the late actor told Peop\u2026 [+3821 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Providence Journal"
+                "id": "espn",
+                "name": "ESPN"
             },
-            "author": "Patrick Anderson, Katie Landeck",
-            "title": "Live: State of Emergency on Block Island after hotel fire - The Providence Journal",
-            "description": "The fire is believed to have originated in the kitchen of the Harborside Inn. It is under control and under investigation at this time.",
-            "url": "https://www.providencejournal.com/story/news/fire/2023/08/19/live-state-of-emergency-on-block-island-after-hotel-fire-rhode-island-harborside-inn/70630867007/",
-            "urlToImage": "https://www.providencejournal.com/gcdn/authoring/authoring-images/2023/08/19/NPRJ/70630881007-img-1856.jpg?crop=2268,4031,x302,y0&width=2268&height=2278&format=pjpg&auto=webp",
-            "publishedAt": "2023-08-19T16:41:15Z",
-            "content": "Water currently limited on Block Island, residents and visitors asked to conserve water\r\nThe Town of New Shoreham has asked all residents and visitors on the island to conserve water over the next 48\u2026 [+4380 chars]"
+            "author": "Marc Raimondi",
+            "title": "Sean O'Malley takes Aljamain Sterling's title in 2nd-round TKO at UFC 292 - ESPN - ESPN",
+            "description": "Sean O'Malley caught Aljamain Sterling with a perfect right hand and rolled to a TKO finish in Round 2 to capture the bantamweight crown Saturday night at UFC 292.",
+            "url": "https://www.espn.com/mma/story/_/id/38225248/sean-omalley-takes-aljamain-sterling-title-2nd-round-tko-ufc-292",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0820%2Fr1213072_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-08-20T05:27:00Z",
+            "content": "BOSTON -- Sean O'Malley climbed out of the Octagon, spread his arms wide and took a beer from a fan. He chugged it as the TD Garden rocked with cheering fans.\r\nThe UFC has a new superstar. Welcome to\u2026 [+4002 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WREG NewsChannel 3"
+                "name": "New York Post"
             },
-            "author": "Megan Fayard",
-            "title": "COVID-19 cases on the rise in Shelby County - WREG NewsChannel 3",
-            "description": "MEMPHIS, Tenn. \u2014 COVID-19 incidence has increased moderately since mid-July according to the Shelby County Health Department Office of Epidemiology. COVID-19 public health indicators are continuing to be monitored to track virus activity in the community. Rep\u2026",
-            "url": "https://wreg.com/news/local/covid-19-cases-on-the-rise-in-shelby-county/",
-            "urlToImage": "https://wreg.com/wp-content/uploads/sites/18/2023/08/648ccae15ec788.85070350.jpeg?w=1280",
-            "publishedAt": "2023-08-19T16:28:09Z",
-            "content": "MEMPHIS, Tenn. COVID-19 incidence has increased moderately since mid-July according to the Shelby County Health Department Office of Epidemiology.\r\nCOVID-19 public health indicators are continuing to\u2026 [+3142 chars]"
+            "author": "Jack Morphet, Katherine Donlevy",
+            "title": "Maui rescuers compare aftermath of wildfires to 9/11 and Ground Zero - New York Post ",
+            "description": "The aftermath of the apocalyptic wildfires that ravaged the island of Maui is \u201cnot unlike 9/11\u201d for Hawaiian first responders, some of whom have experienced the toll of both tragedies f\u2026",
+            "url": "https://nypost.com/2023/08/20/maui-fema-rescuers-compares-wildfire-aftermath-to-9-11-ground-zero/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-1uox3pnrp-1692504694243.jpg?quality=75&strip=all&1692490473&w=1024",
+            "publishedAt": "2023-08-20T04:38:00Z",
+            "content": "LAHAINA, Hawaii \u2014 The aftermath of the apocalyptic wildfires that ravaged the island of Maui is \u201cnot unlike 9/11\u201d for Hawaiian first responders, some of whom have experienced the toll of both tragedi\u2026 [+5121 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Reuters",
-            "title": "Russia's Luna-25 spacecraft suffers technical glitch, space agency says - Yahoo! Voices",
-            "description": "The Russian spacecraft is scheduled to land on the south pole of the moon on Monday, part of a big power race to explore a part of the moon which scientists ...",
-            "url": "https://news.yahoo.com/russias-luna-25-spacecraft-produces-130746279.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/723806359d2698a530ca60af0a5058d6",
-            "publishedAt": "2023-08-19T16:24:03Z",
-            "content": "(Reuters) -An \"abnormal situation\" occurred at Russia's Luna-25 spacecraft on Saturday as it was preparing to transfer to its pre-landing orbit, Russia's national space agency Roskosmos said.\r\nThe Ru\u2026 [+1677 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Maui Now"
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "Maui wildfire disaster updates for Aug. 19: Death toll at 114; Fires are still raging but not spreading - Maui Now",
-            "description": "Hawaii's source for local Maui News, Events, Breaking News, Real Estate, and Community Information.",
-            "url": "https://mauinow.com",
-            "urlToImage": null,
-            "publishedAt": "2023-08-19T16:08:00Z",
-            "content": null
+            "title": "Turbulent Plasma: Uncovering the Source of the Universe's Magnetic Fields - SciTechDaily",
+            "description": "The source of magnetic fields has long been debated. New research offers clues on their origins. It isn\u2019t just your refrigerator that has magnets on it. The earth, the stars, galaxies, and the space between galaxies are all magnetized, too. The more places sc\u2026",
+            "url": "https://scitechdaily.com/?p=300538",
+            "urlToImage": "https://scitechdaily.com/images/Galactic-Magnetic-Field-Concept-Art.jpg",
+            "publishedAt": "2023-08-20T04:21:06Z",
+            "content": "ByColumbia UniversityAugust 19, 2023\r\nColumbia researchers have found that magnetic fields across the universe may originate in turbulent plasma. Their study demonstrates that these plasmas, present \u2026 [+3255 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "nj.com"
             },
-            "author": null,
-            "title": "20 MORE Things You Didn't Know in Baldur's Gate 3 - GameSpot",
-            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-            "url": "https://www.youtube.com/watch?v=Sir5GxVfMNE",
-            "urlToImage": null,
-            "publishedAt": "2023-08-19T16:00:22Z",
-            "content": null
+            "author": "Holiday Mathis",
+            "title": "Today\u2019s daily horoscope for Aug. 20, 2023 - NJ.com",
+            "description": "Zodiac signs and horoscopes on 8/20/2023 for Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn.",
+            "url": "https://www.nj.com/advice/2023/08/todays-daily-horoscope-for-aug-20-2023.html",
+            "urlToImage": "https://www.nj.com/resizer/y0GkxcEcKp6NoyUc0LAtx7APmMY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SAGJVB5QCZCNFBN2U2NE2O4GTE.png",
+            "publishedAt": "2023-08-20T04:01:00Z",
+            "content": "Anticipating the Retrograde\r\nThings get more complicated as we near the astrological season change and Mercurys retrograde. But for today, Mercury is flying straight and the Leo sun is shining like a\u2026 [+4100 chars]"
         }
     ]
 }
