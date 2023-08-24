@@ -1,188 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "Teamster members ratify deal at UPS, putting strike threat to rest - CNN",
+            "description": "Rank-and-file members of the Teamsters union have overwhelmingly ratified a five-year deal with UPS, putting an end to the threat of a crippling strike.",
+            "url": "https://www.cnn.com/2023/08/22/business/ups-strike-vote-teamsters-union/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230821154737-ups-delivery-truck-0630.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-23T00:22:00Z",
+            "content": "Rank-and-file members of the Teamsters union have overwhelminglyratified a five-year deal with UPS, putting an end to the threat of a crippling strike.\r\nThe union said 86% of members had voted for th\u2026 [+4030 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "WCVB Boston"
+                "name": "Slashdot.org"
             },
             "author": null,
-            "title": "Screen time linked with developmental delays in toddlerhood, study finds - WCVB Boston",
-            "description": "Handing your baby a phone or tablet to play with may seem like a harmless solution when you're busy, but it could quickly affect their development, a new study has found.",
-            "url": "https://www.wcvb.com/article/screen-time-developmental-delays-toddlerhood-study/44868546",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbgxredj0c2kwmda2m2i2zmkyohvhajc1-l19wywdlcy9jbgxredfnnhkwmdawytdwnta2a241z29k-preview-1692636006554125988.JPG?crop=0.99911111111111106xw:1xh;center,top&resize=1200:*",
-            "publishedAt": "2023-08-22T12:02:00Z",
-            "content": "Handing your baby a phone or tablet to play with may seem like a harmless solution when you're busy, but it could quickly affect their development, a new study has found.\r\nHaving anywhere from one to\u2026 [+7254 chars]"
+            "title": "Microsoft Announces Python In Excel - Slashdot",
+            "description": "theodp writes: On Tuesday, Microsoft announced the Public Preview of Python in Excel, which \"runs securely on the Microsoft Cloud\".  From the Home Office in Redmond: \"Python is one of the most popular programming languages today, loved by businesses and stude\u2026",
+            "url": "https://developers.slashdot.org/story/23/08/22/1425228/microsoft-announces-python-in-excel",
+            "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+            "publishedAt": "2023-08-22T23:47:14Z",
+            "content": "On Tuesday, Microsoft announced the Public Preview of Python in Excel, which \"runs securely on the Microsoft Cloud\".From the Home Office in Redmond: \"Python is one of the most popular programming lan\u2026 [+1762 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "espn",
+                "name": "ESPN"
             },
-            "author": "Jackie Wattles",
-            "title": "Russia\u2019s lander crashing into the moon may signal another shift in the space race, experts say - CNN",
-            "description": "Russia\u2019s big lunar lander setback and moon exploration efforts by other countries like India show just how much the global space scene is changing.",
-            "url": "https://www.cnn.com/2023/08/22/world/russia-luna-25-chandrayaan-3-global-space-race-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230821151945-russia-luna-25-crash-landing-engine-issue.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-22T11:55:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA Russian spacecraft malfunctioned over the weekend, s\u2026 [+7916 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BuzzFeed News"
-            },
-            "author": "Leyla Mohammed",
-            "title": "Ariana Grande And Demi Lovato Have Reportedly Cut Ties With Scooter Braun - BuzzFeed News",
-            "description": "During a 2018 interview, Scooter revealed that Ariana \u2014 who signed with his company back in 2013 \u2014 once temporarily fired him from his position as her manager.",
-            "url": "https://www.buzzfeednews.com/article/leylamohammed/ariana-grande-demi-lovato-cut-ties-scooter-braun-report",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-08/22/11/enhanced/7b192b1b7660/original-634-1692702379-2.jpg?crop=1243:651;3,8%26downsize=1250:*",
-            "publishedAt": "2023-08-22T11:42:50Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Sam Levin",
-            "title": "Man who fatally shot California store owner tore down her Pride flag and shouted slurs - The Guardian US",
-            "description": "Shooter had history of posting hateful content online, sheriff says, and shot Laura Ann Carleton with gun not registered to him",
-            "url": "https://www.theguardian.com/us-news/2023/aug/22/man-shot-california-store-owner-tore-down-pride-flag-shouted-slurs",
-            "urlToImage": "https://i.guim.co.uk/img/media/8288e9c456f69326f9f71a8327b19ad9a98c6406/0_243_8256_4954/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=adbc5a90c111ad6a050bb9b06eb6d420",
-            "publishedAt": "2023-08-22T11:36:00Z",
-            "content": "A 27-year-old man who fatally shot a store owner in California had torn down her Pride flag and shouted homophobic slurs, officials said on Monday.\r\nLaura Ann Carleton, 66, who went by Lauri, died at\u2026 [+3214 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Hartley Charlton",
-            "title": "iPhone 15 Pro Models Expected to Be $100 to $200 More Expensive - MacRumors",
-            "description": "The iPhone 15 Pro and iPhone 15 Pro Max will be at least $100 more expensive than their predecessors, according to DigiTimes.   The iPhone 14 Pro...",
-            "url": "https://www.macrumors.com/2023/08/22/iphone-15-pro-models-expected-to-be-more-expensive/",
-            "urlToImage": "https://images.macrumors.com/t/FO9gzobcEwBH8UOM0tt-PstbPhw=/2500x/article-new/2023/02/iPhone-15-Pro-Burgandy-Feature.jpg",
-            "publishedAt": "2023-08-22T11:12:18Z",
-            "content": "The iPhone 15 Pro and \u200ciPhone 15 Pro\u200c Max will be at least $100 more expensive than their predecessors, according to DigiTimes.\r\nThe iPhone 14 Pro starts at $999 and the \u200ciPhone 14 Pro\u200c Max starts at\u2026 [+1079 chars]"
+            "author": "Jesse Rogers",
+            "title": "White Sox fire vice president Ken Williams, GM Rick Hahn - ESPN - ESPN",
+            "description": "Vice president Ken Williams and senior vice president and general manager Rick Hahn were fired by the Chicago White Sox on Tuesday, the team announced in a social media post, with owner Jerry Reinsdorf saying \"this is an incredibly difficult decision.\"",
+            "url": "https://www.espn.com/mlb/story/_/id/38241494/white-sox-fire-vice-president-ken-williams-gm-rick-hahn",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0822%2Fr1214253_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-08-22T23:14:00Z",
+            "content": "CHICAGO -- The Chicago White Sox fired executive vice president Ken Williams and general manager Rick Hahn, effective immediately, the team announced Tuesday with a news release and social media post\u2026 [+2930 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Natasha Turak",
-            "title": "Ukraine war live updates: Ukraine reportedly destroys supersonic Russian bomber; drones damage Moscow apartments - CNBC",
-            "description": "Kyiv has not commented on or publicly taken responsibility for the attacks.",
-            "url": "https://www.cnbc.com/2023/08/22/russia-ukraine-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107289866-1692690324373-gettyimages-1615362924-AFP_33T44MM.jpeg?v=1692703500&w=1920&h=1080",
-            "publishedAt": "2023-08-22T11:11:00Z",
-            "content": "The chief of Russia's Wagner private military company, Yevgeniy Prigozhin, appeared in a video published by Wagner-affiliated channels on Telegram. The footage appears to be Prigozhin's first video a\u2026 [+1258 chars]"
+            "author": "Julie Coleman",
+            "title": "Cramer says tech has a 'well-deserved premium' because of stocks like Nvidia - CNBC",
+            "description": "CNBC's Jim Cramer on Tuesday reaffirmed his belief in the value of tech stocks.",
+            "url": "https://www.cnbc.com/2023/08/22/cramer-cites-nvidia-for-well-deserved-premium-of-tech-stocks.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104766841-IMG_9442r-jim-cramer.jpg?v=1692745354&w=1920&h=1080",
+            "publishedAt": "2023-08-22T23:02:34Z",
+            "content": "CNBC's Jim Cramer on Tuesday reiterated his faith in tech stocks, especially Nvidia and its \"Magnificent Seven\" peers.\r\nCramer recognized that some investors question how tech shares are so pricey, e\u2026 [+1517 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Gabrielle Fonrouge",
-            "title": "Dick's shares fall 20% as retailer slashes outlook over theft concerns - CNBC",
-            "description": "Dick's Sporting Goods says it's grappling with an uptick in retail theft that contributed to a 23% drop in profits, prompting it to slash its full year outlook.",
-            "url": "https://www.cnbc.com/2023/08/22/dicks-sporting-goods-dks-earnings-q2-2023.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106933062-1629904192057-gettyimages-1229750868-DICKS_SPORTING_EARNS.jpeg?v=1692702080&w=1920&h=1080",
-            "publishedAt": "2023-08-22T11:01:20Z",
-            "content": "Dick's Sporting Goods reported a 23% drop in profits and slashed its earnings guidance for the year after it saw an uptick in retail theft and slow sales in its outdoor category, the company announce\u2026 [+4844 chars]"
+            "author": "Scott Pianowski",
+            "title": "Fantasy Football Rankings: Quarterback draft tiers, including salary cap values - Yahoo Sports",
+            "description": "Scott Pianowski examines the 2023 fantasy quarterback landscape, breaking down the position into tiers to help you get ready.",
+            "url": "https://sports.yahoo.com/fantasy-football-rankings-quarterback-draft-tiers-including-salary-cap-values-224615684.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7SXY.Espt6.q43hdZLErtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/0ffae7c0-2fe2-11ee-b9f7-8154c72b30af",
+            "publishedAt": "2023-08-22T22:46:15Z",
+            "content": "For years, we've talked about the quarterback disconnect between real-life and fantasy football. NFL life is all about the quarterback. Fantasy football is about so many things before the quarterback\u2026 [+6692 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Namitha Jagadeesh, Farah Elbahrawy",
-            "title": "Stock Market Today: Dow, S&P Live Updates for August 22 - Bloomberg",
-            "description": "Global equities staged a rebound, with tech in focus as Nvidia Corp. signaled further gains before its earnings report this week.",
-            "url": "https://www.bloomberg.com/news/articles/2023-08-21/stock-market-today-dow-s-p-live-updates",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/it9FA4jqZNwE/v0/1200x934.jpg",
-            "publishedAt": "2023-08-22T10:55:02Z",
-            "content": "Global equities staged a rebound, with tech in focus as Nvidia Corp. signaled further gains before its earnings report this week.\r\nContracts on the tech-heavy Nasdaq 100 Index rose 0.8%, while Europe\u2026 [+197 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ben Morse",
-            "title": "Christian Pulisic: US captain scores sensational goal on AC Milan debut - CNN",
-            "description": "US Men\u2019s National Team captain Christian Pulisic scored a sensational goal on his AC Milan debut on Monday night.",
-            "url": "https://www.cnn.com/2023/08/22/sport/christian-pulisic-ac-milan-debut-bologna-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230822103327-02-christian-pulisic-debut-goal-ac-milan.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-22T10:53:00Z",
-            "content": "US Mens National Team captain Christian Pulisic scored a sensational goal on his debut for Italian side AC Milan on Monday night.\r\nPulisic, who joined the Rossoneri from Chelsea earlier in the summer\u2026 [+1885 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Ruxandra Iordache",
-            "title": "Srettha Thavisin elected Thailand's new prime minister after months of political deadlock - CNBC",
-            "description": "Thailand has been administered by a caretaker government since March, with its parliament in deadlock.",
-            "url": "https://www.cnbc.com/2023/08/22/srettha-thavisin-elected-thailands-new-prime-minister-after-parliamentary-vote.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107289781-1692667221859-gettyimages-1490104671-vp1_0936_b0niftni.jpeg?v=1692699572&w=1920&h=1080",
-            "publishedAt": "2023-08-22T10:19:32Z",
-            "content": "The Pheu Thai Party's Srettha Thavisin will become Thailand's prime minister after clinching parliamentary support in a Tuesday vote.\r\nSrettha, a real estate mogul who entered the Thai political land\u2026 [+3114 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Sabrina Escobar, Callum Keown",
-            "title": "Lowe's Beats Earnings Expectations, Sticks to Full-Year Guidance - Barron's",
-            "description": "The company reports earnings per share of $4.56 in the quarter, beating FactSet expectations for $4.47.",
-            "url": "https://www.barrons.com/articles/lowes-earnings-stock-price-bfcd1050",
-            "urlToImage": "https://images.barrons.com/im-839134/social",
-            "publishedAt": "2023-08-22T10:15:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Sophia Saifi, Rhea Mogul, Irene Nasser",
-            "title": "Children trapped 900 feet in air when chairlift cable snaps in Pakistan's northwest - CNN",
-            "description": "An urgent rescue effort is underway in Pakistan for six children and two adults trapped in a chairlift dangling 900 feet over a mountainous region in the country\u2019s northwest.",
-            "url": "https://www.cnn.com/2023/08/22/asia/pakistan-chairlift-rescue-children-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230822154015-children-trapped-pakistan.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-22T10:10:00Z",
-            "content": "An urgent rescue effort is underway in Pakistan for six children and two adults trapped in a chairlift dangling 900 feet (274 meters) over a mountainous region in the countrys northwest. \r\nThe childr\u2026 [+1768 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "Shh! Don't say 'abortion.' Texas quietly softens its ban on the procedure : Shots - Health News - NPR",
-            "description": "Starting Sept. 1, limited abortion care will be legal in Texas in two pregnancy circumstances. Getting that through the conservative Texas legislature required \"masterful and discreet\" lawmaking.",
-            "url": "https://www.npr.org/sections/health-shots/2023/08/22/1195115865/texas-abortion-bans-softened-quietly",
-            "urlToImage": "https://media.npr.org/assets/img/2023/08/21/ap23146713947178_wide-ffe47431bab4a8feb70dd6ce91518ba0b676b201-s1400-c100.jpg",
-            "publishedAt": "2023-08-22T09:00:23Z",
-            "content": "Rep. Ann Johnson, a Democrat from Houston, authored a Texas law that doctors say will be life-saving for women with two pregnancy complications. She worked across the aisle with the author of S.B. 8.\u2026 [+12455 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Josh Marcus",
-            "title": "Tropical Storm Hilary brings Death Valley one year's rain in a day - latest - The Independent",
-            "description": "Post-tropical storm Hilary marches northward, prompting flood watches and warnings in half a dozen states, while Tropical Storm Harold barrels towards Texas",
-            "url": "https://www.independent.co.uk/climate-change/news/storm-hilary-latest-update-southern-california-b2397174.html",
-            "urlToImage": "https://static.independent.co.uk/2023/08/22/06/Tropical_Weather_47218.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-08-22T08:48:10Z",
-            "content": "Sign up to the Independent Climate email for the latest advice on saving the planet\r\nGet our free Climate email\r\nStorm Hilary brought a years worth of rain to Death Valley in a single day the wettest\u2026 [+8354 chars]"
+            "author": "Reuters",
+            "title": "Canadian finance minister, who does not own a car, fined for speeding - Reuters Canada",
+            "description": "Canadian Finance Minister Chrystia Freeland, an avid cyclist who says she does not own a car, was fined C$273 ($200) for speeding in her home province of Alberta, a spokesperson said on Tuesday.",
+            "url": "https://www.reuters.com/world/americas/canadian-finance-minister-who-does-not-own-car-fined-speeding-2023-08-22/",
+            "urlToImage": "https://www.reuters.com/resizer/RDFYVmI7jId16V1-PqPpbbEAdDQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QMVARFJEIFOR7CBLKNTGSLPDQM.jpg",
+            "publishedAt": "2023-08-22T22:41:00Z",
+            "content": "OTTAWA, Aug 22 (Reuters) - Canadian Finance Minister Chrystia Freeland, an avid cyclist who says she does not own a car, was fined C$273 ($200) for speeding in her home province of Alberta, a spokesp\u2026 [+941 chars]"
         },
         {
             "source": {
@@ -190,77 +86,181 @@
                 "name": "Politico"
             },
             "author": null,
-            "title": "Chris Christie Is Not Going to Apologize, OK? - POLITICO",
-            "description": "Before Chris Christie became Donald Trump\u2019s sharpest critic, he was an important early booster. Does he need to apologize for that?",
-            "url": "https://www.politico.com/news/magazine/2023/08/22/chris-christie-donald-trump-critic-00112106",
-            "urlToImage": "https://static.politico.com/61/38/b918f98348d588ac4d5796680c9f/finals-politico-chrischristie-mbkoeth-7k6a3665.jpg",
-            "publishedAt": "2023-08-22T08:30:00Z",
-            "content": "He was interrupted by the claps of the people in the crowd who had heard the name Trump but werent listening to what Christie was saying.\r\n after he made me chairman of his transition, after he made \u2026 [+5020 chars]"
+            "title": "Prosecutors: Trump Mar-a-Lago security aide flipped after changing lawyers - POLITICO",
+            "description": "Special counsel Jack Smith\u2019s team revealed the details of the employee\u2019s about-face in a new filing.",
+            "url": "https://www.politico.com/news/2023/08/22/trump-witness-reversal-testimony-jack-smith-00112355",
+            "urlToImage": "https://static.politico.com/e6/c9/0c3e21b643f9b4f0eef010d66a1f/trump-capitol-riot-47640.jpg",
+            "publishedAt": "2023-08-22T22:32:55Z",
+            "content": "Special counsel Jack Smiths team revealed the details of the employees about-face as part of a filing demanded by Florida-based U.S. District Court Judge Aileen Cannon, who is overseeing the classifi\u2026 [+3263 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Alison Durkee",
-            "title": "Trump Will Surrender At Georgia Jail Thursday \u2014 Here\u2019s What To Expect As He May Get First Mug Shot - Forbes",
-            "description": "The ex-president confirmed on Truth Social he plans to head to Georgia on Thursday.",
-            "url": "https://www.forbes.com/sites/alisondurkee/2023/08/22/trump-will-surrender-at-georgia-jail-thursday---heres-what-to-expect-as-he-may-get-first-mug-shot/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64db57318cd8bf5f77635edc/0x0.jpg?format=jpg&crop=1909,1073,x0,y167,safe&width=1200",
-            "publishedAt": "2023-08-22T08:20:41Z",
-            "content": "Former President Donald Trump will surrender to authorities in Fulton County, Georgia, on Thursday, he confirmed Monday nightand will likely get his first mug shotas he faces his fourth indictment on\u2026 [+6198 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Tom Murray",
-            "title": "Charles Martinet, longtime voice of Mario, retires after 27 years - The Independent",
-            "description": "American voice actor also played Luigi and Wario in the video game series",
-            "url": "https://www.independent.co.uk/arts-entertainment/films/news/mario-voice-charles-martinet-nintendo-b2397132.html",
-            "urlToImage": "https://static.independent.co.uk/2023/08/21/19/Collage%20Maker-21-Aug-2023-11-50-AM-8826.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-08-22T07:58:55Z",
-            "content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nCharles Martinet, the voice actor behind Nintendos video\u2026 [+2256 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
+                "id": "politico",
+                "name": "Politico"
             },
             "author": null,
-            "title": "Microsoft will sell Activision Blizzard streaming rights to Ubisoft in attempt to win UK approval - Engadget",
-            "description": "Microsoft is significantly restructuring its Activision Blizzard merger proposal by selling cloud gaming rights for Activision Blizzard games to rival Ubisoft..",
-            "url": "https://www.engadget.com/microsoft-will-sell-activision-blizzard-streaming-rights-to-ubisoft-in-attempt-to-win-uk-approval-075237079.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/49TtoHaK9V7.Jz4vdLWRbA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/b4f04e00-40e5-11ee-bdff-15f0ce4f608b.cf.jpg",
-            "publishedAt": "2023-08-22T07:53:31Z",
-            "content": "Microsoft is significantly restructuring its Activision Blizzard merger proposal by selling cloud gaming rights for Activision Blizzard games to rival Ubisoft, it wrote in a blog post late yesterday.\u2026 [+3520 chars]"
+            "title": "California mountain and desert towns dig out of the mud - POLITICO",
+            "description": "Tropical Storm Hilary was dissipating as it moved over the Rocky Mountains.",
+            "url": "https://www.politico.com/news/2023/08/22/california-tropical-storm-hilary-00112349",
+            "urlToImage": "https://static.politico.com/1e/93/0d3ec655473a93b00c35ad5ea208/tropical-weather-21467.jpg",
+            "publishedAt": "2023-08-22T22:16:25Z",
+            "content": "As Hilary moved northeast into the neighboring state of Nevada, flooding was reported, power was out and a boil-water order was issued for about 400 households in the Mount Charleston area, where the\u2026 [+3200 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "NBCSports.com"
             },
-            "author": "Post Editorial Board",
-            "title": "Joe Antoinette Biden lies to survivors, makes it all about himself in Hawaii - New York Post ",
-            "description": "The Biden team set up a presidential lectern in the middle of the rubble, which is bad enough, but they also brought along a tiny little table to set his water on.",
-            "url": "https://nypost.com/2023/08/22/joe-antoinette-biden-lies-to-survivors-makes-it-all-about-himself-in-hawaii/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-d2yj1bm3i-1692683803397.jpg?quality=75&strip=all&1692669485&w=1024",
-            "publishedAt": "2023-08-22T07:14:00Z",
-            "content": "Last week, when President Biden announced his trip to Maui, The Post asked: How much do you want to bet he will act inappropriately to family members and try to make it all about himself?\r\nIf there w\u2026 [+2515 chars]"
+            "author": "Charean Williams",
+            "title": "Jerry Jones on Jonathan Taylor interest: I feel comfortable with the backs we have - NBC Sports",
+            "description": "The Cowboys released Ezekiel Elliott this offseason, leaving them with unproven players behind starter Tony Pollard.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-on-jonathan-taylor-interest-i-feel-comfortable-with-the-backs-we-have",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4e57ff3/2147483647/strip/true/crop/4256x2394+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Fbd%2Fd5%2Fea96d613423c81956514f13feb11%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D19639702",
+            "publishedAt": "2023-08-22T22:04:11Z",
+            "content": "The Colts granted running back Jonathan Taylor permission to seek a trade on Monday. It has led to speculation about who might have interest in trying to work out a trade for Taylor.\r\nThe Dolphins re\u2026 [+1532 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Luc Cohen, Jody Godoy",
+            "title": "FTX's Bankman-Fried 'subsisting on bread and water' in jail, lawyer says - Reuters",
+            "description": "FTX cryptocurrency exchange founder Sam Bankman-Fried is \"subsisting on bread and water\" because the federal jail where he is being held ahead of his fraud trial has not provided him with a vegan diet as he requested, his lawyer said on Tuesday.",
+            "url": "https://www.reuters.com/legal/jailed-ftx-founder-bankman-fried-return-court-new-plea-2023-08-22/",
+            "urlToImage": "https://www.reuters.com/resizer/0yHFRCvtgyb2AF5JGsmzqJtsJGI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7WEW6VKU75NINJFAAYDAAVGC64.jpg",
+            "publishedAt": "2023-08-22T21:32:00Z",
+            "content": "NEW YORK, Aug 22 (Reuters) - FTX cryptocurrency exchange founder Sam Bankman-Fried is \"subsisting on bread and water\" because the federal jail where he is being held ahead of his fraud trial has not \u2026 [+4139 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Sammy Westfall",
+            "title": "Charred bodies of 18 migrants found in Greece amid European wildfires - The Washington Post",
+            "description": "Two other people were killed in this week\u2019s fires, bringing the death toll in Greece to at least 20.",
+            "url": "https://www.washingtonpost.com/world/2023/08/22/greece-wildfires-bodies-heat-europe/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-22-2023/t_a63211363162403eb94051c876088e6a_name_TB_1.jpg&w=1440",
+            "publishedAt": "2023-08-22T21:08:00Z",
+            "content": "Comment on this story\r\nComment\r\nEighteen people, believed by fire officials to be migrants or refugees, were found dead in Greeces Dadia Forest after a raging wildfire swept for the fourth day throug\u2026 [+4213 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Nouran Salahieh",
-            "title": "Tropical Storm Harold heads toward South Texas, threatening floods and dangerous storm surge - CNN",
-            "description": "A tropical depression in the Gulf of Mexico has strengthened into a tropical storm as it continues to churn towards South Texas, where residents were bracing for heavy rain, flooding, powerful winds and dangerous rip currents Tuesday.",
+            "author": "Eric Bradner",
+            "title": "Milwaukee GOP presidential debate: RNC announces 8 candidates have qualified - CNN",
+            "description": "Eight Republicans have qualified for the party\u2019s first 2024 presidential primary debate Wednesday night, the Republican National Committee announced Monday evening.",
+            "url": "https://www.cnn.com/2023/08/21/politics/milwaukee-rnc-presidential-debate-candidates/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230822121323-01-rnc-first-gop-presidential-debate-candidates-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-22T20:56:00Z",
+            "content": "Eight Republicans have qualified for the partys first 2024 presidential primary debate Wednesday night, the Republican National Committee announced Monday evening. \r\nThe list includes North Dakota Go\u2026 [+7622 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mary Walrath-Holdridge",
+            "title": "What to know about COVID Pirola: How new lineage BA.2.86 differs from other variants - USA TODAY",
+            "description": "A new COVID mutation, BA.2.86, has landed in the US, says the CDC. Nicknamed Pirola, the lineage has also been spotted in Israel, Denmark and the U.K.",
+            "url": "https://www.usatoday.com/story/news/health/2023/08/21/pirola-covid-lineage-not-omicron-variant/70644689007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/08/21/USAT/21ef94ca-e6e0-4f67-aa79-dff39c15d8c8-GettyImages-1336071300.jpg?crop=2201,1239,x0,y58&width=2201&height=1239&format=pjpg&auto=webp",
+            "publishedAt": "2023-08-22T20:48:45Z",
+            "content": "The World Health Organization (WHO) and Centers for Disease Control (CDC) have announced another addition to their lists tracking variants of COVID-19 and this one may be a little different.\r\nDescrib\u2026 [+5705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Sean Piccoli",
+            "title": "National Union Solidarity Day In NYC Draws Big Names Amid Big Crowd: Jesse Eisenberg, Carla Gugino, F. Murray Abraham & More - Deadline",
+            "description": "This is Day 113 of the\u00a0WGA\u00a0strike and Day 40 of the\u00a0SAG-AFTRA\u00a0strike.\u00a0 National Union Solidarity Day kicked off on Tuesday in New York City with several hundred marchers fo\u2026",
+            "url": "https://deadline.com/2023/08/hollywood-strikes-picket-line-new-york-1235525267/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/SAG-Strike-day-40-1.jpg?w=1024",
+            "publishedAt": "2023-08-22T20:42:00Z",
+            "content": "This is Day 113 of the\u00a0WGA\u00a0strike and Day 40 of the\u00a0SAG-AFTRA\u00a0strike.\u00a0\r\nNational Union Solidarity Day kicked off on Tuesday in New York City with several hundred marchers forming a picket line that s\u2026 [+4262 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Can MRI scans screen men for prostate cancer? - BBC News - BBC News",
+            "description": "A 10-minute MRI scan could be used to screen men for prostate cancer, according to a new study.The scans proved far more accurate at diagnosing cancer than b...",
+            "url": "https://www.youtube.com/watch?v=8mVU0YdTxU4",
+            "urlToImage": "https://i.ytimg.com/vi/8mVU0YdTxU4/maxresdefault.jpg",
+            "publishedAt": "2023-08-22T20:30:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Samuel Axon",
+            "title": "Nvidia announces a community-made RTX remaster of Half-Life 2 - Ars Technica",
+            "description": "PBR materials, full ray-tracing, and DLSS are coming to Half-Life 2.",
+            "url": "https://arstechnica.com/gaming/2023/08/half-life-2-will-get-a-ray-tracing-remaster-using-rtx-remix/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Half-Life-2-RTX-on-760x380.png",
+            "publishedAt": "2023-08-22T20:20:28Z",
+            "content": "37 with \r\nA teaser for Half-Life 2's RTX conversion.\r\nFirst it came to Portal, now it's coming to the Source engine's other big classic: Half-Life 2 is getting a ray-tracing remaster thanks to the ef\u2026 [+3169 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mary Gilbert, Nouran Salahieh",
+            "title": "Tropical Storm Harold plowing through Texas with flash flooding - CNN",
+            "description": "Tropical Storm Harold is plowing through Texas, triggering flash flooding and tornado warnings as the gusty storm pushes toward Mexico.",
             "url": "https://www.cnn.com/2023/08/22/weather/texas-tropical-storm-warning-tuesday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230822001227-tropical-depression-nine-satellite-12a.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-22T06:51:00Z",
-            "content": "A tropical depression in the Gulf of Mexico has strengthened into a tropical storm as it continues to churn towards South Texas, where residents were bracing for heavy rain, flooding, powerful winds \u2026 [+4686 chars]"
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230822152725-01-harold-storm-0822-texas.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-22T20:02:00Z",
+            "content": "Tropical Storm Harold is plowing through Texas, triggering flash flooding and tornado warnings as the gusty storm pushes toward Mexico.\r\nHarold made landfall just before 10 a.m. CT (11 a.m. ET) on Pa\u2026 [+3758 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ian Livingston",
+            "title": "The massive central U.S. heat wave is expanding and could set hundreds of records - The Washington Post",
+            "description": "Heat index values continue to approach 130 in spots as widespread temperatures in the 100s overtake the Midwest. Warm overnight lows mean minimal relief.",
+            "url": "https://www.washingtonpost.com/weather/2023/08/22/heat-wave-extreme-temperatures-midwest-plains-south/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L5P7IWBX5RAPZPCWMPPXXZCLXQ.png&w=1440",
+            "publishedAt": "2023-08-22T19:36:00Z",
+            "content": "Comment on this story\r\nComment\r\nNearly 150 million people are under heat alerts Tuesday and through the midweek, as the Midwests most significant heat wave in years heads toward its peak and the Sout\u2026 [+5952 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Pakistan cable car: 6 children, 2 adults rescued using makeshift chairlift, helicopters - USA TODAY",
+            "description": "Officials rescued six children and two adults trapped in a cable car hundreds of feet above the ground in Pakistan using makeshift chairlift.",
+            "url": "https://www.usatoday.com/story/news/world/2023/08/22/pakistan-chairlift-cable-car/70647726007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/08/22/USAT/a8168591-a4c9-49c8-90b7-2eddfadb98bf-cable_car_logo.jpg?auto=webp&crop=1079,607,x0,y493&format=pjpg&width=1200",
+            "publishedAt": "2023-08-22T19:07:30Z",
+            "content": "Officials have rescued eight people, including six children, from a cable car hundreds of feet above the ground in Pakistan Tuesday using helicopters and a makeshift chairlift, authorities said.\r\nThe\u2026 [+1016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KPRC Click2Houston"
+            },
+            "author": "NBC News",
+            "title": "15 dead, 36 injured in Mexico bus crash, most apparently Venezuelan migrants - KPRC Click2Houston",
+            "description": "A bus carrying mostly Venezuelan migrants crashed into a freight truck Tuesday in central Mexico, killing at least 15 people and injuring 36, local authorities said.",
+            "url": "https://www.click2houston.com/news/local/2023/08/22/15-dead-36-injured-in-mexico-bus-crash-most-apparently-venezuelan-migrants/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WNPDDZ7GOFDODPQ35GKA5KPN5Y.jpg?_a=ATAPphC0",
+            "publishedAt": "2023-08-22T19:06:52Z",
+            "content": "MEXICO CITY A bus carrying mostly Venezuelan migrants crashed into a freight truck Tuesday in central Mexico, killing at least 15 people and injuring 36, local authorities said.\r\nThe government of Pu\u2026 [+589 chars]"
         }
     ]
 }
