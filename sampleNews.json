@@ -1,149 +1,253 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Chris Isidore",
-            "title": "Teamster members ratify deal at UPS, putting strike threat to rest - CNN",
-            "description": "Rank-and-file members of the Teamsters union have overwhelmingly ratified a five-year deal with UPS, putting an end to the threat of a crippling strike.",
-            "url": "https://www.cnn.com/2023/08/22/business/ups-strike-vote-teamsters-union/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230821154737-ups-delivery-truck-0630.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-23T00:22:00Z",
-            "content": "Rank-and-file members of the Teamsters union have overwhelminglyratified a five-year deal with UPS, putting an end to the threat of a crippling strike.\r\nThe union said 86% of members had voted for th\u2026 [+4030 chars]"
+            "author": "Manveena Suri, Rhea Mogul",
+            "title": "Mizoram, India: Under construction bridge collapses, killing at least 17 - CNN",
+            "description": "More than a dozen workers have been killed after a bridge under construction collapsed in northeast India Wednesday, the latest in a string of infrastructure failures that have resulted in multiple deaths in the country.",
+            "url": "https://www.cnn.com/2023/08/23/india/india-bridge-collapse-mizoram-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230823090609-india-bridge-collapse-082323.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-23T09:03:00Z",
+            "content": "More than a dozen workers have been killed after a bridge under construction collapsed in northeast India Wednesday, the latest in a string of infrastructure failures that have resulted in multiple d\u2026 [+1617 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Slashdot.org"
+                "name": "Euronews"
             },
             "author": null,
-            "title": "Microsoft Announces Python In Excel - Slashdot",
-            "description": "theodp writes: On Tuesday, Microsoft announced the Public Preview of Python in Excel, which \"runs securely on the Microsoft Cloud\".  From the Home Office in Redmond: \"Python is one of the most popular programming languages today, loved by businesses and stude\u2026",
-            "url": "https://developers.slashdot.org/story/23/08/22/1425228/microsoft-announces-python-in-excel",
-            "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
-            "publishedAt": "2023-08-22T23:47:14Z",
-            "content": "On Tuesday, Microsoft announced the Public Preview of Python in Excel, which \"runs securely on the Microsoft Cloud\".From the Home Office in Redmond: \"Python is one of the most popular programming lan\u2026 [+1762 chars]"
+            "title": "Ukraine war: Russian air forces chief fired, grain infrastructure hit, Moscow drone attack - Euronews",
+            "description": "All the latest developments from the Ukraine war.",
+            "url": "https://www.euronews.com/2023/08/23/ukraine-war-grain-infrastructure-hit-6th-consecutive-attack-on-moscow-donetsk-civilians-ki",
+            "urlToImage": "https://static.euronews.com/articles/stories/07/64/51/02/1000x563_cmsv2_0bf22763-3e1d-5f36-84e9-64b8f8b8d347-7645102.jpg",
+            "publishedAt": "2023-08-23T08:48:45Z",
+            "content": "All the latest developments from the Ukraine war.\r\n Russian air forces chief fired\r\nRussian General Sergei Surovikin, who was once in charge of the offensive in Ukraine, has been sacked from his post\u2026 [+3481 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Nivedita Bhattacharjee",
+            "title": "India counts down to crucial moon landing - Reuters India",
+            "description": "India was hours away from its second attempt to land a spacecraft on the moon on Wednesday, a mission seen as crucial to lunar exploration and the country's standing as a space power, just days after a similar Russian lander crashed.",
+            "url": "https://www.reuters.com/world/india/india-counts-down-crucial-moon-landing-2023-08-23/",
+            "urlToImage": "https://www.reuters.com/resizer/haTltUQrOb0iWWXrKsQ-ArzRgm8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ANWLKJI6EFNYRGDVOUJDRRREFI.jpg",
+            "publishedAt": "2023-08-23T08:00:00Z",
+            "content": "BENGALURU, Aug 23 (Reuters) - India was hours away from its second attempt to land a spacecraft on the moon on Wednesday, a mission seen as crucial to lunar exploration and the country's standing as \u2026 [+3053 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Gunjan Banerji",
+            "title": "Is Nvidia the New Tesla? Options Traders Place Their Bets - The Wall Street Journal",
+            "description": "Investors are wagering that the furious rally in Nvidia shares will continue after Wednesday\u2019s earnings report",
+            "url": "https://www.wsj.com/finance/stocks/nvidia-stock-tesla-options-trading-7f0a37c8",
+            "urlToImage": "https://images.wsj.net/im-839406/social",
+            "publishedAt": "2023-08-23T07:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sarasota Herald-Tribune"
+            },
+            "author": null,
+            "title": "County death linked to Vibriosis is one of 5 in state so far - Sarasota Herald-Tribune",
+            "description": null,
+            "url": "https://www.heraldtribune.com/story/news/local/sarasota/2023/08/22/sarasota-county-death-linked-to-vibriosis-is-one-of-5-in-state-so-far/70641941007/",
+            "urlToImage": null,
+            "publishedAt": "2023-08-23T07:04:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Tom Murray",
+            "title": "Scooter Braun reacts to Idina Menzel and Demi Lovato departures - The Independent",
+            "description": "\u2018Breaking news\u2026 I\u2019m no longer managing myself,\u2019 music mogul tweeted",
+            "url": "https://www.independent.co.uk/arts-entertainment/music/news/scooter-braun-idina-menzel-demi-lovato-meme-b2397762.html",
+            "urlToImage": "https://static.independent.co.uk/2023/08/18/15/GettyImages-1196904091.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-08-23T06:32:31Z",
+            "content": "Sign up to Roisin OConnors free weekly newsletter Now Hear This for the inside track on all things music\r\nGet our Now Hear This email for free\r\nScooter Braun has reacted to multiple reports of stars \u2026 [+2961 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "REBECCA BOONE, HEATHER HOLLINGSWORTH, CLAUDIA LAUER, CHRISTOPHER L. KELLER",
+            "title": "In deadly Maui fires, many had no warning and no way out. Those who dodged barricades survived - The Associated Press",
+            "description": "As flames tore through a West Maui neighborhood, fleeing residents headed for the only paved road out of town in a dash for safety. Many were turned back toward the rapidly spreading fire by a barricade blocking access to Highway 30. But those who disobeyed, \u2026",
+            "url": "https://apnews.com/article/hawaii-fires-timeline-maui-lahaina-road-block-c8522222f6de587bd14b2da0020c40e9",
+            "urlToImage": "https://dims.apnews.com/dims4/default/5d863c9/2147483647/strip/true/crop/5670x3189+0+460/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1f%2Fc1%2F003070bfbb44277b73f9abe38e73%2Fc0925d20d5b049929b9494599a9653bb",
+            "publishedAt": "2023-08-23T05:12:00Z",
+            "content": "As flames tore through a West Maui neighborhood, car after car of fleeing residents headed for the only paved road out of town in a desperate race for safety.\r\nAnd car after car was turned back towar\u2026 [+11143 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Joe Sutton, Nouran Salahieh",
+            "title": "Heavy flooding near Grand Canyon's southern rim prompts calls to shelter in place. Swift water rescue teams are on scene - CNN",
+            "description": "Heavy flooding just south of the entrance to Grand Canyon National Park prompted calls to shelter in place at the popular Arizona tourist destination Tuesday as swift water rescue crews responded to the area.",
+            "url": "https://www.cnn.com/2023/08/23/us/arizona-grand-canyon-tusayan-flooding/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230823113503-03-arizona-grand-canyon-flooding.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-23T05:05:00Z",
+            "content": "Heavy flooding just south of the entrance to Grand Canyon National Park prompted calls to shelter in place at the popular Arizona tourist destination Tuesday as swift water rescue crews responded to \u2026 [+1920 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Wednesday, August 23, 2023 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2023/8/23/23836449/horoscopes-today-wednesday-august-23-2023",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/b04ebdb/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Fhx1ErQfRvXO88wL7_-kP794cRso%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24857452%2FGeorgia_mug.jpeg",
+            "publishedAt": "2023-08-23T05:01:24Z",
+            "content": "Moon Alert\r\nAvoid shopping and important decisions after noon Chicago time. The moon is in Scorpio.\r\nAries (March 21-April 19)\r\nDespite your increasing desire to get better organized and be as effici\u2026 [+3944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "profootballrumors.com"
+            },
+            "author": null,
+            "title": "Multiple Teams Inquire On Colts RB Jonathan Taylor - profootballrumors.com",
+            "description": "Advancing this saga to another stage, the Colts have allowed Jonathan Taylor's camp to look for a trade partner. This &hellip;",
+            "url": "https://www.profootballrumors.com/2023/08/multiple-teams-inquire-on-colts-rb-jonathan-taylor",
+            "urlToImage": "https://cdn.profootballrumors.com/files/2023/08/USATSI_19429040-1024x768.jpg",
+            "publishedAt": "2023-08-23T04:38:00Z",
+            "content": "Advancing this saga to another stage, the Colts have allowed Jonathan Taylor\u2018s camp to look for a trade partner. This comes weeks after Jim Irsay said the former rushing champion would not be traded.\u2026 [+3641 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sarah Rumpf-Whitten",
+            "title": "Babies, young child exposed to more screen time linked with developmental delays: Study - Fox News",
+            "description": "A new study shows babies exposed to more screen time at age 1 are likely to show developmental delays in communication, problem-solving skills at ages 2 and 4.",
+            "url": "https://www.foxnews.com/health/babies-young-child-exposed-more-screen-time-linked-developmental-delays-study",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/5a318581-2.jpg",
+            "publishedAt": "2023-08-23T04:28:00Z",
+            "content": "\"iPad kids,\" or babies and young children who have access to more screen time have a higher likelihood of developmental delays, according to a new study published in The Journal of the American Medic\u2026 [+2475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tulsa World"
+            },
+            "author": "Lenzy Krehbiel-Burton and Andrea Eger Tulsa World",
+            "title": "Deborah Gist, Tulsa superintendent, stepping down - Tulsa World",
+            "description": "Amid a state takeover threat, the Tulsa Public Schools board will consider naming longtime TPS educator Ebony Johnson interim superintendent Wednesday. #oklaed",
+            "url": "https://tulsaworld.com/news/local/education/deb-gist-tulsa-public-schools/article_ff011d28-411a-11ee-b8c6-dfd192e3f1f1.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/ef/4efcd442-412b-11ee-b25e-5b652bdd4336/64e51c48d8862.image.jpg?crop=1898%2C996%2C0%2C47&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-08-23T03:35:00Z",
+            "content": "Tulsa Public Schools Superintendent Deborah Gist announced Tuesday that she is stepping down.\r\nCiting a desire to try to prevent a state takeover of the district, Gist emailed TPS employees at the cl\u2026 [+5612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Richard de Grijs",
+            "title": "Russia has declared a new space race, hoping to join forces with China. Here's why that's unlikely - The Conversation",
+            "description": "China has made significant advances in space exploration on its own steam. It doesn\u2019t need a partnership with Russia.",
+            "url": "https://theconversation.com/russia-has-declared-a-new-space-race-hoping-to-join-forces-with-china-heres-why-thats-unlikely-211993",
+            "urlToImage": "https://images.theconversation.com/files/544139/original/file-20230823-15-pirg7h.jpg?ixlib=rb-1.1.0&rect=0%2C228%2C2348%2C1172&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2023-08-23T03:12:00Z",
+            "content": "This week, the Russian space agency Roscosmos had hoped to return to the Moon after an absence of nearly 50 years. Instead, on Saturday it lost control of its Luna-25 lander. The agency explained the\u2026 [+5557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Honolulu Star-Advertiser"
+            },
+            "author": "Star-Advertiser staff",
+            "title": "FBI estimates 1,000 to 1,100 people remain unaccounted in Lahaina - Honolulu Star-Advertiser",
+            "description": "Editor\u2019s Note: Watch the video above on your desktop computer. Viewing from your mobile phone? Click here to watch on Facebook.",
+            "url": "https://www.staradvertiser.com/2023/08/22/breaking-news/maui-county-officials-to-discuss-efforts-to-account-for-the-missing/",
+            "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2023/08/web1_082223-WEB-John-Pelletier.jpg",
+            "publishedAt": "2023-08-23T02:48:45Z",
+            "content": "Editor\u2019s Note: Watch the video above on your desktop computer. Viewing from your mobile phone? Click here to watch on Facebook.\r\n\u2014\u2014\r\nUPDATE: 4:20 p.m\r\nBetween 1,000 and 1,100 people are unaccounted f\u2026 [+5274 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "William Harwood",
+            "title": "Russia launches space station cargo flight, setting stage for SpaceX crew launch Friday - CBS News",
+            "description": "SpaceX launches another batch of Starlinks and readies a Crew Dragon flight to the space station while Russia launches its Progress supply ship.",
+            "url": "https://www.cbsnews.com/news/russia-launches-space-station-cargo-flight-spacex-crew-launch-friday/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/23/6a9d1e6b-c372-4640-b8e7-13ba5cc33dde/thumbnail/1200x630/c547c059dc304bd47ffb17f7864ac623/082223-crew-tcdt-1.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2",
+            "publishedAt": "2023-08-23T02:25:00Z",
+            "content": "Moving on from the Luna-25 moon lander crash, Russia launched a Progress cargo ship to the International Space Station on Tuesday, two-and-a-half days before a SpaceX Crew Dragon capsule is scheduled\u2026 [+4437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Jeff Foust",
+            "title": "Target of European debris removal mission hit by other debris - SpaceNews",
+            "description": "A payload adapter that is the target of a European debris cleanup mission may have itself been damaged by a debris impact.",
+            "url": "https://spacenews.com/target-of-european-debris-removal-mission-hit-by-other-debris/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/02/Artistic-impression-of-the-servicer-ClearSpace-1-approaching-a-space-debris-object-VESPA-during-the-ClearSpace-1-mission-to-take-place-in-2026.-2023.-\u00a9ClearSpace.png",
+            "publishedAt": "2023-08-23T02:19:05Z",
+            "content": "WASHINGTON A payload adapter that is the target of a European debris cleanup mission may have itself been damaged by a debris impact.\r\nThe European Space Agency said Aug. 22 that it was informed 12 d\u2026 [+3222 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Space Agencies Around The World Are Racing To Moon's South Pole. Here's Why - NDTV",
+            "description": "India's space agency is attempting to land a spacecraft on the moon's south pole, a mission that could advance India's space ambitions and expand knowledge of lunar water ice, potentially one of the moon's most valuable resources.",
+            "url": "https://www.ndtv.com/world-news/space-agencies-around-the-world-are-racing-to-moons-south-pole-heres-why-4320937",
+            "urlToImage": "https://c.ndtvimg.com/2023-08/ogfro2dg_luna-25-mission_625x300_19_August_23.jpg",
+            "publishedAt": "2023-08-23T01:59:29Z",
+            "content": "Russia's Luna-25 craft had been scheduled to land on the south pole but crashed on Sunday.\r\nIndia's space agency is attempting to land a spacecraft on the moon's south pole, a mission that could adva\u2026 [+2754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Tyrell Feaster",
+            "title": "Chicago Bulls star Lonzo Ball hits out at Stephen A. Smith over his knee injury claims in brutal response: 'Wh - Daily Mail",
+            "description": "This now makes it a second rant in two days that Smith has been publicly called out for reporting inaccurate information that he obtained from his 'sources.'",
+            "url": "https://www.dailymail.co.uk/sport/nba/article-12435101/Chicago-Bulls-Lonzo-Ball-Stephen-Smith-injury.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/08/23/02/74620665-0-image-a-191_1692753197340.jpg",
+            "publishedAt": "2023-08-23T01:40:10Z",
+            "content": "Chicago Bulls point guard Lonzo Ball not only confirmed he will miss the entire 2023-24 season, but also called out Stephen A. Smith for reporting false information following the ESPN analyst's lates\u2026 [+3262 chars]"
         },
         {
             "source": {
                 "id": "espn",
                 "name": "ESPN"
             },
-            "author": "Jesse Rogers",
-            "title": "White Sox fire vice president Ken Williams, GM Rick Hahn - ESPN - ESPN",
-            "description": "Vice president Ken Williams and senior vice president and general manager Rick Hahn were fired by the Chicago White Sox on Tuesday, the team announced in a social media post, with owner Jerry Reinsdorf saying \"this is an incredibly difficult decision.\"",
-            "url": "https://www.espn.com/mlb/story/_/id/38241494/white-sox-fire-vice-president-ken-williams-gm-rick-hahn",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0822%2Fr1214253_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-08-22T23:14:00Z",
-            "content": "CHICAGO -- The Chicago White Sox fired executive vice president Ken Williams and general manager Rick Hahn, effective immediately, the team announced Tuesday with a news release and social media post\u2026 [+2930 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Julie Coleman",
-            "title": "Cramer says tech has a 'well-deserved premium' because of stocks like Nvidia - CNBC",
-            "description": "CNBC's Jim Cramer on Tuesday reaffirmed his belief in the value of tech stocks.",
-            "url": "https://www.cnbc.com/2023/08/22/cramer-cites-nvidia-for-well-deserved-premium-of-tech-stocks.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104766841-IMG_9442r-jim-cramer.jpg?v=1692745354&w=1920&h=1080",
-            "publishedAt": "2023-08-22T23:02:34Z",
-            "content": "CNBC's Jim Cramer on Tuesday reiterated his faith in tech stocks, especially Nvidia and its \"Magnificent Seven\" peers.\r\nCramer recognized that some investors question how tech shares are so pricey, e\u2026 [+1517 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Scott Pianowski",
-            "title": "Fantasy Football Rankings: Quarterback draft tiers, including salary cap values - Yahoo Sports",
-            "description": "Scott Pianowski examines the 2023 fantasy quarterback landscape, breaking down the position into tiers to help you get ready.",
-            "url": "https://sports.yahoo.com/fantasy-football-rankings-quarterback-draft-tiers-including-salary-cap-values-224615684.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7SXY.Espt6.q43hdZLErtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/0ffae7c0-2fe2-11ee-b9f7-8154c72b30af",
-            "publishedAt": "2023-08-22T22:46:15Z",
-            "content": "For years, we've talked about the quarterback disconnect between real-life and fantasy football. NFL life is all about the quarterback. Fantasy football is about so many things before the quarterback\u2026 [+6692 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Canadian finance minister, who does not own a car, fined for speeding - Reuters Canada",
-            "description": "Canadian Finance Minister Chrystia Freeland, an avid cyclist who says she does not own a car, was fined C$273 ($200) for speeding in her home province of Alberta, a spokesperson said on Tuesday.",
-            "url": "https://www.reuters.com/world/americas/canadian-finance-minister-who-does-not-own-car-fined-speeding-2023-08-22/",
-            "urlToImage": "https://www.reuters.com/resizer/RDFYVmI7jId16V1-PqPpbbEAdDQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QMVARFJEIFOR7CBLKNTGSLPDQM.jpg",
-            "publishedAt": "2023-08-22T22:41:00Z",
-            "content": "OTTAWA, Aug 22 (Reuters) - Canadian Finance Minister Chrystia Freeland, an avid cyclist who says she does not own a car, was fined C$273 ($200) for speeding in her home province of Alberta, a spokesp\u2026 [+941 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Prosecutors: Trump Mar-a-Lago security aide flipped after changing lawyers - POLITICO",
-            "description": "Special counsel Jack Smith\u2019s team revealed the details of the employee\u2019s about-face in a new filing.",
-            "url": "https://www.politico.com/news/2023/08/22/trump-witness-reversal-testimony-jack-smith-00112355",
-            "urlToImage": "https://static.politico.com/e6/c9/0c3e21b643f9b4f0eef010d66a1f/trump-capitol-riot-47640.jpg",
-            "publishedAt": "2023-08-22T22:32:55Z",
-            "content": "Special counsel Jack Smiths team revealed the details of the employees about-face as part of a filing demanded by Florida-based U.S. District Court Judge Aileen Cannon, who is overseeing the classifi\u2026 [+3263 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "California mountain and desert towns dig out of the mud - POLITICO",
-            "description": "Tropical Storm Hilary was dissipating as it moved over the Rocky Mountains.",
-            "url": "https://www.politico.com/news/2023/08/22/california-tropical-storm-hilary-00112349",
-            "urlToImage": "https://static.politico.com/1e/93/0d3ec655473a93b00c35ad5ea208/tropical-weather-21467.jpg",
-            "publishedAt": "2023-08-22T22:16:25Z",
-            "content": "As Hilary moved northeast into the neighboring state of Nevada, flooding was reported, power was out and a boil-water order was issued for about 400 households in the Mount Charleston area, where the\u2026 [+3200 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Charean Williams",
-            "title": "Jerry Jones on Jonathan Taylor interest: I feel comfortable with the backs we have - NBC Sports",
-            "description": "The Cowboys released Ezekiel Elliott this offseason, leaving them with unproven players behind starter Tony Pollard.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-on-jonathan-taylor-interest-i-feel-comfortable-with-the-backs-we-have",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4e57ff3/2147483647/strip/true/crop/4256x2394+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Fbd%2Fd5%2Fea96d613423c81956514f13feb11%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D19639702",
-            "publishedAt": "2023-08-22T22:04:11Z",
-            "content": "The Colts granted running back Jonathan Taylor permission to seek a trade on Monday. It has led to speculation about who might have interest in trying to work out a trade for Taylor.\r\nThe Dolphins re\u2026 [+1532 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Luc Cohen, Jody Godoy",
-            "title": "FTX's Bankman-Fried 'subsisting on bread and water' in jail, lawyer says - Reuters",
-            "description": "FTX cryptocurrency exchange founder Sam Bankman-Fried is \"subsisting on bread and water\" because the federal jail where he is being held ahead of his fraud trial has not provided him with a vegan diet as he requested, his lawyer said on Tuesday.",
-            "url": "https://www.reuters.com/legal/jailed-ftx-founder-bankman-fried-return-court-new-plea-2023-08-22/",
-            "urlToImage": "https://www.reuters.com/resizer/0yHFRCvtgyb2AF5JGsmzqJtsJGI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7WEW6VKU75NINJFAAYDAAVGC64.jpg",
-            "publishedAt": "2023-08-22T21:32:00Z",
-            "content": "NEW YORK, Aug 22 (Reuters) - FTX cryptocurrency exchange founder Sam Bankman-Fried is \"subsisting on bread and water\" because the federal jail where he is being held ahead of his fraud trial has not \u2026 [+4139 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Sammy Westfall",
-            "title": "Charred bodies of 18 migrants found in Greece amid European wildfires - The Washington Post",
-            "description": "Two other people were killed in this week\u2019s fires, bringing the death toll in Greece to at least 20.",
-            "url": "https://www.washingtonpost.com/world/2023/08/22/greece-wildfires-bodies-heat-europe/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-22-2023/t_a63211363162403eb94051c876088e6a_name_TB_1.jpg&w=1440",
-            "publishedAt": "2023-08-22T21:08:00Z",
-            "content": "Comment on this story\r\nComment\r\nEighteen people, believed by fire officials to be migrants or refugees, were found dead in Greeces Dadia Forest after a raging wildfire swept for the fourth day throug\u2026 [+4213 chars]"
+            "author": "M.A. Voepel",
+            "title": "A'ja Wilson ties WNBA record with 53 points in Aces' win - ESPN - ESPN",
+            "description": "A'ja Wilson matched the single-game WNBA scoring record of 53 points to fuel the visiting Aces to a 112-100 victory over the Dream on Tuesday night.",
+            "url": "https://www.espn.com/wnba/story/_/id/38242136/las-vegas-aces-aja-wilson-scores-53-points-tie-wnba-single-game-record",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0823%2Fr1214305_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-08-23T01:36:00Z",
+            "content": "After watching A'ja Wilson go off for 53 points to tie the WNBA single-game scoring record Tuesday night, Las Vegas coach Becky Hammon sounded like she was describing the next movie superhero when ta\u2026 [+4064 chars]"
         },
         {
             "source": {
@@ -151,116 +255,12 @@
                 "name": "CNN"
             },
             "author": "Eric Bradner",
-            "title": "Milwaukee GOP presidential debate: RNC announces 8 candidates have qualified - CNN",
-            "description": "Eight Republicans have qualified for the party\u2019s first 2024 presidential primary debate Wednesday night, the Republican National Committee announced Monday evening.",
-            "url": "https://www.cnn.com/2023/08/21/politics/milwaukee-rnc-presidential-debate-candidates/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230822121323-01-rnc-first-gop-presidential-debate-candidates-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-22T20:56:00Z",
-            "content": "Eight Republicans have qualified for the partys first 2024 presidential primary debate Wednesday night, the Republican National Committee announced Monday evening. \r\nThe list includes North Dakota Go\u2026 [+7622 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mary Walrath-Holdridge",
-            "title": "What to know about COVID Pirola: How new lineage BA.2.86 differs from other variants - USA TODAY",
-            "description": "A new COVID mutation, BA.2.86, has landed in the US, says the CDC. Nicknamed Pirola, the lineage has also been spotted in Israel, Denmark and the U.K.",
-            "url": "https://www.usatoday.com/story/news/health/2023/08/21/pirola-covid-lineage-not-omicron-variant/70644689007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/08/21/USAT/21ef94ca-e6e0-4f67-aa79-dff39c15d8c8-GettyImages-1336071300.jpg?crop=2201,1239,x0,y58&width=2201&height=1239&format=pjpg&auto=webp",
-            "publishedAt": "2023-08-22T20:48:45Z",
-            "content": "The World Health Organization (WHO) and Centers for Disease Control (CDC) have announced another addition to their lists tracking variants of COVID-19 and this one may be a little different.\r\nDescrib\u2026 [+5705 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Sean Piccoli",
-            "title": "National Union Solidarity Day In NYC Draws Big Names Amid Big Crowd: Jesse Eisenberg, Carla Gugino, F. Murray Abraham & More - Deadline",
-            "description": "This is Day 113 of the\u00a0WGA\u00a0strike and Day 40 of the\u00a0SAG-AFTRA\u00a0strike.\u00a0 National Union Solidarity Day kicked off on Tuesday in New York City with several hundred marchers fo\u2026",
-            "url": "https://deadline.com/2023/08/hollywood-strikes-picket-line-new-york-1235525267/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/SAG-Strike-day-40-1.jpg?w=1024",
-            "publishedAt": "2023-08-22T20:42:00Z",
-            "content": "This is Day 113 of the\u00a0WGA\u00a0strike and Day 40 of the\u00a0SAG-AFTRA\u00a0strike.\u00a0\r\nNational Union Solidarity Day kicked off on Tuesday in New York City with several hundred marchers forming a picket line that s\u2026 [+4262 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Can MRI scans screen men for prostate cancer? - BBC News - BBC News",
-            "description": "A 10-minute MRI scan could be used to screen men for prostate cancer, according to a new study.The scans proved far more accurate at diagnosing cancer than b...",
-            "url": "https://www.youtube.com/watch?v=8mVU0YdTxU4",
-            "urlToImage": "https://i.ytimg.com/vi/8mVU0YdTxU4/maxresdefault.jpg",
-            "publishedAt": "2023-08-22T20:30:01Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Samuel Axon",
-            "title": "Nvidia announces a community-made RTX remaster of Half-Life 2 - Ars Technica",
-            "description": "PBR materials, full ray-tracing, and DLSS are coming to Half-Life 2.",
-            "url": "https://arstechnica.com/gaming/2023/08/half-life-2-will-get-a-ray-tracing-remaster-using-rtx-remix/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/Half-Life-2-RTX-on-760x380.png",
-            "publishedAt": "2023-08-22T20:20:28Z",
-            "content": "37 with \r\nA teaser for Half-Life 2's RTX conversion.\r\nFirst it came to Portal, now it's coming to the Source engine's other big classic: Half-Life 2 is getting a ray-tracing remaster thanks to the ef\u2026 [+3169 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Mary Gilbert, Nouran Salahieh",
-            "title": "Tropical Storm Harold plowing through Texas with flash flooding - CNN",
-            "description": "Tropical Storm Harold is plowing through Texas, triggering flash flooding and tornado warnings as the gusty storm pushes toward Mexico.",
-            "url": "https://www.cnn.com/2023/08/22/weather/texas-tropical-storm-warning-tuesday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230822152725-01-harold-storm-0822-texas.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-22T20:02:00Z",
-            "content": "Tropical Storm Harold is plowing through Texas, triggering flash flooding and tornado warnings as the gusty storm pushes toward Mexico.\r\nHarold made landfall just before 10 a.m. CT (11 a.m. ET) on Pa\u2026 [+3758 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Ian Livingston",
-            "title": "The massive central U.S. heat wave is expanding and could set hundreds of records - The Washington Post",
-            "description": "Heat index values continue to approach 130 in spots as widespread temperatures in the 100s overtake the Midwest. Warm overnight lows mean minimal relief.",
-            "url": "https://www.washingtonpost.com/weather/2023/08/22/heat-wave-extreme-temperatures-midwest-plains-south/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L5P7IWBX5RAPZPCWMPPXXZCLXQ.png&w=1440",
-            "publishedAt": "2023-08-22T19:36:00Z",
-            "content": "Comment on this story\r\nComment\r\nNearly 150 million people are under heat alerts Tuesday and through the midweek, as the Midwests most significant heat wave in years heads toward its peak and the Sout\u2026 [+5952 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "Pakistan cable car: 6 children, 2 adults rescued using makeshift chairlift, helicopters - USA TODAY",
-            "description": "Officials rescued six children and two adults trapped in a cable car hundreds of feet above the ground in Pakistan using makeshift chairlift.",
-            "url": "https://www.usatoday.com/story/news/world/2023/08/22/pakistan-chairlift-cable-car/70647726007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/08/22/USAT/a8168591-a4c9-49c8-90b7-2eddfadb98bf-cable_car_logo.jpg?auto=webp&crop=1079,607,x0,y493&format=pjpg&width=1200",
-            "publishedAt": "2023-08-22T19:07:30Z",
-            "content": "Officials have rescued eight people, including six children, from a cable car hundreds of feet above the ground in Pakistan Tuesday using helicopters and a makeshift chairlift, authorities said.\r\nThe\u2026 [+1016 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KPRC Click2Houston"
-            },
-            "author": "NBC News",
-            "title": "15 dead, 36 injured in Mexico bus crash, most apparently Venezuelan migrants - KPRC Click2Houston",
-            "description": "A bus carrying mostly Venezuelan migrants crashed into a freight truck Tuesday in central Mexico, killing at least 15 people and injuring 36, local authorities said.",
-            "url": "https://www.click2houston.com/news/local/2023/08/22/15-dead-36-injured-in-mexico-bus-crash-most-apparently-venezuelan-migrants/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WNPDDZ7GOFDODPQ35GKA5KPN5Y.jpg?_a=ATAPphC0",
-            "publishedAt": "2023-08-22T19:06:52Z",
-            "content": "MEXICO CITY A bus carrying mostly Venezuelan migrants crashed into a freight truck Tuesday in central Mexico, killing at least 15 people and injuring 36, local authorities said.\r\nThe government of Pu\u2026 [+589 chars]"
+            "title": "Trump seeks to steer attention away from first 2024 GOP debate as rivals make final preparations for Milwaukee - CNN",
+            "description": "The front-runner for the 2024 Republican nomination is not only skipping the first presidential primary debate of the season \u2013 he\u2019s also attempting to wrest the spotlight away from the stage in Milwaukee.",
+            "url": "https://www.cnn.com/2023/08/22/politics/first-republican-debate-trump/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230821120536-01-donald-trump-082123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-23T01:06:00Z",
+            "content": "The front-runner for the 2024 Republican nomination is not only skipping the first presidential primary debate of the season hes also attempting to wrest the spotlight away from the stage in Milwauke\u2026 [+10212 chars]"
         }
     ]
 }
