@@ -1,45 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Niha Masih, Leo Sands, Lyric Li, Ellen Francis",
-            "title": "Prigozhin plane crash live updates: No confirmation of Wagner chief\u2019s death - The Washington Post",
-            "description": "People in Yevgeniy Prigozhin\u2019s hometown of St. Petersburg paid tribute to him as news of the crash spread, but the Kremlin has not confirmed his death.",
-            "url": "https://www.washingtonpost.com/world/2023/08/24/prigozhin-plane-crash-wagner-russia-live-updates/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-23-2023/t_8dbdda1af411481aaec9df7e3b95605d_name_sidebysidecrash.jpg&w=1440",
-            "publishedAt": "2023-08-24T12:21:31Z",
-            "content": null
+            "author": "Rich Mckay, Andy Sullivan",
+            "title": "Trump travels to Atlanta for mug shot, booking in election case - Reuters",
+            "description": "Donald Trump arrived in Atlanta on Thursday evening to get his mug shot taken <a href=\"/world/us/trumps-legal-woes-mean-brief-stop-atlanta-jail-2023-08-24/\">at a local jailhouse</a> as part of a wide-ranging criminal case stemming from the former U.S. preside\u2026",
+            "url": "https://www.reuters.com/legal/trump-report-atlanta-jail-face-charges-election-subversion-case-2023-08-24/",
+            "urlToImage": "https://www.reuters.com/resizer/xPAqCQUx87cWUd7Lq31q2Sp1Nnc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JKATLUE37BLGFLSWL6RMURGZ4U.jpg",
+            "publishedAt": "2023-08-24T22:34:00Z",
+            "content": "ATLANTA, Aug 24 (Reuters) - Donald Trump arrived in Atlanta on Thursday evening to get his mug shot taken at a local jailhouse as part of a wide-ranging criminal case stemming from the former U.S. pr\u2026 [+5330 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "NBC Southern California"
             },
-            "author": "Elizabeth Howell",
-            "title": "What time will SpaceX launch the Crew-7 astronauts for NASA on Aug. 25? - Space.com",
-            "description": "SpaceX's Crew-7 mission aims to launch 4 astronauts to the International Space Station on Aug. 25.",
-            "url": "https://www.space.com/spacex-crew-7-astronaut-launch-what-time",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/aGtfLHXTiNdgqSQ9XbTLdj-1200-80.jpg",
-            "publishedAt": "2023-08-24T12:01:58Z",
-            "content": "Four astronauts from four countries are about to make a long journey in space.\r\nThe SpaceX Crew-7 mission will launch to the International Space Station no earlier than Friday (Aug. 25) at3:50 a.m.\u00a0E\u2026 [+2743 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Amelia Lucas",
-            "title": "Subway sandwich chain sells itself to Dunkin' owner Roark Capital - CNBC",
-            "description": "The Roark deal ends more than five decades of private family ownership for Subway.",
-            "url": "https://www.cnbc.com/2023/08/24/subway-sells-to-dunkin-owner-roark-capital.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107178413-1673614492595-gettyimages-1456041185-dsc_1661_6789932c-067d-4df4-b010-f295993ce5d2.jpeg?v=1692876943&w=1920&h=1080",
-            "publishedAt": "2023-08-24T11:35:43Z",
-            "content": "Roark Capital is buying Subway, ending the sandwich chain's more than five decades of family ownership and marking a new era for the struggling company.\r\nThe announcement Thursday ends the chain's le\u2026 [+2950 chars]"
+            "author": "Andrew Blankstein, Jonathan Lloyd",
+            "title": "OC bar shooter who killed 3 identified as an ex-SoCal police officer - NBC Southern California",
+            "description": "The man believed to have opened fire Wednesday night at a crowded Orange County bar, killing three people, was a former law enforcement officer who targeted his\u2026",
+            "url": "https://www.nbclosangeles.com/news/local/oc-bar-shooter-mass-shooting-suspect-trabuco-canyon-orange-county-cooks-corner-john-snowling/3212437/",
+            "urlToImage": "https://media.nbclosangeles.com/2023/08/cooks-corner-bar-oc-trabuco-canyon-august-24-2023.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-08-24T21:41:32Z",
+            "content": "The man who opened fire Wednesday night at a crowded Orange County bar, killing three people, was a former Southern California law enforcement officer who targeted his estranged wife, authorities sai\u2026 [+3751 chars]"
         },
         {
             "source": {
@@ -47,51 +34,38 @@
                 "name": "CBS News"
             },
             "author": "Alexander Tin",
-            "title": "COVID hospitalizations climb 22% this week \u2014 and the CDC predicts further increases as new variants spread - CBS News",
-            "description": "So far, the CDC doesn't think the highly mutated BA.2.86 variant is to blame.",
-            "url": "https://www.cbsnews.com/news/covid-hospitalizations-spike-22-percent-cdc-predicts-increase-new-variants-2023/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/31/f1ca414a-bcbb-4baf-8bc5-7385bebd1aab/thumbnail/1200x630g4/f1368b81c99c41e416f2206c864d3afd/ap17023711999843.jpg?v=2d4fe0207a5a36b9cd65a668b55f91b2",
-            "publishedAt": "2023-08-24T11:21:00Z",
-            "content": "The Centers for Disease Control and Prevention is now forecasting an acceleration in new COVID-19 hospitalizations over the coming month, the agency said this week, replacing a previous projection th\u2026 [+4516 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jenni Reid",
-            "title": "Turkey surprises with bigger-than-expected interest rate hike to 25% in bid to tame inflation - CNBC",
-            "description": "Turkey's central bank on Thursday hiked interest rates by more than expected to 25% in bid to tame red-hot inflation.",
-            "url": "https://www.cnbc.com/2023/08/24/turkish-central-bank-announces-bigger-than-expected-rate-hike-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107253965-1686290921281-gettyimages-1243508235-cupolo-notitle220924_npqtS.jpeg?v=1692875625&w=1920&h=1080",
-            "publishedAt": "2023-08-24T11:13:45Z",
-            "content": "Turkey's central bank on Thursday hiked interest rates by more than expected to 25%, signaling it was willing to follow through on a new commitment to damp inflation through monetary policy.\r\nThe mai\u2026 [+2278 chars]"
+            "title": "New COVID variant BA.2.86 spreading in the U.S. in August 2023. Here are key facts experts want you to know. - CBS News",
+            "description": "Officials say testing should still work for the new COVID variant.",
+            "url": "https://www.cbsnews.com/news/new-covid-variant-ba286-2023-what-to-know-experts/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2021/06/18/a26bf15d-5dbc-479b-8fd6-e6342d927ff6/thumbnail/1200x630/5e4a444b2538c231e6d93bab07728cd6/hypatia-h_dd57fb94e53193d6b3e50cc0a0e15774-h_1e59bfb69db49010afe30b77e634d668.jpg?v=85153828b1c3c07a041ab8e73ff87e39",
+            "publishedAt": "2023-08-24T21:08:00Z",
+            "content": "Health authorities and scientists say they are now racing to study BA.2.86, a new strain of the virus that causes COVID-19, after the highly mutated variant was spotted spreading in multiple countrie\u2026 [+7388 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Thomas Schlachter",
-            "title": "Shohei Ohtani won\u2019t pitch again this season after tearing UCL; hits MLB-leading home run in same game - CNN",
-            "description": "Shohei Ohtani won\u2019t pitch again in the 2023 MLB season after suffering a tear to the ulnar collateral ligament (UCL) in his right elbow, Los Angeles Angels general manager Perry Minasian confirmed.",
-            "url": "https://www.cnn.com/2023/08/24/sport/shohei-ohtani-ucl-tear-home-run-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230824052456-01-shohei-ohtani-082323.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-24T11:05:00Z",
-            "content": "Shohei Ohtani wont pitch again in the 2023 MLB season after suffering a tear to the ulnar collateral ligament (UCL) in his right elbow, Los Angeles Angels general manager Perry Minasian confirmed.\r\nT\u2026 [+2210 chars]"
+            "author": "Amanda Musa",
+            "title": "CDC launches effort to bolster hospital sepsis programs - CNN",
+            "description": "In a typical year, at least 1.7 million adults in the US develop sepsis, and at least 350,000 die in the hospital or are moved into hospice care, according to the US Centers for Disease Control and Prevention.",
+            "url": "https://www.cnn.com/2023/08/24/health/cdc-sepsis-hospitals/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230612155132-01-cdc-hq-080622-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-24T21:02:00Z",
+            "content": "In a typical year, at least 1.7 million adults in the US develop sepsis, and at least 350,000 die in the hospital or are moved into hospice care, according to the US Centers for Disease Control and P\u2026 [+4869 chars]"
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
             },
-            "author": "Deon J. Hampton",
-            "title": "Some Maui residents have returned to live in their homes that were spared - NBC News",
-            "description": "LAHAINA, Hawaii \u2014 Life continues amid the smoky ruins of this historic seaside town, which was destroyed by wildfire.",
-            "url": "https://www.nbcnews.com/news/us-news/maui-residents-returned-live-homes-spared-rcna100519",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230823-maui-lahaina-hawaii-lilia-vicera-ac-751p-2987a5.jpg",
-            "publishedAt": "2023-08-24T10:30:42Z",
-            "content": "LAHAINA, Hawaii Life continues amid the smoky ruins of this historic seaside town, which was destroyed by wildfire.\r\nThe massive firestorms that tore through Lahaina gutted entire neighborhoods and h\u2026 [+3573 chars]"
+            "author": "Emlyn Travis",
+            "title": "Kim Cattrall ad-libbed this 'And Just Like That' moment in season 2 finale - Entertainment Weekly News",
+            "description": "\"It's just totally a moment of an actor playing the moment and it's really nice,\" said showrunner Michael Patrick King.",
+            "url": "https://ew.com/tv/kim-cattrall-ad-libbed-and-just-like-that-moment-season-2-finale/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=1%2C56%2C1500%2C806&poi=%5B750%2C260%5D&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F08%2F24%2FKim-Cattrall-Samantha-And-Just-Like-That.jpg",
+            "publishedAt": "2023-08-24T21:01:00Z",
+            "content": "Warning: This article contains spoilers for the season 2 finale of And Just Like That, \"The Last Supper Part Two: Entre\u00e9.\"\r\nTheAnd Just Like That creative team has revealed the sweet little ad-lib th\u2026 [+3505 chars]"
         },
         {
             "source": {
@@ -99,168 +73,194 @@
                 "name": "Barron's"
             },
             "author": "Adam Clark",
-            "title": "Nvidia Stock Is Surging. Its Earnings Cleared Up Concerns Including China. - Barron's",
+            "title": "Nvidia Stock Hit an Intraday High After Stellar Earnings. What Wall Street Is Saying. - Barron's",
             "description": "Analysts have been upgrading price targets for the chip maker's shares following its impressive report.",
             "url": "https://www.barrons.com/articles/nvidia-wall-street-reaction-stock-price-earnings-87703e67",
             "urlToImage": "https://images.barrons.com/im-436455/social",
-            "publishedAt": "2023-08-24T10:17:00Z",
-            "content": null
+            "publishedAt": "2023-08-24T20:56:00Z",
+            "content": "Nvidia\r\nshares surged to a record high in intraday trading as analysts welcomed results showing the artificial-intelligence boom is still powering its growth.\u00a0\r\n Nvidia\r\n(ticker: NVDA) stock was up 4\u2026 [+3495 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anna Chernova, Rob Picheta, Tara John",
+            "title": "Putin says Prigozhin was 'talented man' who 'made serious mistakes' in first comments since plane crash - CNN",
+            "description": "Russian President Vladimir Putin made his first public comments Thursday on the plane crash believed to have killed Yevgeny Prigozhin, saying the Wagner leader was \u201ctalented\u201d but made \u201cserious mistakes in life.\u201d",
+            "url": "https://www.cnn.com/2023/08/24/europe/putin-prigozhin-comments-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230204073956-putin-prigozhin-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-24T20:46:00Z",
+            "content": "Russian President Vladimir Putin made his first public comments Thursday on the plane crash believed to have killed Yevgeny Prigozhin, saying the Wagner leader was talented but made serious mistakes \u2026 [+3977 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Gabrielle Fonrouge",
+            "title": "Gap reports another period of declining sales across all brands, warns of 'uncertain consumer' - CNBC",
+            "description": "Gap reported mixed results on Thursday and underwhelming current-quarter guidance.",
+            "url": "https://www.cnbc.com/2023/08/24/gap-gps-earnings-q2-2023.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107252073-1686077299086-gettyimages-1128300965-775307132.jpeg?v=1692908581&w=1920&h=1080",
+            "publishedAt": "2023-08-24T20:23:01Z",
+            "content": "Pedestrians walk past Old Navy and GAP stores in Times Square, New York City.\r\nGap reported mixed results on Thursday and underwhelming current-quarter guidance as the longtime mall retailer warned o\u2026 [+8477 chars]"
         },
         {
             "source": {
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Ruxandra Iordache, CNBC",
-            "title": "Emerging economies group BRICS invites 6 new members, including Saudi Arabia and Iran - NBC News",
-            "description": "The BRICS group of nations is inviting six countries \u2014 Argentina, Egypt, Iran, Ethiopia, Saudi Arabia and the United Arab Emirates \u2014 to become new members.",
-            "url": "https://www.nbcnews.com/news/world/brics-invites-6-countries-saudi-arabia-iran-join-group-rcna101561",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230824-brics-mb-0942-83ee3b.jpg",
-            "publishedAt": "2023-08-24T09:51:28Z",
-            "content": "The BRICS economic coalition of emerging markets on Thursday extended membership invitations to six nations, South African President and current BRICS chair Cyril Ramaphosa said.\r\nThe BRICS alliance \u2026 [+5339 chars]"
+            "author": "Doha Madani",
+            "title": "75 Pittsburgh officers on leave after hourslong shootout and standoff during eviction attempt - NBC News",
+            "description": "At least 75 local law enforcement officers are being placed on leave in Pittsburgh following an hourslong standoff with a man who shot at sheriff's deputies when they went to serve an eviction notice.",
+            "url": "https://www.nbcnews.com/news/us-news/75-pittsburgh-officers-leave-hourslong-shootout-standoff-suspect-rcna101668",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230823-pittsburgh-shooter-mn-1305-d12f4b.jpg",
+            "publishedAt": "2023-08-24T20:21:40Z",
+            "content": "At least 75 local law enforcement officers are being placed on leave in Pittsburgh following an hourslong standoff with a man who shot at sheriff's deputies when they went to serve an eviction notice\u2026 [+2196 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
+                "name": "Hollywood Reporter"
             },
-            "author": "Tim Hardwick",
-            "title": "iPhone 15 USB-C Cables Again Said to Be Limited to USB 2.0 Transfer Speeds - MacRumors",
-            "description": "All iPhone 15 models this year are expected to adopt USB-C ports for the first time, and while USB-C has several advantages over Lightning, another...",
-            "url": "https://www.macrumors.com/2023/08/24/iphone-15-usb-c-cable-usb2-transfer-speeds/",
-            "urlToImage": "https://images.macrumors.com/t/BRgr5_499ria-8De8ojBlbh1IBQ=/2048x/article-new/2023/08/1.5m-usb-c-cable-iphone-15.jpeg",
-            "publishedAt": "2023-08-24T09:05:55Z",
-            "content": "All iPhone 15 models this year are expected to adopt USB-C ports for the first time, and while USB-C has several advantages over Lightning, another rumor today suggests that Apple's standard iPhone 1\u2026 [+1267 chars]"
+            "author": "Katie Kilkenny",
+            "title": "Writers Guild Replies to Studios\u2019 Counter Offer: Not \u201cNearly Enough\u201d - Hollywood Reporter",
+            "description": "The update follows a tense back-and-forth between the union and entertainment companies on Aug. 22 following talks.",
+            "url": "https://www.hollywoodreporter.com/business/business-news/writers-guild-replies-to-studios-counter-offer-1235573012/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/2023_05-WGA-01.jpg?w=1024",
+            "publishedAt": "2023-08-24T20:03:45Z",
+            "content": "The Writers Guild of America is sharing its perspective on the progress of contract negotiations with studios and streamers since they restarted on Aug. 11. \r\n\u201cThe companies\u2019 counteroffer is neither \u2026 [+6645 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "CBS Sports"
             },
             "author": "",
-            "title": "What to know about Japan releasing Fukushima water into the ocean - NPR",
-            "description": "The water comes from the Fukushima Daiichi nuclear power plant. Although most scientists agree it does not pose an immediate environmental threat, some are worried about the long-term consequences.",
-            "url": "https://www.npr.org/2023/08/24/1195419846/fukushima-radioactive-water-japan",
-            "urlToImage": "https://media.npr.org/assets/img/2023/08/23/gettyimages-1246380465_wide-988ee4aed30ae3694625fabeee293896dfe60421-s1400-c100.jpg",
-            "publishedAt": "2023-08-24T09:00:54Z",
-            "content": "Storage tanks for contaminated water at the Fukushima Daiichi nuclear power plant are near capacity.\r\nPHILIP FONG/AFP via Getty Images\r\nWorkers in Japan have started releasing treated radioactive wat\u2026 [+6971 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Devan Cole",
-            "title": "Donald Trump to surrender in Atlanta in fourth criminal case brought against ex-president this year - CNN",
-            "description": "Former President Donald Trump will surrender on Thursday to be booked on more than a dozen charges stemming from his efforts to reverse Georgia\u2019s 2020 election results, the fourth time this year the former president has faced criminal charges.",
-            "url": "https://www.cnn.com/2023/08/24/politics/donald-trump-surrender-fulton-county-jail-criminal-case/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230823172508-01-donald-trump-georgia-file-082223.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-24T09:00:00Z",
-            "content": "Former President Donald Trump will surrender on Thursday to be booked on more than a dozen charges stemming from his efforts to reverse Georgias 2020 election results, the fourth time this year the f\u2026 [+2953 chars]"
+            "title": "Shohei Ohtani injury: Angels superstar suffers UCL tear, won't pitch again this season, but could still hit - CBS Sports",
+            "description": "The news clouds the future for baseball's most dynamic player ahead of his date with free agency",
+            "url": "https://www.cbssports.com/mlb/news/shohei-ohtani-injury-angels-superstar-suffers-ucl-tear-wont-pitch-again-this-season-but-could-still-hit/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/24/2ae9bf25-bb4d-4228-9fe2-b785aa5b9773/thumbnail/1200x675/40a18b9a248335e3c087e962387bc8f2/ohtani-getty-32.png",
+            "publishedAt": "2023-08-24T19:57:00Z",
+            "content": "Los Angeles Angels two-way phenom Shohei Ohtani departed his start Wednesday against the Cincinnati Reds\u00a0alongside a trainer with what the team called \"arm fatigue.\" Hours later, Angels general manag\u2026 [+2925 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Meduza"
+                "name": "NASASpaceflight.com"
             },
-            "author": null,
-            "title": "Ukraine is going all out in the decisive phase of the summer offensive - Meduza",
-            "description": "Although it\u2019s been two months since the Armed Forces of Ukraine (AFU) launched their counteroffensive in the south of the country, only by mid-August did the operation mature into its decisive phase. Earlier, the defenders used relatively small forces in diff\u2026",
-            "url": "https://meduza.io/en/feature/2023/08/24/ukraine-is-going-all-out-in-the-decisive-phase-of-the-summer-offensive",
-            "urlToImage": "https://meduza.io/imgly/share/1692879387/en/feature/2023/08/24/ukraine-is-going-all-out-in-the-decisive-phase-of-the-summer-offensive",
-            "publishedAt": "2023-08-24T08:46:00Z",
-            "content": "Although its been two months since the Armed Forces of Ukraine (AFU) launched their counteroffensive in the south of the country, only by mid-August did the operation mature into its decisive phase. \u2026 [+27888 chars]"
+            "author": "Bella Richards",
+            "title": "NASA gives Crew-7 the \"go\" for launch to ISS on Friday - NASASpaceFlight.com - NASASpaceflight.com",
+            "description": "NASA is preparing to launch its next astronaut rotation, Crew-7, to the International Space Station\u2026",
+            "url": "https://www.nasaspaceflight.com/2023/08/nasa-gives-crew-7-the-go-for-launch-to-iss-on-friday/",
+            "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2023/08/NSF-2023-08-24-20-32-35-896.jpg",
+            "publishedAt": "2023-08-24T19:43:45Z",
+            "content": "5NASA is preparing to launch its next astronaut rotation, Crew-7, to the International Space Station (ISS) this week on Friday, Aug. 25. The four astronauts will launch from Launch Complex 39A (LC-39\u2026 [+7674 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TMZ"
+                "name": "Lifehacker.com"
             },
-            "author": "TMZ Staff",
-            "title": "Britney Spears Shelling Out $10K a Month for Sam Asghari's New Apartment - TMZ",
-            "description": "Sam Asghari packed up his belongings and left Britney Spears, but that doesn't mean he has to foot his own bill for his new living quarters -- Britney's the one picking up the tab, TMZ has learned.",
-            "url": "https://www.tmz.com/2023/08/24/britney-spears-paying-10000-10k-month-sam-asghari-new-apartment/",
-            "urlToImage": "https://imagez.tmz.com/image/5a/16by9/2023/08/23/5a32f6bfddb948099b14e29c95b75d7a_xl.jpg",
-            "publishedAt": "2023-08-24T08:00:00Z",
-            "content": "Sam Asghari packed up his belongings and left Britney Spears, but that doesn't mean he has to foot his own bill for his new living quarters -- Britney's the one picking up the tab, TMZ has learned.\r\n\u2026 [+1457 chars]"
+            "author": "Joshua Hawkins",
+            "title": "How to Hide Your Phone Number on Android and iPhone - Lifehacker",
+            "description": "With these three methods, you can place phone calls anonymously.",
+            "url": "https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7b5f3866e844c8d55b72bbebb85514cc.jpg",
+            "publishedAt": "2023-08-24T19:30:00Z",
+            "content": "When you call someone, you usually want them to know who you are. Usually. On the flip side, there are times when you might want or need to hide your phone number from the person on the other end of \u2026 [+2784 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Eric Bradner, Daniel Strauss, Arit John, Steve Contorno",
-            "title": "Takeaways from the first Republican presidential debate - CNN",
-            "description": "With Donald Trump skipping the first 2024 Republican presidential primary debate, eight of his primary rivals \u2013 most of them men wearing ties similar to the bright red one regularly worn by the former president \u2013 brawled for second-place status Wednesday nigh\u2026",
-            "url": "https://www.cnn.com/2023/08/23/politics/takeaways-republican-debate/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230823215612-05-first-republican-debate-milwaukee-082323.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-24T06:33:00Z",
-            "content": "With Donald Trump skipping the first 2024 Republican presidential primary debate, eight of his primary rivals most of them men wearing ties similar to the bright red one regularly worn by the former \u2026 [+13172 chars]"
+            "author": "Sumayya Ismail",
+            "title": "\u2018A wall of BRICS\u2019: The significance of adding six new members to the bloc - Al Jazeera English",
+            "description": "Argentina, Egypt, Ethiopia, Iran, Saudi Arabia and UAE invited to join the grouping of top emerging economies.",
+            "url": "https://www.aljazeera.com/news/2023/8/24/analysis-wall-of-brics-the-significance-of-adding-six-new-members",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-08-23T101005Z_1848209155_RC2MT2A2IB2F_RTRMADP_3_BRICS-SUMMIT-1692848545.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-08-24T19:28:18Z",
+            "content": "Johannesburg, South Africa The BRICS bloc of top emerging economies have taken a major step in expanding its reach and influence with the announcement that six more nations have been invited join as \u2026 [+8344 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "KATE BRUMBACK",
-            "title": "Rudy Giuliani surrenders at jail in Atlanta on 2020 election charges - The Associated Press",
-            "description": "Rudy Giuliani has surrendered to authorities in Georgia to face an indictment alleging he acted as former President Donald Trump\u2019s chief co-conspirator in a plot to subvert the 2020 election. The former New York City mayor is charged with Trump and 17 other p\u2026",
-            "url": "https://apnews.com/article/trump-giuliani-georgia-election-indictment-fulton-county-203b1e69cbff227a0bf8cc59a6bb645f",
-            "urlToImage": "https://dims.apnews.com/dims4/default/1ac0e75/2147483647/strip/true/crop/2700x1519+0+591/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F87%2F33%2F38703537d35cdbdec2d75cf10bad%2F1e4ff92b4c80489583cdf4075a0d3333",
-            "publishedAt": "2023-08-24T05:28:00Z",
-            "content": "ATLANTA (AP) Rudy Giuliani, Donald Trumps lawyer and confidant, turned himself in at a jail in Atlanta on Wednesday on charges related to efforts to overturn then-President Trumps loss in the 2020 pr\u2026 [+5560 chars]"
+            "author": "Brianna Sacks, Allyson Chiu",
+            "title": "Maui fire: Hawaiian Electric faces scrutiny for handling of evidence - The Washington Post",
+            "description": "The utility removed damaged poles, lines and other equipment from where the Lahaina fire reportedly started before investigators were able to view the scene.",
+            "url": "https://www.washingtonpost.com/climate-environment/2023/08/24/maui-fires-power-utility-lahaina-investigation/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUUQBQFUW5FZHCUAMTES7QYXN4.jpg&w=1440",
+            "publishedAt": "2023-08-24T19:22:34Z",
+            "content": "Comment on this story\r\nComment\r\nLAHAINA, Hawaii The Hawaii power utility believed to have started the deadly Lahaina fire removed damaged power poles and other equipment from a key fire scene, potent\u2026 [+10131 chars]"
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": "engadget",
+                "name": "Engadget"
             },
-            "author": "The Associated Press",
-            "title": "Idaho slayings: Bryan Kohberger's trial postponed after he waived right to speedy trial - NBC News",
-            "description": "The trial for a man accused of stabbing four University of Idaho students to death late last year will not happen as scheduled on Oct. 2.",
-            "url": "https://www.nbcnews.com/news/us-news/trial-postponed-idaho-killings-bryan-kohberger-speedy-trial-rcna101507",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230824-kohberger-cc-1233a-3b7f63.jpg",
-            "publishedAt": "2023-08-24T04:41:00Z",
-            "content": "MOSCOW, Idaho The trial for a man accused of stabbing four University of Idaho students to death late last year will not happen as scheduled on Oct. 2.\r\nBryan Kohberger waived his right to a speedy t\u2026 [+1287 chars]"
+            "author": "Will Shanklin",
+            "title": "NASA reveals pollution maps gathered by the TEMPO space instrument - Engadget",
+            "description": "NASA has published the first maps from its new space-based pollution instrument, TEMPO (Tropospheric Emissions: Monitoring of Pollution). Although you won\u2019t ...",
+            "url": "https://www.engadget.com/nasa-reveals-pollution-maps-gathered-by-the-tempo-space-instrument-190539536.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ndVinXg5lpr57v83mVB63Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/1bd84dc0-42ad-11ee-adc3-37f495b94fa0",
+            "publishedAt": "2023-08-24T19:06:43Z",
+            "content": "NASA has published the first maps from its new space-based pollution instrument, TEMPO (Tropospheric Emissions: Monitoring of Pollution). Although you wont be shocked to learn it reveals higher pollu\u2026 [+2442 chars]"
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": null,
-            "title": "FC Cincinnati 3-3 Inter Miami CF (Aug 23, 2023) Game Analysis - ESPN",
-            "description": "Expert recap and game analysis of the Inter Miami CF vs. FC Cincinnati U.s. Open Cup game from August 23, 2023 on ESPN.",
-            "url": "https://www.espn.com/soccer/report/_/gameId/670651",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/soccer.png",
-            "publishedAt": "2023-08-24T04:36:32Z",
-            "content": "Lionel Messi inspired a thrilling comeback to help Inter Miami overcome a 2-0 deficit and beat FC Cincinnati on penalties Wednesday to reach the final of the U.S. Open Cup after a dramatic night in O\u2026 [+4860 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Moon rover exits India's Chandrayaan-3 spacecraft to explore lunar surface - Reuters",
-            "description": "The moon rover of India's Chandrayaan-3 exited the spacecraft on Thursday morning to begin its exploration of the lunar surface, the country's space agency said on messaging platform X, formerly known as Twitter.",
-            "url": "https://www.reuters.com/technology/space/moon-rover-exits-indias-chandrayaan-3-spacecraft-explore-lunar-surface-tv-2023-08-24/",
-            "urlToImage": "https://www.reuters.com/resizer/2XGJ7VT7Bvz0tE-WcEpQ_owpvUw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PIKKBTJMFRIGBCVXXBZSNVIXHM.jpg",
-            "publishedAt": "2023-08-24T04:25:39Z",
-            "content": "NEW DELHI, Aug 24 (Reuters) - The moon rover of India's Chandrayaan-3 exited the spacecraft on Thursday morning to begin its exploration of the lunar surface, the country's space agency said on messa\u2026 [+1466 chars]"
+            "author": "Emily Shapiro",
+            "title": "Boyfriend arrested in murder of missing North Carolina woman, police say they believe they found remains - ABC News",
+            "description": "Allisha Watts had been missing since July 16.",
+            "url": "https://abcnews.go.com/US/boyfriend-arrested-murder-missing-north-carolina-woman-police/story?id=102538208",
+            "urlToImage": "https://s.abcnews.com/images/US/Allisha-Watts-ht-thg-230824_1692901269492_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-08-24T18:52:03Z",
+            "content": "Authorities said they believe they've found the remains of 39-year-old Allisha Watts, a North Carolina woman who has been missing for over a month.\r\nWatts' boyfriend, James Dunmore, was arrested Thur\u2026 [+1502 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "SB Nation"
             },
-            "author": "Tom Tapp",
-            "title": "6 Injured, 4 Dead In Mass Shooting At Famous Orange County Biker Bar - Deadline",
-            "description": "Four people died and at least six others were injured tonight in a shooting at a famed biker bar in Orange County. The shooting occurred at about 7:30 p.m. at Cook\u2019s Corner in the 19100 block\u2026",
-            "url": "https://deadline.com/2023/08/mass-shooting-orange-county-biker-bar-cooks-corner-1235526821/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/GettyImages-1246437807.jpg?w=1024",
-            "publishedAt": "2023-08-24T04:19:00Z",
-            "content": "Four people died and at least six others were injured tonight in a shooting at a famed biker bar in Orange County.\r\nThe shooting occurred at about 7:30 p.m. at Cook\u2019s Corner in the 19100 block of San\u2026 [+1765 chars]"
+            "author": "James Dator",
+            "title": "HBO BS High review: 10 most shocking revelations from the documentary - SB Nation",
+            "description": "These details are unbelievable.",
+            "url": "https://www.sbnation.com/college-football/2023/8/24/23844324/hbo-bishop-sycamore-documentary-bill-belichick-review",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5JsZAbiNoo03L-ErJnIuswA3XoM=/0x25:1280x695/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24871084/bs_high.png",
+            "publishedAt": "2023-08-24T18:17:21Z",
+            "content": "Do I look cool? I dont look like a con artist? \r\nRoy Johnson, the architect of Bishop Sycamore sits in a dimly lit room, with dire concern about his appearance to a national audience. Within the firs\u2026 [+5109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexandra Canal",
+            "title": "'Barbie' tops 'Super Mario Bros. Movie' as highest-grossing film of 2023 - Yahoo Finance",
+            "description": "\"Barbie\" has officially nabbed the title of highest-grossing movie of the year after topping \"The Super Mario Bros. Movie\" on Wednesday.",
+            "url": "https://finance.yahoo.com/news/barbie-tops-super-mario-bros-movie-as-highest-grossing-film-of-2023-172503946.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WFfNeN_f895dj.wiqam.UQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODg-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/7139d400-3a1a-11ee-b7f9-66b2cde1ab20",
+            "publishedAt": "2023-08-24T17:25:03Z",
+            "content": "Mattel (MAT) and Warner Bros. Discovery's (WBD) \"Barbie\" has officially nabbed the title of highest-grossing movie of 2023, topping Universal's \"The Super Mario Bros. Movie\" according to the latest s\u2026 [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Bryan M. Wolfe",
+            "title": "Should you buy the Google Pixel 7 or wait for the Google Pixel 8? - Digital Trends",
+            "description": "Google is set to release the new Pixel 8 smartphone lineup, replacing the Pixel 7 and Pixel 7 Pro. Should you wait for the new models?",
+            "url": "https://www.digitaltrends.com/mobile/should-you-buy-google-pixel-7-or-wait-for-google-pixel-8/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/05/Pixel-7-and-Pixel-7a-Back.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2023-08-24T17:00:34Z",
+            "content": "Christine Romero-Chan / Digital Trends\r\nGoogle will soon launch the new Google Pixel 8 smartphone lineup. Although the Google Pixel 7 and Google Pixel 7 Pro are some of the best Android phones, it\u2019s \u2026 [+8791 chars]"
         }
     ]
 }
