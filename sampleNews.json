@@ -1,136 +1,149 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren Said-Moorhouse",
+            "title": "Prigozhin would be latest in line of Putin critics who met an early death - CNN",
+            "description": "The warnings were there. Speculation about Yevgeny Prigozhin\u2019s eventual fate began soon after his march on Russia two months ago.",
+            "url": "https://www.cnn.com/2023/08/24/europe/putin-critics-dead-yevgeny-prigozhin-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230823224229-yevgeny-prigozhin-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-25T09:54:00Z",
+            "content": "The warnings were there. Speculation about Yevgeny Prigozhins eventual fate began soon after his march on Russia two months ago.\r\nThe Wagner chief may have initially survived the aftermath of his fai\u2026 [+12376 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foxweather.com"
+            },
+            "author": "Hillary Andrews, Andrew Wulfeck",
+            "title": "700k without power as Great Lakes slammed with tornadoes, 75 mph winds - Fox Weather ",
+            "description": "For the second day in a row, severe weather across the Great Lakes caused major problems on Thursday, with a tornado being sighted southeast of Lansing, Michigan, and damaging wind gusts spread across multiple states.",
+            "url": "https://www.foxweather.com/weather-news/storms-great-lakes-rain-northeast-weekend",
+            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/08/1024/512/cody.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-25T09:42:00Z",
+            "content": "For the second day in a row, severe weather across the Great Lakes caused major problems on Thursday, with a tornado being sighted southeast of Lansing, Michigan, and damaging wind gusts spread acros\u2026 [+3344 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Lock Him Up? A New Poll Has Some Bad News for Trump - POLITICO",
+            "description": "A new POLITICO Magazine/Ipsos poll punctures some prevailing political narratives about the Trump indictments.",
+            "url": "https://www.politico.com/news/magazine/2023/08/25/ipsos-poll-trump-indictment-00112755",
+            "urlToImage": "https://static.politico.com/24/fb/3f50349940408f21a60c8746c719/gettyimages-1480229648.jpg",
+            "publishedAt": "2023-08-25T09:00:00Z",
+            "content": "The survey results suggest Americans are taking the cases seriously particularly the Justice Departments 2020 election case and that most people are skeptical of Trumps claim to be the victim of a le\u2026 [+10420 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "Apple May Sell Optional iPhone 15 Pro USB-C Thunderbolt Cable - MacRumors",
+            "description": "Apple may offer a USB-C data transfer accessory cable for iPhone 15 Pro models that is capable of Thunderbolt or USB4 speeds of up to 40Gbps. That is...",
+            "url": "https://www.macrumors.com/2023/08/25/iphone-15-pro-usb-c-thunderbolt-cable/",
+            "urlToImage": "https://images.macrumors.com/t/Ln53r0lhUeyfGUllnhF6yHbDXGk=/1920x/article-new/2023/08/iPhone-15-Blue-USB-C-Feature.jpg",
+            "publishedAt": "2023-08-25T08:01:01Z",
+            "content": "Apple may offer a USB-C data transfer accessory cable for iPhone 15 Pro models that is capable of Thunderbolt or USB4 speeds of up to 40Gbps. That is the latest claim made by Kosutami, who posted det\u2026 [+2686 chars]"
+        },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Rich Mckay, Andy Sullivan",
-            "title": "Trump travels to Atlanta for mug shot, booking in election case - Reuters",
-            "description": "Donald Trump arrived in Atlanta on Thursday evening to get his mug shot taken <a href=\"/world/us/trumps-legal-woes-mean-brief-stop-atlanta-jail-2023-08-24/\">at a local jailhouse</a> as part of a wide-ranging criminal case stemming from the former U.S. preside\u2026",
+            "author": "Rich Mckay, Jack Queen",
+            "title": "Trump's mug shot released after booking at Georgia jail on election charges - Reuters",
+            "description": "Donald Trump's mug shot was released on Thursday evening after he was booked at an Atlanta jail on more than a dozen felony charges as part of a wide-ranging criminal case stemming from the former U.S. president's attempts to overturn his 2020 election defeat\u2026",
             "url": "https://www.reuters.com/legal/trump-report-atlanta-jail-face-charges-election-subversion-case-2023-08-24/",
-            "urlToImage": "https://www.reuters.com/resizer/xPAqCQUx87cWUd7Lq31q2Sp1Nnc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JKATLUE37BLGFLSWL6RMURGZ4U.jpg",
-            "publishedAt": "2023-08-24T22:34:00Z",
-            "content": "ATLANTA, Aug 24 (Reuters) - Donald Trump arrived in Atlanta on Thursday evening to get his mug shot taken at a local jailhouse as part of a wide-ranging criminal case stemming from the former U.S. pr\u2026 [+5330 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC Southern California"
-            },
-            "author": "Andrew Blankstein, Jonathan Lloyd",
-            "title": "OC bar shooter who killed 3 identified as an ex-SoCal police officer - NBC Southern California",
-            "description": "The man believed to have opened fire Wednesday night at a crowded Orange County bar, killing three people, was a former law enforcement officer who targeted his\u2026",
-            "url": "https://www.nbclosangeles.com/news/local/oc-bar-shooter-mass-shooting-suspect-trabuco-canyon-orange-county-cooks-corner-john-snowling/3212437/",
-            "urlToImage": "https://media.nbclosangeles.com/2023/08/cooks-corner-bar-oc-trabuco-canyon-august-24-2023.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2023-08-24T21:41:32Z",
-            "content": "The man who opened fire Wednesday night at a crowded Orange County bar, killing three people, was a former Southern California law enforcement officer who targeted his estranged wife, authorities sai\u2026 [+3751 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Alexander Tin",
-            "title": "New COVID variant BA.2.86 spreading in the U.S. in August 2023. Here are key facts experts want you to know. - CBS News",
-            "description": "Officials say testing should still work for the new COVID variant.",
-            "url": "https://www.cbsnews.com/news/new-covid-variant-ba286-2023-what-to-know-experts/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2021/06/18/a26bf15d-5dbc-479b-8fd6-e6342d927ff6/thumbnail/1200x630/5e4a444b2538c231e6d93bab07728cd6/hypatia-h_dd57fb94e53193d6b3e50cc0a0e15774-h_1e59bfb69db49010afe30b77e634d668.jpg?v=85153828b1c3c07a041ab8e73ff87e39",
-            "publishedAt": "2023-08-24T21:08:00Z",
-            "content": "Health authorities and scientists say they are now racing to study BA.2.86, a new strain of the virus that causes COVID-19, after the highly mutated variant was spotted spreading in multiple countrie\u2026 [+7388 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Amanda Musa",
-            "title": "CDC launches effort to bolster hospital sepsis programs - CNN",
-            "description": "In a typical year, at least 1.7 million adults in the US develop sepsis, and at least 350,000 die in the hospital or are moved into hospice care, according to the US Centers for Disease Control and Prevention.",
-            "url": "https://www.cnn.com/2023/08/24/health/cdc-sepsis-hospitals/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230612155132-01-cdc-hq-080622-file-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-24T21:02:00Z",
-            "content": "In a typical year, at least 1.7 million adults in the US develop sepsis, and at least 350,000 die in the hospital or are moved into hospice care, according to the US Centers for Disease Control and P\u2026 [+4869 chars]"
-        },
-        {
-            "source": {
-                "id": "entertainment-weekly",
-                "name": "Entertainment Weekly"
-            },
-            "author": "Emlyn Travis",
-            "title": "Kim Cattrall ad-libbed this 'And Just Like That' moment in season 2 finale - Entertainment Weekly News",
-            "description": "\"It's just totally a moment of an actor playing the moment and it's really nice,\" said showrunner Michael Patrick King.",
-            "url": "https://ew.com/tv/kim-cattrall-ad-libbed-and-just-like-that-moment-season-2-finale/",
-            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=1%2C56%2C1500%2C806&poi=%5B750%2C260%5D&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F08%2F24%2FKim-Cattrall-Samantha-And-Just-Like-That.jpg",
-            "publishedAt": "2023-08-24T21:01:00Z",
-            "content": "Warning: This article contains spoilers for the season 2 finale of And Just Like That, \"The Last Supper Part Two: Entre\u00e9.\"\r\nTheAnd Just Like That creative team has revealed the sweet little ad-lib th\u2026 [+3505 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Adam Clark",
-            "title": "Nvidia Stock Hit an Intraday High After Stellar Earnings. What Wall Street Is Saying. - Barron's",
-            "description": "Analysts have been upgrading price targets for the chip maker's shares following its impressive report.",
-            "url": "https://www.barrons.com/articles/nvidia-wall-street-reaction-stock-price-earnings-87703e67",
-            "urlToImage": "https://images.barrons.com/im-436455/social",
-            "publishedAt": "2023-08-24T20:56:00Z",
-            "content": "Nvidia\r\nshares surged to a record high in intraday trading as analysts welcomed results showing the artificial-intelligence boom is still powering its growth.\u00a0\r\n Nvidia\r\n(ticker: NVDA) stock was up 4\u2026 [+3495 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Anna Chernova, Rob Picheta, Tara John",
-            "title": "Putin says Prigozhin was 'talented man' who 'made serious mistakes' in first comments since plane crash - CNN",
-            "description": "Russian President Vladimir Putin made his first public comments Thursday on the plane crash believed to have killed Yevgeny Prigozhin, saying the Wagner leader was \u201ctalented\u201d but made \u201cserious mistakes in life.\u201d",
-            "url": "https://www.cnn.com/2023/08/24/europe/putin-prigozhin-comments-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230204073956-putin-prigozhin-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-24T20:46:00Z",
-            "content": "Russian President Vladimir Putin made his first public comments Thursday on the plane crash believed to have killed Yevgeny Prigozhin, saying the Wagner leader was talented but made serious mistakes \u2026 [+3977 chars]"
+            "urlToImage": "https://www.reuters.com/resizer/cwVlHylnZTaHt_ldgfeBSEkkMe4=/916x479/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BVQMWJ42R5NZJBBSN4NG6DG7JE.jpg",
+            "publishedAt": "2023-08-25T07:58:00Z",
+            "content": "ATLANTA, Aug 24 (Reuters) - Donald Trump's mug shot was released on Thursday evening after he was booked at an Atlanta jail on more than a dozen felony charges as part of a wide-ranging criminal case\u2026 [+6508 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Gabrielle Fonrouge",
-            "title": "Gap reports another period of declining sales across all brands, warns of 'uncertain consumer' - CNBC",
-            "description": "Gap reported mixed results on Thursday and underwhelming current-quarter guidance.",
-            "url": "https://www.cnbc.com/2023/08/24/gap-gps-earnings-q2-2023.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107252073-1686077299086-gettyimages-1128300965-775307132.jpeg?v=1692908581&w=1920&h=1080",
-            "publishedAt": "2023-08-24T20:23:01Z",
-            "content": "Pedestrians walk past Old Navy and GAP stores in Times Square, New York City.\r\nGap reported mixed results on Thursday and underwhelming current-quarter guidance as the longtime mall retailer warned o\u2026 [+8477 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Doha Madani",
-            "title": "75 Pittsburgh officers on leave after hourslong shootout and standoff during eviction attempt - NBC News",
-            "description": "At least 75 local law enforcement officers are being placed on leave in Pittsburgh following an hourslong standoff with a man who shot at sheriff's deputies when they went to serve an eviction notice.",
-            "url": "https://www.nbcnews.com/news/us-news/75-pittsburgh-officers-leave-hourslong-shootout-standoff-suspect-rcna101668",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230823-pittsburgh-shooter-mn-1305-d12f4b.jpg",
-            "publishedAt": "2023-08-24T20:21:40Z",
-            "content": "At least 75 local law enforcement officers are being placed on leave in Pittsburgh following an hourslong standoff with a man who shot at sheriff's deputies when they went to serve an eviction notice\u2026 [+2196 chars]"
+            "author": "Lim Hui Jie",
+            "title": "Japan's Nikkei tumbles 2% as Asia markets fall ahead of Powell's Jackson Hole speech - CNBC",
+            "description": "Markets also declined as the tech fuel rally on Wall Street ended.",
+            "url": "https://www.cnbc.com/2023/08/25/asia-markets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107190608-1675813831098-gettyimages-1245884991-hyajjuy00w2JPG.jpeg?v=1692921167&w=1920&h=1080",
+            "publishedAt": "2023-08-25T07:57:00Z",
+            "content": "All of the S&amp;P sectors were in the red on Thursday, with information technology, consumer discretionary and communication services being the biggest laggards of the market. Financials made a shor\u2026 [+933 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hollywood Reporter"
+                "name": "CNBC"
             },
-            "author": "Katie Kilkenny",
-            "title": "Writers Guild Replies to Studios\u2019 Counter Offer: Not \u201cNearly Enough\u201d - Hollywood Reporter",
-            "description": "The update follows a tense back-and-forth between the union and entertainment companies on Aug. 22 following talks.",
-            "url": "https://www.hollywoodreporter.com/business/business-news/writers-guild-replies-to-studios-counter-offer-1235573012/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/2023_05-WGA-01.jpg?w=1024",
-            "publishedAt": "2023-08-24T20:03:45Z",
-            "content": "The Writers Guild of America is sharing its perspective on the progress of contract negotiations with studios and streamers since they restarted on Aug. 11. \r\n\u201cThe companies\u2019 counteroffer is neither \u2026 [+6645 chars]"
+            "author": "Hakyung Kim",
+            "title": "Stock futures mixed as investors await Powell\u2019s Jackson Hole speech: Live updates - CNBC",
+            "description": "Stock futures were mixed as Wall Street looks toward Jerome Powell's speech in Jackson Hole, Wyoming.",
+            "url": "https://www.cnbc.com/2023/08/24/stock-futures-are-little-changed-as-investors-await-powells-jackson-hole-speech-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107286139-1692035927641-NYSE_Traders-OB-20230814-CC-Press-8.jpg?v=1692914974&w=1920&h=1080",
+            "publishedAt": "2023-08-25T07:16:00Z",
+            "content": "U.S. stock futures were mixed in early premarket trade on Friday as Wall Street looked toward Federal Reserve Chairman Jerome Powell's Jackson Hole speech.\r\nFutures tied to the Dow Jones Industrial A\u2026 [+1893 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Saabira Chaudhuri",
+            "title": "Heineken Sells Russia Business\u2026for $1 - WSJ - The Wall Street Journal",
+            "description": "The deal with Russia\u2019s Arnest Group comes after Moscow seized the local assets of Danish beer rival Carlsberg",
+            "url": "https://www.wsj.com/business/deals/heineken-sells-russia-businessfor-1-313c7976",
+            "urlToImage": "https://images.wsj.net/im-841751/social",
+            "publishedAt": "2023-08-25T07:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rhea Mogul, Michelle Toh",
+            "title": "Four million children in Pakistan have no safe water, a year after deadly floods - CNN",
+            "description": "One year after catastrophic floods devastated swathes of Pakistan, some 4 million children in the South Asian nation remain without access to safe water, the United Nations children\u2019s agency has warned.",
+            "url": "https://www.cnn.com/2023/08/25/asia/pakistan-floods-united-nations-children-report-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230825115238-01-pakistan-climate-flood-children.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-25T06:23:00Z",
+            "content": "One year after catastrophic floods devastated swathes of Pakistan, some 4 million children in the South Asian nation remain without access to safe water, the United Nations childrens agency has warne\u2026 [+5413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jeff Eisenberg",
+            "title": "'Blind Side' producers detail payouts that Michael Oher, Tuohy family received - Yahoo Sports",
+            "description": "The producers of 'The Blind Side' pushed back against the notion that the Tuohy family got rich from the film at Michael Oher's expense.",
+            "url": "https://sports.yahoo.com/blind-side-producers-detail-payouts-that-michael-oher-tuohy-family-received-053807875.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_ykV7lUgqBgBZHP7nWJwyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTE-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/6a923470-4308-11ee-bfff-b313a07b4708",
+            "publishedAt": "2023-08-25T05:38:00Z",
+            "content": "The production company that financially backed The Blind Side broke its silence Thursday after more than a week of the films subjects exchanging salacious accusations.\r\nAndrew Kosove and Broderick Jo\u2026 [+3118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Cody Stavenhagen and Sam Blum",
+            "title": "Shohei Ohtani\u2019s elbow injury: Six questions that will shape what comes next - The Athletic",
+            "description": "Can he hit and rehab at the same time? What does this do to his market? Why did the Angels let him keep pitching?",
+            "url": "https://theathletic.com/4804747/2023/08/24/shohei-ohtanis-elbow-injury-six-questions/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/24215414/GettyImages-1636113884-scaled.jpg",
+            "publishedAt": "2023-08-25T05:26:56Z",
+            "content": "The initial news reverberated through the sport like a shockwave. Shohei Ohtani, this unthinkable unicorn pushing baseball beyond its preconceived limits, was hurt.\r\nAnd then, the questions started c\u2026 [+9570 chars]"
         },
         {
             "source": {
@@ -138,129 +151,116 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Shohei Ohtani injury: Angels superstar suffers UCL tear, won't pitch again this season, but could still hit - CBS Sports",
-            "description": "The news clouds the future for baseball's most dynamic player ahead of his date with free agency",
-            "url": "https://www.cbssports.com/mlb/news/shohei-ohtani-injury-angels-superstar-suffers-ucl-tear-wont-pitch-again-this-season-but-could-still-hit/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/24/2ae9bf25-bb4d-4228-9fe2-b785aa5b9773/thumbnail/1200x675/40a18b9a248335e3c087e962387bc8f2/ohtani-getty-32.png",
-            "publishedAt": "2023-08-24T19:57:00Z",
-            "content": "Los Angeles Angels two-way phenom Shohei Ohtani departed his start Wednesday against the Cincinnati Reds\u00a0alongside a trainer with what the team called \"arm fatigue.\" Hours later, Angels general manag\u2026 [+2925 chars]"
+            "title": "Eagles overreactions, reality checks after third preseason game: Do Eli Ricks, Devon Allen make final 53? - CBS Sports",
+            "description": "Players make their case for the 53-man roster during the final preseason game",
+            "url": "https://www.cbssports.com/nfl/news/eagles-overreactions-reality-checks-after-third-preseason-game-do-eli-ricks-devon-allen-make-final-53/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/25/f1ccf8e4-db16-47a3-afb5-c23e3c9f5a7f/thumbnail/1200x675/54428e521f834ed5cb248eb5ca7a1e2f/gettyimages-1636971480.jpg",
+            "publishedAt": "2023-08-25T04:59:55Z",
+            "content": "PHILADELPHIA -- The preseason for the Philadelphia Eagles is officially in the books. After 15 training camp practices and three preseason games, the next step for the Eagles is their 53-man roster c\u2026 [+3784 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "NASASpaceflight.com"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Bella Richards",
-            "title": "NASA gives Crew-7 the \"go\" for launch to ISS on Friday - NASASpaceFlight.com - NASASpaceflight.com",
-            "description": "NASA is preparing to launch its next astronaut rotation, Crew-7, to the International Space Station\u2026",
-            "url": "https://www.nasaspaceflight.com/2023/08/nasa-gives-crew-7-the-go-for-launch-to-iss-on-friday/",
-            "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2023/08/NSF-2023-08-24-20-32-35-896.jpg",
-            "publishedAt": "2023-08-24T19:43:45Z",
-            "content": "5NASA is preparing to launch its next astronaut rotation, Crew-7, to the International Space Station (ISS) this week on Friday, Aug. 25. The four astronauts will launch from Launch Complex 39A (LC-39\u2026 [+7674 chars]"
+            "author": "Jackie Wattles",
+            "title": "SpaceX, NASA delay astronaut launch for \u2018additional analysis\u2019 - CNN",
+            "description": "A SpaceX and NASA mission that was set to launch four astronauts \u2014 representing four nations and space agencies across the globe \u2014 to the International Space Station was abruptly called off Thursday evening.",
+            "url": "https://www.cnn.com/2023/08/25/world/spacex-nasa-crew-7-delay-scrub-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230824143140-spacex-crew-7-preflight-0823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-25T04:25:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA SpaceX and NASA mission that was set to launch four \u2026 [+1943 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Lifehacker.com"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Joshua Hawkins",
-            "title": "How to Hide Your Phone Number on Android and iPhone - Lifehacker",
-            "description": "With these three methods, you can place phone calls anonymously.",
-            "url": "https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7b5f3866e844c8d55b72bbebb85514cc.jpg",
-            "publishedAt": "2023-08-24T19:30:00Z",
-            "content": "When you call someone, you usually want them to know who you are. Usually. On the flip side, there are times when you might want or need to hide your phone number from the person on the other end of \u2026 [+2784 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Sumayya Ismail",
-            "title": "\u2018A wall of BRICS\u2019: The significance of adding six new members to the bloc - Al Jazeera English",
-            "description": "Argentina, Egypt, Ethiopia, Iran, Saudi Arabia and UAE invited to join the grouping of top emerging economies.",
-            "url": "https://www.aljazeera.com/news/2023/8/24/analysis-wall-of-brics-the-significance-of-adding-six-new-members",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-08-23T101005Z_1848209155_RC2MT2A2IB2F_RTRMADP_3_BRICS-SUMMIT-1692848545.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-08-24T19:28:18Z",
-            "content": "Johannesburg, South Africa The BRICS bloc of top emerging economies have taken a major step in expanding its reach and influence with the announcement that six more nations have been invited join as \u2026 [+8344 chars]"
+            "author": "Tom Murray",
+            "title": "Deserted: Dune 2 delayed until 2024 amid actors' and writers' strikes - The Independent",
+            "description": "\u2018Dune\u2019 sequel was previously set to release in November this year",
+            "url": "https://www.independent.co.uk/arts-entertainment/films/news/dune-2-delayed-release-date-writers-strike-b2399152.html",
+            "urlToImage": "https://static.independent.co.uk/2023/08/24/23/newFile-1.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-08-25T03:32:06Z",
+            "content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nDenis Villeneuves Dune sequel has officially been delaye\u2026 [+2912 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Brianna Sacks, Allyson Chiu",
-            "title": "Maui fire: Hawaiian Electric faces scrutiny for handling of evidence - The Washington Post",
-            "description": "The utility removed damaged poles, lines and other equipment from where the Lahaina fire reportedly started before investigators were able to view the scene.",
-            "url": "https://www.washingtonpost.com/climate-environment/2023/08/24/maui-fires-power-utility-lahaina-investigation/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUUQBQFUW5FZHCUAMTES7QYXN4.jpg&w=1440",
-            "publishedAt": "2023-08-24T19:22:34Z",
-            "content": "Comment on this story\r\nComment\r\nLAHAINA, Hawaii The Hawaii power utility believed to have started the deadly Lahaina fire removed damaged power poles and other equipment from a key fire scene, potent\u2026 [+10131 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "Will Shanklin",
-            "title": "NASA reveals pollution maps gathered by the TEMPO space instrument - Engadget",
-            "description": "NASA has published the first maps from its new space-based pollution instrument, TEMPO (Tropospheric Emissions: Monitoring of Pollution). Although you won\u2019t ...",
-            "url": "https://www.engadget.com/nasa-reveals-pollution-maps-gathered-by-the-tempo-space-instrument-190539536.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ndVinXg5lpr57v83mVB63Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/1bd84dc0-42ad-11ee-adc3-37f495b94fa0",
-            "publishedAt": "2023-08-24T19:06:43Z",
-            "content": "NASA has published the first maps from its new space-based pollution instrument, TEMPO (Tropospheric Emissions: Monitoring of Pollution). Although you wont be shocked to learn it reveals higher pollu\u2026 [+2442 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Emily Shapiro",
-            "title": "Boyfriend arrested in murder of missing North Carolina woman, police say they believe they found remains - ABC News",
-            "description": "Allisha Watts had been missing since July 16.",
-            "url": "https://abcnews.go.com/US/boyfriend-arrested-murder-missing-north-carolina-woman-police/story?id=102538208",
-            "urlToImage": "https://s.abcnews.com/images/US/Allisha-Watts-ht-thg-230824_1692901269492_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-08-24T18:52:03Z",
-            "content": "Authorities said they believe they've found the remains of 39-year-old Allisha Watts, a North Carolina woman who has been missing for over a month.\r\nWatts' boyfriend, James Dunmore, was arrested Thur\u2026 [+1502 chars]"
+            "author": "Maeve Reston, Hannah Knowles, Dylan Wells, Marianne LeVine",
+            "title": "Ramaswamy and Haley show the GOP's divergent paths coming out of the debate - The Washington Post",
+            "description": "The Trump-friendly entrepreneur and anti-Trump former U.N. envoy illustrated the chasm in the GOP as the underdog candidates labor in the former president\u2019s shadow.",
+            "url": "https://www.washingtonpost.com/politics/2023/08/24/republican-presidential-debate-ramaswamy-haley/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FD4CRXLYLIZACAAHINLOY4UW54_size-normalized.JPG&w=1440",
+            "publishedAt": "2023-08-25T03:13:00Z",
+            "content": "Comment on this story\r\nComment\r\nAfter her well-received debate showing, Nikki Haleys campaign worked the phones, collected checks from donors and raised more online in the last 24 hours than on any d\u2026 [+8668 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SB Nation"
+                "name": "NDTV News"
             },
-            "author": "James Dator",
-            "title": "HBO BS High review: 10 most shocking revelations from the documentary - SB Nation",
-            "description": "These details are unbelievable.",
-            "url": "https://www.sbnation.com/college-football/2023/8/24/23844324/hbo-bishop-sycamore-documentary-bill-belichick-review",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5JsZAbiNoo03L-ErJnIuswA3XoM=/0x25:1280x695/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24871084/bs_high.png",
-            "publishedAt": "2023-08-24T18:17:21Z",
-            "content": "Do I look cool? I dont look like a con artist? \r\nRoy Johnson, the architect of Bishop Sycamore sits in a dimly lit room, with dire concern about his appearance to a national audience. Within the firs\u2026 [+5109 chars]"
+            "author": null,
+            "title": "Upset Over Divorce, Ex-US Cop Opens Fire At Wife, Others At Bar, Kills 3 - NDTV",
+            "description": "A retired cop upset over his failed marriage opened fire at his wife and others at a southern California bar popular with bikers, killing three people and wounding six, authorities said Thursday.",
+            "url": "https://www.ndtv.com/world-news/upset-over-divorce-ex-us-cop-opens-fire-at-wife-others-at-bar-kills-3-4327717",
+            "urlToImage": "https://c.ndtvimg.com/2023-08/c0kohe54_john-snowling_625x300_25_August_23.jpg",
+            "publishedAt": "2023-08-25T03:03:54Z",
+            "content": "John Snowling retired in 2014 after 30 years as a police officer.\r\nLos Angeles: A retired cop upset over his failed marriage opened fire at his wife and others at a southern California bar popular wi\u2026 [+3381 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "NBCSports.com"
             },
-            "author": "Alexandra Canal",
-            "title": "'Barbie' tops 'Super Mario Bros. Movie' as highest-grossing film of 2023 - Yahoo Finance",
-            "description": "\"Barbie\" has officially nabbed the title of highest-grossing movie of the year after topping \"The Super Mario Bros. Movie\" on Wednesday.",
-            "url": "https://finance.yahoo.com/news/barbie-tops-super-mario-bros-movie-as-highest-grossing-film-of-2023-172503946.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WFfNeN_f895dj.wiqam.UQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODg-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/7139d400-3a1a-11ee-b7f9-66b2cde1ab20",
-            "publishedAt": "2023-08-24T17:25:03Z",
-            "content": "Mattel (MAT) and Warner Bros. Discovery's (WBD) \"Barbie\" has officially nabbed the title of highest-grossing movie of 2023, topping Universal's \"The Super Mario Bros. Movie\" according to the latest s\u2026 [+2173 chars]"
+            "author": "Mike Florio",
+            "title": "Report: Colts, Dolphins continue to negotiate potential Jonathan Taylor trade - NBC Sports",
+            "description": "Even if most teams aren't seriously pursuing a trade for running back Jonathan Taylor, at the end of the day it only takes one.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-colts-dolphins-continue-to-negotiate-potential-jonathan-taylor-trade",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4b02340/2147483647/strip/true/crop/3202x1801+0+167/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F0e%2F44%2Fb93979fd4205a95b07fab8e887a1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1437962531",
+            "publishedAt": "2023-08-25T03:02:59Z",
+            "content": "Even if most teams arent seriously pursuing a trade for running back Jonathan Taylor, at the end of the day it only takes one.\r\nThat one ultimately could be the Dolphins.\r\nBarry Jackson of the Miami \u2026 [+1304 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Digital Trends"
+                "name": "FOX 5 NY"
             },
-            "author": "Bryan M. Wolfe",
-            "title": "Should you buy the Google Pixel 7 or wait for the Google Pixel 8? - Digital Trends",
-            "description": "Google is set to release the new Pixel 8 smartphone lineup, replacing the Pixel 7 and Pixel 7 Pro. Should you wait for the new models?",
-            "url": "https://www.digitaltrends.com/mobile/should-you-buy-google-pixel-7-or-wait-for-google-pixel-8/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/05/Pixel-7-and-Pixel-7a-Back.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2023-08-24T17:00:34Z",
-            "content": "Christine Romero-Chan / Digital Trends\r\nGoogle will soon launch the new Google Pixel 8 smartphone lineup. Although the Google Pixel 7 and Google Pixel 7 Pro are some of the best Android phones, it\u2019s \u2026 [+8791 chars]"
+            "author": "Kendall Green",
+            "title": "As COVID numbers increase, mask mandates return in some places - FOX 5 New York",
+            "description": "COVID-19 cases are on the rise across the nation and in our area, which means mask mandates may be returning in some places.",
+            "url": "https://www.fox5ny.com/news/as-covid-numbers-increase-mask-mandates-return-in-some-places",
+            "urlToImage": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/08/1280/720/GettyImages-1489206278.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-25T02:40:48Z",
+            "content": "NEW YORK - New data shows that we're not out of the woods just yet with COVID-19.\r\nIn fact, the numbers show for the last few weeks, it has sent more Americans to the hospital, with an increase of mo\u2026 [+1726 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Missy Ryan",
+            "title": "U.S. agrees to train Ukraine\u2019s F-16 pilots in Arizona - The Washington Post",
+            "description": "The Pentagon\u2019s announcement follows complaints from officials in Kyiv that the F-16 training program was moving too slowly to meet Ukraine\u2019s wartime needs.",
+            "url": "https://www.washingtonpost.com/national-security/2023/08/24/ukraine-f-16-training-arizona/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NEH6Q4XBN2QCF7K4K6RJCKJWSA_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-08-25T01:51:00Z",
+            "content": "Comment on this story\r\nComment\r\nThe United States will begin instructing Ukrainian pilots in flying F-16 aircraft in Arizona this fall, the Pentagon said Thursday, as the Biden administration moves t\u2026 [+4708 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Russia says Ukraine fired missile towards Moscow, hit Crimea with drones - Reuters",
+            "description": "Russia said on Friday Ukraine had fired a missile towards Moscow and attacked Crimea with 42 drones, in what would be one of the biggest known coordinated Ukrainian air attacks to date on Russian-held territory.",
+            "url": "https://www.reuters.com/world/europe/russia-says-destroys-42-ukraine-launched-drones-over-crimea-2023-08-25/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=154",
+            "publishedAt": "2023-08-25T01:43:53Z",
+            "content": "MOSCOW, Aug 25 (Reuters) - Russia said on Friday Ukraine had fired a missile towards Moscow and attacked Crimea with 42 drones, in what would be one of the biggest known coordinated Ukrainian air att\u2026 [+2602 chars]"
         }
     ]
 }
