@@ -1,109 +1,57 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 35,
     "articles": [
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Lauren Said-Moorhouse",
-            "title": "Prigozhin would be latest in line of Putin critics who met an early death - CNN",
-            "description": "The warnings were there. Speculation about Yevgeny Prigozhin\u2019s eventual fate began soon after his march on Russia two months ago.",
-            "url": "https://www.cnn.com/2023/08/24/europe/putin-critics-dead-yevgeny-prigozhin-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230823224229-yevgeny-prigozhin-1.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-25T09:54:00Z",
-            "content": "The warnings were there. Speculation about Yevgeny Prigozhins eventual fate began soon after his march on Russia two months ago.\r\nThe Wagner chief may have initially survived the aftermath of his fai\u2026 [+12376 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foxweather.com"
-            },
-            "author": "Hillary Andrews, Andrew Wulfeck",
-            "title": "700k without power as Great Lakes slammed with tornadoes, 75 mph winds - Fox Weather ",
-            "description": "For the second day in a row, severe weather across the Great Lakes caused major problems on Thursday, with a tornado being sighted southeast of Lansing, Michigan, and damaging wind gusts spread across multiple states.",
-            "url": "https://www.foxweather.com/weather-news/storms-great-lakes-rain-northeast-weekend",
-            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/08/1024/512/cody.jpg?ve=1&tl=1",
-            "publishedAt": "2023-08-25T09:42:00Z",
-            "content": "For the second day in a row, severe weather across the Great Lakes caused major problems on Thursday, with a tornado being sighted southeast of Lansing, Michigan, and damaging wind gusts spread acros\u2026 [+3344 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Lock Him Up? A New Poll Has Some Bad News for Trump - POLITICO",
-            "description": "A new POLITICO Magazine/Ipsos poll punctures some prevailing political narratives about the Trump indictments.",
-            "url": "https://www.politico.com/news/magazine/2023/08/25/ipsos-poll-trump-indictment-00112755",
-            "urlToImage": "https://static.politico.com/24/fb/3f50349940408f21a60c8746c719/gettyimages-1480229648.jpg",
-            "publishedAt": "2023-08-25T09:00:00Z",
-            "content": "The survey results suggest Americans are taking the cases seriously particularly the Justice Departments 2020 election case and that most people are skeptical of Trumps claim to be the victim of a le\u2026 [+10420 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Tim Hardwick",
-            "title": "Apple May Sell Optional iPhone 15 Pro USB-C Thunderbolt Cable - MacRumors",
-            "description": "Apple may offer a USB-C data transfer accessory cable for iPhone 15 Pro models that is capable of Thunderbolt or USB4 speeds of up to 40Gbps. That is...",
-            "url": "https://www.macrumors.com/2023/08/25/iphone-15-pro-usb-c-thunderbolt-cable/",
-            "urlToImage": "https://images.macrumors.com/t/Ln53r0lhUeyfGUllnhF6yHbDXGk=/1920x/article-new/2023/08/iPhone-15-Blue-USB-C-Feature.jpg",
-            "publishedAt": "2023-08-25T08:01:01Z",
-            "content": "Apple may offer a USB-C data transfer accessory cable for iPhone 15 Pro models that is capable of Thunderbolt or USB4 speeds of up to 40Gbps. That is the latest claim made by Kosutami, who posted det\u2026 [+2686 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Rich Mckay, Jack Queen",
-            "title": "Trump's mug shot released after booking at Georgia jail on election charges - Reuters",
-            "description": "Donald Trump's mug shot was released on Thursday evening after he was booked at an Atlanta jail on more than a dozen felony charges as part of a wide-ranging criminal case stemming from the former U.S. president's attempts to overturn his 2020 election defeat\u2026",
-            "url": "https://www.reuters.com/legal/trump-report-atlanta-jail-face-charges-election-subversion-case-2023-08-24/",
-            "urlToImage": "https://www.reuters.com/resizer/cwVlHylnZTaHt_ldgfeBSEkkMe4=/916x479/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BVQMWJ42R5NZJBBSN4NG6DG7JE.jpg",
-            "publishedAt": "2023-08-25T07:58:00Z",
-            "content": "ATLANTA, Aug 24 (Reuters) - Donald Trump's mug shot was released on Thursday evening after he was booked at an Atlanta jail on more than a dozen felony charges as part of a wide-ranging criminal case\u2026 [+6508 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lim Hui Jie",
-            "title": "Japan's Nikkei tumbles 2% as Asia markets fall ahead of Powell's Jackson Hole speech - CNBC",
-            "description": "Markets also declined as the tech fuel rally on Wall Street ended.",
-            "url": "https://www.cnbc.com/2023/08/25/asia-markets.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107190608-1675813831098-gettyimages-1245884991-hyajjuy00w2JPG.jpeg?v=1692921167&w=1920&h=1080",
-            "publishedAt": "2023-08-25T07:57:00Z",
-            "content": "All of the S&amp;P sectors were in the red on Thursday, with information technology, consumer discretionary and communication services being the biggest laggards of the market. Financials made a shor\u2026 [+933 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Hakyung Kim",
-            "title": "Stock futures mixed as investors await Powell\u2019s Jackson Hole speech: Live updates - CNBC",
-            "description": "Stock futures were mixed as Wall Street looks toward Jerome Powell's speech in Jackson Hole, Wyoming.",
-            "url": "https://www.cnbc.com/2023/08/24/stock-futures-are-little-changed-as-investors-await-powells-jackson-hole-speech-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107286139-1692035927641-NYSE_Traders-OB-20230814-CC-Press-8.jpg?v=1692914974&w=1920&h=1080",
-            "publishedAt": "2023-08-25T07:16:00Z",
-            "content": "U.S. stock futures were mixed in early premarket trade on Friday as Wall Street looked toward Federal Reserve Chairman Jerome Powell's Jackson Hole speech.\r\nFutures tied to the Dow Jones Industrial A\u2026 [+1893 chars]"
-        },
         {
             "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "Saabira Chaudhuri",
-            "title": "Heineken Sells Russia Business\u2026for $1 - WSJ - The Wall Street Journal",
-            "description": "The deal with Russia\u2019s Arnest Group comes after Moscow seized the local assets of Danish beer rival Carlsberg",
-            "url": "https://www.wsj.com/business/deals/heineken-sells-russia-businessfor-1-313c7976",
-            "urlToImage": "https://images.wsj.net/im-841751/social",
-            "publishedAt": "2023-08-25T07:00:00Z",
+            "author": "Nick Timiraos",
+            "title": "Powell Says Fed Will 'Proceed Carefully' on Further Rate Rises - The Wall Street Journal",
+            "description": "Fed chair notes economy hasn\u2019t cooled as expected, saying more strength could warrant additional action",
+            "url": "https://www.wsj.com/economy/central-banking/powell-says-fed-will-proceed-carefully-on-any-further-rate-rises-31b6fc6a",
+            "urlToImage": "https://images.wsj.net/im-842273/social",
+            "publishedAt": "2023-08-25T22:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Ross Devonport",
+            "title": "Martino: Lionel Messi in doubt to make MLS debut Saturday - ESPN",
+            "description": "Inter Miami manager Gerardo \"Tata\" Martino said Friday that Lionel Messi's availability for his potential MLS debut this weekend remains up in the air.",
+            "url": "https://www.espn.com/soccer/story/_/id/38259083/lionel-messi-doubt-make-mls-debut-saturday-martino",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0825%2Fr1215563_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-08-25T21:37:00Z",
+            "content": "Aug 25, 2023, 05:37 PM ET\r\nInter Miami manager Gerardo \"Tata\" Martino said Friday that Lionel Messi's availability for his potential MLS debut this weekend remains up in the air.\r\nInter Miami is in N\u2026 [+3182 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Noah Lyles THREEPEATS 200m for WORLD CHAMPIONSHIP DOUBLE, first since Usain Bolt | NBC Sports - NBC Sports",
+            "description": "Noah Lyles won his third consecutive World Title in the men\u2019s 200m, becoming the first man to win the 100m and 200m at the same World Championships since Usa...",
+            "url": "https://www.youtube.com/watch?v=OAiIq1qzPrA",
+            "urlToImage": "https://i.ytimg.com/vi/OAiIq1qzPrA/maxresdefault.jpg",
+            "publishedAt": "2023-08-25T21:21:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "Jeffrey Clark, Former Justice Department Official, Booked in Trump Georgia Case - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDgvMjUvdXMvamVmZnJleS1jbGFyay10cnVtcC1nZW9yZ2lhLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-08-25T21:16:43Z",
             "content": null
         },
         {
@@ -111,52 +59,39 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Rhea Mogul, Michelle Toh",
-            "title": "Four million children in Pakistan have no safe water, a year after deadly floods - CNN",
-            "description": "One year after catastrophic floods devastated swathes of Pakistan, some 4 million children in the South Asian nation remain without access to safe water, the United Nations children\u2019s agency has warned.",
-            "url": "https://www.cnn.com/2023/08/25/asia/pakistan-floods-united-nations-children-report-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230825115238-01-pakistan-climate-flood-children.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-25T06:23:00Z",
-            "content": "One year after catastrophic floods devastated swathes of Pakistan, some 4 million children in the South Asian nation remain without access to safe water, the United Nations childrens agency has warne\u2026 [+5413 chars]"
+            "author": "Marianne Garvey",
+            "title": "'Bottoms' cast features both new and familiar faces - CNN",
+            "description": "The new dark comedy \u201cBottoms\u201d is getting a lot of buzz.",
+            "url": "https://www.cnn.com/2023/08/25/entertainment/bottoms-movie-film-comedy/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230825121140-01-bottoms-movie.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-25T21:16:00Z",
+            "content": "The new dark comedy Bottoms is getting a lot of buzz.\r\nThe R-rated movie, directed by Emma Seligman, stars Rachel Sennott and Ayo Edebiri, and previously premiered at this years SXSW Festival in Marc\u2026 [+2100 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Phillip M. Bailey, Rachel Looker",
+            "title": "Georgia governor pressured to publicly back Fani Willis in Trump case - USA TODAY",
+            "description": "One of Georgia's most outspoken faith leader wants assurances prosecutor Fani Willis won't be punished amid election case as GOP scrutiny intensifies.",
+            "url": "https://www.usatoday.com/story/news/politics/2023/08/25/georgia-brian-kemp-support-fani-willis-trump-indictment/70677179007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/15/USAT/70593326007-gty-1615613099.jpg?crop=2996,1695,x3,y77&width=2996&height=1695&format=pjpg&auto=webp",
+            "publishedAt": "2023-08-25T20:59:24Z",
+            "content": "ATLANTA A Georgia faith leader representing more than 530 churches is calling upon Gov. Brian Kemp to publicly oppose Republican efforts to remove or discipline Fulton County District Attorney Fani W\u2026 [+7452 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "NBC 6 South Florida"
             },
-            "author": "Jeff Eisenberg",
-            "title": "'Blind Side' producers detail payouts that Michael Oher, Tuohy family received - Yahoo Sports",
-            "description": "The producers of 'The Blind Side' pushed back against the notion that the Tuohy family got rich from the film at Michael Oher's expense.",
-            "url": "https://sports.yahoo.com/blind-side-producers-detail-payouts-that-michael-oher-tuohy-family-received-053807875.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_ykV7lUgqBgBZHP7nWJwyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTE-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/6a923470-4308-11ee-bfff-b313a07b4708",
-            "publishedAt": "2023-08-25T05:38:00Z",
-            "content": "The production company that financially backed The Blind Side broke its silence Thursday after more than a week of the films subjects exchanging salacious accusations.\r\nAndrew Kosove and Broderick Jo\u2026 [+3118 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Cody Stavenhagen and Sam Blum",
-            "title": "Shohei Ohtani\u2019s elbow injury: Six questions that will shape what comes next - The Athletic",
-            "description": "Can he hit and rehab at the same time? What does this do to his market? Why did the Angels let him keep pitching?",
-            "url": "https://theathletic.com/4804747/2023/08/24/shohei-ohtanis-elbow-injury-six-questions/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/24215414/GettyImages-1636113884-scaled.jpg",
-            "publishedAt": "2023-08-25T05:26:56Z",
-            "content": "The initial news reverberated through the sport like a shockwave. Shohei Ohtani, this unthinkable unicorn pushing baseball beyond its preconceived limits, was hurt.\r\nAnd then, the questions started c\u2026 [+9570 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Eagles overreactions, reality checks after third preseason game: Do Eli Ricks, Devon Allen make final 53? - CBS Sports",
-            "description": "Players make their case for the 53-man roster during the final preseason game",
-            "url": "https://www.cbssports.com/nfl/news/eagles-overreactions-reality-checks-after-third-preseason-game-do-eli-ricks-devon-allen-make-final-53/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/25/f1ccf8e4-db16-47a3-afb5-c23e3c9f5a7f/thumbnail/1200x675/54428e521f834ed5cb248eb5ca7a1e2f/gettyimages-1636971480.jpg",
-            "publishedAt": "2023-08-25T04:59:55Z",
-            "content": "PHILADELPHIA -- The preseason for the Philadelphia Eagles is officially in the books. After 15 training camp practices and three preseason games, the next step for the Eagles is their 53-man roster c\u2026 [+3784 chars]"
+            "author": "John Morales",
+            "title": "Will a tropical system form in the Gulf? John Morales looks at what to expect - NBC 6 South Florida",
+            "description": "NBC6 hurricane specialist John Morales takes a look at a possible tropical system in the Gulf and what impacts it may have on Florida.",
+            "url": "https://www.nbcmiami.com/weather/hurricane-season/will-a-tropical-system-form-in-the-gulf-john-morales-looks-at-what-to-expect/3098830/",
+            "urlToImage": "https://media.nbcmiami.com/2023/08/082523-NBC6-potential-tropical-development.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-08-25T20:46:30Z",
+            "content": "Beware of the \"I\" storm.\r\nSince 2001, eleven infamous Atlantic hurricane names starting with the letter \"I\" have been retired due to the severe damage theyve generated.\r\nMost recently, Major Hurrican\u2026 [+3261 chars]"
         },
         {
             "source": {
@@ -164,90 +99,116 @@
                 "name": "CNN"
             },
             "author": "Jackie Wattles",
-            "title": "SpaceX, NASA delay astronaut launch for \u2018additional analysis\u2019 - CNN",
-            "description": "A SpaceX and NASA mission that was set to launch four astronauts \u2014 representing four nations and space agencies across the globe \u2014 to the International Space Station was abruptly called off Thursday evening.",
-            "url": "https://www.cnn.com/2023/08/25/world/spacex-nasa-crew-7-delay-scrub-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230824143140-spacex-crew-7-preflight-0823.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-25T04:25:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA SpaceX and NASA mission that was set to launch four \u2026 [+1943 chars]"
+            "title": "See stunning footage captured by India\u2019s Chandrayaan-3 lunar lander - CNN",
+            "description": "India\u2019s lunar lander deployed a tiny six-wheeled rover to traverse the moon\u2019s surface and analyze the chemical composition of the soil.",
+            "url": "https://www.cnn.com/2023/08/25/world/india-chandrayaan-3-lander-rover-images-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230825104900-03-india-chandrayaan-3-lander-rover-new-photos-0823-screenshot.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-25T19:50:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe history-making Chandrayaan-3 mission, which landed\u2026 [+2758 chars]"
         },
         {
             "source": {
-                "id": "independent",
-                "name": "Independent"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Tom Murray",
-            "title": "Deserted: Dune 2 delayed until 2024 amid actors' and writers' strikes - The Independent",
-            "description": "\u2018Dune\u2019 sequel was previously set to release in November this year",
-            "url": "https://www.independent.co.uk/arts-entertainment/films/news/dune-2-delayed-release-date-writers-strike-b2399152.html",
-            "urlToImage": "https://static.independent.co.uk/2023/08/24/23/newFile-1.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-08-25T03:32:06Z",
-            "content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nDenis Villeneuves Dune sequel has officially been delaye\u2026 [+2912 chars]"
+            "author": "Mari Yamaguchi, USA TODAY",
+            "title": "Japan begins release of radioactive wastewater from Fukushima nuclear plant into Pacific Ocean - USA TODAY",
+            "description": "The operator of the Fukushima Daiichi nuclear power plant says it has begun releasing its first batch of treated radioactive water into the ocean.",
+            "url": "https://www.usatoday.com/story/news/world/2023/08/24/radioactive-wastewater-fukushima-nuclear-plant/70666092007/",
+            "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/24/USAT/70666098007-ap-23235853682797.jpg?auto=webp&crop=5255,2970,x0,y266&format=pjpg&width=1200",
+            "publishedAt": "2023-08-25T19:41:19Z",
+            "content": "OKUMA, Japan The operator of the tsunami-wrecked Fukushima Daiichi nuclear power plant says it has begun releasing its first batch of treated radioactive water into the Pacific Ocean a controversial \u2026 [+4455 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Maeve Reston, Hannah Knowles, Dylan Wells, Marianne LeVine",
-            "title": "Ramaswamy and Haley show the GOP's divergent paths coming out of the debate - The Washington Post",
-            "description": "The Trump-friendly entrepreneur and anti-Trump former U.N. envoy illustrated the chasm in the GOP as the underdog candidates labor in the former president\u2019s shadow.",
-            "url": "https://www.washingtonpost.com/politics/2023/08/24/republican-presidential-debate-ramaswamy-haley/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FD4CRXLYLIZACAAHINLOY4UW54_size-normalized.JPG&w=1440",
-            "publishedAt": "2023-08-25T03:13:00Z",
-            "content": "Comment on this story\r\nComment\r\nAfter her well-received debate showing, Nikki Haleys campaign worked the phones, collected checks from donors and raised more online in the last 24 hours than on any d\u2026 [+8668 chars]"
+            "author": "Ashley Strickland",
+            "title": "Mysterious dark spot detected on Neptune - CNN",
+            "description": "Astronomers have observed a mysterious large dark spot in Neptune\u2019s atmosphere, along with a bright feature that has never been spotted before.",
+            "url": "https://www.cnn.com/2023/08/25/world/neptune-dark-spot-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230825130230-02-neptune-dark-spot.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-25T19:26:00Z",
+            "content": "Editors note: Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAstronomers have spotted a large and mys\u2026 [+4532 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Al Jazeera English",
+            "title": "\u2018Absolute lie\u2019: Russia denies role in Yevgeny Prigozhin plane crash - Al Jazeera English",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzgvMjUvYWJzb2x1dGUtbGllLWtyZW1saW4tZGVuaWVzLXJvbGUtaW4teWV2Z2VueS1wcmlnb3poaW4tcGxhbmUtY3Jhc2jSAW5odHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjMvOC8yNS9hYnNvbHV0ZS1saWUta3JlbWxpbi1kZW5pZXMtcm9sZS1pbi15ZXZnZW55LXByaWdvemhpbi1wbGFuZS1jcmFzaA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-08-25T18:44:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOSEPH WILSON",
+            "title": "Soccer player Jenni Hermoso says 'in no moment' was kiss with Luis Rubiales consensual - The Associated Press",
+            "description": "The president of Spain\u2019s soccer federation has defiantly refused to resign for kissing a female player on the lips after the Women\u2019s World Cup final. Luis Rubiales told a general assembly of the federation on Friday that his kiss with player Jenni Hermoso on \u2026",
+            "url": "https://apnews.com/article/rubiales-spanish-soccer-federation-president-kiss-womens-world-cup-3be367f0de6fbf1984e4885df0dcb00c",
+            "urlToImage": "https://dims.apnews.com/dims4/default/208f343/2147483647/strip/true/crop/3172x1784+0+165/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F50%2F40%2F9ad4bc1bf8c5f16455ca4548a4b5%2F5bca965bdaa94b90b5f30d09c7b6c5df",
+            "publishedAt": "2023-08-25T18:15:00Z",
+            "content": "BARCELONA, Spain (AP) The embattled president of Spains soccer federation defiantly refused to step down Friday after insisting that a kiss on the lips with Womens Soccer player Jenni Hermoso was con\u2026 [+7301 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NDTV News"
+                "name": "WESH Orlando"
             },
-            "author": null,
-            "title": "Upset Over Divorce, Ex-US Cop Opens Fire At Wife, Others At Bar, Kills 3 - NDTV",
-            "description": "A retired cop upset over his failed marriage opened fire at his wife and others at a southern California bar popular with bikers, killing three people and wounding six, authorities said Thursday.",
-            "url": "https://www.ndtv.com/world-news/upset-over-divorce-ex-us-cop-opens-fire-at-wife-others-at-bar-kills-3-4327717",
-            "urlToImage": "https://c.ndtvimg.com/2023-08/c0kohe54_john-snowling_625x300_25_August_23.jpg",
-            "publishedAt": "2023-08-25T03:03:54Z",
-            "content": "John Snowling retired in 2014 after 30 years as a police officer.\r\nLos Angeles: A retired cop upset over his failed marriage opened fire at his wife and others at a southern California bar popular wi\u2026 [+3381 chars]"
+            "author": "Eric Burris",
+            "title": "SpaceX Crew-7 launch scrubbed - WESH 2 Orlando",
+            "description": "The Crew-7 launch scheduled for early Friday morning was scrubbed.",
+            "url": "https://www.wesh.com/article/spacex-crew-7-launch-scrubbed/44909297",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/2c18699b-5d9f-4c90-9243-ed41e8ae6ef8/df8f69fa-c68b-46f3-a7ef-a651e21f6dac.jpg?crop=0.776xw:0.775xh;0.176xw,0.225xh&resize=1200:*",
+            "publishedAt": "2023-08-25T17:12:00Z",
+            "content": "BREVARD COUNTY, Fla. \u2014The Crew-7 launch scheduled for early Friday morning was scrubbed.\r\nNASA says everything is working fine, but they want more time to make sure it is safe. Specifically, the team\u2026 [+3215 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NBCSports.com"
+                "name": "The Guardian"
             },
-            "author": "Mike Florio",
-            "title": "Report: Colts, Dolphins continue to negotiate potential Jonathan Taylor trade - NBC Sports",
-            "description": "Even if most teams aren't seriously pursuing a trade for running back Jonathan Taylor, at the end of the day it only takes one.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-colts-dolphins-continue-to-negotiate-potential-jonathan-taylor-trade",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4b02340/2147483647/strip/true/crop/3202x1801+0+167/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F0e%2F44%2Fb93979fd4205a95b07fab8e887a1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1437962531",
-            "publishedAt": "2023-08-25T03:02:59Z",
-            "content": "Even if most teams arent seriously pursuing a trade for running back Jonathan Taylor, at the end of the day it only takes one.\r\nThat one ultimately could be the Dolphins.\r\nBarry Jackson of the Miami \u2026 [+1304 chars]"
+            "author": "Erum Salam, Oliver Laughland",
+            "title": "Louisiana residents told to 'get out now' in face of sweeping wildfire - The Guardian US",
+            "description": "Nearly 1,000 people in Merryville, in Beauregard parish close to Texas border, ordered to evacuate as Tiger Island fire burns nearby",
+            "url": "https://www.theguardian.com/us-news/2023/aug/25/louisiana-wildfire-tiger-island-fire-evacuation",
+            "urlToImage": "https://i.guim.co.uk/img/media/e1c51f7883a6114da5f493366772fce46a7f0c69/0_120_1201_721/master/1201.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6574f9cfb5d0db89aef9fec2c060cddc",
+            "publishedAt": "2023-08-25T17:08:00Z",
+            "content": "A rare uncontrollable wildfire in Louisiana has forced nearly 1,000 residents to evacuate the town of Merryville in Beauregard parish, near the states border with Texas.\r\nGet out now! the Beauregard \u2026 [+3832 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Ali Harb",
+            "title": "Who is Vivek Ramaswamy, the rising Republican presidential candidate? - Al Jazeera English",
+            "description": "US author and entrepreneur is confidently pushing unorthodox, right-wing ideas while promoting unity in 2024 campaign.",
+            "url": "https://www.aljazeera.com/news/2023/8/25/who-is-vivek-ramaswamy-the-rising-republican-presidential-candidate",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-07-15T213843Z_816498809_RC2X32A7MU26_RTRMADP_3_USA-ELECTION-REPUBLICANS-1692917752.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-08-25T16:37:54Z",
+            "content": "Washington, DC Vivek Ramaswamy wants to be the next Donald Trump: an outsider who will take on the United States political establishment, win the presidency and push a hard-right agenda from the Oval\u2026 [+8542 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "FOX 5 NY"
+                "name": "MarketWatch"
             },
-            "author": "Kendall Green",
-            "title": "As COVID numbers increase, mask mandates return in some places - FOX 5 New York",
-            "description": "COVID-19 cases are on the rise across the nation and in our area, which means mask mandates may be returning in some places.",
-            "url": "https://www.fox5ny.com/news/as-covid-numbers-increase-mask-mandates-return-in-some-places",
-            "urlToImage": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/08/1280/720/GettyImages-1489206278.jpg?ve=1&tl=1",
-            "publishedAt": "2023-08-25T02:40:48Z",
-            "content": "NEW YORK - New data shows that we're not out of the woods just yet with COVID-19.\r\nIn fact, the numbers show for the last few weeks, it has sent more Americans to the hospital, with an increase of mo\u2026 [+1726 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Missy Ryan",
-            "title": "U.S. agrees to train Ukraine\u2019s F-16 pilots in Arizona - The Washington Post",
-            "description": "The Pentagon\u2019s announcement follows complaints from officials in Kyiv that the F-16 training program was moving too slowly to meet Ukraine\u2019s wartime needs.",
-            "url": "https://www.washingtonpost.com/national-security/2023/08/24/ukraine-f-16-training-arizona/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NEH6Q4XBN2QCF7K4K6RJCKJWSA_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-08-25T01:51:00Z",
-            "content": "Comment on this story\r\nComment\r\nThe United States will begin instructing Ukrainian pilots in flying F-16 aircraft in Arizona this fall, the Pentagon said Thursday, as the Biden administration moves t\u2026 [+4708 chars]"
+            "author": "Ciara Linnane",
+            "title": "New coronavirus variant has experts on alert and WHO is urging countries to step up COVID surveillance - MarketWatch",
+            "description": "SARS-CoV-2 variant BA.2.86 has 30 mutations in the spike protein compared with previous variants, including those that will be included in coming boosters",
+            "url": "https://www.marketwatch.com/story/new-covid-variant-has-experts-on-alert-and-who-is-urging-countries-to-step-up-surveillance-ec8eab56",
+            "urlToImage": "https://images.mktw.net/im-842177/social",
+            "publishedAt": "2023-08-25T16:26:00Z",
+            "content": "A new variant of the SARS-CoV-2 coronavirus has put epidemiologists around the world on alert, and the World Health Organization is asking countries to sustain early warning, surveillance and reporti\u2026 [+4985 chars]"
         },
         {
             "source": {
@@ -255,12 +216,51 @@
                 "name": "Reuters"
             },
             "author": "Reuters",
-            "title": "Russia says Ukraine fired missile towards Moscow, hit Crimea with drones - Reuters",
-            "description": "Russia said on Friday Ukraine had fired a missile towards Moscow and attacked Crimea with 42 drones, in what would be one of the biggest known coordinated Ukrainian air attacks to date on Russian-held territory.",
-            "url": "https://www.reuters.com/world/europe/russia-says-destroys-42-ukraine-launched-drones-over-crimea-2023-08-25/",
-            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=154",
-            "publishedAt": "2023-08-25T01:43:53Z",
-            "content": "MOSCOW, Aug 25 (Reuters) - Russia said on Friday Ukraine had fired a missile towards Moscow and attacked Crimea with 42 drones, in what would be one of the biggest known coordinated Ukrainian air att\u2026 [+2602 chars]"
+            "title": "Milan records hottest day since 1763 - Reuters",
+            "description": "Italy's northern city of Milan registered a new record high average daily temperature of 33 Celsius (91.4 Fahrenheit) on Wednesday as a heatwave which began around mid-August reached its peak, the regional environmental protection agency (ARPA) said on Friday.",
+            "url": "https://www.reuters.com/world/europe/milan-records-hottest-day-since-1763-2023-08-25/",
+            "urlToImage": "https://www.reuters.com/resizer/1TAMlH1pbnt2RHM4tctL11J2CKY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XPEN4YTXKBITNNYWYBGNUNZ5VA.jpg",
+            "publishedAt": "2023-08-25T16:01:00Z",
+            "content": "ROME, Aug 25 (Reuters) - Italy's northern city of Milan registered a new record high average daily temperature of 33 Celsius (91.4 Fahrenheit) on Wednesday as a heatwave which began around mid-August\u2026 [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Kristin Myers",
+            "title": "Britney Spears Reportedly \u2018Needed Stitches\u2019 After \u2018Explosive\u2019 Fight With Sam Asghari - Yahoo Entertainment",
+            "description": "Singer Britney Spears reportedly needed stitches after an \u201cexplosive\u201d argument with actor Sam Asghari. On August 16, 2023, the \u201cSpecial Ops: Lioness\u201d actor...",
+            "url": "https://www.yahoo.com/entertainment/britney-spears-reportedly-needed-stitches-154504650.html",
+            "urlToImage": "https://media.zenfs.com/en/theblast_73/12499f8838cb2bea8a4c34dbceb7d1cc",
+            "publishedAt": "2023-08-25T15:45:04Z",
+            "content": "Singer Britney Spears reportedly needed stitches after an \"explosive\" argument with actor Sam Asghari.\r\nOn August 16, 2023, the \"Special Ops: Lioness\" actor filed for divorce in court documents obtai\u2026 [+4517 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "UAW members approve possible strikes at GM, Ford and Stellantis - CNN",
+            "description": "Members of the United Auto Workers union overwhelmingly approved possible strikes at the nation\u2019s three unionized automakers next month, as the union tries to win back many of the concessions it lost more than 15 years ago and protect members during the trans\u2026",
+            "url": "https://www.cnn.com/2023/08/25/business/uaw-strike-vote-gm-ford-stellantis/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230824163100-01-gm-factory-detroit-111721-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-25T15:40:00Z",
+            "content": "Members of the United Auto Workers union overwhelmingly approved possible strikes at the nations three unionized automakers next month, as the union tries to win back many of the concessions it lost \u2026 [+4084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Will Judd",
+            "title": "AMD announces RX 7800 XT and RX 7700 XT graphics cards to face off against RTX 4070 and 4060 Ti - Eurogamer.net",
+            "description": "Digital Foundry breaks down AMD's RX 7800 XT and RX 7700 XT graphics card announcements, including performance analysis and thanks to Yeston for fresh colours.",
+            "url": "https://www.eurogamer.net/digitalfoundry-2023-amd-announces-rx-7800-xt-7700-xt-graphics-cards",
+            "urlToImage": "https://assetsio.reedpopcdn.com/rx-7800-xt.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2023-08-25T15:30:00Z",
+            "content": "AMD has officially unveiled its RX 7800 XT and RX 7700 XT graphics cards, finally completing its RDNA 3 lineup after announcing its first GPUs in November last year. Both cards are intended to target\u2026 [+4576 chars]"
         }
     ]
 }
