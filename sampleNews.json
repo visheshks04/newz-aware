@@ -4,55 +4,68 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "KABC-TV"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "El Segundo beats Texas to win US bracket in Little League World Series, advances to championship - KABC-TV",
-            "description": "The El Segundo all-star team defeated Needville (Texas) to win the U.S. championship in the Little League World Series.",
-            "url": "https://abc7.com/el-segundo-little-league-world-series-texas/13703942/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13691995_el-segundo-img.jpg?w=1600",
-            "publishedAt": "2023-08-26T22:15:02Z",
-            "content": "SOUTH WILLIAMSPORT, Penn. -- Louis Lappe homered, drove in five runs and gave up just three hits on the mound as California beat Texas 6-1 on Saturday to advance to the Little League World Series cha\u2026 [+1400 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Arpan Rai",
-            "title": "Putin orders Wagner fighters to sign oath of allegiance after Prigozhin death \u2013 live - The Independent",
-            "description": "As Belarusian president claims he told Wagner chief and his ally Utkin: \u2018Lads \u2013 you watch out\u2019",
-            "url": "https://www.independent.co.uk/news/world/europe/ukraine-wagner-prigozhin-russia-putin-live-b2399927.html",
-            "urlToImage": "https://static.independent.co.uk/2023/08/26/07/GettyImages-1548470193.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-08-26T21:54:57Z",
-            "content": "Voices: If the Wagner mercenary chief is dead, he got the death he deserved\r\nFollowing the news of the reported death of Wagner leader Yevgeny Prigozhin, The Independents international editor Chris S\u2026 [+1289 chars]"
+            "author": "Nouran Salahieh, Andy Rose",
+            "title": "Jacksonville gunman was turned away from historically Black university before racist shooting that killed 3 at nearby store, authorities say - CNN",
+            "description": "The gunman who killed three people Saturday at a Dollar General store in Jacksonville, Florida, had earlier been turned away from the campus of a historically Black university, just blocks away from the site of the shooting authorities said was a targeted att\u2026",
+            "url": "https://www.cnn.com/2023/08/27/us/jacksonville-florida-shooting-sunday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230826163114-02-jacksonville-shooting-082623-still.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-27T11:45:00Z",
+            "content": "The gunman who killed three people Saturday at a Dollar General store in Jacksonville, Florida, had earlier been turned away from the campus of a historically Black university, just blocks away from \u2026 [+6137 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WYFF4 Greenville"
+                "name": "Foxweather.com"
             },
-            "author": "Griffin Hardy",
-            "title": "Tropical Depression 10: Track and spaghetti models - WYFF4 Greenville",
-            "description": "Latest spaghetti models for system that could affect Carolina, Georgia coast next week",
-            "url": "https://www.wyff4.com/article/tropical-depression-10-idalia-track/44917770",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/dynamic/wyff/HurricaneTrack.jpg?crop=1.00xw:1.00xh;0,0&t=2023-08-26T21:48:08.040200Z&resize=1200:*",
-            "publishedAt": "2023-08-26T21:48:00Z",
-            "content": "GREENVILLE, S.C. \u2014Tropical Depression Ten forms\r\nIn the Yucatan Channel, as of 5 PM EDT, the National Hurricane Center has determined that Tropical Depression Ten has officially formed. Right now, it\u2026 [+4495 chars]"
+            "author": "Chris Oberholtz, Aaron Barker, Scott Sistek",
+            "title": "Franklin to rapidly intensify into season\u2019s first major hurricane; East Coast to see dangerous rip currents - Fox Weather ",
+            "description": "Hurricane Franklin is continuing to strengthen as it spins across the Atlantic Ocean and is expected to rapidly intensify into the season\u2019s first major hurricane over the warm waters between the East Coast and Bermuda.",
+            "url": "https://www.foxweather.com/weather-news/tracking-hurricane-franklin",
+            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/08/1024/512/Franklin-_StoryImage_AM_0f8272023.png?ve=1&tl=1",
+            "publishedAt": "2023-08-27T11:44:00Z",
+            "content": "Hurricane Franklin is continuing to strengthen as it spins across the Atlantic Ocean and is expected to rapidly intensify into the season\u2019s first major hurricane over the warm waters between the East\u2026 [+2382 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "FRAZIER MOORE",
-            "title": "Bob Barker, dapper 'Price Is Right' and 'Truth or Consequences' host and animal advocate, dies at 99 - The Associated Press",
-            "description": "A publicist says the enduring and dapper game show host Bob Barker has died at his home in Los Angeles. Barker was 99 and was a household name for more than a half-century as host of \u201cTruth or Consequences\u201d and \u201cThe Price Is Right.\u201d Barker retired in June 200\u2026",
-            "url": "https://apnews.com/article/bob-barker-dead-f47644de8696496b980306f4cd6907f4",
-            "urlToImage": "https://dims.apnews.com/dims4/default/7a883a4/2147483647/strip/true/crop/2000x1125+0+91/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2Fb9%2F938b0e7709f3b878b3926914778e%2Fb89571be15624ad6b787a7bdceb4f395",
-            "publishedAt": "2023-08-26T21:46:00Z",
-            "content": "Bob Barker, the enduring, dapper game show host who became a household name over a half century of hosting Truth or Consequences and The Price Is Right, has died. He was 99.\r\nBarker also a longtime a\u2026 [+7183 chars]"
+            "author": "Annabelle Timsit",
+            "title": "3 U.S. Marines killed, 5 seriously injured after Osprey crash in Australia - The Washington Post",
+            "description": "The MV-22B Osprey was carrying 23 U.S. Marine Corps personnel when it crashed Sunday off the coast of Darwin, in Australia\u2019s Northern Territory, officials said.",
+            "url": "https://www.washingtonpost.com/world/2023/08/27/australia-crash-us-marines-killed-osprey/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-27-2023/t_c43d8697597c4256bd226e8ba3951d04_name_VDTKUOM7UUU4I7UGR3HBHC5QWQ.jpg&w=1440",
+            "publishedAt": "2023-08-27T11:33:00Z",
+            "content": "Comment on this story\r\nComment\r\nThree U.S. Marines were killed and five were in serious condition after an Osprey aircraft crashed in Australia during routine military exercises, the Marine Corps and\u2026 [+2820 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Issy Ronald, Jacob Lev",
+            "title": "Lionel Messi scores on his MLS debut for Inter Miami - CNN",
+            "description": "\u2018Messi mania\u2019 swept across New York on Saturday as Lionel Messi made his Major League Soccer (MLS) regular season debut for Inter Miami away against the New York Red Bulls.",
+            "url": "https://www.cnn.com/2023/08/27/sport/lionel-messi-goal-mls-debut-inter-miami-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230827060218-02-lionel-messi-082623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-27T11:12:00Z",
+            "content": "Messi mania swept across New York on Saturday as Lionel Messi made his Major League Soccer (MLS) regular season debut for Inter Miami away against the New York Red Bulls.\r\nHowever, fans who attended \u2026 [+1568 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland, Leslie Josephs",
+            "title": "Labor unions are pushing hard for double-digit raises and better hours. Many are winning - CNBC",
+            "description": "UPS workers and airline pilots have won rich labor deals. Hollywood writers and actors as well as auto workers could be next.",
+            "url": "https://www.cnbc.com/2023/08/27/labor-unions-winning-better-pay-hours.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107270787-1689201521205-gettyimages-1538026140-mt_18265_wmar0u3q.jpeg?v=1693134001&w=1920&h=1080",
+            "publishedAt": "2023-08-27T11:00:01Z",
+            "content": "Members of the United Auto Workers union hold a rally and practice picket near a Stellantis plant in Detroit, Aug. 23, 2023.\r\nFrom writers' rooms to car factories, workers are pressing companies for \u2026 [+9740 chars]"
         },
         {
             "source": {
@@ -60,207 +73,194 @@
                 "name": "Politico"
             },
             "author": null,
-            "title": "Biden has a New Hampshire problem. Enter Bernie Sanders. - POLITICO",
-            "description": "Big-name Democrats are appearing in New Hampshire to sing Joe Biden\u2019s praises as the president stays away.",
-            "url": "https://www.politico.com/news/2023/08/26/biden-allies-new-hampshire-00113116",
-            "urlToImage": "https://static.politico.com/78/1a/edf12b0040bf9ee5b9402f498f8a/https-delivery-gettyimages.com/downloads/1558608084",
-            "publishedAt": "2023-08-26T21:42:36Z",
-            "content": "Their visits are in part self-serving for a group of ambitious politicians. But they are also a way of boosting Biden in absentia as Democrats nationally and in New Hampshire continue to clash over t\u2026 [+7426 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "March on Washington: Thousands of attendees fight for civil rights - USA TODAY",
-            "description": "It\u2019s been 60 years since Martin Luther King, Jr., delivered his iconic \"I Have a Dream\" speech during the March on Washington for Jobs and Freedom.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/08/26/march-on-washington-thousands-of-attendees-fight-for-civil-rights/70652799007/",
-            "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/26/USAT/70691010007-xxx-sd-news-60th-anniversary-of-the-march-on-washington-1136-j.jpg?auto=webp&crop=1999,1129,x0,y935&format=pjpg&width=1200",
-            "publishedAt": "2023-08-26T21:10:45Z",
-            "content": "WASHINGTON Jazmine Williams spread her black and gray blanket on the ground early Saturday just steps from the Lincoln Memorial. She wanted a prime spot so her family, including her 4-year-old niece,\u2026 [+5648 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "South Carolina college student shot and killed after trying to enter wrong home, police say - CBS News",
-            "description": "Officers found the 20-year-old student fatally shot after they were dispatched to a report of a home burglary and shooting.",
-            "url": "https://www.cbsnews.com/news/university-south-carolina-student-nicholas-donofrio-shot-killed-trying-to-enter-wrong-home/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/10/22/ff9c4cb3-8c7b-4180-ae49-596b31dc89b4/thumbnail/1200x630/269009b5bca15082f6e6a3f0f477e1cb/gettyimages-88961749.jpg?v=85153828b1c3c07a041ab8e73ff87e39",
-            "publishedAt": "2023-08-26T21:05:00Z",
-            "content": "A University of South Carolina student was shot and killed as he apparently tried to enter the wrong home on his off-campus street early on Saturday, police said.\r\nNicholas Anthony Donofrio, 20, of C\u2026 [+1216 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aimee Lewis, Alex Stambaugh, Al Goodman, Gerardo Lemos",
-            "title": "Luis Rubiales: Spain's football federation threatens legal action against Women's World Cup winner Jennifer Hermoso - CNN",
-            "description": "Spain\u2019s football federation has threatened to take legal action against one of the country\u2019s star players, Jennifer Hermoso, accusing her of lying about being kissed by federation president Luis Rubiales.",
-            "url": "https://www.cnn.com/2023/08/26/sport/spain-football-federation-legal-action-jennifer-hermoso-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230825193345-luis-rubiales-jenni-hermoso-kiss.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-26T20:43:00Z",
-            "content": "Spains football federation has threatened to take legal action against one of the countrys star players, Jennifer Hermoso, accusing her of lying about being kissed by federation president Luis Rubial\u2026 [+5043 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Paradise Afshar",
-            "title": "Oklahoma high school football game shooting: 1 teen killed, 4 people injured, authorities say - CNN",
-            "description": "A 16-year-old boy was killed and four others were injured in a shooting at a high school football game in Choctaw, Oklahoma, authorities say.",
-            "url": "https://www.cnn.com/2023/08/26/us/oklahoma-high-school-football-game-shooting/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230826145657-oklahoma-high-school-football-game-shooting-still.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-08-26T19:40:00Z",
-            "content": "A 16-year-old boy was killed and four others were injured in a shooting at a high school football game in Choctaw, Oklahoma, authorities say.\r\nThe teenager, whose name has not been released, was shot\u2026 [+1619 chars]"
+            "title": "Minnesotans Love Third-Party Candidates. Will They Vote for Joe Biden? - POLITICO",
+            "description": "If Democrats anywhere would peel off for a third-party candidate, it might be in Minnesota.",
+            "url": "https://www.politico.com/news/magazine/2023/08/27/minnesota-third-party-democrats-00112946",
+            "urlToImage": "https://static.politico.com/08/39/995062004dfbbca1f7610e86fed5/duluthlede3.jpg",
+            "publishedAt": "2023-08-27T11:00:00Z",
+            "content": "At the Democrats election night watch party, Sipress, a former Duluth City Council member and DSA member, said Larson would have won if she was running against Donald Trump. The political left, he ad\u2026 [+1875 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Honolulu Star-Advertiser"
+                "name": "BBC News"
             },
-            "author": "Jennifer McDermott, Bernard Condon and Michael Biesecker / Associated Press",
-            "title": "Bare electrical wire, leaning poles on Maui were possible causes of deadly fires - Honolulu Star-Advertiser",
-            "description": "In the first moments of the Maui fires, when high winds brought down power poles, slapping electrified wires to the dry grass below, there was a reason the flames erupted all at once in long, neat rows \u2014 those wires were bare, uninsulated metal that could spa\u2026",
-            "url": "https://www.staradvertiser.com/2023/08/26/breaking-news/bare-electrical-wire-leaning-poles-on-maui-were-possible-causes-of-deadly-fires/",
-            "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2023/08/web1_14146110-7acf0f415a2f4cbc9e66afa4d47c73ea.jpg",
-            "publishedAt": "2023-08-26T19:05:12Z",
-            "content": "In the first moments of the Maui fires, when high winds brought down power poles, slapping electrified wires to the dry grass below, there was a reason the flames erupted all at once in long, neat ro\u2026 [+8207 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Wagner boss Prigozhin confirmed dead in plane crash - Moscow - BBC",
+            "description": "Genetic analysis of the bodies was carried out following Wednesday's crash, Russian officials say.",
+            "url": "https://www.bbc.com/news/world-europe-66632924",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/138E2/production/_130889008_gettyimages-1615749057.jpg",
+            "publishedAt": "2023-08-27T10:54:21Z",
+            "content": "Wagner chief Yevgeny Prigozhin has been confirmed dead after genetic analysis of bodies found in Wednesday's plane crash, Russian officials say.\r\nThe Investigative Committee (SK) said the identities \u2026 [+1999 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "Foxweather.com"
             },
-            "author": "Joseph Staszewski",
-            "title": "WWE stars pay tribute to Bray Wyatt with matching tattoos - New York Post ",
-            "description": "A handful of WWE stars found their own way to permanently honor Bray Wyatt.",
-            "url": "https://nypost.com/2023/08/26/wwe-stars-pay-tribute-to-bray-wyatt-with-matching-tattoos/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-npj3y64vu-1693074070953.jpg?quality=75&strip=all&1693059756&w=1024",
-            "publishedAt": "2023-08-26T18:53:00Z",
-            "content": "A handful of WWE stars found their own way to permanently honor Bray Wyatt.\r\nWyatt, whose real name is Windham Rotunda, unexpectedly died of a reported heart attack on Thursday at the age of 36 after\u2026 [+1932 chars]"
+            "author": "Steven Yablonski, Andrew Wulfeck",
+            "title": "Tropical Depression Ten to strengthen to Tropical Storm Idalia Sunday with path eyeing Florida as a hurricane - Fox Weather ",
+            "description": "The National Hurricane Center (NHC) is closely monitoring Tropical Depression Ten near the southern Gulf of Mexico which will likely organize into Tropical Storm Idalia and then a hurricane before making landfall along Florida\u2019s Gulf Coast.",
+            "url": "https://www.foxweather.com/weather-news/tracking-tropical-storm-threat-florida",
+            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/08/1024/512/Capture.png?ve=1&tl=1",
+            "publishedAt": "2023-08-27T10:44:00Z",
+            "content": "The National Hurricane Center (NHC) is closely monitoring Tropical Depression Ten near the southern Gulf of Mexico, which will likely organize into Tropical Storm Idalia and then a hurricane before m\u2026 [+2992 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WJXT News4JAX"
+                "name": "BBC News"
             },
-            "author": "Kendra Mazeke, Aleesia Hatcher",
-            "title": "3 people dead after 'racially-motivated' shooting at store on Kings Road: Sheriff - WJXT News4JAX ",
-            "description": "News4JAX has received numerous calls and emails regarding heavy Jacksonville Sheriff\u2019s Office presence Saturday on Kings Road near Canal Street.",
-            "url": "https://www.news4jax.com/news/local/2023/08/26/developing-heavy-police-presence-reported-on-kings-road/",
-            "urlToImage": "https://media.news4jax.com/theme/images/placeholder-16x9-wjxt.png",
-            "publishedAt": "2023-08-26T18:15:53Z",
-            "content": "JACKSONVILLE, Fla. The man suspected of killing numerous people in a mass shooting at a store that prompted heavy police and SWAT response on Kings Road was seen on Edward Waters Universitys (EWU) ca\u2026 [+3264 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Trump campaign raises $7.1m following historic Georgia mugshot - BBC",
+            "description": "Merchandise bearing the ex-president's scowling face at his arrest on Thursday is flying off the shelves.",
+            "url": "https://www.bbc.com/news/world-us-canada-66632882",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/134C1/production/_130914097_mediaitem130913620.jpg",
+            "publishedAt": "2023-08-27T10:35:26Z",
+            "content": "Donald Trump's election campaign says it has raised $7.1m (\u00a35.6m) since his police mugshot was taken at a prison in Atlanta, Georgia, on Thursday.\r\nMuch of the money comes from merchandise such as mu\u2026 [+1423 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Catarina Saraiva, Toru Fujioka",
-            "title": "BOJ Chief Says Easing Strategy Backed by Below-Target Inflation - Bloomberg",
-            "description": "Bank of Japan Governor Kazuo Ueda said price growth remains slower than the central bank\u2019s goal, explaining why officials are continuing with their current monetary-policy strategy.",
-            "url": "https://www.bloomberg.com/news/articles/2023-08-26/boj-chief-says-easing-strategy-backed-by-below-target-inflation",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7rFBx2UIUsQ/v1/1200x800.jpg",
-            "publishedAt": "2023-08-26T18:07:38Z",
-            "content": "Bank of Japan Governor Kazuo Ueda said price growth remains slower than the central banks goal, explaining why officials are continuing with their current monetary-policy strategy. \r\nWe think underly\u2026 [+235 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Jessica Simpson's Daughter CRASHES Her Interview, TROLLS Her Over Newlyweds! (Exclusive) - Entertainment Tonight",
-            "description": "Jessica Simpson chats with ET's Cassie DiLaura at PetSafe's celebration for International Dog Day. The 43-year-old singer is joined by 11-year-old daughter M...",
-            "url": "https://www.youtube.com/watch?v=NNd4ad44INQ",
-            "urlToImage": "https://i.ytimg.com/vi/NNd4ad44INQ/maxresdefault.jpg",
-            "publishedAt": "2023-08-26T18:00:13Z",
+            "author": "Vicky Ge Huang",
+            "title": "The 'Fidelity Mafia' Behind Big Crypto - WSJ - The Wall Street Journal",
+            "description": "The mutual-fund powerhouse was a bitcoin pioneer and built a deep talent pipeline for the industry",
+            "url": "https://www.wsj.com/finance/currencies/the-fidelity-mafia-behind-big-crypto-953ad00e",
+            "urlToImage": "https://images.wsj.net/im-841698/social",
+            "publishedAt": "2023-08-27T09:30:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Nadine El-Bawab, Peter Charalambous",
-            "title": "7 injured in shooting at Boston Caribbean carnival celebration - ABC News",
-            "description": "The victims suffered non-life-threatening injuries, according to police.",
-            "url": "https://abcnews.go.com/US/7-injured-shooting-boston-caribbean-carnival-celebration/story?id=102586419",
-            "urlToImage": "https://s.abcnews.com/images/US/boston-parade-shooting-01-ht-jt-230826_1693061537701_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-08-26T18:00:00Z",
-            "content": "Seven people were shot at a Caribbean carnival celebration in Boston's Dorchester neighborhood, according to police.\r\nBostons 50th annual Caribbean carnival celebration will go on after a nearby, but\u2026 [+1054 chars]"
+            "author": "Reuters",
+            "title": "Conservative UK lawmaker formally quits with scathing attack on PM Sunak - Reuters UK",
+            "description": "UK member of parliament Nadine Dorries has delivered a scathing attack on her Conservative Party's leader Rishi Sunak in her formal resignation letter, accusing the prime minister of running a \"zombie parliament\" and lacking any political vision.",
+            "url": "https://www.reuters.com/world/uk/conservative-uk-lawmaker-formally-quits-with-scathing-attack-pm-sunak-2023-08-27/",
+            "urlToImage": "https://www.reuters.com/resizer/3l9rW9MO-2lxf6S_m7Gw8JalveA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3FV4YLHKDVJW7ILDXYVLVKTK6I.jpg",
+            "publishedAt": "2023-08-27T08:53:00Z",
+            "content": "LONDON, Aug 27 (Reuters) - UK member of parliament Nadine Dorries has delivered a scathing attack on her Conservative Party's leader Rishi Sunak in her formal resignation letter, accusing the prime m\u2026 [+2486 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chandelis Duster, Justin Gamble",
+            "title": "Sixty years after the March on Washington, attendees renew the call for King's \"dream\" - CNN",
+            "description": "It\u2019s been 60 years since the March on Washington for Jobs and Freedom, but Fatima Cortez Todd says she still remembers the sense of unity she felt standing on the national mall that day.",
+            "url": "https://www.cnn.com/2023/08/27/us/march-on-washington-sixtieth-anniversary/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230824125733-11-march-on-washington-60th-anniversary-martin-luther-king-card.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-27T08:04:00Z",
+            "content": "Its been 60 years since the March on Washington for Jobs and Freedom, but Fatima Cortez Todd says she still remembers the sense of unity she felt standing on the National Mall that day. \r\nWe sat with\u2026 [+10342 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Hollywood Reporter"
             },
-            "author": "",
-            "title": "College football picks, schedule: Predictions against the spread, odds for key Week 0 games to start 2023 - CBS Sports",
-            "description": "A closer look at the top games for Week 0 of the 2023 college football season",
-            "url": "https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-for-key-week-0-games-to-start-2023/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/11/18cca87b-43c6-4777-9882-ba96d23a676b/thumbnail/1200x675/bef07e74815c1a28a0d35714174c6e32/caleb-williams.jpg",
-            "publishedAt": "2023-08-26T18:00:00Z",
-            "content": "Most of the 133 FBS programs won't take the field for the first time until the 2023 college football season officially officially commences next week for Week 1. For 10.5% of college football's top d\u2026 [+4512 chars]"
+            "author": "Carly Thomas",
+            "title": "Arleen Sorkin, Original Voice of Harley Quinn and \u2018Days of Our Lives\u2019 Actress, Dies at 67 - Hollywood Reporter",
+            "description": "James Gunn and Mark Hamill paid tribute to Sorkin, who first played the wisecracking DC comics character in 1992.",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/arleen-sorkin-dead-days-of-our-lives-harley-quinn-voice-1235575529/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/Arleen-Sorkin-obit-template-everett-H-2023.jpg?w=1024",
+            "publishedAt": "2023-08-27T05:25:17Z",
+            "content": "Arleen Sorkin, who portrayed Calliope Jones on the NBC soap opera Days of Our Lives and served as the original voice of the DC Comics character Harley Quinn, had died. She was 67.\r\nSorkin died Thursd\u2026 [+3156 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "theday.com"
             },
-            "author": "Jon Levine",
-            "title": "Stormy Daniels in disbelief over Trump weight: 'I'm 110lbs and a virgin' - New York Post ",
-            "description": "\u201cAnd I\u2019m 110lbs and a virgin \ud83d\ude02! I\u2019m not a scale or a doctor but I have spent some time beneath 215lb men and Tiny was not one of them,\u201d she said.",
-            "url": "https://nypost.com/2023/08/26/stormy-daniels-in-disbelief-over-trump-weight-im-110lbs-and-a-virgin/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000026800213.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-08-26T17:32:00Z",
-            "content": "Porn star Stormy Daniels said she doesn\u2019t believe former President Donald Trump weighs only 215 pounds, as his Fulton County jail booking records attest.\r\n\u201cMmmkay! And I\u2019m 110lbs and a virgin ! I\u2019m n\u2026 [+1903 chars]"
+            "author": null,
+            "title": "With coronavirus on the upswing in U.S., new vaccine coming sooner than expected - theday.com",
+            "description": "LOS ANGELES \u2014 With coronavirus cases increasingly on the upswing across California and the nation, an updated COVID-19 vaccine is expected to come out even earlier than expected.\nCoronavirus transmiss...",
+            "url": "https://www.theday.com/nation/20230826/with-coronavirus-on-the-upswing-in-u-s-new-vaccine-coming-sooner-than-expected/",
+            "urlToImage": "https://imengine.public.prod.day.navigacloud.com/?uuid=46df19f3-04b3-5118-b431-a78743c9ed39&function=fit&type=preview",
+            "publishedAt": "2023-08-27T03:42:29Z",
+            "content": "Pfizer, left, and Moderna bivalent COVID-19 vaccines are readied for use at a clinic, Nov. 17, 2022, in Richmond, Va. The Food and Drug Administration on Friday, June 16, 2023, told COVID-19 vaccine \u2026 [+7000 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jillian Sykes",
+            "title": "Honoring the legacy of game show host and activist Bob Barker - CNN",
+            "description": "For over thirty years, Bob Barker was known and loved as the host of the hit game show \u201cThe Price is Right.\u201d He famously ended each episode telling viewers to spay or neuter their pets. Barker spent decades giving his time and money to better the lives of cre\u2026",
+            "url": "https://www.cnn.com/2023/08/26/us/iyw-bob-barker-legacy-article/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221122123415-02-bob-hope-legacy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-27T03:28:00Z",
+            "content": "For over thirty years, Bob Barker was known and loved as the host of the hit game show The Price is Right. He famously ended each episode telling viewers to spay or neuter their pets. Barker spent de\u2026 [+2470 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "The Guardian"
             },
-            "author": "Tariq Malik",
-            "title": "SpaceX's Crew-7 Dragon capsule to dock at ISS with four astronauts aboard. Here's how to watch it live online. - Space.com",
-            "description": "Docking is set for 8:39 a.m. EDT (1239 GMT) at the International Space Station.",
-            "url": "https://www.space.com/spacex-crew-7-space-station-docking",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/H7bhgAq5LUEYsSYNx97qqS-1200-80.jpg",
-            "publishedAt": "2023-08-26T17:04:16Z",
-            "content": "A SpaceX Dragon spacecraft carrying four astronauts will arrive at the International Space Station early Sunday (Aug. 27) and you can watch it all live online in a free livestream.\u00a0\r\nThe Crew Dragon \u2026 [+3036 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Paul Gutierrez",
-            "title": "Sources - Raiders RB Josh Jacobs can get $12M in reworked deal - ESPN - ESPN",
-            "description": "Running back Josh Jacobs is ending his holdout after reaching a reworked one-year deal worth up to $12 million, sources told ESPN's Adam Schefter.",
-            "url": "https://www.espn.com/nfl/story/_/id/38264790/sources-raiders-rb-josh-jacobs-plans-end-holdout",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1024%2Fr1080438_2_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-08-26T16:42:00Z",
-            "content": "HENDERSON, Nev. -- Las Vegas Raiders All-Pro running back Josh Jacobs, who had yet to sign his $10.091 million franchise tag and had not participated in any offseason programs or training camp, took \u2026 [+3880 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Aaron Rodgers caps brief New York Jets preseason debut with touchdown pass - The Guardian",
+            "description": "Aaron Rodgers threw a 14-yard touchdown pass to cap his second and final series, helping the Jets to a 32-24 preseason win over the Giants on Saturday",
+            "url": "https://www.theguardian.com/sport/2023/aug/26/aaron-rodgers-preseason-new-york-jets-debut",
+            "urlToImage": "https://i.guim.co.uk/img/media/f32c4be1bb61878dfb9405d8e75714f2afef37ca/0_74_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=038a95d5505e9607d3230deb00fff43c",
+            "publishedAt": "2023-08-27T03:28:00Z",
+            "content": "Aaron Rodgers shook off the rust, threw a few passes and led the New York Jets into the end zone.\r\nIt all made for a successful preseason debut with his new team. And Jets fans can breathe a sigh of \u2026 [+4803 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Digital Trends"
+                "name": "The Phinsider"
             },
-            "author": "Alan Truly",
-            "title": "HP Color LaserJet Pro 4301fdw: Pro features at home - Digital Trends",
-            "description": "The HP Color LaserJet Pro 4301fdw is a speedy and reliable all-in-one printer with an eye-catching design and a user-friendly touchscreen.",
-            "url": "https://www.digitaltrends.com/computing/hp-color-laserjet-pro-4301fdw-review/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/08/The-HP-Color-LaserJet-Pro-4301fdw-is-sturdy-super-fast.jpg?resize=1200%2C630&p=1",
-            "publishedAt": "2023-08-26T16:00:47Z",
-            "content": "HP\u2019s Color LaserJet Pro 4301fdw is a super-fast, all-in-one printer with fax capability. It\u2019s solidly built and should last for many years. That will help offset the $599 price tag, which is expensiv\u2026 [+7655 chars]"
+            "author": "Kevin Nogle",
+            "title": "Daewood Davis injury ends Dolphins vs. Jaguars preseason game early - The Phinsider",
+            "description": "A head injury to wide receiver Daewood Davis led to the end of Miami\u2019s game against Jacksonville when the rookie was taken to the hospital.",
+            "url": "https://www.thephinsider.com/miami-dolphins-injuries/2023/8/26/23847565/miami-dolphins-injury-update-daewood-davis-jacksonville-jaguars-preseason-week-3",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/o9Z_pc0oKHscVjAsvYj6mXzKL-c=/0x587:3741x2546/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24876368/1630110548.jpg",
+            "publishedAt": "2023-08-27T03:09:50Z",
+            "content": "Miami Dolphins rookie wide receiver Daewood Davis appeared to be knocked unconscious with 8:32 remaining in the teams 2023 Preseason Week 3 game against the Jacksonville Jaguars on Saturday. On a 3rd\u2026 [+3652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
+            },
+            "author": null,
+            "title": "SpaceX Falcon 9 launches 22 Starlink satellites from Cape Canaveral \u2013 Spaceflight Now - Spaceflight Now",
+            "description": null,
+            "url": "https://spaceflightnow.com/2023/08/26/live-coverage-spacex-falcon-9-to-launch-22-starlink-satellites-from-cape-canaveral/",
+            "urlToImage": null,
+            "publishedAt": "2023-08-27T03:00:00Z",
+            "content": "SpaceX launches 22 Starlink satellites from Cape Canaveral on Saturday, Aug. 26, 2023. Image: SpaceX.\r\nSpaceX launched its second Falcon 9 mission of the day, sending 22 second-generation Starlink sa\u2026 [+1841 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Ben Verlander",
+            "title": "Shohei Ohtani injury: Updates from Ben Verlander - FOX Sports",
+            "description": "A source tells Ben Verlander Shohei Ohtani's fatigue in early August was unrelated to his UCL tear \u2014\u00a0and that the recent injury is different than the one he suffered in 2018.",
+            "url": "https://www.foxsports.com/stories/mlb/shohei-ohtani-injury-updates-from-ben-verlander",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/GettyImages-1605796123.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-27T02:31:29Z",
+            "content": "Shohei Ohtani tore his UCL for the second time earlier this week and will not pitch for the rest of this season. An enormous amount of speculation has circulated since then; should the Angels have sa\u2026 [+2910 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Sumanti Sen",
+            "title": "Britney Spears' head cracked open after fight with Sam Asghari: Report - Hindustan Times",
+            "description": "TMZ founder Harvey Levin claimed in \u2018Britney Spears: Divorce & Despair\u2019 that recently aired on Fox that the fight left the singer seriously injured",
+            "url": "https://www.hindustantimes.com/entertainment/music/britney-spears-head-cracked-open-needed-stictches-after-explosive-fight-with-sam-asghari-report-101693101185977.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/27/1600x900/Sam_1693101356365_1693101357053.JPG",
+            "publishedAt": "2023-08-27T01:58:11Z",
+            "content": "An explosive fight with estranged husband Sam Asghari led to Britney Spears head cracking open before their divorce. TMZ founder Harvey Levin claimed in Britney Spears: Divorce &amp; Despair that rec\u2026 [+2592 chars]"
         }
     ]
 }
