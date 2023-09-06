@@ -1,45 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 32,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "CBS Sports"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vanity Fair"
-            },
-            "author": "Chris Smith",
-            "title": "Joe Biden Is Making a Bold Bet: Trump's Indictments Will Speak for Themselves - Vanity Fair",
-            "description": "The White House and allied Democrats are staying quiet about Trump\u2019s legal woes, hoping voters will mobilize around them on their own. Is it a risky strategy, or just part of Biden\u2019s genius?",
-            "url": "https://www.vanityfair.com/news/2023/09/joe-biden-campaign-strategy-trump-indictments",
-            "urlToImage": "https://media.vanityfair.com/photos/64f0d27e8174eaf4cb86524c/16:9/w_1280,c_limit/vf823-biden-trump.jpg",
-            "publishedAt": "2023-09-04T12:00:00Z",
-            "content": "You have probably heard about Donald Trumps record-setting run of four indictments. It has, understandably, received wall-to-wall media coverage. You may well have heard about the Trump indictments f\u2026 [+5373 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Tim Lister, Victoria Butenko, Maria Kostenko",
-            "title": "Crimean Tatar set to become Ukrainian defense minister at critical moment in conflict - CNN",
-            "description": "Ukraine\u2019s President Volodymyr Zelensky has tapped Rustem Umerov, a Crimean Tatar, to become his next defense minister, replacing Oleksii Reznikov at a critical time for Ukraine\u2019s counteroffensive.",
-            "url": "https://www.cnn.com/2023/09/04/europe/rustem-umerov-ukraine-new-defense-minister-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230904103207-01-rustem-umerov.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-04T11:47:00Z",
-            "content": "Ukraines President Volodymyr Zelensky has tapped Rustem Umerov, a Crimean Tatar, to become his next defense minister, replacing Oleksii Reznikov at a critical time for Ukraines counteroffensive.\r\nUme\u2026 [+5498 chars]"
+            "author": "",
+            "title": "Clemson vs. Duke live stream, TV channel, watch online, prediction, pick, spread, football game odds - CBS Sports",
+            "description": "Clemson and Duke get their ACC slates started early with a Labor Day clash",
+            "url": "https://www.cbssports.com/college-football/news/clemson-vs-duke-live-stream-tv-channel-watch-online-prediction-pick-spread-football-game-odds/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/01/f185bbc1-4d02-46e8-9a9f-1862d573fb03/thumbnail/1200x675/56ea406acb4b158e91344cbbab496526/usatsi-19558868-168396417-lowres-1.jpg",
+            "publishedAt": "2023-09-04T23:45:00Z",
+            "content": "An ACC showdown headlines on Labor Day night as No. 9 Clemson meets Duke in a game that will serve as both the season opener and conference opener for each program. It also marks the first meeting be\u2026 [+3834 chars]"
         },
         {
             "source": {
@@ -57,15 +31,15 @@
         {
             "source": {
                 "id": null,
-                "name": "BuzzFeed News"
+                "name": "KPRC Click2Houston"
             },
-            "author": "Ellen Durney",
-            "title": "Joe Jonas Wears Wedding Ring Amid Sophie Turner Divorce Reports - BuzzFeed News",
-            "description": "Reports suggest that Joe is the one driving the alleged split, apparently hiring a divorce lawyer.",
-            "url": "https://www.buzzfeednews.com/article/ellendurney/joe-jonas-wedding-ring-after-sophie-turner-divorce-reports",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-09/4/10/enhanced/8b1f6b59647e/original-442-1693825044-9.jpg?crop=1243:651;0,8%26downsize=1250:*",
-            "publishedAt": "2023-09-04T11:19:24Z",
-            "content": null
+            "author": "Bill Spencer, Erica Ponder",
+            "title": "A new COVID variant has been identified and reported in Texas: What you need to know - KPRC Click2Houston",
+            "description": "A brand new COVID variant labeled \u201cBA.2.86\u2033 has now been identified and reported in Texas.",
+            "url": "https://www.click2houston.com/health/2023/09/04/a-new-covid-variant-has-been-identified-and-reported-in-texas-what-to-know/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/09-04-2023/t_05e9b9cbd8e5400682729429e3c5db50_name_fusion_medical_animation_npjP0dCtoxo_unsplash.jpg?_a=ATAPphC0",
+            "publishedAt": "2023-09-04T22:56:59Z",
+            "content": "HOUSTON A brand new COVID variant labeled BA.2.86 has now been identified and reported in Texas.\r\nAccording to health officials, it is only the fourth reported case in the United States and was found\u2026 [+2233 chars]"
         },
         {
             "source": {
@@ -82,185 +56,211 @@
         },
         {
             "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": null,
+                "name": "WABC-TV"
             },
             "author": null,
-            "title": "Biden world thinks impeachment will be a political winner. They're still dreading it. - POLITICO",
-            "description": "And that\u2019s not the only political hot spot Biden aides are gearing up to confront.",
-            "url": "https://www.politico.com/news/2023/09/04/white-house-biden-impeachment-00113824",
-            "urlToImage": "https://static.politico.com/ac/4a/b05adf484c469cb771849a505255/biden-32028.jpg",
-            "publishedAt": "2023-09-04T11:00:00Z",
-            "content": "And thats not the only political hot spot they are gearing up to confront.\r\nBiden aides are also preparing for another looming fight with Republicans over government funding. They believe that stando\u2026 [+8200 chars]"
+            "title": "3 killed, several others rescued in rip currents at Jersey Shore beaches - WABC-TV",
+            "description": "Three swimmers have died, and several others had to be rescued due to rip currents at Jersey Shore over the weekend.",
+            "url": "https://abc7ny.com/new-jersey-shore-drowning-rescue/13736009/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13733377_090323-jersey-shore.jpg?w=1600",
+            "publishedAt": "2023-09-04T22:10:52Z",
+            "content": "BELMAR, New Jersey (WABC) -- Three swimmers have died, and several others had to be rescued due to rip currents at Jersey Shore over the weekend.\r\nOn Sunday, tragedy struck in Beach Haven, Ocean Coun\u2026 [+2753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Ellise Shafer",
+            "title": "Woody Allen\u2019s \u2018Coup de Chance\u2019 Ignites Protests and Enthusiastic Standing Ovation at Venice Premiere - Variety",
+            "description": "Woody Allen received a three-minute standing ovation at the Venice premiere of \u201cCoup de Chance\u201d on Monday night, which would have gone on longer had the filmmaker not started to exit. After two min\u2026",
+            "url": "https://variety.com/2023/film/news/woody-allen-venice-controversy-coup-de-chance-premiere-1235695947/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/09/GettyImages-1659831611.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-09-04T21:52:00Z",
+            "content": "Woody Allen received a three-minute standing ovation at the Venice premiere of \u201cCoup de Chance\u201d on Monday night, which would have gone on longer had the filmmaker not started to exit. After two minut\u2026 [+2918 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Russia won\u2019t renew grain until West meets its demands, Putin tells Erdogan - Al Jazeera English",
+            "description": "The Russian leader\u2019s stance dashes hopes that Erdogan could help revive the vital grain deal amid soaring food prices.",
+            "url": "https://www.aljazeera.com/news/2023/9/4/russia-wont-renew-grain-until-west-meets-its-demands-putin-tells-erdogan",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/image-13.jpg?resize=1920%2C1080&quality=80",
+            "publishedAt": "2023-09-04T21:24:43Z",
+            "content": "Russian President Vladimir Putin has reiterated his stance on reinstating a United Nations-brokered deal to safely ship Ukrainian grain across the Black Sea only after the West meets Moscows demands \u2026 [+4925 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": null,
-            "title": "Missing Colorado climber Adam Fuselier found dead in Glacier National Park - CBS News",
-            "description": "Adam Fuselier, 32, of Castle Pines, Colorado, was reported overdue from a planned climb on Reynolds Mountain.",
-            "url": "https://www.cbsnews.com/news/adam-fuselier-dead-colorado-climber-glacier-national-park/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/04/8ea1faa9-caac-4c5d-b2f7-ca743b1e2b4e/thumbnail/1200x630/999c8ab7ac54bb2f1108736698a0595b/fuselier-missing-person-flyer.jpg?v=bd30f47a894d621fb3691fc64d1442e9",
-            "publishedAt": "2023-09-04T10:43:56Z",
-            "content": "A Colorado man who went missing on a climbing trip in Glacier National Park was found dead Friday morning, park officials said.\r\nAdam Fuselier, 32, of Castle Pines, Colorado, was reported overdue on \u2026 [+1116 chars]"
+            "author": "Aliza Chasan",
+            "title": "Fireball streaks over mid-Atlantic states at 36,000 miles per hour - CBS News",
+            "description": "A fireball streaked across the sky Sunday night, speeding across several U.S. states, including Maryland and Pennsylvania.",
+            "url": "https://www.cbsnews.com/news/fireball-streaks-over-mid-atlantic-states-meteor-asteroid-difference/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/04/04ea015c-7e4f-4a7e-a266-25d026477b35/thumbnail/1200x630/3d4b2304a952377a730fd6dbaaacc67b/gettyimages-1596243663.jpg?v=bd30f47a894d621fb3691fc64d1442e9",
+            "publishedAt": "2023-09-04T21:15:23Z",
+            "content": "Hundreds watched in awe Sunday night as a fireball streaked across the mid-Atlantic.\u00a0\r\nThe fireball, which was an exceptionally bright meteor, first became visible 47 miles above the Maryland town of\u2026 [+2594 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Rock Paper Shotgun"
-            },
-            "author": "Edwin Evans-Thirlwell",
-            "title": "God of War writer flies to a planet in Starfield without the loading break, sort of - Rock Paper Shotgun",
-            "description": "One of the bigger Discourse torpedoes aimed at Starfield's glittering hull over the past month has been its strict divi\u2026",
-            "url": "https://www.rockpapershotgun.com/god-of-war-writer-flies-to-a-planet-in-starfield-without-the-loading-break-sort-of",
-            "urlToImage": "https://assetsio.reedpopcdn.com/Starfield-space-orbit.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "publishedAt": "2023-09-04T10:41:08Z",
-            "content": "One of the bigger Discourse torpedoes aimed at Starfield's glittering hull over the past month has been its strict division between planetary surfaces and outer space. Space sim fanatics were dismaye\u2026 [+2427 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
+                "name": "WPVI-TV"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Stephen Smith",
-            "title": "California woman accused in $2 million murder-for-hire plot to kill husband - CBS News",
-            "description": "Tatyana Remley, 42, was arrested during a sting operation conducted by undercover detectives.",
-            "url": "https://www.cbsnews.com/news/tatyana-remley-accused-offering-2-million-to-have-husband-mark-remley-killed/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/04/b6244e54-3d4d-4841-9371-95a8d5811c53/thumbnail/1200x630g1/01d050531dd2b9dd7b775b33aad1a7f3/remley.jpg?v=bd30f47a894d621fb3691fc64d1442e9",
-            "publishedAt": "2023-09-04T10:01:00Z",
-            "content": "A woman in Southern California has been arrested for allegedly trying to hire someone to kill her estranged husband and get rid of his body, authorities said.\r\nTatyana Remley, 42, was arrested on Aug\u2026 [+2376 chars]"
+            "title": "Chester County Prison escape: Pocopson Township resident believes escaped killer Danelo Cavalcante was in his home - WPVI-TV",
+            "description": "Ryan Drummond claims he saw the escaped Chester County prisoner Danelo Cavalcante inside his home on Friday night around 11:45 p.m.",
+            "url": "https://6abc.com/chester-county-prison-escape-pocopson-township-burglary-danelo-cavalcante-prisoner-convicted-murderer-pennsylvania/13735720/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13735748_090423-wpvi-prisoner-search-latest-maggie-4pm-CC-vid.jpg?w=1600",
+            "publishedAt": "2023-09-04T20:51:34Z",
+            "content": "POCOPSON TWP., Pennsylvania (WPVI) -- Investigators are urging residents to stay vigilant as the search intensifies for an escaped prisoner who was convicted of murder.\r\nFederal and local law enforce\u2026 [+4581 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Matias Grez",
-            "title": "US Open: Defending champion Iga \u015awi\u0105tek stunned by Jelena Ostapenko - CNN",
-            "description": "Je\u013cena Ostapenko extended her impressive unbeaten record over world No. 1 Iga \u015awi\u0105tek on Sunday, eliminating the defending US Open champion in the round of 16 at Flushing Meadows.",
-            "url": "https://www.cnn.com/2023/09/04/tennis/iga-swiatek-loses-jelena-ostapenko-us-open-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230904101151-01-us-open-090323-jelena-ostapenko.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-04T10:01:00Z",
-            "content": "Jeena Ostapenko extended her impressive unbeaten record over world No. 1 Iga witek on Sunday, eliminating the defending US Open champion in the round of 16 at Flushing Meadows.\r\nThe sheer power from \u2026 [+2548 chars]"
+            "author": "Mengchen Zhang",
+            "title": "Two people detained in China for allegedly damaging Great Wall with excavator - CNN",
+            "description": "Two people have been detained in China after allegedly damaging a section of the Great Wall in the northern Shanxi province with an excavator, according to state broadcaster CCTV.",
+            "url": "https://www.cnn.com/2023/09/04/china/china-great-wall-damage-excavator-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230904113932-02-china-excavation-arrest.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-04T20:40:00Z",
+            "content": "Two people have been detained in China after allegedly damaging a section of the Great Wall in the northern Shanxi province with an excavator, according to state broadcaster CCTV. \r\nAuthorities in Yo\u2026 [+703 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
+                "name": "Hollywood Reporter"
             },
-            "author": "Robert Lea",
-            "title": "See the moon meet up with Jupiter on Sept. 4. - Space.com",
-            "description": "The moon will meet up with Jupiter tonight, making a close approach to the solar system's largest planet in the night sky.",
-            "url": "https://www.space.com/moon-jupiter-conjunction-september-2023",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/46CZqzitLnnVo2VL8ZAu55-1200-80.jpg",
-            "publishedAt": "2023-09-04T10:00:13Z",
-            "content": "The moon will meet up with Jupiter tonight, making a close approach to the solar system's largest planet in the night sky.\u00a0\r\nFrom New York City, the 19-day-old moon and Jupiter will be visible from s\u2026 [+3564 chars]"
+            "author": "Alex Ritman",
+            "title": "Sofia Coppola\u2019s \u2018Priscilla\u2019 Gets Seven-Minute Standing Ovation in Venice as Stars (and Priscilla Presley) Fight Back Tears - Hollywood Reporter",
+            "description": "The buzzy biopic about Priscilla\u2019s relationship with Elvis, starring Cailee Spaeny and Jacob Elordi, had its world premiere on Monday night.",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/sofia-coppola-priscilla-venice-world-premiere-jacob-elordi-cailee-spaeny-1235581514/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/Priscilla_Still02_Photo-Credit-Sabrina-Lantos-copy.jpg?w=1024",
+            "publishedAt": "2023-09-04T19:58:28Z",
+            "content": "Priscilla, one of the buzziest films heading into this year\u2019s Venice Film Festival, finally had its world premiere in competition on the Lido, receiving a rapturous seven-minute 30-second standing ov\u2026 [+1864 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Texas Tribune"
+                "name": "WAVY.com"
             },
-            "author": "Robert Downen",
-            "title": "Ken Paxton\u2019s affair will be focus of impeachment trial - The Texas Tribune",
-            "description": "The impeachment trial that starts Tuesday is expected to center on Paxton\u2019s infidelity, and could air out the sordid details of the staunch, Christian conservative\u2019s life as he sits just yards away from his wife, and her 30 Senate colleagues.",
-            "url": "https://www.texastribune.org/2023/09/04/ken-paxton-affair-impeachment-trial-marriage/",
-            "urlToImage": "https://thumbnails.texastribune.org/KJQqHtNJ5tFN5VXwzRDbwu-EY-s=/1200x630/filters:quality(95):focal(201x0:2602x2000)/static.texastribune.org/media/files/e9536c14a3fe289bcfc70cfe5f7f62de/0110%20Lege%20Opening%20BD%2038.jpg",
-            "publishedAt": "2023-09-04T10:00:00Z",
-            "content": "The Texas Tribune is your source for in-depth reporting on the Ken Paxton impeachment trial. Readers make that possible. Support authoritative Texas journalism with a donation now.\r\nIn September 2018\u2026 [+12459 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Linda Searing",
-            "title": "Early-childhood screen time linked to developmental delays in study - The Washington Post - The Washington Post",
-            "description": "As screen time increased, so did the likelihood of developmental delays, primarily in communication and problem-solving skills, the study found.",
-            "url": "https://www.washingtonpost.com/wellness/2023/09/04/toddler-screen-time-developmental-delays/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/63TZ3WM4PFBUDDR7PM2G4WUMUI.jpg&w=1440",
-            "publishedAt": "2023-09-04T09:38:57Z",
-            "content": "Comment on this story\r\nComment\r\nFor 1-year-olds, spending two or more hours a day in front of screens for television, video, mobile phones or other digital devices may increase their chances of exper\u2026 [+1857 chars]"
+            "author": "Regina Mobley",
+            "title": "New variant, new concerns about COVID-19 infections - WAVY.com",
+            "description": "PORTSMOUTH, Va. (WAVY) \u2014 The COVID-19 health emergency is over, but the health threat is not. \u201cThis is just a different phase of the pandemic,\u201d said Norfolk-based cardiologist Dr. Keith Newby. \u201cWe never really have gotten out of it.\u201d The Virginia Department o\u2026",
+            "url": "https://www.wavy.com/news/health/new-variant-new-concerns-about-covid-19-infections/",
+            "urlToImage": "https://www.wavy.com/wp-content/uploads/sites/3/2023/05/64704d3a3ccde3.45091793.jpeg?w=1280",
+            "publishedAt": "2023-09-04T19:53:12Z",
+            "content": "PORTSMOUTH, Va. (WAVY) \u2014 The COVID-19 health emergency is over, but the health threat is not. \r\n\u201cThis is just a different phase of the pandemic,\u201d said Norfolk-based cardiologist Dr. Keith Newby. \u201cWe \u2026 [+1357 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Usf.edu"
+                "name": "Android Police"
             },
-            "author": "Adam Bearne",
-            "title": "More small airports are being cut off from the air travel network. This is why - WUSF Public Media",
-            "description": "The pilot shortage and changing economics are to blame for legacy airlines departing regional airports",
-            "url": "https://wusfnews.wusf.usf.edu/2023-09-04/more-small-airports-are-being-cut-off-from-the-air-travel-network-this-is-why",
-            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/b24067e/2147483647/strip/true/crop/2048x1075+0+107/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F09%2F01%2Fgettyimages-1239800166_custom-e9b9cf40f1315a3e7596bdfc3a811fd105c49e81.jpg",
-            "publishedAt": "2023-09-04T09:25:00Z",
-            "content": "Walking into Williamsport Regional Airport is a strange experience.\r\nIt has everything you're used to seeing in a terminal building: check-in desks, a baggage carousel, car rental counters.\r\nBut ther\u2026 [+6369 chars]"
+            "author": "Chandraveer Mathur",
+            "title": "Apple may never acknowledge the EU's role in bringing USB-C to the iPhone 15 - Android Police",
+            "description": "Spinning the battle as the ultimate pro-consumer move",
+            "url": "https://www.androidpolice.com/apple-may-never-admit-eu-role-usb-c-iphone-15/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/12/09/iPhone-12-Mini-vs-Pixel-5-3-scaled.jpg",
+            "publishedAt": "2023-09-04T19:15:00Z",
+            "content": "Summary\r\n<ul><li> The European Union has successfully forced Apple and other brands to adopt USB-C by the end of 2024, leading to the iPhone 15 series likely adopting sharing a port with Android devi\u2026 [+3981 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Guy",
+            "title": "Pilot dies after plane crashes during gender reveal party in Mexico - CNN",
+            "description": "A pilot has died after the plane he was flying as part of a gender reveal party in Mexico crashed on Sunday.",
+            "url": "https://www.cnn.com/2023/09/04/americas/mexico-gender-reveal-plane-crash-scli-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230904113957-mexico-gender-reveal-plane-crash.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-04T19:07:00Z",
+            "content": "A pilot has died after the plane he was flying as part of a gender reveal party in Mexico crashed on Sunday.\r\nVideo posted online shows the plane releasing pink smoke as it flies over a couple waitin\u2026 [+1945 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Barron's"
+                "name": "WTA Tennis"
             },
-            "author": "Callum Keown",
-            "title": "China Rebound Leads Stocks Higher. Goldman Says there is More Stimulus to Come. - Barron's",
-            "description": "Global stocks climbed Monday, driven by a Chinese rebound as authorities eased mortgage rules to boost the country\u2019s ailing property sector.",
-            "url": "https://www.barrons.com/articles/stock-market-today-china-stimulus-f1a2e93a",
-            "urlToImage": "https://images.barrons.com/im-791405/social",
-            "publishedAt": "2023-09-04T09:15:00Z",
-            "content": null
+            "author": null,
+            "title": "Wimbledon champion Vondrousova makes first US Open quarterfinal - WTA Tennis",
+            "description": "No.9 Marketa Vondrousova kept her cool to rally from a set down to beat unseeded American Peyton Stearns in the fourth round of the US Open.",
+            "url": "https://www.wtatennis.com/news/3671129/wimbledon-champion-vondrousova-makes-first-us-open-quarterfinal",
+            "urlToImage": "https://photoresources.wtatennis.com/photo-resources/2023/09/04/1802b795-d247-4ed4-98d2-2398496607ab/Marketa_Vondrousova_-_2023_US_Open_-_Day_4-DSC_7406.jpg?width=1200&height=630",
+            "publishedAt": "2023-09-04T18:33:56Z",
+            "content": "NEW YORK A year ago, Marketa Vondrousova missed the seasons last three Grand Slams. In recent months, though, she found a level of consistent excellence, won her first major title at Wimbledon and cr\u2026 [+3325 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mary Kekatos",
+            "title": "What to know about Merkel cell carcinoma, the rare skin cancer that led to the death of Jimmy Buffett - ABC News",
+            "description": "Buffett had been battling the cancer for four years, according to his website.",
+            "url": "https://abcnews.go.com/Health/merkel-cell-carcinoma-rare-skin-cancer-led-death/story?id=102905266",
+            "urlToImage": "https://s.abcnews.com/images/Health/jimmy-buffett-rt-gmh-230904_1693838410675_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-09-04T18:26:02Z",
+            "content": "\"Margaritaville\" singer Jimmy Buffett died on Sept. 1 after a four-year battle with a rare skin cancer.\r\nBuffet's website revealed he had been diagnosed with Merkel cell carcinoma, but had been able \u2026 [+3474 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NBCSports.com"
+                "name": "Forbes"
             },
-            "author": "Michael David Smith",
-            "title": "Patrick Mahomes on Chris Jones: At this point, we prepare with the guys in the building - NBC Sports",
-            "description": "Chiefs quarterback Patrick Mahomes sounds resigned to opening the season without star defensive tackle Chris Jones.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-on-chris-jones-at-this-point-we-prepare-with-the-guys-in-the-building",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c6d7403/2147483647/strip/true/crop/7780x4376+0+405/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Fb4%2Fb3%2F9a4b87b440b7a0974a660d73a518%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1247096595",
-            "publishedAt": "2023-09-04T09:07:12Z",
-            "content": "Chiefs quarterback Patrick Mahomes sounds resigned to opening the season without star defensive tackle Chris Jones.\r\nAsked about Jones continued holdout on Sunday, Mahomes said the Chiefs are prepari\u2026 [+929 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Andrea Adelson",
-            "title": "LSU's collapse to FSU in opener 'a total failure,' Brian Kelly says - ESPN - ESPN",
-            "description": "Sunday night's loss to Florida State was the Tigers' largest defeat as a ranked team in a season opener since 1936.",
-            "url": "https://www.espn.com/college-football/story/_/id/38325446/lsu-collapse-fsu-opener-total-failure-brian-kelly-says",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1106%2Fr1086886_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-09-04T06:12:00Z",
-            "content": "ORLANDO, Fla. -- LSU coach Brian Kelly said his team's 45-24 loss to Florida State on Sunday night was \"a total failure,\" after a second-half collapse allowed the Seminoles to run away with the game.\u2026 [+2643 chars]"
+            "author": "Astrid Taran",
+            "title": "Hoka Labor Day Sale: Save On The Clifton 8, Carbon X3 And More - Forbes",
+            "description": "The current assortment of Hoka Labor Day sales will help you save up to 40% on a new pair of sneakers.",
+            "url": "https://www.forbes.com/sites/forbes-personal-shopper/2023/09/04/hoka-labor-day-sale/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64f61622d334253bcd9f5319/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-09-04T17:41:09Z",
+            "content": "With fall on the horizon, Labor Day weekend is the perfect time to snap up a pair of sneakers to replace your tried-and-true summer sandals. If youre looking to invest in a supportive, comfortable an\u2026 [+3840 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Dexerto"
+                "name": "Eonline.com"
             },
-            "author": "Ethan Dean",
-            "title": "Starfield dev laughs at games media outlets asking for PS5 codes - Dexerto",
-            "description": "Starfield PS5 codes may not exist but that hasn't stopped some games media publications from asking. Requests had a Starfield dev in stitches.",
-            "url": "https://www.dexerto.com/starfield/starfield-dev-laughs-at-games-media-outlets-asking-for-ps5-codes-2277201/",
-            "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/05/29/is-starfield-on-ps5.jpg",
-            "publishedAt": "2023-09-04T05:41:43Z",
-            "content": "Starfields PR Director has a tough job with access to codes for one of the most-wanted games of the year. Apparently, there are still plenty of laughs in the gig, like certain publications requesting\u2026 [+2995 chars]"
+            "author": "Hayley Santaflorentina",
+            "title": "Joe Jonas Wears Wedding Ring Amid Sophie Turner Divorce Rumors - E! NEWS",
+            "description": "Joe Jonas recently shared a photo of himself wearing his wedding ring amid divorce rumors and speculation about the state of his marriage to Sophie Turner.",
+            "url": "https://www.eonline.com/news/1384770/joe-jonas-wears-wedding-ring-amid-sophie-turner-divorce-rumors",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202383/rs_1200x1200-230903125018-1200-joe-jonas-sophie-turner-academy-museum-gala-cjh-101522.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-09-04T17:26:00Z",
+            "content": "It might still be too early to call S.O.S.\r\nJoe Jonas\u00a0recently shared a snap from his Labor Day weekend festivities, and one particular detail caught fans' attention. As rumors spread that he and his\u2026 [+985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Jeff Foust",
+            "title": "ESA to set target for first Ariane 6 launch after upcoming tests - SpaceNews",
+            "description": "ESA plans to set a target launch period for the first Ariane 6 in October, with the hopes that vehicle can finally take flight \u201cnot too late\u201d into 2024.",
+            "url": "https://spacenews.com/esa-to-set-target-for-first-ariane-6-launch-after-upcoming-tests/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/09/a6-vinci-hotfire.jpg",
+            "publishedAt": "2023-09-04T17:23:43Z",
+            "content": "WASHINGTON The European Space Agency plans to set a target launch period for the first Ariane 6 in October, with the hopes that vehicle can finally take flight not too late into 2024.\r\nAt a Sept. 4 b\u2026 [+5142 chars]"
         }
     ]
 }
