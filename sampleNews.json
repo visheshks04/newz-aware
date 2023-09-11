@@ -4,172 +4,94 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Pria Anand",
+            "title": "My grandfather and the decades-long reach of post-polio syndrome - The Washington Post",
+            "description": "I never thought about polio until 2013, when I was a medical student and my grandfather \u2014 then in his 90s \u2014 began to wither away from post-polio syndrome.",
+            "url": "https://www.washingtonpost.com/wellness/2023/09/10/grandfather-post-polio-syndrome/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOCDB3PP65HBVH3R2BXDIUOXLU.jpg&w=1440",
+            "publishedAt": "2023-09-10T12:31:34Z",
+            "content": "Comment on this story\r\nComment\r\nThe first known victim of polio lived and died in the 14th century B.C., during Egypts 18th dynasty. He is immortalized on a carved limestone slab, the Stele of Roma t\u2026 [+5644 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "id": "nbc-news",
+                "name": "NBC News"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "How to watch Alabama vs. Texas: TV channel, live stream online, prediction, spread, kickoff time - CBS Sports",
-            "description": "It's a rematch of one of 2022's best games with the Crimson Tide playing host to the Longhorns",
-            "url": "https://www.cbssports.com/college-football/news/how-to-watch-alabama-vs-texas-tv-channel-live-stream-online-prediction-spread-kickoff-time/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/03/e404b2eb-2a10-49b3-a944-775d9e323ad8/thumbnail/1200x675/a9cf1695b443473fd9a57b312956cb6f/milroe-final.jpg",
-            "publishedAt": "2023-09-09T22:45:00Z",
-            "content": "No. 3 Alabama will play host to No. 11 Texas\u00a0on Saturday night at Bryant-Denny Stadium in a battle of college football blue bloods and one of the most highly anticipated nonconference showdowns on th\u2026 [+4016 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "JEFF MARTIN Associated Press",
-            "title": "Hurricane Lee is charting a new course in weather and could signal more monster storms - ABC News",
-            "description": "Experts say that Hurricane Lee is rewriting old rules of meteorology",
-            "url": "https://abcnews.go.com/US/wireStory/hurricane-lee-charting-new-weather-signal-monster-storms-103048327",
-            "urlToImage": "https://i.abcnewsfe.com/a/d399edef-777d-4212-b215-71aafe581f9b/wirestory_36e45b46071f8b68fd7a83a6d4936a51_16x9.jpg?w=992",
-            "publishedAt": "2023-09-09T22:42:27Z",
-            "content": "ATLANTA -- ATLANTA (AP) Hurricane Lee is rewriting old rules of meteorology, leaving experts astonished at how rapidly it grew into a goliath Category 5 hurricane.\r\nLee which just as quickly dropped \u2026 [+3435 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "LAURAN NEERGAARD AP medical writer",
-            "title": "Updated COVID shots are coming. They're part of a trio of vaccines to block fall viruses - ABC News",
-            "description": "Updated COVID-19 shots are coming soon, part of a trio of fall vaccines that doctors hope will help avoid another \u201ctripledemic.\"",
-            "url": "https://abcnews.go.com/US/wireStory/updated-covid-shots-coming-part-trio-vaccines-block-103048597",
-            "urlToImage": "https://i.abcnewsfe.com/a/37850813-6124-49ab-a36c-29bb48c7296b/wirestory_2a55728638c1c0879ce58deeeb0196bf_16x9.jpg?w=992",
-            "publishedAt": "2023-09-09T22:36:15Z",
-            "content": "WASHINGTON -- Updated COVID-19 vaccines are coming soon, just in time to pair them with flu shots. And this fall, the first vaccines for another scary virus called RSV are rolling out to older adults\u2026 [+4941 chars]"
+            "author": "Jennifer Jett, Peter Nicholas",
+            "title": "Biden heads to Vietnam in latest push to counter China - NBC News",
+            "description": "President Joe Biden\u2019s visit to Vietnam this weekend may be short, but it has major implications for American efforts to push back against China.",
+            "url": "https://www.nbcnews.com/news/world/china-vietnam-joe-bidens-asia-rcna103810",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230908-biden-af1-plane-mb-1324-48e9ae.jpg",
+            "publishedAt": "2023-09-10T12:23:00Z",
+            "content": "Vietnam is also becoming an increasingly important destination for U.S. investment, especially as the U.S.-China trade war leads some American companies to relocate parts of their manufacturing opera\u2026 [+5827 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Mohammed Tawfeeq, Sharif Paget, Hamdi Alkhshali, Chris Lau, Teele Rebane, Celine Alkhaldi, Xiaofei Xu, Isil Sariyuce",
-            "title": "Morocco earthquake kills more than 2,000 and damages historic Marrakech - CNN",
-            "description": "Rescuers were digging through rubble in remote mountainous areas of Morocco on Saturday in a desperate bid to find survivors after more than 2,000 people were killed in the deadliest earthquake to strike the country in decades.",
-            "url": "https://www.cnn.com/2023/09/08/africa/morocco-6-8-magnitude-earthquake-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908175843-01-morocco-earthquake-screengrab.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-09T22:19:00Z",
-            "content": "Rescuers were digging through rubble in remote mountainous areas of Morocco on Saturday in a desperate bid to find survivors after more than 2,000 people were killed in the deadliest earthquake to st\u2026 [+7422 chars]"
+            "author": "Amarachi Orie",
+            "title": "What we know about the Morocco earthquake - CNN",
+            "description": "More than 2,000 people have died after a powerful earthquake struck the North African country of Morocco on Friday night. Hundreds have been injured.",
+            "url": "https://www.cnn.com/2023/09/09/africa/morocco-earthquake-what-we-know-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230909090328-14-morocco-earthquake-090923.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-10T12:10:00Z",
+            "content": "More than 2,000 people have died after a powerful earthquake struck the North African country of Morocco on Friday night. Thousands have been injured.\r\nThe quake is the strongest to hit the nations c\u2026 [+3809 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "ABC15 Arizona"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Associated Press, abc15.com staff",
-            "title": "Kroger and Albertsons sell hundreds of stores in a bid to clear merger of the 2 largest US groceries - ABC15 Arizona in Phoenix",
-            "description": "Twenty-four Arizona Albertsons stores to be sold under agreement",
-            "url": "https://www.abc15.com/news/local-news/kroger-and-albertsons-sell-hundreds-of-stores-in-a-bid-to-clear-merger-of-the-2-largest-us-groceries",
-            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/ce67062/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1686674955_Jb1nNX.jpg",
-            "publishedAt": "2023-09-09T22:17:00Z",
-            "content": "Grocers Kroger and Albertsons are selling more than 400 stores and other assets to C&amp;S Wholesale Grocers in an approximately $1.9 billion deal as part of their efforts to complete their merger. \r\u2026 [+629 chars]"
+            "author": "Kevin Shalvey, Morgan Norwood",
+            "title": "Escaped convict Danelo Cavalcante spotted with altered appearance, driving stolen van, police say - ABC News",
+            "description": "Cavalcante was seen late Saturday with a cleanly shaven face, police said.",
+            "url": "https://abcnews.go.com/US/escaped-convict-danelo-cavalcante-spotted-altered-appearance-pennsylvania/story?id=103064127",
+            "urlToImage": "https://i.abcnewsfe.com/a/2e11514c-3d60-4051-91de-0e45bf94d827/police-h_hpMain_20230910-055609_16x9.jpg?w=992",
+            "publishedAt": "2023-09-10T12:00:00Z",
+            "content": "The convicted murderer who escaped from a Pennsylvania prison 11 days ago was spotted on Saturday evening with an altered appearance, law enforcement officials said.\r\nDanelo Cavalcante was seen near \u2026 [+1417 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Elizabeth Flores",
-            "title": "Prime Time: Deion Sanders dance lives on as son Shedeur leads Colorado - USA TODAY",
-            "description": "Deion Sanders' second impressive win in a row had plenty of spectacle as Colorado blows out Nebraska",
-            "url": "https://www.usatoday.com/story/sports/ncaaf/2023/09/09/shedeur-deion-sanders-dance-colorado-win/70810915007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/09/USAT/70811225007-usatsi-21332080-168402560-lowres.jpg?crop=2488,1406,x0,y126&width=2488&height=1406&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-09T21:41:09Z",
-            "content": "Deion Sanders led Colorado to a 36-14 victory over Nebraska in Week 2, with plenty of exciting moments for fans to enjoy. There were bodyguard shirts, a pregame sleepover and, of course, an iconic da\u2026 [+1533 chars]"
+            "author": "Molly Robey",
+            "title": "D.C.-area forecast: Scattered showers and storms stick around today - The Washington Post",
+            "description": "We don\u2019t get a clean break from rain chances until after a cold front comes through on Wednesday.",
+            "url": "https://www.washingtonpost.com/weather/2023/09/10/dc-area-forecast-sunday-scattered-storms/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3CLCISRZQZBIHLQBVOEKU2XXZA.jpg&w=1440",
+            "publishedAt": "2023-09-10T11:33:57Z",
+            "content": "Comment on this story\r\nComment\r\nA somewhat subjective rating of the days weather, on a scale of 0 to 10.\r\n3/10: Another day of scattered showers and storms may be having us say, rain, rain, go away (\u2026 [+2481 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Kaitlin Reilly",
-            "title": "Mila Kunis and Ashton Kutcher say they 'support victims' following backlash over their Danny Masterson letters - Yahoo Entertainment",
-            "description": "The former \"That '70s Show\" co-stars praised their friend Danny Masterson in letters to the judge and called for leniency in Masterson's sentencing.",
-            "url": "https://www.yahoo.com/entertainment/mila-kunis-and-ashton-kutcher-apologize-danny-masterson-rape-conviction-211100132.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-09/1a5f2660-4f52-11ee-9eee-7161498d04b7",
-            "publishedAt": "2023-09-09T21:11:00Z",
-            "content": "Ashton Kutcher and Mila Kunis say they support victims in a new Instagram video after it was revealed that they had written letters in support of leniency in Danny Mastersons sentencing.\r\nMasterson, \u2026 [+2597 chars]"
+            "author": "Al Jazeera",
+            "title": "Five key takeaways from G20 summit: \u2018We need bolder action\u2019 - Al Jazeera English",
+            "description": "India managed to get disparate group to sign off on a final statement despite pointed disagreements.",
+            "url": "https://www.aljazeera.com/news/2023/9/10/five-key-takeaways-from-the-final-g20-session",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/India-1694342225.jpg?resize=1920%2C1323",
+            "publishedAt": "2023-09-10T11:10:29Z",
+            "content": "The Group of 20 summit in New Delhi managed to defy expectations on Sunday and reach consensus on a joint declaration by world leaders, but not without compromises over the Ukraine conflict and actio\u2026 [+4255 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Eonline.com"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Corinne Heller",
-            "title": "Mary Kay Letourneau and Vili Fualaau's Daughter Is Pregnant With First Baby - E! NEWS",
-            "description": "The late Mary Kay Letourneau's husband Vili Fualaau is about to become a grandfather at age 40. Their daughter Georgia Fualaau is expecting her first child.",
-            "url": "https://www.eonline.com/news/1385168/mary-kay-letourneau-and-vili-fualaaus-daughter-is-pregnant-with-first-baby",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202389/rs_1200x1200-230909134608-1200-georgia-audrey-fualaau-mary-kay-letourneau-daughters-instagram-cjh-081923.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-09-09T20:59:00Z",
-            "content": "Vili Fualaau, ex-husband and former student of\u00a0convicted sex offender\u00a0Mary Kay Letourneau, is about to become a grandfather.\r\nThe 40-year-old and the late Washington State schoolteacher's\u00a0youngest da\u2026 [+846 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Mike Florio",
-            "title": "Spectrum arranges free Fubo trials for customers who want ESPN channels - NBC Sports",
-            "description": "With the relationship between Charter Communications and Disney currently FUBAR, Charter has arranged for an alternative for its customers who want access to ESPN, ABC, and other Disney-owned channels.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spectrum-arranges-free-fubo-trials-for-customers-who-want-espn-channels",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8b805a0/2147483647/strip/true/crop/3543x1993+0+185/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F08%2Fef%2Ffec8e0304ec4b68f3b82e0bf7134%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1238248851",
-            "publishedAt": "2023-09-09T20:53:17Z",
-            "content": "With the relationship between Charter Communications and Disney currently FUBAR, Charter has arranged for an alternative for its customers who want access to ESPN, ABC, and other Disney-owned channel\u2026 [+629 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ashley Hume",
-            "title": "'Pee-wee Herman' actor Paul Reubens' cause of death revealed - Fox News",
-            "description": "'Pee-wee Herman' actor Paul Reubens' cause of death was revealed to be acute myelogenous leukemia, his representative confirmed. Reubens died at the age of 70 on July 30.",
-            "url": "https://www.foxnews.com/entertainment/pee-wee-herman-actor-paul-reubens-cause-death-revealed",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/paul.jpg",
-            "publishedAt": "2023-09-09T20:14:00Z",
-            "content": "Paul Reubens' cause of death has been revealed a little over month after the actor died at the age of 70 on July 30.\r\nReubens, who was best known for playing the beloved children's character Pee-wee \u2026 [+348 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Gordon Kelly",
-            "title": "Apple Exclusive Leaks All-New iPhone 15, iPhone 15 Pro Upgrades - Forbes",
-            "description": "The last secrets of Apple's iPhone 15 and iPhone 15 Pro release have been revealed...",
-            "url": "https://www.forbes.com/sites/gordonkelly/2023/09/09/apple-iphone-15-pro-max-design-size-battery-life-charging-cameras-new-iphone-release/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64c9067d722c95206049763b/0x0.jpg?format=jpg&crop=991,557,x0,y2,safe&width=1200",
-            "publishedAt": "2023-09-09T19:57:41Z",
-            "content": "Apple iPhone 15 Pro Max render based on multiple leaks\r\nTechnizo Concept\r\nLeaks have exposed almost every detail of Apples imminent iPhone 15 launch, but with just days to go, new secrets have been r\u2026 [+2936 chars]"
+            "author": "Taylor Ward, Mary Gilbert",
+            "title": "Hurricane Lee is forecast to restrengthen as East Coast faces hazardous beach conditions this week - CNN",
+            "description": "As Hurricane Lee fluctuates in intensity over open Atlantic waters, its effects may soon be felt at beaches up and down the East Coast in the form of life-threatening rip currents and dangerous shoreline conditions.",
+            "url": "https://www.cnn.com/2023/09/10/weather/hurricane-lee-path-sunday-climate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908120940-huirricane-lee-noaa-sat-image.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-10T11:07:00Z",
+            "content": "As Hurricane Lee fluctuates in intensity over open Atlantic waters, its effects may soon be felt at beaches up and down the East Coast in the form of life-threatening rip currents and dangerous shore\u2026 [+3529 chars]"
         },
         {
             "source": {
@@ -177,90 +99,168 @@
                 "name": "Politico"
             },
             "author": null,
-            "title": "Citing NYC migrant crisis, Adams calls for steep budget cuts, hiring freeze - POLITICO",
-            "description": "New York City Mayor Eric Adams tasked agency heads with trimming spending by 15 percent through next spring \u2014 but said Albany or Washington could spare the city.",
-            "url": "https://www.politico.com/news/2023/09/09/nyc-eric-adams-migrant-crisis-00114879",
-            "urlToImage": "https://static.politico.com/68/d5/f0feb2d84ceea434f99d8ea3015d/53173943384-9e79de8ede-o.jpg",
-            "publishedAt": "2023-09-09T19:22:20Z",
-            "content": "Commissioners will then be on the hook for another 5 percent reduction in January, when the preliminary budget plan comes out, and a third round once the spring budget update is released in April.\r\nA\u2026 [+2754 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Chris Pandolfo",
-            "title": "Tim Scott has one-word response to California bill to punish parents who won't 'affirm' trans kids - Fox News",
-            "description": "South Carolina Republican Senator Tim Scott said a California bill that would require judges in custody cases to consider whether a parent affirms their transgender child is \"evil.\"",
-            "url": "https://www.foxnews.com/politics/tim-scott-one-word-response-california-bill-punish-parents-wont-affirm-trans-kids",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/59f0c028-Video-2.jpg",
-            "publishedAt": "2023-09-09T19:16:00Z",
-            "content": "EXCLUSIVE: Republican presidential candidate Tim Scott gave a one-word response to a California bill that would punish parents in custody battles who don't \"affirm\" transgender kids.\u00a0\r\nThe South Caro\u2026 [+2833 chars]"
+            "title": "Trump, the ultimate attention seeker, wages a campaign largely out of public view - POLITICO",
+            "description": "The ex-president\u2019s allies want his competition to drop out as they start focusing on Biden. But Trump\u2019s team insists he\u2019s not taking anything for granted.",
+            "url": "https://www.politico.com/news/2023/09/10/trump-campaign-out-of-public-view-00114873",
+            "urlToImage": "https://static.politico.com/a1/3e/ac83ca054f969e651f09f004fa5e/election-2024-trump-south-dakota-32772.jpg",
+            "publishedAt": "2023-09-10T11:00:00Z",
+            "content": "But hes not taking his eye entirely off the primary. In fact, he and his team are heavily engaged behind the scenes. \r\nIn recent weeks, Trump allies have worked with officials in various states to en\u2026 [+6468 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KABC-TV"
+                "name": "Dexerto"
             },
-            "author": null,
-            "title": "Mexico shooting: US citizens among 7 injured in border city of Miguel Aleman, officials say - KABC-TV",
-            "description": "U.S. citizens were among seven people injured in a shooting that occurred in the Mexican city of Miguel Alem\u00e1n, the U.S. Customs and Border Protection agency said.",
-            "url": "https://abc7.com/mexico-shooting-us-citizens-border/13759212/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/4516857_Breaking-News-noblur.jpg?w=1600",
-            "publishedAt": "2023-09-09T19:14:42Z",
-            "content": "ROMA, Texas (KABC) -- U.S. citizens were among seven people injured in a shooting that occurred in the Mexican city of Miguel Alem\u00e1n, the U.S. Customs and Border Protection agency said Saturday.\r\nThe\u2026 [+899 chars]"
+            "author": "Josh Taylor",
+            "title": "Starfield pilot in awe after discovering rare solar eclipse - Dexerto",
+            "description": "A Starfield player was shocked after they came across a \u201cglitch\u201d, which instead turned out to be a rare solar eclipse in the space RPG game.",
+            "url": "https://www.dexerto.com/starfield/starfield-pilot-in-awe-after-discovering-rare-solar-eclipse-2286681/",
+            "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/09/10/StarfieldSolarEclipseFeature.jpg",
+            "publishedAt": "2023-09-10T10:47:03Z",
+            "content": "A Starfield player was left in amazement after what they first thought was a glitch, turned out to be a rare solar eclipse.\r\nStarfields attention to detail in the vast space universe has continued to\u2026 [+1730 chars]"
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": null,
+                "name": "NPR"
             },
-            "author": "The Hill",
-            "title": "New Mexico governor suspends the right to carry firearms in public in Albuquerque - The Hill",
-            "description": null,
-            "url": "https://thehill.com/homenews/state-watch/4195907-new-mexico-gov-bars-firearms-in-public-albuquerque/",
-            "urlToImage": null,
-            "publishedAt": "2023-09-09T18:52:00Z",
+            "author": "James Doubek",
+            "title": "Chile coup 50 years later: The U.S. role and its unintended consequences - NPR",
+            "description": "When the U.S. role in the 1973 coup in Chile became known, activists took action. So did U.S. lawmakers. This is what happened after the U.S. helped topple a Marxist and aided a right-wing dictator.",
+            "url": "https://www.npr.org/2023/09/10/1193755188/chile-coup-50-years-pinochet-kissinger-human-rights-allende",
+            "urlToImage": "https://media.npr.org/assets/img/2023/08/14/ap18254769905548_wide-d0122bb241a5974b70e93f9e89e22982b842f211-s1400-c100.jpg",
+            "publishedAt": "2023-09-10T10:00:51Z",
+            "content": "Military jets bombed La Moneda presidential palace during the coup on Sept. 11, 1973, in Santiago, Chile. President Salvador Allende killed himself and Gen. Augusto Pinochet began a 17-year dictators\u2026 [+20880 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Electric cars have a road trip problem: slow and unreliable charging - NPR",
+            "description": "A road trip I took with Energy Secretary Jennifer Granholm confirmed one thing: The U.S. is wrestling with an inadequate charging network (unless you're a Tesla driver).",
+            "url": "https://www.npr.org/2023/09/10/1187224861/electric-vehicles-evs-cars-chargers-charging-energy-secretary-jennifer-granholm",
+            "urlToImage": "https://media.npr.org/assets/img/2023/09/08/gettyimages-1258507120_wide-6d552b1fdca1ec3f150a96a1c9fad5391c430f60-s1400-c100.jpg",
+            "publishedAt": "2023-09-10T10:00:51Z",
+            "content": "Energy Secretary Jennifer Granholm is working hard to convince more Americans to embrace electric cars and she knows this means the country's charging infrastructure needs to improve, fast.\r\nDrew Ang\u2026 [+18693 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Phelan",
+            "title": "Apple iPhone 15 Pro: Latest Leak Reveals Surprising New Look Coming - Forbes",
+            "description": "There are design changes coming to the iPhone 15 Pro and iPhone 15 Pro Max, and they\u2019re not going to please everybody.",
+            "url": "https://www.forbes.com/sites/davidphelan/2023/09/10/apple-iphone-15-pro-release-date-new-leak-reveals-surprising-design-change-coming/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64fd8deff9cb67c15f73b636/0x0.jpg?format=jpg&crop=2582,1722,x0,y4,safe&width=1200",
+            "publishedAt": "2023-09-10T10:00:08Z",
+            "content": "Apple iPhone 14 Pro. The next Pro could be both thicker and lighter.\r\nDavid Phelan\r\nWere in the final furlong for the 2023 iPhones release race. The iPhone 15 series will be revealed in just a matter\u2026 [+2837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Sharmila Kuthunur",
+            "title": "Will India's Chandrayaan-3 probes survive the lunar night? - Space.com",
+            "description": "There are \"faint chances\" the robotic duo will stir back to life from its first lunar night.",
+            "url": "https://www.space.com/india-chandrayaan-3-no-heaters-lunar-night-survival",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pBXZzhwQ9vCV54uDEv9MAK-1200-80.jpg",
+            "publishedAt": "2023-09-10T10:00:01Z",
+            "content": "After a groundbreaking two-week mission, India's robotic explorers are fast asleep in the frigid darkness of the moon's south pole region. Whether they'll wake up when the sun shines down on them at \u2026 [+3288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Eleni Courea",
+            "title": "UK's Sunak raises 'strong concerns' over alleged China spy in parliament - POLITICO Europe",
+            "description": "British prime minister discusses case with Chinese Premier Li Qiang at G20 summit in India.",
+            "url": "https://www.politico.eu/article/rishi-sunak-raises-significant-concerns-on-china-spy-in-parliament/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/09/05/GettyImages-1353468198-scaled.jpg",
+            "publishedAt": "2023-09-10T09:48:00Z",
+            "content": "NEW DELHI British Prime Minister Rishi Sunak raised very strong concerns with Beijing about China\u2019s alleged interference in the U.K. parliament.\r\nSunak relayed his concerns to Chinese Premier Li Qian\u2026 [+3050 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Mike Colias, Nora Eckert",
+            "title": "The Tension Driving the UAW Strike Threat - The Wall Street Journal",
+            "description": "GM, Ford and Stellantis want to use profits for EV transition; workers want a 40% pay increase",
+            "url": "https://www.wsj.com/business/autos/the-tension-driving-the-uaw-strike-threat-75e04119",
+            "urlToImage": "https://images.wsj.net/im-849046/social",
+            "publishedAt": "2023-09-10T09:30:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": null,
+                "name": "MacRumors"
             },
-            "author": "Tara Suter",
-            "title": "Pennsylvania adds more police officers to manhunt for escaped prisoner - The Hill",
-            "description": "Pennsylvania has added additional officers to its manhunt for an escaped prisoner convicted of murder, according to police. While speaking to reporters, Lt. Col. George Bivens said more people were \u201cpulled\u201d into the hunt as the search hits 10 days. The police\u2026",
-            "url": "https://thehill.com/homenews/state-watch/4195921-pennsylvania-adds-police-officers-to-manhunt/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/AP23251680106384-e1694285082638.jpg?w=1280",
-            "publishedAt": "2023-09-09T18:45:00Z",
-            "content": "Skip to content\r\nLt. Col George Vivens shows th map of the area delineated by law enforcement and their vehicles, during a media tour, at the Incident Command Center Where Pennsylvania State Troopers\u2026 [+1880 chars]"
+            "author": "Hartley Charlton",
+            "title": "iPad Air 6 Rumored to Launch in October as Only iPad Refresh of 2023 - MacRumors",
+            "description": "The sixth-generation iPad Air should launch in October as the only iPad refresh of 2023, according to a plausible rumor shared on Chinese social...",
+            "url": "https://www.macrumors.com/2023/09/10/ipad-air-6-rumored-to-launch-in-october/",
+            "urlToImage": "https://images.macrumors.com/t/gEezbdk3wb2cdTBNlvjNI-KS99c=/1600x/article-new/2022/03/ipad-air-5-colors.jpeg",
+            "publishedAt": "2023-09-10T08:57:02Z",
+            "content": "The sixth-generation iPad Air should launch in October as the only iPad refresh of 2023, according to a plausible rumor shared on Chinese social media site Weibo.\r\n\"Only the \u200ciPad Air\u200c series should \u2026 [+1575 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Sean Strickland upsets Israel Adesanya to take UFC middleweight title - Al Jazeera English",
+            "description": "The 32-year-old Strickland, who made a stir with controversial comments, wins unanimous five-round decision.",
+            "url": "https://www.aljazeera.com/sports/2023/9/10/sean-strickland-upsets-israel-adesanya-to-take-ufc-middleweight-title",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-09-10T045537Z_1922151780_MT1USATODAY21388199_RTRMADP_3_MMA-UFC-293-ADESANYA-VS-STRICKLAND-1694335718.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-09-10T08:55:00Z",
+            "content": "American Sean Strickland has stunned Nigerian-born New Zealander Israel Adesanya to take the middleweight title by unanimous decision in the main event of UFC 293, the first Ultimate Fighting Champio\u2026 [+3685 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Katya Golubkova, Michel Rose, Manoj Kumar",
+            "title": "US, Russia praise G20 summit declaration as meeting heads to close - Reuters",
+            "description": "Russia and the U.S. both praised a G20 summit declaration that stopped short of directly criticising Moscow for the war in Ukraine as the bloc's leaders headed into the final day of deliberations on Sunday.",
+            "url": "https://www.reuters.com/world/russia-says-g20-declaration-balanced-summit-moves-final-day-2023-09-10/",
+            "urlToImage": "https://www.reuters.com/resizer/7N3zJH9HmWAj2ADtWDX2tT3-CkU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ACXTINC7UNMQREELEDRMQAWKZE.jpg",
+            "publishedAt": "2023-09-10T07:55:00Z",
+            "content": "NEW DELHI, Sept 10 (Reuters) - Russia and the U.S. both praised a G20 summit declaration that stopped short of directly criticising Moscow for the war in Ukraine as the bloc's leaders headed into the\u2026 [+3302 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Athletic"
+                "name": "Chicago Tribune"
             },
-            "author": "Jourdan Rodrigue and Dianna Russini",
-            "title": "Rams\u2019 Cooper Kupp goes on injured reserve, will miss at least 4 games to start season: Sources - The Athletic",
-            "description": "Star receiver Cooper Kupp has been dealing with a hamstring injury since the beginning of training camp.",
-            "url": "https://theathletic.com/4831872/2023/09/09/cooper-kupp-injured-reserve-rams/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/09/04110904/cooper-kupp-rams-scaled.jpg",
-            "publishedAt": "2023-09-09T18:38:53Z",
-            "content": "THOUSAND OAKS, Calif. The Rams placed star receiver Cooper Kupp on injured reserve, team sources told The Athletic on Saturday.\r\nKupp, who has been dealing with a hamstring injury since the beginning\u2026 [+3122 chars]"
+            "author": "Tarot Astrologers",
+            "title": "Daily horoscope for September 10, 2023 - Chicago Tribune",
+            "description": "Check out your daily horoscope here, provided by Tarot astrologers.",
+            "url": "https://www.chicagotribune.com/horoscopes/sns-daily-horoscopes-09102023-20230910-zefmbun5kjaonhl7exjt6gc6ty-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/wTsrdLN5g_PkNrvYJtMZd6CpStI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/2XWTZZQLK5A6XLZ3X2KE34J2K4.jpg",
+            "publishedAt": "2023-09-10T06:00:00Z",
+            "content": "It could take a little while to get in the groove of things at present. The Moon starts out by trining mystical Neptune, bringing our dreams along with us even after we've gotten out of bed, then she\u2026 [+6077 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "CBS Sports"
             },
-            "author": "Max Foster, Amy Cassidy, Sophie Tanno",
-            "title": "London police find and arrest fugitive terror suspect Daniel Khalife - CNN",
-            "description": "Officers from London\u2019s Metropolitan Police have found and arrested Daniel Khalife, the force announced Saturday, marking the end of a three-day manhunt for the terror suspect who escaped from prison on Wednesday.",
-            "url": "https://www.cnn.com/2023/09/09/europe/daniel-khalife-recaptured-intl-gbr/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230906161735-daniel-abed-khalife.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-09T17:59:00Z",
-            "content": "Officers from Londons Metropolitan Police have found and arrested Daniel Khalife, the force announced Saturday, marking the end of a three-day manhunt for the terror suspect who escaped from prison o\u2026 [+2027 chars]"
+            "author": "",
+            "title": "Texas, Steve Sarkisian crack Alabama's mystique while engulfing Tide in Tuscaloosa: 'It was our turn' - CBS Sports",
+            "description": "Sark took down his old boss, and his old team, while elevating the Longhorns in a revelatory performance",
+            "url": "https://www.cbssports.com/college-football/news/texas-steve-sarkisian-crack-alabamas-mystique-while-engulfing-tide-in-tuscaloosa-it-was-our-turn/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/10/6f1e9539-8972-4886-9f5a-796f777503d2/thumbnail/1200x675/64d6241c207b3de1bee2f14236f3cb01/steve-sarkisian-texas-alabama-2023-us.png",
+            "publishedAt": "2023-09-10T05:46:10Z",
+            "content": "TUSCALOOSA, Ala. -- Jaylan Ford couldn't have been blamed. Doubt had crept into his mind as a win for the ages was slipping away like they always seem to recently when Texas is on the big stage. The \u2026 [+6941 chars]"
         }
     ]
 }
