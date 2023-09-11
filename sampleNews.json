@@ -1,162 +1,227 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "[Removed]"
             },
-            "author": "Mary Gilbert, Allison Chinchar",
-            "title": "Powerful Hurricane Lee will create dangerous conditions along the East Coast, regardless of its uncertain final track - CNN",
-            "description": "Category 3 Hurricane Lee remains hundreds of miles east of the Caribbean early Saturday, yet forecasters say the storm\u2019s effects may have an impact on the US Atlantic seaboard as early as this weekend.",
-            "url": "https://www.cnn.com/2023/09/09/weather/hurricane-lee-path-saturday-climate/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908120940-huirricane-lee-noaa-sat-image.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-09T09:05:00Z",
-            "content": "Category 3 Hurricane Lee remains hundreds of miles east of the Caribbean early Saturday, yet forecasters say the storms effects may have an impact on the US Atlantic seaboard as early as this weekend\u2026 [+5648 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "How to watch Alabama vs. Texas: TV channel, live stream online, prediction, spread, kickoff time - CBS Sports",
+            "description": "It's a rematch of one of 2022's best games with the Crimson Tide playing host to the Longhorns",
+            "url": "https://www.cbssports.com/college-football/news/how-to-watch-alabama-vs-texas-tv-channel-live-stream-online-prediction-spread-kickoff-time/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/03/e404b2eb-2a10-49b3-a944-775d9e323ad8/thumbnail/1200x675/a9cf1695b443473fd9a57b312956cb6f/milroe-final.jpg",
+            "publishedAt": "2023-09-09T22:45:00Z",
+            "content": "No. 3 Alabama will play host to No. 11 Texas\u00a0on Saturday night at Bryant-Denny Stadium in a battle of college football blue bloods and one of the most highly anticipated nonconference showdowns on th\u2026 [+4016 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JEFF MARTIN Associated Press",
+            "title": "Hurricane Lee is charting a new course in weather and could signal more monster storms - ABC News",
+            "description": "Experts say that Hurricane Lee is rewriting old rules of meteorology",
+            "url": "https://abcnews.go.com/US/wireStory/hurricane-lee-charting-new-weather-signal-monster-storms-103048327",
+            "urlToImage": "https://i.abcnewsfe.com/a/d399edef-777d-4212-b215-71aafe581f9b/wirestory_36e45b46071f8b68fd7a83a6d4936a51_16x9.jpg?w=992",
+            "publishedAt": "2023-09-09T22:42:27Z",
+            "content": "ATLANTA -- ATLANTA (AP) Hurricane Lee is rewriting old rules of meteorology, leaving experts astonished at how rapidly it grew into a goliath Category 5 hurricane.\r\nLee which just as quickly dropped \u2026 [+3435 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LAURAN NEERGAARD AP medical writer",
+            "title": "Updated COVID shots are coming. They're part of a trio of vaccines to block fall viruses - ABC News",
+            "description": "Updated COVID-19 shots are coming soon, part of a trio of fall vaccines that doctors hope will help avoid another \u201ctripledemic.\"",
+            "url": "https://abcnews.go.com/US/wireStory/updated-covid-shots-coming-part-trio-vaccines-block-103048597",
+            "urlToImage": "https://i.abcnewsfe.com/a/37850813-6124-49ab-a36c-29bb48c7296b/wirestory_2a55728638c1c0879ce58deeeb0196bf_16x9.jpg?w=992",
+            "publishedAt": "2023-09-09T22:36:15Z",
+            "content": "WASHINGTON -- Updated COVID-19 vaccines are coming soon, just in time to pair them with flu shots. And this fall, the first vaccines for another scary virus called RSV are rolling out to older adults\u2026 [+4941 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Ashley Strickland",
-            "title": "How NASA has prepared to scoop up an asteroid sample landing in the desert - CNN",
-            "description": "The OSIRIS-REx mission will drop off its cargo, about a cup\u2019s worth of rocks and soil from an asteroid, in the Utah desert on September 24. Here\u2019s how NASA prepared.",
-            "url": "https://www.cnn.com/2023/09/09/world/nasa-osiris-rex-sample-rehearsal-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230906122917-03-nasa-osiris-rex-sample-training-model.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-09T08:00:00Z",
-            "content": "Editors note: Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAn asteroid sample stowed inside a NASA \u2026 [+7761 chars]"
+            "author": "Mohammed Tawfeeq, Sharif Paget, Hamdi Alkhshali, Chris Lau, Teele Rebane, Celine Alkhaldi, Xiaofei Xu, Isil Sariyuce",
+            "title": "Morocco earthquake kills more than 2,000 and damages historic Marrakech - CNN",
+            "description": "Rescuers were digging through rubble in remote mountainous areas of Morocco on Saturday in a desperate bid to find survivors after more than 2,000 people were killed in the deadliest earthquake to strike the country in decades.",
+            "url": "https://www.cnn.com/2023/09/08/africa/morocco-6-8-magnitude-earthquake-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908175843-01-morocco-earthquake-screengrab.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-09T22:19:00Z",
+            "content": "Rescuers were digging through rubble in remote mountainous areas of Morocco on Saturday in a desperate bid to find survivors after more than 2,000 people were killed in the deadliest earthquake to st\u2026 [+7422 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "ABC15 Arizona"
             },
-            "author": "Nandita Bose, Aftab Ahmed",
-            "title": "G20 leaders open summit, admit African Union as permanent member - Reuters",
-            "description": "Delegates from the world's most powerful countries have reached a compromise on language to describe the war in Ukraine, a source with knowledge of the discussions said, as their leaders began the annual G20 summit on Saturday in New Delhi.",
-            "url": "https://www.reuters.com/world/g20-leaders-begin-two-day-summit-overshadowed-by-divisions-over-ukraine-2023-09-09/",
-            "urlToImage": "https://www.reuters.com/resizer/w6yUozQJq4ch3rTQCHRm2iDxC6w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FAD36NEWHRLYFHN62JOCY5QFJI.jpg",
-            "publishedAt": "2023-09-09T07:30:00Z",
-            "content": "NEW DELHI, Sept 9 (Reuters) - Delegates from the world's most powerful countries have reached a compromise on language to describe the war in Ukraine, a source with knowledge of the discussions said,\u2026 [+5665 chars]"
+            "author": "Associated Press, abc15.com staff",
+            "title": "Kroger and Albertsons sell hundreds of stores in a bid to clear merger of the 2 largest US groceries - ABC15 Arizona in Phoenix",
+            "description": "Twenty-four Arizona Albertsons stores to be sold under agreement",
+            "url": "https://www.abc15.com/news/local-news/kroger-and-albertsons-sell-hundreds-of-stores-in-a-bid-to-clear-merger-of-the-2-largest-us-groceries",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/ce67062/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1686674955_Jb1nNX.jpg",
+            "publishedAt": "2023-09-09T22:17:00Z",
+            "content": "Grocers Kroger and Albertsons are selling more than 400 stores and other assets to C&amp;S Wholesale Grocers in an approximately $1.9 billion deal as part of their efforts to complete their merger. \r\u2026 [+629 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Rhea Mogul, Manveena Suri",
-            "title": "African Union to become permanent member of G20, India\u2019s Modi says - CNN",
-            "description": "The African Union is to join the the Group of 20 (G20) as a permanent member, India\u2019s prime minister Narendra Modi announced Saturday as he inaugurated a leaders\u2019 summit in New Delhi for the world\u2019s wealthiest nations.",
-            "url": "https://www.cnn.com/2023/09/09/india/india-african-union-g20-permanent-member-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230907140758-04-china-xi-g20-absence.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-09T07:01:00Z",
-            "content": "The African Union is to join the the Group of 20 (G20) as a permanent member, Indias prime minister Narendra Modi announced Saturday as he inaugurated a leaders summit in New Delhi for the worlds wea\u2026 [+2240 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aya Elamroussi, Brian Todd, Aaron Cooper",
-            "title": "Authorities assign more officers to find convicted killer who escaped Pennsylvania prison as search enters 10th day - CNN",
-            "description": "As the manhunt for a convicted killer who slipped out of a Pennsylvania prison continues for the 10th day Saturday, authorities conducting an intense 24-hour operation now have nearly 400 officers on search efforts.",
-            "url": "https://www.cnn.com/2023/09/09/us/danelo-cavalcante-inmate-search-pennsylvania-saturday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230909014013-02-pennsylvania-inmate-search-0908.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-09T06:03:00Z",
-            "content": "As the manhunt for a convicted killer who slipped out of a Pennsylvania prison continues for the 10th day Saturday, authorities conducting an intense 24-hour operation now have nearly 400 officers on\u2026 [+4391 chars]"
+            "author": "Elizabeth Flores",
+            "title": "Prime Time: Deion Sanders dance lives on as son Shedeur leads Colorado - USA TODAY",
+            "description": "Deion Sanders' second impressive win in a row had plenty of spectacle as Colorado blows out Nebraska",
+            "url": "https://www.usatoday.com/story/sports/ncaaf/2023/09/09/shedeur-deion-sanders-dance-colorado-win/70810915007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/09/USAT/70811225007-usatsi-21332080-168402560-lowres.jpg?crop=2488,1406,x0,y126&width=2488&height=1406&format=pjpg&auto=webp",
+            "publishedAt": "2023-09-09T21:41:09Z",
+            "content": "Deion Sanders led Colorado to a 36-14 victory over Nebraska in Week 2, with plenty of exciting moments for fans to enjoy. There were bodyguard shirts, a pregame sleepover and, of course, an iconic da\u2026 [+1533 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "LAURAN NEERGAARD",
-            "title": "Updated COVID shots are coming. They're part of a trio of vaccines to block fall viruses - Yahoo News",
-            "description": "Updated COVID-19 vaccines are coming soon, just in time to pair them with flu shots.  Doctors hope enough people get vaccinated to help avert another...",
-            "url": "https://news.yahoo.com/updated-covid-shots-coming-theyre-042914969.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tFp3QTaztimAb0fp0lNNXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/a5ae497efdf367b628bf6cf937d2ea9b",
-            "publishedAt": "2023-09-09T04:29:00Z",
-            "content": "WASHINGTON (AP) Updated COVID-19 vaccines are coming soon, just in time to pair them with flu shots. And this fall, the first vaccines for another scary virus called RSV are rolling out to older adul\u2026 [+5145 chars]"
+            "author": "Kaitlin Reilly",
+            "title": "Mila Kunis and Ashton Kutcher say they 'support victims' following backlash over their Danny Masterson letters - Yahoo Entertainment",
+            "description": "The former \"That '70s Show\" co-stars praised their friend Danny Masterson in letters to the judge and called for leniency in Masterson's sentencing.",
+            "url": "https://www.yahoo.com/entertainment/mila-kunis-and-ashton-kutcher-apologize-danny-masterson-rape-conviction-211100132.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-09/1a5f2660-4f52-11ee-9eee-7161498d04b7",
+            "publishedAt": "2023-09-09T21:11:00Z",
+            "content": "Ashton Kutcher and Mila Kunis say they support victims in a new Instagram video after it was revealed that they had written letters in support of leniency in Danny Mastersons sentencing.\r\nMasterson, \u2026 [+2597 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Corinne Heller",
+            "title": "Mary Kay Letourneau and Vili Fualaau's Daughter Is Pregnant With First Baby - E! NEWS",
+            "description": "The late Mary Kay Letourneau's husband Vili Fualaau is about to become a grandfather at age 40. Their daughter Georgia Fualaau is expecting her first child.",
+            "url": "https://www.eonline.com/news/1385168/mary-kay-letourneau-and-vili-fualaaus-daughter-is-pregnant-with-first-baby",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202389/rs_1200x1200-230909134608-1200-georgia-audrey-fualaau-mary-kay-letourneau-daughters-instagram-cjh-081923.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-09-09T20:59:00Z",
+            "content": "Vili Fualaau, ex-husband and former student of\u00a0convicted sex offender\u00a0Mary Kay Letourneau, is about to become a grandfather.\r\nThe 40-year-old and the late Washington State schoolteacher's\u00a0youngest da\u2026 [+846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Spectrum arranges free Fubo trials for customers who want ESPN channels - NBC Sports",
+            "description": "With the relationship between Charter Communications and Disney currently FUBAR, Charter has arranged for an alternative for its customers who want access to ESPN, ABC, and other Disney-owned channels.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spectrum-arranges-free-fubo-trials-for-customers-who-want-espn-channels",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8b805a0/2147483647/strip/true/crop/3543x1993+0+185/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F08%2Fef%2Ffec8e0304ec4b68f3b82e0bf7134%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1238248851",
+            "publishedAt": "2023-09-09T20:53:17Z",
+            "content": "With the relationship between Charter Communications and Disney currently FUBAR, Charter has arranged for an alternative for its customers who want access to ESPN, ABC, and other Disney-owned channel\u2026 [+629 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Ryan Morik",
-            "title": "US Open 2023: Daniil Medvedev upsets Carlos Alcaraz, will face Novak Djokovic in finals - Fox News",
-            "description": "Daniil Medvedev sent reigning U.S. Open champion Carlos Alcaraz packing in the 2023 men's singles semifinal. He now faces Novak Djokovic in a rematch for the Grand Slam title.",
-            "url": "https://www.foxnews.com/sports/us-open-2023-daniil-medvedev-upsets-carlos-alcaraz-novak-djokovic-finals",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/medvedev.jpg",
-            "publishedAt": "2023-09-09T04:09:00Z",
-            "content": "The favorite to win the U.S. Open, and the tournament's defending champ, is going home early.\r\nCarlos Alcaraz, the top-seeded 20-year-old fresh off a Wimbledon title and winner of last year's big eve\u2026 [+1999 chars]"
+            "author": "Ashley Hume",
+            "title": "'Pee-wee Herman' actor Paul Reubens' cause of death revealed - Fox News",
+            "description": "'Pee-wee Herman' actor Paul Reubens' cause of death was revealed to be acute myelogenous leukemia, his representative confirmed. Reubens died at the age of 70 on July 30.",
+            "url": "https://www.foxnews.com/entertainment/pee-wee-herman-actor-paul-reubens-cause-death-revealed",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/paul.jpg",
+            "publishedAt": "2023-09-09T20:14:00Z",
+            "content": "Paul Reubens' cause of death has been revealed a little over month after the actor died at the age of 70 on July 30.\r\nReubens, who was best known for playing the beloved children's character Pee-wee \u2026 [+348 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "Forbes"
             },
-            "author": "Aaron Tilley, Yoko Kubota",
-            "title": "Apple's China Dependency Spooks Investors After Ban - The Wall Street Journal",
-            "description": "The iPhone maker has overcome several crises in China, but being dragged into a geopolitical fight could be its toughest yet",
-            "url": "https://www.wsj.com/tech/apples-china-dependency-spooks-investors-after-ban-3ad4f23c",
-            "urlToImage": "https://images.wsj.net/im-848605/social",
-            "publishedAt": "2023-09-09T04:01:00Z",
+            "author": "Gordon Kelly",
+            "title": "Apple Exclusive Leaks All-New iPhone 15, iPhone 15 Pro Upgrades - Forbes",
+            "description": "The last secrets of Apple's iPhone 15 and iPhone 15 Pro release have been revealed...",
+            "url": "https://www.forbes.com/sites/gordonkelly/2023/09/09/apple-iphone-15-pro-max-design-size-battery-life-charging-cameras-new-iphone-release/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64c9067d722c95206049763b/0x0.jpg?format=jpg&crop=991,557,x0,y2,safe&width=1200",
+            "publishedAt": "2023-09-09T19:57:41Z",
+            "content": "Apple iPhone 15 Pro Max render based on multiple leaks\r\nTechnizo Concept\r\nLeaks have exposed almost every detail of Apples imminent iPhone 15 launch, but with just days to go, new secrets have been r\u2026 [+2936 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Citing NYC migrant crisis, Adams calls for steep budget cuts, hiring freeze - POLITICO",
+            "description": "New York City Mayor Eric Adams tasked agency heads with trimming spending by 15 percent through next spring \u2014 but said Albany or Washington could spare the city.",
+            "url": "https://www.politico.com/news/2023/09/09/nyc-eric-adams-migrant-crisis-00114879",
+            "urlToImage": "https://static.politico.com/68/d5/f0feb2d84ceea434f99d8ea3015d/53173943384-9e79de8ede-o.jpg",
+            "publishedAt": "2023-09-09T19:22:20Z",
+            "content": "Commissioners will then be on the hook for another 5 percent reduction in January, when the preliminary budget plan comes out, and a third round once the spring budget update is released in April.\r\nA\u2026 [+2754 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chris Pandolfo",
+            "title": "Tim Scott has one-word response to California bill to punish parents who won't 'affirm' trans kids - Fox News",
+            "description": "South Carolina Republican Senator Tim Scott said a California bill that would require judges in custody cases to consider whether a parent affirms their transgender child is \"evil.\"",
+            "url": "https://www.foxnews.com/politics/tim-scott-one-word-response-california-bill-punish-parents-wont-affirm-trans-kids",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/59f0c028-Video-2.jpg",
+            "publishedAt": "2023-09-09T19:16:00Z",
+            "content": "EXCLUSIVE: Republican presidential candidate Tim Scott gave a one-word response to a California bill that would punish parents in custody battles who don't \"affirm\" transgender kids.\u00a0\r\nThe South Caro\u2026 [+2833 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Mexico shooting: US citizens among 7 injured in border city of Miguel Aleman, officials say - KABC-TV",
+            "description": "U.S. citizens were among seven people injured in a shooting that occurred in the Mexican city of Miguel Alem\u00e1n, the U.S. Customs and Border Protection agency said.",
+            "url": "https://abc7.com/mexico-shooting-us-citizens-border/13759212/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/4516857_Breaking-News-noblur.jpg?w=1600",
+            "publishedAt": "2023-09-09T19:14:42Z",
+            "content": "ROMA, Texas (KABC) -- U.S. citizens were among seven people injured in a shooting that occurred in the Mexican city of Miguel Alem\u00e1n, the U.S. Customs and Border Protection agency said Saturday.\r\nThe\u2026 [+899 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "The Hill",
+            "title": "New Mexico governor suspends the right to carry firearms in public in Albuquerque - The Hill",
+            "description": null,
+            "url": "https://thehill.com/homenews/state-watch/4195907-new-mexico-gov-bars-firearms-in-public-albuquerque/",
+            "urlToImage": null,
+            "publishedAt": "2023-09-09T18:52:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Orlando Sentinel"
-            },
-            "author": "Richard Tribou",
-            "title": "SpaceX knocks out Cape Canaveral launch ahead of ULA Atlas V mission - Orlando Sentinel",
-            "description": "SpaceX notched another Starlink launch on its rocketry belt from Cape Canaveral on Friday night.",
-            "url": "http://www.orlandosentinel.com/2023/09/08/spacex-set-for-cape-canaveral-launch-tonight/",
-            "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2023/09/spacexfalcon9launch0908.jpg?w=1024&h=515",
-            "publishedAt": "2023-09-09T03:33:45Z",
-            "content": "SpaceX notched another Starlink launch on its rocketry belt from Cape Canaveral on Friday night.\r\nA Falcon 9 rocket on the Starlink 6-14 mission carrying up 22 of the internet satellites blasted off \u2026 [+2218 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Basketnews.com"
-            },
-            "author": "Donatas Urbonas",
-            "title": "Carmelo Anthony reacts to Team USA's loss to Germany, explores the return of NBA superstars - BasketNews.com",
-            "description": "Carmelo Anthony, the second-highest scorer in Team USA Olympic history, offered his insights on the loss to Germany in the FIBA World Cup semifinal, 111-113. ...",
-            "url": "https://basketnews.com/news-194449-carmelo-anthony-reacts-to-team-usas-loss-to-germany-explores-the-return-of-nba-superstars.html",
-            "urlToImage": "https://basketnews.com/image-376757-any1000x1000.jpg",
-            "publishedAt": "2023-09-09T03:20:00Z",
-            "content": "One of Team USA's top all-time scorers, Carmelo Anthony, paid tribute to Serbia and Germany for reaching the FIBA World Cup final.Carmelo Anthony, the second-highest scorer in Team USA Olympic histor\u2026 [+4415 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Charisma Madarang",
-            "title": "Paul Reubens, Actor Best Known as Pee-wee Herman, Cause of Death Confirmed - Rolling Stone",
-            "description": "The actor, who portrayed beloved character\u00a0Pee-wee Herman,\u00a0died\u00a0at the age of 70",
-            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/paul-reubens-cause-of-death-1234821558/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/09/Paul-Reuben-Cause-of-Death.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2023-09-09T03:08:21Z",
-            "content": "Paul Reubens, the actor\u00a0who created and portrayed\u00a0Pee-wee Herman, was battling two forms of cancer at the time of his death. \r\nThe primary type, which was listed as a sequential underlying cause, was\u2026 [+1817 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Hamdi Alkhshali, Sharif Paget, Mohammed Tawfeeq, Chris Lau",
-            "title": "Nearly 300 killed as powerful earthquake strikes Morocco - CNN",
-            "description": "A powerful 6.8-magnitude earthquake struck Morocco on Friday night, killing nearly 300 people and forcing many residents to spend the night in the streets in what the United States Geological Survey (USGS) said was the strongest tremor to hit that part of the\u2026",
-            "url": "https://www.cnn.com/2023/09/08/africa/morocco-6-8-magnitude-earthquake-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908175843-01-morocco-earthquake-screengrab.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-09T02:27:00Z",
-            "content": "A powerful 6.8-magnitude earthquake struck Morocco on Friday night, killing nearly 300 people and forcing many residents to spend the night in the streets in what the United States Geological Survey \u2026 [+2188 chars]"
         },
         {
             "source": {
@@ -164,103 +229,38 @@
                 "name": "The Hill"
             },
             "author": "Tara Suter",
-            "title": "Hawaii governor says number of missing people after Maui wildfires now at 66 - The Hill",
-            "description": "A month after devastating wildfires began raging on the island of Maui, Gov. Josh Green (D-Hawaii) said the number of missing people is potentially down to 66. \u201cAs of today, there have been a total of 115 fatalities,\u201d Green said at a press conference Friday. \u2026",
-            "url": "https://thehill.com/homenews/state-watch/4195364-josh-green-update-hawaii-wildfires/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/AP23251841255092-e1694225476202.jpg?w=1280",
-            "publishedAt": "2023-09-09T02:11:00Z",
-            "content": "Skip to content\r\nA month after devastating wildfires began raging on the island of Maui, Gov. Josh Green (D-Hawaii) said the number of missing people is potentially down to 66.\r\n\u201cAs of today, there h\u2026 [+1670 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": ", USA TODAY",
-            "title": "White House coerced tech giants, violated free speech, court rules - USA TODAY",
-            "description": "The White House may have violated First Amendment rights by pressuring tech companies to suppress or remove posts, 5th Circuit Court of Appeals ruled.",
-            "url": "https://www.usatoday.com/story/money/2023/09/08/biden-administration-coerced-facebook-court-rules/70800723007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/09/09/USAT/efb3c0b6-5b3b-48d4-bd5c-a23152a1b697-AP_Biden_Administration_Social_Media.jpg?auto=webp&crop=5600,3150,x0,y284&format=pjpg&width=1200",
-            "publishedAt": "2023-09-09T01:41:15Z",
-            "content": "The White House, health officials and the FBI may have violated the First Amendment rights of people posting about COVID-19 and elections on social media by pressuring technology companies to suppres\u2026 [+3756 chars]"
+            "title": "Pennsylvania adds more police officers to manhunt for escaped prisoner - The Hill",
+            "description": "Pennsylvania has added additional officers to its manhunt for an escaped prisoner convicted of murder, according to police. While speaking to reporters, Lt. Col. George Bivens said more people were \u201cpulled\u201d into the hunt as the search hits 10 days. The police\u2026",
+            "url": "https://thehill.com/homenews/state-watch/4195921-pennsylvania-adds-police-officers-to-manhunt/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/AP23251680106384-e1694285082638.jpg?w=1280",
+            "publishedAt": "2023-09-09T18:45:00Z",
+            "content": "Skip to content\r\nLt. Col George Vivens shows th map of the area delineated by law enforcement and their vehicles, during a media tour, at the Incident Command Center Where Pennsylvania State Troopers\u2026 [+1880 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Anchorage Daily News"
+                "name": "The Athletic"
             },
-            "author": "Alex DeMarban",
-            "title": "Kroger and Albertsons propose selling Carrs Safeway grocery stores in Alaska as part of $24.6 billion merger plan - Anchorage Daily News",
-            "description": "The companies said they have an agreement for the sale with C&S Wholesale Grocers, operator of Grand Union and Piggly Wiggly stores in the Lower 48.",
-            "url": "https://www.adn.com/business-economy/2023/09/08/kroger-and-albertsons-propose-selling-14-carrs-safeway-grocery-stores-in-alaska-as-part-of-19-billion-divestiture-plan/",
-            "urlToImage": "https://www.adn.com/resizer//YFwSVobQ1dXCMkR56E7UZVRbzj4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/RSA2ZEGAXFB77J526PEU4H6B5E.JPG",
-            "publishedAt": "2023-09-09T01:28:24Z",
-            "content": "Carrs Safeway in Midtown Anchorage on Sunday, Nov. 20, 2022. (Bill Roth / ADN) \r\nThe nations two largest grocery store chains announced a $1.9 billion divestiture plan on Friday that includes the sal\u2026 [+8821 chars]"
+            "author": "Jourdan Rodrigue and Dianna Russini",
+            "title": "Rams\u2019 Cooper Kupp goes on injured reserve, will miss at least 4 games to start season: Sources - The Athletic",
+            "description": "Star receiver Cooper Kupp has been dealing with a hamstring injury since the beginning of training camp.",
+            "url": "https://theathletic.com/4831872/2023/09/09/cooper-kupp-injured-reserve-rams/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/09/04110904/cooper-kupp-rams-scaled.jpg",
+            "publishedAt": "2023-09-09T18:38:53Z",
+            "content": "THOUSAND OAKS, Calif. The Rams placed star receiver Cooper Kupp on injured reserve, team sources told The Athletic on Saturday.\r\nKupp, who has been dealing with a hamstring injury since the beginning\u2026 [+3122 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Graham Kates, Clare Hymes",
-            "title": "New details reveal Georgia special grand jury in Trump election case recommended charges for Lindsey Graham - CBS News",
-            "description": "The report, by a special purpose grand jury in Fulton County, recommended charges against Sen. Lindsey Graham and Georgia's former senators David Perdue and Kelly Loeffler.",
-            "url": "https://www.cbsnews.com/news/trump-georgia-judge-to-release-special-grand-jury-report-2020-election-case/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/08/f9b429a4-6ba9-4964-8054-6bb325fb1229/thumbnail/1200x630g8/870077e1b7fabd046f33538c5d2af0b8/gettyimages-1246628455.jpg?v=181d27d1e918a6408b48ea2e220df310",
-            "publishedAt": "2023-09-09T01:27:00Z",
-            "content": "In addition to recommending charges against former President Donald Trump, a Georgia special purpose grand jury that investigated efforts to overturn the 2020 election also indicated it believed char\u2026 [+6890 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "San Francisco Chronicle"
-            },
-            "author": "Shira Stein",
-            "title": "Why Nancy Pelosi, 83, is running for Congress again in a year dominated by age concerns - San Francisco Chronicle",
-            "description": "Speaker Emerita Nancy Pelosi, who is likely to easily win reelection, would be nearly 87 at the end of another term in the House.",
-            "url": "https://www.sfchronicle.com/politics/article/pelosi-age-concerns-18355220.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/34/27/61/24214625/3/rawImage.jpg",
-            "publishedAt": "2023-09-09T00:56:15Z",
-            "content": "Speaker Emerita Nancy Pelosis announcement Friday that she\u00a0plans to seek reelection in 2024, when shell be 84 years old, was a fitting punctuation mark to a week in which a CNN poll found widespread \u2026 [+6483 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KOCO Oklahoma City"
-            },
-            "author": "Addison Kliewer",
-            "title": "Dash camera video shows country star Zach Bryan's arrest in Craig County - KOCO Oklahoma City",
-            "description": "The Oklahoma Highway Patrol released dash camera video for Thursday's arrest of country music star Zach Bryan in Craig County.",
-            "url": "https://www.koco.com/article/zach-bryan-dash-cam-video-arrest-oklahoma-highway-patrol/45054191",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/zach-bryan-64fb976920cf4.png?crop=0.941xw:1.00xh;0.0304xw,0&resize=1200:*",
-            "publishedAt": "2023-09-09T00:53:00Z",
-            "content": "VINITA, Okla. \u2014The Oklahoma Highway Patrol released dash camera video for Thursday's arrest of country music star Zach Bryan in Craig County.\r\n| MORE | Oklahoma Highway Patrol probable cause affidavi\u2026 [+1394 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Zoe Wells",
-            "title": "MOXIE, an oxygen generator on Mars Perseverance Rover produced oxygen - USA TODAY",
-            "description": "MOXIE, a tool on NASA's Perseverance rover navigating Mars, completed an experiment that turned the Red Planet's air into oxygen. Here's how.",
-            "url": "https://www.usatoday.com/story/news/nation/2023/09/08/mars-rover-perseverance-moxie-oxygen-generator/70795806007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/09/08/NTAN/08c8f7f3-42ab-44ea-ba11-987b0488f7ed-1a9b540c52c8412988ee497ae0a954a8.jpg?crop=2999,1687,x0,y153&width=2999&height=1687&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-09T00:06:16Z",
-            "content": "A two-year experiment to see if NASA could produce oxygen on Mars ended with scientists creating enough breathable air on the Red Planet to help a small dog survive, scientists said this week.\r\nThe d\u2026 [+2580 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "State.nm.us"
-            },
-            "author": null,
-            "title": "Governor announces statewide enforcement plan for gun violence, fentanyl reduction \u2013 Plan includes 30-day suspension of concealed, open carry in Albuquerque and Bernalillo County | Office of the Governor - Michelle Lujan Grisham - Office of the Governor",
-            "description": null,
-            "url": "https://www.governor.state.nm.us/2023/09/08/governor-announces-statewide-enforcement-plan-for-gun-violence-fentanyl-reduction-plan-includes-30-day-suspension-of-concealed-open-carry-in-albuquerque-and-bernalillo-county/",
-            "urlToImage": null,
-            "publishedAt": "2023-09-08T23:56:13Z",
-            "content": "SANTA FE Gov. Michelle Lujan Grisham announced on Friday a new public health order that outlines immediate actions aimed at quickly reducing gun violence and illegal drug use in Albuquerque and Berna\u2026 [+3090 chars]"
+            "author": "Max Foster, Amy Cassidy, Sophie Tanno",
+            "title": "London police find and arrest fugitive terror suspect Daniel Khalife - CNN",
+            "description": "Officers from London\u2019s Metropolitan Police have found and arrested Daniel Khalife, the force announced Saturday, marking the end of a three-day manhunt for the terror suspect who escaped from prison on Wednesday.",
+            "url": "https://www.cnn.com/2023/09/09/europe/daniel-khalife-recaptured-intl-gbr/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230906161735-daniel-abed-khalife.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-09T17:59:00Z",
+            "content": "Officers from Londons Metropolitan Police have found and arrested Daniel Khalife, the force announced Saturday, marking the end of a three-day manhunt for the terror suspect who escaped from prison o\u2026 [+2027 chars]"
         }
     ]
 }
