@@ -1,162 +1,188 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 33,
     "articles": [
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Jason Samenow",
-            "title": "D.C.-area forecast: Feeling like fall by Thursday - The Washington Post",
-            "description": "It\u2019s still a little unsettled between Monday and Wednesday, with the occasional chance of showers and storms.",
-            "url": "https://www.washingtonpost.com/weather/2023/09/11/dc-forecast-fall-weather-coming/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NTC5MFCJFBEATNFNWZXUWIW524.jpg&w=1440",
-            "publishedAt": "2023-09-11T10:33:40Z",
-            "content": "Comment on this story\r\nComment\r\nA somewhat subjective rating of the days weather, on a scale of 0 to 10.\r\n6/10: Cant shake shower chances and a little steamy, but still salvageable overall.\r\n<ul><li>\u2026 [+2344 chars]"
+            "author": "Brandon Goldner, Nikki DeMentri",
+            "title": "Danelo Cavalcante update: Reward increased for Chester County Prison escaped inmate to $25K - CBS Philly",
+            "description": "The reward for information leading to Chester County Prison escapee Danelo Cavalcante's capture has been increased by $5,000, bringing the total to $25,000.",
+            "url": "https://www.cbsnews.com/philadelphia/news/danelo-cavalcante-update-chester-county-prison-escaped-inmate-pennsylvania/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/11/9b4106e6-d423-4280-9021-139a5c2a35cf/thumbnail/1200x630/110e93551b50e688dca64574d6b5bc2a/danelo-cavalcante-chester-county-prison-escape.jpg?v=4e5c11166f529429e37bbcbb597e9315",
+            "publishedAt": "2023-09-12T00:05:00Z",
+            "content": "GLENMOORE, Pa. (CBS) -- The reward for information leading to Chester County Prison escapee Danelo Cavalcante's capture has been increased by $5,000 by the county, bringing the total to $25,000, Penn\u2026 [+3889 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
             },
-            "author": "Reuters",
-            "title": "BMW to invest $750 mln in UK plants to take Mini fully electric - Reuters",
-            "description": "BMW <a href=\"https://www.reuters.com/markets/companies/BMWG.DE\" target=\"_blank\">(BMWG.DE)</a> said on Monday it will invest 600 million pounds ($750 million) at its UK plants to take its iconic Mini brand all-electric by 2030, a fresh boost for Britain's car \u2026",
-            "url": "https://www.reuters.com/business/autos-transportation/britain-says-bmw-make-multimillion-pound-investment-electric-mini-output-2023-09-11/",
-            "urlToImage": "https://www.reuters.com/resizer/uySPn8xqZ3yOX2kUT6ex2gCWuUw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XK45ZCXBWJMNHHJPYKUSX5C3SQ.jpg",
-            "publishedAt": "2023-09-11T09:49:00Z",
-            "content": "LONDON, Sept 11 (Reuters) - BMW (BMWG.DE) said on Monday it will invest 600 million pounds ($750 million) at its UK plants to take its iconic Mini brand all-electric by 2030, a fresh boost for Britai\u2026 [+1648 chars]"
+            "author": "Joseph Longo",
+            "title": "Josh Duhamel And Audra Mari Are Expecting A Baby, And Fergie Had The Sweetest Message For Her Ex-Husband - BuzzFeed",
+            "description": "Audra and Josh made the announcement today on Instagram.",
+            "url": "https://www.buzzfeed.com/josephlongo/audra-mari-josh-duhamel-pregnancy-announcement",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-09/11/23/enhanced/3f6367af1efe/original-541-1694475933-2.jpg?crop=1581:830;0,0%26downsize=1250:*",
+            "publishedAt": "2023-09-11T23:58:13Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Forbes"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": "Gordon Kelly",
-            "title": "Apple Exclusive Leaks All-New iPhone 15, iPhone 15 Pro Upgrades - Forbes",
-            "description": "The last secrets of Apple's iPhone 15 and iPhone 15 Pro release have been revealed...",
-            "url": "https://www.forbes.com/sites/gordonkelly/2023/09/11/apple-iphone-15-pro-max-design-size-battery-life-charging-cameras-new-iphone-release/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64c9067d722c95206049763b/0x0.jpg?format=jpg&crop=991,557,x0,y2,safe&width=1200",
-            "publishedAt": "2023-09-11T09:21:06Z",
-            "content": "Apple iPhone 15 Pro Max render based on multiple leaks\r\nTechnizo Concept\r\n09/11 Update below. This post was originally published on September 9\r\nLeaks have exposed almost every detail of Apples immin\u2026 [+4178 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nouran Salahieh",
-            "title": "Escaped Pennsylvania killer stole a van over the weekend and tried to contact acquaintances, police say. Here\u2019s where the search stands - CNN",
-            "description": "The massive manhunt for the convicted killer who escaped from a Pennsylvania prison stretched into a 12th day Monday after he slipped past a police perimeter over the weekend, stole a van, changed his appearance and tried to contact past acquaintances, author\u2026",
-            "url": "https://www.cnn.com/2023/09/11/us/danelo-cavalcante-inmate-search-pennsylvania-monday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230910091653-danelo-cavalcante-new-appearance.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-11T09:20:00Z",
-            "content": "The massive manhunt for the convicted killer who escaped from a Pennsylvania prison stretched into a 12th day Monday after he slipped past a police perimeter over the weekend, stole a van, changed hi\u2026 [+6782 chars]"
+            "author": null,
+            "title": "GOP senators: Next move to avert shutdown is on McCarthy - POLITICO",
+            "description": "It's no accident that they want to see the speaker go first ahead of the shutdown deadline \u2014 thus leaving the Democratic Senate to follow their lead.",
+            "url": "https://www.politico.com/news/2023/09/11/gop-senators-avert-shutdown-mccarthy-00115132",
+            "urlToImage": "https://static.politico.com/19/1b/3286977c4f129e23a79c34ada0cf/kevin-mccarthy-13893.jpg",
+            "publishedAt": "2023-09-11T23:53:14Z",
+            "content": "Congressional leaders agree theyll need a stopgap bill to accomplish that, but House conservatives are already agitating to make passage of such a funding patch impossible without major concessions t\u2026 [+5284 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "Eonline.com"
             },
-            "author": "",
-            "title": "UAW president calls for 4-day work week. It's happened before - NPR",
-            "description": "Shawn Fain, the president of the UAW, is calling for a 32-hour work week at 40 hours of pay for autoworkers, an idea that was first embraced by the union's leaders almost a century ago.",
-            "url": "https://www.npr.org/2023/09/11/1198394085/uaw-big-3-automakers-4-day-work-week-shawn-fain-detroit",
-            "urlToImage": "https://media.npr.org/assets/img/2023/09/09/gettyimages-1645161614_wide-2fccbb210f82f4973de28699719d278ea1466667-s1400-c100.jpg",
-            "publishedAt": "2023-09-11T09:00:59Z",
-            "content": "Autoworkers assemble cars at a Ford plant in Chicago on June 24, 2019.\r\nJim Young/AFP via Getty Images\r\nWhat if you could work just four days a week but get paid for five?\r\nThat's essentially what Sh\u2026 [+5651 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "In Russia's Pacific port, residents await North Korea's Kim Jong Un - Reuters",
-            "description": "In Russia's Pacific port, residents said they were anticipating a visit by North Korean leader Kim Jong Un that the United States fears could lead to more weapons supplies for Russia's military in Ukraine.",
-            "url": "https://www.reuters.com/world/russias-pacific-port-residents-await-north-koreas-kim-jong-un-2023-09-11/",
-            "urlToImage": "https://www.reuters.com/resizer/3AmzIgVY5oJpIyNSZh76cKuTGoo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWPNGIZVZJN6DKDJHTQTDZNWMU.jpg",
-            "publishedAt": "2023-09-11T08:39:00Z",
-            "content": "VLADIVOSTOK, Russia, Sept 11 (Reuters) - In Russia's Pacific port, residents said they were anticipating a visit by North Korean leader Kim Jong Un that the United States fears could lead to more wea\u2026 [+3978 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Electrek"
-            },
-            "author": "Fred Lambert",
-            "title": "Tesla (TSLA) stock surges from optimistic look at Dojo supercomputer - Electrek.co",
-            "description": "Tesla\u2019s (TSLA) stock is rising in pre-market trading on an optimistic new report about the automaker\u2019s Dojo supercomputer coming from...",
-            "url": "https://electrek.co/2023/09/11/tesla-tsla-stock-surges-optimistic-dojo-supercomputer/",
-            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/10/Screen-Shot-2022-10-01-at-3.10.03-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-09-11T08:28:00Z",
-            "content": "Tesla\u2019s (TSLA) stock is rising in pre-market trading on an optimistic new report about the automaker\u2019s Dojo supercomputer coming from Morgan Stanley.\r\nThe firm massively increased its price target on\u2026 [+3154 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Samantha Murphy Kelly",
-            "title": "What to expect from Apple\u2019s iPhone 15 reveal - CNN",
-            "description": "Apple is expected to debut its iPhone 15 lineup at the company\u2019s annual September keynote event on Tuesday, and it could introduce the biggest change to the phone\u2019s design in 11 years.",
-            "url": "https://www.cnn.com/2023/09/10/tech/apple-wonderlust-iphone-15-event/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908170426-apple-wonderlust-iphone-15-event.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-11T08:28:00Z",
-            "content": "Apple is expected to debut its iPhone 15 lineup Tuesday at the companys annual September keynote event, and it could introduce the biggest change to the phonesdesign in 11 years.\r\nThe press event, wh\u2026 [+5098 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Claire Parker, Louisa Loveluck, Heba Farouk Mahfouz, Dan Rosenzweig-Ziff, Miriam Berger",
-            "title": "Morocco earthquake latest updates: Death toll rises to more than 2,100 - The Washington Post - The Washington Post",
-            "description": "The 6.8-magnitude earthquake struck about 47 miles southeast of Marrakesh late Friday, crumbling buildings and leaving thousands homeless.",
-            "url": "https://www.washingtonpost.com/world/2023/09/11/morocco-earthquake-death-toll-latest-updates/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RMLT3GWHRKNS3WFXJOB3VHNUEY_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-09-11T08:01:00Z",
-            "content": "Comment on this story\r\nComment\r\nAMIZMIZ, Morocco The Moroccan Interior Ministry has accepted search-and-rescue assistance from Spain, the United Arab Emirates, Qatar and the United Kingdom, as author\u2026 [+5264 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Ukraine says it regains more territory in the east, south - Reuters",
-            "description": "Ukraine said on Monday its troops had regained more territory on the eastern and southern fronts in the past week of its counteroffensive against Russian forces.",
-            "url": "https://www.reuters.com/world/europe/ukraine-says-it-regains-more-territory-east-south-2023-09-11/",
-            "urlToImage": "https://www.reuters.com/resizer/PXLIqjcs1NEUGL1cO0PtKseC2jc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6C5BYJBKYJOJRH6JNXADY5CKTA.jpg",
-            "publishedAt": "2023-09-11T07:42:00Z",
-            "content": "KYIV, Sept 11 (Reuters) - Ukraine said on Monday its troops had regained more territory on the eastern and southern fronts in the past week of its counteroffensive against Russian forces.\r\nDeputy Def\u2026 [+1369 chars]"
+            "author": "Kisha Forde",
+            "title": "Writers Guild of America Slams Drew Barrymore for Talk Show Return Amid Strike - E! NEWS",
+            "description": "Amid the ongoing Writers Guild of America and SAG-AFTRA strikes, the WGA spoke out about Drew Barrymore returning for season four of her eponymous daytime talk show.",
+            "url": "https://www.eonline.com/news/1385225/writers-guild-of-america-slams-drew-barrymore-for-talk-show-return-amid-strike",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023724/cr_1200x1200-230824134330-GettyImages-1428843598.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-09-11T23:52:10Z",
+            "content": "\"I want to be there to provide what writers do so well, which is a way to bring us together or help us make sense of the human experience,\" she wrote. \"I hope for a resolve for everyone as soon as po\u2026 [+789 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CBS Sports"
             },
-            "author": "Tyler Sullivan",
-            "title": "Giants vs. Cowboys score, takeaways: Dallas' special teams and defense score in blowout win vs. Giants - CBS Sports",
-            "description": "Cowboys hand Giants their worst home shutout loss in franchise history",
-            "url": "https://www.cbssports.com/nfl/news/giants-vs-cowboys-score-takeaways-dallas-special-teams-and-defense-score-in-blowout-win-vs-giants/live/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/06/53fc5562-e92d-444e-bd8a-159df51f918d/thumbnail/1200x675/14dc1f43bedb3e9f30b087dd08c480bd/dak.jpg",
-            "publishedAt": "2023-09-11T05:40:00Z",
-            "content": "The first Sunday of the NFL season concluded at MetLife Stadium and it was a home opener that the New York Giants would soon hope to forget. The Dallas Cowboys came into East Rutherford and dominated\u2026 [+6547 chars]"
+            "author": "",
+            "title": "Jets vs. Bills time, odds, prediction, keys, TV, NFL live stream: Aaron Rodgers makes New York debut on 'MNF' - CBS Sports",
+            "description": "It's Aaron Rodgers vs. Josh Allen in an AFC East Week 1 showdown",
+            "url": "https://www.cbssports.com/nfl/news/bills-at-jets-time-odds-prediction-keys-tv-nfl-live-stream-aaron-rodgers-makes-new-york-debut-on-mnf/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/06/f1085d1e-1623-48a0-8a2f-80d9a260237d/thumbnail/1200x675/e76c74bdbbdf1340899aee40c51da531/aaron-rodgers.jpg",
+            "publishedAt": "2023-09-11T23:03:00Z",
+            "content": "The final game of Week 1 of the 2023 NFL season pits the New York Jets against the division rival Buffalo Bills. In the first game of the Aaron Rodgers era, the Jets will face one of their toughest t\u2026 [+9377 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jesse Newman, Lauren Thomas",
+            "title": "Smucker Sets Sights on Snacks With $4.6 Billion Twinkies Deal - The Wall Street Journal",
+            "description": "Hostess acquisition follows Smucker\u2019s move into pet food eight years ago",
+            "url": "https://www.wsj.com/business/deals/jm-smucker-buy-hostess-twinkies-maker-6924a82",
+            "urlToImage": "https://images.wsj.net/im-849679/social",
+            "publishedAt": "2023-09-11T22:51:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Hansler",
+            "title": "Biden admin takes step advancing deal to free Americans held in Iran by issuing waiver for transfer of restricted Iranian funds to Qatar - CNN",
+            "description": "The Biden administration has issued a waiver to allow banks to transfer $6 billion in restricted Iranian funds to Qatar without fear of sanctions \u2013 a key step in a deal to free five Americans who have been deemed wrongfully detained in Iran by the US State De\u2026",
+            "url": "https://www.cnn.com/2023/09/11/politics/us-waiver-iran-funds/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230804194941-antony-blinken-080123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-11T22:18:00Z",
+            "content": "The Biden administration has issued a waiver to allow banks to transfer $6 billion in restricted Iranian funds to Qatar without fear of sanctions a key step in a deal to free five Americans who have \u2026 [+4607 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "NBCSports.com"
             },
-            "author": "Katherine Donlevy",
-            "title": "'Several' employees injured after explosion rips through Illinois ADM plant - New York Post ",
-            "description": "Heavy smoke was seen billowing from the grounds as city fire officials battled the subsequent fire.",
-            "url": "https://nypost.com/2023/09/11/illinoisexplosion-rips-through-illinois-adm-plant-injuring-several-employees/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/Untitled-1-35.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-09-11T05:16:00Z",
-            "content": "Multiple people were injured Sunday after an explosion rocked a food processing plant in Illinois.\r\nThe eruption occurred around 7:15 p.m. inside ADM\u2019s complex in Decatur, a city with a population of\u2026 [+1676 chars]"
+            "author": "Charean Williams",
+            "title": "Jordan Love feels great after his debut as the Packers' full-time starter - NBC Sports",
+            "description": "Aaron Rodgers now longer wears the green and gold, but the Packers still own the Bears.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-feels-great-after-his-debut-as-the-packers-full-time-starter",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/878eab3/2147483647/strip/true/crop/2909x1636+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Fae%2F33%2Fa88fe36a489188d4de11196c829d%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D21392770",
+            "publishedAt": "2023-09-11T22:16:45Z",
+            "content": "Aaron Rodgers now longer wears the green and gold, but the Packers still own the Bears.\r\nRodgers, who went 24-5 against Chicago in his career, now is in New York, but the Jordan Love era opened with \u2026 [+1366 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Claire Parker, Sima Diab, Loveday Morris, Kareem Fahim",
+            "title": "In Morocco's quake-decimated villages, rescuers find only bodies - The Washington Post",
+            "description": "In devastated villages in the High Atlas Mountains, emergency workers encounter \u201chorrific\u201d conditions, brutal grief and tremendous obstacles following Morocco\u2019s earthquake.",
+            "url": "https://www.washingtonpost.com/world/2023/09/11/morocco-earthquake-rescue-recovery-aid/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GAR75AEEIISFDEAOU337ZB6BME_size-normalized.jpeg&w=1440",
+            "publishedAt": "2023-09-11T22:14:00Z",
+            "content": "Comment on this story\r\nComment\r\nTALAT NYAAQOUB, Morocco The death toll from Moroccos devastating earthquake neared 3,000 people, the government announced Monday, as international rescuers arrived and\u2026 [+7693 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mostafa Salem, Hande Atay Alam",
+            "title": "American man rescued from cave in Turkey after being trapped for days - CNN",
+            "description": "An American caver has been rescued by emergency workers near Anamur, in southern Turkey, after he became stranded hundreds of meters underground earlier this month.",
+            "url": "https://www.cnn.com/2023/09/11/europe/turkey-cave-rescue-mark-dickey-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908081004-01-mark-dickey-turkish-cave.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-11T22:06:00Z",
+            "content": "An American caver has been rescued by emergency workers near Anamur, in southern Turkey, after he became stranded hundreds of meters underground earlier this month.\r\nMark Dickey is out in the hands o\u2026 [+1901 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Keith Naughton, Gabrielle Coppola, David Welch",
+            "title": "United Auto Workers Offers Slightly Lower Raise Demand to Detroit's Automakers - Bloomberg",
+            "description": "The United Auto Workers has lowered its pay increase demand to 36% from 40%, but Detroit\u2019s automakers don\u2019t think much of the offer, according to people familiar with the offer.",
+            "url": "https://www.bloomberg.com/news/articles/2023-09-11/uaw-offers-slightly-lower-raise-demand-to-detroit-s-automakers",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv6fn4WrB1xg/v1/1200x800.jpg",
+            "publishedAt": "2023-09-11T21:45:20Z",
+            "content": "The United Auto Workers has lowered its pay increase demand to 36% from 40%, but Detroits automakers dont think much of the offer, according to people familiar with the offer.\r\nOver the weekend, the \u2026 [+463 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Joshua Franklin, Stephen Gandel, Colby Smith",
+            "title": "Jamie Dimon warns investors over bank stocks if US capital rules enacted - Financial Times",
+            "description": "JPMorgan chief \u2018wouldn\u2019t be a big buyer\u2019 as industry fights Fed\u2019s Basel III implementation",
+            "url": "https://www.ft.com/content/ccd0f68c-2543-4e02-bbbc-0101d04609e1",
+            "urlToImage": null,
+            "publishedAt": "2023-09-11T21:37:30Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Aidin Vaziri",
+            "title": "What UCSF's Bob Wachter, other top COVID experts say about the swell - San Francisco Chronicle",
+            "description": "Why UCSF's Bob Wachter says COVID subvariant BA.2.86 is the 'scariant of the moment'",
+            "url": "https://www.sfchronicle.com/health/article/covid-vaccine-booster-experts-ucsf-wachter-18359877.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/34/32/25/24225100/4/rawImage.jpg",
+            "publishedAt": "2023-09-11T21:33:08Z",
+            "content": "Dr. Bob Wachter, UCSFs chief of medicine, hosted his first COVID roundtable discussion since June late last week, aiming to assess the current pandemic trajectory amid a summer wave of infections and\u2026 [+6794 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte",
+            "title": "Bad habits of night owls may lead to type 2 diabetes, study says - CNN",
+            "description": "Night owls are at high risk of developing diabetes, a new study says, but that risk can be lowered by giving up unhealthy habits.",
+            "url": "https://www.cnn.com/2023/09/11/health/night-owl-diabetes-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230911144256-night-owl-diabetes-wellness.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-11T21:32:00Z",
+            "content": "Sign up for CNNs Sleep, But Better newsletter series.\u00a0Our seven-part guide has helpful hints to achieve better sleep.\r\nIf youre groggy in the morning but perky in the evening, you may be a night owl \u2026 [+5340 chars]"
         },
         {
             "source": {
@@ -173,94 +199,68 @@
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "DallasCowboys.com"
             },
-            "author": "Steven Sosna",
-            "title": "Hurricane Lee to bring dangerous rip currents to Maryland beaches - CBS News",
-            "description": "Confidence is high that Hurricane Lee will not directly impact Maryland, but our beaches will see rough and dangerous surf.",
-            "url": "https://www.cbsnews.com/baltimore/news/lee-to-bring-dangerous-rip-currents-to-maryland-beaches-weather-baltimore/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/11/91b2b9d5-c002-4115-8d06-5cf4870d3890/thumbnail/1200x630/86d14f57508adb003a8185641c83fff7/f5txtz5xeaa72up.jpg?v=181d27d1e918a6408b48ea2e220df310",
-            "publishedAt": "2023-09-11T04:13:00Z",
-            "content": "BALTIMORE-- Confidence is high that Hurricane Lee will not directly impact Maryland, but our beaches will see rough and dangerous surf.\r\nHurricane Lee is quickly regaining strength in the Atlantic af\u2026 [+3731 chars]"
+            "author": null,
+            "title": "Diggs on Cowboys' secondary: 'Don't throw the ball' - DallasCowboys.com",
+            "description": "It was a stellar outing for Trevon Diggs and a Cowboys defense against the Giants, as they look to ascend to the ranks of the historic \u2014 on every level and in every way possible.",
+            "url": "https://www.dallascowboys.com/news/diggs-on-cowboys-secondary-don-t-throw-the-ball",
+            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/cowboys/j8s9urvtot99ybewf0vs",
+            "publishedAt": "2023-09-11T21:07:42Z",
+            "content": "\"Tre has been a dog,\" said veteran safety Jayron Kearse after the blowout victory at MetLife Stadium. \"That's just what it is. People nitpick all of the time and he brushes it off and just keeps play\u2026 [+2794 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Stephen Collinson",
-            "title": "Trump is explaining exactly how wild and extreme his second term would be - CNN",
-            "description": "Donald Trump is conjuring his most foreboding vision yet of a possible second term, telling supporters in language resonant of the run-up to the January 6 mob attack on the US Capitol that they need to \u201cfight like hell\u201d or they will lose their country.",
-            "url": "https://www.cnn.com/2023/09/11/politics/trump-wild-rhetoric-2024/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230911090239-donald-trump-south-dakota.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-11T04:11:00Z",
-            "content": "Donald Trump is conjuring his most foreboding vision yet of a possible second term, telling supporters in language resonant of the run-up to the January 6 mob attack on the US Capitol that they need \u2026 [+9109 chars]"
+            "author": "Jackie Wattles",
+            "title": "Astronaut Frank Rubio sets new US record for longest trip in space - CNN",
+            "description": "Astronaut Frank Rubio has now been in low-Earth orbit for more than 355 days, breaking the record for the longest space mission by a US astronaut.",
+            "url": "https://www.cnn.com/2023/09/11/world/nasa-astronaut-longest-time-in-space-frank-rubio-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230911151938-01-nasa-astronaut-frank-rubio.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-11T20:30:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAstronaut Frank Rubio has now been in low-Earth orbit \u2026 [+6082 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Sarah Dadouch, Amudalat Ajasa",
+            "title": "Storm Daniel causes deadly flooding in Libya\u2019s Derna - The Washington Post",
+            "description": "A Mediterranean storm unleashed torrential downpours and extreme flooding that swept away city blocks in the eastern city of Derna, officials said.",
+            "url": "https://www.washingtonpost.com/world/2023/09/11/libya-derna-flooding-storm-daniel/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-11-2023/t_b3540b392ed9411f87f16ec5af55369e_name_TB_1.jpg&w=1440",
+            "publishedAt": "2023-09-11T20:24:08Z",
+            "content": "Comment on this story\r\nComment\r\nA powerful storm that unleashed torrential rain and extreme flooding across eastern Libya has devastated entire communities on its Mediterranean coastline, causing wid\u2026 [+3603 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "nj.com"
+                "name": "mlive.com"
             },
-            "author": "Holiday Mathis",
-            "title": "Today\u2019s daily horoscope for Sept. 11, 2023 - NJ.com",
-            "description": "Zodiac signs and horoscopes on 9/11/2023 for Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn.",
-            "url": "https://www.nj.com/advice/2023/09/todays-daily-horoscope-for-sept-11-2023.html",
-            "urlToImage": "https://www.nj.com/resizer/y0GkxcEcKp6NoyUc0LAtx7APmMY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SAGJVB5QCZCNFBN2U2NE2O4GTE.png",
-            "publishedAt": "2023-09-11T04:01:00Z",
-            "content": "Lunar Conjunction to Venus\r\nAs the moon and Venus align in a moment of trust, relationships operate smoothly. Take the time to learn people because trust is, in a sense, a prediction. If we know appr\u2026 [+5567 chars]"
+            "author": "Bradley Massman | bmassman@mlive.com",
+            "title": "First mosquito-borne virus cases of 2023 detected in 2 Michigan counties - MLive.com",
+            "description": "Health officials said both animals were unvaccinated against their respective diseases.",
+            "url": "https://www.mlive.com/news/grand-rapids/2023/09/first-mosquito-borne-virus-cases-of-2023-detected-in-2-michigan-counties.html",
+            "urlToImage": "https://www.mlive.com/resizer/c-lVo8brA8OXOwFmMj9VHH2x8eo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YU3ZMGKAWNCQDDI4ELVFS77LSY.jpg",
+            "publishedAt": "2023-09-11T19:52:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Deccan Herald"
+                "name": "Rolling Stone"
             },
-            "author": "Reuters",
-            "title": "PM Rishi Sunak raises concern over interference in UK democracy with China's Li - Deccan Herald",
-            "description": "UPDATE 3-PM Sunak raises concern over interference in UK democracy with China's Li",
-            "url": "https://www.deccanherald.com/world/pm-rishi-sunak-raises-concern-over-interference-in-uk-democracy-with-chinas-li-2681014",
-            "urlToImage": "https://images.deccanherald.com/deccanherald%2F2023-09%2F13d343bf-ec4f-4f06-aa7d-00b0c62e9adf%2Fsunak_reuters_photo_1239149_1689912497.jpg?rect=0%2C0%2C700%2C368&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-            "publishedAt": "2023-09-11T03:16:56Z",
-            "content": "\"I don't think it's a dialogue. I think it's a kind of pathetic monologue,\" Duncan Smith, who has been sanctioned by China, told Times Radio. \"What's actually going on is China is ignoring much of wh\u2026 [+10 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Kevin Liptak",
-            "title": "5 takeaways from Joe Biden\u2019s trip to the G20 and Vietnam - CNN",
-            "description": "President Joe Biden is nearing the end of a whirlwind trip to India and Vietnam for a series of high-profile meetings aimed at countering China\u2019s influence in the developing world.",
-            "url": "https://www.cnn.com/2023/09/10/politics/takeaways-joe-biden-g20-vietnam/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230909221246-joe-biden-g20-090923.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-11T03:15:00Z",
-            "content": "President Joe Biden is nearing the end of a whirlwind trip to India and Vietnam for a series of high-profile meetings aimed at countering Chinas influence in the developing world.\r\nAt the G20 in New \u2026 [+11211 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "INSIDER"
-            },
-            "author": "Esme Mazzeo",
-            "title": "Where is 'Sister Wives' star Robyn Brown today? What we know about her life - Insider",
-            "description": "\"Sister Wives\" season 18 shows the fallout from Kody Brown's breakups with Christine and Janelle. Robyn Brown is his only remaining wife.",
-            "url": "https://www.insider.com/where-is-robyn-brown-now-kids-kody-sister-wives-2023-9",
-            "urlToImage": "https://i.insider.com/64fb7d433d39230019773b76?width=1200&format=jpeg",
-            "publishedAt": "2023-09-11T02:58:00Z",
-            "content": "During a confessional on Sunday's new episode of TLC's \"Sister Wives,\" Kody Brown admits he's had the urge to \"change my name, disappear, and be somebody else\" amid his split from his ex Christine Br\u2026 [+3869 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC10 Boston"
-            },
-            "author": "Corinne Heller",
-            "title": "Chris Evans & Alba Baptista marry in Marvel-ous Massachusetts wedding - NBC10 Boston",
-            "description": "The \"Captain America\" star married actress Alba Baptista Sept. 9 in an intimate ceremony at a private residence in Massachusetts, multiple outlets reported\u2026",
-            "url": "https://www.nbcboston.com/news/national-international/chris-evans-alba-baptista-marry-in-marvel-ous-massachusetts-wedding/3132198/",
-            "urlToImage": "https://media.nbcboston.com/2020/09/chris-evans-getty-tlmd.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2023-09-11T02:54:05Z",
-            "content": "Originally appeared on E! Online\r\nSurprise! Chris Evans is married.\r\nThe \"Captain America\" star married actress Alba Baptista Sept. 9 in an intimate ceremony at a private residence in Massachusetts, \u2026 [+2051 chars]"
+            "author": "Julyssa Lopez",
+            "title": "The 25 Best Shakira Videos \u2013 Rolling Stone - Rolling Stone",
+            "description": "She\u2019s been burning your TV since the 1990s. Here are her finest moments so far.",
+            "url": "https://www.rollingstone.com/music/music-lists/best-shakira-videos-1234819942/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/09/Shakira-15-music-videos.jpg?crop=0px%2C7px%2C1800px%2C1014px&resize=1600%2C900",
+            "publishedAt": "2023-09-11T19:13:44Z",
+            "content": "In 1998, Shakira released Ciega Sordomuda, the first single from D\u00f3nde Est\u00e1n los Ladrones?, the breakthrough album that made her a massive star across Latin America. The songs video, directed by Gust\u2026 [+1042 chars]"
         }
     ]
 }
