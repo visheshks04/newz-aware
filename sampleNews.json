@@ -1,123 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "TODAY"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Liz Calvario",
-            "title": "How to Watch the VMAs 2023: Stream Online For Free - TODAY",
-            "description": "The 2023 MTV Video Music Awards are taking place Tuesday, Sept. 12. Here is how you can watch the show live and when it starts.",
-            "url": "https://www.today.com/popculture/awards/how-to-watch-2023-mtv-vmas-rcna35841",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2023-09/how-to-watch-vmas-te-230911-18fb07.jpg",
-            "publishedAt": "2023-09-12T22:08:33Z",
-            "content": "The biggest stars will soon be reuniting at the 2023 MTV Video Music Awards.\r\nThe annual ceremony will be hosted by Nicki Minaj for the second year in a row. The fan-voted VMAs are expected to be a n\u2026 [+2234 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Marianna Parraga, Elida Moreno",
-            "title": "Panama Canal to further reduce daily transits if drought continues - Reuters Canada",
-            "description": "The Panama Canal could further reduce the maximum number of authorized daily vessel transits if this year's drought continues, the waterway's administrator said on Tuesday.",
-            "url": "https://www.reuters.com/world/americas/panama-canal-further-reduce-daily-transits-if-drought-continues-2023-09-12/",
-            "urlToImage": "https://www.reuters.com/resizer/GcJijtEPpQ5zSkA75iobkWLRH2k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EW4UHVDWONKMHLCWOHKAI55C5E.jpg",
-            "publishedAt": "2023-09-12T21:53:00Z",
-            "content": "PANAMA CITY, Sept 12 (Reuters) - The Panama Canal could further reduce the maximum number of authorized daily vessel transits if this year's drought continues, the waterway's administrator said on Tu\u2026 [+3180 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Maegan Vazquez",
-            "title": "What is an impeachment inquiry? What McCarthy\u2019s move means for Biden - The Washington Post",
-            "description": "The House speaker says the inquiry would center on whether Biden benefited from his son Hunter\u2019s business dealings, among other issues.",
-            "url": "https://www.washingtonpost.com/politics/2023/09/12/biden-impeachment-inquiry-meaning/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CJNYNYQ4FX3NG225K4EVHKDHGI_size-normalized.JPG&w=1440",
-            "publishedAt": "2023-09-12T21:37:00Z",
-            "content": "Comment on this story\r\nComment\r\nHouse Speaker Kevin McCarthy (R-Calif.) on Tuesday announced that he is directing House committees to open an impeachment inquiry into President Biden, following month\u2026 [+5078 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Aaron Rodgers suffers season-ending injury: Ranking Jets options, including luring Tom Brady out of retirement - CBS Sports",
-            "description": "A look at what New York could do at QB after Rodgers is out with a torn Achilles",
-            "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-suffers-season-ending-injury-ranking-jets-options-including-luring-tom-brady-out-of-retirement/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/12/69b175bb-3316-4461-aa11-e125235fee4d/thumbnail/1200x675/225d3b0a3b30c5f1c81dc92f8f32c3e0/rodgers-injury-6g.jpg",
-            "publishedAt": "2023-09-12T21:33:00Z",
-            "content": "The New York Jets' Week 1 matchup started as a nightmare that evolved into a fever dream. Star quarterback Aaron Rodgers was injured on the Jets' fourth offensive play, but the team as a whole steppe\u2026 [+4155 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Erika Edwards",
-            "title": "Covid booster: CDC recommends 2023 vaccine for children and adults - NBC News",
-            "description": "The CDC recommended that everyone ages 6 months and older get the updated Covid booster shot. Covid cases are increasing.",
-            "url": "https://www.nbcnews.com/health/health-news/covid-booster-cdc-advisers-recommend-2023-vaccine-children-adults-rcna104586",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230824-covid-vaccine-se-1137a-814278.jpg",
-            "publishedAt": "2023-09-12T21:32:48Z",
-            "content": "Everyone ages 6 months and older should get the updated Covid vaccine this fall, the Centers for Disease Control and Prevention said Tuesday.\r\nThe move follows a vote from the CDC's advisory committe\u2026 [+4759 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Aliza Chasan",
-            "title": "\"Indiana Jones of the Art World\" helps Dutch police recover stolen van Gogh painting - CBS News",
-            "description": "Vincent van Gogh's \"The Parsonage Garden at Nuenen in Spring\" was stolen from a Dutch museum in March 2020.",
-            "url": "https://www.cbsnews.com/news/art-detective-arthur-brand-finds-stolen-van-gogh-painting-dutch-police/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/12/b49734b4-49cc-480e-976e-f5751c3974ea/thumbnail/1200x630/08b8f83247c005783601c49190bdca85/2023-09-12t133539z-1296661171-rc2cow8s349f-rtrmadp-3-netherlands-vangogh.jpg?v=4e5c11166f529429e37bbcbb597e9315",
-            "publishedAt": "2023-09-12T21:18:00Z",
-            "content": "A Dutch art detective returned a Vincent van Gogh painting to a museum Tuesday more than three years after it was stolen.\u00a0\r\nArthur Brand, known as the \"Indiana Jones of the Art World,\" announced the \u2026 [+2729 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Hundreds buried in mass graves as Libya reels from devastating flooding - Al Jazeera English",
-            "description": "Situation in Derna city \u2018extremely dire\u2019, as outside help starts to reach more than 36 hours after the disaster struck.",
-            "url": "https://www.aljazeera.com/news/2023/9/12/hundreds-buried-in-mass-graves-as-libya-reels-from-devastating-flooding",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-09-12T182355Z_1324988402_RC2173AO1A59_RTRMADP_3_LIBYA-STORM-DERNA-1694544699.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-09-12T21:05:33Z",
-            "content": "Emergency workers uncovered hundreds of bodies in the wreckage of Libyas eastern city of Derna, and it is feared the toll could spiral, with 10,000 people still reported missing after floodwaters fro\u2026 [+4154 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Joe Brandt, Joe Holden, CBS News Philadelphia Staff",
-            "title": "Danelo Cavalcante update: Escaped prisoner armed with rifle, police say - CBS Philly",
-            "description": "Police say escaped Chester County inmate Danelo Cavalcante may have discarded clothes since Monday night and now has a .22 caliber rifle.",
-            "url": "https://www.cbsnews.com/philadelphia/news/danelo-cavalcante-escaped-convict-press-conference-pennsylvania-chester-county-escape-video/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/12/fa0cd7b4-1a54-416e-8501-e5dba5d27af6/thumbnail/1200x630/98ef5f7d39b91ed71e18344b02213773/danelo-cavalcante-search-escaped-prisoner-inmate-press-conference-chester-county-south-coventry-pennsylvania.jpg?v=4e5c11166f529429e37bbcbb597e9315",
-            "publishedAt": "2023-09-12T20:58:00Z",
-            "content": "GLENMOORE, Pa. (CBS) -- As the search for escaped prisoner Danelo Cavalcante\u00a0is in its 13th day, he is now armed with a .22 caliber rifle stolen from a garage overnight Monday, Pennsylvania State Pol\u2026 [+3988 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Nouran Salahieh, Danny Freeman",
+            "title": "Danelo Cavalcante: Manhunt for escaped Pennsylvania killer draws hundreds of officers to small township where he stole a rifle - CNN",
+            "description": "Escaped Pennsylvania inmate Danelo Cavalcante is in custody, Pennsylvania State Police announced.",
+            "url": "https://www.cnn.com/2023/09/13/us/danelo-cavalcante-inmate-search-pennsylvania-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230913084333-01-danelo-cavalcante-capture-0913.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-13T12:31:00Z",
+            "content": "Escaped Pennsylvania inmate Danelo Cavalcante is in custody, Pennsylvania State Police announced.\r\nThis is a message from Pennsylvania State Police. The search for Danelo Cavalcante is over. The subj\u2026 [+7549 chars]"
         },
         {
             "source": {
@@ -125,38 +21,220 @@
                 "name": "USA Today"
             },
             "author": "USA TODAY",
-            "title": "Austrian zoo closes after rhino attacks married zookeepers, killing one - USA TODAY",
+            "title": "Kim Jong Un and Vladimir Putin meet for talks in Russia - USA TODAY",
             "description": null,
-            "url": "https://www.usatoday.com/story/news/world/2023/09/12/austrian-zoo-closes-after-rhino-attacks-married-zookeepers/70834913007/",
+            "url": "https://www.usatoday.com/story/news/world/2023/09/13/kim-jong-un-of-north-korea-and-vladimir-putin-meet-for-talks-in-russia/70839867007/",
             "urlToImage": null,
-            "publishedAt": "2023-09-12T20:42:48Z",
+            "publishedAt": "2023-09-13T12:00:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi, Robert Shackelford, Eric Zerkel",
+            "title": "Massive Hurricane Lee a growing threat to New England, Canada - CNN",
+            "description": "Hurricane Lee\u2019s threat to portions of New England and Atlantic Canada is growing, with a track closer to the coast becoming more likely and a massive wind field which could reach these areas regardless of where the storm finally tracks later this week and thi\u2026",
+            "url": "https://www.cnn.com/2023/09/13/weather/hurricane-lee-path-wednesday-climate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230912224131-lee-satellite-11p-tuesday.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-13T11:50:00Z",
+            "content": "Hurricane Lees threat to portions of New England and Atlantic Canada is growing, with a track closer to the coast becoming more likely and a massive wind field which could reach these areas regardles\u2026 [+3520 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alli Rosenbloom",
+            "title": "*NSYNC reunites at MTV Video Music Awards - CNN",
+            "description": "*NSYNC, one of the leading boy bands of the 90s, reunited in full \u2013 yes, that means Justin Timberlake was there \u2013 during Tuesday\u2019s MTV Video Music Awards.",
+            "url": "https://www.cnn.com/2023/09/12/entertainment/nsync-reunites/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230912202010-nsync-at-vmas-091223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-13T10:58:00Z",
+            "content": "*NSYNC, one of the leading boy bands of the 90s, reunited in full yes, that means Justin Timberlake was there during Tuesdays MTV Video Music Awards. \r\nLance Bass, Joey Fatone, Chris Kirkpatrick, JC \u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "Anthony DiComo",
+            "title": "David Stearns to be hired as Mets president of baseball operations - MLB.com",
+            "description": "NEW YORK -- David Stearns was raised on the Upper East Side of Manhattan, a baseball-crazed Mets fan who would stay up late to listen to games and use the pillows on his bed to cushion indoor bullpen sessions. His grandfather hooked him on the game with stori\u2026",
+            "url": "https://www.mlb.com/news/david-stearns-mets-president-of-baseball-operations",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/uguhxujilqik5nsorzar.jpg",
+            "publishedAt": "2023-09-13T10:53:37Z",
+            "content": "NEW YORK -- David Stearns was raised on the Upper East Side of Manhattan, a baseball-crazed Mets fan who would stay up late to listen to games and use the pillows on his bed to cushion indoor bullpen\u2026 [+4940 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Jon Haworth",
+            "title": "Luxury cruise ship runs aground with 206 passengers on board as rescue efforts underway - ABC News",
+            "description": "The ship had its maiden voyage only two years ago in 2021.",
+            "url": "https://abcnews.go.com/International/luxury-cruise-ship-runs-aground-206-passengers-board/story?id=103145062",
+            "urlToImage": "https://i.abcnewsfe.com/a/8f3fa6cf-0012-4984-ba17-2a8a08a388f9/ocean-explo_hpMain_20230913-045200_16x9.jpg?w=992",
+            "publishedAt": "2023-09-13T10:52:30Z",
+            "content": "LONDON -- A luxury cruise ship carrying 206 passengers has run aground off the coast of Greenland.\r\nThe Ocean Explorer, a 104.4-meter (343-foot) long and 18-meter (60 foot) wide ship ran aground on M\u2026 [+2280 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Sarah Dadouch",
+            "title": "Libya floods destroy quarter of Derna city; death toll rises to 5300 - The Washington Post",
+            "description": "Amid the soaring death toll there have been some positive signs that Libya\u2019s warring rival governments have put aside their differences to deal with the crisis.",
+            "url": "https://www.washingtonpost.com/world/2023/09/13/libya-flooding-death-toll-derna/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C2MQ7FAAOVUFF7VL526MSF35D4_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-09-13T10:44:41Z",
+            "content": "Comment on this story\r\nComment\r\nThe floods that ravaged eastern Libya destroyed a quarter of the coastal city of Derna and left bodies lying in the street, said an aid official Wednesday as the gover\u2026 [+6783 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Richmond.com"
+            },
+            "author": "JEFF E. SCHAPIRO Richmond Times-Dispatch",
+            "title": "Schapiro: For Democrats, X-rated scandal redefines 'blue' - Richmond Times-Dispatch",
+            "description": "What happens when a political candidate appears to live her private life in public?",
+            "url": "https://richmond.com/news/state-regional/government-politics/schapiro-for-democrats-x-rated-scandal-redefines-blue/article_6eb0803e-5190-11ee-937d-e71886f2116e.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/6/eb/6eb0803e-5190-11ee-937d-e71886f2116e/6500a09879440.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-09-13T10:30:00Z",
+            "content": "Jeff Schapiro\r\nWhat did Virginia Democrats know and when did they know it?\r\nIt was an October surprise in September: That Susanna Gibson, the partys seemingly promising pick for an open, must-win Hou\u2026 [+11423 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "MacRumors"
             },
-            "author": "Hartley Charlton",
-            "title": "Apple Watch Series 9 and Ultra 2 Feature 64GB of Storage - MacRumors",
-            "description": "The Apple Watch Series 9 and Apple Watch Ultra 2 feature 64GB of storage, double the amount of previous generations.   As listed on Apple's...",
-            "url": "https://www.macrumors.com/2023/09/12/apple-watch-series-9-and-ultra-2-64gb-storage/",
-            "urlToImage": "https://images.macrumors.com/t/GBQdcdJQVWopDyQh1iW7Psj9kcU=/2880x/article-new/2023/09/Apple-Watch-Series-9.jpg",
-            "publishedAt": "2023-09-12T20:10:41Z",
-            "content": "The Apple Watch Series 9 and Apple Watch Ultra 2 feature 64GB of storage, double the amount of previous generations.\r\nAs listed on Apple's specifications page, all versions of the \u200cApple Watch Series\u2026 [+991 chars]"
+            "author": "Tim Hardwick",
+            "title": "France Orders End to iPhone 12 Sales Over Radiation Level Concerns - MacRumors",
+            "description": "France on Tuesday ordered Apple to halt iPhone 12 sales and \"fix\" existing devices over fears the devices emit too much electromagnetic...",
+            "url": "https://www.macrumors.com/2023/09/13/france-orders-end-to-iphone-12-sales-radiation/",
+            "urlToImage": "https://images.macrumors.com/t/UWrO0dojP7HzV3wOzMa8yDwAnPA=/1600x/article-new/2020/10/iphone-12-vs-iphone-12-pro.jpg",
+            "publishedAt": "2023-09-13T10:05:22Z",
+            "content": "France on Tuesday ordered Apple to halt iPhone 12 sales and \"fix\" existing devices over fears the devices emit too much electromagnetic radiation (via France24).\r\nThe French agency that regulates rad\u2026 [+2462 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Nathaniel Weixel",
+            "title": "New COVID shots: Five things to know after CDC\u2019s approval - The Hill",
+            "description": "Americans will be able to receive an updated COVID-19 vaccine as early as Wednesday after the Centers for Disease Control and Prevention (CDC) endorsed the shot for all Americans over 6 months old.\u00a0 The new shots from Moderna and Pfizer-BioNTech will hit the \u2026",
+            "url": "https://thehill.com/policy/healthcare/4200943-new-covid-shots-five-things-to-know-after-cdcs-approval/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/vaccine_010922_getty_covid.jpg?w=1280",
+            "publishedAt": "2023-09-13T10:00:00Z",
+            "content": "Americans will be able to receive an updated COVID-19 vaccine as early as Wednesday after the Centers for Disease Control and Prevention (CDC) endorsed the shot for all Americans over 6 months old.\u00a0\r\u2026 [+5035 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "CNBC"
+            },
+            "author": "Hayden Field, Rohan Goswami, Kif Leswing",
+            "title": "Here's everything Apple announced at its 2023 event: iPhone 15 models, new Apple Watch, updated AirPods - CNBC",
+            "description": "Apple announced the iPhone 15 with USB-C charging, as well as the newest Apple Watch and updated AirPods.",
+            "url": "https://www.cnbc.com/2023/09/12/apple-event-2023-live-updates-iphone-15-new-apple-watch-9-expected.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107299538-1694545659595-gettyimages-1660529148-0j7a2260.jpeg?v=1694546115&w=1920&h=1080",
+            "publishedAt": "2023-09-13T09:54:00Z",
+            "content": "Apple held its annual iPhone launch event Tuesday at Apple Park, the company's headquarters in Cupertino, California.\r\nThe company announced the iPhone 15 and iPhone 15 Plus, complete with USB-C char\u2026 [+561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "title": "Ancient-human fossils sent to space: researchers slam 'publicity stunt' - Nature.com",
+            "description": "The decision to send hominin bones on a commercial spaceflight has raised eyebrows among palaeontologists.",
+            "url": "https://www.nature.com/articles/d41586-023-02882-1",
+            "urlToImage": "https://media.nature.com/lw1024/magazine-assets/d41586-023-02882-1/d41586-023-02882-1_26032002.jpg",
+            "publishedAt": "2023-09-13T09:37:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "WILL WEISSERT, JOEY CAPPELLETTI",
+            "title": "Auto workers strike would test Biden's assertion he's the 'most pro-union president in US history' - The Associated Press",
+            "description": "The prospect of an auto workers strike could test Joe Biden\u2019s treasured assertion he\u2019s the most pro-union president in U.S. history. A work stoppage against the Big Three U.S. automakers has the potential to reshape the political landscape in the battleground\u2026",
+            "url": "https://apnews.com/article/biden-uaw-strike-unions-trump-2024-826a9a74a73497a62943d26c31d455c3",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f2e2386/2147483647/strip/true/crop/2000x1125+0+105/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2Ff5%2F6e398c4a5b011eb202dc4da36530%2Fc47b1f20703c44f288a11d4ddf2579e4",
+            "publishedAt": "2023-09-13T09:30:00Z",
+            "content": "LANSING, Mich. (AP) The prospect of an auto workers strike could test Joe Bidens treasured assertion that hes the most pro-union president in U.S. history. \r\nThe United Auto Workers is threatening to\u2026 [+7782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Renee Miller and Adam Gretz",
+            "title": "NFL Week 2 Survivor Pool picks: Selecting the Bills, Giants and Cowboys plus strategy - The Athletic",
+            "description": "See NFL Week 2 Survivor strategy, chalk picks and contrarian picks.",
+            "url": "https://theathletic.com/4857803/2023/09/13/nfl-week-2-survivor-pool-picks/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/09/12224700/GettyImages-1676707487-scaled.jpg",
+            "publishedAt": "2023-09-13T09:23:11Z",
+            "content": "Welcome to Week 2 of NFL Survivor! Fortunately, our top Week 1 play, Baltimore, allowed at least 32 percent of you to move on. Other winners included Washington, Jacksonville and Philadelphia, albeit\u2026 [+8318 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WCVB Boston"
+            },
+            "author": "Phil Tenser",
+            "title": "Gov. Healey declares emergency, requesting FEMA help for flooding in Leominster, N. Attleborough - WCVB Boston",
+            "description": "\"This declaration will expedite our efforts to deliver relief to impacted communities and bolster our ability to access federal resources,\u201d the governor said in a statement.",
+            "url": "https://www.wcvb.com/article/leominster-massachusetts-flooding-request-fema-assistance/45104660",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/0becf8e3-2afc-4f4e-abbc-342b65554a7f/thumb_1920x1080_00001_1694537389_769.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-09-13T09:18:00Z",
+            "content": "LEOMINSTER, Mass. \u2014Massachusetts Gov. Maura Healey declared a state of emergency in Massachusetts on Tuesday, hours after she announced that she would ask for federal support after flooding caused wi\u2026 [+4296 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Deena Zaru",
+            "title": "University of Alabama condemns racist, homophobic slurs hurled at Texas football players - ABC News",
+            "description": "Alabama fans were heard shouting slurs in a viral video.",
+            "url": "https://abcnews.go.com/US/university-alabama-condemns-racist-homophobic-slurs-hurled-texas/story?id=103116863",
+            "urlToImage": "https://i.abcnewsfe.com/a/f514d204-1c0e-4b5d-bf65-c824eae29583/texas-alabama-4-gty-bb-230912_1694529469068_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-09-13T09:11:40Z",
+            "content": "The University of Alabama condemned the behavior of its fans heard shouting racist and homophobic slurs at three Texas Longhorn players during a Saturday night game after a video of the incident went\u2026 [+1653 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Donald Judd",
+            "title": "Biden focuses on his domestic agenda and efforts to end cancer amid McCarthy\u2019s impeachment inquiry announcement - CNN",
+            "description": "President Joe Biden will convene a meeting of his Cancer Cabinet on Wednesday, a White House official told CNN, in the latest attempt from the administration to refocus the national conversation around the president\u2019s domestic agenda.",
+            "url": "https://www.cnn.com/2023/09/13/politics/joe-biden-cancer-cabinet/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230910102033-04-joe-biden-vietnam-0910.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-13T09:01:00Z",
+            "content": "President Joe Biden will convene a meeting of his Cancer Cabinet on Wednesday, a White House official told CNN, in the latest attempt from the administration to refocus the national conversation arou\u2026 [+3227 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Nicholas Megaw",
+            "title": "US headline inflation expected to have risen in August - Financial Times",
+            "description": "Consumer price index rises at annualised rate of 3.7 per cent, but \u2018core\u2019 reading moderates",
+            "url": "https://www.ft.com/content/f86b0071-17f6-467e-80fe-615608ff94d6",
             "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "publishedAt": "2023-09-13T09:00:36Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
         },
         {
             "source": {
@@ -164,103 +242,25 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Apple forced to ditch lightning charger in new iPhone - BBC",
-            "description": "Apple confirms new iPhone 15 will have a common USB-C charging port after EU forces it into the change.",
-            "url": "https://www.bbc.com/news/technology-66778528",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/88C9/production/_131071053_all_colors__d4w03v51nwcy_large_2x.jpg",
-            "publishedAt": "2023-09-12T20:09:35Z",
-            "content": "Apple has confirmed its new iPhone will not feature its proprietary lightning charging port, after the EU forced the change.\r\nThe tech giant said that the iPhone 15, unveiled at its annual event on T\u2026 [+3405 chars]"
+            "title": "Ukraine launches missile attack on Crimea, Russia says - BBC",
+            "description": "Ten missiles and three unmanned boats were used to attack the home of Russia's Black Sea fleet, Moscow says.",
+            "url": "https://www.bbc.com/news/world-europe-66793900",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12013/production/_131074737_crimea-index-epa.jpg",
+            "publishedAt": "2023-09-13T08:23:22Z",
+            "content": "Russia says Ukraine has launched 10 missiles and three unmanned boats in an attack on the home of its Black Sea fleet in Crimea.\r\nThe attack caused a large fire at a Sevastopol shipyard which left 24\u2026 [+2220 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "DallasCowboys.com"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "Kearse on Cowboys defense: 'It's a bunch of dogs' - DallasCowboys.com",
-            "description": "Jayron Kearse has been a key reason for the dominance on a Cowboys defense that was totally revamped in the Dan Quinn era, and he\u2019s surrounded by a kennel of talent.",
-            "url": "https://www.dallascowboys.com/news/kearse-on-cowboys-defense-it-s-a-bunch-of-dogs",
-            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/cowboys/lfs4xzdykgjqnnfpiutf",
-            "publishedAt": "2023-09-12T20:07:48Z",
-            "content": "The drive ended a sequence of events that supported Kearse's (and Parsons') point.\r\nA false start penalty against left tackle Andrew Thomas with Micah Parsons threatening made it third-and-7 on the C\u2026 [+1544 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Houston Chronicle"
-            },
-            "author": "Octavia Johnson",
-            "title": "Texas man dies after eating raw oysters in Galveston County - Houston Chronicle ",
-            "description": "A Galveston County man with underlying health conditions died after eating raw oysters.",
-            "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/man-dies-after-eating-raw-oysters-18361575.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/30/14/51/23120501/3/rawImage.jpg",
-            "publishedAt": "2023-09-12T20:03:45Z",
-            "content": "A Galveston County man died over Labor Day weekend after eating raw oysters at a local restaurant while having underlying health conditions that predisposed him to a vibrio infection, health official\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Todd Spangler",
-            "title": "Shares of TKO, New Parent Company of WWE and UFC, Climb 2.4% in Stock Market Debut - Variety",
-            "description": "Investors cheered as TKO Group Holdings, the new parent company of UFC and WWE, clambered into the Wall Street ring. Shares of TKO, which began trading Tuesday on the New York Stock Exchange, close\u2026",
-            "url": "https://variety.com/2023/tv/news/tko-shares-rise-wwe-ufc-endeavor-1235720965/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/09/091223MF003_TKOListingDay-e1694558967414.jpg?w=1000&h=560&crop=1",
-            "publishedAt": "2023-09-12T20:03:00Z",
-            "content": "Investors cheered as TKO Group Holdings, the new parent company of UFC and WWE, clambered into the Wall Street ring.\r\nShares of TKO, which began trading Tuesday on the New York Stock Exchange, closed\u2026 [+2892 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Bill Chappell",
-            "title": "Hurricane Lee, now very large, is raising wind and surf dangers along the East Coast - NPR",
-            "description": "As of early Tuesday afternoon, Lee was packing 115 mph winds and moving west-northwest at a virtual crawl of just 6 mph.",
-            "url": "https://www.npr.org/2023/09/12/1198996108/hurricane-lee-now-very-large-is-raising-wind-and-surf-dangers-along-the-east-coa",
-            "urlToImage": "https://media.npr.org/assets/img/2023/09/12/lee-cone-path-map_wide-bf4c32478172bb06ae5891aa7a71a9c29e468a8c-s1400-c100.jpg",
-            "publishedAt": "2023-09-12T19:11:09Z",
-            "content": "Hurricane Lee is currently moving at a very slow forward pace, but the storm is expected to turn northward and gradually accelerate later this week.\r\nNational Hurricane Center\r\nHurricane Lee will bri\u2026 [+3358 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Gabriel Hays",
-            "title": "Sen. Kennedy makes Dem lawmaker squirm while reading excerpts of LGBTQ kids books during hearing: \u2018Disturbing' - Fox News",
-            "description": "Sen. John Kennedy, R-La., confronted Illinois Secretary of State Alexi Giannoulias with sexual excerpts of books found in public schools and public libraries that children can access.",
-            "url": "https://www.foxnews.com/media/sen-kennedy-makes-dem-lawmaker-squirm-reading-excerpts-lgbtq-kids-books-hearing-disturbing",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Kennedy.png",
-            "publishedAt": "2023-09-12T19:03:00Z",
-            "content": "WARNING: GRAPHIC DEPICTIONS OF SEX, VIEWER DISCRETION ADVISED\r\nSenator John Kennedy, R-La., made Illinois Secretary of State Alexi Giannoulias uncomfortable while reading aloud from several LGBTQ and\u2026 [+4213 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Isaac Schultz",
-            "title": "Webb Spots Intriguing Molecular Signals on Possible Water World - Gizmodo",
-            "description": "Dimethyl sulfide is only known to be produced by living things on Earth, but the signature requires further investigation.",
-            "url": "https://gizmodo.com/webb-telescope-hycean-water-world-dimethyl-sulfide-1850830564",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fdb793ae946c3f54af31269602a0d140.jpg",
-            "publishedAt": "2023-09-12T19:00:00Z",
-            "content": "The Webb Space Telescope recently turned its focus to a nearby exoplanet and found that it may be a Hycean world, or a world completely covered in a single global ocean, and with a hydrogen atmospher\u2026 [+3860 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Iran can't use unfrozen funds in prisoner exchange however it wants, U.S. says - POLITICO",
-            "description": "Washington has the \u201cability to freeze them again if we need to,\u201d State Department spokesperson Matthew Miller said on Tuesday.",
-            "url": "https://www.politico.com/news/2023/09/12/iran-funds-prisoner-exchange-state-dept-00115312",
-            "urlToImage": "https://static.politico.com/a4/0f/7f7690dd4d6590240c7ea2fe11f4/iran-80836.jpg",
-            "publishedAt": "2023-09-12T18:57:04Z",
-            "content": "State Department spokesperson Matthew Miller denied Raisis assertion, telling reporters on Tuesday afternoon that the funds would arrive in banks in Qatar and would be under strict oversight by the T\u2026 [+1533 chars]"
+            "author": "Nicole Goodkind",
+            "title": "BP CEO resigns after probe reveals undisclosed relationships with colleagues - CNN",
+            "description": "BP CEO Bernard Looney has resigned after admitting that he had not been \u201cfully transparent\u201d about \u201chistorical relationships with colleagues,\u201d according to a statement from the oil giant on Tuesday.",
+            "url": "https://www.cnn.com/2023/09/12/investing/bp-ceo-looney-resign/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230912140042-01-bernard-looney-bp-082623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-13T07:53:00Z",
+            "content": "BP CEO Bernard Looney has resigned after admitting that he had not been fully transparent about historical relationships with colleagues, according to a statement from the oil giant on Tuesday. \r\nMur\u2026 [+3538 chars]"
         }
     ]
 }
