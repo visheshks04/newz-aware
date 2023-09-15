@@ -1,266 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Helen Regan, Gawon Bae, Larry Register, Simone McCarthy, Anna Chernova, Jake Kwon",
-            "title": "Putin talks military cooperation with Kim as North Korean leader endorses Russia\u2019s war on Ukraine - CNN",
-            "description": "Vladimir Putin has said Russia is considering and discussing some military cooperation with North Korea, following a summit at which that country\u2019s leader Kim Jong Un appeared to endorse Moscow\u2019s war on Ukraine.",
-            "url": "https://www.cnn.com/2023/09/12/asia/kim-jong-un-putin-meeting-russia-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230913123030-putin-kim-russia-0913.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-14T00:15:00Z",
-            "content": "Vladimir Putin has said Russia is considering and discussing some military cooperation with North Korea, following a summit at which that countrys leader Kim Jong Un appeared to endorse Moscows war o\u2026 [+7338 chars]"
+            "author": "Bryan Pietsch, Annabelle Timsit",
+            "title": "Russia-Ukraine war news: Putin accepts Kim Jong Un\u2019s invitation to visit N. Korea in the future - The Washington Post",
+            "description": "Kim Jong Un is spending his third day in Russia, where he is set to tour military sites. President Vladimir Putin accepted an invitation to visit North Korea.",
+            "url": "https://www.washingtonpost.com/world/2023/09/14/russia-ukraine-war-news-putin-kim/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LKA2OBPFHJI4RLUPPM2HIFHTIU.JPG&w=1440",
+            "publishedAt": "2023-09-14T09:28:00Z",
+            "content": "North Korean leader Kim Jong Un continues his visit to Russias Far East, where he is expected to tour an aviation factory and inspect Russias Pacific naval fleet this week. The visit is a display of \u2026 [+5280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Danelo Cavalcante: Dog captures crawling Pennsylvania murderer - BBC",
+            "description": "Danelo Cavalcante, 34, resisted arrest in a wooded area after an aircraft picked up his heat signal.",
+            "url": "https://www.bbc.com/news/world-us-canada-66800144",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3654/production/_131080931_microsoftteams-image-1.png",
+            "publishedAt": "2023-09-14T08:41:33Z",
+            "content": "Media caption, Watch: Police pose for photo after dramatic arrest\r\nA murderer who escaped from a US jail two weeks ago was captured by a law enforcement dog after a heat-sensing aircraft located him,\u2026 [+4881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Navalnews.com"
+            },
+            "author": "H I Sutton",
+            "title": "Ukraine's Attack On Sevastopol Also Targeted Important Ships Crossing Black Sea - Naval News",
+            "description": "Two Russian ships, the tanker Yaz and the suspected arms transport Ursa Major, are headed to Istanbul where they will leave the Black Sea. Evidence suggests that, at the same time as the cruise missile attack on Sevastopol, they were targeted by Ukrainian mar\u2026",
+            "url": "https://www.navalnews.com/naval-news/2023/09/ukraines-attack-on-sevastopol-also-targeted-important-ships-crossing-black-sea/",
+            "urlToImage": "https://www.navalnews.com/wp-content/uploads/2023/09/Russia-Ships-Black-Sea-September13-2023.jpg",
+            "publishedAt": "2023-09-14T08:29:56Z",
+            "content": "The first indications of the attack, shared with Naval News, came before 3am local time on September 13. By morning imagery of fierce fires in Sevastopol were coming in, and it soon emerged that two \u2026 [+5070 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Tom Balmforth",
-            "title": "Ukraine says Russian naval vessels badly damaged in Crimea attack - Reuters",
-            "description": "Ukraine said it seriously damaged two Russian naval vessels and struck port infrastructure in the Crimean city of Sevastopol early on Wednesday, in what appeared to be the biggest attack of the war on the home of the Russian navy's Black Sea Fleet.",
-            "url": "https://www.reuters.com/world/europe/ukraine-launches-missile-attack-sevastopol-crimea-russian-installed-governor-2023-09-13/",
-            "urlToImage": "https://www.reuters.com/resizer/ORCquif6Azr4rLlYVGir3GPCVgo=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TV7I2ONLZZMMBPANCJX436GPNE.jpg",
-            "publishedAt": "2023-09-13T23:51:39Z",
-            "content": "KYIV, Sept 13 (Reuters) - Ukraine said it seriously damaged two Russian naval vessels and struck port infrastructure in the Crimean city of Sevastopol early on Wednesday, in what appeared to be the b\u2026 [+4448 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Erica Werner",
-            "title": "Actors, writers fill Los Angeles streets in show of unity amid strike - The Washington Post",
-            "description": "Members of the Writers Guild of America have been on strike for 135 days and the Screen Actors Guild for 62 days. Talks between the WGA and the group representing major studios and streaming services have broken down.",
-            "url": "https://www.washingtonpost.com/business/2023/09/13/hollywood-strike-rally/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7EDLBULGQGIIVB5FIW4GMXGEAM.JPG&w=1440",
-            "publishedAt": "2023-09-13T22:47:56Z",
-            "content": "Comment on this story\r\nComment\r\nLOS ANGELES Thousands of striking actors and writers flooded the streets of Hollywood on Wednesday in a massive show of unity aimed at pressuring studios to give in an\u2026 [+3849 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Rich Cimini",
-            "title": "Jets QB Aaron Rodgers 'heartbroken' in wake of Achilles tear - ESPN - ESPN",
-            "description": "Jets QB Aaron Rodgers, in his first public comments since a season-ending Achilles injury, wrote on Instagram that he's \"completely heartbroken,\" before concluding his post, \"The night is darkest before the dawn. And I shall rise yet again.\"",
-            "url": "https://www.espn.com/nfl/story/_/id/38394550/jets-qb-aaron-rodgers-first-comments-achilles-tear-says-shall-rise-yet-again",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0913%2Fr1224138_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-09-13T22:34:00Z",
-            "content": "FLORHAM PARK, N.J. -- New York Jets quarterback Aaron Rodgers, in his first public comments since his season-ending Achilles injury, said he's down, but apparently not out.\r\n\"I'm completely heartbrok\u2026 [+4614 chars]"
+            "author": "Echo Wang, Anirban Sen",
+            "title": "SoftBank's Arm valued at $54.5 bln in year's biggest IPO - Reuters",
+            "description": "Chip designer Arm Holdings Plc <a href=\"https://www.reuters.com/markets/companies/ARM.O\" target=\"_blank\">(ARM.O)</a> secured a $54.5 billion valuation in its U.S. initial public offering (IPO) on Wednesday, seven years after its owner SoftBank Group Corp <a h\u2026",
+            "url": "https://www.reuters.com/markets/deals/softbanks-arm-discusses-pricing-ipo-52-per-share-source-2023-09-13/",
+            "urlToImage": "https://www.reuters.com/resizer/5rnAo27vJe09DxeU7cl5jLnvVbo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PIAA3LPBSJNJJIWKDGBGK262VE.jpg",
+            "publishedAt": "2023-09-14T05:33:00Z",
+            "content": "NEW YORK, Sept 13 (Reuters) - Chip designer Arm Holdings Plc (ARM.O) secured a $54.5 billion valuation in its U.S. initial public offering (IPO) on Wednesday, seven years after its owner SoftBank Gro\u2026 [+3921 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Athletic"
+                "name": "ScienceAlert"
             },
-            "author": "Jake Ciely",
-            "title": "Fantasy Football Rankings Week 2: Sleepers, projections, starts, sits | Justice Hill, Jordan Addison and more - The Athletic",
-            "description": "Jake Ciely previews Week 2 of the fantasy football season with breakdowns, sleepers, rankings and more.",
-            "url": "https://theathletic.com/4857864/2023/09/13/fantasy-football-rankings-week-2-sleepers-projections-starts-sits/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/09/12230216/GettyImages-1660126219-scaled.jpg",
-            "publishedAt": "2023-09-13T22:24:05Z",
-            "content": "Were already talking about Week 2 fantasy football rankings! Can you dig it? Sucka! Thats a hint to this weeks fun with ranks. There is a new format to the weekly ranks and sleepers, so read the head\u2026 [+11596 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Clare Foran, Morgan Rimmer",
-            "title": "Mitt Romney announces he won\u2019t seek reelection as he calls for \u2018new generation of leaders\u2019 - CNN",
-            "description": "Utah Republican Sen. Mitt Romney announced Wednesday that he will not run for reelection to the Senate and called for a \u201cnew generation of leaders\u201d as he criticized both President Joe Biden and former President Donald Trump.",
-            "url": "https://www.cnn.com/2023/09/13/politics/mitt-romney-not-running-reelection/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230913134813-01-mitt-romney-111622.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-13T22:22:00Z",
-            "content": "Utah Republican Sen. Mitt Romney announced Wednesday that he will not run for reelection to the Senate and called for a new generation of leaders as he criticized both President Joe Biden and former \u2026 [+4510 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Adam Sabes, Lee Ross",
-            "title": "New Mexico Democrat governor's sweeping gun order hits major temporary roadblock - Fox News",
-            "description": "A federal judge in New Mexico issued a temporary restraining order against key parts of Gov. Michelle Lujan Grisham\u2019s executive order suspending open and concealed carry in Albuquerque and the surrounding county.",
-            "url": "https://www.foxnews.com/politics/new-mexico-democrat-governors-sweeping-gun-order-hits-major-temporary-roadblock",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/f7ebab3b-grisham.png",
-            "publishedAt": "2023-09-13T21:33:00Z",
-            "content": "A federal judge in Albuquerque, New Mexico, has issued a temporary restraining order blocking key parts of Gov. Michelle Lujan Grishams executive order suspending open and concealed carry across Albu\u2026 [+2519 chars]"
+            "author": "AFP",
+            "title": "US Astronaut Breaks NASA Record For Longest Single Spaceflight - ScienceAlert",
+            "description": "The astronaut Frank Rubio broke the record for the longest in orbit mission by an American, spending more than 355 days aboard the International Space Station.",
+            "url": "https://www.sciencealert.com/us-astronaut-breaks-nasa-record-for-longest-single-spaceflight",
+            "urlToImage": "https://www.sciencealert.com/images/2023/09/Frank_rubio.jpg",
+            "publishedAt": "2023-09-14T05:02:40Z",
+            "content": "The astronaut Frank Rubio broke the record for the longest in orbit mission by an American, spending more than 355 days aboard the International Space Station.\r\n\"In some ways, it's been an incredible\u2026 [+2187 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "[Removed]"
             },
-            "author": "",
-            "title": "Prisco's Week 2 NFL picks: Jaguars win thriller and drop Chiefs to 0-2, Patriots slow down explosive Dolphins - CBS Sports",
-            "description": "Pete Prisco reveals all his Week 2 picks, including the Bills bouncing back in a big way",
-            "url": "https://www.cbssports.com/nfl/news/priscos-week-2-nfl-picks-jaguars-win-thriller-and-drop-chiefs-to-0-2-patriots-slow-down-explosive-dolphins/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/13/8aa554ce-f673-467d-a4ab-4303a2e0d82f/thumbnail/1200x675/fe5ab6f291b8f87f61082e846edb9787/lawrencemahomes.jpg",
-            "publishedAt": "2023-09-13T21:23:00Z",
-            "content": "Picking games in Week 1 ended with a solid showing for me, which is a change from recent NFL years. It's a challenge to pick early-season games, even more so in the first week, but I somehow managed \u2026 [+7191 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Live Science"
+                "name": "NBC New York"
             },
-            "author": "Brandon Specktor",
-            "title": "Asteroid that collided with NASA spacecraft is behaving unexpectedly, high school class discovers - Livescience.com",
-            "description": "Asteroid Dimorphos, which NASA intentionally hit with a rocket during its DART mission in September 2022, is behaving in unpredicted ways.",
-            "url": "https://www.livescience.com/space/asteroids/asteroid-that-collided-with-nasa-spacecraft-is-behaving-unexpectedly-high-school-class-discovers",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Sa92KtrnNFbfPc5ehQjLzS-1200-80.jpg",
-            "publishedAt": "2023-09-13T21:22:36Z",
-            "content": "The asteroid Dimorphos is behaving in unexpected ways after being hit with a NASA rocket last year, new data suggest.\r\nRecent observations of the roughly 580-foot-wide (177 meters) space rock \u2014 which\u2026 [+2320 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KOIN.com"
-            },
-            "author": "John Ross Ferrara",
-            "title": "Western Oregon in prime spot to view October\u2019s \u2018ring of fire\u2019 solar eclipse - KOIN.com",
-            "description": "Western Oregon will be one of the best regions in the world to experience the partial solar eclipse occurring on Oct. 14, scientists say. NASA states that the moon will black out roughly 85% of the sun when the eclipse is viewed from the region, which include\u2026",
-            "url": "https://www.koin.com/news/oregon/western-oregon-in-prime-spot-to-view-octobers-ring-of-fire-solar-eclipse/",
-            "urlToImage": "https://www.koin.com/wp-content/uploads/sites/10/2023/04/AP12052105083.jpg?w=1280",
-            "publishedAt": "2023-09-13T21:19:31Z",
-            "content": "PORTLAND, Ore. (KOIN) Western Oregon will be one of the best regions in the world to experience the partial solar eclipse occurring on Oct. 14, scientists say. NASA states that the moon will black ou\u2026 [+1693 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foxweather.com"
-            },
-            "author": "Steven Yablonski",
-            "title": "New England on alert: Hurricane and Tropical Storm watches issued for much of coastline ahead of Lee's arrival - Fox Weather ",
-            "description": "Millions of people are bracing for impacts from Hurricane Lee as the powerful Category 2 hurricane has triggered millions of residents in the U.S. to be placed under watches ahead of the arrival of tropical storm and hurricane conditions within the next 48 ho\u2026",
-            "url": "https://www.foxweather.com/weather-news/tracking-hurricane-lee-new-england-impacts",
-            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/09/1024/512/Hurricane-Lee-Story-Image-1130am-09132023.png?ve=1&tl=1",
-            "publishedAt": "2023-09-13T21:06:00Z",
-            "content": "Millions of people are bracing for impacts from Hurricane Lee as the powerful Category 2 hurricane has triggered millions of residents in the U.S. to be placed under watches ahead of the arrival of t\u2026 [+6275 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Amy Simonson",
-            "title": "Theater video surveillance shows US Rep. Lauren Boebert escorted out of \u2018Beetlejuice\u2019 musical - CNN",
-            "description": "Surveillance video from a performing arts theater in Denver shows Republican Rep. Lauren Boebert being escorted out of the musical \u201cBeetlejuice\u201d on Sunday after \u201cmultiple complaints\u201d from patrons.",
-            "url": "https://www.cnn.com/2023/09/13/politics/boebert-beetlejuice-musical/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230913134831-boebert-beetlejuice.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-13T21:01:00Z",
-            "content": "Surveillance video from a performing arts theater in Denver shows Republican Rep. Lauren Boebert being escorted out of the musical Beetlejuice on Sunday after multiple complaints from patrons.\r\nThe B\u2026 [+3519 chars]"
+            "author": "Mike Gavin",
+            "title": "\u2018Heartbroken' Aaron Rodgers makes first public comments since season-ending injury - NBC New York",
+            "description": "\"The night is darkest before the dawn. And I shall rise yet again,\" Aaron Rodgers wrote on Instagram Wednesday after suffering a torn Achilles in his New York\u2026",
+            "url": "https://www.nbcnewyork.com/news/sports/nfl/heartbroken-aaron-rodgers-makes-first-public-comments-since-season-ending-injury/4676935/",
+            "urlToImage": "https://media.nbcnewyork.com/2023/09/Untitled-1-5.png?resize=1200%2C675&quality=85&strip=all",
+            "publishedAt": "2023-09-14T03:46:52Z",
+            "content": "For Aaron Rodgers and the New York Jets, it was their darkest hour.\r\nBut...\r\n\"The night is darkest before the dawn,\" Rodgers wrote on Instagram Wednesday in his first public comments since suffering \u2026 [+2621 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Leslie Picker, Kif Leswing",
-            "title": "Arm prices IPO at $51 per share, valuing company at over $54 billion - CNBC",
-            "description": "Chip designer Arm priced its initial public offering on Wednesday at the top end of the expected range",
-            "url": "https://www.cnbc.com/2023/09/13/arm-prices-ipo-at-51-per-share.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107297124-1694637989906-arm2.jpg?v=1694638908&w=1920&h=1080",
-            "publishedAt": "2023-09-13T20:14:02Z",
-            "content": "Arm, the chip design firm that supplies core technology to companies including Apple and Nvidia, priced its initial public offering at $51 a share.\r\nArm's fully diluted market cap, which includes out\u2026 [+2687 chars]"
+            "author": "Michael Wayland",
+            "title": "Ford CEO rebuffs UAW leader's criticisms as strike deadline on Thursday approaches - CNBC",
+            "description": "Ford CEO Jim Farley rebuffed comments by United Auto Workers President Shawn that the company is not taking bargaining seriously.",
+            "url": "https://www.cnbc.com/2023/09/14/ford-ceo-fires-back-at-uaw-leader-as-thursday-strike-deadline-looms.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107300516-1694659561773-Farley.JPG?v=1694664149&w=1920&h=1080",
+            "publishedAt": "2023-09-14T03:41:00Z",
+            "content": "DETROIT Ford Motor CEO Jim Farley rebuffed comments by United Auto Workers President Shawn Fain that the company is not taking bargaining seriously ahead of a Thursday night strike deadline, placing \u2026 [+5318 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "New York Post"
             },
-            "author": "",
-            "title": "CNN reporter confronts McCarthy after he backtracks on Biden impeachment inquiry - CNN",
-            "description": "CNN\u2019s Manu Raju asks House Speaker Kevin McCarthy about ordering an impeachment inquiry into President Biden.",
-            "url": "https://www.cnn.com/videos/politics/2023/09/13/mccarthy-flip-flop-biden-impeachment-inquiry-vote-manu-vpx.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230913151322-mccarthy-raju-manu.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-13T20:00:38Z",
+            "author": "Patrick Reilly",
+            "title": "14-year-old boy has hands, legs amputated after flu-like symptoms turn deadly - New York Post ",
+            "description": "Mathias\u2019 family hopes that their son, who ran cross country, played soccer and played piano, can soon leave the hospital with new prosthetic limbs.",
+            "url": "https://nypost.com/2023/09/13/14-year-old-boy-has-hands-legs-amputated-after-flu-like-symptoms-turn-deadly/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/NYPICHPDPICT000039541329.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-09-14T03:35:00Z",
+            "content": "A 14-year-old boys parents had to make the heart-wrenching decision to amputate all of their sons hands and feet after his normal flu-like symptoms suddenly turned deadly.\r\nMathias Uribe, of Tennesse\u2026 [+2484 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Morik",
+            "title": "Braves win sixth-straight NL East title; first team to punch ticket to MLB Postseason - Fox News",
+            "description": "The Atlanta Braves are the first team to punch their ticket to the 2023 MLB Postseason, as they clinched the NL East for the sixth year in a row on Wednesday.",
+            "url": "https://www.foxnews.com/sports/braves-win-sixth-straight-nl-east-title-first-team-punch-ticket-mlb-postseason",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/braves.jpg",
+            "publishedAt": "2023-09-14T02:49:00Z",
+            "content": "For the sixth year in a row, the Atlanta Braves are NL East champions.\r\nThe Braves clinched the division on Wednesday night, becoming the first team to punch their ticket to the 2023 MLB Postseason.\r\u2026 [+2164 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Caroline Vakil",
+            "title": "Pence responds to Romney remarks on viability in 2024 GOP race: \u2018I\u2019m running to win\u2019 - The Hill",
+            "description": "Former Vice President Pence responded to remarks made by Sen. Mitt Romney (R-Utah) that cast doubt on Pence\u2019s viability in the 2024 GOP presidential primary, saying on Wednesday, \u201cI\u2019m running to win.\u201d Romney, who announced earlier on Wednesday that he would n\u2026",
+            "url": "https://thehill.com/homenews/campaign/4203635-pence-responds-to-romney-remarks-on-viability-in-2024-gop-race-im-running-to-win/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/GettyImages-1635078178-e1692883071745.jpg?w=1280",
+            "publishedAt": "2023-09-14T02:48:00Z",
+            "content": "Skip to content\r\nFormer Vice President Pence responded to remarks made by Sen. Mitt Romney (R-Utah) that cast doubt on Pence\u2019s viability in the 2024 GOP presidential primary, saying on Wednesday, \u201cI\u2019\u2026 [+1376 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Independent",
+            "title": "Seattle Police officer laughs after student killed by patrol car in shocking video - The Independent",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvY3JpbWUvamFhaG5hdmkta2FuZHVsYS1ib2R5Y2FtLXNlYXR0bGUtcG9saWNlLWxhdWdoaW5nLWIyNDExMTQxLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-14T02:46:35Z",
             "content": null
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Mark Gurman",
-            "title": "Apple (AAPL) iPhone 15 Event: Company Pivots Toward Making Vision Pro Its Future - Bloomberg",
-            "description": "This week, Apple announced the iPhone 15 and new watches, as well as AirPods that charge via USB-C. But something more important happened subtly: The company began pivoting away from the iPhone to an ecosystem built around the Vision Pro headset.",
-            "url": "https://www.bloomberg.com/news/newsletters/2023-09-13/apple-aapl-iphone-15-event-company-pivots-toward-making-vision-pro-its-future",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_b4L40gHa0k/v0/1200x800.jpg",
-            "publishedAt": "2023-09-13T19:42:48Z",
-            "content": "This week, Apple announced the iPhone 15 and new watches, as well as AirPods that charge via USB-C. But something more important happened subtly: The company began pivoting away from the iPhone to an\u2026 [+146 chars]"
+            "author": "Al Jazeera",
+            "title": "Mexico legislators hold hearing on existence of UFOs, shown \u2018alien\u2019 bodies - Al Jazeera English",
+            "description": "Mexican congressman Sergio Gutierrez said he hoped the hearing on UFOs was the first of other similar events in Mexico.",
+            "url": "https://www.aljazeera.com/news/2023/9/14/mexico-legislators-hold-hearing-on-existence-of-ufos-shown-alien-bodies",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/image-41.jpg?resize=1800%2C1063",
+            "publishedAt": "2023-09-14T02:08:59Z",
+            "content": "Mexican legislators heard testimony regarding the possibility that extraterrestrials might exist and were presented with the alleged remains of non-human beings in an extraordinary hearing marking th\u2026 [+3697 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KAKE"
+                "name": "The Texas Tribune"
             },
-            "author": null,
-            "title": "Most of Kansas at high risk for West Nile virus - KAKE",
-            "description": "West Nile virus\u00a0is carried and transmitted by mosquitoes and can infect humans, horses, birds and other species. Most infections occur in the late summer and early fall.",
-            "url": "https://www.kake.com/story/49646120/most-of-kansas-at-high-risk-for-west-nile-virus",
-            "urlToImage": "https://KAKE.images.worldnow.com/images/25144289_G.jpeg",
-            "publishedAt": "2023-09-13T18:52:29Z",
-            "content": "The Kansas Department of Health and Environment has issued a high-risk warning for West Nile virus infections\u00a0for most of the state.\u00a0\r\nThe KDHE said Wednesday that 22 human cases of have been reporte\u2026 [+2690 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Eric Berger",
-            "title": "A NASA astronaut will finally spend a full year in space - Ars Technica",
-            "description": "\"I'm really excited to see how my body does when I return.\"",
-            "url": "https://arstechnica.com/space/2023/09/a-nasa-astronaut-will-finally-spend-a-full-year-in-space/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/iss068e006386medium-760x380.jpg",
-            "publishedAt": "2023-09-13T18:52:14Z",
-            "content": "Enlarge/ NASA astronaut Frank Rubio observes the behavior of a free-flying water bubble inside the International Space Station's Kibo laboratory module.\r\n10 with \r\nEleven days before Christmas last y\u2026 [+4056 chars]"
+            "author": "Patrick Svitek and Zach Despart",
+            "title": "The House has rested its case against Ken Paxton after a chaotic day for the prosecution - The Texas Tribune",
+            "description": "The House prosecutors failed to call a star witness and battled with the defense attorneys over allegations the suspended attorney general had been bribed by Nate Paul.",
+            "url": "https://www.texastribune.org/2023/09/13/ken-paxton-impeachment-trial-laura-olson-drew-wicker/",
+            "urlToImage": "https://thumbnails.texastribune.org/GL7CQgq30JbRS11arK5KXMZ5uAc=/1200x630/filters:quality(95):focal(0x0:3200x2133)/static.texastribune.org/media/files/69ab4f66e38342dab6d55c261e718215/0913%20Paxton%20Trial%20Day%207%20EG%20TT%2009.jpg",
+            "publishedAt": "2023-09-14T01:35:44Z",
+            "content": "The Texas Tribune is your source for in-depth reporting on the Ken Paxton impeachment trial. Readers make that possible. Support authoritative Texas journalism with a donation now.\r\nThe House impeach\u2026 [+7211 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Boston 25 News"
+                "name": "MacRumors"
             },
-            "author": "Maria  Papadopoulos",
-            "title": "\u2018Prevent mosquito bites\u2019: High risk for EEE in six Mass. communities, state health officials say - Boston 25 News",
-            "description": "State public health officials have elevated the risk for Eastern equine encephalitis to high in six communities and to moderate in five more communities.",
-            "url": "https://www.boston25news.com/news/local/prevent-mosquito-bites-high-risk-eee-six-mass-communities-state-health-officials-say/3YHJ4KSAIJFXTN2LLG7GO3TTOU/",
-            "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/oh13bHmcJ3U-IbeFWNrxfbUXBZY=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XYMVQS7IRROTQZLKZ7OOXFJ7OM.png",
-            "publishedAt": "2023-09-13T18:42:41Z",
-            "content": "BOSTON \u2014 State public health officials have elevated the risk for Eastern equine encephalitis to high in six communities and to moderate in five more communities.\r\nEEE was detected in additional mosq\u2026 [+5032 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Selome Hailu",
-            "title": "2023 MTV VMAs Bring in 865,000 Viewers, Up 37% From Year Before - Variety",
-            "description": "With appearances from Taylor Swift and NSYNC and performances by Shakira, Demi Lovato and Doja Cat, this year\u2019s MTV Video Music Awards ceremony brought in 37% more viewers than the 2022 cerem\u2026",
-            "url": "https://variety.com/2023/tv/news/2023-mtv-vmas-ratings-2022-1235722532/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/09/GettyImages-1678577737.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2023-09-13T18:15:00Z",
-            "content": "With appearances from Taylor Swift and NSYNC and performances by Shakira, Demi Lovato and Doja Cat, this year\u2019s MTV Video Music Awards ceremony brought in 37% more viewers than the 2022 ceremony.\r\nTu\u2026 [+1389 chars]"
+            "author": "Joe Rossignol",
+            "title": "iPhone 15 Pro's Action Button to Support Translate App Later This Year - MacRumors",
+            "description": "The new iPhone 15 Pro and iPhone 15 Pro Max are equipped with a customizable Action button that replaces the traditional mute switch on previous...",
+            "url": "https://www.macrumors.com/2023/09/13/iphone-15-pro-action-button-translate-later/",
+            "urlToImage": "https://images.macrumors.com/t/gai5jfu-M1_5vSWKQLJQvwOxFww=/1600x/article-new/2023/09/iPhone-15-Pro-Action-Button-Translate.jpg",
+            "publishedAt": "2023-09-14T01:05:01Z",
+            "content": "The new iPhone 15 Pro and iPhone 15 Pro Max are equipped with a customizable Action button that replaces the traditional mute switch on previous iPhones. By default, the button is set to toggle betwe\u2026 [+949 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Danny Freeman, Lauren Mascarenhas",
-            "title": "Escaped Pennsylvania killer Danelo Cavalcante was surrounded by tactical teams moments before a police dog subdued him - CNN",
-            "description": "Escaped Pennsylvania inmate Danelo Cavalcante is in custody, Pennsylvania State Police announced Wednesday morning, ending a two-week-long manhunt for the convicted killer that drew hundreds of law enforcement officials to the area and left the surrounding co\u2026",
-            "url": "https://www.cnn.com/2023/09/13/us/danelo-cavalcante-inmate-search-pennsylvania-wednesday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230913084333-01-danelo-cavalcante-capture-0913.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-13T18:08:00Z",
-            "content": "Escaped Pennsylvania inmate Danelo Cavalcante is in custody, Pennsylvania State Police announced Wednesday morning, ending a two-week-long manhunt for the convicted killer that drew hundreds of law e\u2026 [+6909 chars]"
+            "author": "Kevin Liptak, Betsy Klein, Arlette Saenz",
+            "title": "Biden makes first comments on McCarthy\u2019s impeachment inquiry as his advisers go on the offensive - CNN",
+            "description": "President Joe Biden made his first public comments on House Speaker Kevin McCarthy\u2019s potential impeachment inquiry on Wednesday as his advisers are deploying their plan to respond to their latest showdown with the GOP leader.",
+            "url": "https://www.cnn.com/2023/09/13/politics/joe-biden-impeachment-inquiry-response-strategy/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230913094223-biden-mccarthy-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-14T00:54:00Z",
+            "content": "President Joe Biden made his first public comments on House Speaker Kevin McCarthys potential impeachment inquiry on Wednesday as his advisers are deploying their plan to respond to their latest show\u2026 [+9039 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ivana Kottasov\u00e1",
+            "title": "Survivors frustrated and volunteers pour in as Morocco accepts limited foreign aid following deadly quake - CNN",
+            "description": "Wearing an elegant holiday outfit and sunglasses, Chadia Halimi looked a bit out of place in the dusty camp on the edge of Tafeghaghte, a mountain village in the Moroccan Atlas Mountains that was leveled in last week\u2019s earthquake.",
+            "url": "https://www.cnn.com/2023/09/13/africa/morocco-earthquake-aid-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230913113835-02-asni-morocco-earthquake.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-14T00:33:00Z",
+            "content": "Tafeghaghte, Atlas MountainsCNN\r\n \u00a0\u2014\u00a0\r\nWearing an elegant holiday outfit and sunglasses, Chadia Halimi looked a bit out of place in the dusty camp on the edge of Tafeghaghte, a mountain village in th\u2026 [+4655 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "CFB Insider Bruce Feldman Talks Deion, Longhorns, Alabama & More with Rich Eisen | Full Interview - The Rich Eisen Show",
+            "description": "FOX Sports/The Athletic\u2019s CFB Insider Bruce Feldman joins Rich Eisen in-studio to discuss the Deion Sanders phenomenon that has consumed college football, ho...",
+            "url": "https://www.youtube.com/watch?v=32Vzo9Upatk",
+            "urlToImage": "https://i.ytimg.com/vi/32Vzo9Upatk/maxresdefault.jpg",
+            "publishedAt": "2023-09-14T00:30:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Bethy Squires",
+            "title": "Justin Roiland Accused of Sexual Assault - Vulture",
+            "description": "A new report accuses Justin Roiland of sexual assault, as well as providing alcohol for two people under 21, and pursuing sexual relationships with fans online.",
+            "url": "http://www.vulture.com/2023/09/justin-roiland-sexual-assault-messages-underage-fans.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/4cc/ce0/76f0d7c32b99ee45613f88a383da0647cf-justin-roiland.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-09-14T00:18:10Z",
+            "content": "Rick and Morty co-creator Justin Roiland has been accused of sexual assault, stemming from a new report from NBC News. Eleven women and nonbinary people came forward with thousands of messages with R\u2026 [+940 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Massive flooding in Eastern Libya claims over 8,000 lives - NBC News",
+            "description": "The massive flooding in Eastern Libya has claimed more than 8,000 lives and the UN says an additional 10,000 people are still missing. NBC News\u2019 Molly Hunter...",
+            "url": "https://www.youtube.com/watch?v=tY8cXu2ksLU",
+            "urlToImage": "https://i.ytimg.com/vi/tY8cXu2ksLU/maxresdefault.jpg",
+            "publishedAt": "2023-09-14T00:15:04Z",
+            "content": null
         }
     ]
 }
