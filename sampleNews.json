@@ -1,214 +1,136 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Lisa Respers France",
-            "title": "Hugh Jackman and wife Deborra-Lee Furness announce separation - CNN",
-            "description": "Hugh Jackman and his wife Deborra-Lee Furness have announced they are separating after 27 years of marriage.",
-            "url": "https://www.cnn.com/2023/09/15/entertainment/hugh-jackman-wife-separate/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230915133510-01-hugh-jackman-deborra-lee-furness-0501.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-15T22:15:00Z",
-            "content": "Hugh Jackman and his wife Deborra-Lee Furness have announced they are separating after 27 years of marriage.\r\nWe have been blessed to share almost 3 decades together as husband and wife in a wonderfu\u2026 [+1087 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Katelyn Polantz",
-            "title": "Special counsel asks judge to limit Trump\u2019s public statements in federal election subversion case - CNN",
-            "description": "Prosecutors want a federal judge to reel in Donald Trump\u2019s public statements in the federal 2020 election interference case, asking US District Judge Tanya Chutkan to place a court order limiting what he can say, according to a newly released filing.",
-            "url": "https://www.cnn.com/2023/09/15/politics/trump-chutkan-witness-harassment/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230911164949-donald-trump-judge-chutkan-091123.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-15T22:05:00Z",
-            "content": "Justice Department prosecutors want US District Judge Tanya Chutkan to reel in Donald Trumps public statements in the federal 2020 election interference case against him, asking her to place a court \u2026 [+4068 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Ali Bauman, Tim McNicholas",
-            "title": "1-year-old boy dead, 3 other children hospitalized after incident in the Bronx - CBS New York",
-            "description": "Police were called to the location on Morris Avenue for reports of children in cardiac arrest.",
-            "url": "https://www.cbsnews.com/newyork/news/bronx-day-care-child-death/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/15/7f335399-9a8f-42c6-840a-ba17def973ab/thumbnail/1200x630/c7d9704ac22e244f099b153a2e50fbf5/bronx-babies-injured-5p-wcbs7wmh-hi-res-still.jpg?v=6616762727d81e1cb010134e0c556e29",
-            "publishedAt": "2023-09-15T21:15:00Z",
-            "content": "NEW YORK -- A 1-year-old boy has died and three other children were rushed to a local hospital after an incident in the\u00a0Bronx\u00a0on Friday.\r\nOne 2-year-old boy is in very critical condition, while anoth\u2026 [+2019 chars]"
+            "author": "Adam Pourahmadi, Sarah El Sirgany, Jomana Karadsheh",
+            "title": "One year since Mahsa Amini\u2019s death, a protester shot in the eye during Iran\u2019s crackdown continues her struggle from exile - CNN",
+            "description": "Elahe Tavakolian\u2019s shooter was so close, she could see him pointing his gun at her.",
+            "url": "https://www.cnn.com/2023/09/16/middleeast/iran-mahsa-amini-anniversary-protester-mime-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230914130952-03-elahe-tavakolian.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-16T08:38:00Z",
+            "content": "Editors Note: A version of this story appears in CNNs Meanwhile in the Middle East newsletter, a three-times-a-week look inside the regions biggest stories. Sign up here.\r\nElahe Tavakolians shooter w\u2026 [+8525 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Tim Craig",
-            "title": "Michigan jury acquits three men in plot to kidnap Gov. Gretchen Whitmer - The Washington Post",
-            "description": "The plot, which FBI informants helped disrupt, involved plans to capture Whitmer (D) at her home, detonate a bridge and ignite an armed rebellion ahead of the 2020 presidential election.",
-            "url": "https://www.washingtonpost.com/nation/2023/09/15/gretchen-whitmer-kidnapping-aquittal/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WK7ZS2CKPFHENC5GFXXRROMC7Y.JPG&w=1440",
-            "publishedAt": "2023-09-15T21:09:00Z",
-            "content": "Comment on this story\r\nComment\r\nA Michigan jury acquitted three men on Friday of state charges related to the plot to kidnap Gov. Gretchen Whitmer in 2020, capping multiple legal proceedings that cen\u2026 [+3595 chars]"
+            "author": "Kelsey Ables",
+            "title": "Ukraine live briefing: 3 nations block Ukrainian grain; Kim Jong Un views missiles in Vladivostok - The Washington Post",
+            "description": "Poland, Hungary and Slovakia imposed import restrictions on Ukrainian grain. North Korea\u2019s leader visited a Russian city near the China-North Korea border.",
+            "url": "https://www.washingtonpost.com/world/2023/09/16/russia-ukraine-war-news/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEE2L7N7ZTGTRX7FZBIAA4A7SQ_size-normalized.JPG&w=1440",
+            "publishedAt": "2023-09-16T07:39:14Z",
+            "content": "The European Commissions block on grain shipments from Ukraine into five bordering European Union nations expired Friday, prompting Poland, Hungary and Slovakia to impose import restrictions of their\u2026 [+5492 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "North Korea's Kim views Russian nuclear-capable bombers, hypersonic missiles - Reuters",
+            "description": "North Korean leader Kim Jong Un inspected Russian nuclear-capable strategic bombers, hypersonic missiles and warships on Saturday, accompanied by President Vladimir Putin's defence minister.",
+            "url": "https://www.reuters.com/world/russia-shows-north-koreas-kim-hypersonic-missiles-strategic-bombers-2023-09-16/",
+            "urlToImage": "https://www.reuters.com/resizer/8dl0N_M59IM-dKQkU5UQIczo7qc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GCAMGX4GCNLCBNJYISXRSVKSUE.jpg",
+            "publishedAt": "2023-09-16T07:03:00Z",
+            "content": "VLADIVOSTOK, Russia, Sept 16 (Reuters) - North Korean leader Kim Jong Un inspected Russian nuclear-capable strategic bombers, hypersonic missiles and warships on Saturday, accompanied by President Vl\u2026 [+3394 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "New York Post"
             },
-            "author": "Gene Maddaus",
-            "title": "WGA Meeting With Concerned Showrunners Has Been Postponed - Variety",
-            "description": "A meeting that had been scheduled for today between the leaders of the Writers Guild of America and a group of concerned showrunners has been postponed as the guild prepares to resume contract barg\u2026",
-            "url": "https://variety.com/2023/biz/news/wga-amptp-showrunner-meeting-postponed-1235723812/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2020/07/losangelesvenues232571.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2023-09-15T20:33:00Z",
-            "content": "A meeting that had been scheduled for today between the leaders of the Writers Guild of America and a group of concerned showrunners has been postponed as the guild prepares to resume contract bargai\u2026 [+3032 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WRAL.com"
-            },
-            "author": "Delaney Eyermann",
-            "title": "FAQ: What you need to know about the 2023 COVID vaccine, flu & RSV vaccines - WRAL News",
-            "description": "The FDA approved two new COVID vaccines from Moderna and Pfizer/BioNTech for distribution in Fall 2023. The CDC has recommended the vaccine for all people six months and older.",
-            "url": "https://www.wral.com/story/coronavirus/story/2023-covid-vaccine-FAQ/21046738/",
-            "urlToImage": "https://wwwcache.wral.com/asset/news/local/2023/09/12/21045613/national-cancer-institute-fi3zHLxWrYw-unsplash-DMID1-608p3tajb-600x480.jpg",
-            "publishedAt": "2023-09-15T20:31:21Z",
-            "content": "The Food and Drug Administration has approved two new COVID-19 vaccines from Moderna and Pfizer/BioNTech for distribution. The Centers for Disease Control (CDC) and Prevention recommends the new vacc\u2026 [+3448 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Christina Zdanowicz",
-            "title": "An Arkansas toddler dies of rare brain-eating amoeba infection likely contracted at splash pad - CNN",
-            "description": "An Arkansas toddler died of a rare brain-eating amoeba infection, which was likely contracted at a splash pad at a country club, according to health officials and the county coroner.",
-            "url": "https://www.cnn.com/2023/09/15/health/brain-eating-amoeba-arkansas-death/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230722113942-naegleria-fowleri-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-15T20:29:00Z",
-            "content": "An Arkansas toddler died of a rare brain-eating amoeba infection, which was likely contracted at a splash pad at a country club, according to health officials and the county coroner.\r\nThe victim died\u2026 [+2975 chars]"
+            "author": "Katherine Donlevy",
+            "title": "Seattle cop defends laughing about 'limited value' grad student killed in police car collision - New York Post ",
+            "description": "The Seattle cop who laughed at the death of a graduate student of \u201climited value\u201d who was killed by his speeding colleague defended his callous remarks.",
+            "url": "https://nypost.com/2023/09/16/seattle-cop-daniel-auderer-defends-laughing-about-student-jaahnavi-kandula-killed-by-colleague/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/crash-comp-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-09-16T04:29:00Z",
+            "content": "The Seattle cop who joked about the death of a graduate student who was fatally struck by a police cruiser while crossing the street defended his callous remarks in a statement released Friday.\r\nOffi\u2026 [+4611 chars]"
         },
         {
             "source": {
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Nicole Acevedo, Austin Cope, Julia Ainsley",
-            "title": "Protesters heckle Democrats amid tensions over NYC migrant crisis - NBC News",
-            "description": "Protesters disrupted a press conference Friday hosted by Democratic lawmakers who toured a New York City hotel sheltering migrants as tensions rise over the issue.",
-            "url": "https://www.nbcnews.com/news/latino/protesters-heckle-democrats-tensions-nyc-migrant-crisis-rcna105290",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230915-Adriano-Espaillat-conference-mjf-1337-8ca7ad.jpg",
-            "publishedAt": "2023-09-15T20:28:09Z",
-            "content": "Protesters disrupted a news conference Friday hosted by a delegation of Democratic lawmakers who were touring a New York City hotel that serves as a shelter for recently arrived migrants.\r\nReps. Adri\u2026 [+4946 chars]"
+            "author": "The Associated Press",
+            "title": "Hurricane Lee advances on New England and eastern Canada - NBC News",
+            "description": "Hurricane Lee is projected to be more than 400 miles wide with tropical-storm-force winds when it reaches land Saturday afternoon.",
+            "url": "https://www.nbcnews.com/news/us-news/hurricane-lee-advances-new-england-eastern-canada-rcna105396",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230915-hurricane-lee-ac-1155p-dc4c74.gif",
+            "publishedAt": "2023-09-16T04:22:00Z",
+            "content": "There was little else to be done but wait and worry, and make final preparations as Lee spun about 300 miles southeast of Nantucket, Massachusetts.\r\nIn Bar Harbor, there were only two lobster boats i\u2026 [+3776 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Aaron Rodgers opens up on Achilles injury, says 'anything is possible' regarding return this season - CBS Sports",
-            "description": "'Give me your timetables, give me your doubts, give me your prognostications and then watch what I do,' Rodgers said",
-            "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-opens-up-on-achilles-injury-says-anything-is-possible-regarding-return-this-season/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/06/0ef53913-d578-4fae-a893-a63069d086ef/thumbnail/1200x675/ce3dbb1e39f44f5ec5df5115eabe5b3f/aaron-rodgers-usatsi-2.jpg",
-            "publishedAt": "2023-09-15T20:05:00Z",
-            "content": "New York Jets quarterback Aaron Rodgers suffered an Achilles injury in his first game with his new team on Monday night that will require him to miss the remainder of the 2023 NFL season. Rodgers joi\u2026 [+2417 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Fatima Al-Kassab",
-            "title": "Libya flood survivors describe catastrophic scenes in and near Derna - NPR",
-            "description": "\"They have seen death, not just in their families but within themselves as well,\" a Libyan doctor tells NPR. \"Their souls are crushed, their hope is lost. How can you come back from such a thing?\"",
-            "url": "https://www.npr.org/2023/09/15/1199761659/libya-floods-derna-survivors-deaths",
-            "urlToImage": "https://media.npr.org/assets/img/2023/09/15/gettyimages-1666350487_wide-7ae0e7f9764a2e0c27381098aabe6f7f7dd0f143-s1400-c100.jpg",
-            "publishedAt": "2023-09-15T19:45:00Z",
-            "content": "Search and rescue operations are underway in the region affected by floods due to Storm Daniel in Derna, Libya, Sept. 14.\r\nHamza Al Ahmar/Anadolu Agency via Getty Images\r\nLONDON For Ehdaa Bujeldain, \u2026 [+4956 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Callie Lawson-Freeman",
-            "title": "Alexander Mattison, Vikings, NFLPA address racist messages from fans after 'TNF' loss to Eagles - Yahoo Sports",
-            "description": "\"Under my helmet, I am a human, a father, a son. This is sick,\" Mattison wrote on Instagram.",
-            "url": "https://sports.yahoo.com/alexander-mattison-vikings-nflpa-address-racist-messages-from-fans-after-tnf-loss-to-eagles-190635118.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8ejQs78buSIygm0EJsDbbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/7e272e90-53e4-11ee-af9f-0439089f0882",
-            "publishedAt": "2023-09-15T19:06:35Z",
-            "content": "Running back Alexander Mattison was subject to racist messages from fans after his performance in the Minnesota Vikings' 34-28 loss to the Philadelphia Eagles on Thursday night.\r\nHe ran for 28 yards \u2026 [+2215 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jennifer Hansler",
-            "title": "Biden admin imposes new sanctions on Iran for anniversary of Mahsa Amini\u2019s death - CNN",
-            "description": "The Biden administration on Friday imposed sanctions on more than two dozen Iranian individuals and entities tied to the violent suppression of protests following the death of Mahsa Amini one year ago.",
-            "url": "https://www.cnn.com/2023/09/15/politics/mahsa-amini-anniversary-sanctions/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230716212426-03-iran-morality-police-mahsa-amini-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-15T19:05:00Z",
-            "content": "The Biden administration on Friday imposed sanctions on more than two dozen Iranian individuals and entities tied to the violent suppression of protests following the death of Mahsa Amini one year ag\u2026 [+3507 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Abbey White",
-            "title": "Drew Barrymore Defends Talk Show Return Amid WGA Strike After Growing Criticism: \u201cThere Are Other People\u2019s Jobs on the Line\u201d - Hollywood Reporter",
-            "description": "\"I thought if we could go on during a global pandemic, and everything that the world experienced through 2020, why would this sideline us?\" she said in a new video statement posted to her Instagram on Friday.",
-            "url": "https://www.hollywoodreporter.com/tv/tv-news/drew-barrymore-defends-talk-show-return-strike-1235591766/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/09/Drew-Barrymore-Clooney-Foundation-Carpet-GettyImages-1429052243-H-2023.jpg?w=1024",
-            "publishedAt": "2023-09-15T18:44:21Z",
-            "content": "Drew Barrymore is explaining why she made the controversial decision to return her talk show to production amid the ongoing Writers Guild strike, telling critics in a new video that there\u2019s \u201cnothing \u2026 [+3028 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Dr J.N Pandey",
-            "title": "Aquarius Daily Horoscope Today, September 16, 2023 predicts travelling on cards - Hindustan Times",
-            "description": "Read Aquarius daily horoscope for Sept 15,2023 to know your daily astrological predictions. Minor money issues will be there. | Horoscope",
-            "url": "https://www.hindustantimes.com/astrology/horoscope/aquarius-daily-horoscope-today-september-16-2023-predicts-travelling-on-the-cards-101694788354188.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/15/1600x900/pisces_1690909665904_1694788550006.jpg",
-            "publishedAt": "2023-09-15T18:40:03Z",
-            "content": "Aquarius 20th January to 18th February\r\nDaily Horoscope Prediction says, Do not let your confidence go down\r\nResolve issues in the love life with sincerity today. Professional challenges will not imp\u2026 [+2964 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "title": "The Rock and John Cena highlight wild SmackDown: SmackDown, Sept. 15, 2023 - WWE",
+            "description": "From the return of The Great One to John Cena fighting alongside AJ Styles to repel an attack by Jimmy Uso and Solo Sikoa, relive all the chaotic bedlam from...",
+            "url": "https://www.youtube.com/watch?v=7d-xW-wQJ6s",
+            "urlToImage": "https://i.ytimg.com/vi/7d-xW-wQJ6s/maxresdefault.jpg",
+            "publishedAt": "2023-09-16T04:15:43Z",
+            "content": null
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Adam Rittenberg",
-            "title": "Colorado's Deion Sanders hands sunglasses to commentators, team - ESPN - ESPN",
-            "description": "In response to comments from Colorado State coach Jay Norvell, Colorado coach Deion Sanders handed ESPN commentators and his players pairs of Prime 21 sunglasses from Blenders. The commentators wore them on set.",
-            "url": "https://www.espn.com/college-football/story/_/id/38407014/colorado-deion-sanders-gifts-sunglasses-commentators-team",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0914%2Fr1224347_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-09-15T17:44:00Z",
-            "content": "If Colorado coach Deion Sanders gets his way, everyone around Boulder will be wearing sunglasses for this weekend's Rocky Mountain Showdown with Colorado State.\r\nIn response to comments from Colorado\u2026 [+1742 chars]"
+            "author": "Al Jazeera",
+            "title": "Russian spacecraft with two cosmonauts, US astronaut docks at space station - Al Jazeera English",
+            "description": "The International Space Stations remains a venue for cooperation between the US and Russia amid tension over Ukraine.",
+            "url": "https://www.aljazeera.com/news/2023/9/16/russian-spacecraft-with-two-cosmonauts-us-astronaut-docks-at-space-station",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23258608571100-1694835847.jpg?resize=1200%2C675",
+            "publishedAt": "2023-09-16T04:11:17Z",
+            "content": "Two Russian cosmonauts and an astronaut from the United States have docked with the International Space Station (ISS) after blasting off from Baikonur Cosmodrome in Kazakhstan amid raging tensions be\u2026 [+2834 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "New details in Russian cyber hackers breaching Las Vegas casino systems - WQAD News 8",
+            "description": "The Las Vegas Strip is recovering from a massive cyber attack that wreaked havoc in the city. More news: www.wqad.comSubscribe to WQAD News 8 on YouTube: htt...",
+            "url": "https://www.youtube.com/watch?v=K4izriQe1CQ",
+            "urlToImage": "https://i.ytimg.com/vi/K4izriQe1CQ/hqdefault.jpg",
+            "publishedAt": "2023-09-16T03:38:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Florida Today"
+            },
+            "author": "Rick Neale, Jamie Groh",
+            "title": "Updates: SpaceX Starlink launch on Friday from Cape Canaveral Space Force Station - Florida Today",
+            "description": "Here's everything you need to know about SpaceX's Friday Falcon 9 Starlink mission liftoff from Cape Canaveral Space Force Station.",
+            "url": "https://www.floridatoday.com/story/tech/science/space/2023/09/15/spacex-launch-day-heres-information-on-todays-starlink-launch-from-cape-canaveral-florida/70857611007/",
+            "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2023/09/09/PBRE/70804746007-crb-090823-spacex-1.jpg?crop=3277,1851,x0,y164&width=3200&height=1808&format=pjpg&auto=webp",
+            "publishedAt": "2023-09-16T03:22:30Z",
+            "content": "Update: Liftoff of a SpaceX Falcon 9 with 22 Starlink satellites at 11:38 p.m. EDT Friday from Cape Canaveral Space Force Station in Florida, followed by a drone ship booster landing minutes later.\r\n\u2026 [+5904 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Nick Robertson",
+            "title": "Hawaii governor: Fewer people died in Maui wildfires, number reduced to 97 - The Hill",
+            "description": "Fewer people died in last month\u2019s Maui wildfires than previously believed, Hawaii Gov. Josh Green (D) announced Friday. The death toll was revised to 97 from 115 after federal fire investigators assisted local authorities in identifying remains, Green said. \u201c\u2026",
+            "url": "https://thehill.com/homenews/state-watch/4207758-maui-wildfire-death-toll-reduced-to-97/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/AP23251841292100-e1694832678466.jpg?w=1280",
+            "publishedAt": "2023-09-16T02:52:00Z",
+            "content": "Skip to content\r\nFewer people died in last month\u2019s Maui wildfires than previously believed, Hawaii Gov. Josh Green (D) announced Friday.\r\nThe death toll was revised to 97 from 115 after federal fire \u2026 [+2148 chars]"
         },
         {
             "source": {
@@ -216,51 +138,129 @@
                 "name": "CNN"
             },
             "author": "Eric Bradner",
-            "title": "Texas Senate begins deliberations in impeachment trial for state AG Ken Paxton - CNN",
-            "description": "Texas Attorney General Ken Paxton\u2019s political fate is now in the hands of the state Senate, which began private deliberations in Paxton\u2019s impeachment trial just before noon Central time Friday after House impeachment managers and the attorney general\u2019s defens\u2026",
+            "title": "Texas Senate deliberations in AG Paxton impeachment trial spill into second day - CNN",
+            "description": "Texas Attorney General Ken Paxton\u2019s political fate is in the hands of the state Senate, which will continue private deliberations in the Republican\u2019s impeachment trial Saturday after ending Friday without taking a public vote on 16 articles of impeachment.",
             "url": "https://www.cnn.com/2023/09/15/politics/ken-paxton-impeachment-texas-attorney-general/index.html",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230915112019-01-ken-paxton-impeachment-091523.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-15T17:37:00Z",
-            "content": "Texas Attorney General Ken Paxtons political fate is now in the hands of the state Senate, which began private deliberations in Paxtons impeachment trial just before noon Central time Friday after Ho\u2026 [+5730 chars]"
+            "publishedAt": "2023-09-16T02:44:00Z",
+            "content": "Texas Attorney General Ken Paxtons political fate is in the hands of the state Senate, which will continue private deliberations in the Republicans impeachment trial Saturday after ending Friday with\u2026 [+6014 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "YouTube"
             },
-            "author": "Kate Rogers",
-            "title": "McDonald's franchisee group says new California fast-food bill will cause 'devastating financial blow' - CNBC",
-            "description": "The California fast-food bill will raise the minimum wage for many California workers at fast-food chains to $20 an hour starting April 1.",
-            "url": "https://www.cnbc.com/2023/09/15/mcdonalds-advocacy-group-criticizes-new-california-fast-food-bill.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107219798-1680571378661-gettyimages-1250754548-AA_04042023_1139784.jpeg?v=1694797703&w=1920&h=1080",
-            "publishedAt": "2023-09-15T17:08:23Z",
-            "content": "After California lawmakers passeda landmark fast-food bill, an independent advocacy group of McDonald's owners is pushing back against what it says will be a \"devastating financial blow\" to its franc\u2026 [+6510 chars]"
+            "author": null,
+            "title": "Mexican Independence Day crowds force Chicago street closures - FOX 32 Chicago",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=f78PZAcaVeo",
+            "urlToImage": null,
+            "publishedAt": "2023-09-16T02:22:05Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TCPalm"
+            },
+            "author": "Jennifer Sangalang",
+            "title": "Did anyone win Mega Millions for Friday, September 15, 2023? - TCPalm",
+            "description": "Mega Millions players have a 1 in 302,575,350 chance to match all five white balls plus the gold Mega Ball.",
+            "url": "https://www.tcpalm.com/story/news/2023/09/15/mega-millions-numbers-friday-september-2023-florida-lottery-winner-rollover-claim-california-publix/70861478007/",
+            "urlToImage": "https://www.tcpalm.com/gcdn/presto/2022/07/27/NGAG/1bce4987-f9d4-4a86-8321-c943d6798ffa-IMG_0450.jpg?crop=3023,1701,x0,y497&width=3023&height=1701&format=pjpg&auto=webp",
+            "publishedAt": "2023-09-16T02:06:40Z",
+            "content": "<ul><li>How long does $1.08 billion Powerball have to claim the prize? According to California Lottery, Powerball winners have one year from the date of the draw.</li></ul>Will a $2 Mega Millions tic\u2026 [+13488 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ashley Hume",
+            "title": "Hugh Jackman\u2019s \u2018crush\u2019 on Deborra-lee turned into 27-year romance; star once talked her out of leaving - Fox News",
+            "description": "Hugh Jackman and his wife Deborra-lee Furness are going their separate ways after 27 years together. Here's a look back at their love story.",
+            "url": "https://www.foxnews.com/entertainment/hugh-jackman-crush-deborra-lee-turned-27-year-romance-star-once-talking-her-out-leaving",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/hughdeb.jpg",
+            "publishedAt": "2023-09-16T01:57:00Z",
+            "content": "Hugh Jackman and his wife Deborra-lee Furness have decided to split after 27 years together. Over the years, the couple kept their relationship relatively private, though they have shared glimpses at\u2026 [+10139 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan",
+            "title": "Speculation grows over whereabouts of China\u2019s Defense Minister Li Shangfu - CNN",
+            "description": "China\u2019s Foreign Ministry on Friday skirted questions on the whereabouts of the country\u2019s defense minister, amid mounting speculation the recently promoted general has been placed under investigation.",
+            "url": "https://www.cnn.com/2023/09/15/china/li-shangfu-china-defense-minister-whereabouts-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230603201711-li-shangfu-060123-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-16T01:07:00Z",
+            "content": "Chinas Foreign Ministry on Friday skirted questions on the whereabouts of the countrys defense minister, amid mounting speculation the recently promoted general has been placed under investigation.\r\n\u2026 [+4769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "https://www.facebook.com/kslcom/",
+            "title": "Utah Health panel provides update on latest COVID-19 developments - KSL.com",
+            "description": "The COVID-19 virus keeps changing and cases are on the rise, but Utah doctors say recent developments in the fight against COVID-19 are positive.",
+            "url": "https://www.ksl.com/article/50731494/utah-health-panel-provides-update-on-latest-covid-19-developments",
+            "urlToImage": "https://img.ksl.com/slc/2521/252148/25214832.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2023-09-16T01:02:24Z",
+            "content": "Estimated read time: 3-4\r\n minutes\r\nSALT LAKE CITY The COVID-19 virus keeps changing and cases are on the rise, but Utah doctors say recent developments in the fight against COVID-19 are positive.\r\n\"\u2026 [+2933 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Ali Bauman, Tim McNicholas",
+            "title": "1-year-old boy dead, 3 other children hospitalized after incident at Bronx day care - CBS New York",
+            "description": "Police sources tell us first responders administered Narcan to the children and it worked for at least one of them.",
+            "url": "https://www.cbsnews.com/newyork/news/bronx-day-care-child-death/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/16/712a77dd-e022-4e43-be16-413b64a34479/thumbnail/1200x630/bea447f3201fd2c0db2cec521cf90b89/bauman-6p-pkg-bronx-bab-wcbs7wox-hi-res-still.jpg?v=6616762727d81e1cb010134e0c556e29",
+            "publishedAt": "2023-09-16T00:32:00Z",
+            "content": "NEW YORK -- A 1-year-old boy died and three other children were rushed to a local hospital after an incident at a\u00a0Bronx\u00a0day care Friday.\r\nWe're told day care workers put the children down for a nap F\u2026 [+2028 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "NPR"
             },
-            "author": null,
-            "title": "Wisconsin Republicans try to oust election official, redo maps - NPR",
-            "description": "Two votes in the Wisconsin Capitol Thursday demonstrate Republicans' controversial efforts to shape election rules in the battleground state going into the 2024 election cycle.",
-            "url": "https://www.npr.org/2023/09/15/1199740670/wisconsin-election-battles-protasiewicz-wolfe-republicans",
-            "urlToImage": "https://media.npr.org/assets/img/2023/09/15/gettyimages-1068583426_wide-40fbe11794a8c92fb7d0275a38a49ca88cf0375f-s1400-c100.jpg",
-            "publishedAt": "2023-09-15T17:00:06Z",
-            "content": "The Wisconsin State Capitol in Madison is seen in 2018. Two votes there Thursday are tied to Republican efforts to shape election rules before 2024.\r\nAndy Manis/Getty Images\r\nMADISON, Wis. Two votes \u2026 [+8674 chars]"
+            "author": "",
+            "title": "How investigators cracked the Axie Infinity crypto hack : Planet Money - NPR",
+            "description": "Erin Plante is a private detective who specializes in chasing down stolen cryptocurrency. In March of 2022, she got the biggest assignment of her career: Hackers had broken into an online game called Axie Infinity and made off with over $600 million worth of \u2026",
+            "url": "https://www.npr.org/2023/09/15/1197954055/axie-infinity-north-korea-ronin",
+            "urlToImage": "https://media.npr.org/assets/img/2023/09/15/axie-infinity-north-korea-ronin_wide-92a3742a1da99475de27d0bbfc384d834ff22a63-s1400-c100.png",
+            "publishedAt": "2023-09-16T00:11:27Z",
+            "content": "Erin Plante is a private detective who specializes in chasing down stolen cryptocurrency. In March of 2022, she got the biggest assignment of her career: Hackers had broken into an online game called\u2026 [+1054 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Denver7.com"
             },
-            "author": "Brooke DiPalma",
-            "title": "Planet Fitness stock plunges as CEO abruptly steps down, surprising Wall Street - Yahoo Finance",
-            "description": "Planet Fitness is the latest company to shake up its C-suite.",
-            "url": "https://finance.yahoo.com/news/planet-fitness-stock-plunges-as-ceo-abruptly-steps-down-surprising-wall-street-165959495.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mXDtlUfLAM5.kpsBBmcRHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/98cb4010-18f3-11ed-bfbf-9f5f2c4dc916",
-            "publishedAt": "2023-09-15T16:59:59Z",
-            "content": "Yet another CEO turnover.\r\nOn Friday, Planet Fitness's (PLNT) board announced the decision to \"transition to new leadership,\" resulting in the departure of 30-year company veteran and CEO Chris Ronde\u2026 [+3714 chars]"
+            "author": "Sydney Isenberg",
+            "title": "Coach Prime gifts sunglasses to Buffs, cast of ESPN's 'First Take' after CSU jab - Denver 7 Colorado News",
+            "description": "If there's one thing Deion Sanders can do (and do well), it's capitalize on an opportunity.",
+            "url": "https://www.denver7.com/sports/college-sports/coach-prime-gifts-sunglasses-to-buffs-cast-of-espns-first-take-after-csu-jab",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/4c6326c/2147483647/strip/true/crop/1180x620+0+44/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc8%2F3c%2Fb593ae4e40528f060947fbbdf71f%2Fscreen-shot-2023-09-15-at-5-48-19-pm.png",
+            "publishedAt": "2023-09-15T23:54:28Z",
+            "content": "BOULDER, Colo. If there's one thing Deion Sanders can do (and do well), it's capitalize on an opportunity.\r\nThis Prime-time spin begins with the jab heard 'round the state. Colorado State University \u2026 [+1173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Vlad",
+            "title": "Apple promises software update to lower the iPhone 12's radiation in France - GSMArena.com news - GSMArena.com",
+            "description": "Sales of the iPhone 12 have been banned in France over this exact issue. A couple of days ago, France's National Frequency Agency (ANFR) banned the sale of...",
+            "url": "https://www.gsmarena.com/apple_promises_software_update_to_lower_the_iphone_12s_radiation_in_france-news-59920.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/09/apple-iphone-12-software-update-sar-france/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2023-09-15T23:53:01Z",
+            "content": "A couple of days ago, France's National Frequency Agency (ANFR) banned the sale of the iPhone 12 in the country because it found that the device emits more than the permitted electromagnetic waves ac\u2026 [+1395 chars]"
         }
     ]
 }
