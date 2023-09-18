@@ -1,45 +1,110 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Josh Campbell, Nouran Salahieh",
+            "title": "A Los Angeles sheriff\u2019s deputy was fatally shot inside his patrol car, officials say - CNN",
+            "description": "A Los Angeles County sheriff\u2019s deputy died after he was shot inside his patrol car Saturday evening, authorities said.",
+            "url": "https://www.cnn.com/2023/09/17/us/los-angeles-sheriffs-deputy-shot-palmdale/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230917031838-02-palmdale-officer-shooting-scene.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-17T11:57:00Z",
+            "content": "A Los Angeles County sheriffs deputy died after he was shot inside his patrol car Saturday evening, authorities said. \r\nDeputy Ryan Clinkunbroomer, 30, was found unconscious by a civilian in his patr\u2026 [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Brian Vastag",
+            "title": "Fatigue patient\u2019s case prompts discovery that may help with long covid - The Washington Post",
+            "description": "Her dogged efforts lead to a new scientific discovery that may help many others with chronically fatiguing illnesses, including long covid.",
+            "url": "https://www.washingtonpost.com/health/2023/09/17/fatigue-cfs-longcovid-mitochondria/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QL4MK5TPIJC73HPPBVXXTIMCPI.JPG&w=1440",
+            "publishedAt": "2023-09-17T11:01:16Z",
+            "content": "Comment on this story\r\nComment\r\nAmanda Twinams journey to understand her decades-long fatigue began with a breast cancer diagnosis at age 28. Twinam underwent a mastectomy before enduring chemotherap\u2026 [+8782 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
             },
             "author": null,
-            "title": "Jets QB Aaron Rodgers aims for potential playoff return after innovative surgery on torn Achilles - NFL.com",
-            "description": "New York Jets quarterback Aaron Rodgers is targeting an improbable playoff return from his torn Achilles after undergoing an innovative surgery on Wednesday in Los Angeles, NFL Network Insiders Ian Rapoport and Tom Pelissero report.",
-            "url": "https://www.nfl.com/news/jets-qb-aaron-rodgers-aims-for-potential-playoff-return-after-innovative-surgery",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/nmkqkga2pkjisqv40jeu",
-            "publishedAt": "2023-09-17T00:00:00Z",
-            "content": "\"There's a lot of different ideas about the overall length of the rehab, I think what I'd like to say is, just because nobody's ever done it in a certain way doesn't mean it's not possible,\" Rodgers \u2026 [+2157 chars]"
+            "title": "Democrats tied their fate to public school long ago. They need each other more than ever. - POLITICO",
+            "description": "GOP wins and a crisis in schooling has convinced some Democrats that the Biden administration needs to promote a liberal version of public school choice.",
+            "url": "https://www.politico.com/news/2023/09/17/education-democrats-school-choice-cardona-biden-00116385",
+            "urlToImage": "https://static.politico.com/a6/da/187695f349d9ab5d790cceb2b869/biden-35024.jpg",
+            "publishedAt": "2023-09-17T11:00:00Z",
+            "content": "Weve lost our advantage on education because I think that weve failed to fully acknowledge that choice resonates deeply with families and with voters, said Jorge Elorza, the CEO of Democrats for Educ\u2026 [+6735 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "North Korean leader Kim Jong Un on his way home after trip to Russia's Far East - POLITICO",
+            "description": "His armored train departed to the sound of the Russian patriotic march song \u201cFarewell of Slavianka.\"",
+            "url": "https://www.politico.com/news/2023/09/17/north-korean-leader-kim-jong-un-on-his-way-home-after-concluding-a-trip-to-russias-far-east-00116409",
+            "urlToImage": "https://static.politico.com/f3/df/1b2388d04b78bc5023a55122c82f/koreas-russia-yoon-37495.jpg",
+            "publishedAt": "2023-09-17T10:39:27Z",
+            "content": "Senior officials including Russias Minister of Natural Resources Alexander Kozlov and Primorye regional Gov. Oleg Kozhemyako were present at the ceremony, which featured a Russian military band playi\u2026 [+4997 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Francis X. Rocca",
+            "title": "Wartime Pope Pius XII Knew About Holocaust, Letter Suggests - The Wall Street Journal",
+            "description": "Discovery in recently opened Vatican archives sharpens debate over Pius\u2019s silence on Nazi genocide of Jews",
+            "url": "https://www.wsj.com/world/europe/wartime-pope-pius-xii-knew-about-holocaust-letter-suggests-159856ca",
+            "urlToImage": "https://images.wsj.net/im-853398/social",
+            "publishedAt": "2023-09-17T10:33:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Detroit Free Press"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "How the fentanyl crisis' fourth wave has hit every corner of the US - BBC",
-            "description": "The epidemic's staggering scale and its infiltration of communities across the nation is laid bare in a new study.",
-            "url": "https://www.bbc.com/news/world-us-canada-66826895",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12E1C/production/_131104377_ezgif-2-e321b290b3-nc.png",
-            "publishedAt": "2023-09-16T23:16:46Z",
-            "content": "More Americans than ever are dying from fentanyl overdoses as the fourth wave of the opioid epidemic crashes through every community, in every corner of the country.\r\nIt was six years ago that Kim Bl\u2026 [+7229 chars]"
+            "author": "Jamie L. LaReau",
+            "title": "Here is what Detroit automakers have to give the UAW to get a deal, experts say - Detroit Free Press",
+            "description": "The list of union demands is long and expensive, but getting a deal might be closer at hand than it appears if automakers offer certain things.",
+            "url": "https://www.freep.com/story/money/cars/2023/09/17/what-detroit-3-have-to-give-the-uaw-to-get-a-deal-experts-say/70868385007/",
+            "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2023/09/16/PDTF/70872359007-09152023-uaw-rally-with-sha.jpg?crop=2399,1355,x0,y112&width=2399&height=1355&format=pjpg&auto=webp",
+            "publishedAt": "2023-09-17T10:13:38Z",
+            "content": "The United Auto Workers and the Detroit Three carmakers could get closer to an agreement sooner than it appears if both sides focus on a few key job provisions, according to some industry observers a\u2026 [+10715 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Antarctic sea-ice at 'mind-blowing' low alarms experts - BBC",
-            "description": "Missing winter sea-ice signals changes in Antarctica that could be \"absolute disaster for the world\", scientists say.",
-            "url": "https://www.bbc.com/news/science-environment-66724246",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1316D/production/_131098187_antartic_sea_ice_index_promo_v2.png",
-            "publishedAt": "2023-09-16T23:00:22Z",
-            "content": "The sea-ice surrounding Antarctica is well below any previous recorded winter level, satellite data shows, a worrying new benchmark for a region that once seemed resistant to global warming.\r\n\"It's s\u2026 [+5679 chars]"
+            "author": "James Powel",
+            "title": "iOS 17 release: Apple's new operating system has a lot to offer - USA TODAY",
+            "description": "The newest operating system from Apple, iOS 17, is set to be released Monday. Here's what to know about it.",
+            "url": "https://www.usatoday.com/story/tech/2023/09/17/apple-ios-17-release-what-to-know/70868793007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/13/USAT/70845669007-iphone-standby.JPG?crop=1183,668,x0,y6&width=1183&height=668&format=pjpg&auto=webp",
+            "publishedAt": "2023-09-17T10:09:10Z",
+            "content": "As the tech world moves from the hype of an Apple event to the demands of the pre-order and release cycle, the backbone of the company's tech is set to receive an update.\r\nAfter opening the pre-order\u2026 [+2511 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Anthony Robledo",
+            "title": "Hurricane Lee tracker: Follow the storm's path near New England coast - USA TODAY",
+            "description": "Hurricane Lee has weakened into a post-tropical cyclone as its effects reached land this weekend following a 10-day journey across the Atlantic.",
+            "url": "https://www.usatoday.com/story/news/weather/2023/09/16/hurricane-lee-tracker-new-england-coast/70870716007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/16/USAT/70870726007-ap-tropical-weather.jpg?crop=5611,3170,x0,y285&width=3200&height=1808&format=pjpg&auto=webp",
+            "publishedAt": "2023-09-17T09:44:07Z",
+            "content": "Hurricane Lee has morphed into a post-tropical cyclone as its effects reached land this weekend following a long journey across the Atlantic where it spent several hours at Category 5 status. The sto\u2026 [+1932 chars]"
         },
         {
             "source": {
@@ -47,12 +112,51 @@
                 "name": "Reuters"
             },
             "author": "Reuters",
-            "title": "Plane crash in Brazil's Amazon state leaves 14 dead - Reuters.com",
-            "description": "A plane crash in Brazil's northern Amazon state on Saturday has left 14 dead, the state's governor said.",
-            "url": "https://www.reuters.com/world/americas/plane-crash-brazils-amazon-state-leaves-14-dead-cnn-2023-09-16/",
-            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=157",
-            "publishedAt": "2023-09-16T22:57:00Z",
-            "content": "SAO PAULO, Sept 16 (Reuters) - A plane crash in Brazil's northern Amazon state on Saturday has left 14 dead, the state's governor said.\r\nThe accident took place in the Barcelos province, some 400 km \u2026 [+1007 chars]"
+            "title": "Ukraine drones strike Crimea, Moscow, oil depot, Russia says - Reuters",
+            "description": "Russia said it had thwarted a coordinated Ukrainian attack on Crimea early on Sunday, while drones also targeted Moscow, disrupting air traffic in the capital, and caused a fire at an oil depot in the southwest of the country.",
+            "url": "https://www.reuters.com/world/europe/russia-says-it-thwarted-ukraine-drone-attacks-crimea-2023-09-17/",
+            "urlToImage": "https://www.reuters.com/resizer/GhlvyYM7RlFKAnDt-4jOd4fAWgs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VEN7TEX4VJIFZJVQELYAJWUTH4.jpg",
+            "publishedAt": "2023-09-17T09:27:00Z",
+            "content": "Sept 17 (Reuters) - Russia said it had thwarted a coordinated Ukrainian attack on Crimea early on Sunday, while drones also targeted Moscow, disrupting air traffic in the capital, and caused a fire a\u2026 [+2741 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Dean, Grace Kay",
+            "title": "8 major takeaways from the new book about Elon Musk - Business Insider",
+            "description": "The book had some eye-popping details \u2014 from details on Elon Musk's relationship with his father to his \"hard core\" work ethic and \"demon mode.\"",
+            "url": "https://www.businessinsider.com/new-book-about-elon-musk-walter-isaacson-biography-takeaways-2023-9",
+            "urlToImage": "https://i.insider.com/65034aea992da60019ec9c1b?width=1200&format=jpeg",
+            "publishedAt": "2023-09-17T09:24:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Fourteen killed in plane crash during bad weather in Brazil\u2019s Amazon - Al Jazeera English",
+            "description": "Heavy rainfall and poor visibility likely caused the pilot to misjudge the landing route, officials say.",
+            "url": "https://www.aljazeera.com/news/2023/9/17/fourteen-killed-in-plane-crash-during-bad-weather-in-brazils-amazon",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/BrazilAirplane-1694937550.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-09-17T08:24:09Z",
+            "content": "Fourteen people on a small jet died when the plane crashed in Brazils northern Amazonas state.\r\nThe aircrafts pilot approached the tourist town of Barcelos in heavy rain with low visibility, and appe\u2026 [+1989 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob Hodgetts",
+            "title": "Heatwaves, wildfires, air chaos and overcrowding. How this year\u2019s summer vacations fell apart - CNN",
+            "description": "Summer break should be a chance to kick back and relax. For many travelers this year, it quickly descended into the kind of nightmares you need another break to recover from.",
+            "url": "https://www.cnn.com/travel/2023-summer-from-hell/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908151244-08-tourism-summer-from-hell-2023-uk-air-travel-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-17T07:42:00Z",
+            "content": "From the litany of bad headlines surrounding the world of travel, you could be forgiven thinking its been the summer from hell for vacationers.\r\nEnvironmental disasters, aviation industry mishaps and\u2026 [+10412 chars]"
         },
         {
             "source": {
@@ -60,207 +164,103 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Florida vs. Tennessee live stream, TV channel, watch online, prediction, spread, pick, football game odds - CBS Sports",
-            "description": "The Gators and Volunteers are set for a primetime SEC East showdown on Saturday night in The Swamp",
-            "url": "https://www.cbssports.com/college-football/news/florida-vs-tennessee-live-stream-tv-channel-watch-online-prediction-spread-pick-football-game-odds/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/09/fc120684-a0f3-4596-8694-ca4f7a1c22b5/thumbnail/1200x675/4af3af7c5038c8fabb2478553bae05d3/milton-finished.jpg",
-            "publishedAt": "2023-09-16T22:55:00Z",
-            "content": "Last season,\u00a0Tennessee\u00a0defeated\u00a0Florida\u00a0at Neyland Stadium to snap a five-game losing streak vs. the Gators. On Saturday, the No. 11 Volunteers will attempt to end two decades of misery at Ben Hill G\u2026 [+4638 chars]"
+            "title": "NFL Week 2 odds, picks, best bets, schedule, live stream: Expert selections, teasers, survivor picks and more - CBS Sports",
+            "description": "CBSSports.com and SportsLine break down every single NFL game in Week 2",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-2-odds-picks-best-bets-schedule-live-stream-expert-selections-best-bets-teasers-survivor-picks-and-more/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/15/38008f8b-c235-4df3-b35c-6ace36f760ca/thumbnail/1200x675/63a22b0b6d0abae58fe4f4608aa6e800/burrowravens.jpg",
+            "publishedAt": "2023-09-17T06:53:00Z",
+            "content": "Welcome to Week 2 of the 2023 NFL regular season, where we will discover if our Week 1 overreactions were warranted or not. Will Joe Burrow and the Cincinnati Bengals bounce back after a nightmare st\u2026 [+17768 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "By Robert Ilich, CNN",
-            "title": "United Auto Workers go on strike - CNN",
-            "description": "Labor contracts have expired at America's three unionized automakers, and thousands of autoworkers have walked off the job.",
-            "url": "https://www.cnn.com/business/live-news/ford-uaw-strike-stellantis-09-16-23/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230915115022-06-uaw-autoworkers-strike-wentzville-mo-0915-super-tease.jpg",
-            "publishedAt": "2023-09-16T22:44:00Z",
-            "content": "Time has run out to\u00a0avert a strike\u00a0at Americas unionized automakers.\r\nThe United Auto Workers\u00a0contracts expired at 11:59 pm ET\u00a0on Thursday. The contracts covered 145,000 UAW members at the three comp\u2026 [+3061 chars]"
+            "author": "Ryan Gaydos",
+            "title": "Shedeur Sanders, Colorado dig deep to top Colorado State in heated double overtime victory - Fox News",
+            "description": "Shedeur Sanders and the Colorado Buffaloes needed to dig deep but they somehow pulled off the win over Colorado State, avoiding a massive upset.",
+            "url": "https://www.foxnews.com/sports/shedeur-sanders-colorado-dig-deep-top-colorado-state-heated-double-overtime-victory",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/e5f1b9f0-Shedeur-Sanders2.jpg",
+            "publishedAt": "2023-09-17T06:36:00Z",
+            "content": "Colorado needed to dig deep to come away with a victory against in-state rival Colorado State and the Buffaloes grittiness prevailed behind an epic performance from Shedeur Sanders.\r\nSanders brought \u2026 [+3103 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Ayman Al-Warfali, Ahmed Elumami",
-            "title": "Flood-hit Libyan city facing long recovery as search for missing goes on - Reuters.com",
-            "description": "Residents of Derna in eastern Libya were counting their losses from a flood that devastated swathes of the coastal city as the search for the missing continued on Saturday for a sixth day and more bodies were pulled from the sea.",
-            "url": "https://www.reuters.com/world/africa/flood-hit-libyan-city-counts-losses-search-missing-goes-2023-09-16/",
-            "urlToImage": "https://www.reuters.com/resizer/oCF-t3ofuA2T8OSL1fwaqSjGx3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYRWQIBFJBIRDNLVDJ7SDY2GLM.jpg",
-            "publishedAt": "2023-09-16T22:30:17Z",
-            "content": "DERNA, Libya, Sept 16 (Reuters) - Residents of Derna in eastern Libya were counting their losses from a flood that devastated swathes of the coastal city as the search for the missing continued on Sa\u2026 [+4351 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Alex Sundby",
-            "title": "Lee makes landfall with near-hurricane strength in Canada after moving up Atlantic Ocean - CBS News",
-            "description": "Lee made landfall in the Canadian province of Nova Scotia as a post-tropical cyclone, the U.S. National Hurricane Center said.",
-            "url": "https://www.cbsnews.com/news/hurricane-lee-path-landfall-canada-new-england/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/16/9dcde7be-bd32-4247-b8f0-f025c8f480d5/thumbnail/1200x630g2/9fdc993c02b5a921e79524191037bb2c/hurricane-lee-satellite-20230916-1426.jpg?v=6616762727d81e1cb010134e0c556e29",
-            "publishedAt": "2023-09-16T21:34:00Z",
-            "content": "Lee made landfall with near-hurricane strength in the Canadian province of Nova Scotia on Saturday as a post-tropical cyclone, the U.S. National Hurricane Center said. The storm had maximum sustained\u2026 [+1911 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AL.com"
-            },
-            "author": "Matt Stahl | mstahl@al.com",
-            "title": "Alabama football\u2019s USF game resumes after weather delay due to lightning - AL.com",
-            "description": "Alabama football's game is under a weather delay.",
-            "url": "https://www.al.com/alabamafootball/2023/09/alabama-footballs-usf-game-in-weather-delay-due-to-lightning.html",
-            "urlToImage": "https://www.al.com/resizer/igOGocNRXyi73NhX2WQ07s8vXM4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NF32CH6JWZBRHAGTRLBS2N4M3I.jpg",
-            "publishedAt": "2023-09-16T20:39:00Z",
-            "content": "Alabama footballs game against South Florida in Tampa entered a lightning delay with 12:44 left in the second quarter with the Bulls leading the Crimson Tide 3-0. USF had the ball on its own 31-yard \u2026 [+1261 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Chris Pandolfo, Emily Robertson",
-            "title": "California goes to war with oil and gas giants over climate change 'deception' - Fox Business",
-            "description": "The state of California has filed a lawsuit against major oil and gas companies, alleging the fossil fuel industry has lied about the harms of climate change for decades.",
-            "url": "https://www.foxbusiness.com/politics/california-goes-war-oil-gas-giants-climate-change-deception",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/oil-drilling-gas-companies.jpg?ve=1&tl=1",
-            "publishedAt": "2023-09-16T20:13:57Z",
-            "content": "California Gov. Gavin Newsom slammed oil and gas companies Saturday, accusing industry leaders of \"misleading the public\" about climate change, according to a court filing.\u00a0\r\nNewsom and state Attorne\u2026 [+4334 chars]"
+            "author": "Sebastian Cahill, Hannah Getahun",
+            "title": "Texas Youth Summit announces Lauren Boebert as speaker after 'Beetlejuice' controversy - Business Insider",
+            "description": "The announcement comes amid controversy surrounding Lauren Boebert's behavior Sunday, when she was escorted out of a theater for vaping and bothering other guests.",
+            "url": "https://www.businessinsider.com/texas-youth-summit-lauren-boebert-beetlejuice-christian-values-2023-9",
+            "urlToImage": "https://i.insider.com/6506444fcd637c0019c661bf?width=1200&format=jpeg",
+            "publishedAt": "2023-09-17T05:50:00Z",
+            "content": "A day after Lauren Boebert apologized for her behavior at a Sunday show of \"Beetlejuice\" in Denver, Colorado, a conservative conference announced the representative would speak at their upcoming conv\u2026 [+2193 chars]"
         },
         {
             "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Nadine El-Bawab, Aaron Katersky, Ahmad Hemingway",
-            "title": "1-year-old dies of suspected opioid exposure at NYC day care, 3 others hospitalized: Police - ABC News",
-            "description": "Police are investigating how the children came into contact with opioids.",
-            "url": "https://abcnews.go.com/US/1-year-dies-suspected-opioid-exposure-nyc-daycare/story?id=103248177",
-            "urlToImage": "https://i.abcnewsfe.com/a/273820d6-d4b7-49b4-b2c2-3f1b969ac630/eric-adams-presser-daycare-ht-jt-230916_1694873419043_hpMain_16x9t.jpg?w=992",
-            "publishedAt": "2023-09-16T19:34:56Z",
-            "content": "A 1-year-old boy died and three other children were hospitalized after apparently \"coming into contact with an opioid\" at a home-based child care site in the Bronx on Friday, New York City police sai\u2026 [+2676 chars]"
+            "author": "MICHAEL R. BLOOD Associated Press",
+            "title": "California lawsuit says oil giants deceived public on climate, seeks funds for storm damage - ABC News",
+            "description": "The state of California has filed a lawsuit against some of the world's largest oil and gas companies, claiming they deceived the public about the risks of fossil fuels blamed for climate change-related storms and wildfires that caused billions of doll...",
+            "url": "https://abcnews.go.com/US/wireStory/california-lawsuit-oil-giants-deceived-public-climate-seeks-103253474",
+            "urlToImage": "https://i.abcnewsfe.com/a/429dc639-2479-4969-8642-6fd9acf55b4c/wirestory_212d6d9873352f28094173a1974e3d90_16x9.jpg?w=992",
+            "publishedAt": "2023-09-17T05:37:27Z",
+            "content": "LOS ANGELES -- The state of California filed a lawsuit against some of the worlds largest oil and gas companies, claiming they deceived the public about the risks of fossil fuels now faulted for clim\u2026 [+5264 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Vox"
+                "name": "SpaceNews"
             },
-            "author": "Ellen Ioanes",
-            "title": "What\u2019s behind China\u2019s military officer purge? - Vox.com",
-            "description": "Li Shangfu is the latest officer to fall victim to Xi Jinping\u2019s anti-corruption drive.",
-            "url": "https://www.vox.com/2023/9/16/23876562/china-disappearing-senior-military-officers-li-shangfu-xi-jinping-peoples-liberation-army",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/dleAwX5sDwD3-GUlKYxYNNtd1jw=/0x0:3838x2009/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24927208/1258417354.jpg",
-            "publishedAt": "2023-09-16T19:29:35Z",
-            "content": "Chinas National Defense Minister Li Shangfu has been missing for weeks. Now, hes under investigation for corruption and out of a job a recent trend,as several other government officials have also bee\u2026 [+7588 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Arkansas Gov. Sarah Huckabee Sanders signs law restricting release of her travel, security records - POLITICO",
-            "description": "The law, which took effect immediately, allows the state to wall off details about the security provided the GOP governor and other constitutional officers.",
-            "url": "https://www.politico.com/news/2023/09/16/sarah-huckabee-sanders-records-law-00116402",
-            "urlToImage": "https://static.politico.com/81/38/e6a7bcda41ad96f0377964ca69a4/arkansas-public-records-15473.jpg",
-            "publishedAt": "2023-09-16T19:19:41Z",
-            "content": "We protected the police officers who protect our constitutional officers and my family in keeping their security information and tactics exempt from Freedom of Information Act disclosure, Sanders sai\u2026 [+3647 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Iranian authorities arrest Mahsa Amini's father on anniversary of her death - POLITICO",
-            "description": "After her death in police custody, Amini became the face of an anti-regime movement that protesters have sustained since September of last year",
-            "url": "https://www.politico.com/news/2023/09/16/mahsa-amini-father-arrest-iran-protest-crackdown-00116401",
-            "urlToImage": "https://static.politico.com/3a/bd/2eb876d649d3884a3a40fee1a53e/ap23259608292620-1.jpg",
-            "publishedAt": "2023-09-16T19:05:51Z",
-            "content": "Mahsa Amini, who was 22 at the time of her death, was arrested by the Islamic Republic of Irans so-called morality police for an alleged breach of the countrys compulsory hijab laws and died in polic\u2026 [+3208 chars]"
-        },
-        {
-            "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "Mychal Thompson",
-            "title": "Fans Are Reacting After Halle Berry Called Out Drake For Using Her Image Without Permission - BuzzFeed",
-            "description": "Drake fans did not pass the vibe check \u2014 at all.",
-            "url": "https://www.buzzfeed.com/mychalthompson/halle-berry-drake-album-art-fan-reactions",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-09/16/18/enhanced/c38393fabdfd/original-1219-1694887998-2.jpg?crop=1247:653;3,3%26downsize=1250:*",
-            "publishedAt": "2023-09-16T18:46:58Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Chance Miller",
-            "title": "Apple says iPhone 15 Pro will be 'the best game console' as A17 Pro packs major GPU upgrades - 9to5Mac",
-            "description": "During this week\u2019s iPhone 15 keynote, Apple focused quite a bit on the gaming prowess of its new A17 Pro...",
-            "url": "https://9to5mac.com/2023/09/16/iphone-15-pro-gaming-a17-pro-interview/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iphone-15-pro-gaming@0.5x.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-09-16T18:31:00Z",
-            "content": "During this week\u2019s iPhone 15 keynote, Apple focused quite a bit on the gaming prowess of its new A17 Pro chip. In a new interview with Taylor Lyles at IGN, a trio of Apple executives offer more detai\u2026 [+3989 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foxweather.com"
-            },
-            "author": "Angeli Gabriel, Robert Ray, Michael Estime, Bob Van Dillen, Katie Byrne, Nicole Valdes",
-            "title": "Boat breaks free of moorings as Lee batters New England with damaging wind, waves - Fox Weather ",
-            "description": "FOX Weather continues its on-the-ground coverage of Lee, as the post-tropical cyclone brushes by New England while barreling toward the Maritimes of eastern Canada.",
-            "url": "https://www.foxweather.com/weather-news/lee-impacts-new-england-maine-massachusetts-canada",
-            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/09/1024/512/Screenshot-2023-09-16-at-2.27.46-PM.png?ve=1&tl=1",
-            "publishedAt": "2023-09-16T18:24:44Z",
-            "content": "FOX Weather continues its on-the-ground coverage of Lee, as the post-tropical cyclone brushes by New England while barreling toward the Maritimes of eastern Canada.\r\nCorrespondent Robert Ray reported\u2026 [+3405 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Jeanne Whalen, Lauren Kaori Gurley",
-            "title": "UAW leaders and automakers return to the bargaining table - The Washington Post",
-            "description": "The union and companies remain far apart on pay and benefits in their weeks-long contract negotiations.",
-            "url": "https://www.washingtonpost.com/business/2023/09/16/uaw-strike-updates/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWFSADSJPAI43UGWOCJNITUG2E_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-09-16T17:45:21Z",
-            "content": "Comment on this story\r\nComment\r\nAs the United Auto Workers strike against the Big Three automakers entered a second day, the parties returned to the bargaining table Saturday.\r\nThe UAW said it had re\u2026 [+5266 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Charline Charles",
-            "title": "\u2018Ring of fire\u2019 solar eclipse in October: When and where to see it - The Hill",
-            "description": "A \u201cring of fire\u201d solar eclipse will be visible in parts of the United States and Mexico next month, according to NASA.",
-            "url": "https://thehill.com/homenews/space/4206313-ring-of-fire-solar-eclipse-in-october-when-and-where-to-see-it/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/GettyImages-1190486853-e1694885585405.jpg?w=1280",
-            "publishedAt": "2023-09-16T17:33:00Z",
-            "content": "Skip to content\r\nNEW YORK (WPIX) \u2013 A \u201cring of fire\u201d solar eclipse will be visible in parts of the United States and Mexico next month, according to NASA.\r\nOn Oct. 14, the annular solar eclipse will b\u2026 [+754 chars]"
+            "author": "Jeff Foust",
+            "title": "New ISS crew arrives on Soyuz - SpaceNews",
+            "description": "A Soyuz spacecraft delivered a new crew to the International Space Station Sept. 15 as NASA and Roscosmos updated plans for later missions.",
+            "url": "https://spacenews.com/new-iss-crew-arrives-on-soyuz/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/09/53191330465_0f0ab0016a_k.jpg",
+            "publishedAt": "2023-09-17T05:33:51Z",
+            "content": "BRUSSELS A Soyuz spacecraft delivered a new crew to the International Space Station Sept. 15 as NASA and Roscosmos updated plans for later missions.\r\nA Soyuz-2.1a rocket lifted off from the Baikonur \u2026 [+3117 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Kaitlin Reilly",
-            "title": "Hugh Jackman and Deborra-lee Furness split after 27 years of marriage. A look back on their 'honest' and 'exhilarating' relationship. - Yahoo Entertainment",
-            "description": "The couple, who often gushed about one another in interviews and on social media, was married for 27 years and share two children.",
-            "url": "https://www.yahoo.com/entertainment/hugh-jackman-deborra-lee-furness-breakup-divorce-details-164548587.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gwqgbO3Jq2xlLh.06yu2qQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/369894d0-2f03-11ed-977f-ee3cb4554757",
-            "publishedAt": "2023-09-16T17:32:53Z",
-            "content": "After a year of surprising celebrity breakups, one of Hollywoods enduring couples is now calling it quits. Hugh Jackman, 54, and wife Deborra-lee Furness, 67, are separating after 27 years of marriag\u2026 [+6181 chars]"
+            "author": "Kevin Iole",
+            "title": "Noche UFC: Alexa Grasso retains title via split draw in instant classic vs. Valentina Shevchenko - Yahoo Sports",
+            "description": "Grasso and Shevchenko put on an epic battle Saturday for the UFC women\u2019s flyweight title in the main event of Noche UFC.",
+            "url": "https://sports.yahoo.com/noche-ufc-alexa-grasso-retains-title-via-split-draw-in-instant-classic-vs-valentina-shevchenko-050802897.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QUAcSDR9Szwem6hmWkiL4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDc-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/7bdb11a0-5516-11ee-b9fb-a812b44ad670",
+            "publishedAt": "2023-09-17T05:08:00Z",
+            "content": "Alexa Grasso and Valentina Shevchenko fought to a split draw Saturday in the main event of Noche UFC inside T-Mobile Arena in Las Vegas. (Photo by Chris Unger/Zuffa LLC via Getty Images)\r\nLAS VEGAS A\u2026 [+1486 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Sunday, September 17, 2023 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2023/9/17/23862430/horoscopes-today-sunday-september-17-2023",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/99d20e7/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FAoIXsaZq17DfJkViS3ay_syJw8s%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24902339%2FGeorgia_mug.jpeg",
+            "publishedAt": "2023-09-17T05:01:36Z",
+            "content": "Moon Alert\r\nAvoid shopping or important decisions after 8 p.m. Chicago time. After that, the moon moves from Libra into Scorpio.\r\nAries (March 21-April 19)\r\nYou might feel pressured by someone. You m\u2026 [+3767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Patrick Reilly",
+            "title": "Bronx day care center owner, neighbor charged in 1-year-old's death after possible fentanyl exposure - New York Post ",
+            "description": "The owner of the Bronx day care center where a 1-year-old boy died after being exposed to what may have been fentanyl on Friday was charged Saturday night.",
+            "url": "https://nypost.com/2023/09/17/nyc-day-care-center-owner-neighbor-charged-in-1-year-olds-death-after-possible-fentanyl-exposure/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/NYPICHPDPICT000039683348.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-09-17T04:34:00Z",
+            "content": "The owner of the Bronx day care center where a 1-year-old boy died after being exposed to what may have been fentanyl on Friday was charged Saturday night with murder along with her neighbor, police \u2026 [+3596 chars]"
         }
     ]
 }
