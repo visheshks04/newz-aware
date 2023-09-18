@@ -1,32 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "nfl-news",
+                "name": "NFL News"
             },
-            "author": "Adam Pourahmadi, Sarah El Sirgany, Jomana Karadsheh",
-            "title": "One year since Mahsa Amini\u2019s death, a protester shot in the eye during Iran\u2019s crackdown continues her struggle from exile - CNN",
-            "description": "Elahe Tavakolian\u2019s shooter was so close, she could see him pointing his gun at her.",
-            "url": "https://www.cnn.com/2023/09/16/middleeast/iran-mahsa-amini-anniversary-protester-mime-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230914130952-03-elahe-tavakolian.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-16T08:38:00Z",
-            "content": "Editors Note: A version of this story appears in CNNs Meanwhile in the Middle East newsletter, a three-times-a-week look inside the regions biggest stories. Sign up here.\r\nElahe Tavakolians shooter w\u2026 [+8525 chars]"
+            "author": null,
+            "title": "Jets QB Aaron Rodgers aims for potential playoff return after innovative surgery on torn Achilles - NFL.com",
+            "description": "New York Jets quarterback Aaron Rodgers is targeting an improbable playoff return from his torn Achilles after undergoing an innovative surgery on Wednesday in Los Angeles, NFL Network Insiders Ian Rapoport and Tom Pelissero report.",
+            "url": "https://www.nfl.com/news/jets-qb-aaron-rodgers-aims-for-potential-playoff-return-after-innovative-surgery",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/nmkqkga2pkjisqv40jeu",
+            "publishedAt": "2023-09-17T00:00:00Z",
+            "content": "\"There's a lot of different ideas about the overall length of the rehab, I think what I'd like to say is, just because nobody's ever done it in a certain way doesn't mean it's not possible,\" Rodgers \u2026 [+2157 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Kelsey Ables",
-            "title": "Ukraine live briefing: 3 nations block Ukrainian grain; Kim Jong Un views missiles in Vladivostok - The Washington Post",
-            "description": "Poland, Hungary and Slovakia imposed import restrictions on Ukrainian grain. North Korea\u2019s leader visited a Russian city near the China-North Korea border.",
-            "url": "https://www.washingtonpost.com/world/2023/09/16/russia-ukraine-war-news/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEE2L7N7ZTGTRX7FZBIAA4A7SQ_size-normalized.JPG&w=1440",
-            "publishedAt": "2023-09-16T07:39:14Z",
-            "content": "The European Commissions block on grain shipments from Ukraine into five bordering European Union nations expired Friday, prompting Poland, Hungary and Slovakia to impose import restrictions of their\u2026 [+5492 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "How the fentanyl crisis' fourth wave has hit every corner of the US - BBC",
+            "description": "The epidemic's staggering scale and its infiltration of communities across the nation is laid bare in a new study.",
+            "url": "https://www.bbc.com/news/world-us-canada-66826895",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12E1C/production/_131104377_ezgif-2-e321b290b3-nc.png",
+            "publishedAt": "2023-09-16T23:16:46Z",
+            "content": "More Americans than ever are dying from fentanyl overdoses as the fourth wave of the opioid epidemic crashes through every community, in every corner of the country.\r\nIt was six years ago that Kim Bl\u2026 [+7229 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Antarctic sea-ice at 'mind-blowing' low alarms experts - BBC",
+            "description": "Missing winter sea-ice signals changes in Antarctica that could be \"absolute disaster for the world\", scientists say.",
+            "url": "https://www.bbc.com/news/science-environment-66724246",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1316D/production/_131098187_antartic_sea_ice_index_promo_v2.png",
+            "publishedAt": "2023-09-16T23:00:22Z",
+            "content": "The sea-ice surrounding Antarctica is well below any previous recorded winter level, satellite data shows, a worrying new benchmark for a region that once seemed resistant to global warming.\r\n\"It's s\u2026 [+5679 chars]"
         },
         {
             "source": {
@@ -34,233 +47,220 @@
                 "name": "Reuters"
             },
             "author": "Reuters",
-            "title": "North Korea's Kim views Russian nuclear-capable bombers, hypersonic missiles - Reuters",
-            "description": "North Korean leader Kim Jong Un inspected Russian nuclear-capable strategic bombers, hypersonic missiles and warships on Saturday, accompanied by President Vladimir Putin's defence minister.",
-            "url": "https://www.reuters.com/world/russia-shows-north-koreas-kim-hypersonic-missiles-strategic-bombers-2023-09-16/",
-            "urlToImage": "https://www.reuters.com/resizer/8dl0N_M59IM-dKQkU5UQIczo7qc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GCAMGX4GCNLCBNJYISXRSVKSUE.jpg",
-            "publishedAt": "2023-09-16T07:03:00Z",
-            "content": "VLADIVOSTOK, Russia, Sept 16 (Reuters) - North Korean leader Kim Jong Un inspected Russian nuclear-capable strategic bombers, hypersonic missiles and warships on Saturday, accompanied by President Vl\u2026 [+3394 chars]"
+            "title": "Plane crash in Brazil's Amazon state leaves 14 dead - Reuters.com",
+            "description": "A plane crash in Brazil's northern Amazon state on Saturday has left 14 dead, the state's governor said.",
+            "url": "https://www.reuters.com/world/americas/plane-crash-brazils-amazon-state-leaves-14-dead-cnn-2023-09-16/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=157",
+            "publishedAt": "2023-09-16T22:57:00Z",
+            "content": "SAO PAULO, Sept 16 (Reuters) - A plane crash in Brazil's northern Amazon state on Saturday has left 14 dead, the state's governor said.\r\nThe accident took place in the Barcelos province, some 400 km \u2026 [+1007 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "CBS Sports"
             },
-            "author": "Katherine Donlevy",
-            "title": "Seattle cop defends laughing about 'limited value' grad student killed in police car collision - New York Post ",
-            "description": "The Seattle cop who laughed at the death of a graduate student of \u201climited value\u201d who was killed by his speeding colleague defended his callous remarks.",
-            "url": "https://nypost.com/2023/09/16/seattle-cop-daniel-auderer-defends-laughing-about-student-jaahnavi-kandula-killed-by-colleague/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/crash-comp-1.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2023-09-16T04:29:00Z",
-            "content": "The Seattle cop who joked about the death of a graduate student who was fatally struck by a police cruiser while crossing the street defended his callous remarks in a statement released Friday.\r\nOffi\u2026 [+4611 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "The Associated Press",
-            "title": "Hurricane Lee advances on New England and eastern Canada - NBC News",
-            "description": "Hurricane Lee is projected to be more than 400 miles wide with tropical-storm-force winds when it reaches land Saturday afternoon.",
-            "url": "https://www.nbcnews.com/news/us-news/hurricane-lee-advances-new-england-eastern-canada-rcna105396",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230915-hurricane-lee-ac-1155p-dc4c74.gif",
-            "publishedAt": "2023-09-16T04:22:00Z",
-            "content": "There was little else to be done but wait and worry, and make final preparations as Lee spun about 300 miles southeast of Nantucket, Massachusetts.\r\nIn Bar Harbor, there were only two lobster boats i\u2026 [+3776 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "The Rock and John Cena highlight wild SmackDown: SmackDown, Sept. 15, 2023 - WWE",
-            "description": "From the return of The Great One to John Cena fighting alongside AJ Styles to repel an attack by Jimmy Uso and Solo Sikoa, relive all the chaotic bedlam from...",
-            "url": "https://www.youtube.com/watch?v=7d-xW-wQJ6s",
-            "urlToImage": "https://i.ytimg.com/vi/7d-xW-wQJ6s/maxresdefault.jpg",
-            "publishedAt": "2023-09-16T04:15:43Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Russian spacecraft with two cosmonauts, US astronaut docks at space station - Al Jazeera English",
-            "description": "The International Space Stations remains a venue for cooperation between the US and Russia amid tension over Ukraine.",
-            "url": "https://www.aljazeera.com/news/2023/9/16/russian-spacecraft-with-two-cosmonauts-us-astronaut-docks-at-space-station",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23258608571100-1694835847.jpg?resize=1200%2C675",
-            "publishedAt": "2023-09-16T04:11:17Z",
-            "content": "Two Russian cosmonauts and an astronaut from the United States have docked with the International Space Station (ISS) after blasting off from Baikonur Cosmodrome in Kazakhstan amid raging tensions be\u2026 [+2834 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "New details in Russian cyber hackers breaching Las Vegas casino systems - WQAD News 8",
-            "description": "The Las Vegas Strip is recovering from a massive cyber attack that wreaked havoc in the city. More news: www.wqad.comSubscribe to WQAD News 8 on YouTube: htt...",
-            "url": "https://www.youtube.com/watch?v=K4izriQe1CQ",
-            "urlToImage": "https://i.ytimg.com/vi/K4izriQe1CQ/hqdefault.jpg",
-            "publishedAt": "2023-09-16T03:38:05Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Florida Today"
-            },
-            "author": "Rick Neale, Jamie Groh",
-            "title": "Updates: SpaceX Starlink launch on Friday from Cape Canaveral Space Force Station - Florida Today",
-            "description": "Here's everything you need to know about SpaceX's Friday Falcon 9 Starlink mission liftoff from Cape Canaveral Space Force Station.",
-            "url": "https://www.floridatoday.com/story/tech/science/space/2023/09/15/spacex-launch-day-heres-information-on-todays-starlink-launch-from-cape-canaveral-florida/70857611007/",
-            "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2023/09/09/PBRE/70804746007-crb-090823-spacex-1.jpg?crop=3277,1851,x0,y164&width=3200&height=1808&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-16T03:22:30Z",
-            "content": "Update: Liftoff of a SpaceX Falcon 9 with 22 Starlink satellites at 11:38 p.m. EDT Friday from Cape Canaveral Space Force Station in Florida, followed by a drone ship booster landing minutes later.\r\n\u2026 [+5904 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Nick Robertson",
-            "title": "Hawaii governor: Fewer people died in Maui wildfires, number reduced to 97 - The Hill",
-            "description": "Fewer people died in last month\u2019s Maui wildfires than previously believed, Hawaii Gov. Josh Green (D) announced Friday. The death toll was revised to 97 from 115 after federal fire investigators assisted local authorities in identifying remains, Green said. \u201c\u2026",
-            "url": "https://thehill.com/homenews/state-watch/4207758-maui-wildfire-death-toll-reduced-to-97/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/AP23251841292100-e1694832678466.jpg?w=1280",
-            "publishedAt": "2023-09-16T02:52:00Z",
-            "content": "Skip to content\r\nFewer people died in last month\u2019s Maui wildfires than previously believed, Hawaii Gov. Josh Green (D) announced Friday.\r\nThe death toll was revised to 97 from 115 after federal fire \u2026 [+2148 chars]"
+            "author": "",
+            "title": "Florida vs. Tennessee live stream, TV channel, watch online, prediction, spread, pick, football game odds - CBS Sports",
+            "description": "The Gators and Volunteers are set for a primetime SEC East showdown on Saturday night in The Swamp",
+            "url": "https://www.cbssports.com/college-football/news/florida-vs-tennessee-live-stream-tv-channel-watch-online-prediction-spread-pick-football-game-odds/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/09/fc120684-a0f3-4596-8694-ca4f7a1c22b5/thumbnail/1200x675/4af3af7c5038c8fabb2478553bae05d3/milton-finished.jpg",
+            "publishedAt": "2023-09-16T22:55:00Z",
+            "content": "Last season,\u00a0Tennessee\u00a0defeated\u00a0Florida\u00a0at Neyland Stadium to snap a five-game losing streak vs. the Gators. On Saturday, the No. 11 Volunteers will attempt to end two decades of misery at Ben Hill G\u2026 [+4638 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Eric Bradner",
-            "title": "Texas Senate deliberations in AG Paxton impeachment trial spill into second day - CNN",
-            "description": "Texas Attorney General Ken Paxton\u2019s political fate is in the hands of the state Senate, which will continue private deliberations in the Republican\u2019s impeachment trial Saturday after ending Friday without taking a public vote on 16 articles of impeachment.",
-            "url": "https://www.cnn.com/2023/09/15/politics/ken-paxton-impeachment-texas-attorney-general/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230915112019-01-ken-paxton-impeachment-091523.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-16T02:44:00Z",
-            "content": "Texas Attorney General Ken Paxtons political fate is in the hands of the state Senate, which will continue private deliberations in the Republicans impeachment trial Saturday after ending Friday with\u2026 [+6014 chars]"
+            "author": "By Robert Ilich, CNN",
+            "title": "United Auto Workers go on strike - CNN",
+            "description": "Labor contracts have expired at America's three unionized automakers, and thousands of autoworkers have walked off the job.",
+            "url": "https://www.cnn.com/business/live-news/ford-uaw-strike-stellantis-09-16-23/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230915115022-06-uaw-autoworkers-strike-wentzville-mo-0915-super-tease.jpg",
+            "publishedAt": "2023-09-16T22:44:00Z",
+            "content": "Time has run out to\u00a0avert a strike\u00a0at Americas unionized automakers.\r\nThe United Auto Workers\u00a0contracts expired at 11:59 pm ET\u00a0on Thursday. The contracts covered 145,000 UAW members at the three comp\u2026 [+3061 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": null,
-            "title": "Mexican Independence Day crowds force Chicago street closures - FOX 32 Chicago",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=f78PZAcaVeo",
-            "urlToImage": null,
-            "publishedAt": "2023-09-16T02:22:05Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TCPalm"
-            },
-            "author": "Jennifer Sangalang",
-            "title": "Did anyone win Mega Millions for Friday, September 15, 2023? - TCPalm",
-            "description": "Mega Millions players have a 1 in 302,575,350 chance to match all five white balls plus the gold Mega Ball.",
-            "url": "https://www.tcpalm.com/story/news/2023/09/15/mega-millions-numbers-friday-september-2023-florida-lottery-winner-rollover-claim-california-publix/70861478007/",
-            "urlToImage": "https://www.tcpalm.com/gcdn/presto/2022/07/27/NGAG/1bce4987-f9d4-4a86-8321-c943d6798ffa-IMG_0450.jpg?crop=3023,1701,x0,y497&width=3023&height=1701&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-16T02:06:40Z",
-            "content": "<ul><li>How long does $1.08 billion Powerball have to claim the prize? According to California Lottery, Powerball winners have one year from the date of the draw.</li></ul>Will a $2 Mega Millions tic\u2026 [+13488 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ashley Hume",
-            "title": "Hugh Jackman\u2019s \u2018crush\u2019 on Deborra-lee turned into 27-year romance; star once talked her out of leaving - Fox News",
-            "description": "Hugh Jackman and his wife Deborra-lee Furness are going their separate ways after 27 years together. Here's a look back at their love story.",
-            "url": "https://www.foxnews.com/entertainment/hugh-jackman-crush-deborra-lee-turned-27-year-romance-star-once-talking-her-out-leaving",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/hughdeb.jpg",
-            "publishedAt": "2023-09-16T01:57:00Z",
-            "content": "Hugh Jackman and his wife Deborra-lee Furness have decided to split after 27 years together. Over the years, the couple kept their relationship relatively private, though they have shared glimpses at\u2026 [+10139 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nectar Gan",
-            "title": "Speculation grows over whereabouts of China\u2019s Defense Minister Li Shangfu - CNN",
-            "description": "China\u2019s Foreign Ministry on Friday skirted questions on the whereabouts of the country\u2019s defense minister, amid mounting speculation the recently promoted general has been placed under investigation.",
-            "url": "https://www.cnn.com/2023/09/15/china/li-shangfu-china-defense-minister-whereabouts-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230603201711-li-shangfu-060123-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-16T01:07:00Z",
-            "content": "Chinas Foreign Ministry on Friday skirted questions on the whereabouts of the countrys defense minister, amid mounting speculation the recently promoted general has been placed under investigation.\r\n\u2026 [+4769 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "https://www.facebook.com/kslcom/",
-            "title": "Utah Health panel provides update on latest COVID-19 developments - KSL.com",
-            "description": "The COVID-19 virus keeps changing and cases are on the rise, but Utah doctors say recent developments in the fight against COVID-19 are positive.",
-            "url": "https://www.ksl.com/article/50731494/utah-health-panel-provides-update-on-latest-covid-19-developments",
-            "urlToImage": "https://img.ksl.com/slc/2521/252148/25214832.jpg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2023-09-16T01:02:24Z",
-            "content": "Estimated read time: 3-4\r\n minutes\r\nSALT LAKE CITY The COVID-19 virus keeps changing and cases are on the rise, but Utah doctors say recent developments in the fight against COVID-19 are positive.\r\n\"\u2026 [+2933 chars]"
+            "author": "Ayman Al-Warfali, Ahmed Elumami",
+            "title": "Flood-hit Libyan city facing long recovery as search for missing goes on - Reuters.com",
+            "description": "Residents of Derna in eastern Libya were counting their losses from a flood that devastated swathes of the coastal city as the search for the missing continued on Saturday for a sixth day and more bodies were pulled from the sea.",
+            "url": "https://www.reuters.com/world/africa/flood-hit-libyan-city-counts-losses-search-missing-goes-2023-09-16/",
+            "urlToImage": "https://www.reuters.com/resizer/oCF-t3ofuA2T8OSL1fwaqSjGx3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYRWQIBFJBIRDNLVDJ7SDY2GLM.jpg",
+            "publishedAt": "2023-09-16T22:30:17Z",
+            "content": "DERNA, Libya, Sept 16 (Reuters) - Residents of Derna in eastern Libya were counting their losses from a flood that devastated swathes of the coastal city as the search for the missing continued on Sa\u2026 [+4351 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Ali Bauman, Tim McNicholas",
-            "title": "1-year-old boy dead, 3 other children hospitalized after incident at Bronx day care - CBS New York",
-            "description": "Police sources tell us first responders administered Narcan to the children and it worked for at least one of them.",
-            "url": "https://www.cbsnews.com/newyork/news/bronx-day-care-child-death/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/16/712a77dd-e022-4e43-be16-413b64a34479/thumbnail/1200x630/bea447f3201fd2c0db2cec521cf90b89/bauman-6p-pkg-bronx-bab-wcbs7wox-hi-res-still.jpg?v=6616762727d81e1cb010134e0c556e29",
-            "publishedAt": "2023-09-16T00:32:00Z",
-            "content": "NEW YORK -- A 1-year-old boy died and three other children were rushed to a local hospital after an incident at a\u00a0Bronx\u00a0day care Friday.\r\nWe're told day care workers put the children down for a nap F\u2026 [+2028 chars]"
+            "author": "Alex Sundby",
+            "title": "Lee makes landfall with near-hurricane strength in Canada after moving up Atlantic Ocean - CBS News",
+            "description": "Lee made landfall in the Canadian province of Nova Scotia as a post-tropical cyclone, the U.S. National Hurricane Center said.",
+            "url": "https://www.cbsnews.com/news/hurricane-lee-path-landfall-canada-new-england/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/16/9dcde7be-bd32-4247-b8f0-f025c8f480d5/thumbnail/1200x630g2/9fdc993c02b5a921e79524191037bb2c/hurricane-lee-satellite-20230916-1426.jpg?v=6616762727d81e1cb010134e0c556e29",
+            "publishedAt": "2023-09-16T21:34:00Z",
+            "content": "Lee made landfall with near-hurricane strength in the Canadian province of Nova Scotia on Saturday as a post-tropical cyclone, the U.S. National Hurricane Center said. The storm had maximum sustained\u2026 [+1911 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "AL.com"
             },
-            "author": "",
-            "title": "How investigators cracked the Axie Infinity crypto hack : Planet Money - NPR",
-            "description": "Erin Plante is a private detective who specializes in chasing down stolen cryptocurrency. In March of 2022, she got the biggest assignment of her career: Hackers had broken into an online game called Axie Infinity and made off with over $600 million worth of \u2026",
-            "url": "https://www.npr.org/2023/09/15/1197954055/axie-infinity-north-korea-ronin",
-            "urlToImage": "https://media.npr.org/assets/img/2023/09/15/axie-infinity-north-korea-ronin_wide-92a3742a1da99475de27d0bbfc384d834ff22a63-s1400-c100.png",
-            "publishedAt": "2023-09-16T00:11:27Z",
-            "content": "Erin Plante is a private detective who specializes in chasing down stolen cryptocurrency. In March of 2022, she got the biggest assignment of her career: Hackers had broken into an online game called\u2026 [+1054 chars]"
+            "author": "Matt Stahl | mstahl@al.com",
+            "title": "Alabama football\u2019s USF game resumes after weather delay due to lightning - AL.com",
+            "description": "Alabama football's game is under a weather delay.",
+            "url": "https://www.al.com/alabamafootball/2023/09/alabama-footballs-usf-game-in-weather-delay-due-to-lightning.html",
+            "urlToImage": "https://www.al.com/resizer/igOGocNRXyi73NhX2WQ07s8vXM4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NF32CH6JWZBRHAGTRLBS2N4M3I.jpg",
+            "publishedAt": "2023-09-16T20:39:00Z",
+            "content": "Alabama footballs game against South Florida in Tampa entered a lightning delay with 12:44 left in the second quarter with the Bulls leading the Crimson Tide 3-0. USF had the ball on its own 31-yard \u2026 [+1261 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Denver7.com"
+                "name": "Fox Business"
             },
-            "author": "Sydney Isenberg",
-            "title": "Coach Prime gifts sunglasses to Buffs, cast of ESPN's 'First Take' after CSU jab - Denver 7 Colorado News",
-            "description": "If there's one thing Deion Sanders can do (and do well), it's capitalize on an opportunity.",
-            "url": "https://www.denver7.com/sports/college-sports/coach-prime-gifts-sunglasses-to-buffs-cast-of-espns-first-take-after-csu-jab",
-            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/4c6326c/2147483647/strip/true/crop/1180x620+0+44/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc8%2F3c%2Fb593ae4e40528f060947fbbdf71f%2Fscreen-shot-2023-09-15-at-5-48-19-pm.png",
-            "publishedAt": "2023-09-15T23:54:28Z",
-            "content": "BOULDER, Colo. If there's one thing Deion Sanders can do (and do well), it's capitalize on an opportunity.\r\nThis Prime-time spin begins with the jab heard 'round the state. Colorado State University \u2026 [+1173 chars]"
+            "author": "Chris Pandolfo, Emily Robertson",
+            "title": "California goes to war with oil and gas giants over climate change 'deception' - Fox Business",
+            "description": "The state of California has filed a lawsuit against major oil and gas companies, alleging the fossil fuel industry has lied about the harms of climate change for decades.",
+            "url": "https://www.foxbusiness.com/politics/california-goes-war-oil-gas-giants-climate-change-deception",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/oil-drilling-gas-companies.jpg?ve=1&tl=1",
+            "publishedAt": "2023-09-16T20:13:57Z",
+            "content": "California Gov. Gavin Newsom slammed oil and gas companies Saturday, accusing industry leaders of \"misleading the public\" about climate change, according to a court filing.\u00a0\r\nNewsom and state Attorne\u2026 [+4334 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Nadine El-Bawab, Aaron Katersky, Ahmad Hemingway",
+            "title": "1-year-old dies of suspected opioid exposure at NYC day care, 3 others hospitalized: Police - ABC News",
+            "description": "Police are investigating how the children came into contact with opioids.",
+            "url": "https://abcnews.go.com/US/1-year-dies-suspected-opioid-exposure-nyc-daycare/story?id=103248177",
+            "urlToImage": "https://i.abcnewsfe.com/a/273820d6-d4b7-49b4-b2c2-3f1b969ac630/eric-adams-presser-daycare-ht-jt-230916_1694873419043_hpMain_16x9t.jpg?w=992",
+            "publishedAt": "2023-09-16T19:34:56Z",
+            "content": "A 1-year-old boy died and three other children were hospitalized after apparently \"coming into contact with an opioid\" at a home-based child care site in the Bronx on Friday, New York City police sai\u2026 [+2676 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "GSMArena.com"
+                "name": "Vox"
             },
-            "author": "Vlad",
-            "title": "Apple promises software update to lower the iPhone 12's radiation in France - GSMArena.com news - GSMArena.com",
-            "description": "Sales of the iPhone 12 have been banned in France over this exact issue. A couple of days ago, France's National Frequency Agency (ANFR) banned the sale of...",
-            "url": "https://www.gsmarena.com/apple_promises_software_update_to_lower_the_iphone_12s_radiation_in_france-news-59920.php",
-            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/09/apple-iphone-12-software-update-sar-france/-952x498w6/gsmarena_000.jpg",
-            "publishedAt": "2023-09-15T23:53:01Z",
-            "content": "A couple of days ago, France's National Frequency Agency (ANFR) banned the sale of the iPhone 12 in the country because it found that the device emits more than the permitted electromagnetic waves ac\u2026 [+1395 chars]"
+            "author": "Ellen Ioanes",
+            "title": "What\u2019s behind China\u2019s military officer purge? - Vox.com",
+            "description": "Li Shangfu is the latest officer to fall victim to Xi Jinping\u2019s anti-corruption drive.",
+            "url": "https://www.vox.com/2023/9/16/23876562/china-disappearing-senior-military-officers-li-shangfu-xi-jinping-peoples-liberation-army",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/dleAwX5sDwD3-GUlKYxYNNtd1jw=/0x0:3838x2009/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24927208/1258417354.jpg",
+            "publishedAt": "2023-09-16T19:29:35Z",
+            "content": "Chinas National Defense Minister Li Shangfu has been missing for weeks. Now, hes under investigation for corruption and out of a job a recent trend,as several other government officials have also bee\u2026 [+7588 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Arkansas Gov. Sarah Huckabee Sanders signs law restricting release of her travel, security records - POLITICO",
+            "description": "The law, which took effect immediately, allows the state to wall off details about the security provided the GOP governor and other constitutional officers.",
+            "url": "https://www.politico.com/news/2023/09/16/sarah-huckabee-sanders-records-law-00116402",
+            "urlToImage": "https://static.politico.com/81/38/e6a7bcda41ad96f0377964ca69a4/arkansas-public-records-15473.jpg",
+            "publishedAt": "2023-09-16T19:19:41Z",
+            "content": "We protected the police officers who protect our constitutional officers and my family in keeping their security information and tactics exempt from Freedom of Information Act disclosure, Sanders sai\u2026 [+3647 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Iranian authorities arrest Mahsa Amini's father on anniversary of her death - POLITICO",
+            "description": "After her death in police custody, Amini became the face of an anti-regime movement that protesters have sustained since September of last year",
+            "url": "https://www.politico.com/news/2023/09/16/mahsa-amini-father-arrest-iran-protest-crackdown-00116401",
+            "urlToImage": "https://static.politico.com/3a/bd/2eb876d649d3884a3a40fee1a53e/ap23259608292620-1.jpg",
+            "publishedAt": "2023-09-16T19:05:51Z",
+            "content": "Mahsa Amini, who was 22 at the time of her death, was arrested by the Islamic Republic of Irans so-called morality police for an alleged breach of the countrys compulsory hijab laws and died in polic\u2026 [+3208 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Mychal Thompson",
+            "title": "Fans Are Reacting After Halle Berry Called Out Drake For Using Her Image Without Permission - BuzzFeed",
+            "description": "Drake fans did not pass the vibe check \u2014 at all.",
+            "url": "https://www.buzzfeed.com/mychalthompson/halle-berry-drake-album-art-fan-reactions",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-09/16/18/enhanced/c38393fabdfd/original-1219-1694887998-2.jpg?crop=1247:653;3,3%26downsize=1250:*",
+            "publishedAt": "2023-09-16T18:46:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Apple says iPhone 15 Pro will be 'the best game console' as A17 Pro packs major GPU upgrades - 9to5Mac",
+            "description": "During this week\u2019s iPhone 15 keynote, Apple focused quite a bit on the gaming prowess of its new A17 Pro...",
+            "url": "https://9to5mac.com/2023/09/16/iphone-15-pro-gaming-a17-pro-interview/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iphone-15-pro-gaming@0.5x.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-09-16T18:31:00Z",
+            "content": "During this week\u2019s iPhone 15 keynote, Apple focused quite a bit on the gaming prowess of its new A17 Pro chip. In a new interview with Taylor Lyles at IGN, a trio of Apple executives offer more detai\u2026 [+3989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foxweather.com"
+            },
+            "author": "Angeli Gabriel, Robert Ray, Michael Estime, Bob Van Dillen, Katie Byrne, Nicole Valdes",
+            "title": "Boat breaks free of moorings as Lee batters New England with damaging wind, waves - Fox Weather ",
+            "description": "FOX Weather continues its on-the-ground coverage of Lee, as the post-tropical cyclone brushes by New England while barreling toward the Maritimes of eastern Canada.",
+            "url": "https://www.foxweather.com/weather-news/lee-impacts-new-england-maine-massachusetts-canada",
+            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/09/1024/512/Screenshot-2023-09-16-at-2.27.46-PM.png?ve=1&tl=1",
+            "publishedAt": "2023-09-16T18:24:44Z",
+            "content": "FOX Weather continues its on-the-ground coverage of Lee, as the post-tropical cyclone brushes by New England while barreling toward the Maritimes of eastern Canada.\r\nCorrespondent Robert Ray reported\u2026 [+3405 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jeanne Whalen, Lauren Kaori Gurley",
+            "title": "UAW leaders and automakers return to the bargaining table - The Washington Post",
+            "description": "The union and companies remain far apart on pay and benefits in their weeks-long contract negotiations.",
+            "url": "https://www.washingtonpost.com/business/2023/09/16/uaw-strike-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWFSADSJPAI43UGWOCJNITUG2E_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-09-16T17:45:21Z",
+            "content": "Comment on this story\r\nComment\r\nAs the United Auto Workers strike against the Big Three automakers entered a second day, the parties returned to the bargaining table Saturday.\r\nThe UAW said it had re\u2026 [+5266 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Charline Charles",
+            "title": "\u2018Ring of fire\u2019 solar eclipse in October: When and where to see it - The Hill",
+            "description": "A \u201cring of fire\u201d solar eclipse will be visible in parts of the United States and Mexico next month, according to NASA.",
+            "url": "https://thehill.com/homenews/space/4206313-ring-of-fire-solar-eclipse-in-october-when-and-where-to-see-it/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/GettyImages-1190486853-e1694885585405.jpg?w=1280",
+            "publishedAt": "2023-09-16T17:33:00Z",
+            "content": "Skip to content\r\nNEW YORK (WPIX) \u2013 A \u201cring of fire\u201d solar eclipse will be visible in parts of the United States and Mexico next month, according to NASA.\r\nOn Oct. 14, the annular solar eclipse will b\u2026 [+754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Kaitlin Reilly",
+            "title": "Hugh Jackman and Deborra-lee Furness split after 27 years of marriage. A look back on their 'honest' and 'exhilarating' relationship. - Yahoo Entertainment",
+            "description": "The couple, who often gushed about one another in interviews and on social media, was married for 27 years and share two children.",
+            "url": "https://www.yahoo.com/entertainment/hugh-jackman-deborra-lee-furness-breakup-divorce-details-164548587.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gwqgbO3Jq2xlLh.06yu2qQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/369894d0-2f03-11ed-977f-ee3cb4554757",
+            "publishedAt": "2023-09-16T17:32:53Z",
+            "content": "After a year of surprising celebrity breakups, one of Hollywoods enduring couples is now calling it quits. Hugh Jackman, 54, and wife Deborra-lee Furness, 67, are separating after 27 years of marriag\u2026 [+6181 chars]"
         }
     ]
 }
