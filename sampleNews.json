@@ -1,58 +1,136 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": "Sammy Westfall, Lyric Li",
-            "title": "Who was Hardeep Singh Nijjar, the Sikh activist killed in Canada? - The Washington Post",
-            "description": "Canada has alleged that the Indian government was involved in the fatal shooting of the prominent Sikh leader, who supported an independent homeland in Punjab.",
-            "url": "https://www.washingtonpost.com/world/2023/09/19/who-is-hardeep-singh-nijjar-sikh-canada-killed/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFKATLQ57DLZEZKAZ4SKNYXPTA.JPG&w=1440",
-            "publishedAt": "2023-09-19T12:27:00Z",
-            "content": "Canada says it is pursuing credible allegations that tie agents of the Indian government to the fatal shooting of prominent Sikh leader Hardeep Singh Nijjar in June, Prime Minister Justin Trudeau tol\u2026 [+332 chars]"
+            "author": null,
+            "title": "'Trump scooped us': Dems sound alarm on Biden's handling of the auto worker strike - POLITICO",
+            "description": "Donald Trump\u2019s decision to head to Detroit for a speech next week is setting off alarms among some Joe Biden allies.",
+            "url": "https://www.politico.com/news/2023/09/19/trump-biden-uaw-strike-00116928",
+            "urlToImage": "https://static.politico.com/9f/56/723290e644c4bbf14ae3a4873cb4/auto-workers-strike-55578.jpg",
+            "publishedAt": "2023-09-19T23:17:30Z",
+            "content": "A union adviser, speaking on condition of anonymity in order to offer a blunt evaluation, said Trump is still himself and will say and do crazy shit. But, the person added, he actually has people who\u2026 [+6280 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jeremy Herb",
+            "title": "Zelensky urges Trump to share Ukraine peace plan but says he won\u2019t give territory to Russia - CNN",
+            "description": "Volodymyr Zelensky urged Donald Trump to share his peace plans publicly if the former US president has a way to end the war between Ukraine and Russia \u2013 but the Ukrainian president cautioned in an interview Tuesday that any peace plan where Ukraine gives up t\u2026",
+            "url": "https://www.cnn.com/2023/09/19/politics/zelensky-ukraine-russia-congress-trump-cnntv/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230919171412-01-wolf-blitzer-zelensky-091923-interview.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-19T23:02:00Z",
+            "content": "Volodymyr Zelensky urged Donald Trump to share his peace plans publicly if the former US president has a way to end the war between Ukraine and Russia but the Ukrainian president cautioned in an inte\u2026 [+5650 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Shohei Ohtani has elbow surgery, expects to hit in '24, pitch in '25 - ESPN - ESPN",
+            "description": "Shohei Ohtani had elbow surgery Tuesday, and his doctor said he expects the Angels' two-way star will be available as a hitter on Opening Day next season and will return to the mound as a pitcher in 2025.",
+            "url": "https://www.espn.com/mlb/story/_/id/38441820/los-angeles-angels-shohei-ohtani-elbow-procedure",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0919%2Fr1226960_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-09-19T22:02:00Z",
+            "content": "Sep 19, 2023, 06:02 PM ET\r\nST. PETERSBURG, Fla. -- Los Angeles Angels star Shohei Ohtani had elbow surgery Tuesday, and his doctor said he expects the two-way star will be available as a hitter on Op\u2026 [+2027 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "WABC-TV"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Five Americans freed in Iran prisoner swap land in US - BBC",
-            "description": "The four men and one woman return to the US after $6bn of frozen Iranian funds were released.",
-            "url": "https://www.bbc.com/news/world-us-canada-66850811",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11FD2/production/_131128637_e6ee4a28170caa44ebd2db38cccf2079583078910_0_1731_11541000x667.jpg",
-            "publishedAt": "2023-09-19T12:01:12Z",
-            "content": "A plane carrying five Americans jailed in Iran for years has landed in the US after a controversial prisoner swap.\r\nThey touched down in Fort Belvoir, Virginia, just south of Washington DC on Tuesday\u2026 [+3834 chars]"
+            "author": null,
+            "title": "Bronx day care child death: Day care owner, tenant facing federal charges after fentanyl exposure - WABC-TV",
+            "description": "A kilogram of fentanyl was stored on top of children's playmats used for napping at the day care, according to the criminal complaint.",
+            "url": "https://abc7ny.com/bronx-child-killed-day-care-death/13799425/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13801047_091823-wabc-bx-day-care-suspects-img.jpg?w=1600",
+            "publishedAt": "2023-09-19T22:00:55Z",
+            "content": "KINGSBRIDGE, The Bronx (WABC) -- Two people already in custody over the death of a 1-year-old at a Bronx day care are now facing federal charges.\r\nGrei Mendez, the day care owner, and Carlisto Aceved\u2026 [+6136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Vlad",
+            "title": "Google's Bard AI can now connect to Gmail, Google Docs, Maps, Drive, and YouTube - GSMArena.com news - GSMArena.com",
+            "description": "This is now possible through the newly launched Bard Extensions. Google initially unveiled its Bard AI tool as a knee-jerk reaction to the overnight...",
+            "url": "https://www.gsmarena.com/googles_bard_ai_can_now_connect_to_gmail_google_docs_maps_drive_and_youtube-news-59959.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/09/bard-new-features/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2023-09-19T21:59:01Z",
+            "content": "Google initially unveiled its Bard AI tool as a knee-jerk reaction to the overnight popularity gained by ChatGPT earlier this year, but in the meantime the search giant has continued to improve Bard \u2026 [+2118 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters",
-            "title": "Azerbaijan launches military action in Karabakh to disarm Armenians - Reuters",
-            "description": "Azerbaijan launched military action in the Nagorno-Karabakh region, a step that could presage a new war in the volatile area but which Baku said was necessary to restore constitutional order and drive out Armenian military formations.",
-            "url": "https://www.reuters.com/world/azerbaijan-says-six-its-citizens-were-killed-by-land-mines-karabakh-2023-09-19/",
-            "urlToImage": "https://www.reuters.com/resizer/gNn3UHAI9EPfW2fsZ6t3mz6rBZg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LUYKLTRDXNJ7ZDJZVBOBZRRAGI.jpg",
-            "publishedAt": "2023-09-19T11:43:00Z",
-            "content": "BAKU, Sept 19 (Reuters) - Azerbaijan launched military action in the Nagorno-Karabakh region, a step that could presage a new war in the volatile area but which Baku said was necessary to restore con\u2026 [+4428 chars]"
+            "author": "David Morgan, Moira Warburton",
+            "title": "Republican infighting stalls spending bills in US House as shutdown looms - Reuters",
+            "description": "Republicans who control the U.S. House of Representatives failed to advance two spending bills on Tuesday, as party infighting threatened the ability of Congress to fund the government and avert a partial <a href=\"/world/us/us-government-shutdown-what-does-it\u2026",
+            "url": "https://www.reuters.com/world/us/us-house-republicans-delay-initial-vote-short-term-funding-bill-2023-09-19/",
+            "urlToImage": "https://www.reuters.com/resizer/x_-496jZ_YroeTem7ZmIUoNagMY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZP4UPDKTA5KVZFQ3I2ZJWIJHMI.jpg",
+            "publishedAt": "2023-09-19T21:43:00Z",
+            "content": "WASHINGTON, Sept 19 (Reuters) - Republicans who control the U.S. House of Representatives failed to advance two spending bills on Tuesday, as party infighting threatened the ability of Congress to fu\u2026 [+3816 chars]"
         },
         {
             "source": {
-                "id": "engadget",
-                "name": "Engadget"
+                "id": "nbc-news",
+                "name": "NBC News"
             },
-            "author": "Steve Dent",
-            "title": "Leaked Microsoft documents detail 'cloud hybrid' next-gen Xbox for 2028 - Engadget",
-            "description": "A document that's part of a massive Microsoft leak revealed tentative plans for the next-generation Xbox \u2014 what it calls a \"hybrid game platform.\"",
-            "url": "https://www.engadget.com/leaked-microsoft-documents-detail-cloud-hybrid-next-gen-xbox-for-2028-110309102.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Hf30Rv_nAMsRaPF21bxaxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/45ab6160-38bc-11ed-b7e1-12e053cf6616",
-            "publishedAt": "2023-09-19T11:03:10Z",
-            "content": "A massive leak from the FTC v. Microsoft court battle showed Microsoft's roadmap for a mid-generation Xbox Series X console, but that wasn't the only news. The same document also revealed Microsoft's\u2026 [+3299 chars]"
+            "author": "Diana Dasrath, Jamie Knodel",
+            "title": "Bijou Phillips files for divorce from Danny Masterson after rape sentence - NBC News",
+            "description": "LOS ANGELES \u2014 Less than two weeks after her husband was sentenced to 30 years to life in prison for rape, Danny Masterson's wife has filed for divorce.",
+            "url": "https://www.nbcnews.com/news/us-news/danny-masterson-wife-bijou-phillips-divorce-rape-conviction-rcna105920",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230919-Danny-Masterson-Bijou-Phillips-se-522p-0592f3.jpg",
+            "publishedAt": "2023-09-19T21:33:51Z",
+            "content": "LOS ANGELES \u00a0Less than two weeks after her husband was sentenced to 30 years to life in prison for rape, Danny Masterson's wife has filed for divorce. \r\nBijou Phillips, a model and actor who was in t\u2026 [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Here's everything the Fed is expected to do Wednesday - CNBC",
+            "description": "The Federal Reserve concludes its two-day policy meeting Wednesday. Here's what to expect.",
+            "url": "https://www.cnbc.com/2023/09/19/heres-everything-the-fed-is-expected-to-do-wednesday.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107277289-1690396791660-gettyimages-1556768569-AFP_33Q339G.jpeg?v=1695158760&w=1920&h=1080",
+            "publishedAt": "2023-09-19T21:26:00Z",
+            "content": "Federal Reserve Board Chairman Jerome Powell speaks during a news conference following a Federal Open Market Committee meeting, at the Federal Reserve in Washington, DC, on July 26, 2023.\u00a0\r\nAs often \u2026 [+5898 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Nick Chubb out for season: Browns RB options as Kareem Hunt visits, Jerome Ford to be 'featured back' - CBS Sports",
+            "description": "A look at Cleveland's top options to replace Chubb, who suffered a knee injury Monday night",
+            "url": "https://www.cbssports.com/nfl/news/nick-chubb-out-for-season-browns-rb-options-as-kareem-hunt-visits-jerome-ford-to-be-featured-back/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/19/cf1b1b29-f003-45ab-bce4-cfb220a105c4/thumbnail/1200x675/124525514897b3e5391bc3cb178f0304/chubb-g.jpg",
+            "publishedAt": "2023-09-19T21:09:00Z",
+            "content": "Not only did the Cleveland Browns suffer their first defeat of the season Monday night, but they also lost the heart and soul of their offense. During the second quarter of a 26-22 loss to the Pittsb\u2026 [+4139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Group sues West Point, seeking to ban affirmative action in admissions - NPR",
+            "description": "The military has long maintained that the nation's security depends on having a diverse officer corps that is ready to lead an increasingly diverse fighting force.",
+            "url": "https://www.npr.org/2023/09/19/1200400504/west-point-affirmative-action",
+            "urlToImage": "https://media.npr.org/assets/img/2023/09/19/gettyimages-1219637293_wide-2e7155bd146a59062c331552427afafcd1f04006-s1400-c100.jpg",
+            "publishedAt": "2023-09-19T21:05:00Z",
+            "content": "West Point graduating cadets are seen during commencement ceremonies at Plain Parade Field at the United States Military Academy on June 13, 2020, in West Point, N.Y.\r\nJohn Minchillo/Pool/Getty Image\u2026 [+2445 chars]"
         },
         {
             "source": {
@@ -69,198 +147,120 @@
         },
         {
             "source": {
-                "id": "espn",
-                "name": "ESPN"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "NFL Nation",
-            "title": "NFL Week 3 Power Rankings 2023: How all 32 teams stack up - ESPN - ESPN",
-            "description": "Heading into Week 3, there are unlikely 2-0 teams -- and unlikely 0-2 teams. Here's how our experts stack the league in our weekly Power Rankings.",
-            "url": "https://www.espn.com/nfl/story/_/id/38432345/nfl-week-3-power-rankings-poll-2023-plus-contract-situations-watch",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0918%2Fnfl_power3_cr2_16x9.jpg",
-            "publishedAt": "2023-09-19T10:50:00Z",
-            "content": "Week 2 of the NFL regular season was a rebound week for several teams, most notably the Buffalo Bills, Kansas City Chiefs and New York Giants, while others are still struggling to find their footing \u2026 [+24158 chars]"
+            "author": "Kevin Breuninger, Dan Mangan",
+            "title": "Hunter Biden not asking for 'special treatment' in gun case court appearance, lawyer says - CNBC",
+            "description": "Hunter Biden, son of President Joe Biden, will plead not guilty during his initial court appearance on three federal felony gun charges, his attorney said.",
+            "url": "https://www.cnbc.com/2023/09/19/hunter-biden-will-plead-not-guilty-to-gun-charges-lawyer-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107277225-16903934082023-07-26t131903z_2117590321_rc21b2aed5eb_rtrmadp_0_usa-biden-hunter.jpeg?v=1695159918&w=1920&h=1080",
+            "publishedAt": "2023-09-19T20:56:03Z",
+            "content": "Hunter Biden will plead not guilty during his initial court appearance for three federal felony gun charges, his attorney said Tuesday as he denied that the son of President Joe Biden is asking for \"\u2026 [+3159 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "ign",
+                "name": "IGN"
             },
-            "author": "Stephen Grey, Dan Peleschuk",
-            "title": "Graft accusations dog top Zelenskiy aides - Reuters",
-            "description": "In his years as the chief executive of one of Ukraine's biggest construction firms, Oleh Maiboroda kept rolls of dollar bills in a safe behind his desk.",
-            "url": "https://www.reuters.com/world/europe/graft-accusations-dog-top-zelenskiy-aides-2023-09-19/",
-            "urlToImage": "https://www.reuters.com/resizer/139D2jeYZQRfK_Hdl_HFGW4NX4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XIA5ASCZJVNPDJKJMA2S4VYOYA.jpg",
-            "publishedAt": "2023-09-19T10:38:00Z",
-            "content": "VIENNA/KYIV, Sept 19 (Reuters) - In his years as the chief executive of one of Ukraine's biggest construction firms, Oleh Maiboroda kept rolls of dollar bills in a safe behind his desk.\r\nThe money, M\u2026 [+18595 chars]"
+            "author": "Alex Stedman",
+            "title": "Xbox's Phil Spencer Acknowledges Massive Court Document Leak: 'So Much Has Changed' - IGN",
+            "description": "Xbox head Phil Spencer has acknowledged today's massive court document leak, saying it's \"hard to see our team's work shared in this way because so much has changed.\"",
+            "url": "https://www.ign.com/articles/xboxs-phil-spencer-acknowledges-massive-court-document-leak-so-much-has-changed",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/09/19/spencer-1695156371553.jpg?width=1280",
+            "publishedAt": "2023-09-19T20:48:34Z",
+            "content": "Xbox head Phil Spencer has weighed in on the massive leak of documents from June's Microsoft vs. FTC trial, which accidentally exposed tons of plans for both Xbox's hardware future and slate of games\u2026 [+2822 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jon Schuppe, Deon J. Hampton, Daniel Arkin, Brock Stoneham, Carrie Ching, Jake Lubbehusen, Lewis Kamb",
+            "title": "Maui firefighters share harrowing battle against the Lahaina inferno - NBC News",
+            "description": "Maui\u2019s firefighters faced an unprecedented challenge in the Lahaina wildfire: deadly wind-whipped flames they couldn\u2019t defeat. \u201cWe lost to the beast,\u201d one said.",
+            "url": "https://www.nbcnews.com/news/us-news/firefighters-battle-lahaina-maui-fire-rcna105142",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230914-lahaina-firefighters-cover-still-mn-1140-fcaec3.jpg",
+            "publishedAt": "2023-09-19T20:46:34Z",
+            "content": "Through the afternoon and into evening, Kohler and her crewmates chased the fire across the mountainside, in neighborhoods above downtown Lahaina. They hollered at people watering their homes with ga\u2026 [+3394 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "David K. Li, Diana Dasrath",
+            "title": "Vanna White extends 'Wheel of Fortune' contract, will stay on after Pat Sajak departs - NBC News",
+            "description": "Long-time \"Wheel of Fortune\" co-host Vanna White extended her contract and will continue turning letters on the venerable game show until at least the middle of 2026, producers said Tuesday.",
+            "url": "https://www.nbcnews.com/news/us-news/vanna-white-extends-wheel-fortune-contract-will-stay-pat-sajak-departs-rcna105889",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230919-vanna-white-mn-1545-7167e8.jpg",
+            "publishedAt": "2023-09-19T20:12:16Z",
+            "content": "Long-time \"Wheel of Fortune\" co-host Vanna White extended her contract and will continue turning letters on the venerable game show until at least the middle of 2026, producers said Tuesday.\r\nThis 41\u2026 [+1067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Rishi Sunak considers weakening key green policies - BBC",
+            "description": "Plans could include delaying a ban on sales of new petrol cars and the phasing out of gas boilers.",
+            "url": "https://www.bbc.com/news/uk-politics-66857551",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FD91/production/_131131946_sunak_getty.jpg",
+            "publishedAt": "2023-09-19T20:10:43Z",
+            "content": "Rishi Sunak is considering weakening some of the government's key green commitments in a major policy shift.\r\nIt could include delaying a ban on the sales of new petrol and diesel cars and phasing ou\u2026 [+5165 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Hunt",
+            "title": "Rare cache of pink diamonds formed when a supercontinent broke apart, study says - CNN",
+            "description": "Pink diamonds are extremely rare and coveted. But a discovery made in Western Australia near a now-closed mine may help reveal new deposits of the jewels, researchers say.",
+            "url": "https://www.cnn.com/2023/09/19/world/pink-diamonds-ancient-super-continent-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230919113837-02-argyle-diamond-mine-australia.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-19T19:08:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nPink diamonds are extremely rare and coveted a now-clo\u2026 [+3325 chars]"
         },
         {
             "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "Mauro Orru",
-            "title": "Elon Musk Floats Charging Users for X - The Wall Street Journal",
-            "description": "In wide-ranging conversation with Israel\u2019s Netanyahu, he says asking users to pay for service is only way to fight bots",
-            "url": "https://www.wsj.com/tech/elon-musk-floats-charging-users-for-x-b6fb758d",
-            "urlToImage": "https://images.wsj.net/im-854152/social",
-            "publishedAt": "2023-09-19T10:07:00Z",
+            "author": "Jess Bravin",
+            "title": "Russia, Ukraine Clash Over Genocide Charges at World Court - The Wall Street Journal",
+            "description": "International Court of Justice hears arguments on whether Russia\u2019s invasion can be challenged under 1948 treaty",
+            "url": "https://www.wsj.com/world/russia/russia-ukraine-clash-over-genocide-charges-at-world-court-c386b34c",
+            "urlToImage": "https://images.wsj.net/im-854247/social",
+            "publishedAt": "2023-09-19T18:59:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Alexander Osipovich, Candice Choi, Dean Seal, David Marino-Nachison, Hannah Miao, Corrie Driebusch, Margot Patrick, Sam Goldfarb, Angus Berwick, Eric Wallerstein, Chelsey Dulaney, Gunjan Banerji, Rebecca Feng, Heard Editors",
+            "title": "FTX Sues Sam Bankman-Fried's Parents to Recover 'Misappropriated Funds' - The Wall Street Journal",
+            "description": "Live coverage of what's moving stocks and other markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-19-2023",
+            "urlToImage": "https://images.wsj.net/im-785590/social",
+            "publishedAt": "2023-09-19T18:23:00Z",
+            "content": "Stocks slid Tuesday while bond yields climbed to their highest levels since 2007 as the Federal Reserve's two-day September meeting got going.\r\nShares of Amazon.com, one of the biggest stocks in the \u2026 [+1702 chars]"
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "Google's Bard chatbot can now find answers in your Gmail, Docs, Drive - The Verge",
-            "description": "Google is rolling out a host of new features for its Bard AI chatbot, including a new integration that can pull information from Gmail, Docs, Drive, Maps, YouTube, and more.",
-            "url": "https://www.theverge.com/2023/9/19/23878999/google-bard-ai-chatbot-gmail-docs-drive-extensions",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/nPr8_yIiF3ecJ9rKsZWDMQHmTuM=/0x0:1200x628/1200x628/filters:focal(600x314:601x315)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931893/google_bard_extensions.png",
-            "publishedAt": "2023-09-19T10:01:00Z",
-            "content": "Googles Bard chatbot can now find answers in your Gmail, Docs, Drive\r\nGoogles Bard chatbot can now find answers in your Gmail, Docs, Drive\r\n / Googles AI chatbot can now answer questions based on the\u2026 [+3632 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Kayla Tausche, Kevin Liptak, Betsy Klein",
-            "title": "Biden aims to elevate his global agenda at the UN even as key leaders skip the gathering - CNN",
-            "description": "The White House is shrugging off concerns the United Nations General Assembly won\u2019t pack a policy punch this year, with President Joe Biden set to deliver an address Tuesday to an audience missing several key heads of state.",
-            "url": "https://www.cnn.com/2023/09/19/politics/biden-unga-remarks/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230915200813-joe-biden-091423.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-19T09:01:00Z",
-            "content": "The White House is shrugging off concerns the United Nations General Assembly wont pack a policy punch this year, with President Joe Biden set to deliver an address Tuesday to an audience missing sev\u2026 [+6420 chars]"
-        },
-        {
-            "source": {
-                "id": "mashable",
-                "name": "Mashable"
-            },
-            "author": "Mark Kaufman",
-            "title": "NASA spacecraft flies right through sun explosion, captures footage - Mashable",
-            "description": "It survived.",
-            "url": "https://mashable.com/article/sun-solar-ejection-nasa-footage",
-            "urlToImage": "https://helios-i.mashable.com/imagery/articles/062zZLSIVCw1q81MLRVW3Ms/hero-image.fill.size_1200x675.v1695046499.png",
-            "publishedAt": "2023-09-19T09:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Evidence suggests errant Ukrainian missile caused market deaths - New York Times - Reuters",
-            "description": "Evidence suggests a deadly explosion at a busy market in the eastern Ukrainian city of Kostiantynivka this month was caused by an errant missile fired by Ukraine, the New York Times reported on Tuesday.",
-            "url": "https://www.reuters.com/world/europe/evidence-suggests-errant-ukrainian-missile-caused-market-deaths-new-york-times-2023-09-19/",
-            "urlToImage": "https://www.reuters.com/resizer/I4sbUmaoZb_9K0UBgXoQABNDqaY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GHU4UUM7NJLYTNTE6W557AG6TQ.jpg",
-            "publishedAt": "2023-09-19T08:48:00Z",
-            "content": "Sept 19 (Reuters) - Evidence suggests a deadly explosion at a busy market in the eastern Ukrainian city of Kostiantynivka this month was caused by an errant missile fired by Ukraine, the New York Tim\u2026 [+2144 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Amanda Musa",
-            "title": "Proper treatment for hypertension could avert 76 million deaths globally by 2050, WHO says - CNN",
-            "description": "The dangerous effects of high blood pressure are highlighted in a new report by the World Health Organization that identifies the condition as one of the world\u2019s leading risk factors for death and disability.",
-            "url": "https://www.cnn.com/2023/09/19/health/high-blood-pressure-who-report/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/210824203413-blood-pressure-cuff-stock.jpg?q=x_0,y_103,h_1406,w_2500,c_crop/w_800",
-            "publishedAt": "2023-09-19T07:01:00Z",
-            "content": "The dangerous effects of high blood pressure are highlighted in a new report by the World Health Organization that identifies the condition as one of the worlds leading risk factorsfor death and disa\u2026 [+3508 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "DAVID McHUGH",
-            "title": "Once a global ideal, Germany's economy struggles with an energy shock that's exposing longtime flaws - The Associated Press",
-            "description": "Germany racked up one economic success after another for most of this century. But the loss of Russian natural gas due to the war in Ukraine has dealt a severe blow to its industry through higher energy costs. The country will be the world's only major econom\u2026",
-            "url": "https://apnews.com/article/germany-economy-energy-crisis-russia-8a00eebbfab3f20c5c66b1cd85ae84ed",
-            "urlToImage": "https://dims.apnews.com/dims4/default/f7f5798/2147483647/strip/true/crop/6600x3712+0+344/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2Fed%2F53975a9b8326ede399f8e711709c%2F13c6be4f41c647988d3fccace2dc6f6d",
-            "publishedAt": "2023-09-19T06:28:00Z",
-            "content": "ESSEN, Germany (AP) For most of this century, Germany racked up one economic success after another, dominating global markets for high-end products like luxury cars and industrial machinery, selling \u2026 [+8174 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "29-year-old man accused of slaying L.A. deputy is schizophrenic, family says - KTLA 5",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=8HPAm_jsmy0",
-            "urlToImage": null,
-            "publishedAt": "2023-09-19T05:20:51Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Suntimes.com"
-            },
-            "author": "Georgia Nicols",
-            "title": "Horoscope for Tuesday, September 19, 2022 - Chicago Sun-Times",
-            "description": null,
-            "url": "https://chicago.suntimes.com/2023/9/19/23879502/horoscopea-today-tuesday-september-19-2022",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2f83a5c/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FE6iCoXqRFt5w429aI5_0fVGyB9o%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24932669%2FGeorgia_mug.jpeg",
-            "publishedAt": "2023-09-19T05:01:26Z",
-            "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Scorpio.\r\nAries (March 21-April 19)\r\nDouble check details that might be given to you by coworkers or other sou\u2026 [+4173 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Justin Curto",
-            "title": "The Talk, Jennifer Hudson Delay Shows After Drew Barrymore - Vulture",
-            "description": "\u201cThe Talk\u201d and \u201cThe Jennifer Hudson Show\u201d delayed their premieres due to the writers\u2019 strike after \u201cThe Drew Barrymore Show\u201d also paused its new season. \u201cThe View\u201d is still airing without WGA wrtiers and \u201cThe Kelly Clarkson Show\u201d has yet to return.",
-            "url": "http://www.vulture.com/2023/09/the-talk-jennifer-hudson-show-paused-strike.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/849/be7/1743686d760d38e92a20a4494c71a79837-hudson-talk.1x.rsocial.w1200.jpg",
-            "publishedAt": "2023-09-19T04:36:00Z",
-            "content": "Its a little less, well, talk, and a little more action for daytime talk shows supporting the writers strike. After Drew Barrymore decided to pause her talk show until the end of the strike following\u2026 [+1002 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Wayne Sterling, Zoe Sottile",
-            "title": "Michigan State University announces plans to fire Mel Tucker amid sexual harassment allegations - CNN",
-            "description": "Michigan State University intends to fire head football coach Mel Tucker after the coach was accused of sexual harassment, the university announced Monday.",
-            "url": "https://www.cnn.com/2023/09/19/football/mel-tucker-michigan-state-fired/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230918190155-mel-tucker-michigan-state-fired.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-19T04:22:00Z",
-            "content": "Michigan State University intends to fire head football coach Mel Tucker after the coach was accused of sexual harassment, the university announced Monday.\r\nEarlier in September, the university suspe\u2026 [+4645 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Toledo Blade"
-            },
-            "author": null,
-            "title": "Vance: Biden EV agenda threatens U.S. auto industry - Toledo Blade",
-            "description": "The ongoing United Auto Workers strike marks a pivotal moment for the American labor movement. This historic walkout across the Big Three automakers shows ...",
-            "url": "https://www.toledoblade.com/opinion/columnists/2023/09/19/vance-biden-ev-agenda-threatens-us-auto-industry/stories/20230919029",
-            "urlToImage": "https://www.toledoblade.com/image/2023/09/18/600x_q90_a4-3_cTCjpg/Vance06-100522a-3.jpg",
-            "publishedAt": "2023-09-19T04:04:22Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Graham Kates",
-            "title": "Rudy Giuliani sued by longtime former lawyer over alleged unpaid bills - CBS News",
-            "description": "Robert Costello and his firm, Davidoff Hutcher & Citron LLP, allege the former New York City mayor owes them more than $1.3 million.",
-            "url": "https://www.cbsnews.com/news/rudy-giuliani-sued-robert-costello-former-lawyer-unpaid-bills/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/19/bd39b796-1f11-40b3-b3d9-71c5b24f5397/thumbnail/1200x630/1f8f5ea29c6b0a20bb647191a4ea57f1/gettyimages-1634329930.jpg?v=7baa303cd567eeea672118c3d6d2bab4",
-            "publishedAt": "2023-09-19T03:36:00Z",
-            "content": "A lawyer who for years represented Rudy Giuliani in a variety of legal matters sued him on Monday.\r\nRobert Costello and his firm, Davidoff Hutcher &amp; Citron LLP, allege in the suit that the former\u2026 [+3510 chars]"
+            "author": "Chris Welch",
+            "title": "Your iPhone can now restore your Apple TV if the streaming box has problems - The Verge",
+            "description": "Apple is making its Apple TV set-top box easier to service. A new feature lets iPhone owners restore the device in the event that it needs a reset due to software bugs.",
+            "url": "https://www.theverge.com/2023/9/19/23880671/apple-tv-4k-hd-iphone-restore-recovery",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/eUkBiLsG7jUTkwzTxKgG7lvSb3c=/0x0:1215x781/1200x628/filters:focal(608x391:609x392)/cdn.vox-cdn.com/uploads/chorus_asset/file/24934855/tvrestore.jpg",
+            "publishedAt": "2023-09-19T17:33:27Z",
+            "content": "Your iPhone can now restore your Apple TV if the streaming box has problems\r\nYour iPhone can now restore your Apple TV if the streaming box has problems\r\n / No more having to rely on Apple support wh\u2026 [+1780 chars]"
         }
     ]
 }
