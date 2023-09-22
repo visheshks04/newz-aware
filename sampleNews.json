@@ -1,162 +1,136 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Felix Light",
-            "title": "Armenian separatists in Karabakh surrender and agree to ceasefire with Azerbaijan - Reuters",
-            "description": "Armenian separatist forces in Azerbaijan's breakaway region of Nagorno-Karabakh surrendered and agreed to a ceasefire on Wednesday, 24 hours after Baku began an offensive to restore full control of its territory.",
-            "url": "https://www.reuters.com/world/us-calls-azerbaijan-halt-karabakh-attack-russia-urges-return-ceasefire-2023-09-20/",
-            "urlToImage": "https://www.reuters.com/resizer/hwePKCmnZrFDX6-2npTX_C43_FE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VXXG6SWVVITFOHQ52WVNJW2AA.jpg",
-            "publishedAt": "2023-09-20T12:17:18Z",
-            "content": "YEREVAN, Sept 20 (Reuters) - Armenian separatist forces in Azerbaijan's breakaway region of Nagorno-Karabakh surrendered and agreed to a ceasefire on Wednesday, 24 hours after Baku began an offensive\u2026 [+2615 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "NBC Chicago"
             },
-            "author": "Jenni Reid",
-            "title": "Britain set to roll back climate pledges, enraging campaigners and auto groups - CNBC",
-            "description": "The CEO of Ford UK said delaying the ban on new car sales running on petrol and diesel would undermine the government's \"ambition, commitment and consistency.\"",
-            "url": "https://www.cnbc.com/2023/09/20/uk-automakers-hit-back-as-reports-say-pm-sunak-will-dilute-green-policies.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107303515-1695203929853-gettyimages-1566242231-POLITICS.jpeg?v=1695210498&w=1920&h=1080",
-            "publishedAt": "2023-09-20T11:48:18Z",
-            "content": "LONDON U.K.-based industry bodies and automakers on Wednesday criticized British Prime Minister Rishi Sunak, amid reports that he is preparing to dilute several key net-zero climate pledges.\r\nThe BBC\u2026 [+3641 chars]"
+            "author": "Matt Stefanski, NBC Chicago Staff, James Neveau",
+            "title": "Police provide update after family of 4, their 3 dogs found murdered in Romeoville - NBC Chicago",
+            "description": "Police are set to deliver an update Wednesday afternoon on the killing of an Illinois family of four, who were found dead along with their three dogs in a\u2026",
+            "url": "https://www.nbcchicago.com/news/local/live-police-to-update-after-family-of-4-their-3-dogs-found-murdered-in-romeoville/3232428/",
+            "urlToImage": "https://media.nbcchicago.com/2023/09/romeoville-murders.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-09-20T22:03:23Z",
+            "content": "UPDATE: Two suspects in the slaying of the Bartolomei family in Romeoville were found shot in Oklohama, police said Wednesday during a press conference. The latest updates can be found here. Our orig\u2026 [+3550 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Athletic"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Jake Ciely",
-            "title": "Fantasy Football Rankings Week 3: Sleepers, projections, starts, sits | Tony Jones, Josh Reynolds and more - The Athletic",
-            "description": "Jake Ciely offers up his Week 3 player rankings and highlights the numbers you need to know for each matchup of the NFL slate.",
-            "url": "https://theathletic.com/4880188/2023/09/20/fantasy-football-rankings-week-3-sleepers-projections-starts-sits-tony-jones-josh-reynolds-and-more/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/09/19194535/GettyImages-1687139249-scaled.jpg",
-            "publishedAt": "2023-09-20T11:25:32Z",
-            "content": "The first big shakeup has come. Prayers up for Nick Chubb. With Saquon Barkley, Jamaal Williams and more banged-up players making the Week 3 fantasy football rankings more volatile than hoped, its ti\u2026 [+12608 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Hartley Charlton",
-            "title": "iPhone 15 Models Finally Show Battery's Cycle Count - MacRumors",
-            "description": "iPhone 15 users will be able to check their battery's cycle count for the first time, according to information shared on X (formerly Twitter).  ...",
-            "url": "https://www.macrumors.com/2023/09/20/iphone-15-shows-battery-cycle-count/",
-            "urlToImage": "https://images.macrumors.com/t/tAzSFlFjvauEiOvAXdkSj3V-8WY=/1920x/article-new/2023/09/iPhone-15-General-Feature-Black.jpg",
-            "publishedAt": "2023-09-20T11:20:24Z",
-            "content": "iPhone 15 users will be able to check their battery's cycle count for the first time, according to information shared on X (formerly Twitter).\r\nPrevious methods to check an iPhone's battery cycle cou\u2026 [+1904 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Charisse Jones, Medora Lee",
-            "title": "Fed meeting live updates: Will there be another interest rate hike? - USA TODAY",
-            "description": "The Fed is expected to leave its key interest rate unchanged as parts of the economy, from jobs to housing continue to weaken.",
-            "url": "https://www.usatoday.com/story/money/2023/09/20/fed-interest-rates-live-updates/70899903007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/media/2021/09/28/USATODAY/usatsports/247WallSt.com-247WS-962445-imageforentry1-zzl.jpg?crop=1365,768,x0,y0&width=1365&height=768&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-20T10:25:13Z",
-            "content": "The Federal Reserve is expected to hold its key interest rate steady at its meeting on Wednesday, as parts of the economy, from jobs to housing, continue to weaken.\r\nIt would be only the second time \u2026 [+4626 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Deena Zaru, Meredith Deliso",
-            "title": "High school band director speaks out after getting shocked with stun gun by police - ABC News",
-            "description": "Johnny Mims told \"GMA\" that he \"did not deserve to be tased.\"",
-            "url": "https://abcnews.go.com/GMA/News/high-school-band-director-speaks-after-shocked-stun/story?id=103324741",
-            "urlToImage": "https://i.abcnewsfe.com/a/b7004e01-e6d0-48cf-878b-74dd24326d8c/johnny-mims-3-ht-bb-230919_1695140705263_hpMain_16x9.jpg?w=992",
-            "publishedAt": "2023-09-20T10:08:42Z",
-            "content": "Johnny Mims, a band director at Minor High School in Alabama, is accusing Birmingham police of using excessive force against him after he was shocked with a stun gun three times after officers say he\u2026 [+4594 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rochester Democrat and Chronicle"
-            },
-            "author": null,
-            "title": "New COVID vaccine in NY: Coverage delays hurt rollout - Democrat & Chronicle",
-            "description": null,
-            "url": "https://www.democratandchronicle.com/story/news/2023/09/19/new-covid-vaccine-ny-coverage-delays-hurt-rollout/70894146007/",
-            "urlToImage": null,
-            "publishedAt": "2023-09-20T10:04:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Taylor Giorno",
-            "title": "\u2018We\u2019re in the abyss\u2019: How the UAW strike could hit the economy - The Hill",
-            "description": "While the current economic impact of a targeted strike by the United Auto Workers (UAW) is limited, the threat of a full walkout looms over contract negotiations with auto giants Ford, General Motors and Stellantis. Right now, that threat is hard to quantify \u2026",
-            "url": "https://thehill.com/business/4212323-were-in-the-abyss-uaw-strikes-economic-impact-remains-open-question/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/UAWstrike_091523_ap_UAW-progressives.jpeg?w=1280",
-            "publishedAt": "2023-09-20T10:00:00Z",
-            "content": "Skip to content\r\nWhile the current economic impact of a targeted strike by the United Auto Workers (UAW) is limited, the threat of a full walkout looms over contract negotiations with auto giants For\u2026 [+6204 chars]"
+            "author": "Aimee Picchi",
+            "title": "Federal Reserve pauses interest rate hikes \u2014 for now - CBS News",
+            "description": "The central bank is leaving interest rates unchanged after 11 hikes since March 2022, which has boosted borrowing costs for millions of Americans.",
+            "url": "https://www.cbsnews.com/news/federal-reserve-interest-rate-pause/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/05/07b58812-fbf6-4fc6-8305-15fcffa8d577/thumbnail/1200x630/9766ad9775cfe5379e1b954797be12a7/powell-gettyimages-1258939403.jpg?v=8e14bdb7e67d007af3399b47230d2245",
+            "publishedAt": "2023-09-20T21:51:00Z",
+            "content": "The Federal Reserve is pausing its extended campaign against inflation, holding its benchmark interest rate steady and giving borrowers a breather after 11 hikes since March 2022.\u00a0\r\nThe Fed said it w\u2026 [+4408 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Kevin Dotson",
-            "title": "Dartmouth head football coach Buddy Teevens dies six months after being hit by a truck while cycling - CNN",
-            "description": "Dartmouth College\u2019s head football coach Buddy Teevens, 66, died Tuesday of injuries sustained in a\u00a0bicycle accident\u00a0on March 16 in St. Augustine, Florida, the\u00a0Teevens family announced\u00a0in a statement released through the school.",
-            "url": "https://www.cnn.com/2023/09/20/sport/buddy-teevens-death-dartmouth-football-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230920101927-buddy-teevens-death-file-100419.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-20T09:52:00Z",
-            "content": "Dartmouth Colleges head football coach Buddy Teevens, 66, died Tuesday of injuries sustained after being hit by a truck while cycling on March 16 in St. Augustine, Florida, the\u00a0Teevens family announc\u2026 [+2125 chars]"
+            "author": "Kristin Wilson, Morgan Rimmer",
+            "title": "Senate begins moving toward confirmation of key military promotions amid Tuberville holds - CNN",
+            "description": "The Senate has voted to begin moving on the first of three key military promotions, clearing a path for final confirmation of the military\u2019s top officer later Wednesday after being held for months by the objection of one senator.",
+            "url": "https://www.cnn.com/2023/09/20/politics/tommy-tuberville-schumer-nominations-vote/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230920135859-chuck-schumer-tommy-tuberville-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-20T21:48:00Z",
+            "content": "The Senate has voted to begin moving on the first of three key military promotions, clearing a path for final confirmation of the militarys top officer later Wednesday after being held for months by \u2026 [+3555 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lyric Li, Adela Suliman, Ellen Francis, Abigail Hauslohner, Michael Birnbaum, John Hudson, Sarah Dadouch, Naomi Schanen, Robyn Dixon, Karen DeYoung, Serhiy Morgunov, Natalia Abbakumova, Missy Ryan, Alex Horton, Ishaan Tharoor, Olivier Knox, Caroline Anders, Tyler Pager, David L. Stern",
+            "title": "Zelensky urges U.N. Security Council to broaden membership, eliminate Russian veto - The Washington Post",
+            "description": "Russian Foreign Minister Sergei Lavrov, who had been slated to attend, was not in the room when Zelensky spoke.",
+            "url": "https://www.washingtonpost.com/world/2023/09/20/russia-ukraine-war-live-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-20-2023/t_f1a62d68e7cc44d9bffa78dddb59b0fe_name_0920_UN_Z_sec_council_00_17_19_19_Still019.jpg&w=1440",
+            "publishedAt": "2023-09-20T21:36:07Z",
+            "content": "Ukrainian President Volodymyr Zelensky spoke at a special U.N. Security Council session Wednesday on the war ravaging his country. He offered criticism of the United Nations ability to prevent confli\u2026 [+213 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WFTV Orlando"
+                "name": "Variety"
             },
-            "author": "James Tutten",
-            "title": "WATCH: SpaceX launches Falcon 9 rocket from Florida\u2019s Space Coast - WFTV Orlando",
-            "description": "SpaceX launched another Falcon 9 rocket from Florida Space Coast on Tuesday.",
-            "url": "https://www.wftv.com/news/local/happening-today-spacex-set-launch-falcon-9-rocket-cape-canaveral/N6HLEWLJFREUFEFTUC3UX7SAXM/",
-            "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/XfUA9tDsZY6qJO8j0Hz06TZ2hpM=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/E4CZZ5DGAZF7VG7TXWWZIY4XKE.png",
-            "publishedAt": "2023-09-20T09:16:53Z",
-            "content": "BREVARD COUNTY, Fla. \u2014 SpaceX launched another Falcon 9 rocket from Florida Space Coast on Tuesday.\r\nAfter a delay from 10:47 p.m. to 11:48 p.m., SpaceX launched another Falcon 9 rocket from the Cape\u2026 [+935 chars]"
+            "author": "Gene Maddaus",
+            "title": "David Zaslav, Bob Iger, Donna Langley and Ted Sarandos Join WGA Talks as Strike Nears Record Length - Variety",
+            "description": "The Writers Guild of America resumed bargaining with the major studios on Wednesday, as the 142-day writers strike closed in on a record duration. In a break from previous sessions, several top CEO\u2026",
+            "url": "https://variety.com/2023/tv/news/wga-resumes-bargaining-ceos-record-1235729779/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/09/GettyImages-1487367169-e1693963847367.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-09-20T20:53:00Z",
+            "content": "The Writers Guild of America resumed bargaining with the major studios on Wednesday, as the 142-day writers strike closed in on a record duration.\r\nIn a break from previous sessions, several top CEOs\u2026 [+3316 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Teddy Grant",
+            "title": "Asteroid that passes nearby could hit Earth in the future, NASA says - ABC News",
+            "description": "There is a 1 in 2,700 chance the Bennu asteroid could hit Earth by 2182.",
+            "url": "https://abcnews.go.com/US/asteroid-passes-nearby-hit-earth-future-nasa/story?id=103322457",
+            "urlToImage": "https://i.abcnewsfe.com/a/c0132c95-47a4-4c72-b2bc-6eeba593718d/asteroid-bennu-1-ht-gmh-230905_1693946036603_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-09-20T20:33:39Z",
+            "content": "An asteroid NASA's been tracking for nearly 25 years could impact Earth in the future, a new report reveals.\r\nFirst discovered in 1999, Bennu, the near-Earth asteroid, could possibly drift into the p\u2026 [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Anchorage Daily News"
+            },
+            "author": "Will Weissert",
+            "title": "Americans can again order free COVID tests as Biden administration revives program - Anchorage Daily News",
+            "description": "The administration announced that it is providing $600 million in funding to produce new at-home COVID-19 tests and is restarting a website allowing Americans to again order up to four free tests per household.",
+            "url": "https://www.adn.com/nation-world/2023/09/20/americans-can-again-order-free-covid-tests-as-biden-administration-revives-program/",
+            "urlToImage": "https://www.adn.com/resizer//x1J_MrQbAmZGYmu1tGUhK3zHXIw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/X45VDJ5NAZ4FZD53DXWS2TYMZE.jpg",
+            "publishedAt": "2023-09-20T20:29:37Z",
+            "content": "COVID-19 antigen home tests indicate a positive result. The Biden administration has announced that it is providing $600 million in funding to produce new at-home COVID-19 tests and is restarting a w\u2026 [+3701 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Holly Ellyatt",
-            "title": "Ukraine war live updates: Ukrainian and Russian officials face off as Zelenskyy pushes peace plan; Moscow's losses rise in south - CNBC",
-            "description": "Ukrainian President Volodymyr Zelenskyy is due to address the U.N. Security Council on Wednesday.",
-            "url": "https://www.cnbc.com/2023/09/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107303471-1695194157911-gettyimages-1651138172-ukrinform-military230906_npSfp.jpeg?v=1695196098&w=1920&h=1080",
-            "publishedAt": "2023-09-20T09:05:00Z",
-            "content": "U.S. Secretary of Defense Lloyd J. Austin has urged members of the Ukraine Defense Contact Group, an alliance of around 50 countries, to \"continue to dig deep on ground-based air defense for Ukraine.\u2026 [+771 chars]"
+            "author": "Annie Palmer",
+            "title": "Amazon gives Alexa an AI facelift as it launches new smart speakers - CNBC",
+            "description": "Amazon introduced new hardware and software with generative artificial intelligence features on Wednesday.",
+            "url": "https://www.cnbc.com/2023/09/20/amazon-event-2023-heres-everything-the-company-just-announced.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107303841-1695228746907-gettyimages-1677738190-AMAZON_DEVICES.jpeg?v=1695243491&w=1920&h=1080",
+            "publishedAt": "2023-09-20T20:26:42Z",
+            "content": "Amazon introduced a \"smarter and more conversational\" version of its Alexa voice assistant that the company hopes will bolster its position in the tech industry's artificial intelligence race.\r\nThe c\u2026 [+3635 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Courtney Cronin",
+            "title": "Alan Williams resigns as Bears' defensive coordinator - ESPN - ESPN",
+            "description": "Alan Williams has resigned as the Chicago Bears' defensive coordinator.",
+            "url": "https://www.espn.com/nfl/story/_/id/38447917/alan-williams-resigns-bears-defensive-coordinator",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0920%2Fr1227335_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-09-20T20:17:00Z",
+            "content": "LAKE FOREST, Ill. -- Alan Williams has resigned as the Chicago Bears' defensive coordinator, the team announced Wednesday.\r\n\"I am taking a step back to take care of my health and family. I appreciate\u2026 [+1526 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "INSIDER"
+                "name": "Hollywood Reporter"
             },
-            "author": "Kwan Wei Kevin Tan",
-            "title": "Taylor Swift goes to dinner with Sophie Turner after Joe Jonas breakup - Insider",
-            "description": "Turner and Swift, who've both been in relationships with Joe Jonas, went to dinner together in New York on Tuesday.",
-            "url": "https://www.insider.com/taylor-swift-sophie-turner-girl-power-joe-jonas-break-up-2023-9",
-            "urlToImage": "https://i.insider.com/650a8b7e12dc4f001a16fa17?width=1200&format=jpeg",
-            "publishedAt": "2023-09-20T08:03:00Z",
-            "content": "Watch out, Joe Jonas.Taylor Swift and Sophie Turner are hanging out in New York, and doing it in style.\r\nSwift and Turner were spotted having dinner together in New York City on Tuesday night. The pa\u2026 [+2160 chars]"
+            "author": "Winston Cho",
+            "title": "Top Authors Join Lawsuit Against OpenAI Over \u201cMass-Scale Copyright Infringement\u201d of Novels - Hollywood Reporter",
+            "description": "The suit marks the third legal action from authors, who take issue with AI companies using their novels as training data without consent.",
+            "url": "https://www.hollywoodreporter.com/business/business-news/top-authors-join-lawsuit-against-openai-over-mass-scale-copyright-infringement-of-novels-1235595123/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/09/George-R.R.-Martin-and-Jonathan-Franzen-Split-Getty-H-2023.jpg?w=1024",
+            "publishedAt": "2023-09-20T20:16:35Z",
+            "content": "The leading trade group for authors has entered a legal battle against OpenAI over its human-mimicking chatbot in a case that could decide the legality of using copyrighted works to train AI systems.\u2026 [+5425 chars]"
         },
         {
             "source": {
@@ -164,51 +138,103 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Morocco earthquake aftermath: Aid workers face huge challenges - Al Jazeera English",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=zkRRD1HfVHI",
-            "urlToImage": null,
-            "publishedAt": "2023-09-20T06:27:43Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "title": "Rich Eisen Reacts to Bears QB Justin Fields\u2019 Explanation for His Struggles This Season - The Rich Eisen Show",
+            "description": "Rich Eisen and the guys react to Bears QB Justin Fields explanations for his early-season struggles so far.Tune in to the Emmy-nominated Rich Eisen Show live...",
+            "url": "https://www.youtube.com/watch?v=mBrH6a4UkxM",
+            "urlToImage": "https://i.ytimg.com/vi/mBrH6a4UkxM/maxresdefault.jpg",
+            "publishedAt": "2023-09-20T20:00:07Z",
+            "content": null
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Stephanie Nolasco, Ashley Papa",
-            "title": "Prince William's NYC visit is stark contrast to Prince Harry's 'near catastrophic' paparazzi drama - Fox News",
-            "description": "Prince William, heir to the British throne, visited New York City solo for two days. His wife, Kate Middleton, Princess of Wales, stayed in the U.K.",
-            "url": "https://www.foxnews.com/entertainment/prince-williams-nyc-visit-stark-contrast-prince-harrys-near-catastrophic-paparazzi",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Getty_PrinceWilliam_MeghanMarkle_PrinceHarry.jpg",
-            "publishedAt": "2023-09-20T06:00:00Z",
-            "content": "Prince Williams trip to New York City has been called \"class vs. crass\" in comparison to Prince Harry and Meghan Markles last headline-grabbing visit.\r\nThe Prince of Wales was in town Monday and Tues\u2026 [+8709 chars]"
+            "author": "Al Jazeera",
+            "title": "NASA set to deliver biggest asteroid sample yet: What you need to know - Al Jazeera English",
+            "description": "OSIRIS-REx spacecraft is expected to drop 250g of pebbles and dust from asteroid Bennu after seven-year quest.",
+            "url": "https://www.aljazeera.com/news/2023/9/20/nasa-set-to-deliver-biggest-asteroid-sample-yet-what-you-need-to-know",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23262586475819-1695233922.jpg?resize=1200%2C675",
+            "publishedAt": "2023-09-20T19:49:54Z",
+            "content": "Planet Earth is about to receive a special delivery the biggest sample yet from an asteroid.\r\nA United States space agency (NASA) spacecraft will fly by Earth on Sunday and drop off what is expected \u2026 [+5622 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "Neurosciencenews.com"
             },
-            "author": null,
-            "title": "The Search for Dark Matter \u2013 A Promising New Method - SciTechDaily",
-            "description": "Approximately 80% of the universe's matter is composed of a mysterious and unseen substance. This \"dark matter\" was first theorized nearly 90 years ago. \u201cThis was the only way to reconcile the velocity distribution of visible matter within galaxies with exist\u2026",
-            "url": "https://scitechdaily.com/?p=309969",
-            "urlToImage": "https://scitechdaily.com/images/Dark-Matter-Black-Hole-Abstract.jpg",
-            "publishedAt": "2023-09-20T05:10:26Z",
-            "content": "About 80% of the universes matter is an undetected substance called dark matter. While its existence has been theorized for about 90 years, scientists at the JEDI collaboration, using advanced partic\u2026 [+4283 chars]"
+            "author": "Neuroscience News",
+            "title": "Pioneering Biomarker for Resistant Depression Unearthed - Neuroscience News",
+            "description": "Scientists have identified a unique biomarker in the brain that indicates recovery from treatment-resistant depression during deep brain stimulation (DBS).",
+            "url": "https://neurosciencenews.com/treatment-resistant-depression-biomarker-23951/",
+            "urlToImage": "https://neurosciencenews.com/files/2023/09/treatment-resistant-depression-biomarker-neurosinces.jpg",
+            "publishedAt": "2023-09-20T19:36:18Z",
+            "content": "Summary: Scientists have identified a unique biomarker in the brain that indicates recovery from treatment-resistant depression during deep brain stimulation (DBS). This significant discovery provide\u2026 [+10970 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Perry Stein, Devlin Barrett, Jacqueline Alemany, Amy B Wang, Aaron Blake, Missy Khamvongsa, Nick Miroff",
+            "title": "Merrick Garland testifies, faces questions on Hunter Biden, Trump trials: live updates - The Washington Post - The Washington Post",
+            "description": "The divide between Democratic and Republican lawmakers on a range of issues has proved stark in the nearly six-hour session that was been contentious at times.",
+            "url": "https://www.washingtonpost.com/national-security/2023/09/20/merrick-garland-attorney-general-testimony-house-judiciary/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3D7EBL4T7UE375RTBOZSRP2C7Q.jpg&w=1440",
+            "publishedAt": "2023-09-20T19:30:00Z",
+            "content": "House Republicans peppered Attorney General Merrick Garland with criticisms during the nearly six-hour House Judiciary Committee hearing. The divide between Democratic and Republican lawmakers on a r\u2026 [+580 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Canada rejects Indian travel advisory amid probe of Sikh leader killing - Al Jazeera English",
+            "description": "Canada is investigating possible links between the killing of a Sikh leader and India\u2019s government, tanking relations.",
+            "url": "https://www.aljazeera.com/news/2023/9/20/canada-rejects-indian-travel-advisory-amid-probe-of-sikh-leader-killing",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-09-19T042949Z_1199918188_RC29B3AXDRW5_RTRMADP_3_CANADA-INDIA-1695232843.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-09-20T19:27:59Z",
+            "content": "Canada has flatly rejected an Indian travel advisory urging utmost caution when visiting the North American country, in the latest sign of escalating tensions.\r\nOn Wednesday, Canadian Public Safety M\u2026 [+5033 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Stephen Collinson",
-            "title": "The Republican Party infighting is driving America toward a government shutdown - CNN",
-            "description": "The Republican Party\u2019s war on itself has turned its inoperative House majority into a \u201cclown show\u201d and a \u201cdysfunction caucus\u201d and is handing wins to the Chinese Communist Party \u2013 and that\u2019s just what some of its own members say about it.",
-            "url": "https://www.cnn.com/2023/09/20/politics/government-shutdown-house-republicans/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230919173541-kevin-mccarthy-0919.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-20T04:10:00Z",
-            "content": "The Republican Partys war on itself has turned its inoperative House majority into a clown show and a dysfunction caucus and is handing wins to the Chinese Communist Party and thats just what some of\u2026 [+9060 chars]"
+            "author": "Marshall Cohen",
+            "title": "Georgia prosecutors push back against claims of anti-Trump bias at fiery hearing for 3 fake GOP electors - CNN",
+            "description": "Fulton County prosecutors pushed back against what they called \u201cborderline offensive\u201d claims that their 2020 election subversion case was fueled by anti-Donald Trump bias at a court hearing Wednesday for three indicted fake GOP electors.",
+            "url": "https://www.cnn.com/2023/09/20/politics/fake-electors-georgia-removal-hearing/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230919153243-cathy-latham-david-shafer-shawn-still-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-20T19:19:00Z",
+            "content": "Fulton County prosecutors pushed back against what they called borderline offensive claims that their 2020 election subversion case was fueled by anti-Donald Trump bias at a court hearing Wednesday f\u2026 [+5961 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Denny Jacob",
+            "title": "Klaviyo Shares Soar in Debut, Pointing to IPO Resurgence - The Wall Street Journal",
+            "description": "Marketing-automation company is latest sign of an IPO market coming back",
+            "url": "https://www.wsj.com/finance/stocks/klaviyo-shares-surge-in-trading-debut-6928fff2",
+            "urlToImage": "https://images.wsj.net/im-855067/social",
+            "publishedAt": "2023-09-20T19:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GovExec.com"
+            },
+            "author": "Eric Katz",
+            "title": "White House warns of shutdown's impact on feds as GOP struggles to find a clear path forward on spending - GovExec.com",
+            "description": "The House and Senate are both floundering on their efforts to pass funding bills past Sept. 30.",
+            "url": "https://www.govexec.com/management/2023/09/white-house-warns-shutdowns-impact-feds-gop-struggles-find-clear-path-forward-spending/390472/",
+            "urlToImage": "https://cdn.govexec.com/media/img/cd/2023/09/20/09202023Shutdown/open-graph.jpg",
+            "publishedAt": "2023-09-20T19:10:43Z",
+            "content": "House Republicans are struggling to advance any measure that would keep the government open past Sept. 30, spurring the White House to issue a warning about the dire consequences for federal agencies\u2026 [+7407 chars]"
         },
         {
             "source": {
@@ -216,51 +242,25 @@
                 "name": "KCRA Sacramento"
             },
             "author": "Brittany Hope",
-            "title": "A one-on-one interview with Sacramento's district attorney after lawsuit against city - KCRA Sacramento",
+            "title": "A one-on-one interview with Sacramento's District Attorney Thien Ho after lawsuit against city - KCRA Sacramento",
             "description": "After months of back and forth, Sacramento County District Attorney Thien Ho announced Tuesday he is suing the city of Sacramento for its handling of homelessness.",
             "url": "https://www.kcra.com/article/sacramento-district-attorney-lawsuit-interview/45213255",
             "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/thien-ho-650a641c4fb91.jpg?crop=0.829xw:0.983xh;0.154xw,0&resize=1200:*",
-            "publishedAt": "2023-09-20T03:21:00Z",
-            "content": "SACRAMENTO, Calif. \u2014After months of back and forth, Sacramento County District Attorney Thien Ho announced Tuesday he is suing the city of Sacramento for its handling of homelessness.\r\nThe suit alleg\u2026 [+1251 chars]"
+            "publishedAt": "2023-09-20T18:54:00Z",
+            "content": "SACRAMENTO, Calif. \u2014After months of back and forth, Sacramento County District Attorney Thien Ho announced Tuesday he is suing the city of Sacramento for its handling of homelessness.\r\nThe suit alleg\u2026 [+1250 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WMUR Manchester"
+                "name": "CNBC"
             },
-            "author": "Jessica Kisluk",
-            "title": "Balance of power tightens at New Hampshire state House after special election in Northwood, Nottingham - WMUR Manchester",
-            "description": "The balance of power is even tighter at the New Hampshire State House after a special election in the Rockingham County towns of Northwood and Nottingham on Tuesday.",
-            "url": "https://www.wmur.com/article/nh-house-election-results-northwood-nottingham-23/45213577",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-image-16-650a56bf3d6f1.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-            "publishedAt": "2023-09-20T02:23:00Z",
-            "content": "CONCORD, N.H. \u2014The balance of power is even tighter at the New Hampshire State House after a special election in the Rockingham County towns of Northwood and Nottingham on Tuesday.\r\nDemocrat Hal Raft\u2026 [+438 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Filipe Esp\u00f3sito",
-            "title": "Here are the new Apple Shortcuts app features in iOS 17 - 9to5Mac",
-            "description": "iOS 17 is finally available to the public, as are iPadOS 17 and watchOS 10. The updates come with a...",
-            "url": "https://9to5mac.com/2023/09/19/whats-new-shortcuts-app-ios-17/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/Camera-app-Shortcuts-iOS-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2023-09-20T01:35:00Z",
-            "content": "iOS 17 is finally available to the public, as are iPadOS 17 and watchOS 10. The updates come with a lot of new features, such as improvements to iMessage and FaceTime and NameDrop. They also bring a \u2026 [+3000 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Christy Choi",
-            "title": "Artist ordered to repay museum $76K after submitting blank canvases titled \u2018Take the Money and Run\u2019 - CNN",
-            "description": "A Copenhagen court has ruled that Jens Haaning must return almost all of the 530,000 Danish krone ($76,000) he borrowed from a museum to create banknote-filled artworks that he never delivered.",
-            "url": "https://www.cnn.com/style/jens-haaning-kunsten-take-money-run/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230919081433-02-jens-haaning-re-up.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-20T01:15:00Z",
-            "content": "Jens Haaning was supposed to create works of art with the 530,000 Danish krone ($76,000) lent to him by a museum, but instead he took the money and ran in the name of art. Now, after almost two years\u2026 [+3253 chars]"
+            "author": "John Rosevear",
+            "title": "GM and Stellantis just laid off more than 2,000 additional workers because of the UAW's strike - CNBC",
+            "description": "The UAW's strike is already affecting other GM and Stellantis factories, where nearly 2,400 workers were laid off Wednesday.",
+            "url": "https://www.cnbc.com/2023/09/20/gm-stla-layoffs-uaw-strike-2023.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107302682-1695078790703-gettyimages-1674550268-UAW_STRIKE.jpeg?v=1695236736&w=1920&h=1080",
+            "publishedAt": "2023-09-20T18:23:30Z",
+            "content": "General Motors and Stellantis said they have laid off additional workers because of consequences related to the United Auto Workers strike.\r\nGM said in a statement Wednesday that it has halted produc\u2026 [+1587 chars]"
         }
     ]
 }
