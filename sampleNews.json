@@ -1,175 +1,97 @@
 {
     "status": "ok",
-    "totalResults": 33,
+    "totalResults": 32,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Vasco Cotovio, Frederik Pleitgen, Daniel Hodge, Konstyantyn Gak, Yulia Kesaieva",
-            "title": "Ukrainian forces have broken through in Verbove, top general says - CNN",
-            "description": "The general leading Ukraine\u2019s counteroffensive along the southern front line says his forces have broken through in Verbove \u2013 and predicts an even bigger breakthrough to come.",
-            "url": "https://www.cnn.com/2023/09/23/europe/ukraine-biggest-counteroffensive-to-come-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230922222253-01-ukr-counteroffensive-plans.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-23T12:12:00Z",
-            "content": "The general leading Ukraines counteroffensive along the southern front line says his forces have broken through in Verbove and predicts an even bigger breakthrough to come.\r\nOn the left flank [near V\u2026 [+7143 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "USA TODAY Sports",
-            "title": "College football bold predictions for Week 4 schedule of Top 25 games - USA TODAY",
-            "description": "Every weekend there are surprising college football results. With a loaded schedule, Week 4 should be the same. Our bold predictions for Saturday.",
-            "url": "https://www.usatoday.com/story/sports/ncaaf/2023/09/23/college-football-bold-predictions-week-4-schedule/70895723007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/09/21/USAT/2eb7fd5a-21bf-4a4b-b264-069273c809ee-AP_APTOPIX_Clemson_Florida_St_Football.jpg?crop=4262,2398,x238,y293&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-23T11:38:26Z",
-            "content": "We've reached the point of the college football season where most teams are entering conference play and facing opponents they're more familiar with. That would seem to forecast results that are less\u2026 [+5444 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Anna Voitenko",
-            "title": "Ukrainian heavy artillery inflicts 'hell' on Russian lines near Bakhmut - Reuters.com",
-            "description": "The use of heavy weapons supplied by the West in the fierce battle raging on the outskirts of Bakhmut, which was captured by Russia in May, is inflicting a significant toll on enemy lines, Ukrainian commanders have told Reuters.",
-            "url": "https://www.reuters.com/world/europe/ukrainian-heavy-artillery-inflicts-hell-russian-lines-near-bakhmut-2023-09-23/",
-            "urlToImage": "https://www.reuters.com/resizer/I7Kpxz7nRWK3SBc_VFSI6za9ByA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZOWCBFSRHVPHTBRC2BJOMKO5QA.jpg",
-            "publishedAt": "2023-09-23T10:47:00Z",
-            "content": "NEAR BAKHMUT, Sept 22 (Reuters) - The use of heavy weapons supplied by the West in the fierce battle raging on the outskirts of Bakhmut, which was captured by Russia in May, is inflicting a significa\u2026 [+1699 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Doyinsola Oladipo, Abhirup Roy",
-            "title": "GM, Stellantis dealers and customers face dwindling parts as UAW strike expands - Reuters.com",
-            "description": "U.S. auto workers <a href=\"/business/autos-transportation/detroit-three-automakers-enter-final-hours-avoid-wider-uaw-strike-2023-09-22/\">expanded their strike on Friday</a> with a clear target for distress: dealers who sell and service GM and Stellantis vehic\u2026",
-            "url": "https://www.reuters.com/business/autos-transportation/gm-stellantis-dealers-customers-face-dwindling-parts-uaw-strike-expands-2023-09-23/",
-            "urlToImage": "https://www.reuters.com/resizer/BBqZlq3ULk9uYwrLqeaQT9Gjpp4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BKVBFRIS6FPZRKABXFROPHUNIA.jpg",
-            "publishedAt": "2023-09-23T10:02:00Z",
-            "content": "Sept 23 (Reuters) - U.S. auto workers expanded their strike on Friday with a clear target for distress: dealers who sell and service GM and Stellantis vehicles.\r\nSelling and installing parts is one o\u2026 [+3203 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "SciTechDaily"
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Sports Staff",
+            "title": "College football scores, updates: Deion Sanders, Colorado getting blown out by Oregon - Yahoo Sports",
+            "description": "Stick with us through this entire epic day of college football action.",
+            "url": "https://sports.yahoo.com/college-football-scores-updates-deion-sanders-colorado-getting-blown-out-by-oregon-211522097.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ulsMnKBz0PQV6wkn.Jov2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/58837030-57ff-11ee-bf4f-c9d78ba6c91f",
+            "publishedAt": "2023-09-23T22:41:06Z",
+            "content": "By now, you already know what's in store today. Week 4 brings the most loaded college football slate in recent memory with six ranked-on-ranked matchups and that doesn't even include a Florida State-\u2026 [+2649 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kanishka Singh, Steve Scherer",
+            "title": "Sikh separatist killing: US expects India to work with Canada on case - Reuters.com",
+            "description": "The United States made clear on Friday that it expected the Indian government to work with Canada on efforts to investigate the possible involvement of New Delhi agents in the murder of a Canadian citizen in June.",
+            "url": "https://www.reuters.com/world/canada-shared-intelligence-murder-sikh-with-india-weeks-ago-2023-09-22/",
+            "urlToImage": "https://www.reuters.com/resizer/BfVPtGdZems-nJ7Lunoi70tOaO8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/J4ZOC4GV75KBRNQVY4WDA34EZI.jpg",
+            "publishedAt": "2023-09-23T22:19:02Z",
+            "content": "WASHINGTON/OTTAWA, Sept 22 (Reuters) - The United States made clear on Friday that it expected the Indian government to work with Canada on efforts to investigate the possible involvement of New Delh\u2026 [+3425 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
             },
             "author": null,
-            "title": "Life on Jupiter's Moon? NASA's Webb Finds Carbon Source on Surface of Europa - SciTechDaily",
-            "description": "Carbon Suggests a Favorable Environment for Life in Subsurface Ocean For as long as humans have gazed into the night sky, we have wondered about life beyond the Earth. Scientists now know that several places in our solar system might have conditions suitable \u2026",
-            "url": "https://scitechdaily.com/?p=311227",
-            "urlToImage": "https://scitechdaily.com/images/Jovian-Moon-Europa-Plume-of-Water-Vapor.jpg",
-            "publishedAt": "2023-09-23T09:37:03Z",
-            "content": "BySpace Telescope Science InstituteSeptember 23, 2023\r\nNASAs James Webb Space Telescope has detected carbon dioxide on Europa, Jupiters moon, suggesting it might have conditions suitable for life. Th\u2026 [+10994 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Trevor Hunnicutt, Nandita Bose",
-            "title": "Exclusive: Biden aides in talks with Vietnam for arms deal that could irk China - Reuters.com",
-            "description": "The Biden administration is in talks with Vietnam over an agreement for the largest arms transfer in history between the ex-Cold War adversaries, according to two people familiar with a deal that could irk China and sideline Russia.",
-            "url": "https://www.reuters.com/world/biden-aides-talks-with-vietnam-arms-deal-that-could-irk-china-2023-09-23/",
-            "urlToImage": "https://www.reuters.com/resizer/d7zE08tTEwTpPEFC2ULXSkK-Ai0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AMGLFB7SXVIRJIEGR3VKDU6S74.jpg",
-            "publishedAt": "2023-09-23T09:03:00Z",
-            "content": "WASHINGTON, Sept 23 (Reuters) - The Biden administration is in talks with Vietnam over an agreement for the largest arms transfer in history between the ex-Cold War adversaries, according to two peop\u2026 [+4137 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aya Elamroussi",
-            "title": "Tropical Storm Ophelia lashes parts of the East Coast as it nears North Carolina ahead of landfall - CNN",
-            "description": "Tropical Storm Ophelia is delivering strong winds, rain and storm surge flooding early Saturday to the coasts of North Carolina and Virginia, where communities are now experiencing power outages.",
-            "url": "https://www.cnn.com/2023/09/23/weather/east-coast-tropical-storm-threat-saturday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230922235314-01-tropical-storm-ophelia-092223.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-23T08:33:00Z",
-            "content": "Tropical Storm Ophelia is delivering strong winds, rain and storm surge flooding early Saturday to the coasts of North Carolina and Virginia, where communities are now experiencing power outages.\r\nTh\u2026 [+4354 chars]"
+            "title": "College football Week 4 top plays: Oregon dominating Colorado, Ole Miss-Bama, more - FOX Sports",
+            "description": "Week 4 of the college football season is loaded with must-see matchups, and we've got you covered with all the action!",
+            "url": "https://www.foxsports.com/stories/college-football/college-football-week-4-top-plays",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/09/1408/814/09.18.23_Top-Plays_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-09-23T21:30:14Z",
+            "content": "Week 4 of the college football\r\n season is loaded with must-see matchups around the country in the Pac-12, Big Ten and SEC. In fact, Saturday's slate features six ranked vs. ranked matchups one shy o\u2026 [+8004 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Android Police"
+                "name": "Deadline"
             },
-            "author": "Chethan Rao",
-            "title": "Google Pixel 8 and 8 Pro launch day colors have leaked in their entirety - Android Police",
-            "description": "Have your pick among Sky Blue, Peony Rose, and others",
-            "url": "https://www.androidpolice.com/google-pixel-8-8-pro-colors-render-leak/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/09/pixel-8-pixel-8-pro-teaser-images-6.jpg",
-            "publishedAt": "2023-09-23T08:04:00Z",
-            "content": "Summary\r\n<ul><li> The Pixel 8 color options include Pink (Peony Rose), Gray, and Obsidian (Black), while the Pixel 8 Pro will come in Obsidian, Porcelain, and Sky Blue. </li><li> Google is expected t\u2026 [+3847 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NorthJersey.com"
-            },
-            "author": "John Connolly",
-            "title": "Five hospitalized after house explodes in West Milford. Here's what we know - NorthJersey.com",
-            "description": "A house exploded on Banker Road in West Milford late Friday evening with six people inside.",
-            "url": "https://www.northjersey.com/story/news/passaic/west-milford/2023/09/22/west-milford-nj-possible-house-explosion/70938851007/",
-            "urlToImage": "https://www.northjersey.com/gcdn/presto/2018/08/28/PNJM/fe2e02f7-1eef-4185-ab2f-95707686c78e-Breaking_News.png?crop=1079,615,x0,y204&width=1079&height=615&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-23T06:39:14Z",
-            "content": "A house exploded in West Milford late Friday evening with six people inside, township police said.\r\nAround 9 p.m., there were multiple 911 calls about an explosion on Banker Road near Upper Greenwood\u2026 [+1222 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "author": "Bruce Haring",
+            "title": "Nic Kerdiles Dies: Anaheim Ducks Forward And Franchise\u2019s First Orange County Player Was 29 - Deadline",
+            "description": "Nic Kerdiles, the Anaheim Ducks forward who beat the odds and became the hockey franchise\u2019s first local player, died Saturday from injuries suffered in a motorcycle accident in Nashville. He \u2026",
+            "url": "https://deadline.com/2023/09/nic-kerdiles-dead-anaheim-ducks-forward-was-first-orange-county-player-obituary-1235554456/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/09/GettyImages-861053114.jpg?w=1024",
+            "publishedAt": "2023-09-23T21:05:00Z",
+            "content": "Nic Kerdiles, the Anaheim Ducks forward who beat the odds and became the hockey franchise\u2019s first local player, died Saturday from injuries suffered in a motorcycle accident in Nashville. He was 29.\r\u2026 [+1240 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Katherine Donlevy",
-            "title": "Couple who purchased mold-infested home from alleged husband killer Kouri Richins speak out - New York Post ",
-            "description": "Richins is accused of slipping her husband Eric Richins a deadly fentanyl-laced Moscow mule in March 2022 after a day of arguing over a $2 million mansion she hoped to flip that he refused to pay f\u2026",
-            "url": "https://nypost.com/2023/09/23/kouri-richins-customers-blame-her-for-home-financial-woes/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/newspress-collage-y5ua8d2ng-1695444697575.jpg?quality=75&strip=all&1695430387&w=1024",
-            "publishedAt": "2023-09-23T05:07:00Z",
-            "content": "The Utah couple who bought a remodeled mansion from Kouri Richins, who penned a book about grief after allegedly murdering her husband, blame the mom for their near-financial ruin.\r\nTaryn and Alec Wr\u2026 [+2957 chars]"
+            "author": "Matthew Sedacca",
+            "title": "People looking to get new COVID vaccine getting hit with $190 fees: report - New York Post ",
+            "description": "Customers nationwide at pharmacies including Walgreens and CVS were surprised about charges up to $200 for the latest COVID vaccine booster.",
+            "url": "https://nypost.com/2023/09/23/people-looking-to-get-new-covid-vaccine-getting-hit-with-190-fees-report/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/NYPICHPDPICT000043873644.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-09-23T20:56:00Z",
+            "content": "People looking to get their new COVID-19 vaccine are feeling sore over hefty unexpected charges for the federally-recommended shot.\r\nCustomers nationwide at pharmacies including Walgreens and CVS who\u2026 [+2684 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "KOCO Oklahoma City"
             },
-            "author": "Tripti Lahiri",
-            "title": "India's Clash With Canada Over Killing Follows New Wave of Calls for Sikh Homeland - The Wall Street Journal",
-            "description": "Prime Minister Narendra Modi aired security concerns to Western leaders about separatists abroad",
-            "url": "https://www.wsj.com/world/india/indias-clash-with-canada-over-killing-follows-new-wave-of-calls-for-sikh-homeland-8d975ebe",
-            "urlToImage": "https://images.wsj.net/im-856480/social",
-            "publishedAt": "2023-09-23T04:03:00Z",
-            "content": null
+            "author": "The Associated Press",
+            "title": "No. 16 Oklahoma beats Cincinnati 20-6 in Bearcats\u2019 Big 12 debut - KOCO Oklahoma City",
+            "description": "No. 16 Oklahoma welcomed Cincinnati to the Big 12 Conference with a 20-6 defeat Saturday.",
+            "url": "https://www.koco.com/article/oklahoma-ou-beats-cincinnati-sooners-bearcats-big-12-debut/45283440",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/dillon-gabrial-v-cincinnati-650f44ff0e97a.png?crop=1.00xw:0.783xh;0,0&resize=1200:*",
+            "publishedAt": "2023-09-23T20:08:00Z",
+            "content": "CINCINNATI (AP) \u2014Dillon Gabriel threw for 322 yards and accounted for two touchdowns as No. 16 Oklahoma welcomed Cincinnati to the Big 12 Conference with a 20-6 defeat Saturday.\r\nOpen the video playe\u2026 [+2818 chars]"
         },
         {
             "source": {
-                "id": "the-globe-and-mail",
-                "name": "The Globe And Mail"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Sally Brompton",
-            "title": "Your daily horoscope: September 23, 2023 - The Globe and Mail",
-            "description": "Sally Brompton\u2019s daily horoscope has the answers you seek",
-            "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-23-2023/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/49H3gg9SZHtsCgnSIdsLNlFGpxM=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/P7KDYVD77FHCZGLJGXCGEHNYJM.jpg",
-            "publishedAt": "2023-09-23T04:00:00Z",
-            "content": "Open this photo in gallery:\r\niStockPhoto / Getty Images\r\nHOROSCOPES IF TODAY IS YOUR BIRTHDAY\r\nYou may be somewhat impulsive over the coming year and that could upset people who think you should foll\u2026 [+3560 chars]"
+            "author": "Passant Rabie",
+            "title": "Watch NASA's OSIRIS-REx Return Asteroid Samples to Earth - Gizmodo",
+            "description": "The probe will drop off surface samples from asteroid Bennu on Sunday morning, aiming for a parachute-assisted landing in the Utah desert.",
+            "url": "https://gizmodo.com/watch-nasa-osiris-rex-return-asteroid-samples-bennu-1850866330",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/324575f93a1eb0527ea7d6698738b919.jpg",
+            "publishedAt": "2023-09-23T20:00:00Z",
+            "content": "The OSIRIS-REx spacecraft is on its way to Earth to drop off rocky samples from asteroid Bennu on Sunday, marking NASAs first attempt to retrieve a piece of a pure space rock.\r\nThe highly-anticipated\u2026 [+2032 chars]"
         },
         {
             "source": {
@@ -189,78 +111,156 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Kaanita Iyer",
-            "title": "Dallas mayor switches parties to join GOP - CNN",
-            "description": "Dallas Mayor Eric Johnson announced Friday that he is switching parties and will serve as a Republican-affiliated mayor of the blue-leaning city.",
-            "url": "https://www.cnn.com/2023/09/22/politics/dallas-mayor-eric-johnson-republican/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230922141856-dallas-mayor-eric-johnson-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-23T03:13:00Z",
-            "content": "Dallas Mayor Eric Johnson announced Friday that he is switching parties and will serve as a Republican-affiliated mayor of the blue-leaning city. \r\nWhile the Dallas mayoral office is nonpartisan, Joh\u2026 [+1821 chars]"
+            "author": "Philip Wang",
+            "title": "Rep. Andy Kim announces he\u2019ll run against NJ Sen. Bob Menendez in wake of his indictment - CNN",
+            "description": "New Jersey Democratic Rep. Andy Kim announced on Saturday a 2024 Senate challenge to Sen. Bob Menendez in the wake of the senator\u2019s indictment and refusal to step down.",
+            "url": "https://www.cnn.com/2023/09/23/politics/menendez-andy-kim-senate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230923153823-andy-kim-file-012623-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-23T19:55:00Z",
+            "content": "New Jersey Democratic Rep. Andy Kim announced on Saturday a 2024 Senate challenge to Sen. Bob Menendez in the wake of the senators indictment and refusal to step down.\r\nAfter calls to resign, Senator\u2026 [+371 chars]"
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Stephen Clark",
-            "title": "NASA\u2019s asteroid sampling mission is on course for landing this weekend - Ars Technica",
-            "description": "\"The spacecraft trajectory and performance have just been spot on.\"",
-            "url": "https://arstechnica.com/space/2023/09/nasas-asteroid-sampling-mission-is-on-course-for-landing-this-weekend/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/bennu-beauty-760x380.jpg",
-            "publishedAt": "2023-09-23T02:02:07Z",
-            "content": "Enlarge/ Scientists created this mosaic of asteroid Bennu using imagery collected by NASA's OSIRIS-REx spacecraft. The asteroid spans about 1,600 feet (500 meters) across.\r\n7 with \r\nA NASA spacecraft\u2026 [+17183 chars]"
+            "author": "Sara Chernikoff",
+            "title": "Has distrust in COVID vaccines caused same skepticism in flu shots? - USA TODAY",
+            "description": "Less than half of all US adults received their flu vaccine last flu season. With vaccine skepticism still prevalent, here's what the latest data shows",
+            "url": "https://www.usatoday.com/story/news/health/2023/09/22/flu-vaccine-rates-after-covid-shot-concerns/70924839007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/21/USAT/70924960007-usatsi-19484176.jpg?crop=1758,990,x0,y60&width=1758&height=990&format=pjpg&auto=webp",
+            "publishedAt": "2023-09-23T19:32:13Z",
+            "content": "As flu season ramps up, public health officials are urging everyone 6 months and older to get vaccinated.\r\nLess than half of all US adults received their flu vaccine last flu season (47.4%), but that\u2026 [+3565 chars]"
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Alexander Tin",
-            "title": "How FDA's top vaccines official is timing his COVID booster and flu shot for fall 2023 - CBS News",
-            "description": "Can you get your COVID booster and flu shot at the same time? Here's what health experts say.",
-            "url": "https://www.cbsnews.com/news/covid-vacccine-booster-flu-shot-for-fall-2023-fda/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/22/7b08d0d4-4ff2-4351-b0cf-f7bc6ee10b4d/thumbnail/1200x630g8/7ebe0a0b569223dd5ce3347c9f680bc5/gettyimages-1234825173.jpg?v=f5251b37272e6b1bc4e5456ab4445a67",
-            "publishedAt": "2023-09-23T01:46:00Z",
-            "content": "A top-ranking Food and Drug Administration official, responsible for overseeing the approvals of the new vaccines now rolling out for this fall and winter's three respiratory virus threats, said this\u2026 [+5509 chars]"
+            "author": "Michelle Nichols, Gabriela Baczynska",
+            "title": "Russia's Lavrov calls West 'empire of lies,' dismisses grain-deal revival bid - Reuters.com",
+            "description": "Russia's Foreign Minister Sergei Lavrov on Saturday portrayed the United States and Europe as \"looking down\" on the rest of the world amid a battle to <a href=\"/world/world-leaders-meet-un-big-powers-vie-developing-states-2023-09-15/\">win over</a> developing \u2026",
+            "url": "https://www.reuters.com/world/europe/russias-lavrov-ukraine-peace-plan-un-bid-revive-black-sea-grain-deal-not-2023-09-23/",
+            "urlToImage": "https://www.reuters.com/resizer/eZuOZmzKZGbHEwDqNV78ID1mdhI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ASHEYEJGBFJWLHLBHFL7XAJQ4Y.jpg",
+            "publishedAt": "2023-09-23T18:52:00Z",
+            "content": "UNITED NATIONS, Sept 23 (Reuters) - Russia's Foreign Minister Sergei Lavrov on Saturday portrayed the United States and Europe as \"looking down\" on the rest of the world amid a battle to win over dev\u2026 [+2950 chars]"
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Dan Goodin",
-            "title": "3 iOS 0-days, a cellular network compromise, and HTTP used to infect an iPhone - Ars Technica",
-            "description": "Apple patches 3 zero-days after they were used in a sophisticated attack.",
-            "url": "https://arstechnica.com/security/2023/09/how-the-iphone-of-a-presidential-candidate-in-egypt-got-hacked-for-the-2nd-time/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/system-hacked-760x380.jpg",
-            "publishedAt": "2023-09-23T00:23:58Z",
-            "content": "31 with \r\nApple has patched a potent chain of iOS zero-days that were used to infect the iPhone of an Egyptian presidential candidate with sophisticated spyware developed by a commercial exploit sell\u2026 [+4631 chars]"
+            "author": "Nadine El-Bawab",
+            "title": "5 hospitalized in home explosion that left house 'heavily damaged' - ABC News",
+            "description": "A sixth person injured in the explosion refused further medical attention.",
+            "url": "https://abcnews.go.com/US/5-hospitalized-home-explosion-left-house-heavily-damaged/story?id=103436457",
+            "urlToImage": "https://i.abcnewsfe.com/a/ef92b71f-badc-4a75-89ba-3ac1e9d2b903/house-explosion-milford-ht-jt-230923_1695477239931_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-09-23T18:32:25Z",
+            "content": "A house explosion in West Milford, New Jersey, left six people injured Friday, according to police. Officials said the house was heavily damaged.\r\nThe explosion happened around 9 p.m., police said. W\u2026 [+513 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "The A.V. Club"
             },
-            "author": "Tera Roberts",
-            "title": "Fantasy Football Week 3 injuries: Aaron Jones, Christian Watson, Amon-Ra St. Brown, Jaylen Waddle questionable - CBS Sports",
-            "description": "Tera Roberts breaks down all the injuries you need to know about ahead of Week 3.",
-            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-3-injuries-aaron-jones-christian-watson-amon-ra-st-brown-jaylen-waddle-questionable/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/12/dbebe4c1-c7a9-4605-a187-45c2ce9781e6/thumbnail/1200x675/d1de88b3de910d622b2fe9019a436b9b/christian-watson-3-1400-us.jpg",
-            "publishedAt": "2023-09-22T22:30:00Z",
-            "content": "From game-time decisions to injuries so significant they affect the value of every single position, let's break down the Fantasy and DFS impact of injuries for every Week 3 matchup. Know when to pivo\u2026 [+15715 chars]"
+            "author": "William Hughes",
+            "title": "Michael Caine has some unsurprisingly irritating thoughts about intimacy coordinators - The A.V. Club",
+            "description": "Caine: \"Thank God I\u2019m 90 and don\u2019t play lovers anymore is all I can say\"",
+            "url": "https://www.avclub.com/michael-caine-has-some-unsurprisingly-irritating-though-1850867971",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0796e87bafcb80cc264af93c2cfa6e78.jpg",
+            "publishedAt": "2023-09-23T18:30:56Z",
+            "content": "Intimacy coordinators are a relatively new innovation on Hollywood sets, as more and more people down in the trenches of making TV and films begin to think seriously about how to make art about, and \u2026 [+1694 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": "Jen Christensen",
-            "title": "CDC recommends first vaccine to protect infants from RSV - CNN",
-            "description": "The US Centers for Disease Control and Prevention said Friday it is recommending a new vaccine to help protect babies against severe respiratory syncytial virus, or RSV.",
-            "url": "https://www.cnn.com/2023/09/22/health/rsv-vaccine-infants-pfizer-cdc/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230922150059-infant-rsv-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-22T22:10:00Z",
-            "content": "The US Centers for Disease Control and Prevention said Friday it is recommending a new vaccine to help protect babies against severe respiratory syncytial virus, or RSV.\r\nThis is another new tool we \u2026 [+7813 chars]"
+            "author": null,
+            "title": "Ukraine targets a key Crimean city a day after striking Russia's Black Sea Fleet headquarters - POLITICO",
+            "description": "Crimea has served as the key hub supporting Russia\u2019s full-scale invasion of Ukraine.",
+            "url": "https://www.politico.com/news/2023/09/23/ukraine-crimean-city-russia-00117797",
+            "urlToImage": "https://static.politico.com/87/99/9d7b4ade478492e2f4eb36377cf2/russia-ukraine-war-61057.jpg",
+            "publishedAt": "2023-09-23T18:27:17Z",
+            "content": "Ukraines intelligence chief, Kyrylo Budanov, told Voice of America on Saturday that at least nine people were killed and 16 others wounded as a result of Kyivs attack on the Black Sea Fleet on Friday\u2026 [+3986 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Tropical Storm Ophelia barrels across North Carolina with heavy rain and strong winds - NPR",
+            "description": "Ophelia was generating 45 mph winds and is expected to produce up to 8 inches of rain in some parts of North Carolina and Virginia on Saturday.",
+            "url": "https://www.npr.org/2023/09/23/1201334334/tropical-storm-ophelia-update",
+            "urlToImage": "https://media.npr.org/assets/img/2023/09/23/gettyimages-16839346221_wide-790589b0df0761cc8e533e8fda3f428b859fbe4e-s1400-c100.jpg",
+            "publishedAt": "2023-09-23T18:24:00Z",
+            "content": "Surfers ride the waves Saturday as the ocean is whipped up by Tropical Storm Ophelia at Wrightsville Beach in Wilmington, N.C.\r\nEros Hoagland/Getty Images\r\nTropical Storm Ophelia is barreling across \u2026 [+3556 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JUAN A. LOZANO",
+            "title": "A Black student was suspended for his hairstyle. Now his family is suing Texas officials - The Associated Press",
+            "description": "The family of a Black high school student in Texas has filed a federal civil rights lawsuit against the state\u2019s governor and attorney general over being suspended by his school district for his hairstyle. Darryl George has been serving an in-school suspension\u2026",
+            "url": "https://apnews.com/article/hairstyles-dreadlocks-racial-discrimination-crown-act-e79ede512923b672a275abf054e2407b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/7ad1131/2147483647/strip/true/crop/5043x2837+0+263/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1f%2F1c%2F7d1935fa8247c61a34f0be22db23%2F11757d7770524ea48062da07f43be3a3",
+            "publishedAt": "2023-09-23T18:21:00Z",
+            "content": "HOUSTON (AP) The family of a Black high school student in Texas who was suspended over his dreadlocks filed a federal civil rights lawsuit Saturday against the states governor and attorney general, a\u2026 [+4547 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Deadly truck explosion hits checkpoint in central Somali town - Al Jazeera English",
+            "description": "The blast in the town of Beledweyne comes as Somali government has intensified operation against al-Shabab armed group.",
+            "url": "https://www.aljazeera.com/news/2023/9/23/deadly-truck-explosion-hits-checkpoint-in-central-somali-town",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23266541638993-1695484072.jpg?resize=1920%2C1393",
+            "publishedAt": "2023-09-23T17:48:45Z",
+            "content": "The death toll in a truck bomb explosion in the central Somali town of Beledweyne has risen to 18, a top regional official has said, as the Horn of Africa nation battles armed groups.\r\nAbdirahman Dah\u2026 [+2728 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Lauren Irwin",
+            "title": "Newsom vetoes bill requiring gender identity to be considered in custody battles - The Hill",
+            "description": "California Gov. Gavin Newsom vetoed a bill late Friday night that would have required judges to consider whether parents have affirmed the gender identity of their children amid custody disputes. Newsom argued that other politicians could use it as a strategy\u2026",
+            "url": "https://thehill.com/homenews/state-watch/4219960-newsom-vetoes-bill-gender-identity-custody-battles/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/AP23258105176202-e1695490095395.jpg?w=1280",
+            "publishedAt": "2023-09-23T17:38:00Z",
+            "content": "Skip to content\r\nCalifornia Gov. Gavin Newsom vetoed a bill late Friday night that would have required judges to consider whether parents have affirmed the gender identity of their children amid cust\u2026 [+2661 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Greg Norman",
+            "title": "Amazon Prime Video to include ads in 2024 \u2014 unless users pay $2.99 a month to get rid of them - Fox Business",
+            "description": "Amazon says \u201climited advertisements\" are coming to its Prime Video service next year, and subscribers who don\u2019t want to see them will have to pay an additional $2.99 a month.",
+            "url": "https://www.foxbusiness.com/lifestyle/amazon-prime-video-include-ads-2024-unless-users-pay-2-99-month-get-rid",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/09/0/0/Amazon-Prime-Video.jpg?ve=1&tl=1",
+            "publishedAt": "2023-09-23T17:07:57Z",
+            "content": "Amazon has announced that television shows and movies on its Prime Video service will start including \"limited advertisements\" early next year in order for the company to \"continue investing in compe\u2026 [+3087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "nj.com"
+            },
+            "author": "Dawn Magyar | NJ Advance Media for NJ.com",
+            "title": "Walmart has already discounted the new Apple iPhone 15 by up to $1,100 - NJ.com",
+            "description": "Walmart is already offering a deal on the new Apple iPhone 15 with up to $1,100 off. Here's how to save on the latest iPhone",
+            "url": "https://www.nj.com/shopping-deals/2023/09/walmart-has-already-discounted-the-new-apple-iphone-15-by-up-to-1100.html",
+            "urlToImage": "https://www.nj.com/resizer/2BkxBkNjB1QxCHBDpVZeHIybToo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3ZBGLWYCMFFS7HWITCXXZPFZYY.png",
+            "publishedAt": "2023-09-23T17:05:00Z",
+            "content": "If you have been eyeing up the new Apple iPhone 15, Walmart has a deal that will save you some big bucks on the device.\r\nWalmart is offering up to $1,100 off the iPhone 15 when you purchase the smart\u2026 [+1701 chars]"
         }
     ]
 }
