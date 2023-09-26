@@ -1,45 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Space.com"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Robert Lea",
-            "title": "Watch NASA's OSIRIS-REx asteroid probe approach Earth tonight with free telescope livestream - Space.com",
-            "description": "The Virtual Telescope Project will attempt to image the OSIRIS-REx spacecraft as it approaches Earth.",
-            "url": "https://www.space.com/osiris-rex-asteroid-sample-return-telescope-livestream",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sPp5sxM7xwQjS9iocbPm4A-1200-80.jpg",
-            "publishedAt": "2023-09-24T12:33:19Z",
-            "content": "Update for Sept. 24: Astrophysicist Gianluca Masi of the Virtual Telescope Project successfully spotted NASA's OSIRIS-REx spacecraft on the eve of its sample capsule landing last night. You can see t\u2026 [+4076 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Ken Alltucker, Eduardo Cuevas",
-            "title": "Consumers seeking COVID vaccine face insurance denials, cancellations - USA TODAY",
-            "description": "Consumers face roadblocks, denials as federal government shifts COVID-19 vaccinations to private-sector health insurers and clinics. companies,",
-            "url": "https://www.usatoday.com/story/news/health/2023/09/23/covid-vaccine-insurance-denials-cancellations/70918394007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/01/06/USAT/2b4b3186-c160-4b8f-9413-21cc4e85bbf9-AdobeStock_550239390.jpeg?crop=7925,4457,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-24T12:24:24Z",
-            "content": "Some consumers trying to get updated versions of the COVID-19 vaccine this week have encountered red tape, canceled appointments and delays getting private insurance to cover the shots.\r\nThe major sn\u2026 [+8060 chars]"
+            "author": "William Harwood",
+            "title": "NASA capsule brings home asteroid samples dating back to the birth of the solar system - CBS News",
+            "description": "In a dramatic 13-minute plunge back to Earth, the OSIRIS-REx sample return capsule safely landed in Utah after seven years in space.",
+            "url": "https://www.cbsnews.com/news/nasa-asteroid-samples-landing-osiris-rex-bennu/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/24/8274ed68-4cf1-4b74-b58e-2e78136a3871/thumbnail/1200x630g4/815e8805286f6751e9a31de2dc1f6fa3/092423-capsule-whiteroom3.jpg?v=f5251b37272e6b1bc4e5456ab4445a67",
+            "publishedAt": "2023-09-24T23:40:00Z",
+            "content": "A saucer-shaped capsule carrying asteroid fragments that may hold clues about the birth of the solar system slammed into Earth's atmosphere Sunday and descended to an on-target parachute-assisted tou\u2026 [+9355 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Wunc.org"
+                "name": "Eonline.com"
             },
-            "author": "Pien Huang",
-            "title": "Norovirus is breaking out in the wilderness \u2014 with busy hiking trails to blame - WUNC",
-            "description": "Hikers are getting sick with norovirus in the wilderness. A CDC investigation finds poor hygiene along the Pacific Crest Trail \u2014 and other outdoor settings \u2014 is to blame.",
-            "url": "https://www.wunc.org/2023-09-24/norovirus-is-breaking-out-in-the-wilderness-with-busy-hiking-trails-to-blame",
-            "urlToImage": null,
-            "publishedAt": "2023-09-24T12:00:00Z",
-            "content": "Bringing The World Home To You\u00a9 2023 WUNC North Carolina Public Radio120 Friday Center Dr Chapel Hill, NC 27517 919.445.9150 | 800.962.9862"
+            "author": "Corinne Heller",
+            "title": "Inside Kourtney Kardashian and Travis Barker's Disney-Themed Baby Shower - E! NEWS",
+            "description": "Get details and see photos from pregnant Kourtney Kardashian and husband's Travis Barker's baby shower celebrating the upcoming arrival of their first child together.",
+            "url": "https://www.eonline.com/news/1386307/inside-kourtney-kardashian-and-travis-barkers-disney-themed-baby-shower",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023824/rs_1200x1200-230924150032-1200-khloe-kardashian-kourtney-baby-shower-true-tatum-thompson-instagram-cjh-092423.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-09-24T23:35:00Z",
+            "content": "Kourtney Kardashian\u00a0and Travis Barker\u00a0are\u00a0marking a magical time with a magical\u00a0celebration.\r\nAs the married couple counts down the days until\u00a0the Poosh founder gives birth to\u00a0their first child toget\u2026 [+883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Charean Williams",
+            "title": "Sunday Night Football: Raiders rookie Tyree Wilson is active - NBC Sports",
+            "description": "The Raiders had only one player with a designation for Sunday Night Football, and edge rusher Tyree Wilson will play.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-raiders-rookie-tyree-wilson-is-active",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/2b6fbf2/2147483647/strip/true/crop/6525x3670+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F07%2F8a%2Fc760603040b3a8d62957eb849f4d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1673618688",
+            "publishedAt": "2023-09-24T23:09:47Z",
+            "content": "The Raiders had only one player with a designation for Sunday Night Football, and edge rusher Tyree Wilson will play. The first-round draft pick was questionable with an illness.\r\nWilson missed two p\u2026 [+578 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "DJ Bien-Aime",
+            "title": "'We drafted the right guy' - Texans QB C.J. Stroud makes history - ESPN - ESPN",
+            "description": "Texans rookie C.J. Stroud became the first QB in NFL history to pass for at least 900 yards with four passing touchdowns and zero interceptions over his first career starts.",
+            "url": "https://www.espn.com/nfl/story/_/id/38483441/we-draft-right-guy-texans-qb-cj-stroud-makes-history",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0924%2Fr1229205_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-09-24T22:49:00Z",
+            "content": "JACKSONVILLE, Fla. -- Houston Texans rookie quarterback C.J. Stroud made history during Sunday's 37-17 upset of the Jacksonville Jaguars after he went 20-for-30 for 280 yards and two touchdowns.\r\nThe\u2026 [+2563 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Philippines condemns Chinese 'floating barrier' in South China Sea - Reuters",
+            "description": "The Philippines on Sunday accused China's coast guard of installing a \"floating barrier\" in a disputed area of the South China Sea, saying it prevented Filipinos from entering and fishing in the area.",
+            "url": "https://www.reuters.com/world/asia-pacific/philippines-condemns-chinese-floating-barrier-south-china-sea-2023-09-24/",
+            "urlToImage": "https://www.reuters.com/resizer/_RJCSZCvwB8kRdGt6631iQ3bs0E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y642WGY4J5NI3KW6CWSMGDMAD4.jpg",
+            "publishedAt": "2023-09-24T22:32:21Z",
+            "content": "MANILA, Sept 24 (Reuters) - The Philippines on Sunday accused China's coast guard of installing a \"floating barrier\" in a disputed area of the South China Sea, saying it prevented Filipinos from ente\u2026 [+2413 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jared Formanek",
+            "title": "6 people dead, including 3 children, after a train hit an SUV, smashing it \u2018like a soft drink can,\u2019 Florida sheriff says - CNN",
+            "description": "Six people are dead, including three children, after a train struck an SUV as it crossed railroad tracks in Hillsborough County, Florida, Saturday evening, according to the sheriff\u2019s office.",
+            "url": "https://www.cnn.com/2023/09/24/us/florida-hillsborough-train-hits-vehicle/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230924151510-02-florida-hillsborough-train-hits-vehicle.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-24T22:17:00Z",
+            "content": "Six people are dead, including three children, after a train struck an SUV as it crossed railroad tracks in Hillsborough County, Florida, Saturday evening, according to the sheriffs office.\r\nResponde\u2026 [+3309 chars]"
         },
         {
             "source": {
@@ -47,25 +86,64 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "NFL Week 3 odds, picks, best bets, schedule, live stream: Expert selections, teasers, survivor picks and more - CBS Sports",
-            "description": "CBSSports.com and SportsLine break down every single NFL game",
-            "url": "https://www.cbssports.com/nfl/news/nfl-week-3-odds-picks-best-bets-schedule-live-stream-expert-selections-teasers-survivor-picks-and-more/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/22/17626fc0-b570-4223-a361-849b6873decf/thumbnail/1200x675/6cb116b375c55b3abb9fc19b13ee4f1b/love3.jpg",
-            "publishedAt": "2023-09-24T11:43:26Z",
-            "content": "Another week of NFL action is here, which means more surprises are surely in store. The first two weeks, after all, already gave us the Chargers slipping to 0-2, the Baker Mayfield-led Buccaneers lea\u2026 [+13179 chars]"
+            "title": "'Monday Night Football' doubleheader: Why are there two games in Week 3? How to watch, stream each - CBS Sports",
+            "description": "Explaining the prime-time double feature",
+            "url": "https://www.cbssports.com/nfl/news/monday-night-football-doubleheader-why-are-there-two-games-in-week-3-how-to-watch-stream-each/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/24/90ad8886-770f-4e97-b85a-111512b15137/thumbnail/1200x675/5b198d787bbbdb0339bfcce1e5d3fcf9/mayfield-g.jpg",
+            "publishedAt": "2023-09-24T21:42:58Z",
+            "content": "Most of the NFL's Week 3 schedule is in the books, with plenty of drama unfolding over the weekend, from the Dolphins dropping 70 points (!) on the Broncos to the Chargers stunning the Vikings for th\u2026 [+1240 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Nagorno-Karabakh: Ethnic Armenians leave amid cleansing fear - BBC",
+            "description": "Azerbaijan took full control of the territory in a flash operation, saying it would integrate residents.",
+            "url": "https://www.bbc.com/news/world-europe-66905581",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0BD0/production/_131242030_f943f42957dbdd3217297ac512e0b4c35a92a7af0_0_5062_34401000x680.jpg",
+            "publishedAt": "2023-09-24T21:19:50Z",
+            "content": "Armenia says 1,050 people have crossed into the country from Nagorno-Karabakh, days after the majority ethnic Armenian enclave was seized by Azerbaijan.\r\nThey entered after the government in Yerevan \u2026 [+3249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Sam Barsanti",
+            "title": "The Nun II barely buries Expend4bles at the weekend box office - The A.V. Club",
+            "description": "Nothing did especially well in U.S. theaters this weekend",
+            "url": "https://www.avclub.com/the-nun-ii-expend4bles-box-office-1850869279",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/54ccf9f8b00c9e5c267a19f15acc71e9.jpg",
+            "publishedAt": "2023-09-24T21:17:00Z",
+            "content": "In what seems like the most definitive proof yet that you shouldnt spend untold millions of dollars making a movie exclusively for the people who remember that there was an Expendables 3 (it came out\u2026 [+1696 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alex Oliveira",
+            "title": "Russian foreign minister ridicules Ukrainian peace plan at United Nations - New York Post ",
+            "description": "Russia\u2019s foreign minister panned a Ukrainian peace plan at the United Nations over the weekend, saying the war would have to be settled \u201con the battlefield\u201d if more \u201crealist\u2026",
+            "url": "https://nypost.com/2023/09/24/russian-foreign-minister-ridicules-ukrainian-peace-plan-at-united-nations-lets-decide-it-on-the-battlefield/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/newspress-collage-kwwe80r82-1695591272014.jpg?quality=75&strip=all&1695576914&w=1024",
+            "publishedAt": "2023-09-24T21:07:00Z",
+            "content": "Russia\u2019s foreign minister panned a Ukrainian peace plan at the United Nations over the weekend, saying the war would have to be settled \u201con the battlefield\u201d if more \u201crealistic\u201d terms couldn\u2019t be offe\u2026 [+3394 chars]"
         },
         {
             "source": {
                 "id": "espn",
                 "name": "ESPN"
             },
-            "author": "AJ Mass",
-            "title": "Fantasy football Week 3 inactives - Who's in and who's out? - ESPN - ESPN",
-            "description": "AJ Mass provides updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-            "url": "https://www.espn.com/fantasy/football/story/_/page/23suninactivesWeek3/nfl-fantasy-football-espn-injured-inactives-watchlist-week-3-2023-september-24",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0923%2Fr1228722_1296x729_16%2D9.jpg",
-            "publishedAt": "2023-09-24T11:10:00Z",
-            "content": "Whom should you start? Whom should you sit? To help you set your fantasy football lineups and avoid starting an offensive player who won't be in the lineup, we'll post fantasy-relevant updates and an\u2026 [+4321 chars]"
+            "author": null,
+            "title": "Taylor Swift accepts Travis Kelce invite, at Chiefs game - ESPN - ESPN",
+            "description": "Superstar Taylor Swift took up Travis Kelce's invitation to attend the Bears-Chiefs game at Arrowhead Stadium, sitting with Kelce's mother, Donna.",
+            "url": "https://www.espn.com/nfl/story/_/id/38481870/taylor-swift-accepts-travis-kelce-invite-chiefs-game",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0924%2Fr1229269_1024x576_16%2D9.jpg",
+            "publishedAt": "2023-09-24T20:47:00Z",
+            "content": "Sep 24, 2023, 04:47 PM ET\r\nThe latest stop for the star of the Eras Tour seems to be focused on \"Red.\" Could this be the start of a new \"Love Story\"?\r\nSuperstar Taylor Swift, decked out in red and wh\u2026 [+3205 chars]"
         },
         {
             "source": {
@@ -73,194 +151,116 @@
                 "name": "Al Jazeera English"
             },
             "author": "Al Jazeera",
-            "title": "One police officer killed in Kosovo attack blamed on Serbia - Al Jazeera English",
-            "description": "Kosovo PM describes the incident near border as \u2018terrorist action\u2019 backed by officials from neighbouring Serbia.",
-            "url": "https://www.aljazeera.com/news/2023/9/24/one-police-officer-killed-in-kosovo-attack-blamed-on-serbia",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-09-24T081824Z_1526638322_RC2VE3AL1SES_RTRMADP_3_KOSOVO-SERBIA-SHOOTING-1695543952.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-09-24T11:03:25Z",
-            "content": "Shots have been heard in an area in north Kosovo, where at least 30 gunmen have been surrounded by authorities hours after a patrol was ambushed in the area that killed one police officer, according \u2026 [+3724 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "title": "France to withdraw ambassador, troops from Niger after coup: Macron - Al Jazeera English",
+            "description": "The military rulers had been demanding the exit of envoy and troops after Macron refused to recognise the July coup.",
+            "url": "https://www.aljazeera.com/news/2023/9/24/france-to-withdraw-ambassador-troops-from-niger-after-coup-macron",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/AP22237358585077.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-09-24T20:45:18Z",
+            "content": "French President Emmanuel Macron says his country will withdraw its ambassador and troops from Niger in the wake of the July coup that overthrew democratically-elected President Mohamed Bazoum.\r\nFran\u2026 [+3552 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Felix Light, Guy Faulconbridge",
-            "title": "Nagorno-Karabakh's 120000 Armenians will leave for Armenia, leadership says - Reuters",
-            "description": "The 120,000 ethnic Armenians of Nagorno-Karabakh will leave for Armenia as they do not want to live as part of Azerbaijan and fear ethnic cleansing, the leadership of the breakaway region told Reuters on Sunday.",
-            "url": "https://www.reuters.com/world/armenia-calls-un-mission-monitor-rights-nagorno-karabakh-2023-09-24/",
-            "urlToImage": "https://www.reuters.com/resizer/6DisHGojjysf9wZNWdCLzACIH9c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NUQ3HIP3XBNXDOWCTEDFJX7AGA.jpg",
-            "publishedAt": "2023-09-24T10:27:00Z",
-            "content": "NEAR KORNIDZOR, Armenia, Sept 24 (Reuters) - The 120,000 ethnic Armenians of Nagorno-Karabakh will leave for Armenia as they do not want to live as part of Azerbaijan and fear ethnic cleansing, the l\u2026 [+5906 chars]"
+            "author": "Fatos Bytyci, Daria Sito-Sucic",
+            "title": "Serb gunmen battle police in Kosovo monastery siege; four dead - Reuters",
+            "description": "Ethnic Serb gunmen in armoured vehicles stormed a village in north Kosovo on Sunday, battling police and barricading themselves in a monastery in a resurgence of violence in <a href=\"/world/europe/why-kosovos-stand-off-with-serbs-goes-15-years-after-statehood\u2026",
+            "url": "https://www.reuters.com/world/europe/one-police-officer-killed-another-injured-kosovo-gunfire-pm-kurti-2023-09-24/",
+            "urlToImage": "https://www.reuters.com/resizer/UzGVbYOapUUzxh40UoR6ar9545w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/724INV5KORI6BAYCSGOSQVATNU.jpg",
+            "publishedAt": "2023-09-24T20:38:00Z",
+            "content": "NORTH MITROVICA, Kosovo, Sept 24 (Reuters) - Ethnic Serb gunmen in armoured vehicles stormed a village in north Kosovo on Sunday, battling police and barricading themselves in a monastery in a resurg\u2026 [+4037 chars]"
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Jordan Pandy",
-            "title": "The 10 cities where home prices are falling the most - Business Insider",
-            "description": "Home prices are starting to come back down to earth in some cities that saw boosts during the pandemic, like Austin, Texas, and Boise, Idaho.",
-            "url": "https://www.businessinsider.com/cities-where-home-prices-are-falling-the-most-2023-9",
-            "urlToImage": "https://i.insider.com/650dd34ee453d50019f7ddee?width=1200&format=jpeg",
-            "publishedAt": "2023-09-24T10:03:00Z",
-            "content": "Prospective homebuyers waiting for prices to drop have something to be excited about. Listings site Realtor.com just put out a new ranking of where home prices are falling the most, compared to a yea\u2026 [+1527 chars]"
+            "author": null,
+            "title": "Houston Texans vs. Jacksonville Jaguars | 2023 Week 3 Game Highlights - NFL",
+            "description": "Watch live local and primetime games on mobile, NFL RedZone, and NFL Network on NFL+ Premium. Visit Plus.NFL.comCheck out our other channels:NFL Mundo https:...",
+            "url": "https://www.youtube.com/watch?v=gTE1VHo727s",
+            "urlToImage": "https://i.ytimg.com/vi/gTE1VHo727s/maxresdefault.jpg",
+            "publishedAt": "2023-09-24T20:20:01Z",
+            "content": null
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Molly Robey",
-            "title": "D.C.-area forecast: Rain tapers to drizzle today; cloudy and cool through midweek - The Washington Post",
-            "description": "Winds are thankfully much lighter today, with only a few gusty breezes early.",
-            "url": "https://www.washingtonpost.com/weather/2023/09/24/dc-area-forecast-ophelia-showers/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZ67SMQBFJCQVFJNO6VM5W7WJI.jpg&w=1440",
-            "publishedAt": "2023-09-24T10:00:52Z",
-            "content": "Comment on this story\r\nComment\r\nA somewhat subjective rating of the days weather, on a scale of 0 to 10.\r\n2/10: The first full day of fall is a damp and dreary one with a.m. rain, p.m. drizzle and a \u2026 [+2000 chars]"
+            "author": "Lauren Kaori Gurley, Jeanne Whalen, Erica Werner",
+            "title": "Democrats embrace Biden's upcoming visit to Michigan UAW picket lines - The Washington Post",
+            "description": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) applauded Biden\u2019s trip \u2014 which labor experts believe will be the first by a sitting president in at least 100 years \u2014 as a \u201chistoric event.\u201d",
+            "url": "https://www.washingtonpost.com/business/2023/09/24/uaw-strike-updates-biden/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KXWKKKN7A47ACTCQ47W2FD6OPQ.JPG&w=1440",
+            "publishedAt": "2023-09-24T20:12:03Z",
+            "content": "Comment on this story\r\nComment\r\nAs strikes against the Big Three Detroit automakers enter their 10th day Sunday, Democrats are praising a visit by President Biden to Michigan, scheduled for Tuesday, \u2026 [+7030 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Phys.Org"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "MADDIE BURAKOFF, LAURA UNGAR",
-            "title": "Science paints a new picture of the ancient past, when we mixed and mated with other kinds of humans - Phys.org",
-            "description": "What does it mean to be human?",
-            "url": "https://phys.org/news/2023-09-science-picture-ancient-kinds-humans.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/science-paints-a-new-p.jpg",
-            "publishedAt": "2023-09-24T09:28:22Z",
-            "content": "What does it mean to be human?\r\nFor a long time, the answer seemed clear. Our species, Homo sapienswith our complex thoughts and deep emotionswere the only true humans to ever walk the Earth. Earlier\u2026 [+8374 chars]"
+            "author": "Aliza Chasan",
+            "title": "Former President Jimmy Carter attends Georgia peanut festival ahead of his 99th birthday - CBS News",
+            "description": "The Carter Center said former President Jimmy Carter and his wife, Rosalynn, took a ride through Plains Peanut Festival in their hometown over the weekend.",
+            "url": "https://www.cbsnews.com/news/former-president-jimmy-carter-peanut-festival-99th-birthday-plains-georgia/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/24/afea5534-5ef1-4ebb-affa-7d7d8f8fc9a0/thumbnail/1200x630/1bae323b6bb65973f264b4a26f8511b8/gettyimages-1043567960.jpg?v=f5251b37272e6b1bc4e5456ab4445a67",
+            "publishedAt": "2023-09-24T20:09:45Z",
+            "content": "Former President Jimmy Carter and his wife, Rosalynn, made a surprise visit to the Plains Peanut Festival in Georgia on Saturday, the Carter Center wrote in a social media post.\r\nThe visit took place\u2026 [+1001 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Sofia Barrett",
-            "title": "Yom Kippur is the holiest day of the year in Judaism. Here\u2019s what that means - CNN",
-            "description": "Yom Kippur, or the Day of Atonement, is considered the holiest day of the year for people who practice Judaism.",
-            "url": "https://www.cnn.com/2023/09/24/us/yom-kippur-things-to-know/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230922151431-yom-kippur-2023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-24T09:28:00Z",
-            "content": "Yom Kippur, or the Day of Atonement, is considered the holiest day of the year for people who practice Judaism.\r\nThe holiday technically spans two calendar days, because the Jewish calendar is lunar.\u2026 [+2799 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Sara Chernikoff",
-            "title": "Which states have the highest obesity rates? These charts explain - USA TODAY",
-            "description": "A state-by-state look at adult obesity rates highlights the necessity of public health support at a more localized level.",
-            "url": "https://www.usatoday.com/story/news/health/2023/09/24/states-with-highest-obesity-rates/70933055007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/09/22/USAT/e5a3ad59-40df-4152-9a25-0f9a5c2d6483-GettyImages-57319981.jpg?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-24T09:18:15Z",
-            "content": "More than 4 in 10\u00a0Americans now fit the medical definition for having obesity, putting them at risk for serious health problems, including diabetes, heart disease and some types of cancer.\u00a0But when l\u2026 [+2652 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Eddie Spence, Yvonne Yue Li",
-            "title": "Gold Outlook: Are Prices Set to Rise or Drop? - Bloomberg",
-            "description": "What determines the price of gold? For much of the past decade the answer was easy: the price of money. The lower rates fell, the higher gold climbed, and vice versa.",
-            "url": "https://www.bloomberg.com/news/articles/2023-09-24/gold-outlook-are-prices-set-to-rise-or-drop",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irYlbVrPOmzU/v0/1200x806.jpg",
-            "publishedAt": "2023-09-24T08:32:18Z",
-            "content": "What determines the price of gold? For much of the past decade the answer was easy: the price of money. The lower rates fell, the higher gold climbed, and vice versa.\r\nGold is the quintessential anti\u2026 [+269 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Rachel Pannett",
-            "title": "Russia-Ukraine war news: Kyiv again targets Crimea - The Washington Post",
-            "description": "Missiles headed toward Sevastopol were intercepted, the city\u2019s Kremlin-installed governor said, one day after Ukrainian forces struck Russia\u2019s Black Sea Fleet.",
-            "url": "https://www.washingtonpost.com/world/2023/09/24/russia-ukraine-war-news/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WNVQY7C5XOLOPTWIAY74ZOQASE_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-09-24T08:12:28Z",
-            "content": "Ukraine on Saturday waged another attack on Sevastopol on the occupied Crimean Peninsula, according to a Kremlin-installed official, one day after a Ukrainian strike on the headquarters of Russias Bl\u2026 [+3738 chars]"
+            "author": "Katelyn Polantz, Kaanita Iyer, Shawna Mizelle",
+            "title": "Cassidy Hutchinson defends herself in first post-testimony TV interview - CNN",
+            "description": "Cassidy Hutchinson, the former Trump White House aide who delivered bombshell testimony to the House committee investigating the January 6 insurrection, defended the anecdotes she recounted under oath in her first TV interview since her Capitol Hill testimony.",
+            "url": "https://www.cnn.com/2023/09/24/politics/cassidy-hutchinson-interview-testimony-book/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230924105241-cassidy-hutchinson-file-2022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-24T20:02:00Z",
+            "content": "Cassidy Hutchinson, the former Trump White House aide who delivered bombshell testimony to the House committee investigating the January 6 insurrection, defended the anecdotes she recounted under oat\u2026 [+3386 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TMZ"
+                "name": "WOODTV.com"
             },
-            "author": "TMZ Staff",
-            "title": "*NSYNC, Backstreet Boys, Destiny's Child Not In Talks for Super Bowl LVIII Performance - TMZ",
-            "description": "*NSYNC, Backstreet Boys, and Destiny's Child aren't in talks to perform at the Super Bowl despite fan speculation.",
-            "url": "https://www.tmz.com/2023/09/24/nsync-backstreet-boys-destinys-child-not-talks-super-bowl-performance/",
-            "urlToImage": "https://imagez.tmz.com/image/08/16by9/2023/09/22/085ecebfcc9b4f94a5d0b372a6c8d578_xl.jpg",
-            "publishedAt": "2023-09-24T07:50:00Z",
-            "content": "Fans have been thinking former groups *NSYNC, Backstreet Boys, and Destiny's Child will all take the stage at this year's Super Bowl ... turns out, it's not gonna happen.\r\nSources with direct knowled\u2026 [+800 chars]"
+            "author": "The Associated Press",
+            "title": "Science paints new picture of the past, when we mixed and mated with other kinds of humans - WOODTV.com",
+            "description": "Along with more fossils and artifacts, the DNA findings are pointing us to a challenging idea: We\u2019re not so special. For most of human history we shared the planet with other kinds of early humans, and those now-extinct groups were a lot like us.",
+            "url": "https://www.woodtv.com/news/nexstar-media-wire/science-paints-new-picture-of-the-past-when-we-mixed-and-mated-with-other-kinds-of-humans/",
+            "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/09/AP23265799256839.jpg?w=1280",
+            "publishedAt": "2023-09-24T18:53:28Z",
+            "content": "What does it mean to be human?\r\nFor a long time, the answer seemed clear. Our species, Homo sapiens with our complex thoughts and deep emotions were the only true humans to ever walk the Earth. Earli\u2026 [+8007 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sports Illustrated"
+                "name": "YouTube"
             },
-            "author": "Pat Forde",
-            "title": "Ohio State, Ryan Day Send Message With Gritty Win Over Notre Dame - Sports Illustrated",
-            "description": "The Buckeyes and their coach shocked the Irish with a last-second score in the biggest game of the season to date.",
-            "url": "https://www.si.com/college/2023/09/24/ohio-state-ryan-day-send-message-gritty-win-notre-dame",
-            "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAxMDE3NDgyOTM1MjgxMzE0/ohio-state.jpg",
-            "publishedAt": "2023-09-24T05:32:47Z",
-            "content": "Chip Trayanum was lying on the goal line with the football, unleashing an Ohio State celebration that would climax with Ryan Day bellowing on live television like a madman about Lou Holtz and toughne\u2026 [+7207 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Tribune India"
-            },
-            "author": "The Tribune India",
-            "title": "US provided Canada with intelligence on killing of KTF chief Hardeep Singh Nijjar: Report - The Tribune India",
-            "description": null,
-            "url": "https://www.tribuneindia.com/news/punjab/us-provided-canada-with-intelligence-on-killing-of-ktf-chief-hardeep-singh-nijjar-report-547317",
-            "urlToImage": null,
-            "publishedAt": "2023-09-24T05:11:00Z",
+            "author": null,
+            "title": "Sen. Menendez rejects calls to resign after bribery indictment - TODAY",
+            "description": "New Jersey\u2019s indicted Democratic Senator Bob Menendez says he has no plans to resign amid mounting pressure from his own party to step down. Federal prosecut...",
+            "url": "https://www.youtube.com/watch?v=mHckTnejs40",
+            "urlToImage": "https://i.ytimg.com/vi/mHckTnejs40/maxresdefault.jpg",
+            "publishedAt": "2023-09-24T18:30:51Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Orlando Sentinel"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Richard Tribou",
-            "title": "SpaceX sends up 200th reflight with Cape Canaveral launch - Orlando Sentinel",
-            "description": "SpaceX\u2019s reusability juggernaut kept rolling with a Space Coast launch Saturday night that marked the 200th time the company has relied on a previously launched booster to get its payloads to\u2026",
-            "url": "http://www.orlandosentinel.com/2023/09/23/spacex-sets-up-200th-reflight-with-cape-canaveral-launch-tonight/",
-            "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2023/09/spacexfalcon9launch092423.jpg?w=1024&h=585",
-            "publishedAt": "2023-09-24T04:35:22Z",
-            "content": "SpaceX\u2019s reusability juggernaut kept rolling with a Space Coast launch Saturday night that marked the 200th time the company has relied on a previously launched booster to get its payloads to space.\r\u2026 [+2016 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pro Football Network"
-            },
-            "author": null,
-            "title": "NFL Weather Report and Forecast Week 3: Tropical Storm Ophelia Set for Impact - Pro Football Network",
-            "description": "What is the latest weather report for Week 3 of the 2023 NFL season, and how might it impact all of the games taking place on Sunday and Monday?",
-            "url": "https://www.profootballnetwork.com/fantasy-weather-report-forecast-week-3-2023/",
-            "urlToImage": "https://static.profootballnetwork.com/wp-content/uploads/2023/09/23135617/NFL-Weather-Report-and-Forecast-Week-3-Tropical-Storm-Ophelia-Set-for-Impact.jpg",
-            "publishedAt": "2023-09-24T04:20:07Z",
-            "content": "Heading into Week 3 of the 2023 NFL season, there has been a lot of talk about the potential impact of Tropical Storm Ophelia on the games. The NFL made no plans to move any of their Week 3 games tha\u2026 [+8768 chars]"
+            "author": "Richard Cowan, Sarah N. Lynch",
+            "title": "Republicans appeal to far right to avert US government shutdown - Reuters",
+            "description": "With just a week before Washington runs out of money to keep the federal government fully operating, warring factions within the Republican Party in the U.S. Congress on Sunday showed no signs of coming together to pass a stopgap funding bill.",
+            "url": "https://www.reuters.com/world/us/republicans-appeal-far-right-conservatives-avert-us-government-shutdown-2023-09-24/",
+            "urlToImage": "https://www.reuters.com/resizer/eIsPxDsWuzLD-XWNfFg_rrCEPDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KKQREMOPK5N5NPZURXUODAZETE.jpg",
+            "publishedAt": "2023-09-24T18:07:00Z",
+            "content": "WASHINGTON, Sept 24 (Reuters) - With just a week before Washington runs out of money to keep the federal government fully operating, warring factions within the Republican Party in the U.S. Congress \u2026 [+3982 chars]"
         }
     ]
 }
