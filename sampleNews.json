@@ -1,97 +1,240 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 35,
     "articles": [
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Gawon Bae",
-            "title": "North Korea has decided to \u2018expel\u2019 US soldier Travis King, state media reports - CNN",
-            "description": "North Korea has decided \u201cto expel\u201d US Army Private Travis King, who crossed into the North from South Korea during a tour of the joint security area in July, state media KCNA reported on Wednesday.",
-            "url": "https://www.cnn.com/2023/09/27/asia/north-korea-travis-king-expel-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230719122628-01-travis-king.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-27T10:30:00Z",
-            "content": "North Korea has decided to expel US Army Private Travis King, who crossed into the North from South Korea during a tour of the joint security area in July, state media KCNA reported on Wednesday.\r\nTh\u2026 [+1651 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Amina Ismail",
-            "title": "Iraq wedding fire kills more than 100 as relatives identify bodies - Reuters",
-            "description": "A fire ripped through a packed wedding hall in northern Iraq late on Tuesday, killing more than 100 people in a Christian town that had survived Islamic State occupation as authorities announced an investigation into the blaze.",
-            "url": "https://www.reuters.com/world/middle-east/least-9-killed-25-injured-fire-wedding-celebration-iraq-health-security-source-2023-09-26/",
-            "urlToImage": "https://www.reuters.com/resizer/TqjURFbq6b7HJ25XcqRPP-1YJCY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4C5P5L457JOXPLS7J454ZVYZFQ.jpg",
-            "publishedAt": "2023-09-27T10:26:42Z",
-            "content": "MOSUL, Iraq, Sept 27 (Reuters) - A fire ripped through a packed wedding hall in northern Iraq late on Tuesday, killing more than 100 people in a Christian town that had survived Islamic State occupat\u2026 [+3546 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Elizabeth Wolfe, Jamiel Lynch",
-            "title": "Baltimore police searching for \u2018extremely dangerous\u2019 ex-con in killing of 26-year-old female tech CEO - CNN",
-            "description": "Baltimore police continue to search for an \u201cextremely dangerous\u201d man suspected of murdering 26-year-old tech CEO Pava LaPere, who was found dead in an apartment building on Monday.",
-            "url": "https://www.cnn.com/2023/09/27/us/baltimore-tech-ceo-murder-suspect-pava-lapere-wednesday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230927154206-jason-dean-billingsley.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-27T10:20:00Z",
-            "content": "Baltimore police continue to search for an extremely dangerous man suspected of murdering 26-year-old tech CEO Pava LaPere, who was found dead in an apartment building on Monday. \r\nThe suspect, 32-ye\u2026 [+4022 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Kelsey Ables, Adela Suliman, Natalia Abbakumova",
-            "title": "Russia-Ukraine war news: Russia claims Admiral Viktor Sokolov is alive - The Washington Post",
-            "description": "The fate of Russia\u2019s black sea fleet commander Adm. Viktor Sokolov remains unclear, as Russia\u2019s state-run defense TV channel posted footage of him speaking.",
-            "url": "https://www.washingtonpost.com/world/2023/09/27/russia-ukraine-war-news/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EMP272TS7UVL6VJ5743Q26QQW4_size-normalized.JPG&w=1440",
-            "publishedAt": "2023-09-27T10:20:00Z",
-            "content": "Uncertainty continues to surround the fate of Adm. Viktor Sokolov, the commander of Russias Black Sea Fleet, whom Ukraine claimed to have killed in a strike on the fleets headquarters in Crimea last \u2026 [+5907 chars]"
-        },
         {
             "source": {
                 "id": "usa-today",
                 "name": "USA Today"
             },
-            "author": "Jon Hoefling",
-            "title": "Travis Kelce sees jersey sales skyrocket after Taylor Swift shows up at Chiefs' game - USA TODAY",
-            "description": "After months of rumors floating around regarding a romance between Travis Kelce and Taylor Swift, Kelce jersey sales soar after Swift was seen at Arrowhead.",
-            "url": "https://www.usatoday.com/story/sports/nfl/chiefs/2023/09/25/travis-kelce-jersey-sales-soar-with-taylor-swift/70965826007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/26/USAT/70966233007-usatsi-21500600-168402559-lowres.jpg?crop=2303,1296,x0,y76&width=2303&height=1296&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-27T10:07:48Z",
-            "content": "After months of rumors, speculation, and internet detectives using circumstantial evidence and the tiniest of bread crumbs to determine the validity of Kansas City Chiefs' tight end Travis Kelce's ro\u2026 [+2787 chars]"
+            "author": "USA TODAY",
+            "title": "Ukraine war live updates: Russia accuses US of aiding attack on fleet - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/news/world/ukraine/2023/09/27/ukraine-russia-war-live-updates/70978356007/",
+            "urlToImage": null,
+            "publishedAt": "2023-09-27T21:55:14Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Emma Kinery",
-            "title": "Biden stands with striking UAW autoworkers in Michigan: 'Stick with it' - CNBC",
-            "description": "President Joe Biden joined striking UAW members on the picket line outside Detroit and urged strikers to continue their fight until they reach a fair deal.",
-            "url": "https://www.cnbc.com/2023/09/26/biden-stands-with-striking-uaw-autoworkers-in-michigan.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107306844-16957484112023-09-26t170752z_1493804321_rc2hg3a9mczz_rtrmadp_0_autos-labor-uaw-biden.jpeg?v=1695754426&w=1920&h=1080",
-            "publishedAt": "2023-09-27T10:02:28Z",
-            "content": "President Joe Biden joined United Auto Workers members Tuesday on the picket line outside Detroit and urged strikers to continue their fight for new contracts.\r\n\"The fact of the matter is you guys, t\u2026 [+2719 chars]"
+            "author": "Kevin Breuninger",
+            "title": "Trump loses bid to recuse judge from federal election interference case - CNBC",
+            "description": "Donald Trump claimed statements Judge Tanya Chutkan made Jan. 6 Capitol riot cases disqualified her from presiding over his election interference case.",
+            "url": "https://www.cnbc.com/2023/09/27/trump-loses-bid-to-recuse-judge-from-federal-election-case.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107285390-1691776451269-Judge_Tanya_Chutkan_3.jpg?v=1695851230&w=1920&h=1080",
+            "publishedAt": "2023-09-27T21:43:25Z",
+            "content": "Former President Donald Trump on Wednesday lost a bid to have a federal judge remove herself from presiding over his criminal election interference case in Washington, D.C.\r\nJudge Tanya Chutkan said \u2026 [+3056 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL Week 4 injuries: Packers' Aaron Jones, Christian Watson questionable vs. Lions; rookie QBs back practicing - CBS Sports",
+            "description": "Breaking down the mid-week NFL injury report",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-4-injuries-packers-aaron-jones-christian-watson-questionable-vs-lions-rookie-qbs-back-practicing/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/24/28c624cf-a718-43b2-b730-34966bbf4045/thumbnail/1200x675/827883e6daeda9a96c1ddf92221ba790/usatsi-aaron-jones-packers.jpg",
+            "publishedAt": "2023-09-27T21:38:00Z",
+            "content": "As we enter Week 4 of the 2023 NFL regular season, there are plenty of notable injuries to monitor. Giants running back Saquon Barkley is still on the mend after suffering a high ankle sprain vs. the\u2026 [+6858 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Laura Paddison",
-            "title": "Britain approves huge, controversial oil and gas field in the North Sea - CNN",
-            "description": "The British government approved the development of a huge oil and gas field in the North Sea Wednesday, sealing its commitment to keep producing fossil fuels for decades to come.",
-            "url": "https://www.cnn.com/2023/09/27/energy/rosebank-oil-gas-field-britain-climate-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230927031258-01-north-sea-oil-rig-021323-file-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-27T09:15:00Z",
-            "content": "The British government approved the development of a huge oil and gas field in the North Sea Wednesday, sealing its commitment to keep producing fossil fuels for decades to come.\r\nThe Rosebank field,\u2026 [+3361 chars]"
+            "author": "Sabrina Souza, Devan Cole",
+            "title": "Trump Org. tries to figure out the future of its business after fraud ruling - CNN",
+            "description": "The Trump Organization is trying to determine the sweep of Tuesday\u2019s ruling that Donald Trump is liable for fraud and what it means for the future of the former president\u2019s namesake business, his attorneys say.",
+            "url": "https://www.cnn.com/2023/09/27/politics/trump-org-fraud-ruling-receivership-impact/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230926145234-01-trump-tower-040323.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-27T21:33:00Z",
+            "content": "The Trump Organization is trying to determine the sweep of Tuesdays ruling that Donald Trump is liable for fraud and what it means for the future of the former presidents namesake business, his attor\u2026 [+6479 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "WILL WEISSERT, STEVE PEOPLES",
+            "title": "Republicans face growing urgency to stop Trump as they enter the second presidential debate - The Associated Press",
+            "description": "Republicans are meeting for their second presidential debate as top rivals seek to blunt the momentum of Donald Trump. The former president is so confident that he will continue to cruise through the party\u2019s primary that he\u2019s again forgoing sharing a stage wi\u2026",
+            "url": "https://apnews.com/article/republican-second-presidential-debate-2024-46ce9209b5150d577d5ff361522f6bed",
+            "urlToImage": "https://dims.apnews.com/dims4/default/cbfd9f0/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fea%2F20%2Fc5f5219a1a5909783e44d68db417%2Fus-gop-debate-preview-ap-explains-20230926cr-1920x1080.jpg",
+            "publishedAt": "2023-09-27T20:52:00Z",
+            "content": "SIMI VALLEY, Calif. (AP) Republicans are meeting for their second presidential debate on Wednesday as Donald Trumps top rivals seek to blunt the momentum of the former president, who is so confident \u2026 [+5439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Ayana Archie",
+            "title": "Kia and Hyundai recall more than 3 million vehicles due to the risk of fire - NPR",
+            "description": "More than 1.6 million Hyundais and 1.7 million Kias are at risk of engine compartment fires. Owners of the affected vehicles are urged to park them outside and away from homes and buildings.",
+            "url": "https://www.npr.org/2023/09/27/1202075844/kia-hyundai-recall-fire",
+            "urlToImage": "https://media.npr.org/assets/img/2023/09/27/ap20051799561461_wide-cefaacbf1ffcddcb4dcd4386aa66119b7715c937-s1400-c100.jpg",
+            "publishedAt": "2023-09-27T19:58:30Z",
+            "content": "Hyundai and Kia are recalling more than 3 million vehicles due to the risk of fire in the engine compartments. Twenty-three separate models are included in the recall, including the 2011 Kia Sorento,\u2026 [+2579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jonathan Vanian",
+            "title": "Meta CEO Mark Zuckerberg looks to digital assistants, smart glasses and AI to help metaverse push - CNBC",
+            "description": "Meta is rolling out new AI software in addition to its Quest 3 virtual reality headset and latest smart glasses as it tries to move the world to the metaverse.",
+            "url": "https://www.cnbc.com/2023/09/27/meta-ceo-zuckerberg-looks-to-digital-assistants-ai-to-push-metaverse.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107307718-1695846920017-gettyimages-1693652103-AFP_33WW2GR.jpeg?v=1695847029&w=1920&h=1080",
+            "publishedAt": "2023-09-27T19:52:21Z",
+            "content": "Meta has new artificial intelligence tools and celebrity-endorsed digital assistants that CEO Mark Zuckerberg hopes will help eventually help jumpstart the metaverse.\r\nZuckerberg showed off the AI so\u2026 [+3706 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "NASA astronaut Frank Rubio is home after a year in space - Ars Technica",
+            "description": "His mission was originally supposed to last six months.",
+            "url": "https://arstechnica.com/space/2023/09/nasa-astronaut-frank-rubio-is-home-after-a-year-in-space/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/53216328462_8049492c7b_k-760x380.jpg",
+            "publishedAt": "2023-09-27T19:48:45Z",
+            "content": "Enlarge/ NASA astronaut Frank Rubio smiles and waves moments after arriving back on Earth to wrap up more than a year in orbit.\r\n13 with \r\nNASA astronaut Frank Rubio and two Russian crewmates parachu\u2026 [+3186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WBAL TV Baltimore"
+            },
+            "author": "Barry Simms",
+            "title": "Police: Baltimore CEO murder suspect linked to earlier arson, rape - WBAL TV Baltimore",
+            "description": "Baltimore police confirmed the suspect accused of killing a Baltimore tech CEO is also wanted in connection to a separate attempted murder, arson and rape.",
+            "url": "https://www.wbaltv.com/article/baltimore-ceo-murder-suspect-linked-earlier-arson-rape/45343035",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-image-2023-09-26t221557-240-65148256c097f.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-09-27T19:28:00Z",
+            "content": "BALTIMORE \u2014Baltimore police confirmed that the suspect accused of killing Baltimore tech CEO Pava LaPere is also wanted in connection to another violent crime from earlier this month.\r\nJason Billings\u2026 [+991 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Stella Kim, Patrick Smith, Courtney Kube, Mosheh Gains, Alexandra Bacallao, Daniel Arkin, Andrea Mitchell, Abigail Williams",
+            "title": "North Korea to expel U.S. soldier Travis King who crossed border - NBC News",
+            "description": "North Korea said Wednesday that it will expel Travis King, the American Army private who ran across the border into the isolated country this summer.",
+            "url": "https://www.nbcnews.com/news/world/north-korea-expel-us-soldier-travis-king-crossed-border-rcna117553",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230724-travis-king-mn-1105-72b334.jpg",
+            "publishedAt": "2023-09-27T19:27:13Z",
+            "content": "A statement reported by the state-run news agency KCNA said King had confessed he illegally intruded into North Korean territory because he was disillusioned about inhumane treatment and racial discr\u2026 [+3138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Connor Smith",
+            "title": "Hollywood Writers Got a Small AI Win. It's Just the Start. - Barron's",
+            "description": "AI can't be used to create or rewrite literary material, under a tentative deal between writers and studios. Next up? Journalists.",
+            "url": "https://www.barrons.com/articles/ai-employees-writers-strike-union-182997fc",
+            "urlToImage": "https://images.barrons.com/im-14127244/social",
+            "publishedAt": "2023-09-27T19:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Glamour"
+            },
+            "author": "Elizabeth Logan",
+            "title": "Sophie Turner and Joe Jonas's Second Daughter Has a Gorgeous Name - Glamour",
+            "description": "Sophie Turner and Joe Jonas's second daughter's name has finally been revealed, and it's very sweet.",
+            "url": "https://www.glamour.com/story/sophie-turner-and-joe-jonass-second-daughter-has-a-gorgeous-name",
+            "urlToImage": "https://media.glamour.com/photos/6514752611f7d5328e2b4d16/16:9/w_1280,c_limit/1473231730",
+            "publishedAt": "2023-09-27T18:59:24Z",
+            "content": "The one silver lining of the increasingly contentious Turner-Jonas divorce (besides Sophie Turner and Taylor Swift going out to dinner): Court documents have revealed the name of their second daughte\u2026 [+1783 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Trudeau apologizes for tribute to vet who fought in WWII Nazi unit - POLITICO",
+            "description": "Prime minister acknowledges harm \u201cto Ukraine\u2019s public relations efforts.\u201d",
+            "url": "https://www.politico.com/news/2023/09/27/trudeau-tribute-vet-wwii-nazi-apology-00118436",
+            "urlToImage": "https://static.politico.com/ec/bf/b047387f42b1adad4af308e14adf/russia-ukraine-war-canada-44375.jpg",
+            "publishedAt": "2023-09-27T18:55:53Z",
+            "content": "All of us who were in this House on Friday regret deeply having stood and clapped, even though we did so unaware of the context, he said.\r\nIt was a horrendous violation of the memory of the millions \u2026 [+1181 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Dr J.N Pandey",
+            "title": "Leo Daily Horoscope Today, September 28, 2023 predicts opportunities for gains - Hindustan Times",
+            "description": "Read Leo daily horoscope for Sept 28, 2023 to know your daily astrological predictions. The financial forecast for Leo is extremely positive today. | Horoscope",
+            "url": "https://www.hindustantimes.com/astrology/horoscope/leo-daily-horoscope-today-september-28-2023-predicts-opportunities-for-gains-101695829507385.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/27/1600x900/leo_monthly_horoscope_1690875818840_1695829701573.jpg",
+            "publishedAt": "2023-09-27T18:34:02Z",
+            "content": "Leo (23rd July to 22nd August)\r\nDaily Horoscope Prediction says, Roaring into Success\r\nYou may find yourself embracing your inner lion today as the cosmos are aligning to push you towards your goals.\u2026 [+3217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitco NEWS"
+            },
+            "author": "http://www.facebook.com/kitconews",
+            "title": "Gold could fall to $1850 and then $1800 after breaking below August lows - Kitco NEWS",
+            "description": "Kitco News' general-interest stories takes a look at what is making headlines in the marketplace and how that is impacting precious metals prices",
+            "url": "https://www.kitco.com/news/2023-09-27/Gold-could-fall-to-1-850-and-then-1-800-after-breaking-below-August-lows.html",
+            "urlToImage": "https://www.kitco.com/news/2023-09-27/images/shutterstock_2169314995.jpg",
+            "publishedAt": "2023-09-27T18:30:00Z",
+            "content": "(Kitco News) - The headwinds from persistent strength in the U.S. dollar and 10-year bond yields over 4.5% have proved too much for the gold market as prices fall to their lowest level since March.\r\n\u2026 [+3367 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Travis Kelce-Taylor Swift rumors: Patrick Mahomes confirms he met pop star at Chiefs after-party - CBS Sports",
+            "description": "Mahomes did meet Swift -- and wouldn't discuss more",
+            "url": "https://www.cbssports.com/nfl/news/travis-kelce-taylor-swift-rumors-patrick-mahomes-confirms-he-met-pop-star-at-chiefs-after-party/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/24/0517bb06-c095-43ae-8b08-05668ffd8fa3/thumbnail/1200x675/cd7872be3e690fa54c73e6e4731e9ead/chiefs-jpeg.jpg",
+            "publishedAt": "2023-09-27T18:25:04Z",
+            "content": "Taylor Swift visiting Travis Kelce\u00a0in Week 3 -- and going out with him after the Kansas City Chiefs game -- has taken the NFL and entertainment world by storm. In the days following Swift's appearanc\u2026 [+1463 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Sources - Blazers trading Damian Lillard to Bucks in 3-team deal - ESPN - ESPN",
+            "description": "The Portland Trail Blazers are trading guard Damian Lillard to the Milwaukee Bucks as part of a three-team deal that also includes the Phoenix Suns, sources told ESPN's Adrian Wojnarowski.",
+            "url": "https://www.espn.com/nba/story/_/id/38505763/sources-blazers-trading-damian-lillard-bucks-3-team-deal",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0819%2Fr1212558_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-09-27T18:24:00Z",
+            "content": "Sep 27, 2023, 02:24 PM ET\r\nThe Portland Trail Blazers are trading guard Damian Lillard to play to alongside Giannis Antetokounmpo with the Milwaukee Bucks as part of a three-team deal that also inclu\u2026 [+2037 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Meta Connect 2023: Everything you need to know about Quest 3 VR, Ray-Ban smart glasses and Meta AI - TechCrunch",
+            "description": "Meta's annual Connect conference started today, and this means lots of new hardware and perhaps a Metaverse sighting.",
+            "url": "https://techcrunch.com/2023/09/27/meta-connect-2023-quest-3-vr-everything-you-need-to-know/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-27-at-10.41.21-AM.png?resize=1200,607",
+            "publishedAt": "2023-09-27T18:22:30Z",
+            "content": "Meta\u2019s annual Connect conference started today, and this means lots of new hardware. Are you ready for an update on Meta Quest 3?\u00a0Didnt have time to tune in live? Thats okay we summed up the most imp\u2026 [+2873 chars]"
         },
         {
             "source": {
@@ -99,168 +242,25 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Donald Trump liable for business fraud, says judge in New York civil case - BBC",
-            "description": "The former president was accused of overvaluing his net worth by as much as $ 2.2bn.",
-            "url": "https://www.bbc.com/news/world-us-canada-66931855",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17652/production/_131262859_ec10df05890093f10ef58569e4a742ed0f44535d0_106_5500_30951000x563.jpg",
-            "publishedAt": "2023-09-27T08:24:09Z",
-            "content": "Donald Trump committed fraud by repeatedly misrepresenting his wealth by hundreds of millions of dollars, a New York judge has ruled.\r\nThe ruling, part of a civil case brought against the former pres\u2026 [+3470 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Vasco Cotovio, Frederik Pleitgen, Daniel Hodge, Kostyantyn Gak",
-            "title": "Exclusive: Inside Ukraine\u2019s offensive in the East - CNN",
-            "description": "Two Ukrainian soldiers huddle around a drone controller in darkness, their faces illuminated only by its screen.",
-            "url": "https://www.cnn.com/2023/09/27/europe/ukraine-eastern-offensive-cotovio-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230926170825-01-ukraines-eastern-offensive-cnn.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-27T06:45:00Z",
-            "content": "Two Ukrainian soldiers huddle around a drone controller in darkness, their faces illuminated only by its screen.\r\nOh, something is burning, one says. Theyve just dropped a bomb on a Russian target. \r\u2026 [+4688 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jeremy Harlan",
-            "title": "DNA testing leads to exoneration of California man imprisoned nearly 3 decades on kidnapping and sexual assault convictions - CNN",
-            "description": "After a California man spent nearly three decades in prison for kidnapping, sexual assault and robbery convictions, new DNA testing has revealed he was innocent of those crimes, a prosecutor announced.",
-            "url": "https://www.cnn.com/2023/09/27/us/california-man-exonerated-kidnapping-assault-gerardo-cabanillas/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230926174744-02-gerardo-cabanillas.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-09-27T06:31:00Z",
-            "content": "After a California man spent nearly three decades in prison for kidnapping, sexual assault and robbery convictions, new DNA testing has revealed he was innocent of those crimes, a prosecutor announce\u2026 [+2887 chars]"
+            "title": "Iraq fire: At least 93 killed in blaze at wedding party in Qaraqosh - BBC",
+            "description": "Witnesses and officials say the fire was sparked by fireworks set off inside the hall in Qaraqosh.",
+            "url": "https://www.bbc.com/news/world-middle-east-66932327",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10262/production/_131264166_mediaitem131264162.jpg",
+            "publishedAt": "2023-09-27T18:04:05Z",
+            "content": "Media caption, Iraq wedding fire: How the blaze unfolded\r\nAt least 94 people have died and 100 others are injured after a fire broke out during a wedding in Iraq's biggest Christian town on Tuesday n\u2026 [+5061 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "Canada's House speaker has stepped down after inviting a Nazi veteran to Parliament - NPR",
-            "description": "Just after Ukrainian President Zelenskyy gave an address in the House of Commons, Canadian lawmakers gave 98-year-old Yaroslav Hunka a standing ovation when the House speaker drew attention to him.",
-            "url": "https://www.npr.org/2023/09/27/1201951754/canadas-house-speaker-steps-down-after-inviting-nazi-veteran-parliament",
-            "urlToImage": "https://media.npr.org/assets/img/2023/09/27/ap23268533576965_wide-76f52bf1eb41f21cd2db89e674d09510ab31b6a3-s1400-c100.jpg",
-            "publishedAt": "2023-09-27T05:52:50Z",
-            "content": "The Speaker of the House of Commons Anthony Rota delivers a speech following an address by Ukrainian President Volodymyr Zelenskyy in the House of Commons on Parliament Hill in Ottawa on Friday, Sept\u2026 [+5479 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Katie Kilkenny",
-            "title": "Writers Strike Ends: Union Leaders Vote to Conclude 2023 Work Stoppage - Hollywood Reporter",
-            "description": "At 148 days, the 2023 strike was the second longest in the union's history, behind only a labor action in 1988.",
-            "url": "https://www.hollywoodreporter.com/business/business-news/writers-guild-strike-end-1235600992/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/04/2023_03-WGA-03.jpg?w=1024",
-            "publishedAt": "2023-09-27T05:37:30Z",
-            "content": "A historic Hollywood labor battle will soon be over.\r\nThe 148-day writers\u2019 strike, the second longest in Writers Guild of America history, will conclude on 12:01 am PT Wednesday thanks to a vote from\u2026 [+3446 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Asteroid \u2018dust, debris\u2019 likely found as returned NASA space capsule opened - Al Jazeera English",
-            "description": "Dark powder, sand-sized particles found as lid opened on Osiris-REx space probe which collected samples from asteroid.",
-            "url": "https://www.aljazeera.com/news/2023/9/27/asteroid-dust-debris-likely-found-as-returned-nasa-space-capsule-opened",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/afp.com-20230924-PH-GTY-1687008696-highres-1695787252.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-09-27T04:19:12Z",
-            "content": "Scientists at the United States space agency NASA found black dust and debris when they opened the space capsule that recently returned to Earth with the largest asteroid sample ever brought back fro\u2026 [+3431 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Emily DeLetter",
-            "title": "Google's 25th birthday: Surprise Doodle and Easter eggs to look for - USA TODAY",
-            "description": "Some of Google's products, including search, hum to search and translate will have special Easter eggs marking its birthday.",
-            "url": "https://www.usatoday.com/story/news/2023/09/27/google-doodle-birthday-surprise-translate/70960063007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/25/USAT/70960632007-g-25-gle-logo-static-1920-x-1080-1.png?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
-            "publishedAt": "2023-09-27T04:03:45Z",
-            "content": "It's Google's 25th birthday, and the company is pulling out all the stops.\r\nFirst incorporated in 1998, Google turns a quarter of a century on Wednesday, and some of its products including search, hu\u2026 [+1466 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "Pressure piles on China Evergrande with report chairman under police surveillance - Reuters",
-            "description": "The chairman of China Evergrande Group <a href=\"https://www.reuters.com/markets/companies/3333.HK\" target=\"_blank\">(3333.HK)</a> has been placed under police surveillance, Bloomberg News reported on Wednesday, ratcheting up pressure on the embattled developer\u2026",
-            "url": "https://www.reuters.com/markets/asia/evergrande-shares-set-open-down-38-amid-uncertainty-over-debt-revamp-plan-2023-09-27/",
-            "urlToImage": "https://www.reuters.com/resizer/dte4gNU-SaMKpvOMFQbCZ0H1PJM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4TOLKN5SMJJMTL4NYCBAPZ63XE.jpg",
-            "publishedAt": "2023-09-27T04:02:27Z",
-            "content": "HONG KONG, Sept 27 (Reuters) - The chairman of China Evergrande Group (3333.HK) has been placed under police surveillance, Bloomberg News reported on Wednesday, ratcheting up pressure on the embattle\u2026 [+1763 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Ali Bauman",
-            "title": "Husband of New York City day care owner arrested in child's fentanyl death - CBS New York",
-            "description": "Felix Herrera-Garcia was picked up Tuesday in Mexico. DEA and Mexican authorities were involved, sources said.",
-            "url": "https://www.cbsnews.com/newyork/news/sources-husband-of-nyc-day-care-owner-arrested-in-childs-fentanyl-death/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/26/71314a75-d7a0-4474-8a98-0efaaa42ffe6/thumbnail/1200x630/3129a237d1d4f74fb78087e2d4a2d25c/husband-arrested.jpg?v=cc1d20369924eaddf626a3a17b75fcb0",
-            "publishedAt": "2023-09-27T03:31:00Z",
-            "content": "NEW YORK -- There has been another arrest in the fentanyl-related death of a baby at a Bronx day care.\r\nA fourth person was in custody Tuesday after being on the run for a week and a half.\r\nCBS New Y\u2026 [+2270 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Tony D & Stacks host a dinner for their enemies: NXT highlights, Sept. 26, 2023 - WWE",
-            "description": "The NXT Tag Team Champions welcome their potential challengers to sit down at their favorite restaurant to discuss the future of the division. Catch WWE acti...",
-            "url": "https://www.youtube.com/watch?v=-6x5OxSHyto",
-            "urlToImage": "https://i.ytimg.com/vi/-6x5OxSHyto/maxresdefault.jpg",
-            "publishedAt": "2023-09-27T03:12:19Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WPVI-TV"
-            },
-            "author": null,
-            "title": "MLB Wild Card: Philadelphia Phillies clinch playoff berth with win over Pittsburgh Pirates - WPVI-TV",
-            "description": "The Philadelphia Phillies have clinched a playoff berth on Tuesday night.",
-            "url": "https://6abc.com/philadelphia-phillies-clinch-playoff-wild-card-mlb-magic-number/13832495/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/13832808_0926233-wpvi-harper-clinch.jpg?w=1600",
-            "publishedAt": "2023-09-27T03:11:15Z",
-            "content": "PHILADELPHIA (WPVI) -- Bryce Harper extended his arms as wide as they could stretch and waited for his jubilant Phillies teammates to sock him in the midsection with bottles of bubbly that had been t\u2026 [+6062 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Elizabeth Elkind",
-            "title": "House finally passes key spending hurdle after week of GOP infighting - Fox News",
-            "description": "The House finally advanced several spending bills on Tuesday night after a week of chaos among the GOP majority.",
-            "url": "https://www.foxnews.com/politics/house-finally-passes-key-spending-hurdle-after-week-gop-infighting",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/GettyImages-1690492975.jpg",
-            "publishedAt": "2023-09-27T02:38:00Z",
-            "content": "House Republicans passed a procedural hurdle on government funding on Tuesday night after a week of disarray that saw multiple planned votes scuttled.\u00a0\r\nLawmakers voted 216 to 212 late Wednesday to a\u2026 [+3542 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Scott Polacek",
-            "title": "Jets Rumors: Robert Saleh's Zach Wilson Support Has Defense 'Not Happy' - Bleacher Report",
-            "description": "This is not how the 2023 campaign was supposed to go for the New York Jets. They were likely a quarterback away from competing last season with a dominant\u2026",
-            "url": "https://bleacherreport.com/articles/10091081-jets-rumors-robert-salehs-zach-wilson-support-has-defense-not-happy",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1695780810/vsxkeorrpntxiasq9vgc.jpg",
-            "publishedAt": "2023-09-27T02:18:03Z",
-            "content": "Sarah Stier/Getty Images\r\nThis is not how the 2023 campaign was supposed to go for the New York Jets.\r\nThey were likely a quarterback away from competing last season with a dominant defense and a tal\u2026 [+2207 chars]"
+            "author": "Michael Wayland",
+            "title": "UAW leader condemns Trump ahead of Michigan visit during union strike - CNBC",
+            "description": "UAW President Shawn Fain criticized Trump's track record with unions as well as his Wednesday visit being at a nonunion company called Drake Enterprises.",
+            "url": "https://www.cnbc.com/2023/09/27/uaw-leader-condemns-trump-ahead-of-michigan-visit-during-union-strike.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107306849-1695748610805-gettyimages-1690348069-AFP_33WQ8MD.jpeg?v=1695837145&w=1920&h=1080",
+            "publishedAt": "2023-09-27T17:52:25Z",
+            "content": "United Auto Workers (UAW) President, Shawn Fain addresses picketing UAW members at a General Motors Service Parts Operations plant in Belleville, Michigan, on September 26, 2023, as US President Joe \u2026 [+6239 chars]"
         }
     ]
 }
